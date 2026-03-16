@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tool-001",
+    "name": "Cursor",
+    "description": "AI-first code editor built on VS Code with deep GPT-4 and Claude integration for pair programming, code generation, and refactoring.",
+    "category": "Developer Tools",
+    "website": "https://cursor.sh",
+    "tags": ["coding", "IDE", "developer"],
+    "features": ["AI pair programming", "Codebase-aware completions", "Natural language edits"],
+    "pricing": "Freemium",
+    "upvotes": 4820,
+    "trending": true
+  },
+  {
+    "id": "tool-002",
+    "name": "Perplexity AI",
+    "description": "AI-powered search engine that provides sourced, real-time answers instead of a list of links.",
+    "category": "Search & Research",
+    "website": "https://perplexity.ai",
+    "tags": ["search", "research", "LLM"],
+    "features": ["Real-time web search", "Source citations", "Follow-up questions"],
+    "pricing": "Freemium",
+    "upvotes": 6210,
+    "trending": true
+  },
+  {
+    "id": "tool-003",
+    "name": "Runway ML",
+    "description": "Professional AI video generation and editing platform used by filmmakers and content creators.",
+    "category": "Video & Creative",
+    "website": "https://runwayml.com",
+    "tags": ["video", "creative", "generative"],
+    "features": ["Text-to-video", "Background removal", "Motion brush"],
+    "pricing": "Paid",
+    "upvotes": 3890,
+    "trending": false
+  },
+  {
+    "id": "tool-004",
+    "name": "ElevenLabs",
+    "description": "State-of-the-art AI voice synthesis platform with ultra-realistic cloning and multilingual support.",
+    "category": "Audio & Voice",
+    "website": "https://elevenlabs.io",
+    "tags": ["voice", "TTS", "audio"],
+    "features": ["Voice cloning", "30+ languages", "Real-time API"],
+    "pricing": "Freemium",
+    "upvotes": 5100,
+    "trending": true
+  },
+  {
+    "id": "tool-005",
+    "name": "Midjourney",
+    "description": "Widely used AI image generation system known for its distinctive artistic style and high-quality outputs.",
+    "category": "Image Generation",
+    "website": "https://midjourney.com",
+    "tags": ["image-gen", "creative", "art"],
+    "features": ["High-quality image generation", "Style control", "Upscaling"],
+    "pricing": "Paid",
+    "upvotes": 8900,
+    "trending": false
+  },
+  {
+    "id": "tool-006",
+    "name": "Dify",
+    "description": "Open-source LLM app development platform for building AI workflows, chatbots, and agents.",
+    "category": "AI Development",
+    "website": "https://dify.ai",
+    "tags": ["LLM", "workflow", "open-source"],
+    "features": ["Visual workflow builder", "Multi-model support", "One-click deploy"],
+    "pricing": "Open Source",
+    "upvotes": 2740,
+    "trending": true
+  }
+]
