@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Pulse — Latest in Artificial Intelligence</title>
+  <meta name="description" content="Your daily feed of AI news, tools, and research. Updated automatically every day.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@300;400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #07080d;
+      --bg2: #0d0f18;
+      --bg3: #131621;
+      --border: rgba(255,255,255,0.07);
+      --text: #e8eaf0;
+      --text2: #8b90a8;
+      --text3: #555a72;
+      --accent: #5b8df5;
+      --accent2: #a78bfa;
+      --accent3: #34d399;
+      --accent4: #f59e0b;
+      --accent5: #f472b6;
+      --glow: rgba(91,141,245,0.15);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Noise overlay ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.025'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+      opacity: 0.4;
+    }
+
+    /* ── Ambient glow ── */
+    .ambient {
+      position: fixed;
+      border-radius: 50%;
+      filter: blur(120px);
+      pointer-events: none;
+      z-index: 0;
+    }
+    .ambient-1 {
+      width: 600px; height: 600px;
+      background: radial-gradient(circle, rgba(91,141,245,0.06) 0%, transparent 70%);
+      top: -200px; left: -200px;
+    }
+    .ambient-2 {
+      width: 500px; height: 500px;
+      background: radial-gradient(circle, rgba(167,139,250,0.05) 0%, transparent 70%);
+      bottom: 0; right: 0;
+    }
+
+    /* ── Layout ── */
+    #app { position: relative; z-index: 1; }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(7,8,13,0.85);
+      backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+    }
+
+    .header-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      height: 60px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+
+    .logo-mark {
+      width: 32px; height: 32px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    .logo-text {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 18px;
+      color: var(--text);
+      letter-spacing: -0.5px;
+    }
+
+    .logo-text span { color: var(--accent); }
+
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex: 1;
+    }
+
+    .nav-btn {
+      background: none;
+      border: none;
+      color: var(--text2);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .nav-btn:hover { color: var(--text); background: rgba(255,255,255,0.05); }
+    .nav-btn.active { color: var(--accent); background: rgba(91,141,245,0.1); }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-left: auto;
+      flex-shrink: 0;
+    }
+
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--accent3);
+      background: rgba(52,211,153,0.1);
+      border: 1px solid rgba(52,211,153,0.2);
+      padding: 4px 10px;
+      border-radius: 20px;
+    }
+
+    .live-dot {
+      width: 6px; height: 6px;
+      background: var(--accent3);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* ── Main layout ── */
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    /* ── Pages ── */
+    .page { display: none; animation: fadeIn 0.3s ease; }
+    .page.active { display: block; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Section headers ── */
+    .section-header {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      color: var(--text);
+      letter-spacing: -0.5px;
+    }
+
+    .section-count {
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--text3);
+    }
+
+    .section-link {
+      margin-left: auto;
+      font-size: 13px;
+      color: var(--accent);
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .section-link:hover { text-decoration: underline; }
+
+    /* ── Home grid ── */
+    .home-grid {
+      display: grid;
+      grid-template-columns: 1fr 320px;
+      gap: 32px;
+    }
+
+    @media (max-width: 960px) {
+      .home-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ── Digest card ── */
+    .digest-card {
+      background: linear-gradient(135deg, rgba(91,141,245,0.08) 0%, rgba(167,139,250,0.06) 100%);
+      border: 1px solid rgba(91,141,245,0.2);
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 32px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .digest-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+    }
+
+    .digest-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    .digest-headline {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: var(--text);
+      margin-bottom: 10px;
+      letter-spacing: -0.3px;
+    }
+
+    .digest-story {
+      color: var(--text2);
+      font-size: 14px;
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+
+    .digest-highlights {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .digest-highlight {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 12px;
+      color: var(--text2);
+    }
+
+    .digest-highlight .hi-icon {
+      width: 18px; height: 18px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      flex-shrink: 0;
+    }
+
+    /* ── Article cards ── */
+    .articles-grid { display: flex; flex-direction: column; gap: 16px; }
+
+    .article-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      transition: all 0.2s;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .article-card:hover {
+      border-color: rgba(91,141,245,0.3);
+      background: var(--bg3);
+      transform: translateX(2px);
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .cat-badge {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    .source-name {
+      font-size: 12px;
+      color: var(--text3);
+    }
+
+    .article-date {
+      margin-left: auto;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--text3);
+    }
+
+    .article-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      color: var(--text);
+      margin-bottom: 8px;
+      letter-spacing: -0.2px;
+      line-height: 1.4;
+    }
+
+    .article-summary {
+      font-size: 14px;
+      color: var(--text2);
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-tags { display: flex; gap: 6px; flex-wrap: wrap; flex: 1; }
+
+    .tag {
+      font-size: 11px;
+      color: var(--text3);
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    .read-link {
+      font-size: 12px;
+      color: var(--accent);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex-shrink: 0;
+    }
+
+    .read-link:hover { text-decoration: underline; }
+
+    /* ── Bullets expand ── */
+    .article-bullets {
+      display: none;
+      margin: 12px 0;
+      padding: 12px;
+      background: rgba(91,141,245,0.05);
+      border-radius: 8px;
+      border-left: 2px solid var(--accent);
+    }
+
+    .article-card.expanded .article-bullets { display: block; }
+    .article-card.expanded .article-summary { -webkit-line-clamp: unset; }
+
+    .bullet-item {
+      display: flex;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--text2);
+      margin-bottom: 6px;
+    }
+
+    .bullet-item:last-child { margin-bottom: 0; }
+    .bullet-dot { color: var(--accent); flex-shrink: 0; margin-top: 2px; }
+
+    .why-matters {
+      margin-top: 10px;
+      padding: 10px;
+      background: rgba(52,211,153,0.05);
+      border-radius: 6px;
+      font-size: 13px;
+      color: var(--text2);
+    }
+
+    .why-matters strong { color: var(--accent3); }
+
+    /* ── Sidebar ── */
+    .sidebar { display: flex; flex-direction: column; gap: 24px; }
+
+    .sidebar-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .sidebar-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      color: var(--text);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ── Tool cards (sidebar) ── */
+    .tool-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+    }
+
+    .tool-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .tool-item:first-child { padding-top: 0; }
+
+    .tool-icon {
+      width: 36px; height: 36px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, var(--bg3), var(--border));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+      border: 1px solid var(--border);
+    }
+
+    .tool-info { flex: 1; min-width: 0; }
+
+    .tool-name {
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .tool-desc {
+      font-size: 12px;
+      color: var(--text2);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .tool-cat {
+      font-size: 10px;
+      font-family: 'DM Mono', monospace;
+      color: var(--text3);
+      margin-top: 2px;
+    }
+
+    /* ── GitHub trending (sidebar) ── */
+    .gh-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .gh-item:last-child { border-bottom: none; }
+    .gh-item:first-child { padding-top: 0; }
+
+    .gh-name {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--accent);
+      text-decoration: none;
+      flex: 1;
+      min-width: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .gh-stars {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--text3);
+      flex-shrink: 0;
+    }
+
+    /* ── Category filter ── */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+
+    .filter-btn {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      color: var(--text2);
+      font-size: 13px;
+      font-family: 'DM Sans', sans-serif;
+      padding: 6px 14px;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .filter-btn:hover { border-color: rgba(255,255,255,0.2); color: var(--text); }
+    .filter-btn.active {
+      background: rgba(91,141,245,0.1);
+      border-color: rgba(91,141,245,0.4);
+      color: var(--accent);
+    }
+
+    /* ── Tools page grid ── */
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .tool-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .tool-card:hover {
+      border-color: rgba(91,141,245,0.3);
+      transform: translateY(-2px);
+    }
+
+    .tool-card-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .tool-card-icon {
+      width: 48px; height: 48px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, rgba(91,141,245,0.15), rgba(167,139,250,0.1));
+      border: 1px solid rgba(91,141,245,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      flex-shrink: 0;
+    }
+
+    .tool-card-name {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      color: var(--text);
+    }
+
+    .tool-card-pricing {
+      font-size: 11px;
+      font-family: 'DM Mono', monospace;
+      color: var(--text3);
+      margin-top: 2px;
+    }
+
+    .tool-card-desc {
+      font-size: 13px;
+      color: var(--text2);
+      line-height: 1.6;
+      margin-bottom: 14px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .tool-card-features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+
+    .feature-tag {
+      font-size: 11px;
+      color: var(--text2);
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    .tool-card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    .tool-upvotes {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 12px;
+      color: var(--text3);
+      font-family: 'DM Mono', monospace;
+    }
+
+    .visit-btn {
+      background: rgba(91,141,245,0.1);
+      border: 1px solid rgba(91,141,245,0.3);
+      color: var(--accent);
+      font-size: 12px;
+      font-family: 'DM Sans', sans-serif;
+      padding: 5px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+
+    .visit-btn:hover {
+      background: rgba(91,141,245,0.2);
+    }
+
+    /* ── Trending page ── */
+    .trending-two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+    }
+
+    @media (max-width: 768px) {
+      .trending-two-col { grid-template-columns: 1fr; }
+    }
+
+    .gh-repo-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      margin-bottom: 10px;
+      transition: all 0.2s;
+    }
+
+    .gh-repo-card:hover { border-color: rgba(91,141,245,0.3); }
+
+    .gh-repo-name {
+      font-weight: 600;
+      font-size: 14px;
+      color: var(--accent);
+      text-decoration: none;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .gh-repo-desc {
+      font-size: 12px;
+      color: var(--text2);
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    .gh-repo-meta {
+      display: flex;
+      gap: 14px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--text3);
+    }
+
+    .hn-story {
+      display: flex;
+      gap: 14px;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .hn-story:last-child { border-bottom: none; }
+
+    .hn-rank {
+      font-family: 'DM Mono', monospace;
+      font-size: 20px;
+      font-weight: 300;
+      color: var(--text3);
+      width: 28px;
+      flex-shrink: 0;
+      padding-top: 2px;
+    }
+
+    .hn-title {
+      font-weight: 500;
+      font-size: 14px;
+      color: var(--text);
+      margin-bottom: 4px;
+      line-height: 1.4;
+    }
+
+    .hn-meta {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--text3);
+      display: flex;
+      gap: 10px;
+    }
+
+    /* ── Submit page ── */
+    .submit-page {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .submit-hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .submit-hero h1 {
+      font-family: 'Syne', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      margin-bottom: 12px;
+      letter-spacing: -0.5px;
+    }
+
+    .submit-hero p { color: var(--text2); font-size: 15px; }
+
+    .submit-form {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+    }
+
+    .form-group { margin-bottom: 20px; }
+
+    .form-label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text2);
+      margin-bottom: 8px;
+    }
+
+    .form-input, .form-select, .form-textarea {
+      width: 100%;
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14px;
+      padding: 10px 14px;
+      border-radius: 8px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .form-input:focus, .form-select:focus, .form-textarea:focus {
+      border-color: rgba(91,141,245,0.5);
+    }
+
+    .form-textarea { resize: vertical; min-height: 100px; }
+
+    .form-select option { background: var(--bg3); }
+
+    .submit-btn {
+      width: 100%;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border: none;
+      color: white;
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      padding: 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      letter-spacing: 0.2px;
+      transition: opacity 0.15s;
+    }
+
+    .submit-btn:hover { opacity: 0.9; }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    @media (max-width: 640px) {
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    .stat-item {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      text-align: center;
+    }
+
+    .stat-num {
+      font-family: 'Syne', sans-serif;
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--accent);
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--text3);
+      font-family: 'DM Mono', monospace;
+      margin-top: 4px;
+    }
+
+    /* ── Category colors ── */
+    .cat-ai-models    { background: rgba(99,102,241,0.15); color: #818cf8; }
+    .cat-ai-tools     { background: rgba(6,182,212,0.15); color: #22d3ee; }
+    .cat-research     { background: rgba(16,185,129,0.15); color: #34d399; }
+    .cat-robotics     { background: rgba(245,158,11,0.15); color: #fbbf24; }
+    .cat-ai-startups  { background: rgba(244,114,182,0.15); color: #f472b6; }
+    .cat-ai-policy    { background: rgba(139,92,246,0.15); color: #a78bfa; }
+
+    /* ── Loading state ── */
+    .loading {
+      text-align: center;
+      padding: 48px 0;
+      color: var(--text3);
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+    }
+
+    .spinner {
+      width: 32px; height: 32px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--text3);
+      font-family: 'DM Mono', monospace;
+    }
+
+    footer a { color: var(--text2); text-decoration: none; }
+    footer a:hover { color: var(--accent); }
+
+    /* ── Mobile nav ── */
+    @media (max-width: 768px) {
+      .nav-btn { padding: 6px 10px; font-size: 13px; }
+      .live-badge { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="ambient ambient-1"></div>
+<div class="ambient ambient-2"></div>
+
+<div id="app">
+  <header>
+    <div class="header-inner">
+      <a class="logo" onclick="navigate('home')">
+        <div class="logo-mark">⚡</div>
+        <div class="logo-text">AI<span>Pulse</span></div>
+      </a>
+      <nav>
+        <button class="nav-btn active" data-page="home" onclick="navigate('home')">Home</button>
+        <button class="nav-btn" data-page="news" onclick="navigate('news')">AI News</button>
+        <button class="nav-btn" data-page="tools" onclick="navigate('tools')">AI Tools</button>
+        <button class="nav-btn" data-page="trending" onclick="navigate('trending')">Trending</button>
+        <button class="nav-btn" data-page="submit" onclick="navigate('submit')">Submit Tool</button>
+      </nav>
+      <div class="header-right">
+        <div class="live-badge">
+          <div class="live-dot"></div>
+          LIVE FEED
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ═══════════════════════════════ HOME ═══════════════════════════════ -->
+    <div class="page active" id="page-home">
+      <div id="stats-bar" class="stats-bar"></div>
+
+      <div class="home-grid">
+        <div>
+          <div id="digest-section"></div>
+
+          <div class="section-header">
+            <span class="section-title">Latest AI News</span>
+            <span class="section-count" id="articles-count"></span>
+            <span class="section-link" onclick="navigate('news')">View all →</span>
+          </div>
+          <div class="articles-grid" id="home-articles"></div>
+        </div>
+
+        <div class="sidebar">
+          <div class="sidebar-card" id="trending-tools-sidebar"></div>
+          <div class="sidebar-card" id="github-sidebar"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════ NEWS ═══════════════════════════════ -->
+    <div class="page" id="page-news">
+      <div class="section-header">
+        <span class="section-title">AI News Feed</span>
+        <span class="section-count" id="news-count"></span>
+      </div>
+      <div class="filter-bar" id="news-filters"></div>
+      <div class="articles-grid" id="news-articles"></div>
+    </div>
+
+    <!-- ═══════════════════════════════ TOOLS ════════════════════════════════ -->
+    <div class="page" id="page-tools">
+      <div class="section-header">
+        <span class="section-title">AI Tools Directory</span>
+        <span class="section-count" id="tools-count"></span>
+      </div>
+      <div class="filter-bar" id="tools-filters"></div>
+      <div class="tools-grid" id="tools-grid"></div>
+    </div>
+
+    <!-- ═══════════════════════════════ TRENDING ══════════════════════════════ -->
+    <div class="page" id="page-trending">
+      <div class="section-header">
+        <span class="section-title">Trending in AI</span>
+      </div>
+      <div class="trending-two-col">
+        <div>
+          <div class="section-header">
+            <span class="section-title" style="font-size:17px;">🔥 Hacker News</span>
+          </div>
+          <div id="hn-stories"></div>
+        </div>
+        <div>
+          <div class="section-header">
+            <span class="section-title" style="font-size:17px;">⭐ GitHub Trending</span>
+          </div>
+          <div id="gh-repos"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════ SUBMIT ════════════════════════════════ -->
+    <div class="page" id="page-submit">
+      <div class="submit-page">
+        <div class="submit-hero">
+          <h1>Submit an AI Tool</h1>
+          <p>Know a great AI tool? Share it with the community and get it featured on AI Pulse.</p>
+        </div>
+        <div class="submit-form">
+          <div class="form-group">
+            <label class="form-label">Tool Name *</label>
+            <input class="form-input" type="text" placeholder="e.g. Cursor, Perplexity AI">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Website URL *</label>
+            <input class="form-input" type="url" placeholder="https://example.com">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Category *</label>
+            <select class="form-select">
+              <option value="">Select a category</option>
+              <option>Developer Tools</option>
+              <option>Image Generation</option>
+              <option>Video & Creative</option>
+              <option>Audio & Voice</option>
+              <option>Search & Research</option>
+              <option>AI Development</option>
+              <option>Writing & Content</option>
+              <option>Productivity</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Description *</label>
+            <textarea class="form-textarea" placeholder="Describe what this tool does and who it's for..."></textarea>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Your GitHub Username (optional)</label>
+            <input class="form-input" type="text" placeholder="@username">
+          </div>
+          <button class="submit-btn" onclick="handleSubmit()">Submit Tool →</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>
+      Built with ⚡ &nbsp;·&nbsp; 
+      <a href="#">GitHub</a> &nbsp;·&nbsp;
+      Updated daily via GitHub Actions &nbsp;·&nbsp;
+      Data from OpenAI, DeepMind, Anthropic, HN, GitHub
+    </p>
+  </footer>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════
+// State & Data
+// ═══════════════════════════════════════════════════════════
+const state = {
+  articles: [],
+  tools: [],
+  digest: null,
+  hnStories: [],
+  ghRepos: [],
+  categories: [],
+  activeNewsFilter: 'all',
+  activeToolsFilter: 'all',
+};
+
+const CAT_CLASSES = {
+  'AI Models':    'cat-ai-models',
+  'AI Tools':     'cat-ai-tools',
+  'Research':     'cat-research',
+  'Robotics':     'cat-robotics',
+  'AI Startups':  'cat-ai-startups',
+  'AI Policy':    'cat-ai-policy',
+};
+
+const CAT_ICONS = {
+  'AI Models': '🧠', 'AI Tools': '🛠️', 'Research': '🔬',
+  'Robotics': '🤖', 'AI Startups': '🚀', 'AI Policy': '⚖️',
+};
+
+const TOOL_ICONS = {
+  'Developer Tools': '💻', 'Image Generation': '🎨', 'Video & Creative': '🎬',
+  'Audio & Voice': '🎙️', 'Search & Research': '🔍', 'AI Development': '⚙️',
+  'Writing & Content': '✍️', 'Productivity': '📊', 'Other': '🔮',
+};
+
+const HI_COLORS = {
+  model: '#818cf8', tool: '#22d3ee', research: '#34d399',
+  policy: '#a78bfa', 'open-source': '#fbbf24',
+};
+
+// ═══════════════════════════════════════════════════════════
+// Data Loading
+// ═══════════════════════════════════════════════════════════
+async function loadJSON(path) {
+  try {
+    const r = await fetch(path + '?t=' + Date.now());
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
+
+async function loadAllData() {
+  const [articles, tools, digest, hn, gh, cats] = await Promise.all([
+    loadJSON('data/articles.json'),
+    loadJSON('data/tools.json'),
+    loadJSON('data/digest.json'),
+    loadJSON('data/hn_stories.json'),
+    loadJSON('data/github_trending.json'),
+    loadJSON('data/categories.json'),
+  ]);
+
+  state.articles   = articles  || getFallbackArticles();
+  state.tools      = tools     || getFallbackTools();
+  state.digest     = digest    || getFallbackDigest();
+  state.hnStories  = hn        || [];
+  state.ghRepos    = gh        || [];
+  state.categories = cats      || [];
+
+  renderAll();
+}
+
+// ═══════════════════════════════════════════════════════════
+// Navigation
+// ═══════════════════════════════════════════════════════════
+function navigate(page) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.page === page);
+  });
+  document.getElementById('page-' + page).classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Stats bar
+// ═══════════════════════════════════════════════════════════
+function renderStats() {
+  const stats = [
+    { num: state.articles.length, label: 'Articles' },
+    { num: state.tools.length, label: 'AI Tools' },
+    { num: state.ghRepos.length || '50+', label: 'GitHub Repos' },
+    { num: state.hnStories.length || '20+', label: 'HN Stories' },
+  ];
+
+  document.getElementById('stats-bar').innerHTML = stats.map(s => `
+    <div class="stat-item">
+      <div class="stat-num">${s.num}</div>
+      <div class="stat-label">${s.label}</div>
+    </div>
+  `).join('');
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Digest
+// ═══════════════════════════════════════════════════════════
+function renderDigest() {
+  const d = state.digest;
+  if (!d) return;
+
+  const highlights = (d.highlights || []).map(h => {
+    const color = HI_COLORS[h.type] || '#8b90a8';
+    return `
+      <div class="digest-highlight">
+        <div class="hi-icon" style="background:${color}22; color:${color}">
+          ${{ model:'🧠', tool:'🛠️', research:'🔬', policy:'⚖️', 'open-source':'📖' }[h.type] || '•'}
+        </div>
+        ${h.text}
+      </div>`;
+  }).join('');
+
+  document.getElementById('digest-section').innerHTML = `
+    <div class="digest-card">
+      <div class="digest-label">📰 Daily Digest · ${formatDate(d.date)}</div>
+      <div class="digest-headline">${d.headline}</div>
+      <div class="digest-story">${d.top_story}</div>
+      <div class="digest-highlights">${highlights}</div>
+    </div>
+  `;
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Article card
+// ═══════════════════════════════════════════════════════════
+function articleCard(a) {
+  const catClass = CAT_CLASSES[a.category] || 'cat-ai-tools';
+  const tags = (a.tags || []).slice(0, 3).map(t => `<span class="tag">#${t}</span>`).join('');
+  const bullets = (a.bullets || []).map(b => `
+    <div class="bullet-item">
+      <span class="bullet-dot">▸</span>
+      <span>${b}</span>
+    </div>`).join('');
+
+  const whyHtml = a.why_it_matters ? `
+    <div class="why-matters">
+      <strong>Why it matters: </strong>${a.why_it_matters}
+    </div>` : '';
+
+  return `
+    <div class="article-card" onclick="toggleArticle(this)">
+      <div class="article-meta">
+        <span class="cat-badge ${catClass}">${a.category}</span>
+        <span class="source-name">${a.source}</span>
+        <span class="article-date">${formatDate(a.published_date)}</span>
+      </div>
+      <div class="article-title">${a.title}</div>
+      <div class="article-summary">${a.summary}</div>
+      <div class="article-bullets">
+        ${bullets}
+        ${whyHtml}
+      </div>
+      <div class="article-footer">
+        <div class="article-tags">${tags}</div>
+        <a class="read-link" href="${a.url}" target="_blank" onclick="event.stopPropagation()">Read →</a>
+      </div>
+    </div>`;
+}
+
+function toggleArticle(card) {
+  card.classList.toggle('expanded');
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Home articles
+// ═══════════════════════════════════════════════════════════
+function renderHomeArticles() {
+  const recent = state.articles.slice(0, 6);
+  document.getElementById('home-articles').innerHTML = recent.map(articleCard).join('');
+  document.getElementById('articles-count').textContent = `${state.articles.length} total`;
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Sidebar – trending tools
+// ═══════════════════════════════════════════════════════════
+function renderTrendingToolsSidebar() {
+  const trending = state.tools.filter(t => t.trending).slice(0, 4);
+  if (!trending.length) return;
+
+  const items = trending.map(t => `
+    <div class="tool-item" onclick="navigate('tools')">
+      <div class="tool-icon">${TOOL_ICONS[t.category] || '🔮'}</div>
+      <div class="tool-info">
+        <div class="tool-name">${t.name}</div>
+        <div class="tool-desc">${t.description}</div>
+        <div class="tool-cat">${t.category} · ${t.pricing}</div>
+      </div>
+    </div>`).join('');
+
+  document.getElementById('trending-tools-sidebar').innerHTML = `
+    <div class="sidebar-title">🔥 Trending Tools</div>
+    ${items}
+  `;
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Sidebar – GitHub
+// ═══════════════════════════════════════════════════════════
+function renderGithubSidebar() {
+  const repos = state.ghRepos.slice(0, 5);
+  if (!repos.length) {
+    document.getElementById('github-sidebar').innerHTML = `
+      <div class="sidebar-title">⭐ GitHub Trending</div>
+      <div style="font-size:12px;color:var(--text3);padding:8px 0">
+        GitHub data loaded daily via Actions.<br>Run the pipeline to populate.
+      </div>`;
+    return;
+  }
+
+  const items = repos.map(r => `
+    <div class="gh-item">
+      <a class="gh-name" href="${r.url}" target="_blank">${r.name}</a>
+      <span class="gh-stars">⭐ ${r.stars.toLocaleString()}</span>
+    </div>`).join('');
+
+  document.getElementById('github-sidebar').innerHTML = `
+    <div class="sidebar-title">⭐ GitHub Trending</div>
+    ${items}
+  `;
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: News page
+// ═══════════════════════════════════════════════════════════
+function renderNewsPage() {
+  const cats = ['all', ...new Set(state.articles.map(a => a.category))];
+  document.getElementById('news-filters').innerHTML = cats.map(c => `
+    <button class="filter-btn ${c === state.activeNewsFilter ? 'active' : ''}"
+            onclick="filterNews('${c}')">
+      ${c === 'all' ? '✦ All' : (CAT_ICONS[c] || '') + ' ' + c}
+    </button>`).join('');
+
+  const filtered = state.activeNewsFilter === 'all'
+    ? state.articles
+    : state.articles.filter(a => a.category === state.activeNewsFilter);
+
+  document.getElementById('news-count').textContent = `${filtered.length} articles`;
+  document.getElementById('news-articles').innerHTML = filtered.map(articleCard).join('');
+}
+
+function filterNews(cat) {
+  state.activeNewsFilter = cat;
+  renderNewsPage();
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Tools page
+// ═══════════════════════════════════════════════════════════
+function renderToolsPage() {
+  const cats = ['all', ...new Set(state.tools.map(t => t.category))];
+  document.getElementById('tools-filters').innerHTML = cats.map(c => `
+    <button class="filter-btn ${c === state.activeToolsFilter ? 'active' : ''}"
+            onclick="filterTools('${c}')">
+      ${c === 'all' ? '✦ All' : (TOOL_ICONS[c] || '🔮') + ' ' + c}
+    </button>`).join('');
+
+  const filtered = state.activeToolsFilter === 'all'
+    ? state.tools
+    : state.tools.filter(t => t.category === state.activeToolsFilter);
+
+  document.getElementById('tools-count').textContent = `${filtered.length} tools`;
+
+  document.getElementById('tools-grid').innerHTML = filtered.map(t => {
+    const features = (t.features || []).slice(0, 3).map(f => `<span class="feature-tag">${f}</span>`).join('');
+    return `
+      <div class="tool-card">
+        <div class="tool-card-header">
+          <div class="tool-card-icon">${TOOL_ICONS[t.category] || '🔮'}</div>
+          <div>
+            <div class="tool-card-name">${t.name}</div>
+            <div class="tool-card-pricing">${t.pricing} · ${t.category}</div>
+          </div>
+        </div>
+        <div class="tool-card-desc">${t.description}</div>
+        <div class="tool-card-features">${features}</div>
+        <div class="tool-card-footer">
+          <div class="tool-upvotes">▲ ${(t.upvotes || 0).toLocaleString()}</div>
+          <a class="visit-btn" href="${t.website}" target="_blank">Visit →</a>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function filterTools(cat) {
+  state.activeToolsFilter = cat;
+  renderToolsPage();
+}
+
+// ═══════════════════════════════════════════════════════════
+// Render: Trending page
+// ═══════════════════════════════════════════════════════════
+function renderTrendingPage() {
+  // HN Stories
+  if (state.hnStories.length) {
+    document.getElementById('hn-stories').innerHTML = state.hnStories.slice(0, 10).map((s, i) => `
+      <div class="hn-story">
+        <div class="hn-rank">${String(i + 1).padStart(2, '0')}</div>
+        <div>
+          <div class="hn-title">${s.title}</div>
+          <div class="hn-meta">
+            <span>▲ ${s.points}</span>
+            <span>💬 ${s.comments}</span>
+            <a href="${s.url}" target="_blank" style="color:var(--accent)">Read →</a>
+          </div>
+        </div>
+      </div>`).join('');
+  } else {
+    document.getElementById('hn-stories').innerHTML = `
+      <div style="color:var(--text3);font-size:13px;font-family:'DM Mono',monospace;padding:16px 0">
+        HN data is fetched daily by GitHub Actions.<br>Run the pipeline to populate this section.
+      </div>`;
+  }
+
+  // GitHub repos
+  if (state.ghRepos.length) {
+    document.getElementById('gh-repos').innerHTML = state.ghRepos.slice(0, 8).map(r => `
+      <div class="gh-repo-card">
+        <a class="gh-repo-name" href="${r.url}" target="_blank">${r.name}</a>
+        <div class="gh-repo-desc">${r.description || 'No description'}</div>
+        <div class="gh-repo-meta">
+          <span>⭐ ${r.stars.toLocaleString()}</span>
+          ${r.language ? `<span>· ${r.language}</span>` : ''}
+        </div>
+      </div>`).join('');
+  } else {
+    document.getElementById('gh-repos').innerHTML = `
+      <div style="color:var(--text3);font-size:13px;font-family:'DM Mono',monospace;padding:16px 0">
+        GitHub trending data is fetched daily.<br>Run the pipeline to populate this section.
+      </div>`;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// Submit handler
+// ═══════════════════════════════════════════════════════════
+function handleSubmit() {
+  alert('Thanks for submitting! In production, this would open a GitHub issue or send to a form backend. For GitHub Pages, link this to a GitHub Issues form or Netlify Forms.');
+}
+
+// ═══════════════════════════════════════════════════════════
+// Helpers
+// ═══════════════════════════════════════════════════════════
+function formatDate(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  } catch { return ''; }
+}
+
+function renderAll() {
+  renderStats();
+  renderDigest();
+  renderHomeArticles();
+  renderTrendingToolsSidebar();
+  renderGithubSidebar();
+  renderNewsPage();
+  renderToolsPage();
+  renderTrendingPage();
+}
+
+// ═══════════════════════════════════════════════════════════
+// Fallback data (used before pipeline runs)
+// ═══════════════════════════════════════════════════════════
+function getFallbackArticles() {
+  return [
+    {
+      id: 'f001', title: 'Welcome to AI Pulse',
+      summary: 'AI Pulse automatically collects and summarizes the latest AI news from top sources. The data pipeline runs daily via GitHub Actions.',
+      bullets: ['RSS feeds from 10+ AI blogs', 'AI-powered summarization', 'Auto-categorized and tagged'],
+      why_it_matters: 'Stay current with AI without information overload.',
+      source: 'AI Pulse', url: '#', tags: ['meta', 'welcome'],
+      category: 'AI Tools', published_date: new Date().toISOString()
+    }
+  ];
+}
+
+function getFallbackTools() {
+  return [
+    {
+      id: 'f001', name: 'ChatGPT', description: 'OpenAI\'s flagship conversational AI assistant.',
+      category: 'AI Development', website: 'https://chat.openai.com',
+      features: ['Conversation', 'Code generation', 'Analysis'],
+      pricing: 'Freemium', upvotes: 9999, trending: true,
+    }
+  ];
+}
+
+function getFallbackDigest() {
+  return {
+    date: new Date().toISOString().split('T')[0],
+    headline: 'AI Pulse is Live',
+    top_story: 'Welcome to AI Pulse! This daily digest will be populated automatically once the GitHub Actions data pipeline runs. Set up the repo and add your ANTHROPIC_API_KEY secret to get started.',
+    highlights: [
+      { type: 'tool', text: 'Run daily-pipeline workflow to fetch AI news' },
+      { type: 'model', text: 'AI summarization via Claude Haiku' },
+      { type: 'open-source', text: 'Deploy to GitHub Pages for free' },
+    ],
+    stat_of_the_day: 'AI Pulse updates automatically every day at 6 AM UTC.',
+  };
+}
+
+// ═══════════════════════════════════════════════════════════
+// Init
+// ═══════════════════════════════════════════════════════════
+loadAllData();
+</script>
+</body>
+</html>
