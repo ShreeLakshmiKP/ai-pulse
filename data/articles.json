@@ -1,5 +1,583 @@
 [
   {
+    "id": "rss-2df87f06",
+    "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+    "summary": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "The Gradient",
+    "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+    "tags": [
+      "alignment"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 18 Feb 2026 23:25:52 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-23963cac",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Feb 2026 16:01:38 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7edc0652",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/rakuten",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8a41e8fe",
+    "title": "Designing AI agents to resist prompt injection",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-03ca9f5d",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-cb77334e",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/wayfair",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-6895a2b0",
+    "title": "AGI Is Not Multimodal",
+    "summary": "\"In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.\" &#x2013;Terry Winograd The recent successes of generative AI models have convinced some that AGI is imminent.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "The Gradient",
+    "url": "https://thegradient.pub/agi-is-not-multimodal/",
+    "tags": [
+      "multimodal"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 04 Jun 2025 14:00:29 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-db7ff708",
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on be...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 13 Jan 2026 13:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-abaebc11",
+    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+    "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014 just describe \u2026",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 10 Mar 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d8da46af",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "tags": [
+      "LLM",
+      "safety"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-96e67819",
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/storage-buckets",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1d66f35f",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "tags": [
+      "open-source"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-46fc501d",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 03 Mar 2026 16:35:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4e89de79",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 26 Feb 2026 16:01:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e670024b",
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "tags": [
+      "funding"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 22 Jan 2026 14:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-253ec3a0",
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 19 Feb 2026 16:06:14 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-aeb248b6",
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 12 Mar 2026 22:23:34 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-bab5ed47",
+    "title": "How AI is helping improve heart health in rural Australia",
+    "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 12 Mar 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e4194e4e",
+    "title": "The Download: Early adopters cash in on China\u2019s OpenClaw craze, and US batteries slump",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Thu, 12 Mar 2026 13:02:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d4b70b90",
+    "title": "Ask a Techspert: How does AI understand my visual searches?",
+    "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 05 Mar 2026 18:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-44250886",
+    "title": "The latest AI news we announced in February",
+    "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 05 Mar 2026 16:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5acfb02d",
+    "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+    "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Sun, 15 Mar 2026 21:01:51 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-65445343",
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Sun, 15 Mar 2026 18:49:32 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-48324556",
+    "title": "Wiz investor unpacks Google\u2019s $32B acquisition",
+    "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 15 Mar 2026 15:30:33 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-23b7d3c1",
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "What is the Role of Mathematics in Modern Machine Learning? The past decade has witnessed a shift in how progress is made in machine learning.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "The Gradient",
+    "url": "https://thegradient.pub/shape-symmetry-structure/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Sat, 16 Nov 2024 16:46:15 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-698dff86",
+    "title": "US Army announces contract with Anduril worth up to $20B",
+    "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sat, 14 Mar 2026 20:47:47 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-10b7bdd6",
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "Introduction Imagine yourself a decade ago, jumping directly into the present shock of conversing naturally with an encyclopedic AI that crafts images, writes code, and debates philosophy.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "The Gradient",
+    "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Sat, 03 Aug 2024 17:00:43 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1bd5d5f6",
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "tags": [
+      "Claude",
+      "agents",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Mon, 19 Jan 2026 14:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-10ec118d",
+    "title": "Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
+    "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Mon, 16 Mar 2026 00:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a102a18a",
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users \u2014 and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "tags": [
+      "Claude",
+      "agents",
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Mon, 12 Jan 2026 11:30:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-cae17904",
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM-based chatbots&#x2019; capabilities have been advancing every month. These improvements are mostly measured by benchmarks like MMLU, HumanEval, and MATH (e.g. sonnet 3.5, gpt-4o).",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "The Gradient",
+    "url": "https://thegradient.pub/dialog/",
+    "tags": [
+      "GPT",
+      "LLM",
+      "benchmark"
+    ],
+    "category": "AI Models",
+    "published_date": "Mon, 09 Sep 2024 17:28:48 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-e8100708",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Mon, 09 Mar 2026 18:36:33 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b80dc0e2",
+    "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+    "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/10-years-of-alphago/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 09 Mar 2026 13:52:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1ef0e397",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ulysses-sp",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-ca731494",
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 16 Jan 2026 14:01:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-693c010c",
+    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever\u2019s Generalizable Agentic Retrieval Pipeline",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+    "tags": [
+      "agents",
+      "NVIDIA"
+    ],
+    "category": "AI Tools",
+    "published_date": "Fri, 13 Mar 2026 20:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b8da9b79",
+    "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+    "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Fri, 13 Mar 2026 15:16:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-60376fb9",
+    "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+    "tags": [
+      "Claude"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 13 Mar 2026 12:16:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d57bef48",
+    "title": "Future AI chips could be built on glass",
+    "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Fri, 13 Mar 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3573eb82",
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "summary": "Photos of animals being identified by the SpeciesNet AI model",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "tags": [
+      "open-source"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 06 Mar 2026 18:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "art-001",
     "title": "GPT-5 Achieves Human-Level Reasoning on Benchmark Tests",
     "summary": "OpenAI's latest model demonstrates remarkable performance across multi-step logical reasoning tasks, passing expert-level exams in medicine, law, and engineering simultaneously.",
@@ -7,7 +585,11 @@
     "why_it_matters": "",
     "source": "OpenAI Blog",
     "url": "https://openai.com/blog",
-    "tags": ["GPT", "LLM", "benchmark"],
+    "tags": [
+      "GPT",
+      "LLM",
+      "benchmark"
+    ],
     "category": "AI Models",
     "published_date": "2025-03-15T10:00:00Z",
     "image": null
@@ -20,7 +602,10 @@
     "why_it_matters": "",
     "source": "DeepMind Blog",
     "url": "https://deepmind.google/blog",
-    "tags": ["research", "open-source"],
+    "tags": [
+      "research",
+      "open-source"
+    ],
     "category": "Research",
     "published_date": "2025-03-14T08:30:00Z",
     "image": null
@@ -33,7 +618,11 @@
     "why_it_matters": "",
     "source": "Anthropic Blog",
     "url": "https://anthropic.com/blog",
-    "tags": ["safety", "alignment", "Claude"],
+    "tags": [
+      "safety",
+      "alignment",
+      "Claude"
+    ],
     "category": "AI Policy",
     "published_date": "2025-03-13T12:00:00Z",
     "image": null
