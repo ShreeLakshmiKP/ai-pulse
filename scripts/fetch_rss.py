@@ -50,4 +50,4 @@ CATEGORY_KEYWORDS = {
 
 def strip_html(text):
     text = re.sub(r"<[^>]+>", " ", text)
-    for ent, ch in [("&amp;","&"),("&lt
+    for ent, ch in [("&amp;", "&"), ("&lt;", "<"), ("&gt;", ">"), ("&quot;", '"'), ("&nbsp;", " ")]:
