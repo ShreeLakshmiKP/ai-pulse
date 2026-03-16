@@ -1,0 +1,41 @@
+[
+  {
+    "id": "art-001",
+    "title": "GPT-5 Achieves Human-Level Reasoning on Benchmark Tests",
+    "summary": "OpenAI's latest model demonstrates remarkable performance across multi-step logical reasoning tasks, passing expert-level exams in medicine, law, and engineering simultaneously.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog",
+    "tags": ["GPT", "LLM", "benchmark"],
+    "category": "AI Models",
+    "published_date": "2025-03-15T10:00:00Z",
+    "image": null
+  },
+  {
+    "id": "art-002",
+    "title": "Google DeepMind Releases AlphaFold 3 for Drug Discovery",
+    "summary": "The latest version of AlphaFold can now predict interactions between proteins, DNA, RNA, and small molecules with unprecedented accuracy, dramatically accelerating pharmaceutical research.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog",
+    "tags": ["research", "open-source"],
+    "category": "Research",
+    "published_date": "2025-03-14T08:30:00Z",
+    "image": null
+  },
+  {
+    "id": "art-003",
+    "title": "Anthropic Unveils Constitutional AI 2.0 Framework",
+    "summary": "Anthropic's updated safety framework introduces dynamic value alignment, allowing Claude models to better navigate ethical gray areas through structured deliberation rather than rigid rules.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Anthropic Blog",
+    "url": "https://anthropic.com/blog",
+    "tags": ["safety", "alignment", "Claude"],
+    "category": "AI Policy",
+    "published_date": "2025-03-13T12:00:00Z",
+    "image": null
+  }
+]
