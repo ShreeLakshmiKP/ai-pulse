@@ -1,0 +1,15 @@
+{
+  "date": "2025-03-16",
+  "headline": "AI Pulse is Live",
+  "top_story": "Welcome to AI Pulse! This feed updates automatically every day at 6 AM UTC via GitHub Actions. RSS feeds from 12 AI blogs are fetched, categorized, and published here daily.",
+  "highlights": [
+    { "type": "tool", "text": "12 AI RSS feeds monitored daily" },
+    { "type": "model", "text": "Auto-categorized into 6 topics" },
+    { "type": "open-source", "text": "100% free, no API keys needed" },
+    { "type": "research", "text": "GitHub trending AI repos tracked" },
+    { "type": "policy", "text": "Hacker News AI stories fetched daily" }
+  ],
+  "stat_of_the_day": "AI Pulse updates automatically every day at 6 AM UTC.",
+  "trending_tools": ["tool-001", "tool-002", "tool-004", "tool-006"],
+  "top_articles": ["art-001", "art-002", "art-003"]
+}
