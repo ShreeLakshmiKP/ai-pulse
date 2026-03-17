@@ -109,6 +109,21 @@
     "image": null
   },
   {
+    "id": "rss-89cbb80a",
+    "title": "Picsart now allows creators to \u2018hire\u2019 AI assistants through agent marketplace",
+    "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 17 Mar 2026 04:01:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-db7ff708",
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on be...",
@@ -403,6 +418,136 @@
     "image": null
   },
   {
+    "id": "rss-3663d807",
+    "title": "Nvidia\u2019s version of OpenClaw could solve its biggest problem: security",
+    "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "tags": [
+      "agents",
+      "NVIDIA"
+    ],
+    "category": "AI Policy",
+    "published_date": "Mon, 16 Mar 2026 22:45:51 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3823e0cb",
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Mon, 16 Mar 2026 21:58:40 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-0880f6ed",
+    "title": "Jensen Huang just put Nvidia\u2019s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+    "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Mon, 16 Mar 2026 21:41:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-029b59b7",
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Mon, 16 Mar 2026 20:58:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f10f2708",
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Mon, 16 Mar 2026 20:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7f98adee",
+    "title": "Where OpenAI\u2019s technology could show up in Iran",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Mon, 16 Mar 2026 17:06:21 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-56f37665",
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Mon, 16 Mar 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e0d3d757",
+    "title": "The Download: glass chips and \u201cAI-free\u201d logos",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 16 Mar 2026 12:35:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ea380f39",
+    "title": "Securing digital assets against future threats",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 16 Mar 2026 11:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-10ec118d",
     "title": "Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
     "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
@@ -415,6 +560,19 @@
     ],
     "category": "AI Startups",
     "published_date": "Mon, 16 Mar 2026 00:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0ff3757b",
+    "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
+    "summary": "A deep dive into why Codex Security doesn\u2019t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Mon, 16 Mar 2026 00:00:00 GMT",
     "image": null
   },
   {

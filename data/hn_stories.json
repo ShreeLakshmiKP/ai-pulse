@@ -1,182 +1,164 @@
 [
   {
-    "id": "hn-47385935",
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "points": 403,
-    "comments": 358,
+    "id": "hn-47402640",
+    "title": "Meta\u2019s renewed commitment to jemalloc",
+    "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+    "points": 404,
+    "comments": 176,
     "source": "Hacker News",
-    "published_date": "2026-03-15T10:15:47Z"
+    "published_date": "2026-03-16T18:12:32Z"
   },
   {
-    "id": "hn-47388676",
-    "title": "LLM Architecture Gallery",
-    "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "points": 402,
-    "comments": 31,
+    "id": "hn-47401809",
+    "title": "The American Healthcare Conundrum",
+    "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+    "points": 314,
+    "comments": 269,
     "source": "Hacker News",
-    "published_date": "2026-03-15T16:01:09Z"
+    "published_date": "2026-03-16T17:13:27Z"
   },
   {
-    "id": "hn-47386116",
-    "title": "A Visual Introduction to Machine Learning (2015)",
-    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "points": 361,
-    "comments": 31,
+    "id": "hn-47398681",
+    "title": "AirPods Max 2",
+    "url": "https://www.apple.com/airpods-max/",
+    "points": 261,
+    "comments": 444,
     "source": "Hacker News",
-    "published_date": "2026-03-15T10:47:35Z"
+    "published_date": "2026-03-16T13:22:03Z"
   },
   {
-    "id": "hn-47388646",
-    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-    "url": "https://news.ycombinator.com/item?id=47388646",
-    "points": 307,
-    "comments": 496,
+    "id": "hn-47400868",
+    "title": "Show HN: Claude Code skills that build complete Godot games",
+    "url": "https://github.com/htdt/godogen",
+    "points": 228,
+    "comments": 137,
     "source": "Hacker News",
-    "published_date": "2026-03-15T15:58:23Z"
+    "published_date": "2026-03-16T16:07:29Z"
   },
   {
-    "id": "hn-47387047",
-    "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-    "points": 263,
-    "comments": 162,
+    "id": "hn-47397857",
+    "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+    "url": "https://github.com/emin-ozata/lazycut",
+    "points": 186,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-03-15T13:08:02Z"
+    "published_date": "2026-03-16T12:05:08Z"
   },
   {
-    "id": "hn-47391803",
-    "title": "LLMs can be exhausting",
-    "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-    "points": 212,
-    "comments": 150,
+    "id": "hn-47397190",
+    "title": "Ask HN: What is it like being in a CS major program these days?",
+    "url": "https://news.ycombinator.com/item?id=47397190",
+    "points": 176,
+    "comments": 174,
     "source": "Hacker News",
-    "published_date": "2026-03-15T20:56:21Z"
+    "published_date": "2026-03-16T10:24:02Z"
   },
   {
-    "id": "hn-47386813",
-    "title": "I'm 60 years old. Claude Code killed a passion",
-    "url": "https://news.ycombinator.com/item?id=47386813",
-    "points": 201,
-    "comments": 159,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T12:35:22Z"
-  },
-  {
-    "id": "hn-47394022",
-    "title": "How I write software with LLMs",
-    "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-    "points": 190,
-    "comments": 134,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T01:24:09Z"
-  },
-  {
-    "id": "hn-47386651",
-    "title": "Pentagon expands oversight of Stars and Stripes, limits content",
-    "url": "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html",
-    "points": 173,
+    "id": "hn-47404074",
+    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "points": 152,
     "comments": 86,
     "source": "Hacker News",
-    "published_date": "2026-03-15T12:11:32Z"
+    "published_date": "2026-03-16T20:01:02Z"
   },
   {
-    "id": "hn-47388273",
-    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-    "url": "https://zzk273.github.io/LATENT/",
-    "points": 155,
-    "comments": 31,
+    "id": "hn-47400261",
+    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "points": 127,
+    "comments": 108,
     "source": "Hacker News",
-    "published_date": "2026-03-15T15:21:04Z"
+    "published_date": "2026-03-16T15:25:36Z"
   },
   {
-    "id": "hn-47393908",
-    "title": "What is agentic engineering?",
-    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
-    "points": 136,
-    "comments": 82,
+    "id": "hn-47401734",
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+    "url": "https://arxiv.org/abs/2511.04427",
+    "points": 103,
+    "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-03-16T01:07:47Z"
-  },
-  {
-    "id": "hn-47386581",
-    "title": "Show HN: Signet \u2013 Autonomous wildfire tracking from satellite and weather data",
-    "url": "https://signet.watch",
-    "points": 110,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T12:01:00Z"
-  },
-  {
-    "id": "hn-47386983",
-    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-    "url": "https://octetta.github.io/k-synth/",
-    "points": 84,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T12:58:13Z"
-  },
-  {
-    "id": "hn-47386441",
-    "title": "Generating All 32-Bit Primes (Part I)",
-    "url": "https://hnlyman.github.io/pages/prime32_I.html",
-    "points": 82,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T11:42:01Z"
-  },
-  {
-    "id": "hn-47394264",
-    "title": "Federal Right to Privacy Act \u2013 Draft legislation",
-    "url": "https://righttoprivacyact.github.io",
-    "points": 81,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T01:58:56Z"
-  },
-  {
-    "id": "hn-47388479",
-    "title": "Show HN: GDSL \u2013 800 line kernel: Lisp subset in 500, C subset in 1300",
-    "url": "https://firthemouse.github.io/",
-    "points": 66,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T15:40:13Z"
-  },
-  {
-    "id": "hn-47394291",
-    "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
-    "url": "https://news.ycombinator.com/item?id=47394291",
-    "points": 61,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T02:02:12Z"
-  },
-  {
-    "id": "hn-47386868",
-    "title": "PSA: Top Google Result for Claude Code Is Malicious",
-    "url": "https://onemillionwords.substack.com/p/top-google-result-for-claude-code",
-    "points": 44,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-03-15T12:43:28Z"
+    "published_date": "2026-03-16T17:07:37Z"
   },
   {
     "id": "hn-47396557",
     "title": "Why I may \u2018hire\u2019 AI instead of a graduate student",
     "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
-    "points": 43,
-    "comments": 46,
+    "points": 82,
+    "comments": 85,
     "source": "Hacker News",
     "published_date": "2026-03-16T08:59:13Z"
   },
   {
-    "id": "hn-47389858",
-    "title": "Tech companies defeat bill as AI drains local water supplies",
-    "url": "https://www.theolympus.net/13531/",
-    "points": 38,
+    "id": "hn-47401042",
+    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
+    "url": "https://news.ycombinator.com/item?id=47401042",
+    "points": 72,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T16:21:07Z"
+  },
+  {
+    "id": "hn-47403044",
+    "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games",
+    "points": 30,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T18:45:45Z"
+  },
+  {
+    "id": "hn-47398462",
+    "title": "Apple introduces AirPods Max 2",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
+    "points": 28,
     "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-03-15T17:49:54Z"
+    "published_date": "2026-03-16T13:04:06Z"
+  },
+  {
+    "id": "hn-47399437",
+    "title": "Event Publisher enables event integration between Keycloak and OpenFGA",
+    "url": "https://github.com/embesozzi/keycloak-openfga-event-publisher",
+    "points": 28,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T14:21:07Z"
+  },
+  {
+    "id": "hn-47401766",
+    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
+    "url": "https://www.usechamber.io/",
+    "points": 23,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T17:09:34Z"
+  },
+  {
+    "id": "hn-47404647",
+    "title": "Amazon finds out AI programming isn't all it's cracked up to be",
+    "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
+    "points": 23,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T20:46:43Z"
+  },
+  {
+    "id": "hn-47398349",
+    "title": "Ur-Scheme: A GPL self-hosting compiler from a subset of Scheme to x86 asm (2008)",
+    "url": "http://canonical.org/~kragen/sw/urscheme/",
+    "points": 18,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T12:52:54Z"
+  },
+  {
+    "id": "hn-47396841",
+    "title": "Ask HN: Did GitHub remove Opus and Sonnet from their Copilot Pro subscription?",
+    "url": "https://news.ycombinator.com/item?id=47396841",
+    "points": 12,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-03-16T09:35:45Z"
   }
 ]
