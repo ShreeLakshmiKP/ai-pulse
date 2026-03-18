@@ -1,164 +1,182 @@
 [
   {
-    "id": "hn-47402640",
-    "title": "Meta\u2019s renewed commitment to jemalloc",
-    "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-    "points": 404,
-    "comments": 176,
+    "id": "hn-47416486",
+    "title": "Python 3.15's JIT is now back on track",
+    "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+    "points": 340,
+    "comments": 162,
     "source": "Hacker News",
-    "published_date": "2026-03-16T18:12:32Z"
+    "published_date": "2026-03-17T18:37:27Z"
   },
   {
-    "id": "hn-47401809",
-    "title": "The American Healthcare Conundrum",
-    "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-    "points": 314,
-    "comments": 269,
+    "id": "hn-47417804",
+    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "points": 291,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-03-16T17:13:27Z"
+    "published_date": "2026-03-17T20:23:39Z"
   },
   {
-    "id": "hn-47398681",
-    "title": "AirPods Max 2",
-    "url": "https://www.apple.com/airpods-max/",
-    "points": 261,
-    "comments": 444,
+    "id": "hn-47418295",
+    "title": "Mistral AI Releases Forge",
+    "url": "https://mistral.ai/news/forge",
+    "points": 281,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-03-16T13:22:03Z"
+    "published_date": "2026-03-17T21:04:26Z"
   },
   {
-    "id": "hn-47400868",
-    "title": "Show HN: Claude Code skills that build complete Godot games",
-    "url": "https://github.com/htdt/godogen",
-    "points": 228,
-    "comments": 137,
+    "id": "hn-47414032",
+    "title": "Unsloth Studio",
+    "url": "https://unsloth.ai/docs/new/studio",
+    "points": 245,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-03-16T16:07:29Z"
+    "published_date": "2026-03-17T15:26:32Z"
   },
   {
-    "id": "hn-47397857",
-    "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
-    "url": "https://github.com/emin-ozata/lazycut",
-    "points": 186,
-    "comments": 55,
+    "id": "hn-47415441",
+    "title": "GPT\u20115.4 Mini and Nano",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "points": 220,
+    "comments": 135,
     "source": "Hacker News",
-    "published_date": "2026-03-16T12:05:08Z"
+    "published_date": "2026-03-17T17:07:06Z"
   },
   {
-    "id": "hn-47397190",
-    "title": "Ask HN: What is it like being in a CS major program these days?",
-    "url": "https://news.ycombinator.com/item?id=47397190",
+    "id": "hn-47412097",
+    "title": "A proposal to classify happiness as a psychiatric disorder (1992)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/",
     "points": 176,
-    "comments": 174,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-03-16T10:24:02Z"
+    "published_date": "2026-03-17T13:03:38Z"
   },
   {
-    "id": "hn-47404074",
-    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-    "points": 152,
-    "comments": 86,
+    "id": "hn-47412569",
+    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+    "url": "https://github.com/adammiribyan/zeroboot",
+    "points": 118,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-03-16T20:01:02Z"
+    "published_date": "2026-03-17T13:43:44Z"
   },
   {
-    "id": "hn-47400261",
-    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
-    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "points": 127,
-    "comments": 108,
+    "id": "hn-47414291",
+    "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+    "url": "https://github.com/antflydb/antfly",
+    "points": 85,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-03-16T15:25:36Z"
+    "published_date": "2026-03-17T15:45:15Z"
   },
   {
-    "id": "hn-47401734",
-    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-    "url": "https://arxiv.org/abs/2511.04427",
-    "points": 103,
+    "id": "hn-47418722",
+    "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+    "url": "https://arxiv.org/abs/2603.15381",
+    "points": 84,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-03-17T21:42:39Z"
+  },
+  {
+    "id": "hn-47412015",
+    "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+    "url": "https://www.Bracketmadness.ai",
+    "points": 62,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-03-17T12:56:24Z"
+  },
+  {
+    "id": "hn-47416227",
+    "title": "Show HN: Horizon \u2013 GPU-accelerated infinite-canvas terminal in Rust",
+    "url": "https://github.com/peters/horizon",
+    "points": 62,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-03-17T18:14:24Z"
+  },
+  {
+    "id": "hn-47418576",
+    "title": "Garry Tan's Claude Code Setup",
+    "url": "https://github.com/garrytan/gstack/tree/main",
+    "points": 55,
     "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-03-16T17:07:37Z"
+    "published_date": "2026-03-17T21:28:35Z"
   },
   {
-    "id": "hn-47396557",
-    "title": "Why I may \u2018hire\u2019 AI instead of a graduate student",
-    "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
-    "points": 82,
-    "comments": 85,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T08:59:13Z"
-  },
-  {
-    "id": "hn-47401042",
-    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
-    "url": "https://news.ycombinator.com/item?id=47401042",
-    "points": 72,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T16:21:07Z"
-  },
-  {
-    "id": "hn-47403044",
-    "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games",
-    "points": 30,
+    "id": "hn-47417470",
+    "title": "Claude Is Having an Outage",
+    "url": "https://news.ycombinator.com/item?id=47417470",
+    "points": 43,
     "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-03-16T18:45:45Z"
+    "published_date": "2026-03-17T19:55:54Z"
   },
   {
-    "id": "hn-47398462",
-    "title": "Apple introduces AirPods Max 2",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
-    "points": 28,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-03-16T13:04:06Z"
-  },
-  {
-    "id": "hn-47399437",
-    "title": "Event Publisher enables event integration between Keycloak and OpenFGA",
-    "url": "https://github.com/embesozzi/keycloak-openfga-event-publisher",
-    "points": 28,
+    "id": "hn-47417335",
+    "title": "Launch HN: Kita (YC W26) \u2013 Automate credit review in emerging markets",
+    "url": "https://news.ycombinator.com/item?id=47417335",
+    "points": 37,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-03-16T14:21:07Z"
+    "published_date": "2026-03-17T19:46:29Z"
   },
   {
-    "id": "hn-47401766",
-    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
-    "url": "https://www.usechamber.io/",
-    "points": 23,
+    "id": "hn-47420493",
+    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+    "url": "https://amaiya.github.io/onprem/examples_agent.html",
+    "points": 26,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T01:10:19Z"
+  },
+  {
+    "id": "hn-47420471",
+    "title": "Neighbors Say SF Tesla Supercharger Lot Has Become Urine Dumping Ground",
+    "url": "https://www.sfgate.com/local/article/tesla-supercharger-lot-lombard-22080348.php",
+    "points": 26,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T01:06:27Z"
+  },
+  {
+    "id": "hn-47415447",
+    "title": "Why refusing AI is a fight for the soul",
+    "url": "https://restofworld.org/2026/techno-negative-thomas-dekeyser-fighting-ai/",
+    "points": 22,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-03-16T17:09:34Z"
+    "published_date": "2026-03-17T17:07:32Z"
   },
   {
-    "id": "hn-47404647",
-    "title": "Amazon finds out AI programming isn't all it's cracked up to be",
-    "url": "https://www.computerworld.com/article/4145573/amazon-finds-out-ai-programming-isnt-all-its-cracked-up-to-be.html",
-    "points": 23,
-    "comments": 2,
+    "id": "hn-47418243",
+    "title": "It feels like Claude goes down almost daily now",
+    "url": "https://news.ycombinator.com/item?id=47418243",
+    "points": 22,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-03-16T20:46:43Z"
+    "published_date": "2026-03-17T21:00:50Z"
   },
   {
-    "id": "hn-47398349",
-    "title": "Ur-Scheme: A GPL self-hosting compiler from a subset of Scheme to x86 asm (2008)",
-    "url": "http://canonical.org/~kragen/sw/urscheme/",
-    "points": 18,
-    "comments": 1,
+    "id": "hn-47420767",
+    "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
+    "url": "https://news.ycombinator.com/item?id=47420767",
+    "points": 21,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-03-16T12:52:54Z"
+    "published_date": "2026-03-18T01:56:53Z"
   },
   {
-    "id": "hn-47396841",
-    "title": "Ask HN: Did GitHub remove Opus and Sonnet from their Copilot Pro subscription?",
-    "url": "https://news.ycombinator.com/item?id=47396841",
-    "points": 12,
-    "comments": 7,
+    "id": "hn-47418180",
+    "title": "Elevated errors on Claude Opus 4.6",
+    "url": "https://status.claude.com/incidents/mhnzmndv58bt",
+    "points": 21,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-03-16T09:35:45Z"
+    "published_date": "2026-03-17T20:56:04Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "headline": "The Gradient \u00b7 DeepMind Blog \u00b7 OpenAI Blog",
   "top_story": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals.",
   "highlights": [
@@ -24,7 +24,7 @@
       "text": "AGI Is Not Multimodal"
     }
   ],
-  "stat_of_the_day": "Today's feed: 50 articles \u2014 14 in AI Models.",
+  "stat_of_the_day": "Today's feed: 50 articles \u2014 16 in AI Models.",
   "trending_tools": [
     "tool-001",
     "tool-002",
