@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47416486",
-    "title": "Python 3.15's JIT is now back on track",
-    "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-    "points": 340,
-    "comments": 162,
+    "id": "hn-47428541",
+    "title": "AI coding is gambling",
+    "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+    "points": 324,
+    "comments": 395,
     "source": "Hacker News",
-    "published_date": "2026-03-17T18:37:27Z"
+    "published_date": "2026-03-18T17:22:02Z"
   },
   {
-    "id": "hn-47417804",
-    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-    "url": "https://github.com/gsd-build/get-shit-done",
-    "points": 291,
-    "comments": 143,
+    "id": "hn-47427027",
+    "title": "Nvidia NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "points": 284,
+    "comments": 203,
     "source": "Hacker News",
-    "published_date": "2026-03-17T20:23:39Z"
+    "published_date": "2026-03-18T15:31:07Z"
   },
   {
-    "id": "hn-47418295",
-    "title": "Mistral AI Releases Forge",
-    "url": "https://mistral.ai/news/forge",
-    "points": 281,
-    "comments": 49,
+    "id": "hn-47431237",
+    "title": "Warranty Void If Regenerated",
+    "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+    "points": 279,
+    "comments": 158,
     "source": "Hacker News",
-    "published_date": "2026-03-17T21:04:26Z"
+    "published_date": "2026-03-18T20:45:54Z"
   },
   {
-    "id": "hn-47414032",
-    "title": "Unsloth Studio",
-    "url": "https://unsloth.ai/docs/new/studio",
-    "points": 245,
-    "comments": 50,
+    "id": "hn-47427017",
+    "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+    "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+    "points": 242,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-03-17T15:26:32Z"
+    "published_date": "2026-03-18T15:30:07Z"
   },
   {
-    "id": "hn-47415441",
-    "title": "GPT\u20115.4 Mini and Nano",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "points": 220,
-    "comments": 135,
+    "id": "hn-47428650",
+    "title": "Show HN: Will my flight have Starlink?",
+    "url": "https://news.ycombinator.com/item?id=47428650",
+    "points": 213,
+    "comments": 274,
     "source": "Hacker News",
-    "published_date": "2026-03-17T17:07:06Z"
+    "published_date": "2026-03-18T17:29:21Z"
   },
   {
-    "id": "hn-47412097",
-    "title": "A proposal to classify happiness as a psychiatric disorder (1992)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/",
-    "points": 176,
-    "comments": 99,
+    "id": "hn-47434024",
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "url": "https://rjcorwin.github.io/cook/",
+    "points": 128,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-03-17T13:03:38Z"
+    "published_date": "2026-03-19T02:20:34Z"
   },
   {
-    "id": "hn-47412569",
-    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-    "url": "https://github.com/adammiribyan/zeroboot",
-    "points": 118,
-    "comments": 25,
+    "id": "hn-47433702",
+    "title": "Ask HN: How do you deal with people who trust LLMs?",
+    "url": "https://news.ycombinator.com/item?id=47433702",
+    "points": 109,
+    "comments": 111,
     "source": "Hacker News",
-    "published_date": "2026-03-17T13:43:44Z"
+    "published_date": "2026-03-19T01:37:35Z"
   },
   {
-    "id": "hn-47414291",
-    "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-    "url": "https://github.com/antflydb/antfly",
-    "points": 85,
-    "comments": 36,
-    "source": "Hacker News",
-    "published_date": "2026-03-17T15:45:15Z"
-  },
-  {
-    "id": "hn-47418722",
-    "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
-    "url": "https://arxiv.org/abs/2603.15381",
-    "points": 84,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-03-17T21:42:39Z"
-  },
-  {
-    "id": "hn-47412015",
-    "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-    "url": "https://www.Bracketmadness.ai",
-    "points": 62,
+    "id": "hn-47427647",
+    "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+    "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+    "points": 93,
     "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-03-17T12:56:24Z"
+    "published_date": "2026-03-18T16:17:44Z"
   },
   {
-    "id": "hn-47416227",
-    "title": "Show HN: Horizon \u2013 GPU-accelerated infinite-canvas terminal in Rust",
-    "url": "https://github.com/peters/horizon",
+    "id": "hn-47425918",
+    "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+    "url": "https://github.com/joaoh82/rustunnel",
+    "points": 92,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T14:00:43Z"
+  },
+  {
+    "id": "hn-47433265",
+    "title": "Autoresearch for SAT Solvers",
+    "url": "https://github.com/iliazintchenko/agent-sat",
+    "points": 91,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-03-19T00:40:32Z"
+  },
+  {
+    "id": "hn-47431671",
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "url": "https://github.com/alainnothere/llm-circuit-finder",
+    "points": 90,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T21:31:12Z"
+  },
+  {
+    "id": "hn-47428868",
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "url": "https://tmux.thijsverreck.com",
+    "points": 77,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T17:46:25Z"
+  },
+  {
+    "id": "hn-47429988",
+    "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+    "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+    "points": 69,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T19:01:54Z"
+  },
+  {
+    "id": "hn-47435156",
+    "title": "What 81,000 people want from AI",
+    "url": "https://www.anthropic.com/features/81k-interviews",
     "points": 62,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-03-19T05:00:56Z"
+  },
+  {
+    "id": "hn-47432915",
+    "title": "RX \u2013 a new random-access JSON alternative",
+    "url": "https://github.com/creationix/rx",
+    "points": 59,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T23:58:05Z"
+  },
+  {
+    "id": "hn-47428335",
+    "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
+    "url": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713",
+    "points": 53,
     "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-03-17T18:14:24Z"
+    "published_date": "2026-03-18T17:07:21Z"
   },
   {
-    "id": "hn-47418576",
-    "title": "Garry Tan's Claude Code Setup",
-    "url": "https://github.com/garrytan/gstack/tree/main",
-    "points": 55,
-    "comments": 58,
+    "id": "hn-47428718",
+    "title": "AI chatbots often validate delusions and suicidal thoughts, study finds",
+    "url": "https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068",
+    "points": 32,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-03-17T21:28:35Z"
+    "published_date": "2026-03-18T17:34:50Z"
   },
   {
-    "id": "hn-47417470",
-    "title": "Claude Is Having an Outage",
-    "url": "https://news.ycombinator.com/item?id=47417470",
-    "points": 43,
-    "comments": 16,
+    "id": "hn-47428987",
+    "title": "Stop spending money on Claude, Chipotle's chat bot is free",
+    "url": "https://www.reddit.com/r/ClaudeCode/s/rhT0uFqxYa",
+    "points": 32,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-03-17T19:55:54Z"
+    "published_date": "2026-03-18T17:54:41Z"
   },
   {
-    "id": "hn-47417335",
-    "title": "Launch HN: Kita (YC W26) \u2013 Automate credit review in emerging markets",
-    "url": "https://news.ycombinator.com/item?id=47417335",
-    "points": 37,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-03-17T19:46:29Z"
-  },
-  {
-    "id": "hn-47420493",
-    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-    "url": "https://amaiya.github.io/onprem/examples_agent.html",
-    "points": 26,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-03-18T01:10:19Z"
-  },
-  {
-    "id": "hn-47420471",
-    "title": "Neighbors Say SF Tesla Supercharger Lot Has Become Urine Dumping Ground",
-    "url": "https://www.sfgate.com/local/article/tesla-supercharger-lot-lombard-22080348.php",
-    "points": 26,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-03-18T01:06:27Z"
-  },
-  {
-    "id": "hn-47415447",
-    "title": "Why refusing AI is a fight for the soul",
-    "url": "https://restofworld.org/2026/techno-negative-thomas-dekeyser-fighting-ai/",
-    "points": 22,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-03-17T17:07:32Z"
-  },
-  {
-    "id": "hn-47418243",
-    "title": "It feels like Claude goes down almost daily now",
-    "url": "https://news.ycombinator.com/item?id=47418243",
-    "points": 22,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-03-17T21:00:50Z"
-  },
-  {
-    "id": "hn-47420767",
-    "title": "Ask HN: Is vibe coding a new mandatory job requirement?",
-    "url": "https://news.ycombinator.com/item?id=47420767",
-    "points": 21,
-    "comments": 38,
-    "source": "Hacker News",
-    "published_date": "2026-03-18T01:56:53Z"
-  },
-  {
-    "id": "hn-47418180",
-    "title": "Elevated errors on Claude Opus 4.6",
-    "url": "https://status.claude.com/incidents/mhnzmndv58bt",
-    "points": 21,
+    "id": "hn-47427698",
+    "title": "Government backtracks on AI and copyright after outcry from major artists",
+    "url": "https://www.bbc.co.uk/news/articles/cvg1gr5v333o",
+    "points": 29,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-03-17T20:56:04Z"
+    "published_date": "2026-03-18T16:21:50Z"
+  },
+  {
+    "id": "hn-47432178",
+    "title": "Business-as-Code with LittleHorse 1.0",
+    "url": "https://github.com/littlehorse-enterprises/littlehorse",
+    "points": 17,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-03-18T22:26:01Z"
   }
 ]

@@ -1,30 +1,30 @@
 {
-  "date": "2026-03-18",
-  "headline": "The Gradient \u00b7 DeepMind Blog \u00b7 OpenAI Blog",
-  "top_story": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals.",
+  "date": "2026-03-19",
+  "headline": "TechCrunch AI \u00b7 TechCrunch AI \u00b7 TechCrunch AI",
+  "top_story": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
   "highlights": [
     {
-      "type": "policy",
-      "text": "After Orthogonality: Virtue-Ethical Agency and AI Alignment"
-    },
-    {
-      "type": "model",
-      "text": "A new way to express yourself: Gemini can now create music"
-    },
-    {
-      "type": "model",
-      "text": "Rakuten fixes issues twice as fast with Codex"
+      "type": "tool",
+      "text": "Meta is having trouble with rogue AI agents"
     },
     {
       "type": "tool",
-      "text": "From model to agent: Equipping the Responses API with a computer environment"
+      "text": "Sam Altman\u2019s thank-you to coders draws the memes"
+    },
+    {
+      "type": "tool",
+      "text": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take th..."
     },
     {
       "type": "research",
-      "text": "AGI Is Not Multimodal"
+      "text": "The Download: The Pentagon\u2019s new AI plans, and next-gen nuclear reactors"
+    },
+    {
+      "type": "policy",
+      "text": "After Orthogonality: Virtue-Ethical Agency and AI Alignment"
     }
   ],
-  "stat_of_the_day": "Today's feed: 50 articles \u2014 16 in AI Models.",
+  "stat_of_the_day": "Today's feed: 50 articles \u2014 15 in AI Models.",
   "trending_tools": [
     "tool-001",
     "tool-002",
@@ -32,8 +32,8 @@
     "tool-006"
   ],
   "top_articles": [
-    "rss-2df87f06",
-    "rss-23963cac",
-    "rss-7edc0652"
+    "rss-402e28f8",
+    "rss-e243f719",
+    "rss-8af459e4"
   ]
 }
