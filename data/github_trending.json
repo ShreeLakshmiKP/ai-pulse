@@ -4,7 +4,7 @@
     "name": "calesthio/Crucix",
     "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
     "url": "https://github.com/calesthio/Crucix",
-    "stars": 4689,
+    "stars": 5241,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -14,44 +14,11 @@
     "created_at": "2026-03-14T07:33:06Z"
   },
   {
-    "id": "gh-1180917769",
-    "name": "uditgoenka/autoresearch",
-    "description": "Claude Autoresearch Skill \u2014 Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify \u2192 Verify \u2192 Keep/Discard \u2192 Repeat forever.",
-    "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1419,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "autonomous-agent",
-      "autoresearch",
-      "claude",
-      "claude-code",
-      "iteration",
-      "karpathy",
-      "productivity",
-      "skill"
-    ],
-    "created_at": "2026-03-13T14:51:54Z"
-  },
-  {
-    "id": "gh-1182741097",
-    "name": "rasbt/llm-architecture-gallery",
-    "description": "LLM Architecture Gallery source data",
-    "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 769,
-    "language": null,
-    "topics": [
-      "ai",
-      "llms"
-    ],
-    "created_at": "2026-03-15T22:50:46Z"
-  },
-  {
     "id": "gh-1182000750",
     "name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 704,
+    "stars": 796,
     "language": "Python",
     "topics": [
       "ai",
@@ -68,32 +35,24 @@
     "created_at": "2026-03-14T22:54:19Z"
   },
   {
-    "id": "gh-1182098521",
-    "name": "sstklen/trump-code",
-    "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
-    "url": "https://github.com/sstklen/trump-code",
-    "stars": 558,
-    "language": "Python",
+    "id": "gh-1182741097",
+    "name": "rasbt/llm-architecture-gallery",
+    "description": "LLM Architecture Gallery source data",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 788,
+    "language": null,
     "topics": [
       "ai",
-      "brute-force",
-      "machine-learning",
-      "open-data",
-      "polymarket",
-      "prediction",
-      "signal-analysis",
-      "stock-market",
-      "trump",
-      "truth-social"
+      "llms"
     ],
-    "created_at": "2026-03-15T03:13:51Z"
+    "created_at": "2026-03-15T22:50:46Z"
   },
   {
     "id": "gh-1182454913",
     "name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 536,
+    "stars": 673,
     "language": "Rust",
     "topics": [
       "ai",
@@ -115,35 +74,32 @@
     "created_at": "2026-03-15T14:48:09Z"
   },
   {
-    "id": "gh-1181062194",
-    "name": "aitradingbotspro/cryto-trading-ai-assistant",
-    "description": "AI guardian for manual crypto traders \u2014 risk monitoring, strategy validation & emotional trading detection. No trade execution.",
-    "url": "https://github.com/aitradingbotspro/cryto-trading-ai-assistant",
-    "stars": 200,
+    "id": "gh-1182098521",
+    "name": "sstklen/trump-code",
+    "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
+    "url": "https://github.com/sstklen/trump-code",
+    "stars": 584,
     "language": "Python",
     "topics": [
-      "algorithmic-trading",
-      "binance",
-      "bybit",
-      "crypto-trading",
-      "fastapi",
+      "ai",
+      "brute-force",
       "machine-learning",
-      "python",
-      "react",
-      "risk",
-      "risk-managment",
-      "tading-bot",
-      "telegram-bot",
-      "tradingview"
+      "open-data",
+      "polymarket",
+      "prediction",
+      "signal-analysis",
+      "stock-market",
+      "trump",
+      "truth-social"
     ],
-    "created_at": "2026-03-13T17:53:52Z"
+    "created_at": "2026-03-15T03:13:51Z"
   },
   {
     "id": "gh-1181593554",
     "name": "LucidAkshay/kavach",
     "description": "Tactical AI Workspace Monitor & EDR",
     "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 190,
+    "stars": 210,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -169,7 +125,7 @@
     "name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research \u2192 content \u2192 blog \u2192 landing \u2192 deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 151,
+    "stars": 163,
     "language": "HTML",
     "topics": [
       "affiliate-marketing",
@@ -195,7 +151,7 @@
     "name": "Demfier/openleaf",
     "description": "AI-powered citation search & paper review for Overleaf \u2014 Chrome extension. Think Google Scholar but inside Overleaf. Also works with OpenAI Prism.",
     "url": "https://github.com/Demfier/openleaf",
-    "stars": 109,
+    "stars": 112,
     "language": "TypeScript",
     "topics": [
       "academic-writing",
@@ -221,66 +177,116 @@
     "created_at": "2026-03-14T20:14:32Z"
   },
   {
-    "id": "gh-1180573200",
-    "name": "aitradingbotspro/ai-automated-trading-bot",
-    "description": "TradingView webhook bot for manual traders \u2013 execute alerts on Binance, Bybit, OKX, and Hyperliquid with risk limits, TP/SL, trailing stop, and optional AI review.",
-    "url": "https://github.com/aitradingbotspro/ai-automated-trading-bot",
-    "stars": 92,
-    "language": "Python",
+    "id": "gh-1181476077",
+    "name": "Claw-Company/clawcompany",
+    "description": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all.",
+    "url": "https://github.com/Claw-Company/clawcompany",
+    "stars": 88,
+    "language": "TypeScript",
     "topics": [
+      "agents",
       "ai",
-      "algorithmic-trading",
-      "auto-trading",
-      "binance",
-      "bybit",
-      "crypto-trading",
-      "fastapi",
-      "futures-trading",
-      "hyperliquid",
+      "autonomous",
+      "clawapi",
       "llm",
-      "okx",
-      "openai",
-      "python",
-      "risk-management",
-      "stop-loss",
-      "take-profit",
-      "trading-bot",
-      "tradingview",
-      "trailing-stop",
-      "webhook"
+      "multi-agent",
+      "typrscript",
+      "web4"
     ],
-    "created_at": "2026-03-13T07:15:26Z"
+    "created_at": "2026-03-14T07:25:41Z"
   },
   {
-    "id": "gh-1181223816",
-    "name": "OnlyTerp/openclaw-optimization-guide",
-    "description": "Make your OpenClaw AI agent faster, smarter, and cheaper. Speed optimization, memory architecture, context management, model selection, and one-shot development guide.",
-    "url": "https://github.com/OnlyTerp/openclaw-optimization-guide",
-    "stars": 80,
-    "language": "PowerShell",
+    "id": "gh-1183006363",
+    "name": "otadk/nuxt-edge-ai",
+    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
+    "url": "https://github.com/otadk/nuxt-edge-ai",
+    "stars": 61,
+    "language": "TypeScript",
     "topics": [
-      "ai-agent",
-      "ai-assistant",
-      "best-practices",
-      "claude",
-      "context-engineering",
-      "context-window",
-      "gemini",
-      "guide",
+      "ai",
+      "edge-ai",
       "llm",
-      "memory-management",
-      "model-selection",
-      "ollama",
-      "openclaw",
-      "openrouter",
-      "optimization",
-      "orchestration",
-      "prompt-optimization",
-      "sub-agents",
-      "tavily",
-      "tutorial"
+      "local-first",
+      "nitro",
+      "nuxt",
+      "nuxt-module",
+      "onnx",
+      "transformers",
+      "wasm"
     ],
-    "created_at": "2026-03-13T22:08:13Z"
+    "created_at": "2026-03-16T07:13:34Z"
+  },
+  {
+    "id": "gh-1183667037",
+    "name": "taco-group/SparkVSR",
+    "description": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
+    "url": "https://github.com/taco-group/SparkVSR",
+    "stars": 53,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "generative-ai",
+      "generative-models",
+      "image-processing",
+      "llm",
+      "machine-learning",
+      "restoration",
+      "super-resolution",
+      "vfx",
+      "video",
+      "video-editing",
+      "video-generation",
+      "video-processing",
+      "video-restoration",
+      "video-streaming",
+      "vlm"
+    ],
+    "created_at": "2026-03-16T20:51:01Z"
+  },
+  {
+    "id": "gh-1185590488",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 52,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "created_at": "2026-03-18T18:38:02Z"
+  },
+  {
+    "id": "gh-1185919289",
+    "name": "addyosmani/agent-engineer",
+    "description": "Agent Engineer - a practical course for software engineers",
+    "url": "https://github.com/addyosmani/agent-engineer",
+    "stars": 49,
+    "language": null,
+    "topics": [
+      "agentic-framework",
+      "ai-agents",
+      "generative-ai"
+    ],
+    "created_at": "2026-03-19T04:23:33Z"
   },
   {
     "id": "gh-1182930881",
@@ -327,36 +333,5 @@
       "txt2img"
     ],
     "created_at": "2026-03-17T18:28:19Z"
-  },
-  {
-    "id": "gh-1184606532",
-    "name": "lasthero3819/DeepFakeAI-GUI-2026",
-    "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
-    "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
-    "stars": 41,
-    "language": null,
-    "topics": [
-      "ai-avatar",
-      "ai-deep-fake",
-      "ai-video",
-      "ai-webcam",
-      "computer-vision",
-      "deep-learning",
-      "deepfake",
-      "deepfake-ai",
-      "face-swap",
-      "faceswap",
-      "faceswap-ai",
-      "fake-webcam",
-      "generative-ai",
-      "neural-network",
-      "opencv",
-      "real-time-deepfake",
-      "realtime-face-changer",
-      "roop",
-      "stable-diffusion",
-      "v-tuber"
-    ],
-    "created_at": "2026-03-17T18:49:01Z"
   }
 ]
