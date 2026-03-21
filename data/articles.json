@@ -852,6 +852,21 @@
     "image": null
   },
   {
+    "id": "rss-fa39393c",
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+    "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 21 Mar 2026 01:40:28 +0000",
+    "image": null
+  },
+  {
     "id": "rss-23b7d3c1",
     "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
     "summary": "What is the Role of Mathematics in Modern Machine Learning? The past decade has witnessed a shift in how progress is made in machine learning.",
@@ -1136,6 +1151,135 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-19bc3dbf",
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Fri, 20 Mar 2026 20:53:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3877adad",
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "tags": [
+      "robotics",
+      "NVIDIA"
+    ],
+    "category": "Robotics",
+    "published_date": "Fri, 20 Mar 2026 20:02:35 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0b4a347d",
+    "title": "Nvidia has an OpenClaw strategy. Do you?",
+    "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Policy",
+    "published_date": "Fri, 20 Mar 2026 19:48:38 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c0503e72",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Fri, 20 Mar 2026 19:38:16 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8ef7a521",
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 20 Mar 2026 16:43:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6cf291e9",
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Fri, 20 Mar 2026 14:14:46 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-426ce39d",
+    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Fri, 20 Mar 2026 13:15:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c2dfb4a4",
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Fri, 20 Mar 2026 11:57:16 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-503f2cae",
+    "title": "Mind-altering substances are (still) falling short in clinical trials",
+    "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Fri, 20 Mar 2026 09:00:00 +0000",
     "image": null
   },
   {

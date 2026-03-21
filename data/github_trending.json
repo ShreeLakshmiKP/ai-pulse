@@ -1,45 +1,10 @@
 [
   {
-    "id": "gh-1181479848",
-    "name": "calesthio/Crucix",
-    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-    "url": "https://github.com/calesthio/Crucix",
-    "stars": 5241,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "intelligence",
-      "osint"
-    ],
-    "created_at": "2026-03-14T07:33:06Z"
-  },
-  {
-    "id": "gh-1182000750",
-    "name": "nikmcfly/MiroFish-Offline",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-    "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 796,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "multi-agent",
-      "neo4j",
-      "offline",
-      "ollama",
-      "open-source",
-      "prediction",
-      "simulation",
-      "swarm-intelligence",
-      "vue"
-    ],
-    "created_at": "2026-03-14T22:54:19Z"
-  },
-  {
     "id": "gh-1182741097",
     "name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 788,
+    "stars": 809,
     "language": null,
     "topics": [
       "ai",
@@ -52,7 +17,7 @@
     "name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 673,
+    "stars": 715,
     "language": "Rust",
     "topics": [
       "ai",
@@ -78,7 +43,7 @@
     "name": "sstklen/trump-code",
     "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 584,
+    "stars": 602,
     "language": "Python",
     "topics": [
       "ai",
@@ -95,37 +60,25 @@
     "created_at": "2026-03-15T03:13:51Z"
   },
   {
-    "id": "gh-1181593554",
-    "name": "LucidAkshay/kavach",
-    "description": "Tactical AI Workspace Monitor & EDR",
-    "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 210,
-    "language": "TypeScript",
+    "id": "gh-1183669668",
+    "name": "J-Pster/Psters_AI_Workflow",
+    "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+    "url": "https://github.com/J-Pster/Psters_AI_Workflow",
+    "stars": 236,
+    "language": "JavaScript",
     "topics": [
-      "agents",
       "ai",
-      "ai-agent",
       "ai-agents",
-      "cybersecurity",
-      "cybersecurity-tools",
-      "firewall",
-      "firewall-management",
-      "llm",
-      "llm-agent",
-      "llms",
-      "rust",
-      "rust-lang",
-      "tauri",
-      "tauri-app"
+      "workflow"
     ],
-    "created_at": "2026-03-14T11:02:48Z"
+    "created_at": "2026-03-16T20:55:01Z"
   },
   {
     "id": "gh-1182683603",
     "name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research \u2192 content \u2192 blog \u2192 landing \u2192 deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 163,
+    "stars": 171,
     "language": "HTML",
     "topics": [
       "affiliate-marketing",
@@ -147,108 +100,11 @@
     "created_at": "2026-03-15T20:51:26Z"
   },
   {
-    "id": "gh-1181927093",
-    "name": "Demfier/openleaf",
-    "description": "AI-powered citation search & paper review for Overleaf \u2014 Chrome extension. Think Google Scholar but inside Overleaf. Also works with OpenAI Prism.",
-    "url": "https://github.com/Demfier/openleaf",
-    "stars": 112,
-    "language": "TypeScript",
-    "topics": [
-      "academic-writing",
-      "ai-assistant",
-      "bibliography",
-      "bibtex",
-      "chrome-extension",
-      "citation-search",
-      "latex",
-      "literature-search",
-      "litreview",
-      "litserach",
-      "llm",
-      "openai-prism",
-      "openalex",
-      "overleaf",
-      "paper-review",
-      "peer-review",
-      "research-tools",
-      "scholarly",
-      "semantic-scholar"
-    ],
-    "created_at": "2026-03-14T20:14:32Z"
-  },
-  {
-    "id": "gh-1181476077",
-    "name": "Claw-Company/clawcompany",
-    "description": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all.",
-    "url": "https://github.com/Claw-Company/clawcompany",
-    "stars": 88,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai",
-      "autonomous",
-      "clawapi",
-      "llm",
-      "multi-agent",
-      "typrscript",
-      "web4"
-    ],
-    "created_at": "2026-03-14T07:25:41Z"
-  },
-  {
-    "id": "gh-1183006363",
-    "name": "otadk/nuxt-edge-ai",
-    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
-    "url": "https://github.com/otadk/nuxt-edge-ai",
-    "stars": 61,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "edge-ai",
-      "llm",
-      "local-first",
-      "nitro",
-      "nuxt",
-      "nuxt-module",
-      "onnx",
-      "transformers",
-      "wasm"
-    ],
-    "created_at": "2026-03-16T07:13:34Z"
-  },
-  {
-    "id": "gh-1183667037",
-    "name": "taco-group/SparkVSR",
-    "description": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
-    "url": "https://github.com/taco-group/SparkVSR",
-    "stars": 53,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "generative-ai",
-      "generative-models",
-      "image-processing",
-      "llm",
-      "machine-learning",
-      "restoration",
-      "super-resolution",
-      "vfx",
-      "video",
-      "video-editing",
-      "video-generation",
-      "video-processing",
-      "video-restoration",
-      "video-streaming",
-      "vlm"
-    ],
-    "created_at": "2026-03-16T20:51:01Z"
-  },
-  {
     "id": "gh-1185590488",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 52,
+    "stars": 142,
     "language": "Python",
     "topics": [
       "agents",
@@ -275,11 +131,59 @@
     "created_at": "2026-03-18T18:38:02Z"
   },
   {
+    "id": "gh-1183006363",
+    "name": "otadk/nuxt-edge-ai",
+    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
+    "url": "https://github.com/otadk/nuxt-edge-ai",
+    "stars": 89,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "edge-ai",
+      "llm",
+      "local-first",
+      "nitro",
+      "nuxt",
+      "nuxt-module",
+      "onnx",
+      "transformers",
+      "wasm"
+    ],
+    "created_at": "2026-03-16T07:13:34Z"
+  },
+  {
+    "id": "gh-1183667037",
+    "name": "taco-group/SparkVSR",
+    "description": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
+    "url": "https://github.com/taco-group/SparkVSR",
+    "stars": 69,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "generative-ai",
+      "generative-models",
+      "image-processing",
+      "llm",
+      "machine-learning",
+      "restoration",
+      "super-resolution",
+      "vfx",
+      "video",
+      "video-editing",
+      "video-generation",
+      "video-processing",
+      "video-restoration",
+      "video-streaming",
+      "vlm"
+    ],
+    "created_at": "2026-03-16T20:51:01Z"
+  },
+  {
     "id": "gh-1185919289",
     "name": "addyosmani/agent-engineer",
     "description": "Agent Engineer - a practical course for software engineers",
     "url": "https://github.com/addyosmani/agent-engineer",
-    "stars": 49,
+    "stars": 55,
     "language": null,
     "topics": [
       "agentic-framework",
@@ -289,11 +193,31 @@
     "created_at": "2026-03-19T04:23:33Z"
   },
   {
+    "id": "gh-1184619267",
+    "name": "willynikes2/agent-orchestrator",
+    "description": "Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and Gemini.",
+    "url": "https://github.com/willynikes2/agent-orchestrator",
+    "stars": 52,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "failover",
+      "gemini",
+      "llm",
+      "multi-agent",
+      "orchestrator"
+    ],
+    "created_at": "2026-03-17T19:06:08Z"
+  },
+  {
     "id": "gh-1182930881",
     "name": "AbdelStark/attnres",
     "description": "Rust implementation of Attention Residuals from MoonshotAI/Kimi",
     "url": "https://github.com/AbdelStark/attnres",
-    "stars": 47,
+    "stars": 49,
     "language": "Rust",
     "topics": [
       "llm-inference",
@@ -333,5 +257,36 @@
       "txt2img"
     ],
     "created_at": "2026-03-17T18:28:19Z"
+  },
+  {
+    "id": "gh-1184606532",
+    "name": "lasthero3819/DeepFakeAI-GUI-2026",
+    "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
+    "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
+    "stars": 41,
+    "language": null,
+    "topics": [
+      "ai-avatar",
+      "ai-deep-fake",
+      "ai-video",
+      "ai-webcam",
+      "computer-vision",
+      "deep-learning",
+      "deepfake",
+      "deepfake-ai",
+      "face-swap",
+      "faceswap",
+      "faceswap-ai",
+      "fake-webcam",
+      "generative-ai",
+      "neural-network",
+      "opencv",
+      "real-time-deepfake",
+      "realtime-face-changer",
+      "roop",
+      "stable-diffusion",
+      "v-tuber"
+    ],
+    "created_at": "2026-03-17T18:49:01Z"
   }
 ]
