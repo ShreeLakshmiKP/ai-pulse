@@ -813,6 +813,19 @@
     "image": null
   },
   {
+    "id": "rss-bf069dd4",
+    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 22 Mar 2026 06:20:43 +0000",
+    "image": null
+  },
+  {
     "id": "rss-5acfb02d",
     "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
     "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
@@ -849,6 +862,50 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Sun, 15 Mar 2026 15:30:33 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e648870e",
+    "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
+    "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sat, 21 Mar 2026 19:30:27 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-881189d1",
+    "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
+    "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "tags": [
+      "regulation",
+      "startups"
+    ],
+    "category": "AI Policy",
+    "published_date": "Sat, 21 Mar 2026 17:00:05 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-577f4951",
+    "title": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+    "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 21 Mar 2026 16:28:00 +0000",
     "image": null
   },
   {

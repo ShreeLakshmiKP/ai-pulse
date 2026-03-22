@@ -1,70 +1,10 @@
 [
   {
-    "id": "gh-1182741097",
-    "name": "rasbt/llm-architecture-gallery",
-    "description": "LLM Architecture Gallery source data",
-    "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 809,
-    "language": null,
-    "topics": [
-      "ai",
-      "llms"
-    ],
-    "created_at": "2026-03-15T22:50:46Z"
-  },
-  {
-    "id": "gh-1182454913",
-    "name": "rzru/nightingale",
-    "description": "Machine learning powered Karaoke app (with scores!) ",
-    "url": "https://github.com/rzru/nightingale",
-    "stars": 715,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "bevy",
-      "bevy-engine",
-      "demucs",
-      "karaoke",
-      "karaoke-application",
-      "karaoke-game",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "ml",
-      "party",
-      "rust",
-      "whisper",
-      "whisper-ai",
-      "whisperx"
-    ],
-    "created_at": "2026-03-15T14:48:09Z"
-  },
-  {
-    "id": "gh-1182098521",
-    "name": "sstklen/trump-code",
-    "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
-    "url": "https://github.com/sstklen/trump-code",
-    "stars": 602,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "brute-force",
-      "machine-learning",
-      "open-data",
-      "polymarket",
-      "prediction",
-      "signal-analysis",
-      "stock-market",
-      "trump",
-      "truth-social"
-    ],
-    "created_at": "2026-03-15T03:13:51Z"
-  },
-  {
     "id": "gh-1183669668",
     "name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 236,
+    "stars": 243,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -74,37 +14,11 @@
     "created_at": "2026-03-16T20:55:01Z"
   },
   {
-    "id": "gh-1182683603",
-    "name": "Affitor/affiliate-skills",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research \u2192 content \u2192 blog \u2192 landing \u2192 deploy.",
-    "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 171,
-    "language": "HTML",
-    "topics": [
-      "affiliate-marketing",
-      "agent-skills",
-      "agentskills",
-      "ai",
-      "ai-agents",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "cursor",
-      "gemini",
-      "llm",
-      "marketing",
-      "open-source",
-      "saas",
-      "windsurf"
-    ],
-    "created_at": "2026-03-15T20:51:26Z"
-  },
-  {
     "id": "gh-1185590488",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 142,
+    "stars": 213,
     "language": "Python",
     "topics": [
       "agents",
@@ -131,32 +45,70 @@
     "created_at": "2026-03-18T18:38:02Z"
   },
   {
-    "id": "gh-1183006363",
-    "name": "otadk/nuxt-edge-ai",
-    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
-    "url": "https://github.com/otadk/nuxt-edge-ai",
-    "stars": 89,
-    "language": "TypeScript",
+    "id": "gh-1185528404",
+    "name": "Shpigford/chops",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+    "url": "https://github.com/Shpigford/chops",
+    "stars": 196,
+    "language": "Swift",
     "topics": [
       "ai",
-      "edge-ai",
-      "llm",
-      "local-first",
-      "nitro",
-      "nuxt",
-      "nuxt-module",
-      "onnx",
-      "transformers",
-      "wasm"
+      "macos",
+      "skills",
+      "swiftui"
     ],
-    "created_at": "2026-03-16T07:13:34Z"
+    "created_at": "2026-03-18T17:17:12Z"
+  },
+  {
+    "id": "gh-1187461911",
+    "name": "openyak/desktop",
+    "description": "Yak is all you need",
+    "url": "https://github.com/openyak/desktop",
+    "stars": 168,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "desktop-application",
+      "llm",
+      "local",
+      "mcp",
+      "open-source",
+      "skills",
+      "tools"
+    ],
+    "created_at": "2026-03-20T18:51:13Z"
+  },
+  {
+    "id": "gh-1184170771",
+    "name": "OpenRaiser/NanoResearch",
+    "description": "\ud83e\udd9e+\ud83d\udd2c: NanoResearch: The Autonomous AI Research Assistant",
+    "url": "https://github.com/OpenRaiser/NanoResearch",
+    "stars": 159,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-scientist",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "autonomous-research",
+      "autoresearch",
+      "claude-code",
+      "claude-skills",
+      "nanobot",
+      "openclaw"
+    ],
+    "created_at": "2026-03-17T10:20:31Z"
   },
   {
     "id": "gh-1183667037",
     "name": "taco-group/SparkVSR",
     "description": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
     "url": "https://github.com/taco-group/SparkVSR",
-    "stars": 69,
+    "stars": 97,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -179,11 +131,32 @@
     "created_at": "2026-03-16T20:51:01Z"
   },
   {
+    "id": "gh-1183006363",
+    "name": "otadk/nuxt-edge-ai",
+    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
+    "url": "https://github.com/otadk/nuxt-edge-ai",
+    "stars": 89,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "edge-ai",
+      "llm",
+      "local-first",
+      "nitro",
+      "nuxt",
+      "nuxt-module",
+      "onnx",
+      "transformers",
+      "wasm"
+    ],
+    "created_at": "2026-03-16T07:13:34Z"
+  },
+  {
     "id": "gh-1185919289",
     "name": "addyosmani/agent-engineer",
     "description": "Agent Engineer - a practical course for software engineers",
     "url": "https://github.com/addyosmani/agent-engineer",
-    "stars": 55,
+    "stars": 60,
     "language": null,
     "topics": [
       "agentic-framework",
@@ -197,7 +170,7 @@
     "name": "willynikes2/agent-orchestrator",
     "description": "Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and Gemini.",
     "url": "https://github.com/willynikes2/agent-orchestrator",
-    "stars": 52,
+    "stars": 54,
     "language": "Python",
     "topics": [
       "ai",
@@ -226,6 +199,67 @@
       "rust-machine-learning"
     ],
     "created_at": "2026-03-16T05:14:54Z"
+  },
+  {
+    "id": "gh-1183678209",
+    "name": "Gr122lyBr/voicetag",
+    "description": "Speaker identification powered by pyannote and resemblyzer",
+    "url": "https://github.com/Gr122lyBr/voicetag",
+    "stars": 41,
+    "language": "Python",
+    "topics": [
+      "audio-transcription",
+      "deep-learning",
+      "deepgram",
+      "diarization",
+      "groq",
+      "machine-learning",
+      "nlp",
+      "pyannote",
+      "python",
+      "resemblyzer",
+      "speaker-diarization",
+      "speaker-identification",
+      "speaker-recognition",
+      "speech-processing",
+      "speech-to-text",
+      "transcription",
+      "voice-recognition",
+      "whisper",
+      "whisper-ai"
+    ],
+    "created_at": "2026-03-16T21:08:33Z"
+  },
+  {
+    "id": "gh-1184606532",
+    "name": "lasthero3819/DeepFakeAI-GUI-2026",
+    "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
+    "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
+    "stars": 41,
+    "language": null,
+    "topics": [
+      "ai-avatar",
+      "ai-deep-fake",
+      "ai-video",
+      "ai-webcam",
+      "computer-vision",
+      "deep-learning",
+      "deepfake",
+      "deepfake-ai",
+      "face-swap",
+      "faceswap",
+      "faceswap-ai",
+      "fake-webcam",
+      "generative-ai",
+      "neural-network",
+      "opencv",
+      "real-time-deepfake",
+      "realtime-face-changer",
+      "roop",
+      "stable-diffusion",
+      "v-tuber"
+    ],
+    "created_at": "2026-03-17T18:49:01Z"
   },
   {
     "id": "gh-1184590501",
@@ -259,34 +293,26 @@
     "created_at": "2026-03-17T18:28:19Z"
   },
   {
-    "id": "gh-1184606532",
-    "name": "lasthero3819/DeepFakeAI-GUI-2026",
-    "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
-    "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
-    "stars": 41,
-    "language": null,
+    "id": "gh-1187386524",
+    "name": "matt-k-wong/mlx-flash",
+    "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.",
+    "url": "https://github.com/matt-k-wong/mlx-flash",
+    "stars": 33,
+    "language": "Python",
     "topics": [
-      "ai-avatar",
-      "ai-deep-fake",
-      "ai-video",
-      "ai-webcam",
-      "computer-vision",
-      "deep-learning",
-      "deepfake",
-      "deepfake-ai",
-      "face-swap",
-      "faceswap",
-      "faceswap-ai",
-      "fake-webcam",
-      "generative-ai",
-      "neural-network",
-      "opencv",
-      "real-time-deepfake",
-      "realtime-face-changer",
-      "roop",
-      "stable-diffusion",
-      "v-tuber"
+      "apple-silicon",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "lm-studio",
+      "machine-learning",
+      "macos",
+      "memory-optimization",
+      "metal",
+      "mlx",
+      "optimization",
+      "weight-streaming"
     ],
-    "created_at": "2026-03-17T18:49:01Z"
+    "created_at": "2026-03-20T17:04:42Z"
   }
 ]
