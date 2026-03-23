@@ -813,6 +813,80 @@
     "image": null
   },
   {
+    "id": "rss-f4027ab9",
+    "title": "Do you want to build a robot snowman?",
+    "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+    "tags": [
+      "robotics",
+      "NVIDIA"
+    ],
+    "category": "Robotics",
+    "published_date": "Sun, 22 Mar 2026 19:45:07 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2d60258d",
+    "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+    "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 22 Mar 2026 18:41:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ab9ad6ba",
+    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+    "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 22 Mar 2026 16:20:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-485043cf",
+    "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
+    "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "tags": [
+      "regulation",
+      "startups"
+    ],
+    "category": "AI Policy",
+    "published_date": "Sun, 22 Mar 2026 14:43:51 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0302c850",
+    "title": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
+    "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Sun, 22 Mar 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-bf069dd4",
     "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
     "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
