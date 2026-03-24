@@ -206,6 +206,21 @@
     "image": null
   },
   {
+    "id": "rss-1648b1c1",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 02:01:52 GMT",
+    "image": null
+  },
+  {
     "id": "rss-71c5e57a",
     "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
     "summary": "",
@@ -1034,6 +1049,133 @@
     "tags": [],
     "category": "Research",
     "published_date": "Sat, 03 Aug 2024 17:00:43 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-61013804",
+    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+    "summary": "London\u2019s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Mon, 23 Mar 2026 22:36:39 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-892b8ef0",
+    "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
+    "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "tags": [
+      "Claude"
+    ],
+    "category": "AI Models",
+    "published_date": "Mon, 23 Mar 2026 20:15:59 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f21cf4bf",
+    "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+    "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Mon, 23 Mar 2026 18:22:04 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-110a0adc",
+    "title": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019",
+    "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Mon, 23 Mar 2026 18:00:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ec9b34ed",
+    "title": "The hardest question to answer about AI-fueled delusions",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Mon, 23 Mar 2026 16:31:20 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-54b361c8",
+    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+    "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "tags": [
+      "startups",
+      "NVIDIA",
+      "inference"
+    ],
+    "category": "AI Startups",
+    "published_date": "Mon, 23 Mar 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ed423aeb",
+    "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Mon, 23 Mar 2026 12:17:33 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1078cf07",
+    "title": "The Bay Area\u2019s animal welfare movement wants to recruit AI",
+    "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 23 Mar 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1cb4adf2",
+    "title": "Creating with Sora Safely",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we\u2019ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/creating-with-sora-safely",
+    "tags": [
+      "safety"
+    ],
+    "category": "AI Tools",
+    "published_date": "Mon, 23 Mar 2026 00:00:00 GMT",
     "image": null
   },
   {

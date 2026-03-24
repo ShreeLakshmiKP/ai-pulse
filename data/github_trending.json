@@ -4,7 +4,7 @@
     "name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 423,
+    "stars": 533,
     "language": "Swift",
     "topics": [
       "ai",
@@ -15,31 +15,11 @@
     "created_at": "2026-03-18T17:17:12Z"
   },
   {
-    "id": "gh-1187461911",
-    "name": "openyak/desktop",
-    "description": "Yak is all you need",
-    "url": "https://github.com/openyak/desktop",
-    "stars": 360,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "desktop-application",
-      "llm",
-      "local",
-      "mcp",
-      "open-source",
-      "skills",
-      "tools"
-    ],
-    "created_at": "2026-03-20T18:51:13Z"
-  },
-  {
     "id": "gh-1185590488",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 349,
+    "stars": 416,
     "language": "Python",
     "topics": [
       "agents",
@@ -70,7 +50,7 @@
     "name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials \u2014 no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 348,
+    "stars": 397,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -88,35 +68,31 @@
     "created_at": "2026-03-19T21:35:23Z"
   },
   {
-    "id": "gh-1184170771",
-    "name": "OpenRaiser/NanoResearch",
-    "description": "\ud83e\udd9e+\ud83d\udd2c: NanoResearch: The Autonomous AI Research Assistant",
-    "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 193,
+    "id": "gh-1187461911",
+    "name": "openyak/desktop",
+    "description": "Yak is all you need",
+    "url": "https://github.com/openyak/desktop",
+    "stars": 262,
     "language": "Python",
     "topics": [
-      "agent-skills",
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-scientist",
-      "artificial-intelligence",
-      "autonomous-agents",
-      "autonomous-research",
-      "autoresearch",
-      "claude-code",
-      "claude-skills",
-      "nanobot",
-      "openclaw"
+      "agent",
+      "agentic-ai",
+      "desktop-application",
+      "llm",
+      "local",
+      "mcp",
+      "open-source",
+      "skills",
+      "tools"
     ],
-    "created_at": "2026-03-17T10:20:31Z"
+    "created_at": "2026-03-20T18:51:13Z"
   },
   {
     "id": "gh-1188180267",
     "name": "mnfst/awesome-free-llm-apis",
     "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 166,
+    "stars": 241,
     "language": null,
     "topics": [
       "ai-agents",
@@ -134,41 +110,65 @@
     "created_at": "2026-03-21T18:14:07Z"
   },
   {
-    "id": "gh-1185802862",
-    "name": "open-gitagent/clawless",
-    "description": "ClawLess \u2014 A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
-    "url": "https://github.com/open-gitagent/clawless",
-    "stars": 98,
-    "language": "TypeScript",
+    "id": "gh-1187805808",
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 199,
+    "language": "Markdown",
     "topics": [
-      "agent-runtime",
+      "agents",
       "ai",
       "ai-agents",
-      "ai-sandbox",
-      "audit-logging",
-      "browser-runtime",
-      "clawless",
-      "developer-tools",
-      "gitagent",
-      "monaco-editor",
-      "openclaw",
-      "policy-engine",
-      "runtime",
-      "sandbox",
-      "serverless",
-      "terminal",
-      "typescript",
-      "wasm",
-      "webcontainers"
+      "ai-engineering",
+      "fine-tuning",
+      "interview",
+      "interview-preparation",
+      "interview-questions",
+      "llm",
+      "mcp",
+      "quantization",
+      "questions-and-answers",
+      "rag"
     ],
-    "created_at": "2026-03-19T00:42:58Z"
+    "created_at": "2026-03-21T07:28:38Z"
+  },
+  {
+    "id": "gh-1188322477",
+    "name": "samber/cc-skills-golang",
+    "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
+    "url": "https://github.com/samber/cc-skills-golang",
+    "stars": 157,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "ai",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "code",
+      "codex",
+      "coding",
+      "copilot",
+      "cursor",
+      "gemini",
+      "gemini-cli-extension",
+      "openclaw",
+      "opencode",
+      "plugin",
+      "skills",
+      "skillsmp",
+      "vibe-coding"
+    ],
+    "created_at": "2026-03-21T23:10:11Z"
   },
   {
     "id": "gh-1186826615",
     "name": "Aquifer-sea/pattern8",
     "description": "\ud83c\udfb1 AI Agent Governance Framework \u2014 Constrain how AI Agents behave in your project. pip install pattern8",
     "url": "https://github.com/Aquifer-sea/pattern8",
-    "stars": 80,
+    "stars": 99,
     "language": "Python",
     "topics": [
       "agent",
@@ -192,7 +192,7 @@
     "name": "dubermandeer/Worm-GPT-LLM-2026",
     "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, bypass alignment guardrails, and utilize free autonomous uncensored conversational logic locally.",
     "url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
-    "stars": 74,
+    "stars": 75,
     "language": "C++",
     "topics": [
       "adversarial-ai",
@@ -223,7 +223,7 @@
     "name": "addyosmani/agent-engineer",
     "description": "Agent Engineer - a practical course for software engineers",
     "url": "https://github.com/addyosmani/agent-engineer",
-    "stars": 61,
+    "stars": 65,
     "language": null,
     "topics": [
       "agentic-framework",
@@ -233,31 +233,11 @@
     "created_at": "2026-03-19T04:23:33Z"
   },
   {
-    "id": "gh-1184619267",
-    "name": "willynikes2/agent-orchestrator",
-    "description": "Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and Gemini.",
-    "url": "https://github.com/willynikes2/agent-orchestrator",
-    "stars": 57,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude",
-      "cli",
-      "codex",
-      "failover",
-      "gemini",
-      "llm",
-      "multi-agent",
-      "orchestrator"
-    ],
-    "created_at": "2026-03-17T19:06:08Z"
-  },
-  {
     "id": "gh-1187386524",
     "name": "matt-k-wong/mlx-flash",
     "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.",
     "url": "https://github.com/matt-k-wong/mlx-flash",
-    "stars": 43,
+    "stars": 48,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -276,73 +256,11 @@
     "created_at": "2026-03-20T17:04:42Z"
   },
   {
-    "id": "gh-1184590501",
-    "name": "yodamanleon52/Image-AI-Generator-2026",
-    "description": "AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stunning, high-quality artwork, photorealistic renders, and creative concepts quickly and easily.",
-    "url": "https://github.com/yodamanleon52/Image-AI-Generator-2026",
-    "stars": 41,
-    "language": null,
-    "topics": [
-      "ai-art-generator",
-      "ai-image-generator",
-      "automatic1111",
-      "comfyui",
-      "controlnet",
-      "dalle-3",
-      "diffusers",
-      "diffusion-models",
-      "flux",
-      "generative-ai",
-      "image-to-image",
-      "img2img",
-      "inpainting",
-      "lora",
-      "midjourney-alternative",
-      "sdxl",
-      "stable-diffusion",
-      "stable-diffusion-3",
-      "text-to-image",
-      "txt2img"
-    ],
-    "created_at": "2026-03-17T18:28:19Z"
-  },
-  {
-    "id": "gh-1184606532",
-    "name": "lasthero3819/DeepFakeAI-GUI-2026",
-    "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
-    "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
-    "stars": 41,
-    "language": null,
-    "topics": [
-      "ai-avatar",
-      "ai-deep-fake",
-      "ai-video",
-      "ai-webcam",
-      "computer-vision",
-      "deep-learning",
-      "deepfake",
-      "deepfake-ai",
-      "face-swap",
-      "faceswap",
-      "faceswap-ai",
-      "fake-webcam",
-      "generative-ai",
-      "neural-network",
-      "opencv",
-      "real-time-deepfake",
-      "realtime-face-changer",
-      "roop",
-      "stable-diffusion",
-      "v-tuber"
-    ],
-    "created_at": "2026-03-17T18:49:01Z"
-  },
-  {
     "id": "gh-1188617931",
     "name": "pharaongayd/Album-Formula-Ai-2026-Update",
     "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |",
     "url": "https://github.com/pharaongayd/Album-Formula-Ai-2026-Update",
-    "stars": 40,
+    "stars": 41,
     "language": null,
     "topics": [
       "ai",
@@ -365,5 +283,60 @@
       "smart-album"
     ],
     "created_at": "2026-03-22T10:48:58Z"
+  },
+  {
+    "id": "gh-1186451081",
+    "name": "Valentinetemi/asl-sign-detection-mediapipe-rf",
+    "description": "Real-time ASL sign language detector using MediaPipe hand landmarks + XGBoost \u2014 98.43% accuracy, skin-tone agnostic, no CNN",
+    "url": "https://github.com/Valentinetemi/asl-sign-detection-mediapipe-rf",
+    "stars": 15,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "computer-science",
+      "computer-vision",
+      "data-science",
+      "machine-learning",
+      "python"
+    ],
+    "created_at": "2026-03-19T16:30:49Z"
+  },
+  {
+    "id": "gh-1185635082",
+    "name": "OSSAIManifesto/manifesto",
+    "description": "Principles and guidelines for the responsible use of generative AI in open-source software development.",
+    "url": "https://github.com/OSSAIManifesto/manifesto",
+    "stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "community",
+      "generative-ai",
+      "initiative",
+      "opensource",
+      "oss",
+      "responsible-ai",
+      "software-stewardship"
+    ],
+    "created_at": "2026-03-18T19:41:18Z"
+  },
+  {
+    "id": "gh-1186605816",
+    "name": "0xunderl0rd/AI4H-DoomGen",
+    "description": "Prompt-driven DOOM mod prototyping with cloud and local model backends.",
+    "url": "https://github.com/0xunderl0rd/AI4H-DoomGen",
+    "stars": 6,
+    "language": "C",
+    "topics": [
+      "doom",
+      "gamedev",
+      "generative-ai",
+      "modding",
+      "ollama",
+      "openai",
+      "preact",
+      "vite",
+      "webassembly"
+    ],
+    "created_at": "2026-03-19T20:00:28Z"
   }
 ]

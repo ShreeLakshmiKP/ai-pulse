@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47476422",
-    "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-    "url": "https://github.com/danveloper/flash-moe",
-    "points": 334,
-    "comments": 113,
+    "id": "hn-47490070",
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "points": 564,
+    "comments": 260,
     "source": "Hacker News",
-    "published_date": "2026-03-22T11:30:03Z"
+    "published_date": "2026-03-23T14:30:10Z"
   },
   {
-    "id": "hn-47480200",
-    "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
-    "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+    "id": "hn-47487584",
+    "title": "GitHub appears to be struggling with measly three nines availability",
+    "url": "https://www.theregister.com/2026/02/10/github_outages/",
+    "points": 447,
+    "comments": 232,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T10:39:39Z"
+  },
+  {
+    "id": "hn-47492599",
+    "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
+    "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
+    "points": 394,
+    "comments": 311,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T17:35:38Z"
+  },
+  {
+    "id": "hn-47495527",
+    "title": "Claude Code Cheat Sheet",
+    "url": "https://cc.storyfox.cz",
+    "points": 303,
+    "comments": 98,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T21:44:20Z"
+  },
+  {
+    "id": "hn-47497757",
+    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "points": 259,
+    "comments": 184,
+    "source": "Hacker News",
+    "published_date": "2026-03-24T01:53:09Z"
+  },
+  {
+    "id": "hn-47487536",
+    "title": "I built an AI receptionist for a mechanic shop",
+    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+    "points": 252,
+    "comments": 273,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T10:32:33Z"
+  },
+  {
+    "id": "hn-47496221",
+    "title": "Windows 3.1 tiled background .bmp archive",
+    "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+    "points": 225,
+    "comments": 62,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T22:52:35Z"
+  },
+  {
+    "id": "hn-47493657",
+    "title": "Local Stack Archived their GitHub repo and requires an account to run",
+    "url": "https://github.com/localstack/localstack",
     "points": 185,
-    "comments": 59,
+    "comments": 105,
     "source": "Hacker News",
-    "published_date": "2026-03-22T17:56:26Z"
+    "published_date": "2026-03-23T18:57:08Z"
   },
   {
-    "id": "hn-47482825",
-    "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-    "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-    "points": 132,
-    "comments": 72,
+    "id": "hn-47494890",
+    "title": "How I'm Productive with Claude Code",
+    "url": "https://neilkakkar.com/productive-with-claude-code.html",
+    "points": 171,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-03-22T22:19:03Z"
+    "published_date": "2026-03-23T20:49:10Z"
   },
   {
-    "id": "hn-47479115",
-    "title": "Ask HN: Apple terminated our dev account over a rogue employee",
-    "url": "https://news.ycombinator.com/item?id=47479115",
-    "points": 128,
-    "comments": 30,
+    "id": "hn-47491466",
+    "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
+    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+    "points": 115,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-03-22T16:23:50Z"
+    "published_date": "2026-03-23T16:11:03Z"
   },
   {
-    "id": "hn-47480447",
-    "title": "What Young Workers Are Doing to AI-Proof Themselves",
-    "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-    "points": 117,
-    "comments": 185,
+    "id": "hn-47488635",
+    "title": "Fyn: An uv fork with new features, bug fixes, stripped telemetry",
+    "url": "https://github.com/duriantaco/fyn",
+    "points": 85,
+    "comments": 79,
     "source": "Hacker News",
-    "published_date": "2026-03-22T18:18:01Z"
+    "published_date": "2026-03-23T12:37:39Z"
   },
   {
-    "id": "hn-47475859",
-    "title": "Ask HN: AI productivity gains \u2013 do you fire devs or build better products?",
-    "url": "https://news.ycombinator.com/item?id=47475859",
-    "points": 90,
-    "comments": 157,
+    "id": "hn-47494821",
+    "title": "A retro terminal music player inspired by Winamp",
+    "url": "https://github.com/bjarneo/cliamp",
+    "points": 78,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-03-22T09:37:30Z"
+    "published_date": "2026-03-23T20:42:22Z"
   },
   {
-    "id": "hn-47480900",
-    "title": "Teaching Claude to QA a mobile app",
-    "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-    "points": 90,
-    "comments": 11,
+    "id": "hn-47496305",
+    "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
+    "url": "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
+    "points": 75,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-03-22T19:04:00Z"
+    "published_date": "2026-03-23T23:02:01Z"
   },
   {
-    "id": "hn-47480685",
-    "title": "Tom Homan confirms ICE to be at airports starting Monday",
-    "url": "https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426",
-    "points": 80,
-    "comments": 81,
+    "id": "hn-47493194",
+    "title": "Designing AI for Disruptive Science",
+    "url": "https://www.asimov.press/p/ai-science",
+    "points": 71,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-03-22T18:42:42Z"
+    "published_date": "2026-03-23T18:19:05Z"
   },
   {
-    "id": "hn-47477339",
-    "title": "Show HN: Revise \u2013 An AI Editor for Documents",
-    "url": "https://revise.io",
-    "points": 65,
-    "comments": 59,
+    "id": "hn-47497679",
+    "title": "I created my first AI-assisted pull request",
+    "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+    "points": 70,
+    "comments": 70,
     "source": "Hacker News",
-    "published_date": "2026-03-22T13:28:45Z"
+    "published_date": "2026-03-24T01:42:38Z"
   },
   {
-    "id": "hn-47475155",
-    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-    "url": "https://zenodo.org/records/18976656",
+    "id": "hn-47495568",
+    "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
+    "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
+    "points": 68,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T21:47:42Z"
+  },
+  {
+    "id": "hn-47491414",
+    "title": "Show HN: Threadprocs \u2013 executables sharing one address space (0-copy pointers)",
+    "url": "https://github.com/jer-irl/threadprocs",
+    "points": 63,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T16:08:01Z"
+  },
+  {
+    "id": "hn-47486644",
+    "title": "White-collar AI apocalypse narrative is just another bullshit",
+    "url": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/",
+    "points": 59,
+    "comments": 100,
+    "source": "Hacker News",
+    "published_date": "2026-03-23T08:16:34Z"
+  },
+  {
+    "id": "hn-47496583",
+    "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+    "url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
     "points": 50,
     "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-03-22T07:07:15Z"
+    "published_date": "2026-03-23T23:32:17Z"
   },
   {
-    "id": "hn-47482949",
-    "title": "Can the world get its supply of oil by bypassing the Strait of Hormuz?",
-    "url": "https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html",
-    "points": 28,
-    "comments": 26,
+    "id": "hn-47489255",
+    "title": "Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 Trial",
+    "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate",
+    "points": 45,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-03-22T22:33:13Z"
-  },
-  {
-    "id": "hn-47482252",
-    "title": "AI Is Garbage and a Bubble",
-    "url": "https://www.richardcarrier.info/archives/38652",
-    "points": 25,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T21:17:43Z"
-  },
-  {
-    "id": "hn-47480219",
-    "title": "Ga. Court Order Included AI-Hallucinated Cases from Prosecutor's Proposed Order",
-    "url": "https://reason.com/volokh/2026/03/21/georgia-court-order-apparently-included-ai-hallucinated-cases-copied-from-prosecutors-proposed-order/",
-    "points": 20,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T17:58:31Z"
-  },
-  {
-    "id": "hn-47485098",
-    "title": "Storing Solar Energy as Ice for Air Conditioning",
-    "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
-    "points": 19,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-03-23T03:07:41Z"
-  },
-  {
-    "id": "hn-47484833",
-    "title": "AI ends online anonymity: the ease of unmasking pseudonymous accounts",
-    "url": "https://english.elpais.com/technology/2026-03-12/ai-ends-online-anonymity-the-ease-of-unmasking-pseudonymous-accounts.html",
-    "points": 17,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-03-23T02:26:01Z"
-  },
-  {
-    "id": "hn-47476597",
-    "title": "A Visual Guide to Attention Variants in Modern LLMs",
-    "url": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
-    "points": 17,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T11:57:05Z"
-  },
-  {
-    "id": "hn-47483455",
-    "title": "Apply video compression on KV cache to 10,000x less error at Q4 quant",
-    "url": "https://github.com/cenconq25/delta-compress-llm",
-    "points": 17,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T23:27:32Z"
-  },
-  {
-    "id": "hn-47477653",
-    "title": "Nintendo's not-AI, not-a-game toy",
-    "url": "https://tapestry.news/culture/nintendo-talking-flower/",
-    "points": 15,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T14:01:28Z"
-  },
-  {
-    "id": "hn-47475232",
-    "title": "We've had front end reactivity since 2018 \u2013 via Async Iterables",
-    "url": "https://github.com/SacDeNoeuds/yawn",
-    "points": 13,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T07:21:22Z"
-  },
-  {
-    "id": "hn-47483586",
-    "title": "Unlocking 25 Gigabit/S on 10 GbE Direct Attach Copper",
-    "url": "https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/",
-    "points": 13,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-03-22T23:44:33Z"
+    "published_date": "2026-03-23T13:27:38Z"
   }
 ]
