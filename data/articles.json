@@ -1,5 +1,20 @@
 [
   {
+    "id": "rss-9a9029b5",
+    "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+    "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Mar 2026 00:47:20 +0000",
+    "image": null
+  },
+  {
     "id": "rss-402e28f8",
     "title": "Meta is having trouble with rogue AI agents",
     "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
@@ -203,6 +218,156 @@
     ],
     "category": "Robotics",
     "published_date": "Wed, 04 Jun 2025 14:00:29 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-9b9139cc",
+    "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+    "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 23:57:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4a3f9e7e",
+    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 24 Mar 2026 22:22:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e10571cb",
+    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+    "summary": "Anthropic\u2019s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "tags": [
+      "Claude",
+      "safety",
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 21:00:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fa092ffb",
+    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+    "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 20:56:25 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d8230d80",
+    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+    "summary": "We\u2019re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as \u201cIf we continue on the current path \u2026 we are basically playing Russian roulette with humanity.\u201d by Grace Huckins June 12, 2025 Rel...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 18:17:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5cf89d15",
+    "title": "This scientist rewarmed and studied pieces of his friend\u2019s cryopreserved brain",
+    "summary": "L. Stephen Coles\u2019s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around \u2212146 degrees \u00b0C for over a decade, largely undisturbed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 24 Mar 2026 16:43:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1cab419c",
+    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 24 Mar 2026 12:28:27 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8da73ea9",
+    "title": "Helping developers build safer AI experiences for teens",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "tags": [
+      "GPT",
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-20bbe053",
+    "title": "Update on the OpenAI Foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-0b5ae954",
+    "title": "Powering product discovery in ChatGPT",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 24 Mar 2026 09:00:00 GMT",
     "image": null
   },
   {

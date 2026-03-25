@@ -1,8 +1,12 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "headline": "TechCrunch AI \u00b7 TechCrunch AI \u00b7 TechCrunch AI",
-  "top_story": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+  "top_story": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
   "highlights": [
+    {
+      "type": "tool",
+      "text": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI"
+    },
     {
       "type": "tool",
       "text": "Meta is having trouble with rogue AI agents"
@@ -18,13 +22,9 @@
     {
       "type": "research",
       "text": "The Download: The Pentagon\u2019s new AI plans, and next-gen nuclear reactors"
-    },
-    {
-      "type": "policy",
-      "text": "After Orthogonality: Virtue-Ethical Agency and AI Alignment"
     }
   ],
-  "stat_of_the_day": "Today's feed: 50 articles \u2014 15 in AI Tools.",
+  "stat_of_the_day": "Today's feed: 50 articles \u2014 19 in AI Tools.",
   "trending_tools": [
     "tool-001",
     "tool-002",
@@ -32,8 +32,8 @@
     "tool-006"
   ],
   "top_articles": [
+    "rss-9a9029b5",
     "rss-402e28f8",
-    "rss-e243f719",
-    "rss-8af459e4"
+    "rss-e243f719"
   ]
 }

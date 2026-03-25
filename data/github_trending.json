@@ -1,56 +1,32 @@
 [
   {
-    "id": "gh-1185528404",
-    "name": "Shpigford/chops",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-    "url": "https://github.com/Shpigford/chops",
-    "stars": 533,
-    "language": "Swift",
+    "id": "gh-1188180267",
+    "name": "mnfst/awesome-free-llm-apis",
+    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 469,
+    "language": null,
     "topics": [
-      "ai",
-      "macos",
-      "skills",
-      "swiftui"
-    ],
-    "created_at": "2026-03-18T17:17:12Z"
-  },
-  {
-    "id": "gh-1185590488",
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 416,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
+      "anthropic",
+      "gemini",
       "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
+      "llm-router",
+      "llm-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "openclaw-plugin",
+      "router"
     ],
-    "created_at": "2026-03-18T18:38:02Z"
+    "created_at": "2026-03-21T18:14:07Z"
   },
   {
     "id": "gh-1186664179",
     "name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials \u2014 no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 397,
+    "stars": 458,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -72,7 +48,7 @@
     "name": "openyak/desktop",
     "description": "Yak is all you need",
     "url": "https://github.com/openyak/desktop",
-    "stars": 262,
+    "stars": 280,
     "language": "Python",
     "topics": [
       "agent",
@@ -88,57 +64,11 @@
     "created_at": "2026-03-20T18:51:13Z"
   },
   {
-    "id": "gh-1188180267",
-    "name": "mnfst/awesome-free-llm-apis",
-    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
-    "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 241,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "gemini",
-      "llm",
-      "llm-router",
-      "llm-routing",
-      "ollama",
-      "openai",
-      "openclaw",
-      "openclaw-plugin",
-      "router"
-    ],
-    "created_at": "2026-03-21T18:14:07Z"
-  },
-  {
-    "id": "gh-1187805808",
-    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 199,
-    "language": "Markdown",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "fine-tuning",
-      "interview",
-      "interview-preparation",
-      "interview-questions",
-      "llm",
-      "mcp",
-      "quantization",
-      "questions-and-answers",
-      "rag"
-    ],
-    "created_at": "2026-03-21T07:28:38Z"
-  },
-  {
     "id": "gh-1188322477",
     "name": "samber/cc-skills-golang",
     "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 157,
+    "stars": 265,
     "language": "Go",
     "topics": [
       "agent",
@@ -164,28 +94,120 @@
     "created_at": "2026-03-21T23:10:11Z"
   },
   {
-    "id": "gh-1186826615",
-    "name": "Aquifer-sea/pattern8",
-    "description": "\ud83c\udfb1 AI Agent Governance Framework \u2014 Constrain how AI Agents behave in your project. pip install pattern8",
-    "url": "https://github.com/Aquifer-sea/pattern8",
-    "stars": 99,
-    "language": "Python",
+    "id": "gh-1188845498",
+    "name": "WecoAI/awesome-autoresearch",
+    "description": "A curated list of AutoResearch use cases and open source implementations",
+    "url": "https://github.com/WecoAI/awesome-autoresearch",
+    "stars": 260,
+    "language": null,
     "topics": [
-      "agent",
+      "ai-agents",
+      "ai-research",
+      "automated-machine-learning",
+      "autonomous-agents",
+      "autoresearch",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "code-optimization",
+      "curated-list",
+      "llm",
+      "self-improving-ai"
+    ],
+    "created_at": "2026-03-22T16:59:33Z"
+  },
+  {
+    "id": "gh-1187805808",
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 249,
+    "language": "Markdown",
+    "topics": [
+      "agents",
       "ai",
-      "ai-safety",
-      "claude",
-      "cursor",
-      "devtools",
-      "framework",
-      "gemini",
-      "governance",
+      "ai-agents",
+      "ai-engineering",
+      "fine-tuning",
+      "interview",
+      "interview-preparation",
+      "interview-questions",
       "llm",
       "mcp",
-      "python",
+      "quantization",
+      "questions-and-answers",
+      "rag"
+    ],
+    "created_at": "2026-03-21T07:28:38Z"
+  },
+  {
+    "id": "gh-1187846546",
+    "name": "patoles/agent-flow",
+    "description": "Real-time visualization of Claude Code agent orchestration \u2014 see your agents think, branch, and coordinate as they work.",
+    "url": "https://github.com/patoles/agent-flow",
+    "stars": 228,
+    "language": "TypeScript",
+    "topics": [
+      "agent-visualization",
+      "ai-agents",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "vscode-extension"
+    ],
+    "created_at": "2026-03-21T08:53:27Z"
+  },
+  {
+    "id": "gh-1188660860",
+    "name": "hkcanan/katmer-code",
+    "description": "Claude Code inside Obsidian \u2014 academic research skills, inline diff editing, MCP support",
+    "url": "https://github.com/hkcanan/katmer-code",
+    "stars": 148,
+    "language": "TypeScript",
+    "topics": [
+      "academic-research",
+      "ai",
+      "claude",
+      "obsidian",
+      "obsidian-plugin"
+    ],
+    "created_at": "2026-03-22T12:08:26Z"
+  },
+  {
+    "id": "gh-1188905359",
+    "name": "luoling8192/ai-coding-principles",
+    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
+    "url": "https://github.com/luoling8192/ai-coding-principles",
+    "stars": 116,
+    "language": null,
+    "topics": [
+      "ai",
+      "claude-code",
+      "ddia",
       "skills"
     ],
-    "created_at": "2026-03-20T03:02:59Z"
+    "created_at": "2026-03-22T18:34:13Z"
+  },
+  {
+    "id": "gh-1186594901",
+    "name": "Dominien/brunnfeld-agentic-world",
+    "description": "Medieval village economy simulation \u2014 20 LLM agents in a world driven by supply chains, hunger, tool degradation and market pressure. Agentic, brunnfeld, world.",
+    "url": "https://github.com/Dominien/brunnfeld-agentic-world",
+    "stars": 90,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "generative-ai",
+      "llm",
+      "medieval",
+      "multi-agent",
+      "nodejs",
+      "openrouter",
+      "simulation",
+      "typescript"
+    ],
+    "created_at": "2026-03-19T19:44:26Z"
   },
   {
     "id": "gh-1187975106",
@@ -223,7 +245,7 @@
     "name": "addyosmani/agent-engineer",
     "description": "Agent Engineer - a practical course for software engineers",
     "url": "https://github.com/addyosmani/agent-engineer",
-    "stars": 65,
+    "stars": 70,
     "language": null,
     "topics": [
       "agentic-framework",
@@ -237,7 +259,7 @@
     "name": "matt-k-wong/mlx-flash",
     "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.",
     "url": "https://github.com/matt-k-wong/mlx-flash",
-    "stars": 48,
+    "stars": 54,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -285,58 +307,19 @@
     "created_at": "2026-03-22T10:48:58Z"
   },
   {
-    "id": "gh-1186451081",
-    "name": "Valentinetemi/asl-sign-detection-mediapipe-rf",
-    "description": "Real-time ASL sign language detector using MediaPipe hand landmarks + XGBoost \u2014 98.43% accuracy, skin-tone agnostic, no CNN",
-    "url": "https://github.com/Valentinetemi/asl-sign-detection-mediapipe-rf",
-    "stars": 15,
-    "language": "Jupyter Notebook",
+    "id": "gh-1186626107",
+    "name": "UdaraJay/tiny-router",
+    "description": "Compact multi-head text classifier for short, domain-neutral routing decisions. ",
+    "url": "https://github.com/UdaraJay/tiny-router",
+    "stars": 32,
+    "language": "Python",
     "topics": [
-      "computer-science",
-      "computer-vision",
-      "data-science",
+      "intent-classification",
       "machine-learning",
-      "python"
+      "nlp",
+      "routing",
+      "text-classification"
     ],
-    "created_at": "2026-03-19T16:30:49Z"
-  },
-  {
-    "id": "gh-1185635082",
-    "name": "OSSAIManifesto/manifesto",
-    "description": "Principles and guidelines for the responsible use of generative AI in open-source software development.",
-    "url": "https://github.com/OSSAIManifesto/manifesto",
-    "stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "community",
-      "generative-ai",
-      "initiative",
-      "opensource",
-      "oss",
-      "responsible-ai",
-      "software-stewardship"
-    ],
-    "created_at": "2026-03-18T19:41:18Z"
-  },
-  {
-    "id": "gh-1186605816",
-    "name": "0xunderl0rd/AI4H-DoomGen",
-    "description": "Prompt-driven DOOM mod prototyping with cloud and local model backends.",
-    "url": "https://github.com/0xunderl0rd/AI4H-DoomGen",
-    "stars": 6,
-    "language": "C",
-    "topics": [
-      "doom",
-      "gamedev",
-      "generative-ai",
-      "modding",
-      "ollama",
-      "openai",
-      "preact",
-      "vite",
-      "webassembly"
-    ],
-    "created_at": "2026-03-19T20:00:28Z"
+    "created_at": "2026-03-19T20:31:33Z"
   }
 ]
