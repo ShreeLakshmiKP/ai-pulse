@@ -4,7 +4,7 @@
     "name": "mnfst/awesome-free-llm-apis",
     "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 469,
+    "stars": 723,
     "language": null,
     "topics": [
       "ai-agents",
@@ -22,53 +22,61 @@
     "created_at": "2026-03-21T18:14:07Z"
   },
   {
-    "id": "gh-1186664179",
-    "name": "griffinmartin/opencode-claude-auth",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials \u2014 no separate login needed",
-    "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 458,
-    "language": "TypeScript",
+    "id": "gh-1188362803",
+    "name": "CoderLuii/HolyClaude",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+    "url": "https://github.com/CoderLuii/HolyClaude",
+    "stars": 515,
+    "language": "Dockerfile",
     "topics": [
       "ai",
+      "ai-coding",
       "anthropic",
-      "authentication",
       "claude",
       "claude-code",
-      "homebrew",
-      "nodejs",
-      "oauth",
-      "opencode",
-      "opencode-plugin",
-      "typescript"
+      "coding-agent",
+      "container",
+      "developer-tools",
+      "devtools",
+      "docker",
+      "docker-compose",
+      "gemini",
+      "headless-browser",
+      "openai",
+      "playwright"
     ],
-    "created_at": "2026-03-19T21:35:23Z"
+    "created_at": "2026-03-22T01:03:18Z"
   },
   {
-    "id": "gh-1187461911",
-    "name": "openyak/desktop",
-    "description": "Yak is all you need",
-    "url": "https://github.com/openyak/desktop",
-    "stars": 280,
-    "language": "Python",
+    "id": "gh-1187805808",
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 413,
+    "language": "Markdown",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "desktop-application",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "fine-tuning",
+      "interview",
+      "interview-preparation",
+      "interview-questions",
       "llm",
-      "local",
       "mcp",
-      "open-source",
-      "skills",
-      "tools"
+      "quantization",
+      "questions-and-answers",
+      "rag"
     ],
-    "created_at": "2026-03-20T18:51:13Z"
+    "created_at": "2026-03-21T07:28:38Z"
   },
   {
     "id": "gh-1188322477",
     "name": "samber/cc-skills-golang",
     "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 265,
+    "stars": 332,
     "language": "Go",
     "topics": [
       "agent",
@@ -94,11 +102,48 @@
     "created_at": "2026-03-21T23:10:11Z"
   },
   {
+    "id": "gh-1187846546",
+    "name": "patoles/agent-flow",
+    "description": "Real-time visualization of Claude Code agent orchestration \u2014 see your agents think, branch, and coordinate as they work.",
+    "url": "https://github.com/patoles/agent-flow",
+    "stars": 324,
+    "language": "TypeScript",
+    "topics": [
+      "agent-visualization",
+      "ai-agents",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "vscode-extension"
+    ],
+    "created_at": "2026-03-21T08:53:27Z"
+  },
+  {
+    "id": "gh-1187461911",
+    "name": "openyak/desktop",
+    "description": "Yak is all you need",
+    "url": "https://github.com/openyak/desktop",
+    "stars": 290,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "desktop-application",
+      "llm",
+      "local",
+      "mcp",
+      "open-source",
+      "skills",
+      "tools"
+    ],
+    "created_at": "2026-03-20T18:51:13Z"
+  },
+  {
     "id": "gh-1188845498",
     "name": "WecoAI/awesome-autoresearch",
     "description": "A curated list of AutoResearch use cases and open source implementations",
     "url": "https://github.com/WecoAI/awesome-autoresearch",
-    "stars": 260,
+    "stars": 289,
     "language": null,
     "topics": [
       "ai-agents",
@@ -117,52 +162,34 @@
     "created_at": "2026-03-22T16:59:33Z"
   },
   {
-    "id": "gh-1187805808",
-    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 249,
-    "language": "Markdown",
+    "id": "gh-1190778303",
+    "name": "alvinunreal/awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 200,
+    "language": null,
     "topics": [
       "agents",
       "ai",
-      "ai-agents",
-      "ai-engineering",
-      "fine-tuning",
-      "interview",
-      "interview-preparation",
-      "interview-questions",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
       "llm",
-      "mcp",
-      "quantization",
-      "questions-and-answers",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "open-source-ai",
       "rag"
     ],
-    "created_at": "2026-03-21T07:28:38Z"
-  },
-  {
-    "id": "gh-1187846546",
-    "name": "patoles/agent-flow",
-    "description": "Real-time visualization of Claude Code agent orchestration \u2014 see your agents think, branch, and coordinate as they work.",
-    "url": "https://github.com/patoles/agent-flow",
-    "stars": 228,
-    "language": "TypeScript",
-    "topics": [
-      "agent-visualization",
-      "ai-agents",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "vscode-extension"
-    ],
-    "created_at": "2026-03-21T08:53:27Z"
+    "created_at": "2026-03-24T15:58:22Z"
   },
   {
     "id": "gh-1188660860",
     "name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian \u2014 academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 148,
+    "stars": 163,
     "language": "TypeScript",
     "topics": [
       "academic-research",
@@ -172,42 +199,6 @@
       "obsidian-plugin"
     ],
     "created_at": "2026-03-22T12:08:26Z"
-  },
-  {
-    "id": "gh-1188905359",
-    "name": "luoling8192/ai-coding-principles",
-    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
-    "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 116,
-    "language": null,
-    "topics": [
-      "ai",
-      "claude-code",
-      "ddia",
-      "skills"
-    ],
-    "created_at": "2026-03-22T18:34:13Z"
-  },
-  {
-    "id": "gh-1186594901",
-    "name": "Dominien/brunnfeld-agentic-world",
-    "description": "Medieval village economy simulation \u2014 20 LLM agents in a world driven by supply chains, hunger, tool degradation and market pressure. Agentic, brunnfeld, world.",
-    "url": "https://github.com/Dominien/brunnfeld-agentic-world",
-    "stars": 90,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "generative-ai",
-      "llm",
-      "medieval",
-      "multi-agent",
-      "nodejs",
-      "openrouter",
-      "simulation",
-      "typescript"
-    ],
-    "created_at": "2026-03-19T19:44:26Z"
   },
   {
     "id": "gh-1187975106",
@@ -241,25 +232,11 @@
     "created_at": "2026-03-21T12:57:34Z"
   },
   {
-    "id": "gh-1185919289",
-    "name": "addyosmani/agent-engineer",
-    "description": "Agent Engineer - a practical course for software engineers",
-    "url": "https://github.com/addyosmani/agent-engineer",
-    "stars": 70,
-    "language": null,
-    "topics": [
-      "agentic-framework",
-      "ai-agents",
-      "generative-ai"
-    ],
-    "created_at": "2026-03-19T04:23:33Z"
-  },
-  {
     "id": "gh-1187386524",
     "name": "matt-k-wong/mlx-flash",
     "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.",
     "url": "https://github.com/matt-k-wong/mlx-flash",
-    "stars": 54,
+    "stars": 57,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -307,19 +284,65 @@
     "created_at": "2026-03-22T10:48:58Z"
   },
   {
-    "id": "gh-1186626107",
-    "name": "UdaraJay/tiny-router",
-    "description": "Compact multi-head text classifier for short, domain-neutral routing decisions. ",
-    "url": "https://github.com/UdaraJay/tiny-router",
-    "stars": 32,
-    "language": "Python",
+    "id": "gh-1190855758",
+    "name": "groovy-web/awesome-ai-agents",
+    "description": "A curated list of AI agent frameworks, tools, platforms, and resources",
+    "url": "https://github.com/groovy-web/awesome-ai-agents",
+    "stars": 15,
+    "language": null,
     "topics": [
-      "intent-classification",
+      "ai-agents",
+      "ai-tools",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "langchain",
+      "llm",
       "machine-learning",
-      "nlp",
-      "routing",
-      "text-classification"
+      "multi-agent",
+      "rag"
     ],
-    "created_at": "2026-03-19T20:31:33Z"
+    "created_at": "2026-03-24T17:25:34Z"
+  },
+  {
+    "id": "gh-1188615206",
+    "name": "formanova-ai/awesome-jewelry-ai",
+    "description": "A curated list of AI research, models, datasets, and tools for jewelry imagery and ecommerce.",
+    "url": "https://github.com/formanova-ai/awesome-jewelry-ai",
+    "stars": 6,
+    "language": null,
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "computer-vision",
+      "ecommerce",
+      "generative-ai",
+      "jewelry",
+      "jewelry-photography",
+      "product-photography"
+    ],
+    "created_at": "2026-03-22T10:43:55Z"
+  },
+  {
+    "id": "gh-1188052103",
+    "name": "nauno40/OmniPromptStyle-CheatSheet",
+    "description": "Visual cheat sheet to discover, search, and compare how different AI models (SD 1.5, SDXL, FLUX and other) interpret hundreds of art styles and artist aesthetics.",
+    "url": "https://github.com/nauno40/OmniPromptStyle-CheatSheet",
+    "stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai-art",
+      "cheat-sheet",
+      "comfyui",
+      "flux",
+      "generative-ai",
+      "prompt-engineering",
+      "react",
+      "sdxl",
+      "stable-diffusion",
+      "style-reference"
+    ],
+    "created_at": "2026-03-21T14:55:15Z"
   }
 ]

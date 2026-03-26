@@ -1,5 +1,172 @@
 [
   {
+    "id": "rss-99987d70",
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "summary": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Mar 2026 21:44:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c8de106d",
+    "title": "Google unveils TurboQuant, a new AI memory compression algorithm \u2014 and yes, the internet is calling it \u2018Pied Piper\u2019",
+    "summary": "Google\u2019s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI\u2019s \u201cworking memory\u201d by up to 6x, but it\u2019s still just a lab experiment for now.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Mar 2026 20:38:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-119a424f",
+    "title": "Melania Trump wants a robot to homeschool your child",
+    "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 25 Mar 2026 18:55:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a2f0d2ed",
+    "title": "Roundtables: The Next Era of Space Exploration",
+    "summary": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Mar 2026 17:26:26 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-48227e4c",
+    "title": "Lyria 3 Pro: Create longer tracks in more",
+    "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 25 Mar 2026 16:01:39 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-626cedb7",
+    "title": "Build with Lyria 3, our newest music generation model",
+    "summary": "Google Lyria teaser",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 25 Mar 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-dfc2a0ef",
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 25 Mar 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f3500499",
+    "title": "Why this battery company is pivoting to AI",
+    "summary": "Qichao Hu doesn\u2019t mince words about how he sees the state of the battery industry. \u201cAlmost every Western battery company has either died or is going to die. It\u2019s kind of the reality,\u201d he says. Hu is the CEO of SES AI, a Massachusetts-based battery company.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Mar 2026 15:02:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-84656a83",
+    "title": "This startup wants to change how mathematicians do math",
+    "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 25 Mar 2026 13:59:17 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b8be43d0",
+    "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend\u2019s cryopreserved brain&#160; L.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Mar 2026 12:47:44 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-dbb0252a",
+    "title": "Agentic commerce runs on truth and context",
+    "summary": "Imagine telling a digital agent, \u201cUse my points and book a family trip to Italy. Keep it within budget, pick hotels we\u2019ve liked before, and handle the details.\u201d Instead of returning a list of links, the agent assembles an itinerary and executes the purchase.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 25 Mar 2026 11:48:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7434cb8f",
+    "title": "Inside our approach to the Model Spec",
+    "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec",
+    "tags": [
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-9a9029b5",
     "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
     "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
@@ -12,6 +179,23 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 25 Mar 2026 00:47:20 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a1bdc83d",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/safety-bug-bounty",
+    "tags": [
+      "agents",
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 25 Mar 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -723,6 +907,32 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 03 Mar 2026 16:35:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2b918f8c",
+    "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
+    "summary": "Did anyone think there would not be a reckoning over this tie-up?",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 26 Mar 2026 02:46:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4c23be2e",
+    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+    "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 26 Mar 2026 00:30:00 +0000",
     "image": null
   },
   {
