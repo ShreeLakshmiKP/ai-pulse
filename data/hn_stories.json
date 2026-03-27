@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47516650",
-    "title": "Ensu \u2013 Ente\u2019s Local LLM app",
-    "url": "https://ente.com/blog/ensu/",
-    "points": 349,
-    "comments": 159,
+    "id": "hn-47530330",
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "url": "https://unterwaditzer.net/2025/codeberg.html",
+    "points": 572,
+    "comments": 291,
     "source": "Hacker News",
-    "published_date": "2026-03-25T12:49:14Z"
+    "published_date": "2026-03-26T13:38:25Z"
   },
   {
-    "id": "hn-47521799",
-    "title": "Updates to GitHub Copilot interaction data usage policy",
-    "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+    "id": "hn-47529646",
+    "title": "European Parliament decided that Chat Control 1.0 must stop",
+    "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+    "points": 552,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-03-26T12:30:59Z"
+  },
+  {
+    "id": "hn-47535371",
+    "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+    "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
     "points": 284,
-    "comments": 131,
+    "comments": 138,
     "source": "Hacker News",
-    "published_date": "2026-03-25T19:09:16Z"
+    "published_date": "2026-03-26T20:35:04Z"
   },
   {
-    "id": "hn-47521157",
-    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-    "url": "https://www.claudescode.dev/?window=since_launch",
-    "points": 244,
-    "comments": 148,
+    "id": "hn-47530264",
+    "title": "AI users whose lives were wrecked by delusion",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+    "points": 199,
+    "comments": 248,
     "source": "Hacker News",
-    "published_date": "2026-03-25T18:16:40Z"
+    "published_date": "2026-03-26T13:32:23Z"
   },
   {
-    "id": "hn-47515502",
-    "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-    "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-    "points": 152,
-    "comments": 173,
+    "id": "hn-47536761",
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "points": 192,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-03-25T10:28:49Z"
+    "published_date": "2026-03-26T22:41:25Z"
   },
   {
-    "id": "hn-47518121",
-    "title": "How to Keep ICE Agents Out of Your Devices at Airports",
-    "url": "https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/",
-    "points": 94,
-    "comments": 143,
+    "id": "hn-47533297",
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "url": "https://github.com/itigges22/ATLAS",
+    "points": 172,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-03-25T14:52:30Z"
+    "published_date": "2026-03-26T17:31:24Z"
   },
   {
-    "id": "hn-47515605",
-    "title": "Building a coding agent in Swift from scratch",
-    "url": "https://github.com/ivan-magda/swift-claude-code",
-    "points": 83,
-    "comments": 21,
+    "id": "hn-47530986",
+    "title": "Intel Announces Arc Pro B70 and Arc Pro B65 GPUs",
+    "url": "https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture",
+    "points": 144,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-03-25T10:45:40Z"
+    "published_date": "2026-03-26T14:36:04Z"
   },
   {
-    "id": "hn-47524704",
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-    "url": "https://lab.puga.com.br/cog/",
-    "points": 75,
-    "comments": 21,
+    "id": "hn-47534283",
+    "title": "Show HN: Turbolite \u2013 a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+    "url": "https://github.com/russellromney/turbolite",
+    "points": 132,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-03-25T23:29:13Z"
+    "published_date": "2026-03-26T18:58:19Z"
   },
   {
-    "id": "hn-47518001",
-    "title": "OpenAI's latest repo has Claude as the third top contributor",
-    "url": "https://twitter.com/CodeByNZ/status/2036723050197012771",
-    "points": 58,
-    "comments": 25,
+    "id": "hn-47536712",
+    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "points": 109,
+    "comments": 110,
     "source": "Hacker News",
-    "published_date": "2026-03-25T14:44:10Z"
+    "published_date": "2026-03-26T22:36:41Z"
   },
   {
-    "id": "hn-47521949",
-    "title": "Airport wait times are longest in TSA history, agency says",
-    "url": "https://www.usatoday.com/story/news/nation/2026/03/25/tsa-line-airport-wait-times-highest-in-history/89314232007/",
-    "points": 48,
-    "comments": 21,
+    "id": "hn-47539188",
+    "title": "Schedule tasks on the web",
+    "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "points": 77,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-03-25T19:20:01Z"
+    "published_date": "2026-03-27T04:47:15Z"
   },
   {
-    "id": "hn-47524532",
-    "title": "Delta Air Lines Says It Will Suspend Special Services for Congress Members",
-    "url": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
-    "points": 44,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-03-25T23:12:41Z"
-  },
-  {
-    "id": "hn-47520220",
-    "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
-    "url": "https://github.com/jonwiggins/optio",
-    "points": 42,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-03-25T17:10:21Z"
-  },
-  {
-    "id": "hn-47524245",
-    "title": "Grove: Distributed ML Training over AirDrop",
-    "url": "https://swarnimjain.com/grove",
-    "points": 32,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-03-25T22:39:54Z"
-  },
-  {
-    "id": "hn-47526486",
-    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-    "url": "https://github.com/lightfeed/extractor",
-    "points": 26,
+    "id": "hn-47529306",
+    "title": "Show HN: Veil \u2013 Dark mode PDFs without destroying images, runs in the browser",
+    "url": "https://veil.simoneamico.com/",
+    "points": 70,
     "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-03-26T03:55:52Z"
+    "published_date": "2026-03-26T11:47:26Z"
   },
   {
-    "id": "hn-47525093",
-    "title": "Scientists Just Broke the Solar Power Limit Everyone Thought Was Absolute",
-    "url": "https://scitechdaily.com/scientists-just-broke-the-solar-power-limit-everyone-thought-was-absolute/",
-    "points": 26,
-    "comments": 8,
+    "id": "hn-47535380",
+    "title": "The Little Book of C",
+    "url": "https://little-book-of.github.io/c/books/en-US/book.html",
+    "points": 65,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-03-26T00:09:23Z"
+    "published_date": "2026-03-26T20:35:53Z"
   },
   {
-    "id": "hn-47520438",
-    "title": "Apple Can Create Smaller On-Device AI Models from Google's Gemini",
-    "url": "https://www.macrumors.com/2026/03/25/apple-google-gemini-distill-models/",
-    "points": 25,
-    "comments": 7,
+    "id": "hn-47535626",
+    "title": "Show HN: Fio: 3D World editor/game engine \u2013 inspired by Radiant and Hammer",
+    "url": "https://github.com/ViciousSquid/Fio",
+    "points": 52,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-03-25T17:25:02Z"
+    "published_date": "2026-03-26T20:58:04Z"
   },
   {
-    "id": "hn-47522856",
-    "title": "Tired of AI When will this era end?",
-    "url": "https://news.ycombinator.com/item?id=47522856",
-    "points": 24,
-    "comments": 15,
+    "id": "hn-47535246",
+    "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
+    "url": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/",
+    "points": 47,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-03-25T20:36:45Z"
+    "published_date": "2026-03-26T20:23:01Z"
   },
   {
-    "id": "hn-47526276",
-    "title": "Show HN: Nit \u2013 I rebuilt Git in Zig to save AI agents 71% on tokens",
-    "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
-    "points": 21,
-    "comments": 16,
+    "id": "hn-47535897",
+    "title": "Anthropic Update on Session Limits",
+    "url": "https://old.reddit.com/r/Anthropic/comments/1s4iefu/update_on_session_limits/",
+    "points": 41,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-03-26T03:14:54Z"
+    "published_date": "2026-03-26T21:19:11Z"
   },
   {
-    "id": "hn-47521291",
-    "title": "EFF Sues for Answers About Medicare's AI Experiment",
-    "url": "https://www.eff.org/press/releases/eff-sues-answers-about-medicares-ai-experiment",
-    "points": 14,
-    "comments": 0,
+    "id": "hn-47528380",
+    "title": "Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue",
+    "url": "https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html",
+    "points": 39,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-03-25T18:27:53Z"
+    "published_date": "2026-03-26T09:37:56Z"
   },
   {
-    "id": "hn-47516232",
-    "title": "Tell HN: Slow Down",
-    "url": "https://news.ycombinator.com/item?id=47516232",
-    "points": 12,
-    "comments": 5,
+    "id": "hn-47533555",
+    "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+    "url": "https://john.regehr.org/writing/zero_dof_programming.html",
+    "points": 32,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-03-25T12:05:01Z"
+    "published_date": "2026-03-26T17:51:42Z"
   },
   {
-    "id": "hn-47515743",
-    "title": "Ask HN: Looking for programmers who don't use and don't want to use AI",
-    "url": "https://news.ycombinator.com/item?id=47515743",
-    "points": 11,
-    "comments": 27,
+    "id": "hn-47535027",
+    "title": "Claude Code adjusting down 5hr limits",
+    "url": "https://twitter.com/trq212/status/2037254607001559305",
+    "points": 27,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-03-25T11:04:12Z"
+    "published_date": "2026-03-26T20:05:27Z"
+  },
+  {
+    "id": "hn-47537895",
+    "title": "Japan research uncovers how coffee constituent limit growth of colorectal cancer",
+    "url": "https://mainichi.jp/english/articles/20260326/p2a/00m/0sc/002000c",
+    "points": 23,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-03-27T01:03:24Z"
+  },
+  {
+    "id": "hn-47527415",
+    "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+    "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+    "points": 18,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-03-26T07:03:39Z"
   }
 ]

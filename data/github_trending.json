@@ -1,10 +1,33 @@
 [
   {
+    "id": "gh-1190778303",
+    "name": "alvinunreal/awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 1146,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "open-source-ai",
+      "rag"
+    ],
+    "created_at": "2026-03-24T15:58:22Z"
+  },
+  {
     "id": "gh-1188180267",
     "name": "mnfst/awesome-free-llm-apis",
     "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 723,
+    "stars": 859,
     "language": null,
     "topics": [
       "ai-agents",
@@ -26,7 +49,7 @@
     "name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 515,
+    "stars": 808,
     "language": "Dockerfile",
     "topics": [
       "ai",
@@ -52,7 +75,7 @@
     "name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 413,
+    "stars": 507,
     "language": "Markdown",
     "topics": [
       "agents",
@@ -72,11 +95,28 @@
     "created_at": "2026-03-21T07:28:38Z"
   },
   {
+    "id": "gh-1187846546",
+    "name": "patoles/agent-flow",
+    "description": "Real-time visualization of Claude Code agent orchestration \u2014 see your agents think, branch, and coordinate as they work.",
+    "url": "https://github.com/patoles/agent-flow",
+    "stars": 432,
+    "language": "TypeScript",
+    "topics": [
+      "agent-visualization",
+      "ai-agents",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "vscode-extension"
+    ],
+    "created_at": "2026-03-21T08:53:27Z"
+  },
+  {
     "id": "gh-1188322477",
     "name": "samber/cc-skills-golang",
     "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 332,
+    "stars": 382,
     "language": "Go",
     "topics": [
       "agent",
@@ -102,48 +142,11 @@
     "created_at": "2026-03-21T23:10:11Z"
   },
   {
-    "id": "gh-1187846546",
-    "name": "patoles/agent-flow",
-    "description": "Real-time visualization of Claude Code agent orchestration \u2014 see your agents think, branch, and coordinate as they work.",
-    "url": "https://github.com/patoles/agent-flow",
-    "stars": 324,
-    "language": "TypeScript",
-    "topics": [
-      "agent-visualization",
-      "ai-agents",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "vscode-extension"
-    ],
-    "created_at": "2026-03-21T08:53:27Z"
-  },
-  {
-    "id": "gh-1187461911",
-    "name": "openyak/desktop",
-    "description": "Yak is all you need",
-    "url": "https://github.com/openyak/desktop",
-    "stars": 290,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "desktop-application",
-      "llm",
-      "local",
-      "mcp",
-      "open-source",
-      "skills",
-      "tools"
-    ],
-    "created_at": "2026-03-20T18:51:13Z"
-  },
-  {
     "id": "gh-1188845498",
     "name": "WecoAI/awesome-autoresearch",
     "description": "A curated list of AutoResearch use cases and open source implementations",
     "url": "https://github.com/WecoAI/awesome-autoresearch",
-    "stars": 289,
+    "stars": 298,
     "language": null,
     "topics": [
       "ai-agents",
@@ -162,43 +165,30 @@
     "created_at": "2026-03-22T16:59:33Z"
   },
   {
-    "id": "gh-1190778303",
-    "name": "alvinunreal/awesome-opensource-ai",
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 200,
-    "language": null,
+    "id": "gh-1189918673",
+    "name": "yvgude/lean-ctx",
+    "description": "Hybrid Context Optimizer \u2014 Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
+    "url": "https://github.com/yvgude/lean-ctx",
+    "stars": 236,
+    "language": "Rust",
     "topics": [
-      "agents",
+      "agentic-coding",
       "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "generative-ai",
+      "claude-code",
+      "cli",
+      "compression",
+      "context-compression",
+      "copilot",
+      "cursor",
+      "developer-tools",
       "llm",
-      "machine-learning",
-      "mlops",
+      "mcp",
       "open-source",
-      "open-source-ai",
-      "rag"
+      "rust",
+      "token-optimization",
+      "tokens"
     ],
-    "created_at": "2026-03-24T15:58:22Z"
-  },
-  {
-    "id": "gh-1188660860",
-    "name": "hkcanan/katmer-code",
-    "description": "Claude Code inside Obsidian \u2014 academic research skills, inline diff editing, MCP support",
-    "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 163,
-    "language": "TypeScript",
-    "topics": [
-      "academic-research",
-      "ai",
-      "claude",
-      "obsidian",
-      "obsidian-plugin"
-    ],
-    "created_at": "2026-03-22T12:08:26Z"
+    "created_at": "2026-03-23T19:48:59Z"
   },
   {
     "id": "gh-1187975106",
@@ -232,29 +222,6 @@
     "created_at": "2026-03-21T12:57:34Z"
   },
   {
-    "id": "gh-1187386524",
-    "name": "matt-k-wong/mlx-flash",
-    "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.",
-    "url": "https://github.com/matt-k-wong/mlx-flash",
-    "stars": 57,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "large-language-models",
-      "llm",
-      "llm-inference",
-      "lm-studio",
-      "machine-learning",
-      "macos",
-      "memory-optimization",
-      "metal",
-      "mlx",
-      "optimization",
-      "weight-streaming"
-    ],
-    "created_at": "2026-03-20T17:04:42Z"
-  },
-  {
     "id": "gh-1188617931",
     "name": "pharaongayd/Album-Formula-Ai-2026-Update",
     "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |",
@@ -282,6 +249,60 @@
       "smart-album"
     ],
     "created_at": "2026-03-22T10:48:58Z"
+  },
+  {
+    "id": "gh-1191509283",
+    "name": "OnlyTerp/turboquant",
+    "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.",
+    "url": "https://github.com/OnlyTerp/turboquant",
+    "stars": 26,
+    "language": "Python",
+    "topics": [
+      "attention",
+      "compression",
+      "deep-learning",
+      "google-research",
+      "iclr",
+      "kv-cache",
+      "kv-cache-compression",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-optimization",
+      "pytorch",
+      "quantization",
+      "transformer",
+      "vector-quantization",
+      "vllm"
+    ],
+    "created_at": "2026-03-25T10:11:04Z"
+  },
+  {
+    "id": "gh-1190710176",
+    "name": "F-R-L/forge-film",
+    "description": "Multi-model DAG-driven parallel AI film generation \u2014 parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"\u628a\u5f71\u89c6\u751f\u6210\u7684\u6267\u884c\u56fe\u4ece\u62d3\u6251\u5e8f\u53d8\u6210\u5173\u952e\u8def\u5f84\u6700\u4f18\u8c03\u5ea6\" ; \u552f\u4e00\u628a\u573a\u666f\u53d9\u4e8b\u4f9d\u8d56\u5efa\u6a21\u4e3a DAG\u3001\u4ee5 CPM    \u7b97\u6cd5\u9a71\u52a8\u5e76\u884c\u8c03\u5ea6\u7684\u5f71\u89c6\u751f\u6210\u5f15\u64ce",
+    "url": "https://github.com/F-R-L/forge-film",
+    "stars": 19,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-cinematography",
+      "ai-filmmaking",
+      "ai-video-generation",
+      "cpm",
+      "critical-path-method",
+      "dag",
+      "generative-ai",
+      "gradio",
+      "llm-workflow",
+      "multi-modal",
+      "open-source-video",
+      "text-to-video",
+      "video-ai",
+      "video-generation",
+      "workflow-automation"
+    ],
+    "created_at": "2026-03-24T14:45:44Z"
   },
   {
     "id": "gh-1190855758",

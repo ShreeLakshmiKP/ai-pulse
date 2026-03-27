@@ -56,6 +56,21 @@
     "image": null
   },
   {
+    "id": "rss-c6f8811a",
+    "title": "Protecting people from harmful manipulation",
+    "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "tags": [
+      "safety"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 25 Mar 2026 16:46:20 +0000",
+    "image": null
+  },
+  {
     "id": "rss-48227e4c",
     "title": "Lyria 3 Pro: Create longer tracks in more",
     "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
@@ -907,6 +922,173 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 03 Mar 2026 16:35:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-897b13ec",
+    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 26 Mar 2026 23:47:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e92acf9d",
+    "title": "Wikipedia cracks down on the use of AI in article writing",
+    "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 26 Mar 2026 21:50:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2e81617a",
+    "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+    "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "startups",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 26 Mar 2026 18:34:02 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e3fbdc52",
+    "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
+    "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014 and how that affects the grid.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 26 Mar 2026 18:23:31 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-815730bb",
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 26 Mar 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b56f0c5d",
+    "title": "Transform your headphones into a live personal translator on iOS.",
+    "summary": "Google Translate\u2019s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries\u2026",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 26 Mar 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-161f77b8",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 26 Mar 2026 15:23:35 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6c86c309",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 26 Mar 2026 15:21:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c7ab0719",
+    "title": "Search Live is expanding globally",
+    "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 26 Mar 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b2df8689",
+    "title": "The Download: a battery pivot to AI, and rewriting math",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn\u2019t&#160;mince words about the state of the battery industry.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 26 Mar 2026 12:42:53 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1a67c37c",
+    "title": "The snow gods: How a couple of ski bums built the internet\u2019s best weather app",
+    "summary": "The best snow-forecasting app for skiers and snowboarders isn\u2019t from any of the federally funded weather services. Nor from any of the big-name brands.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 26 Mar 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9de0ac1c",
+    "title": "Are high gas prices good news for EVs? It\u2019s complicated.",
+    "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don\u2019t own a car. I\u2019m often utterly clueless about the current price of gasoline.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 26 Mar 2026 10:00:00 +0000",
     "image": null
   },
   {
@@ -1799,6 +1981,21 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-cc04af85",
+    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+    "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 01:18:38 +0000",
     "image": null
   },
   {
