@@ -1984,6 +1984,119 @@
     "image": null
   },
   {
+    "id": "rss-7543ce1b",
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/stadler",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 27 Mar 2026 22:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-36489717",
+    "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+    "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 21:44:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-cdf638f5",
+    "title": "Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+    "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 19:11:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-171cad61",
+    "title": "VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
+    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 15:40:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ac034bac",
+    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 13:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b68b1a70",
+    "title": "The Download: the internet\u2019s best weather app, and why people freeze their brains",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Fri, 27 Mar 2026 12:32:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fdd36f4a",
+    "title": "Here\u2019s why some people choose cryonics to store their bodies and brains after death",
+    "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Fri, 27 Mar 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-72915344",
+    "title": "David Sacks is done as AI czar \u2014 here\u2019s what he\u2019s doing instead",
+    "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Fri, 27 Mar 2026 01:26:40 +0000",
+    "image": null
+  },
+  {
     "id": "rss-cc04af85",
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
