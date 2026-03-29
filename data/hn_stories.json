@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47548243",
-    "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-    "url": "https://news.ycombinator.com/item?id=47548243",
-    "points": 652,
-    "comments": 291,
+    "id": "hn-47556729",
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "url": "https://sytse.com/cancer/",
+    "points": 889,
+    "comments": 193,
     "source": "Hacker News",
-    "published_date": "2026-03-27T21:04:51Z"
+    "published_date": "2026-03-28T17:39:49Z"
   },
   {
-    "id": "hn-47543139",
-    "title": "Anatomy of the .claude/ folder",
-    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "points": 448,
-    "comments": 206,
+    "id": "hn-47553798",
+    "title": "Spanish legislation as a Git repo",
+    "url": "https://github.com/EnriqueLop/legalize-es",
+    "points": 715,
+    "comments": 217,
     "source": "Hacker News",
-    "published_date": "2026-03-27T14:35:45Z"
+    "published_date": "2026-03-28T12:01:27Z"
   },
   {
-    "id": "hn-47544980",
-    "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-    "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-    "points": 352,
-    "comments": 315,
+    "id": "hn-47554773",
+    "title": "AI overly affirms users asking for personal advice",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "points": 596,
+    "comments": 451,
     "source": "Hacker News",
-    "published_date": "2026-03-27T16:39:32Z"
+    "published_date": "2026-03-28T14:08:33Z"
   },
   {
-    "id": "hn-47543201",
-    "title": "Last gasps of the rent seeking class?",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html",
-    "points": 147,
-    "comments": 143,
+    "id": "hn-47552562",
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "points": 309,
+    "comments": 139,
     "source": "Hacker News",
-    "published_date": "2026-03-27T14:40:57Z"
+    "published_date": "2026-03-28T08:06:19Z"
   },
   {
-    "id": "hn-47548013",
-    "title": "Velxio 2.0 \u2013 Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-    "url": "https://github.com/davidmonterocrespo24/velxio",
-    "points": 124,
-    "comments": 41,
+    "id": "hn-47553185",
+    "title": "Cocoa-Way \u2013 Native macOS Wayland compositor for running Linux apps seamlessly",
+    "url": "https://github.com/J-x-Z/cocoa-way",
+    "points": 307,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-03-27T20:44:33Z"
+    "published_date": "2026-03-28T10:06:13Z"
   },
   {
-    "id": "hn-47545030",
-    "title": "I am leaving the AI party after one drink",
-    "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
-    "points": 111,
+    "id": "hn-47555090",
+    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+    "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+    "points": 265,
+    "comments": 210,
+    "source": "Hacker News",
+    "published_date": "2026-03-28T14:49:25Z"
+  },
+  {
+    "id": "hn-47557166",
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "points": 187,
     "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-03-27T16:41:59Z"
+    "published_date": "2026-03-28T18:38:59Z"
   },
   {
-    "id": "hn-47547602",
-    "title": "Colorado House passes bill to limit surveillance pricing and wage setting",
-    "url": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
-    "points": 98,
-    "comments": 22,
+    "id": "hn-47557185",
+    "title": "The first 40 months of the AI era",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "points": 160,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-03-27T20:10:42Z"
+    "published_date": "2026-03-28T18:42:08Z"
   },
   {
-    "id": "hn-47540388",
-    "title": "Telnyx package compromised on PyPI",
-    "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-    "points": 98,
-    "comments": 102,
+    "id": "hn-47557064",
+    "title": "OpenCiv1 \u2013 open-source rewrite of Civ1",
+    "url": "https://github.com/rajko-horvat/OpenCiv1",
+    "points": 128,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-03-27T08:57:02Z"
+    "published_date": "2026-03-28T18:22:45Z"
   },
   {
-    "id": "hn-47543189",
-    "title": "Claude loses its >99% uptime in Q1 2026",
-    "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
-    "points": 84,
-    "comments": 76,
+    "id": "hn-47552617",
+    "title": "Adults Lose Skills to AI. Children Never Build Them",
+    "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
+    "points": 90,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-03-27T14:40:06Z"
+    "published_date": "2026-03-28T08:17:52Z"
   },
   {
-    "id": "hn-47545748",
-    "title": "Some uncomfortable truths about AI coding agents",
-    "url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
-    "points": 71,
-    "comments": 78,
+    "id": "hn-47553516",
+    "title": "No one is happy with NASA's new idea for private space stations",
+    "url": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+    "points": 83,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-03-27T17:32:48Z"
+    "published_date": "2026-03-28T11:13:23Z"
   },
   {
-    "id": "hn-47549649",
-    "title": "Why are executives enamored with AI, but ICs aren't?",
-    "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
-    "points": 64,
-    "comments": 117,
+    "id": "hn-47556116",
+    "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+    "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+    "points": 78,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-03-27T23:19:18Z"
+    "published_date": "2026-03-28T16:34:04Z"
   },
   {
-    "id": "hn-47550564",
-    "title": "Tell HN: Firefox is being slowly deprecated by the industry",
-    "url": "https://news.ycombinator.com/item?id=47550564",
-    "points": 51,
-    "comments": 43,
+    "id": "hn-47555081",
+    "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
+    "url": "https://news.ycombinator.com/item?id=47555081",
+    "points": 65,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-03-28T01:25:44Z"
+    "published_date": "2026-03-28T14:48:14Z"
   },
   {
-    "id": "hn-47545642",
-    "title": "Show HN: Open-Source Animal Crossing\u2013Style UI for Claude Code Agents",
-    "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
-    "points": 44,
-    "comments": 37,
+    "id": "hn-47560380",
+    "title": "OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
+    "url": "https://github.com/openyak/desktop",
+    "points": 56,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-03-27T17:25:05Z"
+    "published_date": "2026-03-29T04:26:13Z"
   },
   {
-    "id": "hn-47547849",
-    "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-    "url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
-    "points": 43,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-03-27T20:30:35Z"
-  },
-  {
-    "id": "hn-47546262",
-    "title": "Don't Wait for Claude",
-    "url": "https://jeapostrophe.github.io/tech/jc-workflow/",
-    "points": 27,
-    "comments": 60,
-    "source": "Hacker News",
-    "published_date": "2026-03-27T18:13:45Z"
-  },
-  {
-    "id": "hn-47543361",
-    "title": "Rising Air-Conditioning Use Intensifies Global Warming",
-    "url": "https://www.nature.com/articles/s41467-026-69393-1",
-    "points": 24,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-03-27T14:53:43Z"
-  },
-  {
-    "id": "hn-47541462",
-    "title": "GLM-5.1 Is Available",
-    "url": "https://twitter.com/Zai_org/status/2037490078126084514",
-    "points": 24,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-03-27T11:39:31Z"
-  },
-  {
-    "id": "hn-47541097",
-    "title": "Claude API Error: 529",
-    "url": "https://news.ycombinator.com/item?id=47541097",
-    "points": 23,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-03-27T10:51:09Z"
-  },
-  {
-    "id": "hn-47545355",
-    "title": "Show HN: Foundry: a Markdown-first CMS written in Go",
-    "url": "https://github.com/sphireinc/Foundry",
-    "points": 22,
+    "id": "hn-47556001",
+    "title": "Circuit-level PDP-11/34 emulator",
+    "url": "https://github.com/dbrll/ll-34",
+    "points": 49,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-03-27T17:05:32Z"
+    "published_date": "2026-03-28T16:23:31Z"
   },
   {
-    "id": "hn-47547671",
-    "title": "Was the Iran War Caused by AI Psychosis?",
-    "url": "https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/",
-    "points": 21,
-    "comments": 17,
+    "id": "hn-47559948",
+    "title": "Will the AI data centre boom become a $9T bust?",
+    "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+    "points": 37,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-03-27T20:16:31Z"
+    "published_date": "2026-03-29T02:35:59Z"
+  },
+  {
+    "id": "hn-47555093",
+    "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
+    "url": "https://enlidea.com",
+    "points": 24,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-03-28T14:49:30Z"
+  },
+  {
+    "id": "hn-47555642",
+    "title": "Be careful: chatting with AI about your case is discoverable",
+    "url": "https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/",
+    "points": 23,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-03-28T15:45:45Z"
+  },
+  {
+    "id": "hn-47559323",
+    "title": "Anthropic's Mythos leak: 3k files in a public CMS, and what the docs revealed",
+    "url": "https://medium.com/ai-advances/anthropic-claude-mythos-leak-analysis-b77c1b304eb8",
+    "points": 22,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-03-29T00:27:58Z"
+  },
+  {
+    "id": "hn-47557165",
+    "title": "Show HN: I built an OS that is pure AI",
+    "url": "https://pneuma.computer",
+    "points": 18,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-03-28T18:38:57Z"
   }
 ]

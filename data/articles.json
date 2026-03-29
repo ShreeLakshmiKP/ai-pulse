@@ -1511,6 +1511,74 @@
     "image": null
   },
   {
+    "id": "rss-63c0fcbc",
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Sat, 28 Mar 2026 23:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7e192f12",
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "summary": "While there\u2019s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Sat, 28 Mar 2026 20:45:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-77e16d7c",
+    "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
+    "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sat, 28 Mar 2026 16:11:16 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-76a496ed",
+    "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
+    "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Sat, 28 Mar 2026 14:15:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-37644363",
+    "title": "A woman\u2019s uterus has been kept alive outside the body for the first time",
+    "summary": "\u201cThink of this as a human body,\u201d says Javier Gonz\u00e1lez. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Sat, 28 Mar 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-e648870e",
     "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
     "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
@@ -2109,6 +2177,19 @@
     ],
     "category": "AI Startups",
     "published_date": "Fri, 27 Mar 2026 01:18:38 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f380ae2c",
+    "title": "Liberate your OpenClaw",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Fri, 27 Mar 2026 00:00:00 GMT",
     "image": null
   },
   {
