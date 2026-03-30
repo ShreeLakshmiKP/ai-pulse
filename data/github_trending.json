@@ -4,7 +4,7 @@
     "name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1794,
+    "stars": 1958,
     "language": null,
     "topics": [
       "agents",
@@ -27,7 +27,7 @@
     "name": "jxnxts/mcp-brasil",
     "description": "MCP Server para 41 APIs p\u00fablicas brasileiras",
     "url": "https://github.com/jxnxts/mcp-brasil",
-    "stars": 836,
+    "stars": 883,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -44,37 +44,30 @@
     "created_at": "2026-03-26T00:38:54Z"
   },
   {
-    "id": "gh-1189918673",
-    "name": "yvgude/lean-ctx",
-    "description": "Hybrid Context Optimizer \u2014 Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
-    "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 298,
-    "language": "Rust",
+    "id": "gh-1195557790",
+    "name": "dreddnafious/thereisnospoon",
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+    "url": "https://github.com/dreddnafious/thereisnospoon",
+    "stars": 313,
+    "language": "Python",
     "topics": [
-      "agentic-coding",
-      "ai",
-      "claude-code",
-      "cli",
-      "compression",
-      "context-compression",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "open-source",
-      "rust",
-      "token-optimization",
-      "tokens"
+      "deep-learning",
+      "engineering",
+      "fundamentals",
+      "machine-learning",
+      "neural-networks",
+      "primer",
+      "transformers",
+      "tutorial"
     ],
-    "created_at": "2026-03-23T19:48:59Z"
+    "created_at": "2026-03-29T19:59:07Z"
   },
   {
     "id": "gh-1191874901",
     "name": "maria-rcks/t1code",
     "description": "T3Code, but in your terminal",
     "url": "https://github.com/maria-rcks/t1code",
-    "stars": 241,
+    "stars": 280,
     "language": "TypeScript",
     "topics": [
       "codex",
@@ -91,7 +84,7 @@
     "name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 155,
+    "stars": 212,
     "language": null,
     "topics": [
       "ai",
@@ -112,7 +105,7 @@
     "name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation \u2014 parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"\u628a\u5f71\u89c6\u751f\u6210\u7684\u6267\u884c\u56fe\u4ece\u62d3\u6251\u5e8f\u53d8\u6210\u5173\u952e\u8def\u5f84\u6700\u4f18\u8c03\u5ea6\" ; \u552f\u4e00\u628a\u573a\u666f\u53d9\u4e8b\u4f9d\u8d56\u5efa\u6a21\u4e3a DAG\u3001\u4ee5 CPM    \u7b97\u6cd5\u9a71\u52a8\u5e76\u884c\u8c03\u5ea6\u7684\u5f71\u89c6\u751f\u6210\u5f15\u64ce",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 134,
+    "stars": 165,
     "language": "Python",
     "topics": [
       "ai",
@@ -135,28 +128,45 @@
     "created_at": "2026-03-24T14:45:44Z"
   },
   {
-    "id": "gh-1189593001",
-    "name": "UNLINEARITY/CLI-WeChat-Bridge",
-    "description": "\u5c06AI\u547d\u4ee4\u884c\u5de5\u5177 \u4ee5\u6700\u4e3a\u539f\u751f\u7684\u65b9\u5f0f\uff0c\u96c6\u6210\u5230\u5fae\u4fe1 Clawbot \u4e2d\uff0c\u652f\u6301\u5fae\u4fe1\u548c\u672c\u5730\u7ec8\u7aef\u7ebf\u7a0b\u5171\u4eab\u3001\u53cc\u5411\u5bf9\u8bdd\u3001\u5c06\u672c\u5730\u6587\u4ef6\u4f20\u8f93\u81f3\u5fae\u4fe1\u3002 \u76ee\u524d\u652f\u6301\u96c6\u6210 Codex\uff08\u5ba1\u6279\u5f85\u5b8c\u5584\uff09\u3001Claude Code \uff08\u975e Channels \u6a21\u5f0f\uff0c\u652f\u6301\u8fdc\u7a0b\u5ba1\u6279\uff09\u3002",
-    "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 96,
-    "language": "TypeScript",
+    "id": "gh-1190632402",
+    "name": "AQBot-Desktop/AQBot",
+    "description": "\u8f7b\u91cf\u7ea7\u9ad8\u6027\u80fd\u8de8\u5e73\u53f0 AI \u804a\u5929+AI\u7f51\u5173\u684c\u9762\u5ba2\u6237\u7aef",
+    "url": "https://github.com/AQBot-Desktop/AQBot",
+    "stars": 136,
+    "language": "Rust",
     "topics": [
       "ai",
-      "bot",
-      "claude-code",
-      "cli",
-      "codex",
-      "wechat"
+      "ai-client",
+      "ai-desktop",
+      "ai-platform",
+      "openclaw"
     ],
-    "created_at": "2026-03-23T13:30:30Z"
+    "created_at": "2026-03-24T13:24:58Z"
+  },
+  {
+    "id": "gh-1191240966",
+    "name": "veyliss/ai-localbase",
+    "description": "\u4e00\u4e2a\u672c\u5730\u4f18\u5148\u7684AI\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff08RAG\uff09\uff0c\u7528\u4e8e\u628a\u672c\u5730\u6587\u6863\u63a5\u5165\u8f85\u5bfc\u641c\u7d22\u4e0e\u5927\u6a21\u578b\u5bf9\u8bdd\u6d41\u7a0b\u3002\u76ee\u524d\u652f\u6301md\u3001txt\u3001pdf\uff08\u6587\u672c\uff09\u7c7b\u578b",
+    "url": "https://github.com/veyliss/ai-localbase",
+    "stars": 126,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "go",
+      "knowledge-base",
+      "ollama",
+      "qdrant",
+      "rag",
+      "react"
+    ],
+    "created_at": "2026-03-25T03:42:43Z"
   },
   {
     "id": "gh-1194570484",
     "name": "kayba-ai/recursive-improve",
     "description": "\ud83e\ude9e Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 89,
+    "stars": 115,
     "language": "Python",
     "topics": [
       "agent-learning",
@@ -170,38 +180,32 @@
     "created_at": "2026-03-28T14:37:25Z"
   },
   {
-    "id": "gh-1191509283",
-    "name": "OnlyTerp/turboquant",
-    "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.",
-    "url": "https://github.com/OnlyTerp/turboquant",
-    "stars": 44,
-    "language": "Python",
+    "id": "gh-1191384809",
+    "name": "kreuzberg-dev/liter-llm",
+    "description": "Universal LLM API client \u2014 142+ providers, 11 native language bindings, powered by Rust core",
+    "url": "https://github.com/kreuzberg-dev/liter-llm",
+    "stars": 87,
+    "language": "Rust",
     "topics": [
-      "attention",
-      "compression",
-      "deep-learning",
-      "google-research",
-      "iclr",
-      "kv-cache",
-      "kv-cache-compression",
+      "anthropic",
+      "api-client",
       "llm",
-      "llm-inference",
       "machine-learning",
-      "memory-optimization",
-      "pytorch",
-      "quantization",
-      "transformer",
-      "vector-quantization",
-      "vllm"
+      "openai",
+      "polyglot",
+      "python",
+      "rust",
+      "streaming",
+      "typescript"
     ],
-    "created_at": "2026-03-25T10:11:04Z"
+    "created_at": "2026-03-25T07:30:37Z"
   },
   {
     "id": "gh-1193238580",
     "name": "TensorCEO/TensorCEO",
     "description": "\u8ba1\u7b97\u673a\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u673a\u5668\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u6df1\u5ea6\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u539f\u521bAI\u9879\u76ee\u3010\u6e90\u7801+\u8bba\u6587\u3011",
     "url": "https://github.com/TensorCEO/TensorCEO",
-    "stars": 27,
+    "stars": 57,
     "language": null,
     "topics": [
       "ai-projects",
@@ -220,27 +224,6 @@
       "thesis-project"
     ],
     "created_at": "2026-03-27T02:33:26Z"
-  },
-  {
-    "id": "gh-1190855758",
-    "name": "groovy-web/awesome-ai-agents",
-    "description": "A curated list of AI agent frameworks, tools, platforms, and resources",
-    "url": "https://github.com/groovy-web/awesome-ai-agents",
-    "stars": 15,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "langchain",
-      "llm",
-      "machine-learning",
-      "multi-agent",
-      "rag"
-    ],
-    "created_at": "2026-03-24T17:25:34Z"
   },
   {
     "id": "gh-1191890257",

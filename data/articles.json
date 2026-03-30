@@ -1385,6 +1385,34 @@
     "image": null
   },
   {
+    "id": "rss-26481377",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-e0fe23a4",
+    "title": "Sora\u2019s shutdown could be a reality check moment for AI video",
+    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 29 Mar 2026 16:30:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-f4027ab9",
     "title": "Do you want to build a robot snowman?",
     "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
@@ -1674,6 +1702,21 @@
     "tags": [],
     "category": "Research",
     "published_date": "Sat, 03 Aug 2024 17:00:43 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b670ae2e",
+    "title": "Why OpenAI really shut down Sora",
+    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces \u2014 so was this some kind of elaborate data grab?",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Mon, 30 Mar 2026 03:09:38 +0000",
     "image": null
   },
   {
