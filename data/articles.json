@@ -1705,6 +1705,132 @@
     "image": null
   },
   {
+    "id": "rss-17604cb0",
+    "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Mon, 30 Mar 2026 23:41:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5dec6cd5",
+    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+    "tags": [
+      "LLM",
+      "startups"
+    ],
+    "category": "AI Models",
+    "published_date": "Mon, 30 Mar 2026 23:08:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b4424baf",
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "tags": [
+      "regulation"
+    ],
+    "category": "AI Policy",
+    "published_date": "Mon, 30 Mar 2026 20:24:53 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-41029fc7",
+    "title": "There are more AI health tools than ever\u2014but how well do they work?",
+    "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Mon, 30 Mar 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-093ef951",
+    "title": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Mon, 30 Mar 2026 15:42:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-97f5b914",
+    "title": "Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
+    "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 30 Mar 2026 14:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4444b042",
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Mon, 30 Mar 2026 13:52:02 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-93789a06",
+    "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Mon, 30 Mar 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c6ab5b9d",
+    "title": "Inside the stealthy startup that pitched brainless human clones",
+    "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week\u2014saying it had raised money to create nonsentient monkey \u201corgan sacks\u201d as an alternative to animal testing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Mon, 30 Mar 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-b670ae2e",
     "title": "Why OpenAI really shut down Sora",
     "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces \u2014 so was this some kind of elaborate data grab?",

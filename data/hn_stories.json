@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47563384",
-    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-    "points": 385,
-    "comments": 165,
+    "id": "hn-47573420",
+    "title": "How the AI Bubble Bursts",
+    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+    "points": 357,
+    "comments": 485,
     "source": "Hacker News",
-    "published_date": "2026-03-29T14:20:23Z"
+    "published_date": "2026-03-30T12:28:36Z"
   },
   {
-    "id": "hn-47565316",
-    "title": "Neovim 0.12.0",
-    "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-    "points": 347,
-    "comments": 194,
+    "id": "hn-47575212",
+    "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+    "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+    "points": 340,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-03-29T17:39:55Z"
+    "published_date": "2026-03-30T15:00:28Z"
   },
   {
-    "id": "hn-47561819",
-    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-    "url": "https://github.com/austin-weeks/miasma",
-    "points": 311,
+    "id": "hn-47571279",
+    "title": "I am definitely missing the pre-AI writing era",
+    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+    "points": 303,
     "comments": 223,
     "source": "Hacker News",
-    "published_date": "2026-03-29T10:10:12Z"
+    "published_date": "2026-03-30T07:03:18Z"
   },
   {
-    "id": "hn-47569502",
-    "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-    "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
-    "points": 237,
-    "comments": 110,
+    "id": "hn-47581701",
+    "title": "Universal Claude.md \u2013 cut Claude output tokens",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "points": 247,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-03-30T01:43:20Z"
+    "published_date": "2026-03-31T01:23:34Z"
   },
   {
-    "id": "hn-47567969",
-    "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
-    "url": "https://github.com/anthropics/claude-code/issues/40710",
-    "points": 230,
-    "comments": 162,
+    "id": "hn-47579229",
+    "title": "Learn Claude Code by doing, not reading",
+    "url": "https://claude.nagdy.me/",
+    "points": 222,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-03-29T22:15:06Z"
+    "published_date": "2026-03-30T20:19:43Z"
   },
   {
-    "id": "hn-47561297",
-    "title": "What if AI doesn't need more RAM but better math?",
-    "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
-    "points": 172,
-    "comments": 90,
+    "id": "hn-47572771",
+    "title": "Mathematical methods and human thought in the age of AI",
+    "url": "https://arxiv.org/abs/2603.26524",
+    "points": 202,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-03-29T08:18:55Z"
+    "published_date": "2026-03-30T11:05:37Z"
   },
   {
-    "id": "hn-47563978",
-    "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-    "url": "https://github.com/DavidHavoc/ayaFlow",
-    "points": 93,
-    "comments": 6,
+    "id": "hn-47576055",
+    "title": "OCR for construction documents does not work, we fixed it",
+    "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+    "points": 122,
+    "comments": 89,
     "source": "Hacker News",
-    "published_date": "2026-03-29T15:28:27Z"
+    "published_date": "2026-03-30T16:05:46Z"
   },
   {
-    "id": "hn-47568080",
-    "title": "There is no spoon \u2013 A software engineers primer for demystified ML",
-    "url": "https://github.com/dreddnafious/thereisnospoon",
-    "points": 85,
-    "comments": 23,
+    "id": "hn-47577142",
+    "title": "Spain shuts airspace for US planes involved in Iran war",
+    "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
+    "points": 88,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-03-29T22:28:11Z"
+    "published_date": "2026-03-30T17:23:36Z"
   },
   {
-    "id": "hn-47566653",
-    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-    "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+    "id": "hn-47574346",
+    "title": "The ladder is missing rungs \u2013 Engineering Progression When AI Ate the Middle",
+    "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
     "points": 84,
-    "comments": 72,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-03-29T20:00:02Z"
+    "published_date": "2026-03-30T13:51:31Z"
   },
   {
-    "id": "hn-47567049",
-    "title": "Show HN: Crazierl \u2013 An Erlang Operating System",
-    "url": "https://crazierl.org/demo/",
-    "points": 57,
-    "comments": 11,
+    "id": "hn-47582984",
+    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+    "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+    "points": 80,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-03-29T20:38:26Z"
+    "published_date": "2026-03-31T05:11:24Z"
   },
   {
-    "id": "hn-47567183",
-    "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-    "url": "https://www.theregister.com/2026/03/24/ai_job_unbundling/",
-    "points": 45,
+    "id": "hn-47575417",
+    "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
+    "url": "https://github.com/coast-guard/coasts",
+    "points": 74,
     "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-03-29T20:51:55Z"
+    "published_date": "2026-03-30T15:17:51Z"
   },
   {
-    "id": "hn-47566513",
-    "title": "AI Isn't Lightening Workloads. It's Making Them More Intense",
-    "url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
+    "id": "hn-47580891",
+    "title": "A Nursing Home Owner Got a Pardon. The Families of His Patients Got Nothing",
+    "url": "https://www.propublica.org/article/joseph-schwartz-trump-pardon-skyline-nursing-home-patients",
+    "points": 60,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-03-30T23:16:25Z"
+  },
+  {
+    "id": "hn-47580910",
+    "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+    "url": "https://github.com/virpo/pegboard",
     "points": 33,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-03-29T19:44:48Z"
-  },
-  {
-    "id": "hn-47565502",
-    "title": "Stripe withheld $85k from our EU platform",
-    "url": "https://news.ycombinator.com/item?id=47565502",
-    "points": 30,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-03-29T18:01:41Z"
-  },
-  {
-    "id": "hn-47565507",
-    "title": "AI software for smart glasses wins \u00a31M prize for helping people with dementia",
-    "url": "https://www.theguardian.com/society/2026/mar/18/ai-smart-glasses-1m-prize-technology-dementia",
-    "points": 14,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-03-29T18:01:57Z"
-  },
-  {
-    "id": "hn-47565798",
-    "title": "Show HN: DeepRepo \u2013 AI architecture diagrams from GitHub repos",
-    "url": "https://deeprepo.dev",
-    "points": 13,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-03-29T18:32:56Z"
-  },
-  {
-    "id": "hn-47569835",
-    "title": "Pretext",
-    "url": "https://simonwillison.net/2026/Mar/29/pretext/",
-    "points": 13,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T02:42:29Z"
-  },
-  {
-    "id": "hn-47565666",
-    "title": "AI Is Not About to Become Sentient",
-    "url": "https://quillette.com/2026/03/27/ai-is-not-about-to-become-sentient-moltbook-openclaw/",
-    "points": 12,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-03-29T18:19:18Z"
-  },
-  {
-    "id": "hn-47561639",
-    "title": "Are LLMs a Dead End? [video]",
-    "url": "https://www.youtube.com/watch?v=9IMV80GvBpU",
-    "points": 12,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-03-29T09:31:26Z"
+    "published_date": "2026-03-30T23:20:02Z"
   },
   {
-    "id": "hn-47563423",
-    "title": "Ask HN: Best stack for building a tiny game with an 11-year-old?",
-    "url": "https://news.ycombinator.com/item?id=47563423",
-    "points": 12,
-    "comments": 24,
+    "id": "hn-47573224",
+    "title": "Ask HN: Where have you found the coding limits of current models?",
+    "url": "https://news.ycombinator.com/item?id=47573224",
+    "points": 30,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-03-29T14:24:59Z"
+    "published_date": "2026-03-30T12:08:47Z"
   },
   {
-    "id": "hn-47562440",
-    "title": "Show HN: Agent Orchestrator, a local-first Harness Engineering control plane",
-    "url": "https://news.ycombinator.com/item?id=47562440",
-    "points": 12,
-    "comments": 0,
+    "id": "hn-47571513",
+    "title": "Ask HN: Who needs contributors? (March 2026)",
+    "url": "https://news.ycombinator.com/item?id=47571513",
+    "points": 23,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-03-29T12:05:13Z"
+    "published_date": "2026-03-30T07:36:58Z"
+  },
+  {
+    "id": "hn-47581097",
+    "title": "Ask HN: Are you too getting addicted to the dev workflow of coding with agents?",
+    "url": "https://news.ycombinator.com/item?id=47581097",
+    "points": 22,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-03-30T23:49:28Z"
+  },
+  {
+    "id": "hn-47574045",
+    "title": "Show HN: Phantom \u2013 Open-source AI agent on its own VM that rewrites its config",
+    "url": "https://github.com/ghostwright/phantom",
+    "points": 18,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-03-30T13:30:00Z"
+  },
+  {
+    "id": "hn-47582877",
+    "title": "Claude Code bug can silently 10-20x API costs",
+    "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+    "points": 18,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T04:50:53Z"
+  },
+  {
+    "id": "hn-47580059",
+    "title": "Agentic AI and the next intelligence explosion",
+    "url": "https://arxiv.org/abs/2603.20639",
+    "points": 17,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-03-30T21:40:57Z"
+  },
+  {
+    "id": "hn-47582069",
+    "title": "Trump Tells Aides He's Willing to End War Without Reopening Hormuz",
+    "url": "https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4",
+    "points": 16,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T02:28:09Z"
   }
 ]
