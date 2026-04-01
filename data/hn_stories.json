@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47573420",
-    "title": "How the AI Bubble Bursts",
-    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-    "points": 357,
-    "comments": 485,
+    "id": "hn-47584540",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "points": 1963,
+    "comments": 960,
     "source": "Hacker News",
-    "published_date": "2026-03-30T12:28:36Z"
+    "published_date": "2026-03-31T09:00:40Z"
   },
   {
-    "id": "hn-47575212",
-    "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
-    "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-    "points": 340,
-    "comments": 10,
+    "id": "hn-47586778",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "points": 1098,
+    "comments": 425,
     "source": "Hacker News",
-    "published_date": "2026-03-30T15:00:28Z"
+    "published_date": "2026-03-31T13:04:30Z"
   },
   {
-    "id": "hn-47571279",
-    "title": "I am definitely missing the pre-AI writing era",
-    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-    "points": 303,
-    "comments": 223,
+    "id": "hn-47591928",
+    "title": "GitHub's Historic Uptime",
+    "url": "https://damrnelson.github.io/github-historical-uptime/",
+    "points": 457,
+    "comments": 111,
     "source": "Hacker News",
-    "published_date": "2026-03-30T07:03:18Z"
+    "published_date": "2026-03-31T19:01:29Z"
   },
   {
-    "id": "hn-47581701",
-    "title": "Universal Claude.md \u2013 cut Claude output tokens",
-    "url": "https://github.com/drona23/claude-token-efficient",
-    "points": 247,
-    "comments": 94,
+    "id": "hn-47586176",
+    "title": "Claude Code users hitting usage limits 'way faster than expected'",
+    "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+    "points": 298,
+    "comments": 184,
     "source": "Hacker News",
-    "published_date": "2026-03-31T01:23:34Z"
+    "published_date": "2026-03-31T12:11:29Z"
   },
   {
-    "id": "hn-47579229",
-    "title": "Learn Claude Code by doing, not reading",
-    "url": "https://claude.nagdy.me/",
-    "points": 222,
-    "comments": 100,
+    "id": "hn-47593422",
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "url": "https://prismml.com/",
+    "points": 211,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-03-30T20:19:43Z"
+    "published_date": "2026-03-31T21:01:18Z"
   },
   {
-    "id": "hn-47572771",
-    "title": "Mathematical methods and human thought in the age of AI",
-    "url": "https://arxiv.org/abs/2603.26524",
-    "points": 202,
-    "comments": 83,
+    "id": "hn-47589011",
+    "title": "Italy blocks US use of Sicily air base for Middle East war",
+    "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+    "points": 189,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-03-30T11:05:37Z"
+    "published_date": "2026-03-31T15:39:45Z"
   },
   {
-    "id": "hn-47576055",
-    "title": "OCR for construction documents does not work, we fixed it",
-    "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
-    "points": 122,
-    "comments": 89,
+    "id": "hn-47595971",
+    "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+    "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+    "points": 169,
+    "comments": 124,
     "source": "Hacker News",
-    "published_date": "2026-03-30T16:05:46Z"
+    "published_date": "2026-04-01T02:14:42Z"
   },
   {
-    "id": "hn-47577142",
-    "title": "Spain shuts airspace for US planes involved in Iran war",
-    "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
-    "points": 88,
-    "comments": 50,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T17:23:36Z"
-  },
-  {
-    "id": "hn-47574346",
-    "title": "The ladder is missing rungs \u2013 Engineering Progression When AI Ate the Middle",
-    "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
-    "points": 84,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T13:51:31Z"
-  },
-  {
-    "id": "hn-47582984",
-    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-    "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-    "points": 80,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T05:11:24Z"
-  },
-  {
-    "id": "hn-47575417",
-    "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
-    "url": "https://github.com/coast-guard/coasts",
-    "points": 74,
+    "id": "hn-47597085",
+    "title": "Claude Code Unpacked : A visual guide",
+    "url": "https://ccunpacked.dev/",
+    "points": 146,
     "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-03-30T15:17:51Z"
+    "published_date": "2026-04-01T05:15:37Z"
   },
   {
-    "id": "hn-47580891",
-    "title": "A Nursing Home Owner Got a Pardon. The Families of His Patients Got Nothing",
-    "url": "https://www.propublica.org/article/joseph-schwartz-trump-pardon-skyline-nursing-home-patients",
-    "points": 60,
-    "comments": 1,
+    "id": "hn-47589856",
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "url": "https://github.com/timescale/pg_textsearch",
+    "points": 137,
+    "comments": 41,
     "source": "Hacker News",
-    "published_date": "2026-03-30T23:16:25Z"
+    "published_date": "2026-03-31T16:29:52Z"
   },
   {
-    "id": "hn-47580910",
-    "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-    "url": "https://github.com/virpo/pegboard",
-    "points": 33,
-    "comments": 6,
+    "id": "hn-47588349",
+    "title": "GitHub Monaspace Case Study",
+    "url": "https://lettermatic.com/custom/monaspace-case-study",
+    "points": 128,
+    "comments": 41,
     "source": "Hacker News",
-    "published_date": "2026-03-30T23:20:02Z"
+    "published_date": "2026-03-31T15:01:35Z"
   },
   {
-    "id": "hn-47573224",
-    "title": "Ask HN: Where have you found the coding limits of current models?",
-    "url": "https://news.ycombinator.com/item?id=47573224",
-    "points": 30,
-    "comments": 42,
+    "id": "hn-47583959",
+    "title": "Accidentally created my first fork bomb with Claude Code",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "points": 66,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-03-30T12:08:47Z"
+    "published_date": "2026-03-31T07:40:18Z"
   },
   {
-    "id": "hn-47571513",
-    "title": "Ask HN: Who needs contributors? (March 2026)",
-    "url": "https://news.ycombinator.com/item?id=47571513",
-    "points": 23,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T07:36:58Z"
-  },
-  {
-    "id": "hn-47581097",
-    "title": "Ask HN: Are you too getting addicted to the dev workflow of coding with agents?",
-    "url": "https://news.ycombinator.com/item?id=47581097",
-    "points": 22,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T23:49:28Z"
-  },
-  {
-    "id": "hn-47574045",
-    "title": "Show HN: Phantom \u2013 Open-source AI agent on its own VM that rewrites its config",
-    "url": "https://github.com/ghostwright/phantom",
-    "points": 18,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-03-30T13:30:00Z"
-  },
-  {
-    "id": "hn-47582877",
-    "title": "Claude Code bug can silently 10-20x API costs",
-    "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
-    "points": 18,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T04:50:53Z"
-  },
-  {
-    "id": "hn-47580059",
-    "title": "Agentic AI and the next intelligence explosion",
-    "url": "https://arxiv.org/abs/2603.20639",
-    "points": 17,
+    "id": "hn-47584850",
+    "title": "Claude Code full source code leaked on NPM",
+    "url": "https://github.com/chatgptprojects/claude-code",
+    "points": 47,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-03-30T21:40:57Z"
+    "published_date": "2026-03-31T09:40:12Z"
   },
   {
-    "id": "hn-47582069",
-    "title": "Trump Tells Aides He's Willing to End War Without Reopening Hormuz",
-    "url": "https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4",
-    "points": 16,
+    "id": "hn-47584304",
+    "title": "Closed Source AI = Neofeudalism",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+    "points": 38,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T08:29:24Z"
+  },
+  {
+    "id": "hn-47596654",
+    "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+    "url": "https://neuberg.ai/",
+    "points": 37,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T04:00:51Z"
+  },
+  {
+    "id": "hn-47585860",
+    "title": "In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",
+    "url": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
+    "points": 30,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T11:37:52Z"
+  },
+  {
+    "id": "hn-47590261",
+    "title": "Ask HN: Academic study on AI's impact on software development \u2013 want to join?",
+    "url": "https://news.ycombinator.com/item?id=47590261",
+    "points": 28,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-03-31T02:28:09Z"
+    "published_date": "2026-03-31T16:57:34Z"
+  },
+  {
+    "id": "hn-47589732",
+    "title": "Forth VM and compiler written in C++ and Scryer Prolog",
+    "url": "https://github.com/no382001/forth-vm",
+    "points": 28,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T16:21:20Z"
+  },
+  {
+    "id": "hn-47597382",
+    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+    "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+    "points": 28,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T06:05:57Z"
+  },
+  {
+    "id": "hn-47590526",
+    "title": "Raspberry Pi profit surges as AI boom lifts demand",
+    "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c",
+    "points": 27,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T17:15:42Z"
+  },
+  {
+    "id": "hn-47592047",
+    "title": "Textstring",
+    "url": "https://pushmatrix.github.io/textstring/",
+    "points": 21,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-03-31T19:11:13Z"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "jxnxts/mcp-brasil",
     "description": "MCP Server para 41 APIs p\u00fablicas brasileiras",
     "url": "https://github.com/jxnxts/mcp-brasil",
-    "stars": 949,
+    "stars": 985,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -21,65 +21,11 @@
     "created_at": "2026-03-26T00:38:54Z"
   },
   {
-    "id": "gh-1194293040",
-    "name": "LeoYeAI/openclaw-auto-dream",
-    "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
-    "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-    "stars": 498,
-    "language": "HTML",
-    "topics": [
-      "ai-agent",
-      "auto-dream",
-      "llm",
-      "memory",
-      "memory-management",
-      "myclaw",
-      "openclaw"
-    ],
-    "created_at": "2026-03-28T06:38:18Z"
-  },
-  {
-    "id": "gh-1195557790",
-    "name": "dreddnafious/thereisnospoon",
-    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
-    "url": "https://github.com/dreddnafious/thereisnospoon",
-    "stars": 385,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "engineering",
-      "fundamentals",
-      "machine-learning",
-      "neural-networks",
-      "primer",
-      "transformers",
-      "tutorial"
-    ],
-    "created_at": "2026-03-29T19:59:07Z"
-  },
-  {
-    "id": "gh-1191874901",
-    "name": "maria-rcks/t1code",
-    "description": "T3Code, but in your terminal",
-    "url": "https://github.com/maria-rcks/t1code",
-    "stars": 354,
-    "language": "TypeScript",
-    "topics": [
-      "codex",
-      "coding",
-      "llm",
-      "opentui",
-      "t3code",
-      "tui"
-    ],
-    "created_at": "2026-03-25T17:08:56Z"
-  },
-  {
     "id": "gh-1192303694",
     "name": "ghostwright/phantom",
     "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
     "url": "https://github.com/ghostwright/phantom",
-    "stars": 337,
+    "stars": 702,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -98,11 +44,49 @@
     "created_at": "2026-03-26T04:45:11Z"
   },
   {
+    "id": "gh-1197598190",
+    "name": "lintsinghua/claude-code-book",
+    "description": "42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "stars": 636,
+    "language": null,
+    "topics": [
+      "agent",
+      "agent-architecture",
+      "ai-agent",
+      "anthropic",
+      "book",
+      "chinese",
+      "claude-code",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-03-31T18:00:16Z"
+  },
+  {
+    "id": "gh-1194293040",
+    "name": "LeoYeAI/openclaw-auto-dream",
+    "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
+    "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+    "stars": 595,
+    "language": "HTML",
+    "topics": [
+      "ai-agent",
+      "auto-dream",
+      "llm",
+      "memory",
+      "memory-management",
+      "myclaw",
+      "openclaw"
+    ],
+    "created_at": "2026-03-28T06:38:18Z"
+  },
+  {
     "id": "gh-1193564274",
-    "name": "alvinunreal/awesome-openclaw",
+    "name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
-    "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 282,
+    "url": "https://github.com/alvinreal/awesome-openclaw",
+    "stars": 487,
     "language": null,
     "topics": [
       "ai",
@@ -119,11 +103,50 @@
     "created_at": "2026-03-27T11:07:09Z"
   },
   {
+    "id": "gh-1197473770",
+    "name": "777genius/claude-code-source-code",
+    "description": "Claude code source code",
+    "url": "https://github.com/777genius/claude-code-source-code",
+    "stars": 429,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "anthropic-ai",
+      "anthropic-claude",
+      "claude",
+      "claude-ai",
+      "claude-code"
+    ],
+    "created_at": "2026-03-31T15:57:14Z"
+  },
+  {
+    "id": "gh-1195557790",
+    "name": "dreddnafious/thereisnospoon",
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+    "url": "https://github.com/dreddnafious/thereisnospoon",
+    "stars": 418,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "engineering",
+      "fundamentals",
+      "machine-learning",
+      "neural-networks",
+      "primer",
+      "transformers",
+      "tutorial"
+    ],
+    "created_at": "2026-03-29T19:59:07Z"
+  },
+  {
     "id": "gh-1192581753",
     "name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users \u2014 no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 173,
+    "stars": 235,
     "language": "Go",
     "topics": [
       "agent",
@@ -137,11 +160,29 @@
     "created_at": "2026-03-26T11:06:26Z"
   },
   {
+    "id": "gh-1197674252",
+    "name": "lorryjovens-hub/claude-code-rust",
+    "description": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
+    "url": "https://github.com/lorryjovens-hub/claude-code-rust",
+    "stars": 200,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "mcp",
+      "performance",
+      "repl",
+      "rust"
+    ],
+    "created_at": "2026-03-31T19:30:11Z"
+  },
+  {
     "id": "gh-1194570484",
     "name": "kayba-ai/recursive-improve",
     "description": "\ud83e\ude9e Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 140,
+    "stars": 150,
     "language": "Python",
     "topics": [
       "agent-learning",
@@ -155,69 +196,11 @@
     "created_at": "2026-03-28T14:37:25Z"
   },
   {
-    "id": "gh-1191240966",
-    "name": "veyliss/ai-localbase",
-    "description": "\u4e00\u4e2a\u672c\u5730\u4f18\u5148\u7684AI\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff08RAG\uff09\uff0c\u7528\u4e8e\u628a\u672c\u5730\u6587\u6863\u63a5\u5165\u8f85\u5bfc\u641c\u7d22\u4e0e\u5927\u6a21\u578b\u5bf9\u8bdd\u6d41\u7a0b\u3002\u76ee\u524d\u652f\u6301md\u3001txt\u3001pdf\uff08\u6587\u672c\uff09\u7c7b\u578b",
-    "url": "https://github.com/veyliss/ai-localbase",
-    "stars": 129,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "go",
-      "knowledge-base",
-      "ollama",
-      "qdrant",
-      "rag",
-      "react"
-    ],
-    "created_at": "2026-03-25T03:42:43Z"
-  },
-  {
-    "id": "gh-1191384809",
-    "name": "kreuzberg-dev/liter-llm",
-    "description": "Universal LLM API client \u2014 142+ providers, 11 native language bindings, powered by Rust core",
-    "url": "https://github.com/kreuzberg-dev/liter-llm",
-    "stars": 101,
-    "language": "Rust",
-    "topics": [
-      "anthropic",
-      "api-client",
-      "llm",
-      "machine-learning",
-      "openai",
-      "polyglot",
-      "python",
-      "rust",
-      "streaming",
-      "typescript"
-    ],
-    "created_at": "2026-03-25T07:30:37Z"
-  },
-  {
-    "id": "gh-1192391522",
-    "name": "ethanplusai/jarvis",
-    "description": "JARVIS \u2014 A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
-    "url": "https://github.com/ethanplusai/jarvis",
-    "stars": 89,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude",
-      "jarvis",
-      "macos",
-      "python",
-      "three-js",
-      "typescript",
-      "voice-assistant"
-    ],
-    "created_at": "2026-03-26T07:02:09Z"
-  },
-  {
     "id": "gh-1193238580",
     "name": "TensorCEO/TensorCEO",
     "description": "\u8ba1\u7b97\u673a\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u673a\u5668\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u6df1\u5ea6\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u539f\u521bAI\u9879\u76ee\u3010\u6e90\u7801+\u8bba\u6587\u3011",
     "url": "https://github.com/TensorCEO/TensorCEO",
-    "stars": 72,
+    "stars": 88,
     "language": null,
     "topics": [
       "ai-projects",
@@ -238,38 +221,49 @@
     "created_at": "2026-03-27T02:33:26Z"
   },
   {
-    "id": "gh-1191509283",
-    "name": "OnlyTerp/turboquant",
-    "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.",
-    "url": "https://github.com/OnlyTerp/turboquant",
-    "stars": 49,
+    "id": "gh-1195815254",
+    "name": "Gokuld102/ai-traffic-signal-optimization",
+    "description": "AI-based smart traffic signal optimization using YOLO, OpenCV, and Machine Learning",
+    "url": "https://github.com/Gokuld102/ai-traffic-signal-optimization",
+    "stars": 41,
     "language": "Python",
     "topics": [
-      "attention",
-      "compression",
-      "deep-learning",
-      "google-research",
-      "iclr",
-      "kv-cache",
-      "kv-cache-compression",
-      "llm",
-      "llm-inference",
+      "ai",
+      "computer-vision",
+      "flask",
       "machine-learning",
-      "memory-optimization",
-      "pytorch",
-      "quantization",
-      "transformer",
-      "vector-quantization",
-      "vllm"
+      "opencv",
+      "smart-city",
+      "traffic-system",
+      "yolo"
     ],
-    "created_at": "2026-03-25T10:11:04Z"
+    "created_at": "2026-03-30T04:59:22Z"
+  },
+  {
+    "id": "gh-1194354315",
+    "name": "Kuberwastaken/litmus",
+    "description": "Run a Parallel Autonomous ML Research Organization on your OpenClaw instance. ",
+    "url": "https://github.com/Kuberwastaken/litmus",
+    "stars": 25,
+    "language": "HTML",
+    "topics": [
+      "agentic-ai",
+      "autoresearch",
+      "litmus",
+      "machine-learning",
+      "ml-research",
+      "openclaw",
+      "openclaw-skill",
+      "research"
+    ],
+    "created_at": "2026-03-28T08:34:46Z"
   },
   {
     "id": "gh-1193208539",
     "name": "api7/aisix",
     "description": "An open source, Native AI Gateway and LLM proxy built in Rust",
     "url": "https://github.com/api7/aisix",
-    "stars": 7,
+    "stars": 10,
     "language": "Rust",
     "topics": [
       "ai",
@@ -284,28 +278,25 @@
     "created_at": "2026-03-27T01:34:23Z"
   },
   {
-    "id": "gh-1191890257",
-    "name": "kkpkishan/aws-billing-insights",
-    "description": "AI-powered AWS billing analysis & cost optimization using Amazon Bedrock. Serverless FinOps insights, forecasts & recommendations via SNS.",
-    "url": "https://github.com/kkpkishan/aws-billing-insights",
+    "id": "gh-1194534381",
+    "name": "MsheesAI/ChatBot",
+    "description": "Simple Chatbot using  LangChain  just Q &  A  Generative AI Application.",
+    "url": "https://github.com/MsheesAI/ChatBot",
     "stars": 3,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "amazon-bedrock",
-      "aws",
-      "aws-cost-explorer",
-      "aws-lambda",
-      "aws-sns",
-      "cloud-architecture",
-      "cloud-cost",
-      "cloud-finops",
-      "cost-optimization",
-      "finops",
+      "api",
+      "basic",
+      "bot",
+      "chat-app",
+      "chatbot",
       "generative-ai",
-      "lambda",
-      "serverless",
-      "sns"
+      "msheesai",
+      "open-source",
+      "openai",
+      "quizapp",
+      "shees"
     ],
-    "created_at": "2026-03-25T17:26:39Z"
+    "created_at": "2026-03-28T13:42:51Z"
   }
 ]
