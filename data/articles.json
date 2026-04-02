@@ -420,6 +420,158 @@
     "image": null
   },
   {
+    "id": "rss-c38b9a20",
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+    "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Apr 2026 22:12:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-104602a7",
+    "title": "Meta\u2019s natural gas binge could power South Dakota",
+    "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Apr 2026 18:35:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-93167e0c",
+    "title": "Holo3: Breaking the Computer Use Frontier",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Hcompany/holo3",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Apr 2026 16:36:15 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-94140c71",
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9dce3146",
+    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Apr 2026 14:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b242e73e",
+    "title": "We\u2019re creating a new satellite imagery map to help protect Brazil\u2019s forests.",
+    "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country\u2019s forests.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Apr 2026 13:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c10527d0",
+    "title": "The latest AI news we announced in March 2026",
+    "summary": "March 2026 AI Recap showing new updates",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Apr 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1677d36c",
+    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+    "tags": [
+      "benchmark"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 01 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-afbb3709",
+    "title": "The gig workers who are training humanoid robots at home",
+    "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 01 Apr 2026 11:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a6e2823e",
+    "title": "Falcon Perception",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Apr 2026 07:13:20 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-0f9835b1",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gradient-labs",
+    "tags": [
+      "GPT",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Apr 2026 02:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-08ac6ed6",
     "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
     "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",

@@ -1,54 +1,31 @@
 [
   {
-    "id": "gh-1192168837",
-    "name": "jxnxts/mcp-brasil",
-    "description": "MCP Server para 41 APIs p\u00fablicas brasileiras",
-    "url": "https://github.com/jxnxts/mcp-brasil",
-    "stars": 985,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apis-publicas",
-      "brazil",
-      "claude",
-      "fastmcp",
-      "governo",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "python"
-    ],
-    "created_at": "2026-03-26T00:38:54Z"
-  },
-  {
-    "id": "gh-1192303694",
-    "name": "ghostwright/phantom",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
-    "url": "https://github.com/ghostwright/phantom",
-    "stars": 702,
+    "id": "gh-1197656406",
+    "name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 2347,
     "language": "TypeScript",
     "topics": [
+      "agent-framework",
       "ai-agents",
-      "ai-coworker",
-      "anthropic",
-      "autonomous-agents",
-      "bun",
       "claude",
-      "docker",
       "llm",
-      "mcp",
-      "self-evolution",
-      "slack",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
       "typescript"
     ],
-    "created_at": "2026-03-26T04:45:11Z"
+    "created_at": "2026-03-31T19:07:34Z"
   },
   {
     "id": "gh-1197598190",
     "name": "lintsinghua/claude-code-book",
-    "description": "42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "description": "42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
     "url": "https://github.com/lintsinghua/claude-code-book",
-    "stars": 636,
+    "stars": 1222,
     "language": null,
     "topics": [
       "agent",
@@ -64,29 +41,99 @@
     "created_at": "2026-03-31T18:00:16Z"
   },
   {
-    "id": "gh-1194293040",
-    "name": "LeoYeAI/openclaw-auto-dream",
-    "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
-    "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-    "stars": 595,
-    "language": "HTML",
+    "id": "gh-1197226849",
+    "name": "Windy3f3f3f3f/how-claude-code-works",
+    "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "stars": 1088,
+    "language": null,
     "topics": [
+      "ai",
       "ai-agent",
-      "auto-dream",
+      "anthropic",
+      "architecture",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "deep-dive",
       "llm",
-      "memory",
-      "memory-management",
-      "myclaw",
-      "openclaw"
+      "source-code-analysis"
     ],
-    "created_at": "2026-03-28T06:38:18Z"
+    "created_at": "2026-03-31T12:25:40Z"
+  },
+  {
+    "id": "gh-1197265285",
+    "name": "openedclaude/claude-reviews-claude",
+    "description": "Claude reads its own source code \u2014 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
+    "url": "https://github.com/openedclaude/claude-reviews-claude",
+    "stars": 1058,
+    "language": null,
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "anthropic",
+      "architecture",
+      "claude",
+      "claude-code",
+      "deep-dive",
+      "documentation",
+      "llm",
+      "meta",
+      "reverse-engineering",
+      "source-code",
+      "typescript",
+      "vibe-coding"
+    ],
+    "created_at": "2026-03-31T12:58:46Z"
+  },
+  {
+    "id": "gh-1197473770",
+    "name": "777genius/claude-code-source-code",
+    "description": "Claude code source code",
+    "url": "https://github.com/777genius/claude-code-source-code",
+    "stars": 821,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "anthropic-ai",
+      "anthropic-claude",
+      "claude",
+      "claude-ai",
+      "claude-code"
+    ],
+    "created_at": "2026-03-31T15:57:14Z"
+  },
+  {
+    "id": "gh-1197227242",
+    "name": "Windy3f3f3f3f/claude-code-from-scratch",
+    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / \u4ece\u96f6\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Claude Code\uff0c~1300 \u884c\u4ee3\u7801\uff0c\u5206\u6b65\u6559\u7a0b",
+    "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+    "stars": 594,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "build-from-scratch",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "llm",
+      "tutorial",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T12:26:06Z"
   },
   {
     "id": "gh-1193564274",
     "name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 487,
+    "stars": 534,
     "language": null,
     "topics": [
       "ai",
@@ -103,31 +150,11 @@
     "created_at": "2026-03-27T11:07:09Z"
   },
   {
-    "id": "gh-1197473770",
-    "name": "777genius/claude-code-source-code",
-    "description": "Claude code source code",
-    "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 429,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "anthropic-ai",
-      "anthropic-claude",
-      "claude",
-      "claude-ai",
-      "claude-code"
-    ],
-    "created_at": "2026-03-31T15:57:14Z"
-  },
-  {
     "id": "gh-1195557790",
     "name": "dreddnafious/thereisnospoon",
     "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
     "url": "https://github.com/dreddnafious/thereisnospoon",
-    "stars": 418,
+    "stars": 473,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -142,47 +169,11 @@
     "created_at": "2026-03-29T19:59:07Z"
   },
   {
-    "id": "gh-1192581753",
-    "name": "vkhanhqui/figma-mcp-go",
-    "description": "Figma MCP for free users \u2014 no rate limits, full read/write, text to designs, designs to code",
-    "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 235,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "ai",
-      "automation",
-      "design",
-      "figma",
-      "figma-plugin",
-      "mcp"
-    ],
-    "created_at": "2026-03-26T11:06:26Z"
-  },
-  {
-    "id": "gh-1197674252",
-    "name": "lorryjovens-hub/claude-code-rust",
-    "description": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
-    "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 200,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "claude",
-      "cli",
-      "mcp",
-      "performance",
-      "repl",
-      "rust"
-    ],
-    "created_at": "2026-03-31T19:30:11Z"
-  },
-  {
     "id": "gh-1194570484",
     "name": "kayba-ai/recursive-improve",
     "description": "\ud83e\ude9e Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 150,
+    "stars": 151,
     "language": "Python",
     "topics": [
       "agent-learning",
@@ -200,7 +191,7 @@
     "name": "TensorCEO/TensorCEO",
     "description": "\u8ba1\u7b97\u673a\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u673a\u5668\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u6df1\u5ea6\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u539f\u521bAI\u9879\u76ee\u3010\u6e90\u7801+\u8bba\u6587\u3011",
     "url": "https://github.com/TensorCEO/TensorCEO",
-    "stars": 88,
+    "stars": 96,
     "language": null,
     "topics": [
       "ai-projects",
@@ -225,7 +216,7 @@
     "name": "Gokuld102/ai-traffic-signal-optimization",
     "description": "AI-based smart traffic signal optimization using YOLO, OpenCV, and Machine Learning",
     "url": "https://github.com/Gokuld102/ai-traffic-signal-optimization",
-    "stars": 41,
+    "stars": 42,
     "language": "Python",
     "topics": [
       "ai",
@@ -244,7 +235,7 @@
     "name": "Kuberwastaken/litmus",
     "description": "Run a Parallel Autonomous ML Research Organization on your OpenClaw instance. ",
     "url": "https://github.com/Kuberwastaken/litmus",
-    "stars": 25,
+    "stars": 33,
     "language": "HTML",
     "topics": [
       "agentic-ai",
@@ -298,5 +289,27 @@
       "shees"
     ],
     "created_at": "2026-03-28T13:42:51Z"
+  },
+  {
+    "id": "gh-1194547519",
+    "name": "MsheesAI/Image-Generator",
+    "description": "AI Image Generator using OpenAI library and dalle model. ui is based on streamlit",
+    "url": "https://github.com/MsheesAI/Image-Generator",
+    "stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "api",
+      "generative-ai",
+      "image-generation",
+      "image-generation-ai",
+      "open-source",
+      "openai",
+      "workflow"
+    ],
+    "created_at": "2026-03-28T14:02:46Z"
   }
 ]

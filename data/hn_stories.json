@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47584540",
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "points": 1963,
-    "comments": 960,
+    "id": "hn-47601859",
+    "title": "Ask HN: Who is hiring? (April 2026)",
+    "url": "https://news.ycombinator.com/item?id=47601859",
+    "points": 225,
+    "comments": 189,
     "source": "Hacker News",
-    "published_date": "2026-03-31T09:00:40Z"
+    "published_date": "2026-04-01T15:01:36Z"
   },
   {
-    "id": "hn-47586778",
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "points": 1098,
-    "comments": 425,
+    "id": "hn-47603737",
+    "title": "AI for American-produced cement and concrete",
+    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "points": 185,
+    "comments": 110,
     "source": "Hacker News",
-    "published_date": "2026-03-31T13:04:30Z"
+    "published_date": "2026-04-01T17:17:24Z"
   },
   {
-    "id": "hn-47591928",
-    "title": "GitHub's Historic Uptime",
-    "url": "https://damrnelson.github.io/github-historical-uptime/",
-    "points": 457,
-    "comments": 111,
+    "id": "hn-47608058",
+    "title": "A new C++ back end for ocamlc",
+    "url": "https://github.com/ocaml/ocaml/pull/14701",
+    "points": 152,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-03-31T19:01:29Z"
+    "published_date": "2026-04-01T23:35:02Z"
   },
   {
-    "id": "hn-47586176",
-    "title": "Claude Code users hitting usage limits 'way faster than expected'",
-    "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-    "points": 298,
-    "comments": 184,
+    "id": "hn-47609294",
+    "title": "The Claude Code Leak",
+    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+    "points": 104,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-03-31T12:11:29Z"
+    "published_date": "2026-04-02T02:26:05Z"
   },
   {
-    "id": "hn-47593422",
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "url": "https://prismml.com/",
-    "points": 211,
-    "comments": 87,
+    "id": "hn-47604218",
+    "title": "The AI Marketing BS Index",
+    "url": "https://bastian.rieck.me/blog/2026/bs/",
+    "points": 96,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-03-31T21:01:18Z"
+    "published_date": "2026-04-01T17:55:12Z"
   },
   {
-    "id": "hn-47589011",
-    "title": "Italy blocks US use of Sicily air base for Middle East war",
-    "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
-    "points": 189,
-    "comments": 99,
+    "id": "hn-47610336",
+    "title": "r/programming bans all discussion of LLM programming",
+    "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+    "points": 89,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-03-31T15:39:45Z"
+    "published_date": "2026-04-02T05:33:20Z"
   },
   {
-    "id": "hn-47595971",
-    "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
-    "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
-    "points": 169,
-    "comments": 124,
+    "id": "hn-47604354",
+    "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
+    "url": "https://github.com/SharpAI/SwiftLM",
+    "points": 76,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-04-01T02:14:42Z"
+    "published_date": "2026-04-01T18:06:00Z"
   },
   {
-    "id": "hn-47597085",
-    "title": "Claude Code Unpacked : A visual guide",
-    "url": "https://ccunpacked.dev/",
-    "points": 146,
-    "comments": 30,
+    "id": "hn-47606560",
+    "title": "Show HN: Dull \u2013 Instagram Without Reels, YouTube Without Shorts (iOS)",
+    "url": "https://getdull.app",
+    "points": 72,
+    "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-04-01T05:15:37Z"
+    "published_date": "2026-04-01T21:04:53Z"
   },
   {
-    "id": "hn-47589856",
-    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
-    "url": "https://github.com/timescale/pg_textsearch",
-    "points": 137,
-    "comments": 41,
+    "id": "hn-47602986",
+    "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+    "url": "https://github.com/simple10/agents-observe",
+    "points": 71,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-03-31T16:29:52Z"
+    "published_date": "2026-04-01T16:24:28Z"
   },
   {
-    "id": "hn-47588349",
-    "title": "GitHub Monaspace Case Study",
-    "url": "https://lettermatic.com/custom/monaspace-case-study",
-    "points": 128,
-    "comments": 41,
+    "id": "hn-47608155",
+    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+    "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+    "points": 67,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-03-31T15:01:35Z"
+    "published_date": "2026-04-01T23:45:03Z"
   },
   {
-    "id": "hn-47583959",
-    "title": "Accidentally created my first fork bomb with Claude Code",
-    "url": "https://www.droppedasbaby.com/posts/2602-01/",
-    "points": 66,
-    "comments": 17,
+    "id": "hn-47599771",
+    "title": "Show HN: Baton \u2013 A desktop app for developing with AI agents",
+    "url": "https://getbaton.dev/",
+    "points": 60,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-03-31T07:40:18Z"
+    "published_date": "2026-04-01T12:11:30Z"
   },
   {
-    "id": "hn-47584850",
-    "title": "Claude Code full source code leaked on NPM",
-    "url": "https://github.com/chatgptprojects/claude-code",
-    "points": 47,
-    "comments": 3,
+    "id": "hn-47601107",
+    "title": "AI has suddenly become more useful to open-source developers",
+    "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+    "points": 53,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-03-31T09:40:12Z"
+    "published_date": "2026-04-01T14:07:50Z"
   },
   {
-    "id": "hn-47584304",
-    "title": "Closed Source AI = Neofeudalism",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
-    "points": 38,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T08:29:24Z"
-  },
-  {
-    "id": "hn-47596654",
-    "title": "I built a 516-panel financial terminal in 3 weeks using AI",
-    "url": "https://neuberg.ai/",
-    "points": 37,
-    "comments": 34,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T04:00:51Z"
-  },
-  {
-    "id": "hn-47585860",
-    "title": "In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",
-    "url": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
-    "points": 30,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T11:37:52Z"
-  },
-  {
-    "id": "hn-47590261",
-    "title": "Ask HN: Academic study on AI's impact on software development \u2013 want to join?",
-    "url": "https://news.ycombinator.com/item?id=47590261",
-    "points": 28,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T16:57:34Z"
-  },
-  {
-    "id": "hn-47589732",
-    "title": "Forth VM and compiler written in C++ and Scryer Prolog",
-    "url": "https://github.com/no382001/forth-vm",
-    "points": 28,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-03-31T16:21:20Z"
-  },
-  {
-    "id": "hn-47597382",
-    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
-    "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
-    "points": 28,
+    "id": "hn-47609253",
+    "title": "Solar Balconies Take Europe by Storm",
+    "url": "https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/",
+    "points": 52,
     "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-04-01T06:05:57Z"
+    "published_date": "2026-04-02T02:17:51Z"
   },
   {
-    "id": "hn-47590526",
-    "title": "Raspberry Pi profit surges as AI boom lifts demand",
-    "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c",
-    "points": 27,
-    "comments": 9,
+    "id": "hn-47599303",
+    "title": "Ask HN: Client took over development by vibe coding. What to do?",
+    "url": "https://news.ycombinator.com/item?id=47599303",
+    "points": 50,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-03-31T17:15:42Z"
+    "published_date": "2026-04-01T11:09:03Z"
   },
   {
-    "id": "hn-47592047",
-    "title": "Textstring",
-    "url": "https://pushmatrix.github.io/textstring/",
+    "id": "hn-47600244",
+    "title": "CEO of largest public hospital says he's ready to replace radiologists with AI",
+    "url": "https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai",
+    "points": 44,
+    "comments": 107,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T12:59:27Z"
+  },
+  {
+    "id": "hn-47607947",
+    "title": "Obfuscation is not security \u2013 AI can deobfuscate any minified JavaScript code",
+    "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
+    "points": 36,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T23:25:29Z"
+  },
+  {
+    "id": "hn-47607394",
+    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+    "url": "https://github.com/solvespace/solvespace/issues/1036",
+    "points": 32,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T22:32:04Z"
+  },
+  {
+    "id": "hn-47603969",
+    "title": "AI companies charge you 60% more based on your language, BPE tokens",
+    "url": "https://tokenstree.com/newsletter-article-5.html",
+    "points": 23,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T17:34:28Z"
+  },
+  {
+    "id": "hn-47608059",
+    "title": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
+    "url": "https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html",
+    "points": 23,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-01T23:35:07Z"
+  },
+  {
+    "id": "hn-47601315",
+    "title": "Anthropic Races to Contain Leak of Code Behind Claude AI Agent",
+    "url": "https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7",
     "points": 21,
-    "comments": 4,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-03-31T19:11:13Z"
+    "published_date": "2026-04-01T14:19:37Z"
   }
 ]
