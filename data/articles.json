@@ -1718,6 +1718,162 @@
     "image": null
   },
   {
+    "id": "rss-043898ae",
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 02 Apr 2026 19:21:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c13f45af",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 02 Apr 2026 16:48:16 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c64eb2c5",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Thu, 02 Apr 2026 16:00:49 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-11d321b4",
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b9151f44",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "summary": "Gemini API Dials",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-aaf3d2dd",
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "summary": "Google Vids logo surrounded by various video editing UI",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5a3637bd",
+    "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 02 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b487a1bf",
+    "title": "OpenAI acquires TBPN",
+    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c32a08ac",
+    "title": "Codex now offers more flexible pricing for teams",
+    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-9afab4be",
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 02 Apr 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a38a6a43",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/gemma4",
+    "tags": [
+      "multimodal"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 02 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-26481377",
     "title": "Helping disaster response teams turn AI into action across Asia",
     "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",

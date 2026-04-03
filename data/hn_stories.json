@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47601859",
-    "title": "Ask HN: Who is hiring? (April 2026)",
-    "url": "https://news.ycombinator.com/item?id=47601859",
-    "points": 225,
-    "comments": 189,
+    "id": "hn-47615002",
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "points": 494,
+    "comments": 175,
     "source": "Hacker News",
-    "published_date": "2026-04-01T15:01:36Z"
+    "published_date": "2026-04-02T14:28:52Z"
   },
   {
-    "id": "hn-47603737",
-    "title": "AI for American-produced cement and concrete",
-    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "points": 185,
-    "comments": 110,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T17:17:24Z"
-  },
-  {
-    "id": "hn-47608058",
-    "title": "A new C++ back end for ocamlc",
-    "url": "https://github.com/ocaml/ocaml/pull/14701",
-    "points": 152,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T23:35:02Z"
-  },
-  {
-    "id": "hn-47609294",
-    "title": "The Claude Code Leak",
-    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-    "points": 104,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T02:26:05Z"
-  },
-  {
-    "id": "hn-47604218",
-    "title": "The AI Marketing BS Index",
-    "url": "https://bastian.rieck.me/blog/2026/bs/",
-    "points": 96,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T17:55:12Z"
-  },
-  {
-    "id": "hn-47610336",
-    "title": "r/programming bans all discussion of LLM programming",
-    "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-    "points": 89,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T05:33:20Z"
-  },
-  {
-    "id": "hn-47604354",
-    "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
-    "url": "https://github.com/SharpAI/SwiftLM",
-    "points": 76,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T18:06:00Z"
-  },
-  {
-    "id": "hn-47606560",
-    "title": "Show HN: Dull \u2013 Instagram Without Reels, YouTube Without Shorts (iOS)",
-    "url": "https://getdull.app",
-    "points": 72,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T21:04:53Z"
-  },
-  {
-    "id": "hn-47602986",
-    "title": "Show HN: Real-time dashboard for Claude Code agent teams",
-    "url": "https://github.com/simple10/agents-observe",
-    "points": 71,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T16:24:28Z"
-  },
-  {
-    "id": "hn-47608155",
-    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-    "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-    "points": 67,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T23:45:03Z"
-  },
-  {
-    "id": "hn-47599771",
-    "title": "Show HN: Baton \u2013 A desktop app for developing with AI agents",
-    "url": "https://getbaton.dev/",
-    "points": 60,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T12:11:30Z"
-  },
-  {
-    "id": "hn-47601107",
-    "title": "AI has suddenly become more useful to open-source developers",
-    "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-    "points": 53,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T14:07:50Z"
-  },
-  {
-    "id": "hn-47609253",
-    "title": "Solar Balconies Take Europe by Storm",
-    "url": "https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/",
-    "points": 52,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T02:17:51Z"
-  },
-  {
-    "id": "hn-47599303",
-    "title": "Ask HN: Client took over development by vibe coding. What to do?",
-    "url": "https://news.ycombinator.com/item?id=47599303",
-    "points": 50,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-04-01T11:09:03Z"
-  },
-  {
-    "id": "hn-47600244",
-    "title": "CEO of largest public hospital says he's ready to replace radiologists with AI",
-    "url": "https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai",
-    "points": 44,
+    "id": "hn-47612724",
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "url": "https://lemonade-server.ai",
+    "points": 493,
     "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-04-01T12:59:27Z"
+    "published_date": "2026-04-02T11:04:51Z"
   },
   {
-    "id": "hn-47607947",
-    "title": "Obfuscation is not security \u2013 AI can deobfuscate any minified JavaScript code",
-    "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
-    "points": 36,
-    "comments": 32,
+    "id": "hn-47614100",
+    "title": "'Backrooms' and the Rise of the Institutional Gothic",
+    "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+    "points": 189,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-04-01T23:25:29Z"
+    "published_date": "2026-04-02T13:18:05Z"
   },
   {
-    "id": "hn-47607394",
-    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
-    "url": "https://github.com/solvespace/solvespace/issues/1036",
-    "points": 32,
-    "comments": 6,
+    "id": "hn-47611809",
+    "title": "New laws to make it easier to cancel subscriptions and get refunds",
+    "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
+    "points": 150,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-04-01T22:32:04Z"
+    "published_date": "2026-04-02T09:00:26Z"
   },
   {
-    "id": "hn-47603969",
-    "title": "AI companies charge you 60% more based on your language, BPE tokens",
-    "url": "https://tokenstree.com/newsletter-article-5.html",
-    "points": 23,
-    "comments": 19,
+    "id": "hn-47618324",
+    "title": "Ask HN: European Tech Alternatives?",
+    "url": "https://news.ycombinator.com/item?id=47618324",
+    "points": 94,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-04-01T17:34:28Z"
+    "published_date": "2026-04-02T18:31:12Z"
   },
   {
-    "id": "hn-47608059",
-    "title": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
-    "url": "https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html",
-    "points": 23,
-    "comments": 8,
+    "id": "hn-47615876",
+    "title": "The case for zero-error horizons in trustworthy LLMs",
+    "url": "https://arxiv.org/abs/2601.15714",
+    "points": 71,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-04-01T23:35:07Z"
+    "published_date": "2026-04-02T15:35:31Z"
   },
   {
-    "id": "hn-47601315",
-    "title": "Anthropic Races to Contain Leak of Code Behind Claude AI Agent",
-    "url": "https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7",
-    "points": 21,
-    "comments": 8,
+    "id": "hn-47619322",
+    "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+    "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+    "points": 63,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-04-01T14:19:37Z"
+    "published_date": "2026-04-02T19:49:51Z"
+  },
+  {
+    "id": "hn-47612277",
+    "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
+    "url": "https://almightylisp.com/",
+    "points": 59,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T10:02:24Z"
+  },
+  {
+    "id": "hn-47612127",
+    "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
+    "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
+    "points": 45,
+    "comments": 124,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T09:43:08Z"
+  },
+  {
+    "id": "hn-47616665",
+    "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
+    "url": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069",
+    "points": 42,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T16:30:41Z"
+  },
+  {
+    "id": "hn-47621591",
+    "title": "Every Law a Commit \u2013 US Law in GitHub",
+    "url": "https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html",
+    "points": 35,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T23:34:21Z"
+  },
+  {
+    "id": "hn-47615844",
+    "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
+    "url": "https://github.com/Realman78/Kiyeovo/",
+    "points": 33,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T15:32:45Z"
+  },
+  {
+    "id": "hn-47620155",
+    "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
+    "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
+    "points": 31,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T21:03:15Z"
+  },
+  {
+    "id": "hn-47618322",
+    "title": "Mistral secures $830M in debt financing to fund AI data center",
+    "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+    "points": 31,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T18:31:00Z"
+  },
+  {
+    "id": "hn-47615145",
+    "title": "Stripe closed my UAE business account and is withholding $3.5K",
+    "url": "https://news.ycombinator.com/item?id=47615145",
+    "points": 20,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T14:39:34Z"
+  },
+  {
+    "id": "hn-47615926",
+    "title": "Usefully run 100s of Claudes in parallel with mngr",
+    "url": "https://imbue.com/product/mngr/",
+    "points": 20,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T15:39:00Z"
+  },
+  {
+    "id": "hn-47617217",
+    "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
+    "url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
+    "points": 19,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T17:13:59Z"
+  },
+  {
+    "id": "hn-47610943",
+    "title": "Claude Code users hitting usage limits 'way faster than expected'",
+    "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o",
+    "points": 18,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T07:05:33Z"
+  },
+  {
+    "id": "hn-47621825",
+    "title": "I Built an SMS Gateway with a $20 Android Phone \u2013 Jonno.nz",
+    "url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
+    "points": 17,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T00:04:11Z"
+  },
+  {
+    "id": "hn-47616595",
+    "title": "Rewrites.bio: 60x speedup in Genomics QC and AI rewrite principles for Science",
+    "url": "https://rewrites.bio/",
+    "points": 15,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-02T16:25:42Z"
   }
 ]

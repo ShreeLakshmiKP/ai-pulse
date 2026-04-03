@@ -2,20 +2,25 @@
   {
     "id": "gh-1197656406",
     "name": "JackChen-me/open-multi-agent",
-    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "description": "Lightweight multi-agent framework \u2014 describe a goal, the framework auto-decomposes it into tasks and runs them in parallel. Works with Claude, GPT, and local models.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 2347,
+    "stars": 2807,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
       "ai-agents",
+      "anthropic",
       "claude",
       "llm",
       "model-agnostic",
       "multi-agent",
+      "nodejs",
+      "ollama",
       "openai",
       "orchestration",
+      "structured-output",
       "task-scheduling",
+      "tool-use",
       "typescript"
     ],
     "created_at": "2026-03-31T19:07:34Z"
@@ -25,7 +30,7 @@
     "name": "lintsinghua/claude-code-book",
     "description": "42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
     "url": "https://github.com/lintsinghua/claude-code-book",
-    "stars": 1222,
+    "stars": 1542,
     "language": null,
     "topics": [
       "agent",
@@ -45,7 +50,7 @@
     "name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1088,
+    "stars": 1259,
     "language": null,
     "topics": [
       "ai",
@@ -66,7 +71,7 @@
     "name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code \u2014 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1058,
+    "stars": 1146,
     "language": null,
     "topics": [
       "agent",
@@ -92,7 +97,7 @@
     "name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 821,
+    "stars": 850,
     "language": null,
     "topics": [
       "ai",
@@ -110,9 +115,9 @@
   {
     "id": "gh-1197227242",
     "name": "Windy3f3f3f3f/claude-code-from-scratch",
-    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / \u4ece\u96f6\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Claude Code\uff0c~1300 \u884c\u4ee3\u7801\uff0c\u5206\u6b65\u6559\u7a0b",
+    "description": "\ud83d\udd0d Claude Code \u5f00\u6e90\u4e86 50 \u4e07\u884c\u4ee3\u7801\uff0c\u8bfb\u4e0d\u52a8\uff1f\u7528 ~3000 \u884c TypeScript \u4ece\u96f6\u590d\u73b0\u6838\u5fc3\u67b6\u6784\uff0c11 \u7ae0\u5206\u6b65\u6559\u7a0b\u5e26\u4f60\u7406\u89e3 coding agent \u7cbe\u9ad3\u3002Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 594,
+    "stars": 661,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -129,32 +134,29 @@
     "created_at": "2026-03-31T12:26:06Z"
   },
   {
-    "id": "gh-1193564274",
-    "name": "alvinreal/awesome-openclaw",
-    "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
-    "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 534,
-    "language": null,
+    "id": "gh-1197674252",
+    "name": "lorryjovens-hub/claude-code-rust",
+    "description": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
+    "url": "https://github.com/lorryjovens-hub/claude-code-rust",
+    "stars": 661,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "automation",
-      "awesome",
-      "awesome-list",
-      "llm",
-      "openclaw",
-      "plugins",
-      "resources",
-      "self-hosted"
+      "claude",
+      "cli",
+      "mcp",
+      "performance",
+      "repl",
+      "rust"
     ],
-    "created_at": "2026-03-27T11:07:09Z"
+    "created_at": "2026-03-31T19:30:11Z"
   },
   {
     "id": "gh-1195557790",
     "name": "dreddnafious/thereisnospoon",
     "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
     "url": "https://github.com/dreddnafious/thereisnospoon",
-    "stars": 473,
+    "stars": 534,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -173,7 +175,7 @@
     "name": "kayba-ai/recursive-improve",
     "description": "\ud83e\ude9e Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 151,
+    "stars": 153,
     "language": "Python",
     "topics": [
       "agent-learning",
@@ -185,31 +187,6 @@
       "machine-learning"
     ],
     "created_at": "2026-03-28T14:37:25Z"
-  },
-  {
-    "id": "gh-1193238580",
-    "name": "TensorCEO/TensorCEO",
-    "description": "\u8ba1\u7b97\u673a\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u673a\u5668\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u6df1\u5ea6\u5b66\u4e60\u6bd5\u4e1a\u8bbe\u8ba1\u3001\u539f\u521bAI\u9879\u76ee\u3010\u6e90\u7801+\u8bba\u6587\u3011",
-    "url": "https://github.com/TensorCEO/TensorCEO",
-    "stars": 96,
-    "language": null,
-    "topics": [
-      "ai-projects",
-      "artificial-intelligence",
-      "computer-science-project",
-      "computer-vision",
-      "deep-learning",
-      "dl-projects",
-      "final-year-project",
-      "flask",
-      "graduation-design",
-      "graduation-thesis",
-      "machine-learning",
-      "ml-projects",
-      "python",
-      "thesis-project"
-    ],
-    "created_at": "2026-03-27T02:33:26Z"
   },
   {
     "id": "gh-1195815254",
@@ -235,7 +212,7 @@
     "name": "Kuberwastaken/litmus",
     "description": "Run a Parallel Autonomous ML Research Organization on your OpenClaw instance. ",
     "url": "https://github.com/Kuberwastaken/litmus",
-    "stars": 33,
+    "stars": 40,
     "language": "HTML",
     "topics": [
       "agentic-ai",
@@ -250,23 +227,25 @@
     "created_at": "2026-03-28T08:34:46Z"
   },
   {
-    "id": "gh-1193208539",
-    "name": "api7/aisix",
-    "description": "An open source, Native AI Gateway and LLM proxy built in Rust",
-    "url": "https://github.com/api7/aisix",
-    "stars": 10,
-    "language": "Rust",
+    "id": "gh-1197613862",
+    "name": "fattail4477/claw-decode",
+    "description": "Decoding Claude Code's leaked 512K-line source \u2014 hidden features, 43 tool definitions, system prompts, architecture patterns",
+    "url": "https://github.com/fattail4477/claw-decode",
+    "stars": 39,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-gateway",
-      "generative-ai",
-      "infrastructure",
+      "ai-agent",
+      "anthropic",
+      "claude-code",
+      "developer-tools",
+      "leaked",
       "llm",
-      "llmops",
-      "mcp",
-      "networking"
+      "machine-learning",
+      "source-code-analysis",
+      "typescript"
     ],
-    "created_at": "2026-03-27T01:34:23Z"
+    "created_at": "2026-03-31T18:17:43Z"
   },
   {
     "id": "gh-1194534381",
@@ -311,5 +290,31 @@
       "workflow"
     ],
     "created_at": "2026-03-28T14:02:46Z"
+  },
+  {
+    "id": "gh-1195122696",
+    "name": "MsheesAI/MCP_Quick_Start",
+    "description": "MCP crash course in which you will learn how to build client and server and interact them",
+    "url": "https://github.com/MsheesAI/MCP_Quick_Start",
+    "stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "crash-course",
+      "generative-ai",
+      "langchain",
+      "langchain-python",
+      "learning-by-doing",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "msheesai",
+      "shees"
+    ],
+    "created_at": "2026-03-29T08:52:42Z"
   }
 ]
