@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47615002",
-    "title": "Qwen3.6-Plus: Towards real world agents",
-    "url": "https://qwen.ai/blog?id=qwen3.6",
-    "points": 494,
-    "comments": 175,
+    "id": "hn-47624645",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "url": "https://apfel.franzai.com",
+    "points": 665,
+    "comments": 139,
     "source": "Hacker News",
-    "published_date": "2026-04-02T14:28:52Z"
+    "published_date": "2026-04-03T09:15:34Z"
   },
   {
-    "id": "hn-47612724",
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "url": "https://lemonade-server.ai",
-    "points": 493,
-    "comments": 107,
+    "id": "hn-47633396",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "points": 527,
+    "comments": 469,
     "source": "Hacker News",
-    "published_date": "2026-04-02T11:04:51Z"
+    "published_date": "2026-04-03T22:55:24Z"
   },
   {
-    "id": "hn-47614100",
-    "title": "'Backrooms' and the Rise of the Institutional Gothic",
-    "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
-    "points": 189,
-    "comments": 94,
+    "id": "hn-47624731",
+    "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+    "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+    "points": 302,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-04-02T13:18:05Z"
+    "published_date": "2026-04-03T09:35:16Z"
   },
   {
-    "id": "hn-47611809",
-    "title": "New laws to make it easier to cancel subscriptions and get refunds",
-    "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
-    "points": 150,
-    "comments": 63,
+    "id": "hn-47624317",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "points": 128,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-04-02T09:00:26Z"
+    "published_date": "2026-04-03T08:15:12Z"
   },
   {
-    "id": "hn-47618324",
-    "title": "Ask HN: European Tech Alternatives?",
-    "url": "https://news.ycombinator.com/item?id=47618324",
-    "points": 94,
-    "comments": 51,
+    "id": "hn-47635056",
+    "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+    "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+    "points": 125,
+    "comments": 66,
     "source": "Hacker News",
-    "published_date": "2026-04-02T18:31:12Z"
+    "published_date": "2026-04-04T02:30:32Z"
   },
   {
-    "id": "hn-47615876",
-    "title": "The case for zero-error horizons in trustworthy LLMs",
-    "url": "https://arxiv.org/abs/2601.15714",
-    "points": 71,
-    "comments": 100,
+    "id": "hn-47632750",
+    "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
+    "url": "https://github.com/cmc-labo/tinyos-rtos",
+    "points": 96,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-04-02T15:35:31Z"
+    "published_date": "2026-04-03T21:46:26Z"
   },
   {
-    "id": "hn-47619322",
-    "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-    "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-    "points": 63,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T19:49:51Z"
-  },
-  {
-    "id": "hn-47612277",
-    "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
-    "url": "https://almightylisp.com/",
-    "points": 59,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T10:02:24Z"
-  },
-  {
-    "id": "hn-47612127",
-    "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
-    "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
-    "points": 45,
-    "comments": 124,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T09:43:08Z"
-  },
-  {
-    "id": "hn-47616665",
-    "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
-    "url": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069",
-    "points": 42,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T16:30:41Z"
-  },
-  {
-    "id": "hn-47621591",
-    "title": "Every Law a Commit \u2013 US Law in GitHub",
-    "url": "https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html",
-    "points": 35,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T23:34:21Z"
-  },
-  {
-    "id": "hn-47615844",
-    "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
-    "url": "https://github.com/Realman78/Kiyeovo/",
-    "points": 33,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T15:32:45Z"
-  },
-  {
-    "id": "hn-47620155",
-    "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
-    "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
-    "points": 31,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T21:03:15Z"
-  },
-  {
-    "id": "hn-47618322",
-    "title": "Mistral secures $830M in debt financing to fund AI data center",
-    "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
-    "points": 31,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T18:31:00Z"
-  },
-  {
-    "id": "hn-47615145",
-    "title": "Stripe closed my UAE business account and is withholding $3.5K",
-    "url": "https://news.ycombinator.com/item?id=47615145",
-    "points": 20,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T14:39:34Z"
-  },
-  {
-    "id": "hn-47615926",
-    "title": "Usefully run 100s of Claudes in parallel with mngr",
-    "url": "https://imbue.com/product/mngr/",
-    "points": 20,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T15:39:00Z"
-  },
-  {
-    "id": "hn-47617217",
-    "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
-    "url": "https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/",
-    "points": 19,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-04-02T17:13:59Z"
-  },
-  {
-    "id": "hn-47610943",
-    "title": "Claude Code users hitting usage limits 'way faster than expected'",
-    "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o",
-    "points": 18,
+    "id": "hn-47624804",
+    "title": "Category Theory Illustrated \u2013 Types",
+    "url": "https://abuseofnotation.github.io/category-theory-illustrated/06_type/",
+    "points": 93,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-04-02T07:05:33Z"
+    "published_date": "2026-04-03T09:49:41Z"
   },
   {
-    "id": "hn-47621825",
-    "title": "I Built an SMS Gateway with a $20 Android Phone \u2013 Jonno.nz",
-    "url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
-    "points": 17,
-    "comments": 3,
+    "id": "hn-47633116",
+    "title": "The house is a work of art: Frank Lloyd Wright",
+    "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
+    "points": 78,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-04-03T00:04:11Z"
+    "published_date": "2026-04-03T22:22:18Z"
   },
   {
-    "id": "hn-47616595",
-    "title": "Rewrites.bio: 60x speedup in Genomics QC and AI rewrite principles for Science",
-    "url": "https://rewrites.bio/",
-    "points": 15,
-    "comments": 3,
+    "id": "hn-47633131",
+    "title": "Run Linux containers on Android, no root required",
+    "url": "https://github.com/ExTV/Podroid",
+    "points": 78,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-04-02T16:25:42Z"
+    "published_date": "2026-04-03T22:23:55Z"
+  },
+  {
+    "id": "hn-47632504",
+    "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "points": 72,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T21:26:13Z"
+  },
+  {
+    "id": "hn-47635033",
+    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "points": 54,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-04-04T02:26:42Z"
+  },
+  {
+    "id": "hn-47633676",
+    "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+    "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+    "points": 52,
+    "comments": 47,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T23:26:44Z"
+  },
+  {
+    "id": "hn-47633150",
+    "title": "The Subprime AI Crisis Is Here",
+    "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
+    "points": 46,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T22:25:22Z"
+  },
+  {
+    "id": "hn-47625366",
+    "title": "United States Code (federal laws) in Git",
+    "url": "https://github.com/nickvido/us-code",
+    "points": 42,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T11:18:10Z"
+  },
+  {
+    "id": "hn-47631030",
+    "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+    "url": "https://ismcpdead.com",
+    "points": 27,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T19:28:06Z"
+  },
+  {
+    "id": "hn-47633855",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "points": 26,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T23:46:51Z"
+  },
+  {
+    "id": "hn-47626434",
+    "title": "Claude 4.6 Jailbroken",
+    "url": "https://github.com/Nicholas-Kloster/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
+    "points": 22,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T13:26:10Z"
+  },
+  {
+    "id": "hn-47632016",
+    "title": "The danger of military AI isn't killer robots; it's worse human judgement",
+    "url": "https://www.defenseone.com/technology/2026/03/military-ai-troops-judgement/412390/",
+    "points": 21,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T20:44:56Z"
+  },
+  {
+    "id": "hn-47631221",
+    "title": "Colorado's New Speed Camera System Makes Waze Nearly Useless",
+    "url": "https://www.motor1.com/news/792050/colorado-automated-speed-limit-cameras/",
+    "points": 16,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-04-03T19:41:44Z"
+  },
+  {
+    "id": "hn-47634460",
+    "title": "Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs",
+    "url": "https://apnews.com/article/trump-2027-annual-budget-congress-defense-f95715d838be17afd9799208cd3182e3",
+    "points": 16,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-04T01:04:50Z"
   }
 ]
