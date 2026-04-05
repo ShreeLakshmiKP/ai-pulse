@@ -4,7 +4,7 @@
     "name": "JackChen-me/open-multi-agent",
     "description": "TypeScript multi-agent framework \u2014 one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 3357,
+    "stars": 4326,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -30,7 +30,7 @@
     "name": "lintsinghua/claude-code-book",
     "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
     "url": "https://github.com/lintsinghua/claude-code-book",
-    "stars": 1731,
+    "stars": 2012,
     "language": null,
     "topics": [
       "agent",
@@ -50,7 +50,7 @@
     "name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1402,
+    "stars": 1462,
     "language": null,
     "topics": [
       "ai",
@@ -71,7 +71,7 @@
     "name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code \u2014 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1182,
+    "stars": 1191,
     "language": null,
     "topics": [
       "agent",
@@ -97,7 +97,7 @@
     "name": "lorryjovens-hub/claude-code-rust",
     "description": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 947,
+    "stars": 1067,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -115,7 +115,7 @@
     "name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 861,
+    "stars": 871,
     "language": null,
     "topics": [
       "ai",
@@ -135,8 +135,8 @@
     "name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "\ud83d\udd0d Claude Code \u5f00\u6e90\u4e86 50 \u4e07\u884c\u4ee3\u7801\uff0c\u8bfb\u4e0d\u52a8\uff1f\u7528 ~3000 \u884c TypeScript \u4ece\u96f6\u590d\u73b0\u6838\u5fc3\u67b6\u6784\uff0c11 \u7ae0\u5206\u6b65\u6559\u7a0b\u5e26\u4f60\u7406\u89e3 coding agent \u7cbe\u9ad3\u3002Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 705,
-    "language": "TypeScript",
+    "stars": 731,
+    "language": "Python",
     "topics": [
       "ai",
       "ai-agent",
@@ -152,30 +152,32 @@
     "created_at": "2026-03-31T12:26:06Z"
   },
   {
-    "id": "gh-1195557790",
-    "name": "dreddnafious/thereisnospoon",
-    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
-    "url": "https://github.com/dreddnafious/thereisnospoon",
-    "stars": 617,
+    "id": "gh-1198517307",
+    "name": "nikshepsvn/bankai",
+    "description": "Ultra-Sparse Adaptation of 1-Bit LLMs via XOR Patches",
+    "url": "https://github.com/nikshepsvn/bankai",
+    "stars": 51,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "engineering",
-      "fundamentals",
+      "1-bit",
+      "apple-silicon",
+      "binary-neural-networks",
+      "bonsai",
+      "llm",
       "machine-learning",
-      "neural-networks",
-      "primer",
-      "transformers",
-      "tutorial"
+      "mlx",
+      "model-adaptation",
+      "sparse",
+      "xor"
     ],
-    "created_at": "2026-03-29T19:59:07Z"
+    "created_at": "2026-04-01T13:53:48Z"
   },
   {
     "id": "gh-1197613862",
     "name": "fattail4477/claw-decode",
     "description": "Decoding Claude Code's leaked 512K-line source \u2014 hidden features, 43 tool definitions, system prompts, architecture patterns",
     "url": "https://github.com/fattail4477/claw-decode",
-    "stars": 44,
+    "stars": 46,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -190,6 +192,26 @@
       "typescript"
     ],
     "created_at": "2026-03-31T18:17:43Z"
+  },
+  {
+    "id": "gh-1197629713",
+    "name": "sunnnybala/Rstack",
+    "description": "Research automation skills for Claude Code. Idea to submittable paper in one session.",
+    "url": "https://github.com/sunnnybala/Rstack",
+    "stars": 45,
+    "language": "Shell",
+    "topics": [
+      "arxiv",
+      "claude-code",
+      "latex",
+      "llm-tools",
+      "machine-learning",
+      "modal",
+      "paper-writing",
+      "research",
+      "research-automation"
+    ],
+    "created_at": "2026-03-31T18:35:46Z"
   },
   {
     "id": "gh-1195815254",
@@ -211,71 +233,30 @@
     "created_at": "2026-03-30T04:59:22Z"
   },
   {
-    "id": "gh-1198517307",
-    "name": "nikshepsvn/bankai",
-    "description": "Ultra-Sparse Adaptation of 1-Bit LLMs via XOR Patches",
-    "url": "https://github.com/nikshepsvn/bankai",
-    "stars": 42,
+    "id": "gh-1198603414",
+    "name": "alex-jb/orallexa-ai-trading-agent",
+    "description": "Multi-agent AI trading system where Bull and Bear debate before every decision. 9 ML models, LLM strategy evolution, real-time dashboard.",
+    "url": "https://github.com/alex-jb/orallexa-ai-trading-agent",
+    "stars": 8,
     "language": "Python",
     "topics": [
-      "1-bit",
-      "apple-silicon",
-      "binary-neural-networks",
-      "bonsai",
+      "ai-trading",
+      "algorithmic-trading",
+      "art-deco",
+      "claude",
+      "desktop-assistant",
+      "fintech",
+      "gnn",
       "llm",
       "machine-learning",
-      "mlx",
-      "model-adaptation",
-      "sparse",
-      "xor"
+      "multi-agent",
+      "python",
+      "pytorch",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "trading-bot"
     ],
-    "created_at": "2026-04-01T13:53:48Z"
-  },
-  {
-    "id": "gh-1197629713",
-    "name": "sunnnybala/Rstack",
-    "description": "Research automation skills for Claude Code. Idea to submittable paper in one session.",
-    "url": "https://github.com/sunnnybala/Rstack",
-    "stars": 38,
-    "language": "Shell",
-    "topics": [
-      "arxiv",
-      "claude-code",
-      "latex",
-      "llm-tools",
-      "machine-learning",
-      "modal",
-      "paper-writing",
-      "research",
-      "research-automation"
-    ],
-    "created_at": "2026-03-31T18:35:46Z"
-  },
-  {
-    "id": "gh-1195122696",
-    "name": "MsheesAI/MCP_Quick_Start",
-    "description": "MCP crash course in which you will learn how to build client and server and interact them",
-    "url": "https://github.com/MsheesAI/MCP_Quick_Start",
-    "stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "crash-course",
-      "generative-ai",
-      "langchain",
-      "langchain-python",
-      "learning-by-doing",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "msheesai",
-      "shees"
-    ],
-    "created_at": "2026-03-29T08:52:42Z"
+    "created_at": "2026-04-01T15:22:38Z"
   },
   {
     "id": "gh-1195883013",
@@ -298,25 +279,48 @@
     "created_at": "2026-03-30T06:46:18Z"
   },
   {
-    "id": "gh-1195085781",
-    "name": "MsheesAI/Prompt_engineering_Patterns",
-    "description": "Learn ABout Prompt Engineering In Structured Way",
-    "url": "https://github.com/MsheesAI/Prompt_engineering_Patterns",
+    "id": "gh-1201005124",
+    "name": "erickson-ivanowski/NaturalQuery",
+    "description": "NL2SQL engine for .NET \u2014 convert natural language questions into SQL queries using LLMs",
+    "url": "https://github.com/erickson-ivanowski/NaturalQuery",
     "stars": 2,
-    "language": null,
+    "language": "C#",
     "topics": [
-      "gemini",
+      "athena",
+      "bedrock",
+      "conversational-bi",
+      "csharp",
+      "dotnet",
       "generative-ai",
-      "google",
-      "google-cloud",
-      "msheesai",
-      "muhammad-shees",
-      "prompt",
-      "prompt-engineering",
-      "python",
-      "python3",
-      "shees"
+      "llm",
+      "natural-language",
+      "nl2sql",
+      "nuget",
+      "openai",
+      "postgres",
+      "sql",
+      "text-to-sql"
     ],
-    "created_at": "2026-03-29T07:40:19Z"
+    "created_at": "2026-04-04T04:51:18Z"
+  },
+  {
+    "id": "gh-1195724986",
+    "name": "Cruz227/Analisis-De-riesgo-crediticio-",
+    "description": "Ecosistema de Inteligencia de Riesgo Crediticio: SQL + Power BI + ML + AI Agent. Plataforma end-to-end para la predicci\u00f3n de mora en Colombia, con gobernanza de datos (Hashing), geointeligencia y reportes autom\u00e1ticos generados por LLM (Gemini 2.5). ",
+    "url": "https://github.com/Cruz227/Analisis-De-riesgo-crediticio-",
+    "stars": 2,
+    "language": "Python",
+    "topics": [
+      "data-analysis",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "pandas-python",
+      "postgresql",
+      "power-bi",
+      "python",
+      "sql"
+    ],
+    "created_at": "2026-03-30T02:08:14Z"
   }
 ]
