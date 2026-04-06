@@ -2028,6 +2028,47 @@
     "image": null
   },
   {
+    "id": "rss-19795563",
+    "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
+    "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 05 Apr 2026 18:51:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c436a0a6",
+    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+    "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sun, 05 Apr 2026 15:40:58 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3cae30a0",
+    "title": "In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+    "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Sun, 05 Apr 2026 14:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-63c0fcbc",
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",

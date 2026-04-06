@@ -4,13 +4,14 @@
     "name": "JackChen-me/open-multi-agent",
     "description": "TypeScript multi-agent framework \u2014 one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 4326,
+    "stars": 4970,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
       "ai-agents",
       "anthropic",
       "claude",
+      "gemma4",
       "llm",
       "model-agnostic",
       "multi-agent",
@@ -30,7 +31,7 @@
     "name": "lintsinghua/claude-code-book",
     "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
     "url": "https://github.com/lintsinghua/claude-code-book",
-    "stars": 2012,
+    "stars": 2125,
     "language": null,
     "topics": [
       "agent",
@@ -46,11 +47,32 @@
     "created_at": "2026-03-31T18:00:16Z"
   },
   {
+    "id": "gh-1201173969",
+    "name": "JuliusBrussee/caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 75% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 1950,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "created_at": "2026-04-04T10:03:00Z"
+  },
+  {
     "id": "gh-1197226849",
     "name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1462,
+    "stars": 1501,
     "language": null,
     "topics": [
       "ai",
@@ -71,7 +93,7 @@
     "name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code \u2014 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1191,
+    "stars": 1206,
     "language": null,
     "topics": [
       "agent",
@@ -97,7 +119,7 @@
     "name": "lorryjovens-hub/claude-code-rust",
     "description": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1067,
+    "stars": 1119,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -115,7 +137,7 @@
     "name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 871,
+    "stars": 877,
     "language": null,
     "topics": [
       "ai",
@@ -131,32 +153,34 @@
     "created_at": "2026-03-31T15:57:14Z"
   },
   {
-    "id": "gh-1197227242",
-    "name": "Windy3f3f3f3f/claude-code-from-scratch",
-    "description": "\ud83d\udd0d Claude Code \u5f00\u6e90\u4e86 50 \u4e07\u884c\u4ee3\u7801\uff0c\u8bfb\u4e0d\u52a8\uff1f\u7528 ~3000 \u884c TypeScript \u4ece\u96f6\u590d\u73b0\u6838\u5fc3\u67b6\u6784\uff0c11 \u7ae0\u5206\u6b65\u6559\u7a0b\u5e26\u4f60\u7406\u89e3 coding agent \u7cbe\u9ad3\u3002Build your own Claude Code from scratch.",
-    "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 731,
-    "language": "Python",
+    "id": "gh-1201826173",
+    "name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 93,
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai",
-      "ai-agent",
-      "anthropic",
-      "build-from-scratch",
-      "claude",
-      "claude-code",
-      "coding-agent",
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
       "llm",
-      "tutorial",
-      "typescript"
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
     ],
-    "created_at": "2026-03-31T12:26:06Z"
+    "created_at": "2026-04-05T08:04:43Z"
   },
   {
     "id": "gh-1198517307",
     "name": "nikshepsvn/bankai",
     "description": "Ultra-Sparse Adaptation of 1-Bit LLMs via XOR Patches",
     "url": "https://github.com/nikshepsvn/bankai",
-    "stars": 51,
+    "stars": 56,
     "language": "Python",
     "topics": [
       "1-bit",
@@ -173,32 +197,11 @@
     "created_at": "2026-04-01T13:53:48Z"
   },
   {
-    "id": "gh-1197613862",
-    "name": "fattail4477/claw-decode",
-    "description": "Decoding Claude Code's leaked 512K-line source \u2014 hidden features, 43 tool definitions, system prompts, architecture patterns",
-    "url": "https://github.com/fattail4477/claw-decode",
-    "stars": 46,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "anthropic",
-      "claude-code",
-      "developer-tools",
-      "leaked",
-      "llm",
-      "machine-learning",
-      "source-code-analysis",
-      "typescript"
-    ],
-    "created_at": "2026-03-31T18:17:43Z"
-  },
-  {
     "id": "gh-1197629713",
     "name": "sunnnybala/Rstack",
     "description": "Research automation skills for Claude Code. Idea to submittable paper in one session.",
     "url": "https://github.com/sunnnybala/Rstack",
-    "stars": 45,
+    "stars": 49,
     "language": "Shell",
     "topics": [
       "arxiv",
@@ -214,23 +217,25 @@
     "created_at": "2026-03-31T18:35:46Z"
   },
   {
-    "id": "gh-1195815254",
-    "name": "Gokuld102/ai-traffic-signal-optimization",
-    "description": "AI-based smart traffic signal optimization using YOLO, OpenCV, and Machine Learning",
-    "url": "https://github.com/Gokuld102/ai-traffic-signal-optimization",
-    "stars": 42,
-    "language": "Python",
+    "id": "gh-1197613862",
+    "name": "fattail4477/claw-decode",
+    "description": "Decoding Claude Code's leaked 512K-line source \u2014 hidden features, 43 tool definitions, system prompts, architecture patterns",
+    "url": "https://github.com/fattail4477/claw-decode",
+    "stars": 47,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "computer-vision",
-      "flask",
+      "ai-agent",
+      "anthropic",
+      "claude-code",
+      "developer-tools",
+      "leaked",
+      "llm",
       "machine-learning",
-      "opencv",
-      "smart-city",
-      "traffic-system",
-      "yolo"
+      "source-code-analysis",
+      "typescript"
     ],
-    "created_at": "2026-03-30T04:59:22Z"
+    "created_at": "2026-03-31T18:17:43Z"
   },
   {
     "id": "gh-1198603414",
@@ -259,26 +264,6 @@
     "created_at": "2026-04-01T15:22:38Z"
   },
   {
-    "id": "gh-1195883013",
-    "name": "BirendraSahu/ai-agents-ebook",
-    "description": "Agentic AI Systems - From Prompts to Production",
-    "url": "https://github.com/BirendraSahu/ai-agents-ebook",
-    "stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "context-engineering",
-      "generative-ai",
-      "knowledge-graph",
-      "llm",
-      "machine-learning",
-      "memory-architecture",
-      "rag"
-    ],
-    "created_at": "2026-03-30T06:46:18Z"
-  },
-  {
     "id": "gh-1201005124",
     "name": "erickson-ivanowski/NaturalQuery",
     "description": "NL2SQL engine for .NET \u2014 convert natural language questions into SQL queries using LLMs",
@@ -304,23 +289,54 @@
     "created_at": "2026-04-04T04:51:18Z"
   },
   {
-    "id": "gh-1195724986",
-    "name": "Cruz227/Analisis-De-riesgo-crediticio-",
-    "description": "Ecosistema de Inteligencia de Riesgo Crediticio: SQL + Power BI + ML + AI Agent. Plataforma end-to-end para la predicci\u00f3n de mora en Colombia, con gobernanza de datos (Hashing), geointeligencia y reportes autom\u00e1ticos generados por LLM (Gemini 2.5). ",
-    "url": "https://github.com/Cruz227/Analisis-De-riesgo-crediticio-",
-    "stars": 2,
-    "language": "Python",
+    "id": "gh-1202248234",
+    "name": "SARazzaq/SepiruAI",
+    "description": "AI-powered CSV data intelligence platform",
+    "url": "https://github.com/SARazzaq/SepiruAI",
+    "stars": 1,
+    "language": null,
     "topics": [
+      "ai",
+      "analytics",
+      "artificial-intelligence",
+      "csv",
       "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "forecasting",
       "generative-ai",
       "llm",
       "machine-learning",
-      "pandas-python",
-      "postgresql",
-      "power-bi",
-      "python",
-      "sql"
+      "pandas",
+      "predictive-modeling",
+      "saas",
+      "streamlit",
+      "time-series-forecasting"
     ],
-    "created_at": "2026-03-30T02:08:14Z"
+    "created_at": "2026-04-05T19:46:04Z"
+  },
+  {
+    "id": "gh-1197010386",
+    "name": "Aadi7171/Agentic-video-pipeline",
+    "description": "Autonomous multi-agent AI pipeline that turns a text prompt into a fully edited, platform-ready video \u2014 orchestrating a Scriptwriter, Voice, Asset, and Editor agent built on Google Gemini 2.5 and the VideoDB SDK.",
+    "url": "https://github.com/Aadi7171/Agentic-video-pipeline",
+    "stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "gemini",
+      "generative-ai",
+      "llm",
+      "multi-agent",
+      "pexels",
+      "python",
+      "text-to-video",
+      "tts",
+      "videodb"
+    ],
+    "created_at": "2026-03-31T08:46:04Z"
   }
 ]

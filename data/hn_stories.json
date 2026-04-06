@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47640728",
-    "title": "Show HN: A game where you build a GPU",
-    "url": "https://jaso1024.com/mvidia/",
-    "points": 636,
-    "comments": 147,
+    "id": "hn-47647455",
+    "title": "Caveman: Why use many token when few token do trick",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "points": 752,
+    "comments": 327,
     "source": "Hacker News",
-    "published_date": "2026-04-04T16:45:54Z"
+    "published_date": "2026-04-05T08:56:18Z"
   },
   {
-    "id": "hn-47644864",
-    "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-    "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-    "points": 227,
-    "comments": 53,
+    "id": "hn-47648828",
+    "title": "Eight years of wanting, three months of building with AI",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "points": 750,
+    "comments": 227,
     "source": "Hacker News",
-    "published_date": "2026-04-05T00:13:55Z"
+    "published_date": "2026-04-05T12:43:47Z"
   },
   {
-    "id": "hn-47639567",
-    "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
-    "url": "https://github.com/teamchong/turboquant-wasm",
-    "points": 149,
-    "comments": 6,
+    "id": "hn-47652400",
+    "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+    "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+    "points": 408,
+    "comments": 303,
     "source": "Hacker News",
-    "published_date": "2026-04-04T14:53:16Z"
+    "published_date": "2026-04-05T18:29:47Z"
   },
   {
-    "id": "hn-47639779",
-    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
-    "url": "https://sllm.cloud",
-    "points": 146,
-    "comments": 72,
+    "id": "hn-47655408",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "url": "https://github.com/arman-bd/guppylm",
+    "points": 330,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-04-04T15:18:58Z"
+    "published_date": "2026-04-06T00:20:12Z"
   },
   {
-    "id": "hn-47640875",
-    "title": "LLM Wiki \u2013 example of an \"idea file\"",
-    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "points": 145,
-    "comments": 39,
+    "id": "hn-47651540",
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "points": 246,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-04-04T16:57:45Z"
+    "published_date": "2026-04-05T17:13:51Z"
   },
   {
-    "id": "hn-47640722",
-    "title": "12k AI-generated blog posts added in a single commit",
-    "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-    "points": 144,
-    "comments": 144,
+    "id": "hn-47649742",
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "points": 182,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-04-04T16:45:31Z"
+    "published_date": "2026-04-05T14:21:17Z"
   },
   {
-    "id": "hn-47639303",
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "url": "https://github.com/KaiPereira/Overglade-Badges",
-    "points": 78,
+    "id": "hn-47656659",
+    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+    "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+    "points": 115,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T03:28:04Z"
+  },
+  {
+    "id": "hn-47653471",
+    "title": "Musician says AI company is cloning her music, filing claims against her",
+    "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
+    "points": 108,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-04-05T20:19:11Z"
+  },
+  {
+    "id": "hn-47654171",
+    "title": "The Mechanics of Steins Gate (2023) [pdf]",
+    "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
+    "points": 71,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-04-05T21:42:01Z"
+  },
+  {
+    "id": "hn-47655367",
+    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+    "url": "https://github.com/kessler/gemma-gem",
+    "points": 55,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T00:14:37Z"
+  },
+  {
+    "id": "hn-47649701",
+    "title": "Perfmon \u2013 Consolidate your favorite CLI monitoring tools into a single TUI",
+    "url": "https://github.com/sumant1122/Perfmon",
+    "points": 48,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-04-05T14:16:28Z"
+  },
+  {
+    "id": "hn-47652007",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "url": "https://github.com/fikrikarim/parlor",
+    "points": 44,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-04-05T17:53:19Z"
+  },
+  {
+    "id": "hn-47651401",
+    "title": "With one million displaced, Lebanon turns to digital wallets for aid",
+    "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+    "points": 41,
+    "comments": 59,
+    "source": "Hacker News",
+    "published_date": "2026-04-05T17:02:38Z"
+  },
+  {
+    "id": "hn-47652487",
+    "title": "Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab",
+    "url": "https://priceinfluencer.com",
+    "points": 36,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-04-04T14:20:21Z"
+    "published_date": "2026-04-05T18:37:22Z"
   },
   {
-    "id": "hn-47644667",
-    "title": "Nvim-treesitter (13K+ Stars) is Archived",
-    "url": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
-    "points": 70,
-    "comments": 5,
+    "id": "hn-47650022",
+    "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
+    "url": "https://banray.eu/en/index.html",
+    "points": 35,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-04-04T23:39:44Z"
+    "published_date": "2026-04-05T14:49:41Z"
   },
   {
-    "id": "hn-47645468",
-    "title": "Writing Lisp is AI resistant and I'm sad",
-    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "points": 59,
-    "comments": 58,
+    "id": "hn-47655155",
+    "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
+    "url": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595",
+    "points": 35,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-04-05T02:01:31Z"
+    "published_date": "2026-04-05T23:45:20Z"
   },
   {
-    "id": "hn-47645976",
-    "title": "AI that copied musical artist files copyright claim against artist [updated]",
-    "url": "https://twitter.com/VladTheInflator/status/2039577001531768906",
-    "points": 52,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T03:55:10Z"
-  },
-  {
-    "id": "hn-47640984",
-    "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
-    "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8",
-    "points": 45,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-04-04T17:06:29Z"
-  },
-  {
-    "id": "hn-47646277",
-    "title": "I used AI. It worked. I hated it",
-    "url": "https://taggart-tech.com/reckoning/",
-    "points": 38,
-    "comments": 70,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T05:08:39Z"
-  },
-  {
-    "id": "hn-47638685",
-    "title": "Ask HN: How do you handle clients who don't pay on time?",
-    "url": "https://news.ycombinator.com/item?id=47638685",
-    "points": 36,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-04-04T12:58:45Z"
-  },
-  {
-    "id": "hn-47639042",
-    "title": "Trying for 1 month but can't learn pixel art still",
-    "url": "https://news.ycombinator.com/item?id=47639042",
-    "points": 29,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-04-04T13:49:03Z"
-  },
-  {
-    "id": "hn-47645719",
-    "title": "Show HN: mailtrim \u2013 find what's actually filling your Gmail inbox",
-    "url": "https://news.ycombinator.com/item?id=47645719",
-    "points": 29,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T02:53:21Z"
-  },
-  {
-    "id": "hn-47644774",
-    "title": "Write Your Own Copy",
-    "url": "https://news.ycombinator.com/item?id=47644774",
-    "points": 21,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-04-04T23:57:59Z"
-  },
-  {
-    "id": "hn-47640852",
-    "title": "Neovim TreeSitter plugin has been archived on GitHub",
-    "url": "https://github.com/nvim-treesitter/nvim-treesitter",
-    "points": 20,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-04T16:55:53Z"
-  },
-  {
-    "id": "hn-47638147",
-    "title": "Show HN: Pluck \u2013 Copy any UI from any website, paste it into AI coding tools",
-    "url": "https://www.pluck.so/",
+    "id": "hn-47649336",
+    "title": "Show HN: Cabinet \u2013 Kb+LLM (Like Paperclip+Obsidian)",
+    "url": "https://runcabinet.com",
     "points": 16,
-    "comments": 12,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-04-04T11:40:01Z"
+    "published_date": "2026-04-05T13:39:40Z"
   },
   {
-    "id": "hn-47637343",
-    "title": "Iran Threatens to Bomb 1GW Stargate AI Datacenter in Abu Dhabi",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-to-bomb-1gw-stargate-ai-datacenter-in-the-uae-shows-hidden-/articleshow/130003120.cms",
-    "points": 11,
+    "id": "hn-47655932",
+    "title": "Riddle solved: Why was Roman concrete so durable?",
+    "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
+    "points": 16,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T01:35:59Z"
+  },
+  {
+    "id": "hn-47655078",
+    "title": "Show HN: Mdarena \u2013 Benchmark your Claude.md against your own PRs",
+    "url": "https://github.com/HudsonGri/mdarena",
+    "points": 16,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-04-04T09:14:55Z"
+    "published_date": "2026-04-05T23:35:59Z"
   },
   {
-    "id": "hn-47638532",
-    "title": "Show HN: Ownscribe \u2013 local meeting transcription, summarization and search",
-    "url": "https://github.com/paberr/ownscribe",
-    "points": 11,
-    "comments": 0,
+    "id": "hn-47651140",
+    "title": "Ask HN: Where are all the disruptive software that AI promised?",
+    "url": "https://news.ycombinator.com/item?id=47651140",
+    "points": 15,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-04-04T12:37:26Z"
+    "published_date": "2026-04-05T16:39:44Z"
   }
 ]
