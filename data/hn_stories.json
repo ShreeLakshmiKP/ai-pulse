@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47647455",
-    "title": "Caveman: Why use many token when few token do trick",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "points": 752,
-    "comments": 327,
+    "id": "hn-47660925",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "points": 975,
+    "comments": 548,
     "source": "Hacker News",
-    "published_date": "2026-04-05T08:56:18Z"
+    "published_date": "2026-04-06T13:50:35Z"
   },
   {
-    "id": "hn-47648828",
-    "title": "Eight years of wanting, three months of building with AI",
-    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "points": 750,
-    "comments": 227,
+    "id": "hn-47662857",
+    "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+    "url": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+    "points": 346,
+    "comments": 399,
     "source": "Hacker News",
-    "published_date": "2026-04-05T12:43:47Z"
+    "published_date": "2026-04-06T16:15:41Z"
   },
   {
-    "id": "hn-47652400",
-    "title": "Why Switzerland has 25 Gbit internet and America doesn't",
-    "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-    "points": 408,
-    "comments": 303,
+    "id": "hn-47666024",
+    "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
+    "url": "https://github.com/matthartman/ghost-pepper",
+    "points": 346,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-04-05T18:29:47Z"
+    "published_date": "2026-04-06T19:50:16Z"
   },
   {
-    "id": "hn-47655408",
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "url": "https://github.com/arman-bd/guppylm",
-    "points": 330,
-    "comments": 30,
+    "id": "hn-47662945",
+    "title": "Show HN: GovAuctions lets you browse government auctions at once",
+    "url": "https://www.govauctions.app/",
+    "points": 263,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-04-06T00:20:12Z"
+    "published_date": "2026-04-06T16:21:46Z"
   },
   {
-    "id": "hn-47651540",
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-    "points": 246,
+    "id": "hn-47663147",
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "url": "https://www.freestyle.sh/",
+    "points": 255,
+    "comments": 139,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T16:32:11Z"
+  },
+  {
+    "id": "hn-47662116",
+    "title": "Sky \u2013 an Elm-inspired language that compiles to Go",
+    "url": "https://github.com/anzellai/sky",
+    "points": 156,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T15:22:53Z"
+  },
+  {
+    "id": "hn-47662596",
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "points": 144,
+    "comments": 221,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T15:57:07Z"
+  },
+  {
+    "id": "hn-47665194",
+    "title": "Zooming UIs in 2026: Prezi, impress.js, and why I built something different",
+    "url": "https://news.ycombinator.com/item?id=47665194",
+    "points": 88,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T18:53:15Z"
+  },
+  {
+    "id": "hn-47667504",
+    "title": "Ask HN: How do you handle marketing as a solo technical founder?",
+    "url": "https://news.ycombinator.com/item?id=47667504",
+    "points": 88,
     "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-04-05T17:13:51Z"
+    "published_date": "2026-04-06T21:36:47Z"
   },
   {
-    "id": "hn-47649742",
-    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-    "points": 182,
-    "comments": 24,
+    "id": "hn-47667672",
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "points": 83,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-04-05T14:21:17Z"
+    "published_date": "2026-04-06T21:49:34Z"
   },
   {
-    "id": "hn-47656659",
-    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-    "url": "https://github.com/mikf/gallery-dl/discussions/9304",
-    "points": 115,
-    "comments": 31,
+    "id": "hn-47662112",
+    "title": "Claude Code Down",
+    "url": "https://news.ycombinator.com/item?id=47662112",
+    "points": 80,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-04-06T03:28:04Z"
+    "published_date": "2026-04-06T15:22:41Z"
   },
   {
-    "id": "hn-47653471",
-    "title": "Musician says AI company is cloning her music, filing claims against her",
-    "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
-    "points": 108,
-    "comments": 18,
+    "id": "hn-47664647",
+    "title": "Got kicked out of uni and had the cops called for a social media website I made",
+    "url": "https://monyatwu.com/blog/iitsocial/",
+    "points": 75,
+    "comments": 248,
     "source": "Hacker News",
-    "published_date": "2026-04-05T20:19:11Z"
+    "published_date": "2026-04-06T18:10:41Z"
   },
   {
-    "id": "hn-47654171",
-    "title": "The Mechanics of Steins Gate (2023) [pdf]",
-    "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
-    "points": 71,
-    "comments": 14,
+    "id": "hn-47661231",
+    "title": "When Virality Is the Message: The New Age of AI Propaganda",
+    "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
+    "points": 59,
+    "comments": 84,
     "source": "Hacker News",
-    "published_date": "2026-04-05T21:42:01Z"
+    "published_date": "2026-04-06T14:16:35Z"
   },
   {
-    "id": "hn-47655367",
-    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
-    "url": "https://github.com/kessler/gemma-gem",
-    "points": 55,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-04-06T00:14:37Z"
-  },
-  {
-    "id": "hn-47649701",
-    "title": "Perfmon \u2013 Consolidate your favorite CLI monitoring tools into a single TUI",
-    "url": "https://github.com/sumant1122/Perfmon",
-    "points": 48,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T14:16:28Z"
-  },
-  {
-    "id": "hn-47652007",
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-    "url": "https://github.com/fikrikarim/parlor",
-    "points": 44,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T17:53:19Z"
-  },
-  {
-    "id": "hn-47651401",
-    "title": "With one million displaced, Lebanon turns to digital wallets for aid",
-    "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
-    "points": 41,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T17:02:38Z"
-  },
-  {
-    "id": "hn-47652487",
-    "title": "Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab",
-    "url": "https://priceinfluencer.com",
-    "points": 36,
+    "id": "hn-47668658",
+    "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+    "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+    "points": 53,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-04-05T18:37:22Z"
+    "published_date": "2026-04-06T23:16:27Z"
   },
   {
-    "id": "hn-47650022",
-    "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
-    "url": "https://banray.eu/en/index.html",
-    "points": 35,
-    "comments": 18,
+    "id": "hn-47665902",
+    "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+    "url": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse",
+    "points": 52,
+    "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-04-05T14:49:41Z"
+    "published_date": "2026-04-06T19:41:39Z"
   },
   {
-    "id": "hn-47655155",
-    "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
-    "url": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595",
-    "points": 35,
+    "id": "hn-47665685",
+    "title": "Show HN: TTF-DOOM \u2013 A raycaster running inside TrueType font hinting",
+    "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
+    "points": 47,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T19:25:39Z"
+  },
+  {
+    "id": "hn-47667798",
+    "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
+    "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+    "points": 46,
+    "comments": 38,
+    "source": "Hacker News",
+    "published_date": "2026-04-06T21:57:54Z"
+  },
+  {
+    "id": "hn-47662833",
+    "title": "Reducto releases Deep Extract",
+    "url": "https://reducto.ai/blog/reducto-deep-extract-agent",
+    "points": 46,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-04-05T23:45:20Z"
+    "published_date": "2026-04-06T16:13:47Z"
   },
   {
-    "id": "hn-47649336",
-    "title": "Show HN: Cabinet \u2013 Kb+LLM (Like Paperclip+Obsidian)",
-    "url": "https://runcabinet.com",
-    "points": 16,
-    "comments": 11,
+    "id": "hn-47659807",
+    "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
+    "url": "https://news.ycombinator.com/item?id=47659807",
+    "points": 42,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-04-05T13:39:40Z"
+    "published_date": "2026-04-06T12:03:00Z"
   },
   {
-    "id": "hn-47655932",
-    "title": "Riddle solved: Why was Roman concrete so durable?",
-    "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
-    "points": 16,
-    "comments": 3,
+    "id": "hn-47663207",
+    "title": "Show HN: I Built Paul Graham's Intellectual Captcha Idea",
+    "url": "https://mentwire.com/sample",
+    "points": 29,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-04-06T01:35:59Z"
-  },
-  {
-    "id": "hn-47655078",
-    "title": "Show HN: Mdarena \u2013 Benchmark your Claude.md against your own PRs",
-    "url": "https://github.com/HudsonGri/mdarena",
-    "points": 16,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T23:35:59Z"
-  },
-  {
-    "id": "hn-47651140",
-    "title": "Ask HN: Where are all the disruptive software that AI promised?",
-    "url": "https://news.ycombinator.com/item?id=47651140",
-    "points": 15,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-04-05T16:39:44Z"
+    "published_date": "2026-04-06T16:36:00Z"
   }
 ]
