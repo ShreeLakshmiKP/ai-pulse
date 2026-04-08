@@ -1,10 +1,27 @@
 [
   {
+    "id": "gh-1201656210",
+    "name": "milla-jovovich/mempalace",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "stars": 20457,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "created_at": "2026-04-05T01:12:07Z"
+  },
+  {
     "id": "gh-1201173969",
     "name": "JuliusBrussee/caveman",
     "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 4563,
+    "stars": 6352,
     "language": "Python",
     "topics": [
       "ai",
@@ -21,53 +38,11 @@
     "created_at": "2026-04-04T10:03:00Z"
   },
   {
-    "id": "gh-1201656210",
-    "name": "milla-jovovich/mempalace",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-    "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 1702,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "chromadb",
-      "llm",
-      "mcp",
-      "memory",
-      "python"
-    ],
-    "created_at": "2026-04-05T01:12:07Z"
-  },
-  {
-    "id": "gh-1198370352",
-    "name": "0Chencc/clawgod",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version \u2014 as Claude Code updates, the patch continues to take effect",
-    "url": "https://github.com/0Chencc/clawgod",
-    "stars": 609,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "assistant",
-      "claude-ai",
-      "claude-code",
-      "claw",
-      "clawcode",
-      "limit",
-      "linux",
-      "macos",
-      "patch",
-      "skill",
-      "vibe-coded",
-      "vibe-coding",
-      "windows"
-    ],
-    "created_at": "2026-04-01T11:09:07Z"
-  },
-  {
     "id": "gh-1202259745",
     "name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU \u2014 no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 357,
+    "stars": 450,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -79,70 +54,27 @@
     "created_at": "2026-04-05T20:07:56Z"
   },
   {
-    "id": "gh-1198429577",
-    "name": "x1xhlol/better-clawd",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
-    "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 352,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "claude-code",
-      "open-source"
-    ],
-    "created_at": "2026-04-01T12:20:11Z"
-  },
-  {
-    "id": "gh-1198829864",
-    "name": "he-yufeng/CoreCoder",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder. ",
-    "url": "https://github.com/he-yufeng/CoreCoder",
-    "stars": 328,
+    "id": "gh-1199057215",
+    "name": "rasbt/mini-coding-agent",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "stars": 432,
     "language": "Python",
     "topics": [
-      "ai-agent",
-      "claude-code",
-      "cli",
-      "coding-agent",
-      "corecoder",
-      "deepseek",
-      "developer-tools",
-      "llm",
-      "openai",
+      "agents",
+      "ai",
+      "large-language-models",
+      "llms",
       "python"
     ],
-    "created_at": "2026-04-01T19:54:54Z"
-  },
-  {
-    "id": "gh-1198654685",
-    "name": "agenmod/immortal-skill",
-    "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
-    "url": "https://github.com/agenmod/immortal-skill",
-    "stars": 300,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agent",
-      "chatbot",
-      "cursor",
-      "digital-immortality",
-      "digital-twin",
-      "distillation",
-      "feishu",
-      "llm",
-      "openclaw",
-      "persona",
-      "soul-spec",
-      "wechat"
-    ],
-    "created_at": "2026-04-01T16:19:14Z"
+    "created_at": "2026-04-02T02:35:06Z"
   },
   {
     "id": "gh-1201826173",
     "name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 223,
+    "stars": 343,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -161,32 +93,56 @@
     "created_at": "2026-04-05T08:04:43Z"
   },
   {
-    "id": "gh-1198517307",
-    "name": "nikshepsvn/bankai",
-    "description": "Ultra-Sparse Adaptation of 1-Bit LLMs via XOR Patches",
-    "url": "https://github.com/nikshepsvn/bankai",
-    "stars": 57,
-    "language": "Python",
+    "id": "gh-1199281003",
+    "name": "math-ai-org/mathcode",
+    "description": "MathCode: A Frontier Mathematical Coding Agent",
+    "url": "https://github.com/math-ai-org/mathcode",
+    "stars": 272,
+    "language": "Shell",
     "topics": [
-      "1-bit",
-      "apple-silicon",
-      "binary-neural-networks",
-      "bonsai",
+      "ai",
+      "coding",
+      "foundation-models",
       "llm",
-      "machine-learning",
-      "mlx",
-      "model-adaptation",
-      "sparse",
-      "xor"
+      "reasoning"
     ],
-    "created_at": "2026-04-01T13:53:48Z"
+    "created_at": "2026-04-02T07:46:05Z"
+  },
+  {
+    "id": "gh-1203445878",
+    "name": "joyehuang/Learn-Open-Harness",
+    "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
+    "url": "https://github.com/joyehuang/Learn-Open-Harness",
+    "stars": 84,
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "agent-loop",
+      "ai-agent",
+      "ai-agent-tutorial",
+      "ai-harness",
+      "ai-infrastructure",
+      "chinese",
+      "claude-code",
+      "generative-ai",
+      "harness-engineering",
+      "interactive-learning",
+      "interactive-tutorial",
+      "llm",
+      "nextjs",
+      "openharness",
+      "openharness-tutorial",
+      "shadcn-ui",
+      "zero-to-hero"
+    ],
+    "created_at": "2026-04-07T03:37:02Z"
   },
   {
     "id": "gh-1201754187",
     "name": "Dynamis-Labs/spectralquant",
     "description": "3% Is All You Need: Breaking TurboQuant's Compression Limit via Spectral Structure",
     "url": "https://github.com/Dynamis-Labs/spectralquant",
-    "stars": 44,
+    "stars": 79,
     "language": "Python",
     "topics": [
       "compression",
@@ -201,6 +157,90 @@
       "transformer"
     ],
     "created_at": "2026-04-05T05:30:05Z"
+  },
+  {
+    "id": "gh-1203184133",
+    "name": "ebringelvissanchez/Image-AI-Generator-2026",
+    "description": "AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stunning, high-quality artwork, photorealistic renders, and creative concepts quickly and easily.",
+    "url": "https://github.com/ebringelvissanchez/Image-AI-Generator-2026",
+    "stars": 51,
+    "language": null,
+    "topics": [
+      "ai-art",
+      "ai-image-generator",
+      "ai-upscaler",
+      "controlnet",
+      "deep-learning",
+      "diffusion-models",
+      "generative-ai",
+      "image-generation",
+      "image-to-image",
+      "img2img",
+      "inpainting",
+      "latent-diffusion",
+      "lora",
+      "machine-learning",
+      "outpainting",
+      "prompt-engineering",
+      "stable-diffusion",
+      "text-to-image",
+      "txt2img"
+    ],
+    "created_at": "2026-04-06T20:00:11Z"
+  },
+  {
+    "id": "gh-1204520409",
+    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 44,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "research-automation"
+    ],
+    "created_at": "2026-04-08T04:48:26Z"
+  },
+  {
+    "id": "gh-1201274785",
+    "name": "NeuZhou/awesome-ai-anatomy",
+    "description": "Deep source code teardowns of 11 AI agent projects (Claude Code, Dify, OpenAI Codex, DeerFlow, Goose, MiroFish, Pi Mono, Lightpanda, Hermes, Guardrails AI, Oh My Claude Code). Architecture diagrams, security analysis, design patterns.",
+    "url": "https://github.com/NeuZhou/awesome-ai-anatomy",
+    "stars": 38,
+    "language": "D2",
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "ai-security",
+      "awesome-list",
+      "claude-code",
+      "code-review",
+      "coding-agent",
+      "design-patterns",
+      "dify",
+      "goose",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "open-source",
+      "openai-codex",
+      "reverse-engineering",
+      "software-architecture",
+      "source-code-analysis",
+      "system-design",
+      "teardown"
+    ],
+    "created_at": "2026-04-04T13:02:24Z"
   },
   {
     "id": "gh-1200732892",
@@ -220,64 +260,31 @@
     "created_at": "2026-04-03T19:05:17Z"
   },
   {
-    "id": "gh-1201509148",
-    "name": "chappyasel/meta-kb",
-    "description": "A self-improving LLM knowledge base about self-improving LLM knowledge bases",
-    "url": "https://github.com/chappyasel/meta-kb",
-    "stars": 10,
-    "language": "TypeScript",
+    "id": "gh-1199076155",
+    "name": "Analyzable-totalitarian601/twilight-ai",
+    "description": "Build AI apps in Go with a lightweight SDK for text, streaming, embeddings, speech, tools, and model access across providers",
+    "url": "https://github.com/Analyzable-totalitarian601/twilight-ai",
+    "stars": 2,
+    "language": "Go",
     "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai",
-      "ai-agents",
       "anthropic",
-      "artificial-intelligence",
-      "autonomous-research",
-      "claude-code",
-      "context-engineering",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm",
-      "machine-learning",
-      "markdown",
-      "multi-agent",
-      "openclaw",
-      "prompt-compression",
-      "rag",
-      "self-learning"
+      "astro",
+      "autogen",
+      "generative-ai",
+      "language-model",
+      "neovim",
+      "neovim-plugin",
+      "nextjs",
+      "nintendo-3ds",
+      "openai",
+      "python",
+      "serverless",
+      "site-template",
+      "vercel",
+      "vue",
+      "workflows"
     ],
-    "created_at": "2026-04-04T19:18:26Z"
-  },
-  {
-    "id": "gh-1201371509",
-    "name": "Zeyad-Azima/AgentsBear",
-    "description": "Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.",
-    "url": "https://github.com/Zeyad-Azima/AgentsBear",
-    "stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "artificial-intelligence",
-      "deepagents",
-      "langchain",
-      "langchain-python",
-      "langgraph",
-      "langsmith",
-      "machine-learning",
-      "n8n",
-      "n8n-workflow",
-      "pipeline",
-      "pipelines",
-      "python"
-    ],
-    "created_at": "2026-04-04T15:34:56Z"
+    "created_at": "2026-04-02T03:03:23Z"
   },
   {
     "id": "gh-1201005124",
@@ -303,28 +310,5 @@
       "text-to-sql"
     ],
     "created_at": "2026-04-04T04:51:18Z"
-  },
-  {
-    "id": "gh-1201801845",
-    "name": "TemidireAdesiji/genesis-pantheon",
-    "description": "Production-grade multi-agent AI framework for orchestrating autonomous software engineering teams",
-    "url": "https://github.com/TemidireAdesiji/genesis-pantheon",
-    "stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "anthropic",
-      "autonomous-agents",
-      "generative-ai",
-      "llm",
-      "multi-agents",
-      "openai",
-      "orchestration",
-      "pydantic",
-      "python",
-      "software-engineering"
-    ],
-    "created_at": "2026-04-05T07:14:00Z"
   }
 ]
