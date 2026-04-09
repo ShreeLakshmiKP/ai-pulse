@@ -4,7 +4,7 @@
     "name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 20457,
+    "stars": 29787,
     "language": "Python",
     "topics": [
       "ai",
@@ -21,7 +21,7 @@
     "name": "JuliusBrussee/caveman",
     "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 6352,
+    "stars": 7848,
     "language": "Python",
     "topics": [
       "ai",
@@ -38,11 +38,36 @@
     "created_at": "2026-04-04T10:03:00Z"
   },
   {
+    "id": "gh-1201469843",
+    "name": "Houseofmvps/codesight",
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
+    "url": "https://github.com/Houseofmvps/codesight",
+    "stars": 661,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "code-analysis",
+      "codebase",
+      "codex",
+      "context-engineering",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "repo-map",
+      "token-savings"
+    ],
+    "created_at": "2026-04-04T18:10:16Z"
+  },
+  {
     "id": "gh-1202259745",
     "name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU \u2014 no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 450,
+    "stars": 536,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -54,27 +79,11 @@
     "created_at": "2026-04-05T20:07:56Z"
   },
   {
-    "id": "gh-1199057215",
-    "name": "rasbt/mini-coding-agent",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
-    "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 432,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "large-language-models",
-      "llms",
-      "python"
-    ],
-    "created_at": "2026-04-02T02:35:06Z"
-  },
-  {
     "id": "gh-1201826173",
     "name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 343,
+    "stars": 418,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -93,27 +102,54 @@
     "created_at": "2026-04-05T08:04:43Z"
   },
   {
-    "id": "gh-1199281003",
-    "name": "math-ai-org/mathcode",
-    "description": "MathCode: A Frontier Mathematical Coding Agent",
-    "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 272,
+    "id": "gh-1203670949",
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "stars": 213,
     "language": "Shell",
     "topics": [
       "ai",
-      "coding",
-      "foundation-models",
-      "llm",
-      "reasoning"
+      "claude-code",
+      "karpathy",
+      "knowledge-base",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "pkm",
+      "second-brain"
     ],
-    "created_at": "2026-04-02T07:46:05Z"
+    "created_at": "2026-04-07T08:59:37Z"
+  },
+  {
+    "id": "gh-1204520409",
+    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 155,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "research-automation"
+    ],
+    "created_at": "2026-04-08T04:48:26Z"
   },
   {
     "id": "gh-1203445878",
     "name": "joyehuang/Learn-Open-Harness",
     "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
     "url": "https://github.com/joyehuang/Learn-Open-Harness",
-    "stars": 84,
+    "stars": 135,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -142,7 +178,7 @@
     "name": "Dynamis-Labs/spectralquant",
     "description": "3% Is All You Need: Breaking TurboQuant's Compression Limit via Spectral Structure",
     "url": "https://github.com/Dynamis-Labs/spectralquant",
-    "stars": 79,
+    "stars": 93,
     "language": "Python",
     "topics": [
       "compression",
@@ -159,64 +195,11 @@
     "created_at": "2026-04-05T05:30:05Z"
   },
   {
-    "id": "gh-1203184133",
-    "name": "ebringelvissanchez/Image-AI-Generator-2026",
-    "description": "AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stunning, high-quality artwork, photorealistic renders, and creative concepts quickly and easily.",
-    "url": "https://github.com/ebringelvissanchez/Image-AI-Generator-2026",
-    "stars": 51,
-    "language": null,
-    "topics": [
-      "ai-art",
-      "ai-image-generator",
-      "ai-upscaler",
-      "controlnet",
-      "deep-learning",
-      "diffusion-models",
-      "generative-ai",
-      "image-generation",
-      "image-to-image",
-      "img2img",
-      "inpainting",
-      "latent-diffusion",
-      "lora",
-      "machine-learning",
-      "outpainting",
-      "prompt-engineering",
-      "stable-diffusion",
-      "text-to-image",
-      "txt2img"
-    ],
-    "created_at": "2026-04-06T20:00:11Z"
-  },
-  {
-    "id": "gh-1204520409",
-    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 44,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "claude-code",
-      "deep-learning",
-      "experiment-automation",
-      "gpu",
-      "hyperparameter-tuning",
-      "llm-agent",
-      "machine-learning",
-      "mlops",
-      "pytorch",
-      "research-automation"
-    ],
-    "created_at": "2026-04-08T04:48:26Z"
-  },
-  {
     "id": "gh-1201274785",
     "name": "NeuZhou/awesome-ai-anatomy",
-    "description": "Deep source code teardowns of 11 AI agent projects (Claude Code, Dify, OpenAI Codex, DeerFlow, Goose, MiroFish, Pi Mono, Lightpanda, Hermes, Guardrails AI, Oh My Claude Code). Architecture diagrams, security analysis, design patterns.",
+    "description": "Deep source code teardowns of 12 AI agent projects (Claude Code, Dify, OpenAI Codex, DeerFlow, Cline, Goose, MiroFish, Pi Mono, Lightpanda, Hermes, Guardrails AI, Oh My Claude Code). Architecture diagrams, security analysis, design patterns.",
     "url": "https://github.com/NeuZhou/awesome-ai-anatomy",
-    "stars": 38,
+    "stars": 78,
     "language": "D2",
     "topics": [
       "ai-agent",
@@ -243,11 +226,41 @@
     "created_at": "2026-04-04T13:02:24Z"
   },
   {
+    "id": "gh-1203184133",
+    "name": "ebringelvissanchez/Image-AI-Generator-2026",
+    "description": "AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stunning, high-quality artwork, photorealistic renders, and creative concepts quickly and easily.",
+    "url": "https://github.com/ebringelvissanchez/Image-AI-Generator-2026",
+    "stars": 54,
+    "language": null,
+    "topics": [
+      "ai-art",
+      "ai-image-generator",
+      "ai-upscaler",
+      "controlnet",
+      "deep-learning",
+      "diffusion-models",
+      "generative-ai",
+      "image-generation",
+      "image-to-image",
+      "img2img",
+      "inpainting",
+      "latent-diffusion",
+      "lora",
+      "machine-learning",
+      "outpainting",
+      "prompt-engineering",
+      "stable-diffusion",
+      "text-to-image",
+      "txt2img"
+    ],
+    "created_at": "2026-04-06T20:00:11Z"
+  },
+  {
     "id": "gh-1200732892",
     "name": "better-agent/better-agent",
     "description": "The better way to build AI agents in TypeScript.",
     "url": "https://github.com/better-agent/better-agent",
-    "stars": 20,
+    "stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -260,55 +273,50 @@
     "created_at": "2026-04-03T19:05:17Z"
   },
   {
-    "id": "gh-1199076155",
-    "name": "Analyzable-totalitarian601/twilight-ai",
-    "description": "Build AI apps in Go with a lightweight SDK for text, streaming, embeddings, speech, tools, and model access across providers",
-    "url": "https://github.com/Analyzable-totalitarian601/twilight-ai",
-    "stars": 2,
-    "language": "Go",
+    "id": "gh-1203427061",
+    "name": "aarora79/personal-knowledge-base",
+    "description": "LLM-authored knowledge base on Generative AI. Raw sources are clipped and compiled into interlinked wiki articles by Claude Code.",
+    "url": "https://github.com/aarora79/personal-knowledge-base",
+    "stars": 6,
+    "language": "HTML",
     "topics": [
-      "anthropic",
-      "astro",
-      "autogen",
+      "claude-code",
       "generative-ai",
-      "language-model",
-      "neovim",
-      "neovim-plugin",
-      "nextjs",
-      "nintendo-3ds",
-      "openai",
-      "python",
-      "serverless",
-      "site-template",
-      "vercel",
-      "vue",
-      "workflows"
+      "knowledge-base",
+      "llm",
+      "wiki"
     ],
-    "created_at": "2026-04-02T03:03:23Z"
+    "created_at": "2026-04-07T03:05:15Z"
   },
   {
-    "id": "gh-1201005124",
-    "name": "erickson-ivanowski/NaturalQuery",
-    "description": "NL2SQL engine for .NET \u2014 convert natural language questions into SQL queries using LLMs",
-    "url": "https://github.com/erickson-ivanowski/NaturalQuery",
-    "stars": 2,
-    "language": "C#",
+    "id": "gh-1201609022",
+    "name": "CES-Ltd/TitanClip",
+    "description": "AI Company Orchestration Platform \u2014 Deploy governed teams of autonomous AI agents with Runtime Agentic IAM, credential vaults, heartbeat orchestration, and enterprise security. Built on Paperclip.",
+    "url": "https://github.com/CES-Ltd/TitanClip",
+    "stars": 4,
+    "language": "TypeScript",
     "topics": [
-      "athena",
-      "bedrock",
-      "conversational-bi",
-      "csharp",
-      "dotnet",
+      "agentic-ai",
+      "ai-agents",
+      "ai-governance",
+      "ai-orchestration",
+      "ai-safety",
+      "autonomous-agents",
+      "chatbot",
+      "credential-vault",
+      "desktop-app",
+      "devops",
+      "electron",
+      "enterprise-ai",
       "generative-ai",
+      "iam",
       "llm",
-      "natural-language",
-      "nl2sql",
-      "nuget",
-      "openai",
-      "postgres",
-      "sql",
-      "text-to-sql"
+      "multi-agent",
+      "rbac",
+      "react",
+      "task-orchestration",
+      "typescript"
     ],
-    "created_at": "2026-04-04T04:51:18Z"
+    "created_at": "2026-04-04T22:57:58Z"
   }
 ]
