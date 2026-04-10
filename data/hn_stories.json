@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47687273",
-    "title": "Git commands I run before reading any code",
-    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-    "points": 1970,
-    "comments": 408,
+    "id": "hn-47701233",
+    "title": "Claude mixes up who said what",
+    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+    "points": 427,
+    "comments": 330,
     "source": "Hacker News",
-    "published_date": "2026-04-08T08:53:42Z"
+    "published_date": "2026-04-09T09:25:28Z"
   },
   {
-    "id": "hn-47691730",
-    "title": "I ported Mac OS X to the Nintendo Wii",
-    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-    "points": 1473,
-    "comments": 255,
+    "id": "hn-47700972",
+    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+    "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+    "points": 324,
+    "comments": 217,
     "source": "Hacker News",
-    "published_date": "2026-04-08T15:40:00Z"
+    "published_date": "2026-04-09T08:55:18Z"
   },
   {
-    "id": "hn-47696562",
-    "title": "Show HN: Is Hormuz open yet?",
-    "url": "https://www.ishormuzopenyet.com/",
-    "points": 361,
-    "comments": 143,
+    "id": "hn-47701148",
+    "title": "Top laptops to use with FreeBSD",
+    "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+    "points": 310,
+    "comments": 174,
     "source": "Hacker News",
-    "published_date": "2026-04-08T21:33:06Z"
+    "published_date": "2026-04-09T09:17:25Z"
   },
   {
-    "id": "hn-47693679",
-    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-    "points": 342,
-    "comments": 163,
+    "id": "hn-47704881",
+    "title": "The Vercel plugin on Claude Code wants to read your prompts",
+    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+    "points": 263,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-04-08T17:44:25Z"
+    "published_date": "2026-04-09T15:17:27Z"
   },
   {
-    "id": "hn-47689174",
-    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-    "url": "https://arxiv.org/abs/2604.05091",
-    "points": 288,
-    "comments": 51,
+    "id": "hn-47701572",
+    "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+    "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
+    "points": 201,
+    "comments": 128,
     "source": "Hacker News",
-    "published_date": "2026-04-08T12:19:00Z"
+    "published_date": "2026-04-09T10:10:19Z"
   },
   {
-    "id": "hn-47693047",
-    "title": "Claude Managed Agents",
-    "url": "https://claude.com/blog/claude-managed-agents",
-    "points": 154,
-    "comments": 68,
+    "id": "hn-47702196",
+    "title": "Show HN: CSS Studio. Design by hand, code by agent",
+    "url": "https://cssstudio.ai",
+    "points": 150,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-04-08T17:04:40Z"
+    "published_date": "2026-04-09T11:23:31Z"
   },
   {
-    "id": "hn-47695647",
-    "title": "The AI Great Leap Forward",
-    "url": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/",
-    "points": 93,
-    "comments": 45,
+    "id": "hn-47705413",
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "url": "https://github.com/randerson112/craft",
+    "points": 144,
+    "comments": 128,
     "source": "Hacker News",
-    "published_date": "2026-04-08T20:10:51Z"
+    "published_date": "2026-04-09T16:04:54Z"
   },
   {
-    "id": "hn-47690415",
-    "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
-    "url": "https://rival.tips/research/model-similarity",
-    "points": 76,
+    "id": "hn-47709130",
+    "title": "Reverse engineering Gemini's SynthID detection",
+    "url": "https://github.com/aloshdenny/reverse-SynthID",
+    "points": 140,
+    "comments": 50,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T20:10:25Z"
+  },
+  {
+    "id": "hn-47707632",
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "url": "https://www.instantdb.com/essays/architecture",
+    "points": 124,
+    "comments": 72,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T18:30:59Z"
+  },
+  {
+    "id": "hn-47700460",
+    "title": "Ask HN: What are you building that's not AI related?",
+    "url": "https://news.ycombinator.com/item?id=47700460",
+    "points": 121,
+    "comments": 146,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T07:39:47Z"
+  },
+  {
+    "id": "hn-47704443",
+    "title": "Study found that young adults have grown less hopeful and more angry about AI",
+    "url": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
+    "points": 111,
+    "comments": 164,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T14:44:16Z"
+  },
+  {
+    "id": "hn-47710007",
+    "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+    "url": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
+    "points": 73,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T20:59:51Z"
+  },
+  {
+    "id": "hn-47712656",
+    "title": "We've raised $17M to build what comes after Git",
+    "url": "https://blog.gitbutler.com/series-a",
+    "points": 70,
+    "comments": 122,
+    "source": "Hacker News",
+    "published_date": "2026-04-10T01:52:58Z"
+  },
+  {
+    "id": "hn-47708179",
+    "title": "Glasses Got Worse on Purpose",
+    "url": "https://worse-on-purpose.beehiiv.com/p/your-glasses-got-worse-on-purpose",
+    "points": 58,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T19:01:25Z"
+  },
+  {
+    "id": "hn-47709197",
+    "title": "US defense official overseeing AI reaped millions selling xAI stock",
+    "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+    "points": 48,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T20:14:23Z"
+  },
+  {
+    "id": "hn-47702647",
+    "title": "Launch HN: Relvy (YC F24) \u2013 On-call runbooks, automated",
+    "url": "https://www.relvy.ai",
+    "points": 45,
     "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-04-08T14:06:03Z"
+    "published_date": "2026-04-09T12:11:56Z"
   },
   {
-    "id": "hn-47699086",
-    "title": "App Store sees 84% surge in new apps as AI coding tools take off",
-    "url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
-    "points": 50,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-04-09T03:51:41Z"
-  },
-  {
-    "id": "hn-47690950",
-    "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
-    "url": "https://github.com/matt-virgo/baremail",
-    "points": 43,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T14:44:23Z"
-  },
-  {
-    "id": "hn-47692661",
-    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-    "url": "https://github.com/onesuper/tui-use",
-    "points": 42,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T16:41:16Z"
-  },
-  {
-    "id": "hn-47696210",
-    "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-    "url": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
-    "points": 40,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T21:01:23Z"
-  },
-  {
-    "id": "hn-47691363",
-    "title": "F-35 Got Hit",
-    "url": "https://www.shatterbelt.co/articles/f35-got-hit",
-    "points": 28,
-    "comments": 55,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T15:13:29Z"
-  },
-  {
-    "id": "hn-47697904",
-    "title": "Claude Glass (Or Black Mirror)",
-    "url": "https://en.wikipedia.org/wiki/Claude_glass",
-    "points": 23,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-09T00:31:13Z"
-  },
-  {
-    "id": "hn-47699090",
-    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
-    "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-    "points": 19,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-09T03:52:18Z"
-  },
-  {
-    "id": "hn-47697641",
-    "title": "Claude Managed Agents Overview",
-    "url": "https://platform.claude.com/docs/en/managed-agents/overview",
-    "points": 19,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T23:48:50Z"
-  },
-  {
-    "id": "hn-47696600",
-    "title": "AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It",
-    "url": "https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code",
-    "points": 15,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T21:36:37Z"
-  },
-  {
-    "id": "hn-47689550",
-    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-    "url": "https://pvp-ai.russell-harper.com",
-    "points": 15,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-08T12:56:58Z"
-  },
-  {
-    "id": "hn-47688712",
-    "title": "Ask HN: Should AI credits be refunded on mistakes?",
-    "url": "https://news.ycombinator.com/item?id=47688712",
-    "points": 14,
+    "id": "hn-47714239",
+    "title": "The tool that won't let AI say anything it can't cite",
+    "url": "https://github.com/grainulation/grainulator",
+    "points": 29,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-04-08T11:25:06Z"
+    "published_date": "2026-04-10T06:09:47Z"
   },
   {
-    "id": "hn-47692250",
-    "title": "Meta debuts Muse Spark, first AI model under Alexandr Wang",
-    "url": "https://www.axios.com/2026/04/08/meta-muse-alexandr-wang",
-    "points": 14,
-    "comments": 2,
+    "id": "hn-47703498",
+    "title": "White-Collar Workers Are Rebelling Against AI \u2013 80% Refuse Adoption Mandates",
+    "url": "https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/",
+    "points": 29,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-04-08T16:15:10Z"
+    "published_date": "2026-04-09T13:31:15Z"
+  },
+  {
+    "id": "hn-47712771",
+    "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
+    "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
+    "points": 20,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-10T02:08:40Z"
+  },
+  {
+    "id": "hn-47704687",
+    "title": "A complete GPT language model in ~600 lines of C#, zero dependencies",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "points": 20,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-09T15:03:49Z"
   }
 ]

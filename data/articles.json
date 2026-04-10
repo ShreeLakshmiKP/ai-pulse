@@ -1997,6 +1997,183 @@
     "image": null
   },
   {
+    "id": "rss-2380ccb7",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 09 Apr 2026 21:29:11 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d3ff1111",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 09 Apr 2026 20:11:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8967692d",
+    "title": "After data breach, $10B-valued startup Mercor is having a month",
+    "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Policy",
+    "published_date": "Thu, 09 Apr 2026 19:33:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1980b507",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 \u2014 and rising.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 09 Apr 2026 19:10:07 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-04de243c",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet \u2014 or Anthropic?",
+    "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 09 Apr 2026 18:50:05 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a9fdea37",
+    "title": "The Download: AstroTurf wars and exponential AI growth",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 09 Apr 2026 12:25:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-50a626fa",
+    "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+    "summary": "A rare warm spell in January melted enough snow to uncover Cornell University\u2019s newest athletic field, built for field hockey.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 09 Apr 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7c3b4f90",
+    "title": "Desalination technology, by the numbers",
+    "summary": "When I started digging into desalination technology for a new story, I couldn\u2019t help but obsess over the numbers.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 09 Apr 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7fc7366f",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/cyberagent",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-3d01d31c",
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-cb929f08",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/waypoint-1-5",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-aeed5283",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "tags": [
+      "transformers",
+      "multimodal"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-d4b70b90",
     "title": "Ask a Techspert: How does AI understand my visual searches?",
     "summary": "Mobile phone with a search bar that says \"Ask anything\"",
