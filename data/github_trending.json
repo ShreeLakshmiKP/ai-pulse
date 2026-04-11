@@ -4,7 +4,7 @@
     "name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 37520,
+    "stars": 40503,
     "language": "Python",
     "topics": [
       "ai",
@@ -17,57 +17,11 @@
     "created_at": "2026-04-05T01:12:07Z"
   },
   {
-    "id": "gh-1201173969",
-    "name": "JuliusBrussee/caveman",
-    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 9312,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "anthropic",
-      "caveman",
-      "claude",
-      "claude-code",
-      "llm",
-      "meme",
-      "prompt-engineering",
-      "skill",
-      "tokens"
-    ],
-    "created_at": "2026-04-04T10:03:00Z"
-  },
-  {
-    "id": "gh-1201469843",
-    "name": "Houseofmvps/codesight",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
-    "url": "https://github.com/Houseofmvps/codesight",
-    "stars": 767,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "claude",
-      "cli",
-      "code-analysis",
-      "codebase",
-      "codex",
-      "context-engineering",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "repo-map",
-      "token-savings"
-    ],
-    "created_at": "2026-04-04T18:10:16Z"
-  },
-  {
     "id": "gh-1202259745",
     "name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU \u2014 no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 597,
+    "stars": 633,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -84,7 +38,7 @@
     "name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 489,
+    "stars": 526,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -107,27 +61,69 @@
     "name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 312,
+    "stars": 427,
     "language": "Shell",
     "topics": [
       "ai",
       "claude-code",
-      "karpathy",
-      "knowledge-base",
-      "llm-wiki",
-      "markdown",
+      "claude-code-skill",
+      "knowledge-management",
       "obsidian",
-      "pkm",
+      "open-source",
       "second-brain"
     ],
     "created_at": "2026-04-07T08:59:37Z"
+  },
+  {
+    "id": "gh-1202251960",
+    "name": "atomicmemory/llm-wiki-compiler",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/atomicmemory/llm-wiki-compiler",
+    "stars": 335,
+    "language": "TypeScript",
+    "topics": [
+      "cli",
+      "compiler",
+      "context-engineering",
+      "karpathy",
+      "knowledge-base",
+      "knowledge-compilation",
+      "llm",
+      "markdown",
+      "obsidian",
+      "wiki"
+    ],
+    "created_at": "2026-04-05T19:53:06Z"
+  },
+  {
+    "id": "gh-1203135787",
+    "name": "cporter202/agentic-ai-apis",
+    "description": "The ultimate collection of APIs for building autonomous AI agents \u2014 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+    "url": "https://github.com/cporter202/agentic-ai-apis",
+    "stars": 253,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-tools",
+      "api-collection",
+      "api-directory",
+      "apis",
+      "automation",
+      "curated-list",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "mcp-servers"
+    ],
+    "created_at": "2026-04-06T18:55:04Z"
   },
   {
     "id": "gh-1204520409",
     "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
     "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 201,
+    "stars": 236,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -150,7 +146,7 @@
     "name": "joyehuang/Learn-Open-Harness",
     "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
     "url": "https://github.com/joyehuang/Learn-Open-Harness",
-    "stars": 148,
+    "stars": 168,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -179,7 +175,7 @@
     "name": "Dynamis-Labs/spectralquant",
     "description": "3% Is All You Need: Breaking TurboQuant's Compression Limit via Spectral Structure",
     "url": "https://github.com/Dynamis-Labs/spectralquant",
-    "stars": 98,
+    "stars": 101,
     "language": "Python",
     "topics": [
       "compression",
@@ -194,6 +190,52 @@
       "transformer"
     ],
     "created_at": "2026-04-05T05:30:05Z"
+  },
+  {
+    "id": "gh-1203115035",
+    "name": "NicholasSpisak/second-brain",
+    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/NicholasSpisak/second-brain",
+    "stars": 95,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "knowledge-base",
+      "llm",
+      "markdown",
+      "obsidian",
+      "personal-wiki",
+      "second-brain"
+    ],
+    "created_at": "2026-04-06T18:28:01Z"
+  },
+  {
+    "id": "gh-1205759917",
+    "name": "liyupi/yupi-skill",
+    "description": "\ud83d\udc1f \u7a0b\u5e8f\u5458\u9c7c\u76ae Agent Skill\uff5c\u628a\u81ea\u5df1\u84b8\u998f\u6210 AI \u6280\u80fd\u5305\uff0c\u7528\u6211\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u8868\u8fbe\u98ce\u683c\u56de\u7b54\u7f16\u7a0b\u5b66\u4e60\u3001\u6c42\u804c\u9762\u8bd5\u3001AI \u7f16\u7a0b\u3001\u7b80\u5386\u4f18\u5316\u3001\u6280\u672f\u9009\u578b\u3001\u521b\u4e1a\u7ecf\u9a8c\u7b49\u95ee\u9898\u3002\u652f\u6301 Claude Code / Cursor / OpenClaw",
+    "url": "https://github.com/liyupi/yupi-skill",
+    "stars": 61,
+    "language": null,
+    "topics": [
+      "agent",
+      "agent-skills",
+      "ai",
+      "ai-coding",
+      "career",
+      "claude-code",
+      "codefather",
+      "cursor",
+      "interview",
+      "java",
+      "opensource",
+      "programming",
+      "resume",
+      "skill",
+      "skills",
+      "yupi"
+    ],
+    "created_at": "2026-04-09T08:54:00Z"
   },
   {
     "id": "gh-1203184133",
@@ -230,7 +272,7 @@
     "name": "4rtemi5/halo",
     "description": "A drop-in replacement for the standard Categorical Cross-Entropy (CCE) loss that significantly improves OOD and Calibration performance without reducing ID performance.",
     "url": "https://github.com/4rtemi5/halo",
-    "stars": 22,
+    "stars": 23,
     "language": "Python",
     "topics": [
       "machine-learning",
@@ -256,64 +298,20 @@
     "created_at": "2026-04-07T03:05:15Z"
   },
   {
-    "id": "gh-1204865369",
-    "name": "andresrodriguez55/knowledge-base",
-    "description": "Knowledge Copilot is a Retrieval-Augmented Generation (RAG) application with multi tenant isolation based on  LDAP for companies.  It allows organizations to interact with their private document libraries securely,  providing accurate answers with transparent quality scoring, source citations and traceability.",
-    "url": "https://github.com/andresrodriguez55/knowledge-base",
-    "stars": 5,
-    "language": "Java",
-    "topics": [
-      "enterprise",
-      "generative-ai",
-      "kafka",
-      "ldap",
-      "llm",
-      "multi-tenant",
-      "observability",
-      "ollama",
-      "outbox",
-      "pgvector",
-      "rag",
-      "s3",
-      "saga",
-      "spring",
-      "spring-ai",
-      "spring-boot",
-      "system-design",
-      "vector-database",
-      "zipkin"
-    ],
-    "created_at": "2026-04-08T12:09:06Z"
-  },
-  {
-    "id": "gh-1201609022",
-    "name": "CES-Ltd/TitanClip",
-    "description": "AI Company Orchestration Platform \u2014 Deploy governed teams of autonomous AI agents with Runtime Agentic IAM, credential vaults, heartbeat orchestration, and enterprise security. Built on Paperclip.",
-    "url": "https://github.com/CES-Ltd/TitanClip",
-    "stars": 4,
-    "language": "TypeScript",
+    "id": "gh-1204559601",
+    "name": "andresvourakis/ai-ds-job-market",
+    "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
+    "url": "https://github.com/andresvourakis/ai-ds-job-market",
+    "stars": 6,
+    "language": "Python",
     "topics": [
       "agentic-ai",
-      "ai-agents",
-      "ai-governance",
-      "ai-orchestration",
-      "ai-safety",
-      "autonomous-agents",
-      "chatbot",
-      "credential-vault",
-      "desktop-app",
-      "devops",
-      "electron",
-      "enterprise-ai",
+      "agentic-analytics",
+      "data-analysis",
+      "data-science",
       "generative-ai",
-      "iam",
-      "llm",
-      "multi-agent",
-      "rbac",
-      "react",
-      "task-orchestration",
-      "typescript"
+      "job-market-analysis"
     ],
-    "created_at": "2026-04-04T22:57:58Z"
+    "created_at": "2026-04-08T05:49:42Z"
   }
 ]

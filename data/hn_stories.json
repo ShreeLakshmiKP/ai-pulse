@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47701233",
-    "title": "Claude mixes up who said what",
-    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-    "points": 427,
-    "comments": 330,
+    "id": "hn-47719740",
+    "title": "1D Chess",
+    "url": "https://rowan441.github.io/1dchess/chess.html",
+    "points": 763,
+    "comments": 137,
     "source": "Hacker News",
-    "published_date": "2026-04-09T09:25:28Z"
+    "published_date": "2026-04-10T15:37:28Z"
   },
   {
-    "id": "hn-47700972",
-    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-    "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-    "points": 324,
-    "comments": 217,
+    "id": "hn-47717587",
+    "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "points": 428,
+    "comments": 309,
     "source": "Hacker News",
-    "published_date": "2026-04-09T08:55:18Z"
+    "published_date": "2026-04-10T13:08:43Z"
   },
   {
-    "id": "hn-47701148",
-    "title": "Top laptops to use with FreeBSD",
-    "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
-    "points": 310,
-    "comments": 174,
+    "id": "hn-47720419",
+    "title": "Industrial design files for Keychron keyboards and mice",
+    "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "points": 350,
+    "comments": 108,
     "source": "Hacker News",
-    "published_date": "2026-04-09T09:17:25Z"
+    "published_date": "2026-04-10T16:22:26Z"
   },
   {
-    "id": "hn-47704881",
-    "title": "The Vercel plugin on Claude Code wants to read your prompts",
-    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-    "points": 263,
-    "comments": 104,
+    "id": "hn-47721953",
+    "title": "AI assistance when contributing to the Linux kernel",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "points": 265,
+    "comments": 173,
     "source": "Hacker News",
-    "published_date": "2026-04-09T15:17:27Z"
+    "published_date": "2026-04-10T18:35:21Z"
   },
   {
-    "id": "hn-47701572",
-    "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-    "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-    "points": 201,
-    "comments": 128,
+    "id": "hn-47720827",
+    "title": "A compelling title that is cryptic enough to get you to take action on it",
+    "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+    "points": 205,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-04-09T10:10:19Z"
+    "published_date": "2026-04-10T16:53:55Z"
   },
   {
-    "id": "hn-47702196",
-    "title": "Show HN: CSS Studio. Design by hand, code by agent",
-    "url": "https://cssstudio.ai",
-    "points": 150,
-    "comments": 95,
+    "id": "hn-47721997",
+    "title": "Show HN: FluidCAD \u2013 Parametric CAD with JavaScript",
+    "url": "https://fluidcad.io/",
+    "points": 123,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-04-09T11:23:31Z"
+    "published_date": "2026-04-10T18:39:19Z"
   },
   {
-    "id": "hn-47705413",
-    "title": "Show HN: I built a Cargo-like build tool for C/C++",
-    "url": "https://github.com/randerson112/craft",
-    "points": 144,
-    "comments": 128,
+    "id": "hn-47718114",
+    "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+    "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+    "points": 105,
+    "comments": 92,
     "source": "Hacker News",
-    "published_date": "2026-04-09T16:04:54Z"
+    "published_date": "2026-04-10T13:47:17Z"
   },
   {
-    "id": "hn-47709130",
-    "title": "Reverse engineering Gemini's SynthID detection",
-    "url": "https://github.com/aloshdenny/reverse-SynthID",
-    "points": 140,
-    "comments": 50,
+    "id": "hn-47715291",
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "url": "https://www.nature.com/articles/d41586-026-01100-y",
+    "points": 86,
+    "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-04-09T20:10:25Z"
+    "published_date": "2026-04-10T08:44:37Z"
   },
   {
-    "id": "hn-47707632",
-    "title": "Instant 1.0, a backend for AI-coded apps",
-    "url": "https://www.instantdb.com/essays/architecture",
-    "points": 124,
-    "comments": 72,
+    "id": "hn-47722011",
+    "title": "Show HN: A WYSIWYG word processor in Python",
+    "url": "https://codeberg.org/chrisecker/miniword",
+    "points": 69,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-04-09T18:30:59Z"
+    "published_date": "2026-04-10T18:40:34Z"
   },
   {
-    "id": "hn-47700460",
-    "title": "Ask HN: What are you building that's not AI related?",
-    "url": "https://news.ycombinator.com/item?id=47700460",
-    "points": 121,
-    "comments": 146,
+    "id": "hn-47720418",
+    "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
+    "url": "https://twill.ai",
+    "points": 65,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-04-09T07:39:47Z"
+    "published_date": "2026-04-10T16:22:13Z"
   },
   {
-    "id": "hn-47704443",
-    "title": "Study found that young adults have grown less hopeful and more angry about AI",
-    "url": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
-    "points": 111,
-    "comments": 164,
+    "id": "hn-47715339",
+    "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
+    "url": "https://github.com/agberohq/keeper",
+    "points": 59,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-04-09T14:44:16Z"
+    "published_date": "2026-04-10T08:53:33Z"
   },
   {
-    "id": "hn-47710007",
-    "title": "Moving from WordPress to Jekyll (and static site generators in general)",
-    "url": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
-    "points": 73,
-    "comments": 39,
+    "id": "hn-47721255",
+    "title": "Show HN: Eve \u2013 Managed OpenClaw for work",
+    "url": "https://eve.new/login",
+    "points": 52,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-04-09T20:59:51Z"
+    "published_date": "2026-04-10T17:31:22Z"
   },
   {
-    "id": "hn-47712656",
-    "title": "We've raised $17M to build what comes after Git",
-    "url": "https://blog.gitbutler.com/series-a",
-    "points": 70,
-    "comments": 122,
+    "id": "hn-47716978",
+    "title": "Women are getting most of the new jobs. What's going on with men?",
+    "url": "https://text.npr.org/nx-s1-5773327",
+    "points": 52,
+    "comments": 134,
     "source": "Hacker News",
-    "published_date": "2026-04-10T01:52:58Z"
+    "published_date": "2026-04-10T12:19:11Z"
   },
   {
-    "id": "hn-47708179",
-    "title": "Glasses Got Worse on Purpose",
-    "url": "https://worse-on-purpose.beehiiv.com/p/your-glasses-got-worse-on-purpose",
-    "points": 58,
-    "comments": 19,
+    "id": "hn-47718812",
+    "title": "Why do we tell ourselves scary stories about AI?",
+    "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+    "points": 40,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-04-09T19:01:25Z"
+    "published_date": "2026-04-10T14:35:35Z"
   },
   {
-    "id": "hn-47709197",
-    "title": "US defense official overseeing AI reaped millions selling xAI stock",
-    "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-    "points": 48,
-    "comments": 7,
+    "id": "hn-47718155",
+    "title": "Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews",
+    "points": 36,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-04-09T20:14:23Z"
+    "published_date": "2026-04-10T13:49:50Z"
   },
   {
-    "id": "hn-47702647",
-    "title": "Launch HN: Relvy (YC F24) \u2013 On-call runbooks, automated",
-    "url": "https://www.relvy.ai",
-    "points": 45,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-04-09T12:11:56Z"
-  },
-  {
-    "id": "hn-47714239",
-    "title": "The tool that won't let AI say anything it can't cite",
-    "url": "https://github.com/grainulation/grainulator",
-    "points": 29,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-04-10T06:09:47Z"
-  },
-  {
-    "id": "hn-47703498",
-    "title": "White-Collar Workers Are Rebelling Against AI \u2013 80% Refuse Adoption Mandates",
-    "url": "https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/",
-    "points": 29,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-04-09T13:31:15Z"
-  },
-  {
-    "id": "hn-47712771",
-    "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
-    "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
-    "points": 20,
+    "id": "hn-47723505",
+    "title": "Show HN: DecisionNode \u2013 shared structured memory for all AI coding tools via MCP",
+    "url": "https://github.com/decisionnode/DecisionNode",
+    "points": 21,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-10T02:08:40Z"
+    "published_date": "2026-04-10T20:50:55Z"
   },
   {
-    "id": "hn-47704687",
-    "title": "A complete GPT language model in ~600 lines of C#, zero dependencies",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "points": 20,
-    "comments": 4,
+    "id": "hn-47722081",
+    "title": "Ask HN: Hiring in the age of AI-assisted coding: what works?",
+    "url": "https://news.ycombinator.com/item?id=47722081",
+    "points": 18,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-04-09T15:03:49Z"
+    "published_date": "2026-04-10T18:47:49Z"
+  },
+  {
+    "id": "hn-47723146",
+    "title": "We're running out of benchmarks to upper bound AI capabilities",
+    "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+    "points": 15,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-10T20:16:58Z"
+  },
+  {
+    "id": "hn-47721824",
+    "title": "OpenAI's new $100 tier targets developers hitting Codex limits",
+    "url": "https://thenewstack.io/openais-new-100-tier-targets-developers-hitting-codex-and-claude-code-limits/",
+    "points": 15,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-04-10T18:23:07Z"
+  },
+  {
+    "id": "hn-47722558",
+    "title": "Why Isn't Everything Different Yet? (AI, where are you?)",
+    "url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet",
+    "points": 14,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-10T19:27:30Z"
   }
 ]
