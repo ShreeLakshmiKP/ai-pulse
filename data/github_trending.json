@@ -1,67 +1,10 @@
 [
   {
-    "id": "gh-1201656210",
-    "name": "milla-jovovich/mempalace",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-    "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 40503,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "chromadb",
-      "llm",
-      "mcp",
-      "memory",
-      "python"
-    ],
-    "created_at": "2026-04-05T01:12:07Z"
-  },
-  {
-    "id": "gh-1202259745",
-    "name": "kessler/gemma-gem",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU \u2014 no API keys, no cloud, no data leaving your machine.",
-    "url": "https://github.com/kessler/gemma-gem",
-    "stars": 633,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "chrome-extension",
-      "gemma4",
-      "gemma4-2b",
-      "gemma4-agent-skills",
-      "llm"
-    ],
-    "created_at": "2026-04-05T20:07:56Z"
-  },
-  {
-    "id": "gh-1201826173",
-    "name": "R6410418/Jackrong-llm-finetuning-guide",
-    "description": null,
-    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 526,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "dataset",
-      "deepseek",
-      "fine-tuning",
-      "guide",
-      "llama3",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "openai",
-      "pytorch",
-      "qwen",
-      "unsloth"
-    ],
-    "created_at": "2026-04-05T08:04:43Z"
-  },
-  {
     "id": "gh-1203670949",
     "name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 427,
+    "stars": 537,
     "language": "Shell",
     "topics": [
       "ai",
@@ -75,55 +18,11 @@
     "created_at": "2026-04-07T08:59:37Z"
   },
   {
-    "id": "gh-1202251960",
-    "name": "atomicmemory/llm-wiki-compiler",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
-    "url": "https://github.com/atomicmemory/llm-wiki-compiler",
-    "stars": 335,
-    "language": "TypeScript",
-    "topics": [
-      "cli",
-      "compiler",
-      "context-engineering",
-      "karpathy",
-      "knowledge-base",
-      "knowledge-compilation",
-      "llm",
-      "markdown",
-      "obsidian",
-      "wiki"
-    ],
-    "created_at": "2026-04-05T19:53:06Z"
-  },
-  {
-    "id": "gh-1203135787",
-    "name": "cporter202/agentic-ai-apis",
-    "description": "The ultimate collection of APIs for building autonomous AI agents \u2014 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-    "url": "https://github.com/cporter202/agentic-ai-apis",
-    "stars": 253,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-tools",
-      "api-collection",
-      "api-directory",
-      "apis",
-      "automation",
-      "curated-list",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "mcp-servers"
-    ],
-    "created_at": "2026-04-06T18:55:04Z"
-  },
-  {
     "id": "gh-1204520409",
     "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
     "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 236,
+    "stars": 284,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -142,11 +41,34 @@
     "created_at": "2026-04-08T04:48:26Z"
   },
   {
+    "id": "gh-1203135787",
+    "name": "cporter202/agentic-ai-apis",
+    "description": "The ultimate collection of APIs for building autonomous AI agents \u2014 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+    "url": "https://github.com/cporter202/agentic-ai-apis",
+    "stars": 265,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-tools",
+      "api-collection",
+      "api-directory",
+      "apis",
+      "automation",
+      "curated-list",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "mcp-servers"
+    ],
+    "created_at": "2026-04-06T18:55:04Z"
+  },
+  {
     "id": "gh-1203445878",
     "name": "joyehuang/Learn-Open-Harness",
     "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
     "url": "https://github.com/joyehuang/Learn-Open-Harness",
-    "stars": 168,
+    "stars": 210,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -171,32 +93,26 @@
     "created_at": "2026-04-07T03:37:02Z"
   },
   {
-    "id": "gh-1201754187",
-    "name": "Dynamis-Labs/spectralquant",
-    "description": "3% Is All You Need: Breaking TurboQuant's Compression Limit via Spectral Structure",
-    "url": "https://github.com/Dynamis-Labs/spectralquant",
-    "stars": 101,
-    "language": "Python",
+    "id": "gh-1203485810",
+    "name": "mduongvandinh/llm-wiki",
+    "description": "H\u1ec7 th\u1ed1ng knowledge base c\u00e1 nh\u00e2n ho\u00e0n to\u00e0n t\u1ef1 \u0111\u1ed9ng, v\u1eadn h\u00e0nh b\u1edfi LLM. D\u1ef1a tr\u00ean pattern LLM Wiki c\u1ee7a Andrej Karpathy.",
+    "url": "https://github.com/mduongvandinh/llm-wiki",
+    "stars": 172,
+    "language": "HTML",
     "topics": [
-      "compression",
-      "kv-cache",
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "pytorch",
-      "quantization",
-      "research-paper",
-      "spectral-analysis",
-      "transformer"
+      "andrej-karpathy",
+      "claude-code",
+      "llm",
+      "obsidian"
     ],
-    "created_at": "2026-04-05T05:30:05Z"
+    "created_at": "2026-04-07T04:44:51Z"
   },
   {
     "id": "gh-1203115035",
     "name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 95,
+    "stars": 103,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -215,7 +131,7 @@
     "name": "liyupi/yupi-skill",
     "description": "\ud83d\udc1f \u7a0b\u5e8f\u5458\u9c7c\u76ae Agent Skill\uff5c\u628a\u81ea\u5df1\u84b8\u998f\u6210 AI \u6280\u80fd\u5305\uff0c\u7528\u6211\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u8868\u8fbe\u98ce\u683c\u56de\u7b54\u7f16\u7a0b\u5b66\u4e60\u3001\u6c42\u804c\u9762\u8bd5\u3001AI \u7f16\u7a0b\u3001\u7b80\u5386\u4f18\u5316\u3001\u6280\u672f\u9009\u578b\u3001\u521b\u4e1a\u7ecf\u9a8c\u7b49\u95ee\u9898\u3002\u652f\u6301 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 61,
+    "stars": 88,
     "language": null,
     "topics": [
       "agent",
@@ -236,6 +152,92 @@
       "yupi"
     ],
     "created_at": "2026-04-09T08:54:00Z"
+  },
+  {
+    "id": "gh-1203463294",
+    "name": "ttguy0707/CyberClaw",
+    "description": "\ud83d\udc7e \u4e0b\u4e00\u4ee3\u900f\u660e\u667a\u80fd\u4f53\u67b6\u6784 | Next-Gen Transparent Agent Architecture \ud83d\udd0d \u5168\u884c\u4e3a\u5ba1\u8ba1 | \ud83d\udee1\ufe0f \u4e24\u6bb5\u5f0f\u5b89\u5168\u8c03\u7528 | \ud83e\udde0 \u53cc\u6c34\u4f4d\u8bb0\u5fc6 | \u23f0 \u5fc3\u8df3\u4efb\u52a1 \ud83d\udcca P0 \u7ea7\u4e8b\u6545\u7387\u964d\u4f4e 80% | \u517c\u5bb9 OpenClaw + Claude Code \u6280\u80fd\u751f\u6001",
+    "url": "https://github.com/ttguy0707/CyberClaw",
+    "stars": 74,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-safety",
+      "claude-code",
+      "cross-platform",
+      "enterprise-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "openclaw",
+      "python",
+      "transparent-ai",
+      "two-phase-invocation"
+    ],
+    "created_at": "2026-04-07T04:07:04Z"
+  },
+  {
+    "id": "gh-1203380576",
+    "name": "416rehman/DeepZero",
+    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+    "url": "https://github.com/416rehman/DeepZero",
+    "stars": 67,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "automated-analysis",
+      "cybersecurity",
+      "deep-agents",
+      "deepzero",
+      "exploit-development",
+      "kernel-drivers",
+      "langchain",
+      "llm",
+      "pipeline",
+      "python",
+      "reverse-engineering",
+      "semgrep",
+      "vertex",
+      "vertex-ai",
+      "vulnerability-research",
+      "windows-kernel",
+      "zero-day"
+    ],
+    "created_at": "2026-04-07T01:51:34Z"
+  },
+  {
+    "id": "gh-1204361785",
+    "name": "Pratiyush/llm-wiki",
+    "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern \u2014 implemented and shipped.",
+    "url": "https://github.com/Pratiyush/llm-wiki",
+    "stars": 58,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "llm-wiki",
+      "markdown",
+      "mcp",
+      "obsidian",
+      "open-source",
+      "python",
+      "session-history",
+      "static-site",
+      "wiki"
+    ],
+    "created_at": "2026-04-08T00:07:14Z"
   },
   {
     "id": "gh-1203184133",
@@ -268,11 +270,38 @@
     "created_at": "2026-04-06T20:00:11Z"
   },
   {
+    "id": "gh-1202803001",
+    "name": "atomicarchitects/equiformer_v3",
+    "description": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
+    "url": "https://github.com/atomicarchitects/equiformer_v3",
+    "stars": 31,
+    "language": "Python",
+    "topics": [
+      "catalyst-design",
+      "deep-learning",
+      "drug-discovery",
+      "e3nn",
+      "equiformer",
+      "equivariant-graph-neural-network",
+      "equivariant-neural-networks",
+      "force-field",
+      "geometric-deep-learning",
+      "machine-learning",
+      "machine-learning-interatomic-potential",
+      "material-discovery",
+      "materials-science",
+      "mlip",
+      "molecular-dynamics",
+      "pytorch"
+    ],
+    "created_at": "2026-04-06T12:18:51Z"
+  },
+  {
     "id": "gh-1202660730",
     "name": "4rtemi5/halo",
     "description": "A drop-in replacement for the standard Categorical Cross-Entropy (CCE) loss that significantly improves OOD and Calibration performance without reducing ID performance.",
     "url": "https://github.com/4rtemi5/halo",
-    "stars": 23,
+    "stars": 25,
     "language": "Python",
     "topics": [
       "machine-learning",
@@ -280,6 +309,19 @@
       "ood-detection"
     ],
     "created_at": "2026-04-06T09:06:54Z"
+  },
+  {
+    "id": "gh-1205620084",
+    "name": "tentime/implementations",
+    "description": "Historic machine learning implementations",
+    "url": "https://github.com/tentime/implementations",
+    "stars": 22,
+    "language": "Python",
+    "topics": [
+      "machine-learning",
+      "machine-learning-algorithms"
+    ],
+    "created_at": "2026-04-09T06:05:15Z"
   },
   {
     "id": "gh-1203427061",
@@ -296,22 +338,5 @@
       "wiki"
     ],
     "created_at": "2026-04-07T03:05:15Z"
-  },
-  {
-    "id": "gh-1204559601",
-    "name": "andresvourakis/ai-ds-job-market",
-    "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
-    "url": "https://github.com/andresvourakis/ai-ds-job-market",
-    "stars": 6,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "agentic-analytics",
-      "data-analysis",
-      "data-science",
-      "generative-ai",
-      "job-market-analysis"
-    ],
-    "created_at": "2026-04-08T05:49:42Z"
   }
 ]

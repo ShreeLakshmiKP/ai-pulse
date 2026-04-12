@@ -2706,6 +2706,21 @@
     "image": null
   },
   {
+    "id": "rss-0d1c21e4",
+    "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Sat, 11 Apr 2026 17:18:22 +0000",
+    "image": null
+  },
+  {
     "id": "rss-b85184ea",
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools.",
@@ -3900,6 +3915,53 @@
       "ChatGPT"
     ],
     "category": "AI Models",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-24f471f1",
+    "title": "Using projects in ChatGPT",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/projects",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-901994fe",
+    "title": "ChatGPT for marketing teams",
+    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/marketing",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8a4fd43e",
+    "title": "Our response to the Axios developer tool compromise",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/axios-developer-tool-compromise",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
     "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
     "image": null
   },
