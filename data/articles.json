@@ -2512,6 +2512,65 @@
     "image": null
   },
   {
+    "id": "rss-0edae4e8",
+    "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sun, 12 Apr 2026 21:14:38 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-77a7f187",
+    "title": "Apple reportedly testing four designs for upcoming smart glasses",
+    "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Sun, 12 Apr 2026 19:58:42 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-97774875",
+    "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tags": [
+      "LLM"
+    ],
+    "category": "AI Models",
+    "published_date": "Sun, 12 Apr 2026 15:07:08 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-72ce90ad",
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Sun, 12 Apr 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-19795563",
     "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
     "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
@@ -3206,6 +3265,19 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-f35db54e",
+    "title": "The largest orbital compute cluster is open for business",
+    "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Mon, 13 Apr 2026 07:01:00 +0000",
     "image": null
   },
   {
@@ -3962,6 +4034,54 @@
       "OpenAI"
     ],
     "category": "AI Tools",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7724c21f",
+    "title": "Personalizing ChatGPT",
+    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/personalization",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b4eded0a",
+    "title": "ChatGPT for managers",
+    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/managers",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-819cd6fb",
+    "title": "ChatGPT for research",
+    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/research",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
     "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
     "image": null
   },

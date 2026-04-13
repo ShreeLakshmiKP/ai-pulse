@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47733217",
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "points": 337,
-    "comments": 87,
+    "id": "hn-47738883",
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "url": "https://news.ycombinator.com/item?id=47738883",
+    "points": 814,
+    "comments": 305,
     "source": "Hacker News",
-    "published_date": "2026-04-11T19:15:56Z"
+    "published_date": "2026-04-12T12:28:57Z"
   },
   {
-    "id": "hn-47733971",
-    "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-    "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-    "points": 183,
-    "comments": 128,
+    "id": "hn-47739260",
+    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+    "url": "https://github.com/anthropics/claude-code/issues/45756",
+    "points": 609,
+    "comments": 545,
     "source": "Hacker News",
-    "published_date": "2026-04-11T20:58:48Z"
+    "published_date": "2026-04-12T13:15:31Z"
   },
   {
-    "id": "hn-47732697",
-    "title": "How to build a `Git diff` driver",
-    "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+    "id": "hn-47737563",
+    "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+    "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+    "points": 333,
+    "comments": 595,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T09:16:35Z"
+  },
+  {
+    "id": "hn-47739174",
+    "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+    "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+    "points": 189,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T13:06:44Z"
+  },
+  {
+    "id": "hn-47743700",
+    "title": "European AI. A playbook to own it",
+    "url": "https://europe.mistral.ai/",
+    "points": 174,
+    "comments": 102,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T19:51:06Z"
+  },
+  {
+    "id": "hn-47747017",
+    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+    "points": 152,
+    "comments": 136,
+    "source": "Hacker News",
+    "published_date": "2026-04-13T02:53:10Z"
+  },
+  {
+    "id": "hn-47745120",
+    "title": "Tech valuations are back to pre-AI boom levels",
+    "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+    "points": 133,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T22:13:22Z"
+  },
+  {
+    "id": "hn-47738343",
+    "title": "The Physics of GPS",
+    "url": "https://perthirtysix.com/how-does-gps-work",
+    "points": 127,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T11:10:18Z"
+  },
+  {
+    "id": "hn-47744540",
+    "title": "A perfectable programming language",
+    "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+    "points": 108,
+    "comments": 38,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T21:11:24Z"
+  },
+  {
+    "id": "hn-47737876",
+    "title": "Doom, Played over Curl",
+    "url": "https://github.com/xsawyerx/curl-doom",
     "points": 105,
-    "comments": 12,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-04-11T18:07:49Z"
+    "published_date": "2026-04-12T10:01:54Z"
   },
   {
-    "id": "hn-47731707",
-    "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
-    "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
-    "points": 99,
-    "comments": 50,
+    "id": "hn-47741889",
+    "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
+    "url": "https://github.com/halfwhey/claudraband",
+    "points": 104,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-04-11T16:04:52Z"
+    "published_date": "2026-04-12T16:55:20Z"
   },
   {
-    "id": "hn-47735704",
-    "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-    "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-    "points": 68,
-    "comments": 62,
+    "id": "hn-47738864",
+    "title": "Why AI Sucks at Front End",
+    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+    "points": 83,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-04-12T02:37:39Z"
+    "published_date": "2026-04-12T12:26:09Z"
   },
   {
-    "id": "hn-47735606",
-    "title": "Americans still opt for print books over digital or audio versions",
-    "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
-    "points": 65,
-    "comments": 53,
+    "id": "hn-47743077",
+    "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
+    "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
+    "points": 58,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-04-12T02:14:44Z"
+    "published_date": "2026-04-12T18:53:35Z"
   },
   {
-    "id": "hn-47729477",
-    "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-    "url": "https://www.hormuz-havoc.com/",
-    "points": 53,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T10:58:36Z"
-  },
-  {
-    "id": "hn-47729975",
-    "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
-    "url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
+    "id": "hn-47741531",
+    "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+    "url": "https://github.com/imbue-ai/bouncer",
     "points": 46,
-    "comments": 28,
+    "comments": 84,
     "source": "Hacker News",
-    "published_date": "2026-04-11T12:25:02Z"
+    "published_date": "2026-04-12T16:24:46Z"
   },
   {
-    "id": "hn-47730229",
-    "title": "Borges' cartographers and the tacit skill of reading LM output",
-    "url": "https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/",
-    "points": 38,
-    "comments": 10,
+    "id": "hn-47748123",
+    "title": "The AI Layoff Trap",
+    "url": "https://arxiv.org/abs/2603.20617",
+    "points": 44,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-04-11T13:06:34Z"
+    "published_date": "2026-04-13T05:56:49Z"
   },
   {
-    "id": "hn-47730522",
-    "title": "Show HN: Waffle \u2013 Native macOS terminal that auto-tiles sessions into a grid",
-    "url": "https://waffle.baby",
-    "points": 31,
-    "comments": 8,
+    "id": "hn-47743878",
+    "title": "The Moon Just Got a New Scar",
+    "url": "https://www.universetoday.com/articles/the-moon-just-got-a-new-scar",
+    "points": 16,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-04-11T13:40:20Z"
+    "published_date": "2026-04-12T20:06:38Z"
   },
   {
-    "id": "hn-47734912",
-    "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
-    "url": "https://github.com/duguyue100/midnight-captain",
-    "points": 30,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T23:37:43Z"
-  },
-  {
-    "id": "hn-47735101",
-    "title": "AI Job Loss Tracker",
-    "url": "https://jobloss.ai/",
-    "points": 24,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-04-12T00:19:27Z"
-  },
-  {
-    "id": "hn-47731984",
-    "title": "\"AI polls\" are fake polls",
-    "url": "https://www.natesilver.net/p/ai-polls-are-fake-polls",
-    "points": 24,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T16:42:14Z"
-  },
-  {
-    "id": "hn-47729727",
-    "title": "Researchers used AI to analyze 400k Reddit posts, revealing GLP-1 side effects",
-    "url": "https://www.seas.upenn.edu/stories/penn-researchers-use-ai-to-surface-unreported-glp-1-side-effects-in-reddit-posts/",
-    "points": 24,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T11:41:57Z"
-  },
-  {
-    "id": "hn-47735779",
-    "title": "Building a Z-Machine in the worst possible language \u2013 Whitebeard's Realm",
-    "url": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
-    "points": 20,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-12T02:57:24Z"
-  },
-  {
-    "id": "hn-47734878",
-    "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
-    "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
-    "points": 19,
+    "id": "hn-47737642",
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "points": 13,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-04-11T23:30:40Z"
+    "published_date": "2026-04-12T09:29:02Z"
   },
   {
-    "id": "hn-47728919",
-    "title": "Gen Z workers who fear AI will take their job actively sabotaging its rollout",
-    "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
-    "points": 16,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T09:10:05Z"
-  },
-  {
-    "id": "hn-47734106",
-    "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
-    "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
-    "points": 14,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-04-11T21:20:21Z"
-  },
-  {
-    "id": "hn-47731320",
-    "title": "Karpathy says developers have 'AI Psychosis.' Everyone else is next",
-    "url": "https://thenewstack.io/karpathy-says-developers-have-ai-psychosis-everyone-else-is-next/",
+    "id": "hn-47746849",
+    "title": "Tell HN: Reddit now demands to know why you won't use their app",
+    "url": "https://news.ycombinator.com/item?id=47746849",
     "points": 13,
-    "comments": 3,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-04-11T15:14:06Z"
+    "published_date": "2026-04-13T02:24:55Z"
   },
   {
-    "id": "hn-47731064",
-    "title": "Valve Developer Improves the Linux Gaming Experience for Limited VRAM Hardware",
-    "url": "https://www.phoronix.com/news/Valve-Better-Gaming-Low-vRAM",
+    "id": "hn-47744905",
+    "title": "India's frugal AI models are a blueprint for resource-strapped nations",
+    "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
     "points": 12,
-    "comments": 0,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-04-11T14:40:49Z"
+    "published_date": "2026-04-12T21:47:33Z"
+  },
+  {
+    "id": "hn-47743326",
+    "title": "China lures home its top AI talent from Silicon Valley",
+    "url": "https://www.ft.com/content/b167c6d3-b982-482a-98c3-5303a7b80c6a",
+    "points": 11,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-12T19:17:49Z"
   }
 ]
