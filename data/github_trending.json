@@ -1,28 +1,10 @@
 [
   {
-    "id": "gh-1203670949",
-    "name": "AgriciDaniel/claude-obsidian",
-    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 754,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "claude-code",
-      "claude-code-skill",
-      "knowledge-management",
-      "obsidian",
-      "open-source",
-      "second-brain"
-    ],
-    "created_at": "2026-04-07T08:59:37Z"
-  },
-  {
     "id": "gh-1204520409",
     "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
     "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 340,
+    "stars": 414,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -41,55 +23,47 @@
     "created_at": "2026-04-08T04:48:26Z"
   },
   {
-    "id": "gh-1203445878",
-    "name": "joyehuang/Learn-Open-Harness",
-    "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
-    "url": "https://github.com/joyehuang/Learn-Open-Harness",
-    "stars": 231,
-    "language": "TypeScript",
+    "id": "gh-1209396858",
+    "name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "stars": 284,
+    "language": "PHP",
     "topics": [
-      "agent-harness",
-      "agent-loop",
-      "ai-agent",
-      "ai-agent-tutorial",
-      "ai-harness",
-      "ai-infrastructure",
-      "chinese",
-      "claude-code",
-      "generative-ai",
-      "harness-engineering",
-      "interactive-learning",
-      "interactive-tutorial",
-      "llm",
-      "nextjs",
-      "openharness",
-      "openharness-tutorial",
-      "shadcn-ui",
-      "zero-to-hero"
+      "ai",
+      "cms",
+      "content-automation",
+      "geo",
+      "openai-compatible",
+      "php",
+      "postgresql",
+      "seo"
     ],
-    "created_at": "2026-04-07T03:37:02Z"
+    "created_at": "2026-04-13T11:42:03Z"
   },
   {
-    "id": "gh-1203485810",
-    "name": "mduongvandinh/llm-wiki",
-    "description": "H\u1ec7 th\u1ed1ng knowledge base c\u00e1 nh\u00e2n ho\u00e0n to\u00e0n t\u1ef1 \u0111\u1ed9ng, v\u1eadn h\u00e0nh b\u1edfi LLM. D\u1ef1a tr\u00ean pattern LLM Wiki c\u1ee7a Andrej Karpathy.",
-    "url": "https://github.com/mduongvandinh/llm-wiki",
-    "stars": 177,
-    "language": "HTML",
+    "id": "gh-1208339803",
+    "name": "amitshekhariitbhu/llm-internals",
+    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "stars": 247,
+    "language": null,
     "topics": [
-      "andrej-karpathy",
-      "claude-code",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "large-language-models",
+      "learn-llm",
       "llm",
-      "obsidian"
+      "llm-internals"
     ],
-    "created_at": "2026-04-07T04:44:51Z"
+    "created_at": "2026-04-12T06:17:33Z"
   },
   {
     "id": "gh-1205759917",
     "name": "liyupi/yupi-skill",
     "description": "\ud83d\udc1f \u7a0b\u5e8f\u5458\u9c7c\u76ae Agent Skill\uff5c\u628a\u81ea\u5df1\u84b8\u998f\u6210 AI \u6280\u80fd\u5305\uff0c\u7528\u6211\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u8868\u8fbe\u98ce\u683c\u56de\u7b54\u7f16\u7a0b\u5b66\u4e60\u3001\u6c42\u804c\u9762\u8bd5\u3001AI \u7f16\u7a0b\u3001\u7b80\u5386\u4f18\u5316\u3001\u6280\u672f\u9009\u578b\u3001\u521b\u4e1a\u7ecf\u9a8c\u7b49\u95ee\u9898\u3002\u652f\u6301 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 129,
+    "stars": 162,
     "language": null,
     "topics": [
       "agent",
@@ -110,23 +84,6 @@
       "yupi"
     ],
     "created_at": "2026-04-09T08:54:00Z"
-  },
-  {
-    "id": "gh-1208339803",
-    "name": "amitshekhariitbhu/llm-internals",
-    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
-    "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "stars": 114,
-    "language": null,
-    "topics": [
-      "attention-is-all-you-need",
-      "attention-mechanism",
-      "large-language-models",
-      "learn-llm",
-      "llm",
-      "llm-internals"
-    ],
-    "created_at": "2026-04-12T06:17:33Z"
   },
   {
     "id": "gh-1207073386",
@@ -150,36 +107,28 @@
     "created_at": "2026-04-10T14:46:27Z"
   },
   {
-    "id": "gh-1203463294",
-    "name": "ttguy0707/CyberClaw",
-    "description": "\ud83d\udc7e \u4e0b\u4e00\u4ee3\u900f\u660e\u667a\u80fd\u4f53\u67b6\u6784 | Next-Gen Transparent Agent Architecture \ud83d\udd0d \u5168\u884c\u4e3a\u5ba1\u8ba1 | \ud83d\udee1\ufe0f \u4e24\u6bb5\u5f0f\u5b89\u5168\u8c03\u7528 | \ud83e\udde0 \u53cc\u6c34\u4f4d\u8bb0\u5fc6 | \u23f0 \u5fc3\u8df3\u4efb\u52a1 \ud83d\udcca P0 \u7ea7\u4e8b\u6545\u7387\u964d\u4f4e 80% | \u517c\u5bb9 OpenClaw + Claude Code \u6280\u80fd\u751f\u6001",
-    "url": "https://github.com/ttguy0707/CyberClaw",
-    "stars": 80,
-    "language": "Python",
+    "id": "gh-1204791292",
+    "name": "agi-now/buffett-skills",
+    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
+    "url": "https://github.com/agi-now/buffett-skills",
+    "stars": 88,
+    "language": null,
     "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agent",
-      "ai-safety",
-      "claude-code",
-      "cross-platform",
-      "enterprise-ai",
-      "langchain",
-      "langgraph",
-      "llm",
-      "openclaw",
-      "python",
-      "transparent-ai",
-      "two-phase-invocation"
+      "ai",
+      "btc",
+      "buffett",
+      "ethereum",
+      "finance",
+      "skills"
     ],
-    "created_at": "2026-04-07T04:07:04Z"
+    "created_at": "2026-04-08T10:37:13Z"
   },
   {
     "id": "gh-1208073571",
     "name": "litmus4ai/litmus",
     "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 77,
+    "stars": 85,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -200,7 +149,7 @@
     "name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern \u2014 implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 71,
+    "stars": 78,
     "language": "Python",
     "topics": [
       "ai",
@@ -227,41 +176,33 @@
     "created_at": "2026-04-08T00:07:14Z"
   },
   {
-    "id": "gh-1203380576",
-    "name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
+    "id": "gh-1207340595",
+    "name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
     "stars": 70,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "automated-analysis",
-      "cybersecurity",
-      "deep-agents",
-      "deepzero",
-      "exploit-development",
-      "kernel-drivers",
-      "langchain",
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
       "llm",
-      "pipeline",
-      "python",
-      "reverse-engineering",
-      "semgrep",
-      "vertex",
-      "vertex-ai",
-      "vulnerability-research",
-      "windows-kernel",
-      "zero-day"
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
     ],
-    "created_at": "2026-04-07T01:51:34Z"
+    "created_at": "2026-04-10T20:46:33Z"
   },
   {
     "id": "gh-1206519531",
     "name": "reacher-z/ClawBench",
     "description": "Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 15 categories.",
     "url": "https://github.com/reacher-z/ClawBench",
-    "stars": 34,
+    "stars": 45,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -284,24 +225,11 @@
     "created_at": "2026-04-10T01:59:17Z"
   },
   {
-    "id": "gh-1205620084",
-    "name": "tentime/implementations",
-    "description": "Historic machine learning implementations",
-    "url": "https://github.com/tentime/implementations",
-    "stars": 23,
-    "language": "Python",
-    "topics": [
-      "machine-learning",
-      "machine-learning-algorithms"
-    ],
-    "created_at": "2026-04-09T06:05:15Z"
-  },
-  {
     "id": "gh-1208029137",
     "name": "megeezy/Chameleon",
     "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
     "url": "https://github.com/megeezy/Chameleon",
-    "stars": 22,
+    "stars": 30,
     "language": "Rust",
     "topics": [
       "ai-infrastructure",
@@ -316,34 +244,82 @@
     "created_at": "2026-04-11T18:12:06Z"
   },
   {
-    "id": "gh-1204973006",
-    "name": "7WaySecurity/ai_osint",
-    "description": "\ud83e\udd16 Curated AI OSINT resources \u2014 Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents",
-    "url": "https://github.com/7WaySecurity/ai_osint",
-    "stars": 14,
-    "language": null,
+    "id": "gh-1205620084",
+    "name": "tentime/implementations",
+    "description": "Historic machine learning implementations",
+    "url": "https://github.com/tentime/implementations",
+    "stars": 23,
+    "language": "Python",
     "topics": [
-      "ai-osint",
-      "ai-security",
-      "api-keys",
-      "artificial-intelligence",
-      "bug-bounty",
-      "cybersecurity",
-      "google-dorks",
-      "hacking",
-      "llm-security",
       "machine-learning",
-      "mcp-security",
-      "ollama",
-      "osint",
-      "owasp",
-      "pentesting",
-      "prompt-injection",
-      "reconnaissance",
-      "red-team",
-      "shodan",
-      "vector-database"
+      "machine-learning-algorithms"
     ],
-    "created_at": "2026-04-08T14:08:41Z"
+    "created_at": "2026-04-09T06:05:15Z"
+  },
+  {
+    "id": "gh-1207881093",
+    "name": "nurtilekgalimov/cleanmol",
+    "description": "Reproducible cleaning and standardization of SMILES-based chemical datasets",
+    "url": "https://github.com/nurtilekgalimov/cleanmol",
+    "stars": 16,
+    "language": "Python",
+    "topics": [
+      "cheminformatics",
+      "data-cleaning",
+      "drug-discovery",
+      "machine-learning",
+      "molecular-data",
+      "python",
+      "rdkit",
+      "smiles"
+    ],
+    "created_at": "2026-04-11T14:29:32Z"
+  },
+  {
+    "id": "gh-1204559601",
+    "name": "andresvourakis/ai-ds-job-market",
+    "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
+    "url": "https://github.com/andresvourakis/ai-ds-job-market",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agentic-analytics",
+      "data-analysis",
+      "data-science",
+      "generative-ai",
+      "job-market-analysis"
+    ],
+    "created_at": "2026-04-08T05:49:42Z"
+  },
+  {
+    "id": "gh-1204865369",
+    "name": "andresrodriguez55/knowledge-base",
+    "description": "Knowledge Copilot is a Retrieval-Augmented Generation (RAG) application with multi tenant isolation based on  LDAP for companies.  It allows organizations to interact with their private document libraries securely,  providing accurate answers with transparent quality scoring, source citations and traceability.",
+    "url": "https://github.com/andresrodriguez55/knowledge-base",
+    "stars": 6,
+    "language": "Java",
+    "topics": [
+      "enterprise",
+      "generative-ai",
+      "kafka",
+      "ldap",
+      "llm",
+      "multi-tenant",
+      "observability",
+      "ollama",
+      "outbox",
+      "pgvector",
+      "rag",
+      "s3",
+      "saga",
+      "spring",
+      "spring-ai",
+      "spring-boot",
+      "system-design",
+      "vector-database",
+      "zipkin"
+    ],
+    "created_at": "2026-04-08T12:09:06Z"
   }
 ]

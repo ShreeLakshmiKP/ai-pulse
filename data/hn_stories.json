@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47738883",
-    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "url": "https://news.ycombinator.com/item?id=47738883",
-    "points": 814,
-    "comments": 305,
+    "id": "hn-47757495",
+    "title": "GitHub Stacked PRs",
+    "url": "https://github.github.com/gh-stack/",
+    "points": 644,
+    "comments": 351,
     "source": "Hacker News",
-    "published_date": "2026-04-12T12:28:57Z"
+    "published_date": "2026-04-13T20:36:49Z"
   },
   {
-    "id": "hn-47739260",
-    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-    "url": "https://github.com/anthropics/claude-code/issues/45756",
-    "points": 609,
-    "comments": 545,
+    "id": "hn-47753472",
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "points": 403,
+    "comments": 222,
     "source": "Hacker News",
-    "published_date": "2026-04-12T13:15:31Z"
+    "published_date": "2026-04-13T15:31:06Z"
   },
   {
-    "id": "hn-47737563",
-    "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-    "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-    "points": 333,
-    "comments": 595,
+    "id": "hn-47758028",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "points": 237,
+    "comments": 338,
     "source": "Hacker News",
-    "published_date": "2026-04-12T09:16:35Z"
+    "published_date": "2026-04-13T21:25:38Z"
   },
   {
-    "id": "hn-47739174",
-    "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-    "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-    "points": 189,
-    "comments": 42,
+    "id": "hn-47751032",
+    "title": "AI could be the end of the digital wave, not the next big thing",
+    "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+    "points": 178,
+    "comments": 257,
     "source": "Hacker News",
-    "published_date": "2026-04-12T13:06:44Z"
+    "published_date": "2026-04-13T12:29:39Z"
   },
   {
-    "id": "hn-47743700",
-    "title": "European AI. A playbook to own it",
-    "url": "https://europe.mistral.ai/",
-    "points": 174,
-    "comments": 102,
+    "id": "hn-47749674",
+    "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+    "url": "https://github.com/brightbeanxyz/brightbean-studio",
+    "points": 177,
+    "comments": 120,
     "source": "Hacker News",
-    "published_date": "2026-04-12T19:51:06Z"
+    "published_date": "2026-04-13T09:26:56Z"
   },
   {
-    "id": "hn-47747017",
-    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-    "points": 152,
-    "comments": 136,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T02:53:10Z"
-  },
-  {
-    "id": "hn-47745120",
-    "title": "Tech valuations are back to pre-AI boom levels",
-    "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-    "points": 133,
+    "id": "hn-47756569",
+    "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
+    "url": "https://www.ithihasas.in",
+    "points": 144,
     "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-04-12T22:13:22Z"
+    "published_date": "2026-04-13T19:10:07Z"
   },
   {
-    "id": "hn-47738343",
-    "title": "The Physics of GPS",
-    "url": "https://perthirtysix.com/how-does-gps-work",
-    "points": 127,
-    "comments": 34,
+    "id": "hn-47759341",
+    "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
+    "url": "https://github.com/fabienmillet/WiiFin",
+    "points": 133,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-04-12T11:10:18Z"
+    "published_date": "2026-04-13T23:33:18Z"
   },
   {
-    "id": "hn-47744540",
-    "title": "A perfectable programming language",
-    "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-    "points": 108,
-    "comments": 38,
+    "id": "hn-47753643",
+    "title": "Claude.ai down",
+    "url": "https://status.claude.com/incidents/6jd2m42f8mld",
+    "points": 128,
+    "comments": 123,
     "source": "Hacker News",
-    "published_date": "2026-04-12T21:11:24Z"
+    "published_date": "2026-04-13T15:41:08Z"
   },
   {
-    "id": "hn-47737876",
-    "title": "Doom, Played over Curl",
-    "url": "https://github.com/xsawyerx/curl-doom",
-    "points": 105,
-    "comments": 24,
+    "id": "hn-47756772",
+    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+    "url": "https://amd-gaia.ai/docs",
+    "points": 124,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-04-12T10:01:54Z"
+    "published_date": "2026-04-13T19:28:41Z"
   },
   {
-    "id": "hn-47741889",
-    "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
-    "url": "https://github.com/halfwhey/claudraband",
-    "points": 104,
-    "comments": 38,
+    "id": "hn-47757775",
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "points": 110,
+    "comments": 158,
     "source": "Hacker News",
-    "published_date": "2026-04-12T16:55:20Z"
+    "published_date": "2026-04-13T21:02:21Z"
   },
   {
-    "id": "hn-47738864",
-    "title": "Why AI Sucks at Front End",
-    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-    "points": 83,
-    "comments": 94,
+    "id": "hn-47759292",
+    "title": "The AI revolution in math has arrived",
+    "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+    "points": 79,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-04-12T12:26:09Z"
+    "published_date": "2026-04-13T23:26:04Z"
   },
   {
-    "id": "hn-47743077",
-    "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
-    "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
+    "id": "hn-47752402",
+    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+    "points": 76,
+    "comments": 75,
+    "source": "Hacker News",
+    "published_date": "2026-04-13T14:21:29Z"
+  },
+  {
+    "id": "hn-47758863",
+    "title": "The human cost of 10x: How AI is physically breaking senior engineers",
+    "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+    "points": 66,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-04-13T22:40:26Z"
+  },
+  {
+    "id": "hn-47758347",
+    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+    "url": "https://ndaybench.winfunc.com",
     "points": 58,
-    "comments": 11,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-04-12T18:53:35Z"
+    "published_date": "2026-04-13T21:54:03Z"
   },
   {
-    "id": "hn-47741531",
-    "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-    "url": "https://github.com/imbue-ai/bouncer",
-    "points": 46,
-    "comments": 84,
+    "id": "hn-47755805",
+    "title": "Evaluation of Claude Mythos Preview's cyber capabilities",
+    "url": "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities",
+    "points": 51,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-04-12T16:24:46Z"
+    "published_date": "2026-04-13T18:08:14Z"
   },
   {
-    "id": "hn-47748123",
-    "title": "The AI Layoff Trap",
-    "url": "https://arxiv.org/abs/2603.20617",
-    "points": 44,
-    "comments": 69,
+    "id": "hn-47758343",
+    "title": "CIA reportedly used Pegasus software during rescue of airman in Iran",
+    "url": "https://www.timesofisrael.com/cia-reportedly-used-pegasus-software-for-deception-op-during-rescue-of-airman-in-iran/",
+    "points": 38,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-04-13T05:56:49Z"
+    "published_date": "2026-04-13T21:54:01Z"
   },
   {
-    "id": "hn-47743878",
-    "title": "The Moon Just Got a New Scar",
-    "url": "https://www.universetoday.com/articles/the-moon-just-got-a-new-scar",
-    "points": 16,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-12T20:06:38Z"
-  },
-  {
-    "id": "hn-47737642",
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "points": 13,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-04-12T09:29:02Z"
-  },
-  {
-    "id": "hn-47746849",
-    "title": "Tell HN: Reddit now demands to know why you won't use their app",
-    "url": "https://news.ycombinator.com/item?id=47746849",
-    "points": 13,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T02:24:55Z"
-  },
-  {
-    "id": "hn-47744905",
-    "title": "India's frugal AI models are a blueprint for resource-strapped nations",
-    "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
-    "points": 12,
+    "id": "hn-47754179",
+    "title": "Claude Code may be burning your limits with invisible tokens",
+    "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
+    "points": 37,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-04-12T21:47:33Z"
+    "published_date": "2026-04-13T16:10:15Z"
   },
   {
-    "id": "hn-47743326",
-    "title": "China lures home its top AI talent from Silicon Valley",
-    "url": "https://www.ft.com/content/b167c6d3-b982-482a-98c3-5303a7b80c6a",
-    "points": 11,
-    "comments": 1,
+    "id": "hn-47754192",
+    "title": "Claude Mythos: The System Card",
+    "url": "https://thezvi.substack.com/p/claude-mythos-the-system-card",
+    "points": 31,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-04-12T19:17:49Z"
+    "published_date": "2026-04-13T16:11:07Z"
+  },
+  {
+    "id": "hn-47762006",
+    "title": "Can Claude Fly a Plane?",
+    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+    "points": 30,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T06:32:45Z"
+  },
+  {
+    "id": "hn-47757033",
+    "title": "Google has the same AI adoption curve as John Deere",
+    "url": "https://twitter.com/i/status/2043747998740689171",
+    "points": 27,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-04-13T19:54:41Z"
   }
 ]
