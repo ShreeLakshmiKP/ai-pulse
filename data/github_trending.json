@@ -1,33 +1,10 @@
 [
   {
-    "id": "gh-1204520409",
-    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 414,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "claude-code",
-      "deep-learning",
-      "experiment-automation",
-      "gpu",
-      "hyperparameter-tuning",
-      "llm-agent",
-      "machine-learning",
-      "mlops",
-      "pytorch",
-      "research-automation"
-    ],
-    "created_at": "2026-04-08T04:48:26Z"
-  },
-  {
     "id": "gh-1209396858",
     "name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 284,
+    "stars": 558,
     "language": "PHP",
     "topics": [
       "ai",
@@ -46,7 +23,7 @@
     "name": "amitshekhariitbhu/llm-internals",
     "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
     "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "stars": 247,
+    "stars": 351,
     "language": null,
     "topics": [
       "attention-is-all-you-need",
@@ -63,7 +40,7 @@
     "name": "liyupi/yupi-skill",
     "description": "\ud83d\udc1f \u7a0b\u5e8f\u5458\u9c7c\u76ae Agent Skill\uff5c\u628a\u81ea\u5df1\u84b8\u998f\u6210 AI \u6280\u80fd\u5305\uff0c\u7528\u6211\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u8868\u8fbe\u98ce\u683c\u56de\u7b54\u7f16\u7a0b\u5b66\u4e60\u3001\u6c42\u804c\u9762\u8bd5\u3001AI \u7f16\u7a0b\u3001\u7b80\u5386\u4f18\u5316\u3001\u6280\u672f\u9009\u578b\u3001\u521b\u4e1a\u7ecf\u9a8c\u7b49\u95ee\u9898\u3002\u652f\u6301 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 162,
+    "stars": 176,
     "language": null,
     "topics": [
       "agent",
@@ -86,101 +63,11 @@
     "created_at": "2026-04-09T08:54:00Z"
   },
   {
-    "id": "gh-1207073386",
-    "name": "dengxianghua888-ops/ecoalign-forge",
-    "description": "Multi-Agent DPO Data Synthesis Factory \u2014 \u591a\u667a\u80fd\u4f53\u504f\u597d\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u5408\u6210\u6846\u67b6 | \u7ea2\u961f\u653b\u51fb \u2192 \u591apersona\u5ba1\u6838 \u2192 \u7ec8\u5ba1\u88c1\u51b3 \u2192 DPO\u504f\u597d\u5bf9",
-    "url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
-    "stars": 104,
-    "language": "Python",
-    "topics": [
-      "content-moderation",
-      "data-quality",
-      "dpo",
-      "llm",
-      "multi-agent",
-      "preference-learning",
-      "pydantic",
-      "red-teaming",
-      "rlhf",
-      "synthetic-data"
-    ],
-    "created_at": "2026-04-10T14:46:27Z"
-  },
-  {
-    "id": "gh-1204791292",
-    "name": "agi-now/buffett-skills",
-    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
-    "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 88,
-    "language": null,
-    "topics": [
-      "ai",
-      "btc",
-      "buffett",
-      "ethereum",
-      "finance",
-      "skills"
-    ],
-    "created_at": "2026-04-08T10:37:13Z"
-  },
-  {
-    "id": "gh-1208073571",
-    "name": "litmus4ai/litmus",
-    "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
-    "url": "https://github.com/litmus4ai/litmus",
-    "stars": 85,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "cli",
-      "cost-optimization",
-      "developer-tools",
-      "evaluation",
-      "llm",
-      "open-source",
-      "prompt-engineering",
-      "python",
-      "testing"
-    ],
-    "created_at": "2026-04-11T19:30:17Z"
-  },
-  {
-    "id": "gh-1204361785",
-    "name": "Pratiyush/llm-wiki",
-    "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern \u2014 implemented and shipped.",
-    "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 78,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude-code",
-      "cli",
-      "codex-cli",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "gemini-cli",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "markdown",
-      "mcp",
-      "obsidian",
-      "open-source",
-      "python",
-      "session-history",
-      "static-site",
-      "wiki"
-    ],
-    "created_at": "2026-04-08T00:07:14Z"
-  },
-  {
     "id": "gh-1207340595",
     "name": "run-llama/ParseBench",
     "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
     "url": "https://github.com/run-llama/ParseBench",
-    "stars": 70,
+    "stars": 135,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -198,11 +85,105 @@
     "created_at": "2026-04-10T20:46:33Z"
   },
   {
+    "id": "gh-1207073386",
+    "name": "dengxianghua888-ops/ecoalign-forge",
+    "description": "Multi-Agent DPO Data Synthesis Factory \u2014 \u591a\u667a\u80fd\u4f53\u504f\u597d\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u5408\u6210\u6846\u67b6 | \u7ea2\u961f\u653b\u51fb \u2192 \u591apersona\u5ba1\u6838 \u2192 \u7ec8\u5ba1\u88c1\u51b3 \u2192 DPO\u504f\u597d\u5bf9",
+    "url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+    "stars": 116,
+    "language": "Python",
+    "topics": [
+      "content-moderation",
+      "data-quality",
+      "dpo",
+      "llm",
+      "multi-agent",
+      "preference-learning",
+      "pydantic",
+      "red-teaming",
+      "rlhf",
+      "synthetic-data"
+    ],
+    "created_at": "2026-04-10T14:46:27Z"
+  },
+  {
+    "id": "gh-1208073571",
+    "name": "litmus4ai/litmus",
+    "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
+    "url": "https://github.com/litmus4ai/litmus",
+    "stars": 91,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "cost-optimization",
+      "developer-tools",
+      "evaluation",
+      "llm",
+      "open-source",
+      "prompt-engineering",
+      "python",
+      "testing"
+    ],
+    "created_at": "2026-04-11T19:30:17Z"
+  },
+  {
+    "id": "gh-1207745605",
+    "name": "ShaikhWarsi/free-ai-tools",
+    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+    "stars": 71,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-directory",
+      "ai-tools",
+      "ai-tools-directory",
+      "ai-tools-list",
+      "ai-top-tools",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-tools",
+      "awesome-list",
+      "best-ai-tools-2026",
+      "developer-resources",
+      "free-ai-tools",
+      "free-ai-tools-for-pc",
+      "open-source",
+      "theresanaiforthat",
+      "tools",
+      "vibe-coding",
+      "workflow"
+    ],
+    "created_at": "2026-04-11T10:46:47Z"
+  },
+  {
+    "id": "gh-1206404779",
+    "name": "AyanbekDos/memoriki",
+    "description": "Memoriki - LLM Wiki + MemPalace. Personal knowledge base with real memory.",
+    "url": "https://github.com/AyanbekDos/memoriki",
+    "stars": 61,
+    "language": null,
+    "topics": [
+      "claude-code",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "mcp",
+      "mempalace",
+      "obsidian",
+      "personal-wiki",
+      "rag-alternative",
+      "second-brain"
+    ],
+    "created_at": "2026-04-09T22:07:40Z"
+  },
+  {
     "id": "gh-1206519531",
     "name": "reacher-z/ClawBench",
-    "description": "Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 15 categories.",
+    "description": "Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 8 categories.",
     "url": "https://github.com/reacher-z/ClawBench",
-    "stars": 45,
+    "stars": 50,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -225,11 +206,27 @@
     "created_at": "2026-04-10T01:59:17Z"
   },
   {
+    "id": "gh-1205685325",
+    "name": "hardness1020/Leeway",
+    "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
+    "url": "https://github.com/hardness1020/Leeway",
+    "stars": 45,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "autonomous-agents",
+      "human-in-the-loop",
+      "own-your-data"
+    ],
+    "created_at": "2026-04-09T07:30:25Z"
+  },
+  {
     "id": "gh-1208029137",
     "name": "megeezy/Chameleon",
     "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
     "url": "https://github.com/megeezy/Chameleon",
-    "stars": 30,
+    "stars": 38,
     "language": "Rust",
     "topics": [
       "ai-infrastructure",
@@ -276,50 +273,53 @@
     "created_at": "2026-04-11T14:29:32Z"
   },
   {
-    "id": "gh-1204559601",
-    "name": "andresvourakis/ai-ds-job-market",
-    "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
-    "url": "https://github.com/andresvourakis/ai-ds-job-market",
-    "stars": 7,
+    "id": "gh-1206533762",
+    "name": "rookiemann/multi-turboquant",
+    "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
+    "url": "https://github.com/rookiemann/multi-turboquant",
+    "stars": 16,
     "language": "Python",
     "topics": [
-      "agentic-ai",
-      "agentic-analytics",
-      "data-analysis",
-      "data-science",
-      "generative-ai",
-      "job-market-analysis"
+      "attention",
+      "compression",
+      "cuda",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "kv-cache",
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "machine-learning",
+      "memory-optimization",
+      "model-serving",
+      "multi-gpu",
+      "nvidia",
+      "pytorch",
+      "quantization",
+      "transformer",
+      "turboquant",
+      "vllm"
     ],
-    "created_at": "2026-04-08T05:49:42Z"
+    "created_at": "2026-04-10T02:25:01Z"
   },
   {
-    "id": "gh-1204865369",
-    "name": "andresrodriguez55/knowledge-base",
-    "description": "Knowledge Copilot is a Retrieval-Augmented Generation (RAG) application with multi tenant isolation based on  LDAP for companies.  It allows organizations to interact with their private document libraries securely,  providing accurate answers with transparent quality scoring, source citations and traceability.",
-    "url": "https://github.com/andresrodriguez55/knowledge-base",
-    "stars": 6,
-    "language": "Java",
+    "id": "gh-1207994569",
+    "name": "Agent-FM/agentfm-core",
+    "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+    "url": "https://github.com/Agent-FM/agentfm-core",
+    "stars": 12,
+    "language": "Go",
     "topics": [
-      "enterprise",
+      "agents",
+      "decentralized",
       "generative-ai",
-      "kafka",
-      "ldap",
+      "go",
+      "gpu",
       "llm",
-      "multi-tenant",
-      "observability",
-      "ollama",
-      "outbox",
-      "pgvector",
-      "rag",
-      "s3",
-      "saga",
-      "spring",
-      "spring-ai",
-      "spring-boot",
-      "system-design",
-      "vector-database",
-      "zipkin"
+      "p2p",
+      "python"
     ],
-    "created_at": "2026-04-08T12:09:06Z"
+    "created_at": "2026-04-11T17:16:34Z"
   }
 ]

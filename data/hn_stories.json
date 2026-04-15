@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47757495",
-    "title": "GitHub Stacked PRs",
-    "url": "https://github.github.com/gh-stack/",
-    "points": 644,
-    "comments": 351,
+    "id": "hn-47768133",
+    "title": "Claude Code Routines",
+    "url": "https://code.claude.com/docs/en/routines",
+    "points": 572,
+    "comments": 339,
     "source": "Hacker News",
-    "published_date": "2026-04-13T20:36:49Z"
+    "published_date": "2026-04-14T16:54:33Z"
   },
   {
-    "id": "hn-47753472",
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "points": 403,
-    "comments": 222,
+    "id": "hn-47762901",
+    "title": "An AI Vibe Coding Horror Story",
+    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "points": 206,
+    "comments": 202,
     "source": "Hacker News",
-    "published_date": "2026-04-13T15:31:06Z"
+    "published_date": "2026-04-14T08:35:45Z"
   },
   {
-    "id": "hn-47758028",
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "points": 237,
-    "comments": 338,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T21:25:38Z"
-  },
-  {
-    "id": "hn-47751032",
-    "title": "AI could be the end of the digital wave, not the next big thing",
-    "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-    "points": 178,
-    "comments": 257,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T12:29:39Z"
-  },
-  {
-    "id": "hn-47749674",
-    "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-    "url": "https://github.com/brightbeanxyz/brightbean-studio",
-    "points": 177,
-    "comments": 120,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T09:26:56Z"
-  },
-  {
-    "id": "hn-47756569",
-    "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
-    "url": "https://www.ithihasas.in",
-    "points": 144,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T19:10:07Z"
-  },
-  {
-    "id": "hn-47759341",
-    "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
-    "url": "https://github.com/fabienmillet/WiiFin",
-    "points": 133,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T23:33:18Z"
-  },
-  {
-    "id": "hn-47753643",
-    "title": "Claude.ai down",
-    "url": "https://status.claude.com/incidents/6jd2m42f8mld",
-    "points": 128,
-    "comments": 123,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T15:41:08Z"
-  },
-  {
-    "id": "hn-47756772",
-    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
-    "url": "https://amd-gaia.ai/docs",
-    "points": 124,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T19:28:41Z"
-  },
-  {
-    "id": "hn-47757775",
-    "title": "The tech jobs bust is real. Don't blame AI (yet)",
-    "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
-    "points": 110,
-    "comments": 158,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T21:02:21Z"
-  },
-  {
-    "id": "hn-47759292",
-    "title": "The AI revolution in math has arrived",
-    "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-    "points": 79,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-04-13T23:26:04Z"
-  },
-  {
-    "id": "hn-47752402",
-    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-    "points": 76,
+    "id": "hn-47768339",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "points": 152,
     "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-04-13T14:21:29Z"
+    "published_date": "2026-04-14T17:09:43Z"
   },
   {
-    "id": "hn-47758863",
-    "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-    "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
-    "points": 66,
-    "comments": 60,
+    "id": "hn-47766370",
+    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "points": 130,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-04-13T22:40:26Z"
+    "published_date": "2026-04-14T14:48:46Z"
   },
   {
-    "id": "hn-47758347",
-    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
-    "url": "https://ndaybench.winfunc.com",
-    "points": 58,
-    "comments": 15,
+    "id": "hn-47764215",
+    "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
+    "url": "https://news.ycombinator.com/item?id=47764215",
+    "points": 110,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-04-13T21:54:03Z"
+    "published_date": "2026-04-14T11:31:19Z"
   },
   {
-    "id": "hn-47755805",
-    "title": "Evaluation of Claude Mythos Preview's cyber capabilities",
-    "url": "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities",
-    "points": 51,
-    "comments": 29,
+    "id": "hn-47765458",
+    "title": "Two Months After I Gave an AI $100 and No Instructions",
+    "url": "https://www.sebastian-jais.de/blog/two-months-alma-experiment",
+    "points": 90,
+    "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-04-13T18:08:14Z"
+    "published_date": "2026-04-14T13:34:24Z"
   },
   {
-    "id": "hn-47758343",
-    "title": "CIA reportedly used Pegasus software during rescue of airman in Iran",
-    "url": "https://www.timesofisrael.com/cia-reportedly-used-pegasus-software-for-deception-op-during-rescue-of-airman-in-iran/",
-    "points": 38,
-    "comments": 0,
+    "id": "hn-47766144",
+    "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
+    "url": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
+    "points": 63,
+    "comments": 86,
     "source": "Hacker News",
-    "published_date": "2026-04-13T21:54:01Z"
+    "published_date": "2026-04-14T14:29:55Z"
   },
   {
-    "id": "hn-47754179",
-    "title": "Claude Code may be burning your limits with invisible tokens",
-    "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
-    "points": 37,
-    "comments": 5,
+    "id": "hn-47766960",
+    "title": "AI will never be ethical or safe",
+    "url": "https://meiert.com/blog/ai-ethics-and-safety/",
+    "points": 59,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-04-13T16:10:15Z"
+    "published_date": "2026-04-14T15:30:48Z"
   },
   {
-    "id": "hn-47754192",
-    "title": "Claude Mythos: The System Card",
-    "url": "https://thezvi.substack.com/p/claude-mythos-the-system-card",
-    "points": 31,
-    "comments": 22,
+    "id": "hn-47767119",
+    "title": "Show HN: A memory database that forgets, consolidates, and detects contradiction",
+    "url": "https://github.com/yantrikos/yantrikdb-server",
+    "points": 47,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-04-13T16:11:07Z"
+    "published_date": "2026-04-14T15:41:01Z"
   },
   {
-    "id": "hn-47762006",
-    "title": "Can Claude Fly a Plane?",
-    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
-    "points": 30,
-    "comments": 20,
+    "id": "hn-47767606",
+    "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
+    "url": "https://kelet.ai/",
+    "points": 42,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-04-14T06:32:45Z"
+    "published_date": "2026-04-14T16:16:51Z"
   },
   {
-    "id": "hn-47757033",
-    "title": "Google has the same AI adoption curve as John Deere",
-    "url": "https://twitter.com/i/status/2043747998740689171",
-    "points": 27,
-    "comments": 26,
+    "id": "hn-47766164",
+    "title": "90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team",
+    "url": "https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed",
+    "points": 40,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-04-13T19:54:41Z"
+    "published_date": "2026-04-14T14:31:15Z"
+  },
+  {
+    "id": "hn-47766611",
+    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+    "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
+    "points": 36,
+    "comments": 77,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T15:06:38Z"
+  },
+  {
+    "id": "hn-47770020",
+    "title": "ClawRun \u2013 Deploy and manage AI agents in seconds",
+    "url": "https://github.com/clawrun-sh/clawrun",
+    "points": 28,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T19:12:09Z"
+  },
+  {
+    "id": "hn-47767928",
+    "title": "Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.",
+    "url": "https://news.ycombinator.com/item?id=47767928",
+    "points": 25,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T16:40:02Z"
+  },
+  {
+    "id": "hn-47774494",
+    "title": "GPT-5.4 Pro solves Erd\u0151s Problem #1196",
+    "url": "https://twitter.com/i/status/2044051379916882067",
+    "points": 21,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T03:48:56Z"
+  },
+  {
+    "id": "hn-47765746",
+    "title": "Ask HN: Who needs contributors? (April 2026)",
+    "url": "https://news.ycombinator.com/item?id=47765746",
+    "points": 18,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T13:58:08Z"
+  },
+  {
+    "id": "hn-47773295",
+    "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+    "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+    "points": 14,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T00:41:55Z"
+  },
+  {
+    "id": "hn-47772282",
+    "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+    "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+    "points": 14,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T22:27:53Z"
+  },
+  {
+    "id": "hn-47762851",
+    "title": "Show HN: A stateful UI runtime for reactive web apps in Go",
+    "url": "https://github.com/doors-dev/doors",
+    "points": 12,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T08:28:16Z"
+  },
+  {
+    "id": "hn-47772018",
+    "title": "Your codebase doesn't care how it got written",
+    "url": "https://robbyonrails.com/articles/2026/04/14/your-codebase-doesnt-care-how-it-got-written/",
+    "points": 12,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-04-14T21:57:06Z"
   }
 ]

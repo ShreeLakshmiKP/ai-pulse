@@ -341,6 +341,35 @@
     "image": null
   },
   {
+    "id": "rss-c3bd0794",
+    "title": "Building trust in the AI era with privacy-led UX",
+    "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 15 Apr 2026 06:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d9d61aaf",
+    "title": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
+    "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more \u2014 making Anthropic's current $380 billion valuation look like the relative bargain.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 15 Apr 2026 02:31:04 +0000",
+    "image": null
+  },
+  {
     "id": "rss-7edc0652",
     "title": "Rakuten fixes issues twice as fast with Codex",
     "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
@@ -1361,6 +1390,140 @@
     "image": null
   },
   {
+    "id": "rss-4126c0f4",
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 14 Apr 2026 18:09:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-459633ee",
+    "title": "Redefining the future of software engineering",
+    "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 14 Apr 2026 18:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0acbd692",
+    "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain",
+    "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 14 Apr 2026 17:13:03 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3f6d57e3",
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "summary": "Google is adding \u201cSkills\u201d to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini\u2019s browser integration.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 14 Apr 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a7d98974",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "summary": "Video showing Skills in Chrome",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 14 Apr 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1f90a2ae",
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 14 Apr 2026 15:30:49 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a5a09672",
+    "title": "The Download: the state of AI, and protecting bears with drones",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "tags": [],
+    "category": "Robotics",
+    "published_date": "Tue, 14 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a859eeda",
+    "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 14 Apr 2026 12:04:47 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9d31d8ec",
+    "title": "Coming soon: 10 Things That Matter in AI Right Now",
+    "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 14 Apr 2026 11:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c3d0ba01",
+    "title": "Bringing people together at AI for the Economy Forum",
+    "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 14 Apr 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-d79fd99f",
     "title": "OpenAI has bought AI personal finance startup Hiro",
     "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
@@ -1376,6 +1539,22 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 14 Apr 2026 00:23:33 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8ae7ef47",
+    "title": "Trusted access for the next era of cyber defense",
+    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "tags": [
+      "GPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 14 Apr 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -3314,6 +3493,22 @@
     "image": null
   },
   {
+    "id": "rss-f846584e",
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "tags": [
+      "Gemini",
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Mon, 13 Apr 2026 15:52:13 +0000",
+    "image": null
+  },
+  {
     "id": "rss-444cfbde",
     "title": "Why opinion on AI is so divided",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn\u2019t stand still, Stanford\u2019s AI Index, an annual roundup of key results and trends, is a chance to take a breath.",
@@ -4118,226 +4313,6 @@
     ],
     "category": "AI Models",
     "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-0ec8e2b4",
-    "title": "Analyzing data with ChatGPT",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/data-analysis",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-24f471f1",
-    "title": "Using projects in ChatGPT",
-    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/projects",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-901994fe",
-    "title": "ChatGPT for marketing teams",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/marketing",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-8a4fd43e",
-    "title": "Our response to the Axios developer tool compromise",
-    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/axios-developer-tool-compromise",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7724c21f",
-    "title": "Personalizing ChatGPT",
-    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/personalization",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-b4eded0a",
-    "title": "ChatGPT for managers",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/managers",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-819cd6fb",
-    "title": "ChatGPT for research",
-    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/research",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-d66239cd",
-    "title": "ChatGPT for operations teams",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/operations",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-fc916fc1",
-    "title": "ChatGPT for finance teams",
-    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/finance",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-59af07de",
-    "title": "Brainstorming with ChatGPT",
-    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/brainstorming",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-3573eb82",
-    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-    "summary": "Photos of animals being identified by the SpeciesNet AI model",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-    "tags": [
-      "open-source"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 06 Mar 2026 18:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-85dc1029",
-    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
-    "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 03 Apr 2026 20:35:34 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ae45489a",
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "tags": [
-      "startups",
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 03 Apr 2026 20:28:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6dd22ac3",
-    "title": "Anthropic ramps up its political activities with a new PAC",
-    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Policy",
-    "published_date": "Fri, 03 Apr 2026 20:22:18 +0000",
     "image": null
   }
 ]
