@@ -4,7 +4,7 @@
     "name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 558,
+    "stars": 717,
     "language": "PHP",
     "topics": [
       "ai",
@@ -19,11 +19,37 @@
     "created_at": "2026-04-13T11:42:03Z"
   },
   {
+    "id": "gh-1211361116",
+    "name": "Manavarya09/design-extract",
+    "description": "Extract the complete design language from any website \u2014 colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "stars": 427,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai",
+      "claude-code-plugin",
+      "cli",
+      "colors",
+      "css",
+      "design-system",
+      "design-tokens",
+      "npx",
+      "playwright",
+      "skills-sh",
+      "tailwind",
+      "typography",
+      "web-scraping"
+    ],
+    "created_at": "2026-04-15T10:11:22Z"
+  },
+  {
     "id": "gh-1208339803",
     "name": "amitshekhariitbhu/llm-internals",
     "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
     "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "stars": 351,
+    "stars": 426,
     "language": null,
     "topics": [
       "attention-is-all-you-need",
@@ -36,38 +62,87 @@
     "created_at": "2026-04-12T06:17:33Z"
   },
   {
-    "id": "gh-1205759917",
-    "name": "liyupi/yupi-skill",
-    "description": "\ud83d\udc1f \u7a0b\u5e8f\u5458\u9c7c\u76ae Agent Skill\uff5c\u628a\u81ea\u5df1\u84b8\u998f\u6210 AI \u6280\u80fd\u5305\uff0c\u7528\u6211\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u8868\u8fbe\u98ce\u683c\u56de\u7b54\u7f16\u7a0b\u5b66\u4e60\u3001\u6c42\u804c\u9762\u8bd5\u3001AI \u7f16\u7a0b\u3001\u7b80\u5386\u4f18\u5316\u3001\u6280\u672f\u9009\u578b\u3001\u521b\u4e1a\u7ecf\u9a8c\u7b49\u95ee\u9898\u3002\u652f\u6301 Claude Code / Cursor / OpenClaw",
-    "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 176,
+    "id": "gh-1210412315",
+    "name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stars": 424,
     "language": null,
     "topics": [
-      "agent",
-      "agent-skills",
       "ai",
-      "ai-coding",
-      "career",
-      "claude-code",
-      "codefather",
-      "cursor",
-      "interview",
-      "java",
-      "opensource",
-      "programming",
-      "resume",
-      "skill",
-      "skills",
-      "yupi"
+      "builders",
+      "indiehackers"
     ],
-    "created_at": "2026-04-09T08:54:00Z"
+    "created_at": "2026-04-14T11:48:05Z"
+  },
+  {
+    "id": "gh-1207231932",
+    "name": "mohi-devhub/antivibe",
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
+    "url": "https://github.com/mohi-devhub/antivibe",
+    "stars": 419,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "claude-code",
+      "claude-code-skill",
+      "code-explanation",
+      "education",
+      "learning",
+      "vibecoding"
+    ],
+    "created_at": "2026-04-10T18:07:20Z"
+  },
+  {
+    "id": "gh-1206704534",
+    "name": "Tencent-Hunyuan/HY-World-2.0",
+    "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "stars": 397,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "ai",
+      "worldmodel"
+    ],
+    "created_at": "2026-04-10T07:09:43Z"
+  },
+  {
+    "id": "gh-1207639951",
+    "name": "EKKOLearnAI/hermes-web-ui",
+    "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 266,
+    "language": "Vue",
+    "topics": [
+      "ai-agent",
+      "chat-ui",
+      "chatbot",
+      "cron-jobs",
+      "dashboard",
+      "discord-bot",
+      "hermes-agent",
+      "i18n",
+      "llm",
+      "multi-platform",
+      "naive-ui",
+      "nousresearch",
+      "session-management",
+      "slack-bot",
+      "telegram-bot",
+      "typescript",
+      "vue3",
+      "web-terminal",
+      "whatsapp"
+    ],
+    "created_at": "2026-04-11T07:38:18Z"
   },
   {
     "id": "gh-1207340595",
     "name": "run-llama/ParseBench",
     "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
     "url": "https://github.com/run-llama/ParseBench",
-    "stars": 135,
+    "stars": 161,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -89,7 +164,7 @@
     "name": "dengxianghua888-ops/ecoalign-forge",
     "description": "Multi-Agent DPO Data Synthesis Factory \u2014 \u591a\u667a\u80fd\u4f53\u504f\u597d\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u5408\u6210\u6846\u67b6 | \u7ea2\u961f\u653b\u51fb \u2192 \u591apersona\u5ba1\u6838 \u2192 \u7ec8\u5ba1\u88c1\u51b3 \u2192 DPO\u504f\u597d\u5bf9",
     "url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
-    "stars": 116,
+    "stars": 126,
     "language": "Python",
     "topics": [
       "content-moderation",
@@ -110,7 +185,7 @@
     "name": "litmus4ai/litmus",
     "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 91,
+    "stars": 93,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -127,63 +202,11 @@
     "created_at": "2026-04-11T19:30:17Z"
   },
   {
-    "id": "gh-1207745605",
-    "name": "ShaikhWarsi/free-ai-tools",
-    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
-    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 71,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-directory",
-      "ai-tools",
-      "ai-tools-directory",
-      "ai-tools-list",
-      "ai-top-tools",
-      "awesome",
-      "awesome-ai",
-      "awesome-ai-tools",
-      "awesome-list",
-      "best-ai-tools-2026",
-      "developer-resources",
-      "free-ai-tools",
-      "free-ai-tools-for-pc",
-      "open-source",
-      "theresanaiforthat",
-      "tools",
-      "vibe-coding",
-      "workflow"
-    ],
-    "created_at": "2026-04-11T10:46:47Z"
-  },
-  {
-    "id": "gh-1206404779",
-    "name": "AyanbekDos/memoriki",
-    "description": "Memoriki - LLM Wiki + MemPalace. Personal knowledge base with real memory.",
-    "url": "https://github.com/AyanbekDos/memoriki",
-    "stars": 61,
-    "language": null,
-    "topics": [
-      "claude-code",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "mcp",
-      "mempalace",
-      "obsidian",
-      "personal-wiki",
-      "rag-alternative",
-      "second-brain"
-    ],
-    "created_at": "2026-04-09T22:07:40Z"
-  },
-  {
     "id": "gh-1206519531",
     "name": "reacher-z/ClawBench",
-    "description": "Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 8 categories.",
+    "description": "ClawBench \u2014 Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 8 categories.",
     "url": "https://github.com/reacher-z/ClawBench",
-    "stars": 50,
+    "stars": 54,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -192,13 +215,17 @@
       "benchmark",
       "browser-automation",
       "browser-use",
+      "chrome-extension",
+      "cli",
       "computer-use",
       "dataset",
       "deep-learning",
       "evaluation",
       "llm",
+      "llm-evaluation",
       "machine-learning",
       "nlp",
+      "python",
       "research",
       "web-agents",
       "web-automation"
@@ -206,27 +233,11 @@
     "created_at": "2026-04-10T01:59:17Z"
   },
   {
-    "id": "gh-1205685325",
-    "name": "hardness1020/Leeway",
-    "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
-    "url": "https://github.com/hardness1020/Leeway",
-    "stars": 45,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "autonomous-agents",
-      "human-in-the-loop",
-      "own-your-data"
-    ],
-    "created_at": "2026-04-09T07:30:25Z"
-  },
-  {
     "id": "gh-1208029137",
     "name": "megeezy/Chameleon",
     "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
     "url": "https://github.com/megeezy/Chameleon",
-    "stars": 38,
+    "stars": 40,
     "language": "Rust",
     "topics": [
       "ai-infrastructure",
@@ -241,43 +252,30 @@
     "created_at": "2026-04-11T18:12:06Z"
   },
   {
-    "id": "gh-1205620084",
-    "name": "tentime/implementations",
-    "description": "Historic machine learning implementations",
-    "url": "https://github.com/tentime/implementations",
-    "stars": 23,
-    "language": "Python",
+    "id": "gh-1207994569",
+    "name": "Agent-FM/agentfm-core",
+    "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+    "url": "https://github.com/Agent-FM/agentfm-core",
+    "stars": 22,
+    "language": "Go",
     "topics": [
-      "machine-learning",
-      "machine-learning-algorithms"
+      "agents",
+      "decentralized",
+      "generative-ai",
+      "go",
+      "gpu",
+      "llm",
+      "p2p",
+      "python"
     ],
-    "created_at": "2026-04-09T06:05:15Z"
-  },
-  {
-    "id": "gh-1207881093",
-    "name": "nurtilekgalimov/cleanmol",
-    "description": "Reproducible cleaning and standardization of SMILES-based chemical datasets",
-    "url": "https://github.com/nurtilekgalimov/cleanmol",
-    "stars": 16,
-    "language": "Python",
-    "topics": [
-      "cheminformatics",
-      "data-cleaning",
-      "drug-discovery",
-      "machine-learning",
-      "molecular-data",
-      "python",
-      "rdkit",
-      "smiles"
-    ],
-    "created_at": "2026-04-11T14:29:32Z"
+    "created_at": "2026-04-11T17:16:34Z"
   },
   {
     "id": "gh-1206533762",
     "name": "rookiemann/multi-turboquant",
     "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
     "url": "https://github.com/rookiemann/multi-turboquant",
-    "stars": 16,
+    "stars": 18,
     "language": "Python",
     "topics": [
       "attention",
@@ -304,22 +302,22 @@
     "created_at": "2026-04-10T02:25:01Z"
   },
   {
-    "id": "gh-1207994569",
-    "name": "Agent-FM/agentfm-core",
-    "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-    "url": "https://github.com/Agent-FM/agentfm-core",
-    "stars": 12,
-    "language": "Go",
+    "id": "gh-1207881093",
+    "name": "nurtilekgalimov/cleanmol",
+    "description": "Reproducible cleaning and standardization of SMILES-based chemical datasets",
+    "url": "https://github.com/nurtilekgalimov/cleanmol",
+    "stars": 18,
+    "language": "Python",
     "topics": [
-      "agents",
-      "decentralized",
-      "generative-ai",
-      "go",
-      "gpu",
-      "llm",
-      "p2p",
-      "python"
+      "cheminformatics",
+      "data-cleaning",
+      "drug-discovery",
+      "machine-learning",
+      "molecular-data",
+      "python",
+      "rdkit",
+      "smiles"
     ],
-    "created_at": "2026-04-11T17:16:34Z"
+    "created_at": "2026-04-11T14:29:32Z"
   }
 ]

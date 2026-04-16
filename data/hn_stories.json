@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47768133",
-    "title": "Claude Code Routines",
-    "url": "https://code.claude.com/docs/en/routines",
-    "points": 572,
-    "comments": 339,
+    "id": "hn-47777209",
+    "title": "Backpacks got worse on purpose",
+    "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+    "points": 403,
+    "comments": 368,
     "source": "Hacker News",
-    "published_date": "2026-04-14T16:54:33Z"
+    "published_date": "2026-04-15T10:42:28Z"
   },
   {
-    "id": "hn-47762901",
-    "title": "An AI Vibe Coding Horror Story",
-    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-    "points": 206,
-    "comments": 202,
+    "id": "hn-47786791",
+    "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+    "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+    "points": 273,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-04-14T08:35:45Z"
+    "published_date": "2026-04-15T23:36:56Z"
   },
   {
-    "id": "hn-47768339",
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "points": 152,
-    "comments": 75,
+    "id": "hn-47779730",
+    "title": "Elevated errors on Claude.ai, API, Claude Code",
+    "url": "https://claudestatus.com/",
+    "points": 242,
+    "comments": 218,
     "source": "Hacker News",
-    "published_date": "2026-04-14T17:09:43Z"
+    "published_date": "2026-04-15T14:44:00Z"
   },
   {
-    "id": "hn-47766370",
-    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
-    "url": "https://github.com/ginlix-ai/langalpha",
-    "points": 130,
-    "comments": 42,
+    "id": "hn-47785053",
+    "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+    "url": "https://github.com/gastownhall/gastown/issues/3649",
+    "points": 229,
+    "comments": 112,
     "source": "Hacker News",
-    "published_date": "2026-04-14T14:48:46Z"
+    "published_date": "2026-04-15T20:49:48Z"
   },
   {
-    "id": "hn-47764215",
-    "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
-    "url": "https://news.ycombinator.com/item?id=47764215",
-    "points": 110,
-    "comments": 73,
+    "id": "hn-47783024",
+    "title": "AI-assisted cognition endangers human development?",
+    "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+    "points": 221,
+    "comments": 174,
     "source": "Hacker News",
-    "published_date": "2026-04-14T11:31:19Z"
+    "published_date": "2026-04-15T18:16:50Z"
   },
   {
-    "id": "hn-47765458",
-    "title": "Two Months After I Gave an AI $100 and No Instructions",
-    "url": "https://www.sebastian-jais.de/blog/two-months-alma-experiment",
-    "points": 90,
-    "comments": 107,
+    "id": "hn-47779094",
+    "title": "Gemini Robotics-ER 1.6",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "points": 208,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-04-14T13:34:24Z"
+    "published_date": "2026-04-15T14:02:31Z"
   },
   {
-    "id": "hn-47766144",
-    "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
-    "url": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
-    "points": 63,
-    "comments": 86,
+    "id": "hn-47778308",
+    "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+    "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+    "points": 148,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-04-14T14:29:55Z"
+    "published_date": "2026-04-15T12:51:13Z"
   },
   {
-    "id": "hn-47766960",
-    "title": "AI will never be ethical or safe",
-    "url": "https://meiert.com/blog/ai-ethics-and-safety/",
-    "points": 59,
-    "comments": 31,
+    "id": "hn-47782256",
+    "title": "The Gemini app is now on Mac",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+    "points": 132,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-04-14T15:30:48Z"
+    "published_date": "2026-04-15T17:25:52Z"
   },
   {
-    "id": "hn-47767119",
-    "title": "Show HN: A memory database that forgets, consolidates, and detects contradiction",
-    "url": "https://github.com/yantrikos/yantrikdb-server",
-    "points": 47,
-    "comments": 31,
+    "id": "hn-47778920",
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "points": 122,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-04-14T15:41:01Z"
+    "published_date": "2026-04-15T13:47:40Z"
   },
   {
-    "id": "hn-47767606",
-    "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
-    "url": "https://kelet.ai/",
-    "points": 42,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-04-14T16:16:51Z"
-  },
-  {
-    "id": "hn-47766164",
-    "title": "90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team",
-    "url": "https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed",
-    "points": 40,
+    "id": "hn-47778762",
+    "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
+    "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
+    "points": 97,
     "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-04-14T14:31:15Z"
+    "published_date": "2026-04-15T13:34:44Z"
   },
   {
-    "id": "hn-47766611",
-    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
-    "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
-    "points": 36,
-    "comments": 77,
+    "id": "hn-47781998",
+    "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+    "url": "https://seqpu.com/CPUsArentDead/",
+    "points": 95,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-04-14T15:06:38Z"
+    "published_date": "2026-04-15T17:07:36Z"
   },
   {
-    "id": "hn-47770020",
-    "title": "ClawRun \u2013 Deploy and manage AI agents in seconds",
-    "url": "https://github.com/clawrun-sh/clawrun",
-    "points": 28,
+    "id": "hn-47780971",
+    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+    "url": "https://github.com/saffron-health/libretto",
+    "points": 93,
+    "comments": 33,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T15:57:54Z"
+  },
+  {
+    "id": "hn-47778038",
+    "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
+    "url": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility",
+    "points": 86,
+    "comments": 70,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T12:20:13Z"
+  },
+  {
+    "id": "hn-47777882",
+    "title": "New bill would let New Yorkers hang solar panels from windows",
+    "url": "https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows",
+    "points": 67,
+    "comments": 91,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T11:58:28Z"
+  },
+  {
+    "id": "hn-47787368",
+    "title": "Amazon AI Cancelling Webcomics",
+    "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+    "points": 59,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-04-14T19:12:09Z"
+    "published_date": "2026-04-16T00:52:33Z"
   },
   {
-    "id": "hn-47767928",
-    "title": "Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.",
-    "url": "https://news.ycombinator.com/item?id=47767928",
-    "points": 25,
-    "comments": 7,
+    "id": "hn-47783427",
+    "title": "Tesla 'Full Self-Driving' crashed through railroad gate seconds before train",
+    "url": "https://electrek.co/2026/04/15/tesla-fsd-railroad-gate-oncoming-train-texas-owner/",
+    "points": 57,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-04-14T16:40:02Z"
+    "published_date": "2026-04-15T18:45:42Z"
   },
   {
-    "id": "hn-47774494",
-    "title": "GPT-5.4 Pro solves Erd\u0151s Problem #1196",
-    "url": "https://twitter.com/i/status/2044051379916882067",
-    "points": 21,
-    "comments": 9,
+    "id": "hn-47778050",
+    "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+    "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
+    "points": 53,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-04-15T03:48:56Z"
+    "published_date": "2026-04-15T12:21:47Z"
   },
   {
-    "id": "hn-47765746",
-    "title": "Ask HN: Who needs contributors? (April 2026)",
-    "url": "https://news.ycombinator.com/item?id=47765746",
+    "id": "hn-47788845",
+    "title": "Sal Khan's AI revolution hasn't happened yet",
+    "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+    "points": 44,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-04-16T05:05:44Z"
+  },
+  {
+    "id": "hn-47783984",
+    "title": "You cannot use the GNU (A)GPL to take software freedom away",
+    "url": "https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away",
+    "points": 31,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-15T19:26:21Z"
+  },
+  {
+    "id": "hn-47780199",
+    "title": "Show HN: Avec \u2013 iOS email app that lets you handle your Gmail inbox in seconds",
+    "url": "https://apps.apple.com/us/app/avec-email-app-for-gmail/id6742199038",
     "points": 18,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-04-14T13:58:08Z"
-  },
-  {
-    "id": "hn-47773295",
-    "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-    "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-    "points": 14,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-15T00:41:55Z"
-  },
-  {
-    "id": "hn-47772282",
-    "title": "What Claude Code's Source Revealed About AI Engineering Culture",
-    "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
-    "points": 14,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-14T22:27:53Z"
-  },
-  {
-    "id": "hn-47762851",
-    "title": "Show HN: A stateful UI runtime for reactive web apps in Go",
-    "url": "https://github.com/doors-dev/doors",
-    "points": 12,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-14T08:28:16Z"
-  },
-  {
-    "id": "hn-47772018",
-    "title": "Your codebase doesn't care how it got written",
-    "url": "https://robbyonrails.com/articles/2026/04/14/your-codebase-doesnt-care-how-it-got-written/",
-    "points": 12,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-04-14T21:57:06Z"
+    "published_date": "2026-04-15T15:09:08Z"
   }
 ]

@@ -341,6 +341,194 @@
     "image": null
   },
   {
+    "id": "rss-1c1d8c15",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 19:28:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-696d03a5",
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 18:55:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-327e18da",
+    "title": "LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+    "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 15 Apr 2026 18:51:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-989e1532",
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "tags": [
+      "funding"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 15 Apr 2026 18:38:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-bcc8348e",
+    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 15 Apr 2026 18:33:20 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1bce4c3e",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 15 Apr 2026 16:03:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-08d7a646",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 15 Apr 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-223f0246",
+    "title": "The Download: NASA\u2019s nuclear spacecraft and unveiling our AI 10",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 15 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7bef1b60",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 12:07:25 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-48e8499b",
+    "title": "Cyberscammers are bypassing banks\u2019 security with illicit tools sold on Telegram",
+    "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 11:26:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6682cff7",
+    "title": "The next evolution of the Agents SDK",
+    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1baee0e5",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Hcompany/holotab",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Apr 2026 09:25:20 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-5aee0099",
+    "title": "No one\u2019s sure if synthetic mirror life will kill us all",
+    "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-\u00adedge, irresistibly exciting ideas that the National Science Foundation should fund.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 15 Apr 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-c3bd0794",
     "title": "Building trust in the AI era with privacy-led UX",
     "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
@@ -4120,199 +4308,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Fri, 13 Mar 2026 15:16:55 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-60376fb9",
-    "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-    "tags": [
-      "Claude"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 13 Mar 2026 12:16:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d57bef48",
-    "title": "Future AI chips could be built on glass",
-    "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Fri, 13 Mar 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-82b94a27",
-    "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
-    "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 20:27:52 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ff1eb47d",
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
-    "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 16:41:34 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-359299c0",
-    "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
-    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "tags": [
-      "robotics",
-      "startups"
-    ],
-    "category": "Robotics",
-    "published_date": "Fri, 10 Apr 2026 16:38:43 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9067ba49",
-    "title": "What\u2019s in a name? Moderna\u2019s \u201cvaccine\u201d vs. \u201ctherapy\u201d dilemma",
-    "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine\u2014or an \u201cindividualized neoantigen treatment\u201d? That\u2019s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and e...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Fri, 10 Apr 2026 14:04:20 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-41818e7c",
-    "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-    "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Fri, 10 Apr 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c06200ad",
-    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; \u2014Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Fri, 10 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e3e78db8",
-    "title": "Constellations",
-    "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship\u2019s AI mind were left.&#160; Outside, the atmosphere registered as hostile to most organisms.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Fri, 10 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4a866cff",
-    "title": "Using custom GPTs",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/custom-gpts",
-    "tags": [
-      "GPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-81ca7d11",
-    "title": "ChatGPT for customer success teams",
-    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/customer-success",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-563d28f6",
-    "title": "Applications of AI at OpenAI",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/applications-of-ai",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-268ae8ef",
-    "title": "Research with ChatGPT",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/search-and-deep-research",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 10 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]
