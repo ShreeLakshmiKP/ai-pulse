@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47777209",
-    "title": "Backpacks got worse on purpose",
-    "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-    "points": 403,
-    "comments": 368,
+    "id": "hn-47793411",
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "points": 1668,
+    "comments": 1183,
     "source": "Hacker News",
-    "published_date": "2026-04-15T10:42:28Z"
+    "published_date": "2026-04-16T14:23:50Z"
   },
   {
-    "id": "hn-47786791",
-    "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-    "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-    "points": 273,
-    "comments": 126,
+    "id": "hn-47796469",
+    "title": "Codex for almost everything",
+    "url": "https://openai.com/index/codex-for-almost-everything/",
+    "points": 816,
+    "comments": 411,
     "source": "Hacker News",
-    "published_date": "2026-04-15T23:36:56Z"
+    "published_date": "2026-04-16T17:12:19Z"
   },
   {
-    "id": "hn-47779730",
-    "title": "Elevated errors on Claude.ai, API, Claude Code",
-    "url": "https://claudestatus.com/",
-    "points": 242,
-    "comments": 218,
+    "id": "hn-47791871",
+    "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+    "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+    "points": 383,
+    "comments": 278,
     "source": "Hacker News",
-    "published_date": "2026-04-15T14:44:00Z"
+    "published_date": "2026-04-16T12:13:30Z"
   },
   {
-    "id": "hn-47785053",
-    "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-    "url": "https://github.com/gastownhall/gastown/issues/3649",
-    "points": 229,
-    "comments": 112,
+    "id": "hn-47796830",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "points": 380,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-04-15T20:49:48Z"
+    "published_date": "2026-04-16T17:37:20Z"
   },
   {
-    "id": "hn-47783024",
-    "title": "AI-assisted cognition endangers human development?",
-    "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
-    "points": 221,
-    "comments": 174,
+    "id": "hn-47792538",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "points": 270,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-04-15T18:16:50Z"
+    "published_date": "2026-04-16T13:17:37Z"
   },
   {
-    "id": "hn-47779094",
-    "title": "Gemini Robotics-ER 1.6",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "points": 208,
-    "comments": 69,
+    "id": "hn-47791236",
+    "title": "AI cybersecurity is not proof of work",
+    "url": "https://antirez.com/news/163",
+    "points": 219,
+    "comments": 84,
     "source": "Hacker News",
-    "published_date": "2026-04-15T14:02:31Z"
+    "published_date": "2026-04-16T10:48:00Z"
   },
   {
-    "id": "hn-47778308",
-    "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-    "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
-    "points": 148,
-    "comments": 96,
+    "id": "hn-47794391",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "points": 193,
+    "comments": 262,
     "source": "Hacker News",
-    "published_date": "2026-04-15T12:51:13Z"
+    "published_date": "2026-04-16T15:13:13Z"
   },
   {
-    "id": "hn-47782256",
-    "title": "The Gemini app is now on Mac",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-    "points": 132,
-    "comments": 64,
+    "id": "hn-47792374",
+    "title": "Artifacts: Versioned storage that speaks Git",
+    "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+    "points": 188,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-04-15T17:25:52Z"
+    "published_date": "2026-04-16T13:02:03Z"
   },
   {
-    "id": "hn-47778920",
-    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "points": 122,
-    "comments": 94,
+    "id": "hn-47793493",
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/claude/opus",
+    "points": 186,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-04-15T13:47:40Z"
+    "published_date": "2026-04-16T14:29:09Z"
   },
   {
-    "id": "hn-47778762",
-    "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-    "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
-    "points": 97,
+    "id": "hn-47793546",
+    "title": "Claude Opus 4.7 Model Card",
+    "url": "https://anthropic.com/claude-opus-4-7-system-card",
+    "points": 168,
+    "comments": 79,
+    "source": "Hacker News",
+    "published_date": "2026-04-16T14:32:24Z"
+  },
+  {
+    "id": "hn-47800033",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "url": "https://github.com/gainsec/autoprober",
+    "points": 152,
     "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-04-15T13:34:44Z"
+    "published_date": "2026-04-16T21:56:37Z"
   },
   {
-    "id": "hn-47781998",
-    "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-    "url": "https://seqpu.com/CPUsArentDead/",
-    "points": 95,
-    "comments": 46,
+    "id": "hn-47792525",
+    "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+    "url": "https://github.com/SeanFDZ/macmind",
+    "points": 136,
+    "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-04-15T17:07:36Z"
+    "published_date": "2026-04-16T13:16:29Z"
   },
   {
-    "id": "hn-47780971",
-    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-    "url": "https://github.com/saffron-health/libretto",
-    "points": 93,
-    "comments": 33,
+    "id": "hn-47790791",
+    "title": "SDL bans AI-written commits",
+    "url": "https://github.com/libsdl-org/SDL/issues/15350",
+    "points": 121,
+    "comments": 121,
     "source": "Hacker News",
-    "published_date": "2026-04-15T15:57:54Z"
+    "published_date": "2026-04-16T09:40:43Z"
   },
   {
-    "id": "hn-47778038",
-    "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-    "url": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility",
-    "points": 86,
-    "comments": 70,
+    "id": "hn-47798244",
+    "title": "GPT\u2011Rosalind for life sciences research",
+    "url": "https://openai.com/index/introducing-gpt-rosalind/",
+    "points": 89,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-04-15T12:20:13Z"
+    "published_date": "2026-04-16T19:24:50Z"
   },
   {
-    "id": "hn-47777882",
-    "title": "New bill would let New Yorkers hang solar panels from windows",
-    "url": "https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows",
-    "points": 67,
-    "comments": 91,
+    "id": "hn-47794514",
+    "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
+    "url": "https://www.zatanna.ai/kampala",
+    "points": 85,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-04-15T11:58:28Z"
+    "published_date": "2026-04-16T15:19:54Z"
   },
   {
-    "id": "hn-47787368",
-    "title": "Amazon AI Cancelling Webcomics",
-    "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+    "id": "hn-47800765",
+    "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+    "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+    "points": 75,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-04-16T23:17:47Z"
+  },
+  {
+    "id": "hn-47801255",
+    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "points": 65,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-04-17T00:37:47Z"
+  },
+  {
+    "id": "hn-47790353",
+    "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
+    "url": "https://www.bbc.com/news/articles/c98mrepzgj7o",
+    "points": 63,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-04-16T08:43:51Z"
+  },
+  {
+    "id": "hn-47795468",
+    "title": "Show HN: Marky \u2013 A lightweight Markdown viewer for agentic coding",
+    "url": "https://github.com/GRVYDEV/marky",
     "points": 59,
-    "comments": 9,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-04-16T00:52:33Z"
+    "published_date": "2026-04-16T16:08:05Z"
   },
   {
-    "id": "hn-47783427",
-    "title": "Tesla 'Full Self-Driving' crashed through railroad gate seconds before train",
-    "url": "https://electrek.co/2026/04/15/tesla-fsd-railroad-gate-oncoming-train-texas-owner/",
-    "points": 57,
-    "comments": 21,
+    "id": "hn-47795872",
+    "title": "KLM cancels 160 flights due to fuel shortage",
+    "url": "https://www.theguardian.com/business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates",
+    "points": 54,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-04-15T18:45:42Z"
-  },
-  {
-    "id": "hn-47778050",
-    "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
-    "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
-    "points": 53,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-04-15T12:21:47Z"
-  },
-  {
-    "id": "hn-47788845",
-    "title": "Sal Khan's AI revolution hasn't happened yet",
-    "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-    "points": 44,
-    "comments": 51,
-    "source": "Hacker News",
-    "published_date": "2026-04-16T05:05:44Z"
-  },
-  {
-    "id": "hn-47783984",
-    "title": "You cannot use the GNU (A)GPL to take software freedom away",
-    "url": "https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away",
-    "points": 31,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-15T19:26:21Z"
-  },
-  {
-    "id": "hn-47780199",
-    "title": "Show HN: Avec \u2013 iOS email app that lets you handle your Gmail inbox in seconds",
-    "url": "https://apps.apple.com/us/app/avec-email-app-for-gmail/id6742199038",
-    "points": 18,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-15T15:09:08Z"
+    "published_date": "2026-04-16T16:31:24Z"
   }
 ]

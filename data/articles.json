@@ -2343,6 +2343,255 @@
     "image": null
   },
   {
+    "id": "rss-04229a26",
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 16 Apr 2026 22:55:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-02b113e7",
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 21:58:08 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-99528b3e",
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "tags": [
+      "funding"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 16 Apr 2026 20:41:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3050cb1e",
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "summary": "The new model, called \u03c00.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "tags": [
+      "robotics",
+      "startups"
+    ],
+    "category": "Robotics",
+    "published_date": "Thu, 16 Apr 2026 20:26:44 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-18597a1a",
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "tags": [
+      "agents",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 19:18:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-35335b85",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "summary": "AI Mode in Chrome",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 16 Apr 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5a44b789",
+    "title": "New ways to create personalized images in the Gemini app",
+    "summary": "Example images made with Personal Intelligence",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 16 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e099d86f",
+    "title": "Making AI operational in constrained public sector environments",
+    "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0498919b",
+    "title": "Treating enterprise AI as an operating layer",
+    "summary": "There\u2019s a fault line running through enterprise AI, and it\u2019s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks\u2014GPT versus Gemini, reasoning scores, and marginal capability gains.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "tags": [
+      "GPT",
+      "Gemini",
+      "benchmark"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e7584719",
+    "title": "The Download: cyberscammers\u2019 banking bypasses, and carbon removal troubles",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 16 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2e78f094",
+    "title": "Why having \u201chumans in the loop\u201d in an AI war is an illusion",
+    "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "Research",
+    "published_date": "Thu, 16 Apr 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a0464d43",
+    "title": "Codex for (almost) everything",
+    "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-18e2fb7f",
+    "title": "The noise we make is hurting animals. Can we learn to shut up?",
+    "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b6d50c92",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "tags": [
+      "GPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-a14aecd4",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "summary": "Leading security firms and enterprises join OpenAI\u2019s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "tags": [
+      "GPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-03222db2",
+    "title": "The PR you would have opened yourself",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/transformers-to-mlx",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-fbf6d8cd",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "tags": [
+      "transformers",
+      "multimodal"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-aeb248b6",
     "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
     "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter.",
@@ -4068,246 +4317,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Fri, 27 Mar 2026 13:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b68b1a70",
-    "title": "The Download: the internet\u2019s best weather app, and why people freeze their brains",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Fri, 27 Mar 2026 12:32:54 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fdd36f4a",
-    "title": "Here\u2019s why some people choose cryonics to store their bodies and brains after death",
-    "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Fri, 27 Mar 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-72915344",
-    "title": "David Sacks is done as AI czar \u2014 here\u2019s what he\u2019s doing instead",
-    "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 01:26:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cc04af85",
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 01:18:38 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f380ae2c",
-    "title": "Liberate your OpenClaw",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/liberate-your-openclaw",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Fri, 27 Mar 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-19bc3dbf",
-    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-    "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Fri, 20 Mar 2026 20:53:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3877adad",
-    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-    "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-    "tags": [
-      "robotics",
-      "NVIDIA"
-    ],
-    "category": "Robotics",
-    "published_date": "Fri, 20 Mar 2026 20:02:35 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0b4a347d",
-    "title": "Nvidia has an OpenClaw strategy. Do you?",
-    "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-    "tags": [
-      "NVIDIA"
-    ],
-    "category": "AI Policy",
-    "published_date": "Fri, 20 Mar 2026 19:48:38 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c0503e72",
-    "title": "Build a Domain-Specific Embedding Model in Under a Day",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Fri, 20 Mar 2026 19:38:16 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-8ef7a521",
-    "title": "WordPress.com now lets AI agents write and publish posts, and more",
-    "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 20 Mar 2026 16:43:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6cf291e9",
-    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Fri, 20 Mar 2026 14:14:46 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-426ce39d",
-    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Fri, 20 Mar 2026 13:15:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c2dfb4a4",
-    "title": "OpenAI is throwing everything into building a fully automated researcher",
-    "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-    "tags": [
-      "agents",
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Fri, 20 Mar 2026 11:57:16 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-503f2cae",
-    "title": "Mind-altering substances are (still) falling short in clinical trials",
-    "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Fri, 20 Mar 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ca731494",
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "VentureBeat AI",
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 16 Jan 2026 14:01:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-693c010c",
-    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever\u2019s Generalizable Agentic Retrieval Pipeline",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-    "tags": [
-      "agents",
-      "NVIDIA"
-    ],
-    "category": "AI Tools",
-    "published_date": "Fri, 13 Mar 2026 20:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-b8da9b79",
-    "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
-    "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Fri, 13 Mar 2026 15:16:55 +0000",
     "image": null
   }
 ]

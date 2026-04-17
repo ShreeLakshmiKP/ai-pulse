@@ -1,10 +1,24 @@
 [
   {
+    "id": "gh-1210412315",
+    "name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stars": 802,
+    "language": null,
+    "topics": [
+      "ai",
+      "builders",
+      "indiehackers"
+    ],
+    "created_at": "2026-04-14T11:48:05Z"
+  },
+  {
     "id": "gh-1209396858",
     "name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 717,
+    "stars": 774,
     "language": "PHP",
     "topics": [
       "ai",
@@ -23,7 +37,7 @@
     "name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website \u2014 colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 427,
+    "stars": 721,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -45,75 +59,12 @@
     "created_at": "2026-04-15T10:11:22Z"
   },
   {
-    "id": "gh-1208339803",
-    "name": "amitshekhariitbhu/llm-internals",
-    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
-    "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "stars": 426,
-    "language": null,
-    "topics": [
-      "attention-is-all-you-need",
-      "attention-mechanism",
-      "large-language-models",
-      "learn-llm",
-      "llm",
-      "llm-internals"
-    ],
-    "created_at": "2026-04-12T06:17:33Z"
-  },
-  {
-    "id": "gh-1210412315",
-    "name": "BuilderPulse/BuilderPulse",
-    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-    "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 424,
-    "language": null,
-    "topics": [
-      "ai",
-      "builders",
-      "indiehackers"
-    ],
-    "created_at": "2026-04-14T11:48:05Z"
-  },
-  {
-    "id": "gh-1207231932",
-    "name": "mohi-devhub/antivibe",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-    "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 419,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "claude-code",
-      "claude-code-skill",
-      "code-explanation",
-      "education",
-      "learning",
-      "vibecoding"
-    ],
-    "created_at": "2026-04-10T18:07:20Z"
-  },
-  {
-    "id": "gh-1206704534",
-    "name": "Tencent-Hunyuan/HY-World-2.0",
-    "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-    "stars": 397,
-    "language": "Python",
-    "topics": [
-      "3d",
-      "ai",
-      "worldmodel"
-    ],
-    "created_at": "2026-04-10T07:09:43Z"
-  },
-  {
     "id": "gh-1207639951",
     "name": "EKKOLearnAI/hermes-web-ui",
     "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
     "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-    "stars": 266,
-    "language": "Vue",
+    "stars": 589,
+    "language": "TypeScript",
     "topics": [
       "ai-agent",
       "chat-ui",
@@ -138,54 +89,49 @@
     "created_at": "2026-04-11T07:38:18Z"
   },
   {
-    "id": "gh-1207340595",
-    "name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 161,
-    "language": "Python",
+    "id": "gh-1208339803",
+    "name": "amitshekhariitbhu/llm-internals",
+    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "stars": 462,
+    "language": null,
     "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "large-language-models",
+      "learn-llm",
       "llm",
-      "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
+      "llm-internals"
     ],
-    "created_at": "2026-04-10T20:46:33Z"
+    "created_at": "2026-04-12T06:17:33Z"
   },
   {
-    "id": "gh-1207073386",
-    "name": "dengxianghua888-ops/ecoalign-forge",
-    "description": "Multi-Agent DPO Data Synthesis Factory \u2014 \u591a\u667a\u80fd\u4f53\u504f\u597d\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u5408\u6210\u6846\u67b6 | \u7ea2\u961f\u653b\u51fb \u2192 \u591apersona\u5ba1\u6838 \u2192 \u7ec8\u5ba1\u88c1\u51b3 \u2192 DPO\u504f\u597d\u5bf9",
-    "url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
-    "stars": 126,
-    "language": "Python",
+    "id": "gh-1210537388",
+    "name": "bergside/design-md-chrome",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+    "url": "https://github.com/bergside/design-md-chrome",
+    "stars": 316,
+    "language": "JavaScript",
     "topics": [
-      "content-moderation",
-      "data-quality",
-      "dpo",
-      "llm",
-      "multi-agent",
-      "preference-learning",
-      "pydantic",
-      "red-teaming",
-      "rlhf",
-      "synthetic-data"
+      "ai",
+      "chrome",
+      "chrome-extension",
+      "design-md",
+      "design-skills",
+      "extension",
+      "open-source",
+      "skills",
+      "skills-ai",
+      "typeui"
     ],
-    "created_at": "2026-04-10T14:46:27Z"
+    "created_at": "2026-04-14T14:10:22Z"
   },
   {
     "id": "gh-1208073571",
     "name": "litmus4ai/litmus",
     "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 93,
+    "stars": 94,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -202,35 +148,70 @@
     "created_at": "2026-04-11T19:30:17Z"
   },
   {
-    "id": "gh-1206519531",
-    "name": "reacher-z/ClawBench",
-    "description": "ClawBench \u2014 Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 8 categories.",
-    "url": "https://github.com/reacher-z/ClawBench",
-    "stars": 54,
+    "id": "gh-1210680182",
+    "name": "humanrouter/ddtree-mlx",
+    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support.",
+    "url": "https://github.com/humanrouter/ddtree-mlx",
+    "stars": 90,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-benchmark",
-      "autonomous-agents",
-      "benchmark",
-      "browser-automation",
-      "browser-use",
-      "chrome-extension",
-      "cli",
-      "computer-use",
-      "dataset",
-      "deep-learning",
-      "evaluation",
+      "apple-silicon",
+      "inference",
       "llm",
-      "llm-evaluation",
-      "machine-learning",
-      "nlp",
-      "python",
-      "research",
-      "web-agents",
-      "web-automation"
+      "mlx",
+      "speculative-decoding"
     ],
-    "created_at": "2026-04-10T01:59:17Z"
+    "created_at": "2026-04-14T16:47:04Z"
+  },
+  {
+    "id": "gh-1209857244",
+    "name": "SeanFDZ/macmind",
+    "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
+    "url": "https://github.com/SeanFDZ/macmind",
+    "stars": 60,
+    "language": "Python",
+    "topics": [
+      "attention",
+      "backpropagation",
+      "classic-mac",
+      "fft",
+      "hypercard",
+      "hypertalk",
+      "machine-learning",
+      "macintosh",
+      "neural-network",
+      "retrocomputing",
+      "transformer"
+    ],
+    "created_at": "2026-04-13T21:12:47Z"
+  },
+  {
+    "id": "gh-1211084450",
+    "name": "AIScientists-Dev/WorldSeed",
+    "description": "A world engine where AI agents live autonomously \u2014 define any scenario in YAML, watch stories emerge",
+    "url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "stars": 55,
+    "language": "Python",
+    "topics": [
+      "agent-based-simulation",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "emergent-behavior",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "multi-agent",
+      "multiagent",
+      "open-source",
+      "python",
+      "simulation",
+      "social-simulation",
+      "typescript"
+    ],
+    "created_at": "2026-04-15T03:47:21Z"
   },
   {
     "id": "gh-1208029137",
@@ -256,7 +237,7 @@
     "name": "Agent-FM/agentfm-core",
     "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
     "url": "https://github.com/Agent-FM/agentfm-core",
-    "stars": 22,
+    "stars": 32,
     "language": "Go",
     "topics": [
       "agents",
@@ -269,37 +250,6 @@
       "python"
     ],
     "created_at": "2026-04-11T17:16:34Z"
-  },
-  {
-    "id": "gh-1206533762",
-    "name": "rookiemann/multi-turboquant",
-    "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
-    "url": "https://github.com/rookiemann/multi-turboquant",
-    "stars": 18,
-    "language": "Python",
-    "topics": [
-      "attention",
-      "compression",
-      "cuda",
-      "deep-learning",
-      "gpu",
-      "inference",
-      "kv-cache",
-      "llama-cpp",
-      "llm",
-      "local-ai",
-      "machine-learning",
-      "memory-optimization",
-      "model-serving",
-      "multi-gpu",
-      "nvidia",
-      "pytorch",
-      "quantization",
-      "transformer",
-      "turboquant",
-      "vllm"
-    ],
-    "created_at": "2026-04-10T02:25:01Z"
   },
   {
     "id": "gh-1207881093",
@@ -319,5 +269,62 @@
       "smiles"
     ],
     "created_at": "2026-04-11T14:29:32Z"
+  },
+  {
+    "id": "gh-1208475763",
+    "name": "AyushBinjola1/Swar-Setu",
+    "description": "SwarSetu is an AI-powered multilingual platform that helps in the early detection and support of learning disabilities like dyslexia, dysgraphia, and dyscalculia through interactive assessments, voice support, and role-based dashboards for parents and teachers.",
+    "url": "https://github.com/AyushBinjola1/Swar-Setu",
+    "stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "accessibility",
+      "ai",
+      "child-development",
+      "dyscalculia",
+      "dysgraphia",
+      "dyslexia",
+      "early-detection",
+      "edtech",
+      "education",
+      "hackathon",
+      "healthcare",
+      "inclusive-education",
+      "learning-disability",
+      "machine-learning",
+      "multilingual",
+      "react",
+      "supabase",
+      "typescript",
+      "vite",
+      "voice-assistant"
+    ],
+    "created_at": "2026-04-12T10:36:31Z"
+  },
+  {
+    "id": "gh-1211525769",
+    "name": "pengrambo3-tech/zueshammer",
+    "description": "\u26a1 ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing ClaudeCode+OpenClaw+Hermes",
+    "url": "https://github.com/pengrambo3-tech/zueshammer",
+    "stars": 12,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "ai-assistant",
+      "artificial-intelligence",
+      "automation",
+      "claude-code",
+      "hermes",
+      "llm",
+      "machine-learning",
+      "openclaw",
+      "personal-assistant",
+      "python",
+      "super-agent",
+      "voice-ai",
+      "voice-assistant",
+      "voice-control"
+    ],
+    "created_at": "2026-04-15T13:32:44Z"
   }
 ]
