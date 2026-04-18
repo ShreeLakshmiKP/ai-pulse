@@ -2592,6 +2592,21 @@
     "image": null
   },
   {
+    "id": "rss-b1aed3d6",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ecom-rlve",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-aeb248b6",
     "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
     "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter.",
@@ -4302,21 +4317,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Fri, 27 Mar 2026 15:40:19 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ac034bac",
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 13:30:00 +0000",
     "image": null
   }
 ]

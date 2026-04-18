@@ -1,43 +1,10 @@
 [
   {
-    "id": "gh-1210412315",
-    "name": "BuilderPulse/BuilderPulse",
-    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-    "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 802,
-    "language": null,
-    "topics": [
-      "ai",
-      "builders",
-      "indiehackers"
-    ],
-    "created_at": "2026-04-14T11:48:05Z"
-  },
-  {
-    "id": "gh-1209396858",
-    "name": "yaojingang/GEOFlow",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-    "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 774,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "cms",
-      "content-automation",
-      "geo",
-      "openai-compatible",
-      "php",
-      "postgresql",
-      "seo"
-    ],
-    "created_at": "2026-04-13T11:42:03Z"
-  },
-  {
     "id": "gh-1211361116",
     "name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website \u2014 colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 721,
+    "stars": 905,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -59,41 +26,44 @@
     "created_at": "2026-04-15T10:11:22Z"
   },
   {
-    "id": "gh-1207639951",
-    "name": "EKKOLearnAI/hermes-web-ui",
-    "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-    "stars": 589,
-    "language": "TypeScript",
+    "id": "gh-1210412315",
+    "name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stars": 899,
+    "language": null,
     "topics": [
-      "ai-agent",
-      "chat-ui",
-      "chatbot",
-      "cron-jobs",
-      "dashboard",
-      "discord-bot",
-      "hermes-agent",
-      "i18n",
-      "llm",
-      "multi-platform",
-      "naive-ui",
-      "nousresearch",
-      "session-management",
-      "slack-bot",
-      "telegram-bot",
-      "typescript",
-      "vue3",
-      "web-terminal",
-      "whatsapp"
+      "ai",
+      "builders",
+      "indiehackers"
     ],
-    "created_at": "2026-04-11T07:38:18Z"
+    "created_at": "2026-04-14T11:48:05Z"
+  },
+  {
+    "id": "gh-1209396858",
+    "name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "stars": 799,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "cms",
+      "content-automation",
+      "geo",
+      "openai-compatible",
+      "php",
+      "postgresql",
+      "seo"
+    ],
+    "created_at": "2026-04-13T11:42:03Z"
   },
   {
     "id": "gh-1208339803",
     "name": "amitshekhariitbhu/llm-internals",
     "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
     "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "stars": 462,
+    "stars": 517,
     "language": null,
     "topics": [
       "attention-is-all-you-need",
@@ -110,7 +80,7 @@
     "name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 316,
+    "stars": 378,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -127,32 +97,30 @@
     "created_at": "2026-04-14T14:10:22Z"
   },
   {
-    "id": "gh-1208073571",
-    "name": "litmus4ai/litmus",
-    "description": "\u26a1 Unit tests for AI. Test prompts, compare models, save money.",
-    "url": "https://github.com/litmus4ai/litmus",
-    "stars": 94,
+    "id": "gh-1210996597",
+    "name": "Hainrixz/open-carrusel",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+    "url": "https://github.com/Hainrixz/open-carrusel",
+    "stars": 98,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "cli",
-      "cost-optimization",
-      "developer-tools",
-      "evaluation",
-      "llm",
-      "open-source",
-      "prompt-engineering",
-      "python",
-      "testing"
+      "carousel",
+      "claude",
+      "claude-code",
+      "instagram",
+      "local-first",
+      "nextjs",
+      "react"
     ],
-    "created_at": "2026-04-11T19:30:17Z"
+    "created_at": "2026-04-15T01:06:39Z"
   },
   {
     "id": "gh-1210680182",
     "name": "humanrouter/ddtree-mlx",
     "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support.",
     "url": "https://github.com/humanrouter/ddtree-mlx",
-    "stars": 90,
+    "stars": 95,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -164,11 +132,42 @@
     "created_at": "2026-04-14T16:47:04Z"
   },
   {
+    "id": "gh-1211084450",
+    "name": "AIScientists-Dev/WorldSeed",
+    "description": "A world engine where AI agents live autonomously \u2014 physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
+    "url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "stars": 94,
+    "language": "Python",
+    "topics": [
+      "agent-based-simulation",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "llm-agents",
+      "multi-agent",
+      "multi-agent-systems",
+      "open-source",
+      "python",
+      "simulation",
+      "social-simulation",
+      "typescript",
+      "world-models"
+    ],
+    "created_at": "2026-04-15T03:47:21Z"
+  },
+  {
     "id": "gh-1209857244",
     "name": "SeanFDZ/macmind",
     "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
     "url": "https://github.com/SeanFDZ/macmind",
-    "stars": 60,
+    "stars": 81,
     "language": "Python",
     "topics": [
       "attention",
@@ -186,89 +185,50 @@
     "created_at": "2026-04-13T21:12:47Z"
   },
   {
-    "id": "gh-1211084450",
-    "name": "AIScientists-Dev/WorldSeed",
-    "description": "A world engine where AI agents live autonomously \u2014 define any scenario in YAML, watch stories emerge",
-    "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 55,
-    "language": "Python",
+    "id": "gh-1209406857",
+    "name": "inhouseseo/superseo-skills",
+    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tu\u011fberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
+    "url": "https://github.com/inhouseseo/superseo-skills",
+    "stars": 50,
+    "language": null,
     "topics": [
-      "agent-based-simulation",
-      "agentic-ai",
-      "agents",
-      "ai",
       "ai-agents",
-      "autonomous-agents",
-      "emergent-behavior",
-      "generative-agents",
-      "generative-ai",
+      "ai-seo",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "content-marketing",
+      "google-search-console",
+      "link-building",
       "llm",
-      "multi-agent",
-      "multiagent",
-      "open-source",
-      "python",
-      "simulation",
-      "social-simulation",
-      "typescript"
+      "mcp",
+      "prompt-engineering",
+      "search-engine-optimization",
+      "semantic-seo",
+      "seo",
+      "seo-skills"
     ],
-    "created_at": "2026-04-15T03:47:21Z"
+    "created_at": "2026-04-13T11:54:39Z"
   },
   {
-    "id": "gh-1208029137",
-    "name": "megeezy/Chameleon",
-    "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
-    "url": "https://github.com/megeezy/Chameleon",
-    "stars": 40,
-    "language": "Rust",
+    "id": "gh-1208747975",
+    "name": "GadaaLabs/claude-code-on-steroids",
+    "description": "obra/superpowers extended \u2014 14\u219224 skills, 6 GadaaLabs engineering improvements, override infrastructure, one-command install",
+    "url": "https://github.com/GadaaLabs/claude-code-on-steroids",
+    "stars": 46,
+    "language": "Shell",
     "topics": [
-      "ai-infrastructure",
-      "generative-ai",
-      "latency-optimization",
+      "ai-engineering",
+      "claude-ai",
+      "claude-code",
+      "developer-tools",
       "llm",
-      "model-routing",
-      "model-scheduling",
-      "systems-programming",
-      "vram-optimization"
+      "mlops",
+      "productivity",
+      "prompt-engineering"
     ],
-    "created_at": "2026-04-11T18:12:06Z"
-  },
-  {
-    "id": "gh-1207994569",
-    "name": "Agent-FM/agentfm-core",
-    "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-    "url": "https://github.com/Agent-FM/agentfm-core",
-    "stars": 32,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "decentralized",
-      "generative-ai",
-      "go",
-      "gpu",
-      "llm",
-      "p2p",
-      "python"
-    ],
-    "created_at": "2026-04-11T17:16:34Z"
-  },
-  {
-    "id": "gh-1207881093",
-    "name": "nurtilekgalimov/cleanmol",
-    "description": "Reproducible cleaning and standardization of SMILES-based chemical datasets",
-    "url": "https://github.com/nurtilekgalimov/cleanmol",
-    "stars": 18,
-    "language": "Python",
-    "topics": [
-      "cheminformatics",
-      "data-cleaning",
-      "drug-discovery",
-      "machine-learning",
-      "molecular-data",
-      "python",
-      "rdkit",
-      "smiles"
-    ],
-    "created_at": "2026-04-11T14:29:32Z"
+    "created_at": "2026-04-12T17:37:19Z"
   },
   {
     "id": "gh-1208475763",
@@ -306,7 +266,7 @@
     "name": "pengrambo3-tech/zueshammer",
     "description": "\u26a1 ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing ClaudeCode+OpenClaw+Hermes",
     "url": "https://github.com/pengrambo3-tech/zueshammer",
-    "stars": 12,
+    "stars": 13,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -326,5 +286,54 @@
       "voice-control"
     ],
     "created_at": "2026-04-15T13:32:44Z"
+  },
+  {
+    "id": "gh-1210999518",
+    "name": "videlalvaro/emilio",
+    "description": "Transformer inference via unconventional compute: a single algebraic primitive, a tag-system scheduler, and Apple's Neural Engine through convolution.",
+    "url": "https://github.com/videlalvaro/emilio",
+    "stars": 9,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "inference",
+      "llm",
+      "machine-learning",
+      "metal",
+      "rust",
+      "transformer"
+    ],
+    "created_at": "2026-04-15T01:12:03Z"
+  },
+  {
+    "id": "gh-1208831062",
+    "name": "noah-sheldon/ai-dev-kit",
+    "description": "Production-ready AI dev workflow scaffold with 59 skills, 33 agents, hooks, and rules for Claude Code, Codex, Gemini CLI, Copilot CLI, Qwen Code, and OpenCode.",
+    "url": "https://github.com/noah-sheldon/ai-dev-kit",
+    "stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "agent-framework",
+      "ai-assistant",
+      "ci-cd",
+      "claude-code",
+      "claude-plugin",
+      "code-review",
+      "codex",
+      "copilot-cli",
+      "developer-tools",
+      "devops",
+      "gemini-cli",
+      "infrastructure-as-code",
+      "machine-learning",
+      "mcp-server",
+      "prompt-engineering",
+      "python",
+      "qwen-code",
+      "security-audit",
+      "tdd",
+      "typescript"
+    ],
+    "created_at": "2026-04-12T19:53:31Z"
   }
 ]
