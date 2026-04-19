@@ -1,128 +1,173 @@
 [
   {
-    "id": "hn-47806725",
-    "title": "Claude Design",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "points": 985,
-    "comments": 648,
+    "id": "hn-47818700",
+    "title": "Thoughts and feelings around Claude Design",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "points": 283,
+    "comments": 185,
     "source": "Hacker News",
-    "published_date": "2026-04-17T15:04:09Z"
+    "published_date": "2026-04-18T19:19:24Z"
   },
   {
-    "id": "hn-47807006",
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "points": 590,
-    "comments": 410,
+    "id": "hn-47818485",
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "points": 241,
+    "comments": 212,
     "source": "Hacker News",
-    "published_date": "2026-04-17T15:29:36Z"
+    "published_date": "2026-04-18T19:00:00Z"
   },
   {
-    "id": "hn-47808268",
-    "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
-    "url": "https://github.com/smol-machines/smolvm",
-    "points": 306,
-    "comments": 93,
+    "id": "hn-47817349",
+    "title": "PgQue: Zero-Bloat Postgres Queue",
+    "url": "https://github.com/NikolayS/pgque",
+    "points": 109,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-04-17T17:18:58Z"
+    "published_date": "2026-04-18T16:50:46Z"
   },
   {
-    "id": "hn-47807809",
-    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
-    "url": "https://github.com/paniclock/paniclock/",
-    "points": 176,
-    "comments": 69,
+    "id": "hn-47816629",
+    "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
+    "url": "https://github.com/drasimwagan/mdv",
+    "points": 108,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-17T16:38:44Z"
+    "published_date": "2026-04-18T15:24:39Z"
   },
   {
-    "id": "hn-47804708",
-    "title": "Silicon Valley is turning scientists into exploited gig workers?",
-    "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
-    "points": 119,
-    "comments": 100,
+    "id": "hn-47814073",
+    "title": "America Lost the Mandate of Heaven",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
+    "points": 96,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-04-17T11:22:05Z"
+    "published_date": "2026-04-18T07:56:18Z"
   },
   {
-    "id": "hn-47805998",
-    "title": "Scan your website to see how ready it is for AI agents",
-    "url": "https://isitagentready.com",
-    "points": 105,
-    "comments": 167,
+    "id": "hn-47817581",
+    "title": "Graphs that explain the state of AI in 2026",
+    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+    "points": 88,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-04-17T13:55:25Z"
+    "published_date": "2026-04-18T17:12:44Z"
   },
   {
-    "id": "hn-47812341",
-    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-    "url": "https://victorpoughon.github.io/interval-calculator/",
-    "points": 93,
-    "comments": 8,
+    "id": "hn-47819369",
+    "title": "Optimizing Ruby Path Methods",
+    "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+    "points": 86,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-04-18T01:15:43Z"
+    "published_date": "2026-04-18T20:42:29Z"
   },
   {
-    "id": "hn-47806899",
-    "title": "The Gregorio project \u2013 GPL tools for typesetting Gregorian chant",
-    "url": "https://gregorio-project.github.io/index.html",
+    "id": "hn-47820195",
+    "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+    "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+    "points": 63,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T22:46:13Z"
+  },
+  {
+    "id": "hn-47814832",
+    "title": "Claude Code Opus 4.7 keeps checking on malware",
+    "url": "https://news.ycombinator.com/item?id=47814832",
     "points": 60,
-    "comments": 9,
+    "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-04-17T15:20:45Z"
+    "published_date": "2026-04-18T10:46:17Z"
   },
   {
-    "id": "hn-47803524",
-    "title": "Ask HN: Building a solo business is impossible?",
-    "url": "https://news.ycombinator.com/item?id=47803524",
-    "points": 37,
-    "comments": 59,
+    "id": "hn-47814695",
+    "title": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-7",
+    "points": 33,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-04-17T07:55:18Z"
+    "published_date": "2026-04-18T10:19:30Z"
   },
   {
-    "id": "hn-47811601",
-    "title": "Maine Said No to New Data Centers. Other States Are Racing to Follow",
-    "url": "https://www.motherjones.com/environment/2026/04/maine-ai-data-center-moratorium-ban-energy-grid/",
-    "points": 31,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-04-17T23:13:16Z"
-  },
-  {
-    "id": "hn-47811748",
-    "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
-    "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
+    "id": "hn-47818324",
+    "title": "In the AI propaganda war, Iran is winning",
+    "url": "https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning",
     "points": 28,
-    "comments": 8,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-04-17T23:34:04Z"
+    "published_date": "2026-04-18T18:38:53Z"
   },
   {
-    "id": "hn-47807976",
-    "title": "Airline adds bunk beds for economy travelers but bans snacks, smells and cuddles",
-    "url": "https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b",
-    "points": 20,
-    "comments": 3,
+    "id": "hn-47817902",
+    "title": "Headless Everything for Personal AI",
+    "url": "https://interconnected.org/home/2026/04/18/headless",
+    "points": 19,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-17T16:55:04Z"
+    "published_date": "2026-04-18T17:49:22Z"
   },
   {
-    "id": "hn-47804807",
-    "title": "Ask HN: Getting depressed day by day, how to cope?",
-    "url": "https://news.ycombinator.com/item?id=47804807",
-    "points": 15,
-    "comments": 16,
+    "id": "hn-47820311",
+    "title": "Fake Claude site installs malware that gives attackers access to your computer",
+    "url": "https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer",
+    "points": 19,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-04-17T11:38:36Z"
+    "published_date": "2026-04-18T23:08:16Z"
   },
   {
-    "id": "hn-47809961",
-    "title": "Finding underpriced deals across secondary markets",
-    "url": "https://www.graby.ai",
-    "points": 12,
+    "id": "hn-47814068",
+    "title": "Claude Opus wrote a Chrome exploit for $2,283",
+    "url": "https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+    "points": 18,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T07:55:20Z"
+  },
+  {
+    "id": "hn-47819738",
+    "title": "Air Is Full of DNA",
+    "url": "https://www.nature.com/articles/d41586-026-01099-2",
+    "points": 17,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-04-17T20:02:36Z"
+    "published_date": "2026-04-18T21:38:46Z"
+  },
+  {
+    "id": "hn-47816462",
+    "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
+    "url": "https://blog.mulerun.com/p/ai-immortality-postmortem/",
+    "points": 14,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T15:03:03Z"
+  },
+  {
+    "id": "hn-47818830",
+    "title": "Hardware Is Hard?",
+    "url": "https://prdpx7.github.io/posts/hardware-is-hard/",
+    "points": 14,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T19:34:45Z"
+  },
+  {
+    "id": "hn-47816999",
+    "title": "The AI Doomers Who Are Playing with Fire",
+    "url": "https://gizmodo.com/the-ai-doomers-who-are-playing-with-fire-2000747606",
+    "points": 12,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T16:10:19Z"
+  },
+  {
+    "id": "hn-47819138",
+    "title": "Ask HN: How can I support the AI resistance movement financially?",
+    "url": "https://news.ycombinator.com/item?id=47819138",
+    "points": 11,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-04-18T20:10:18Z"
   }
 ]

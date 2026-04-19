@@ -3388,6 +3388,66 @@
     "image": null
   },
   {
+    "id": "rss-31e6d9ab",
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "tags": [
+      "robotics",
+      "safety"
+    ],
+    "category": "Robotics",
+    "published_date": "Sat, 18 Apr 2026 21:37:15 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-64b801fb",
+    "title": "AI chip startup Cerebras files for IPO",
+    "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "tags": [
+      "startups",
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 18 Apr 2026 19:19:11 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-bd8a430d",
+    "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+    "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 18 Apr 2026 14:56:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-81c41bfd",
+    "title": "The App Store is booming again, and AI may be why",
+    "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Sat, 18 Apr 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-23b7d3c1",
     "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
     "summary": "What is the Role of Mathematics in Modern Machine Learning? The past decade has witnessed a shift in how progress is made in machine learning.",
@@ -4258,65 +4318,6 @@
     "tags": [],
     "category": "AI Policy",
     "published_date": "Mon, 06 Apr 2026 02:30:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7543ce1b",
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/stadler",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-36489717",
-    "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
-    "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 21:44:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cdf638f5",
-    "title": "Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
-    "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 19:11:28 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-171cad61",
-    "title": "VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
-    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Fri, 27 Mar 2026 15:40:19 +0000",
     "image": null
   }
 ]
