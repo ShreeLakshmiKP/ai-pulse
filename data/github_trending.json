@@ -1,10 +1,39 @@
 [
   {
+    "id": "gh-1214346700",
+    "name": "kyegomez/OpenMythos",
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "stars": 2167,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "anthropic",
+      "attention",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-mythos",
+      "claude-sonnet",
+      "deepmind",
+      "gpt-5",
+      "gpt-7",
+      "jax",
+      "looped-transformers",
+      "ml",
+      "pytorch",
+      "sonnet",
+      "torch"
+    ],
+    "created_at": "2026-04-18T12:57:52Z"
+  },
+  {
     "id": "gh-1211361116",
     "name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1028,
+    "stars": 1104,
     "language": "JavaScript",
     "topics": [
       "accessibility",
@@ -35,7 +64,7 @@
     "name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 940,
+    "stars": 991,
     "language": null,
     "topics": [
       "ai",
@@ -45,30 +74,11 @@
     "created_at": "2026-04-14T11:48:05Z"
   },
   {
-    "id": "gh-1209396858",
-    "name": "yaojingang/GEOFlow",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-    "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 813,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "cms",
-      "content-automation",
-      "geo",
-      "openai-compatible",
-      "php",
-      "postgresql",
-      "seo"
-    ],
-    "created_at": "2026-04-13T11:42:03Z"
-  },
-  {
     "id": "gh-1210537388",
     "name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 432,
+    "stars": 488,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -85,32 +95,11 @@
     "created_at": "2026-04-14T14:10:22Z"
   },
   {
-    "id": "gh-1214346700",
-    "name": "kyegomez/OpenMythos",
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-    "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 185,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "attention",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "gpt-5",
-      "gpt-7",
-      "looped-transformers",
-      "ml",
-      "sonnet"
-    ],
-    "created_at": "2026-04-18T12:57:52Z"
-  },
-  {
     "id": "gh-1211084450",
     "name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously \u2014 physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 120,
+    "stars": 154,
     "language": "Python",
     "topics": [
       "agent-based-simulation",
@@ -141,7 +130,7 @@
     "name": "humanrouter/ddtree-mlx",
     "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support.",
     "url": "https://github.com/humanrouter/ddtree-mlx",
-    "stars": 101,
+    "stars": 106,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -153,89 +142,28 @@
     "created_at": "2026-04-14T16:47:04Z"
   },
   {
-    "id": "gh-1209857244",
-    "name": "SeanFDZ/macmind",
-    "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
-    "url": "https://github.com/SeanFDZ/macmind",
-    "stars": 87,
+    "id": "gh-1214914397",
+    "name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 75,
     "language": "Python",
     "topics": [
-      "attention",
-      "backpropagation",
-      "classic-mac",
-      "fft",
-      "hypercard",
-      "hypertalk",
-      "machine-learning",
-      "macintosh",
-      "neural-network",
-      "retrocomputing",
-      "transformer"
-    ],
-    "created_at": "2026-04-13T21:12:47Z"
-  },
-  {
-    "id": "gh-1209659708",
-    "name": "FreePeak/LeanKG",
-    "description": "LeanKG: Stop Burning Tokens. Start Coding Lean.",
-    "url": "https://github.com/FreePeak/LeanKG",
-    "stars": 55,
-    "language": "Rust",
-    "topics": [
-      "antigravity",
-      "claude-code",
-      "concise-context",
-      "cursor",
-      "gemini",
-      "graph-database",
-      "kilo-code",
-      "kn",
-      "knowledge-graph",
-      "lean-code",
-      "lean-context",
-      "lean-token",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "opencode",
-      "saving-token",
-      "token"
-    ],
-    "created_at": "2026-04-13T16:46:35Z"
-  },
-  {
-    "id": "gh-1209406857",
-    "name": "inhouseseo/superseo-skills",
-    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tu\u011fberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
-    "url": "https://github.com/inhouseseo/superseo-skills",
-    "stars": 52,
-    "language": null,
-    "topics": [
       "ai-agents",
-      "ai-seo",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "content-marketing",
-      "google-search-console",
-      "link-building",
       "llm",
-      "mcp",
       "prompt-engineering",
-      "search-engine-optimization",
-      "semantic-seo",
-      "seo",
-      "seo-skills"
+      "style-guide",
+      "technical-writing",
+      "writing-style"
     ],
-    "created_at": "2026-04-13T11:54:39Z"
+    "created_at": "2026-04-19T08:12:16Z"
   },
   {
     "id": "gh-1212803197",
     "name": "cablate/llm-atomic-wiki",
     "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
     "url": "https://github.com/cablate/llm-atomic-wiki",
-    "stars": 49,
+    "stars": 73,
     "language": "Shell",
     "topics": [
       "karpathy",
@@ -248,11 +176,29 @@
     "created_at": "2026-04-16T18:45:00Z"
   },
   {
+    "id": "gh-1211044158",
+    "name": "guo2001china/35gateway",
+    "description": "35m.ai \u65d7\u4e0b\u6e90\u7801\u5f00\u653e AI Gateway\uff0c\u6587\u672c/\u56fe\u7247/\u89c6\u9891/\u97f3\u9891/\u97f3\u4e50\u4e00\u952e\u63a5\u5165\uff0c\u652f\u6301\u591a\u4f9b\u5e94\u5546\u667a\u80fd\u8def\u7531\u4e0e\u81ea\u5e26 Key \u6df7\u5408\u4f7f\u7528\uff0c\u4e0d\u6d6a\u8d39\u6bcf\u4e00\u4efd\u7b97\u529b\u3002 Source-available AI gateway from 35m.ai for text, image, video, audio, and music. Supports smart multi-provider   routing and bring-your-own-key workflows without wasting compute.",
+    "url": "https://github.com/guo2001china/35gateway",
+    "stars": 46,
+    "language": "Python",
+    "topics": [
+      "ai-gateway",
+      "byok",
+      "llm",
+      "multimodal",
+      "private-deployment",
+      "self-hosted",
+      "source-available"
+    ],
+    "created_at": "2026-04-15T02:33:46Z"
+  },
+  {
     "id": "gh-1213260734",
     "name": "MatthewK78/Rose",
     "description": "\ud83c\udf39 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
     "url": "https://github.com/MatthewK78/Rose",
-    "stars": 20,
+    "stars": 22,
     "language": "Python",
     "topics": [
       "adam-optimizer",
@@ -278,32 +224,6 @@
     "created_at": "2026-04-17T07:43:47Z"
   },
   {
-    "id": "gh-1211525769",
-    "name": "pengrambo3-tech/zueshammer",
-    "description": "\u26a1 ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing ClaudeCode+OpenClaw+Hermes",
-    "url": "https://github.com/pengrambo3-tech/zueshammer",
-    "stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "ai-assistant",
-      "artificial-intelligence",
-      "automation",
-      "claude-code",
-      "hermes",
-      "llm",
-      "machine-learning",
-      "openclaw",
-      "personal-assistant",
-      "python",
-      "super-agent",
-      "voice-ai",
-      "voice-assistant",
-      "voice-control"
-    ],
-    "created_at": "2026-04-15T13:32:44Z"
-  },
-  {
     "id": "gh-1210999518",
     "name": "videlalvaro/emilio",
     "description": "Transformer inference via unconventional compute: a single algebraic primitive, a tag-system scheduler, and Apple's Neural Engine through convolution.",
@@ -326,7 +246,7 @@
     "name": "Arnav-Singh-5080/Ai-Credit-Intelligence-Engine",
     "description": "A smart AI-driven platform for credit risk analysis, enabling accurate loan eligibility prediction and data-driven financial decision-making.",
     "url": "https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine",
-    "stars": 8,
+    "stars": 10,
     "language": "Python",
     "topics": [
       "ai",
@@ -340,5 +260,75 @@
       "python"
     ],
     "created_at": "2026-04-16T20:11:12Z"
+  },
+  {
+    "id": "gh-1214451720",
+    "name": "gryszzz/OpenThymos",
+    "description": "Programmable Rust runtime framework for AI systems and LLMs. Interactive, agentic, and ledgered execution across models, tools, code, and real world workflows.",
+    "url": "https://github.com/gryszzz/OpenThymos",
+    "stars": 7,
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "autonomous-systems",
+      "capability-based-security",
+      "ledger",
+      "llm",
+      "local-ai",
+      "machine-action",
+      "machine-learning",
+      "rust",
+      "systems-programming"
+    ],
+    "created_at": "2026-04-18T15:42:52Z"
+  },
+  {
+    "id": "gh-1213537298",
+    "name": "thanos/ex_datalog",
+    "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
+    "url": "https://github.com/thanos/ex_datalog",
+    "stars": 7,
+    "language": "Elixir",
+    "topics": [
+      "data-science",
+      "database",
+      "elixir",
+      "infrence",
+      "knowledge",
+      "machine-learning"
+    ],
+    "created_at": "2026-04-17T13:40:59Z"
+  },
+  {
+    "id": "gh-1211661982",
+    "name": "pleasedodisturb/awesome-llm-token-optimization",
+    "description": "A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in production.",
+    "url": "https://github.com/pleasedodisturb/awesome-llm-token-optimization",
+    "stars": 5,
+    "language": null,
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "claude",
+      "context-window",
+      "cost-optimization",
+      "generative-ai",
+      "inference-optimization",
+      "kv-cache",
+      "large-language-models",
+      "llm",
+      "llm-cost",
+      "machine-learning",
+      "model-routing",
+      "openai",
+      "prompt-caching",
+      "prompt-compression",
+      "prompt-engineering",
+      "token-efficiency",
+      "token-optimization"
+    ],
+    "created_at": "2026-04-15T16:09:03Z"
   }
 ]

@@ -1,173 +1,182 @@
 [
   {
-    "id": "hn-47818700",
-    "title": "Thoughts and feelings around Claude Design",
-    "url": "https://samhenri.gold/blog/20260418-claude-design/",
-    "points": 283,
-    "comments": 185,
+    "id": "hn-47823270",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "points": 302,
+    "comments": 174,
     "source": "Hacker News",
-    "published_date": "2026-04-18T19:19:24Z"
+    "published_date": "2026-04-19T10:36:29Z"
   },
   {
-    "id": "hn-47818485",
-    "title": "College instructor turns to typewriters to curb AI-written work",
-    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-    "points": 241,
-    "comments": 212,
+    "id": "hn-47824068",
+    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+    "points": 268,
+    "comments": 176,
     "source": "Hacker News",
-    "published_date": "2026-04-18T19:00:00Z"
+    "published_date": "2026-04-19T13:13:09Z"
   },
   {
-    "id": "hn-47817349",
-    "title": "PgQue: Zero-Bloat Postgres Queue",
-    "url": "https://github.com/NikolayS/pgque",
-    "points": 109,
-    "comments": 30,
+    "id": "hn-47822940",
+    "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+    "url": "https://news.ycombinator.com/item?id=47822940",
+    "points": 258,
+    "comments": 118,
     "source": "Hacker News",
-    "published_date": "2026-04-18T16:50:46Z"
+    "published_date": "2026-04-19T09:17:12Z"
   },
   {
-    "id": "hn-47816629",
-    "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
-    "url": "https://github.com/drasimwagan/mdv",
-    "points": 108,
-    "comments": 39,
+    "id": "hn-47827383",
+    "title": "Swiss authorities want to reduce dependency on Microsoft",
+    "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+    "points": 209,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-04-18T15:24:39Z"
+    "published_date": "2026-04-19T20:25:29Z"
   },
   {
-    "id": "hn-47814073",
-    "title": "America Lost the Mandate of Heaven",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
-    "points": 96,
-    "comments": 104,
+    "id": "hn-47828225",
+    "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud",
+    "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+    "points": 153,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-04-18T07:56:18Z"
+    "published_date": "2026-04-19T22:30:19Z"
   },
   {
-    "id": "hn-47817581",
-    "title": "Graphs that explain the state of AI in 2026",
-    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-    "points": 88,
-    "comments": 53,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T17:12:44Z"
-  },
-  {
-    "id": "hn-47819369",
-    "title": "Optimizing Ruby Path Methods",
-    "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-    "points": 86,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T20:42:29Z"
-  },
-  {
-    "id": "hn-47820195",
-    "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-    "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-    "points": 63,
+    "id": "hn-47828896",
+    "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+    "url": "https://github.com/shivampkumar/trellis-mac",
+    "points": 146,
     "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-04-18T22:46:13Z"
+    "published_date": "2026-04-20T00:07:16Z"
   },
   {
-    "id": "hn-47814832",
-    "title": "Claude Code Opus 4.7 keeps checking on malware",
-    "url": "https://news.ycombinator.com/item?id=47814832",
-    "points": 60,
-    "comments": 56,
+    "id": "hn-47823460",
+    "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+    "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
+    "points": 124,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-04-18T10:46:17Z"
+    "published_date": "2026-04-19T11:17:27Z"
   },
   {
-    "id": "hn-47814695",
-    "title": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/claude-opus-4-7",
+    "id": "hn-47826104",
+    "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
+    "url": "https://www.vincentgregoire.com/faceoff/",
+    "points": 112,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T17:44:44Z"
+  },
+  {
+    "id": "hn-47826328",
+    "title": "Uber\u2019s Anthropic AI push hits a wall",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+    "points": 91,
+    "comments": 93,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T18:13:32Z"
+  },
+  {
+    "id": "hn-47829178",
+    "title": "Claude Token Counter, now with model comparisons",
+    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+    "points": 85,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T00:56:40Z"
+  },
+  {
+    "id": "hn-47827985",
+    "title": "CEOs admit AI had no impact on employment or productivity",
+    "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+    "points": 80,
+    "comments": 73,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T21:56:22Z"
+  },
+  {
+    "id": "hn-47828427",
+    "title": "Got an Old Kindle? It Might Not Work Anymore",
+    "url": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
+    "points": 71,
+    "comments": 54,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T22:56:32Z"
+  },
+  {
+    "id": "hn-47823362",
+    "title": "Why Zip drives dominated the 90s, then vanished almost overnight",
+    "url": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
+    "points": 70,
+    "comments": 94,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T10:55:38Z"
+  },
+  {
+    "id": "hn-47828853",
+    "title": "Sudo for Windows (2024)",
+    "url": "https://github.com/microsoft/sudo",
+    "points": 68,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T23:59:51Z"
+  },
+  {
+    "id": "hn-47826852",
+    "title": "I wrote a CHIP-8 emulator in my own programming language",
+    "url": "https://github.com/navid-m/chip8emu",
+    "points": 67,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T19:21:22Z"
+  },
+  {
+    "id": "hn-47828444",
+    "title": "Swiss AI Initiative (2023)",
+    "url": "https://www.swiss-ai.org",
+    "points": 63,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-04-19T22:58:35Z"
+  },
+  {
+    "id": "hn-47829058",
+    "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
+    "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
+    "points": 40,
+    "comments": 66,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T00:34:39Z"
+  },
+  {
+    "id": "hn-47825158",
+    "title": "Claude Brain",
+    "url": "https://github.com/memvid/claude-brain",
     "points": 33,
-    "comments": 2,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-04-18T10:19:30Z"
+    "published_date": "2026-04-19T15:48:13Z"
   },
   {
-    "id": "hn-47818324",
-    "title": "In the AI propaganda war, Iran is winning",
-    "url": "https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning",
-    "points": 28,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T18:38:53Z"
-  },
-  {
-    "id": "hn-47817902",
-    "title": "Headless Everything for Personal AI",
-    "url": "https://interconnected.org/home/2026/04/18/headless",
-    "points": 19,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T17:49:22Z"
-  },
-  {
-    "id": "hn-47820311",
-    "title": "Fake Claude site installs malware that gives attackers access to your computer",
-    "url": "https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer",
-    "points": 19,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T23:08:16Z"
-  },
-  {
-    "id": "hn-47814068",
-    "title": "Claude Opus wrote a Chrome exploit for $2,283",
-    "url": "https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
-    "points": 18,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T07:55:20Z"
-  },
-  {
-    "id": "hn-47819738",
-    "title": "Air Is Full of DNA",
-    "url": "https://www.nature.com/articles/d41586-026-01099-2",
-    "points": 17,
+    "id": "hn-47827370",
+    "title": "The time when we suffer from large amounts of AI slop is gone",
+    "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
+    "points": 29,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-04-18T21:38:46Z"
+    "published_date": "2026-04-19T20:24:18Z"
   },
   {
-    "id": "hn-47816462",
-    "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
-    "url": "https://blog.mulerun.com/p/ai-immortality-postmortem/",
-    "points": 14,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T15:03:03Z"
-  },
-  {
-    "id": "hn-47818830",
-    "title": "Hardware Is Hard?",
-    "url": "https://prdpx7.github.io/posts/hardware-is-hard/",
-    "points": 14,
+    "id": "hn-47823800",
+    "title": "Palantir's Manifesto and Karp's Dissertation",
+    "url": "https://xcancel.com/gothburz/status/2045633711299813488",
+    "points": 29,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-18T19:34:45Z"
-  },
-  {
-    "id": "hn-47816999",
-    "title": "The AI Doomers Who Are Playing with Fire",
-    "url": "https://gizmodo.com/the-ai-doomers-who-are-playing-with-fire-2000747606",
-    "points": 12,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T16:10:19Z"
-  },
-  {
-    "id": "hn-47819138",
-    "title": "Ask HN: How can I support the AI resistance movement financially?",
-    "url": "https://news.ycombinator.com/item?id=47819138",
-    "points": 11,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-18T20:10:18Z"
+    "published_date": "2026-04-19T12:27:10Z"
   }
 ]
