@@ -4,7 +4,7 @@
     "name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 2167,
+    "stars": 4793,
     "language": "Python",
     "topics": [
       "ai",
@@ -33,7 +33,7 @@
     "name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1104,
+    "stars": 1185,
     "language": "JavaScript",
     "topics": [
       "accessibility",
@@ -60,46 +60,42 @@
     "created_at": "2026-04-15T10:11:22Z"
   },
   {
-    "id": "gh-1210412315",
-    "name": "BuilderPulse/BuilderPulse",
-    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-    "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 991,
-    "language": null,
+    "id": "gh-1215974868",
+    "name": "cosmicstack-labs/mercury-agent",
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "stars": 216,
+    "language": "TypeScript",
     "topics": [
-      "ai",
-      "builders",
-      "indiehackers"
+      "ai-agent",
+      "ai-assistant",
+      "llm"
     ],
-    "created_at": "2026-04-14T11:48:05Z"
+    "created_at": "2026-04-20T12:46:31Z"
   },
   {
-    "id": "gh-1210537388",
-    "name": "bergside/design-md-chrome",
-    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-    "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 488,
-    "language": "JavaScript",
+    "id": "gh-1214914397",
+    "name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 164,
+    "language": "Python",
     "topics": [
-      "ai",
-      "chrome",
-      "chrome-extension",
-      "design-md",
-      "design-skills",
-      "extension",
-      "open-source",
-      "skills",
-      "skills-ai",
-      "typeui"
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
     ],
-    "created_at": "2026-04-14T14:10:22Z"
+    "created_at": "2026-04-19T08:12:16Z"
   },
   {
     "id": "gh-1211084450",
     "name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously \u2014 physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 154,
+    "stars": 156,
     "language": "Python",
     "topics": [
       "agent-based-simulation",
@@ -126,44 +122,51 @@
     "created_at": "2026-04-15T03:47:21Z"
   },
   {
-    "id": "gh-1210680182",
-    "name": "humanrouter/ddtree-mlx",
-    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support.",
-    "url": "https://github.com/humanrouter/ddtree-mlx",
-    "stars": 106,
-    "language": "Python",
+    "id": "gh-1210996597",
+    "name": "Hainrixz/open-carrusel",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+    "url": "https://github.com/Hainrixz/open-carrusel",
+    "stars": 149,
+    "language": "TypeScript",
     "topics": [
-      "apple-silicon",
-      "inference",
-      "llm",
-      "mlx",
-      "speculative-decoding"
+      "ai",
+      "carousel",
+      "claude",
+      "claude-code",
+      "instagram",
+      "local-first",
+      "nextjs",
+      "react"
     ],
-    "created_at": "2026-04-14T16:47:04Z"
+    "created_at": "2026-04-15T01:06:39Z"
   },
   {
-    "id": "gh-1214914397",
-    "name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 75,
-    "language": "Python",
+    "id": "gh-1213323614",
+    "name": "Blink-h/agent-startup-kit",
+    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+    "url": "https://github.com/Blink-h/agent-startup-kit",
+    "stars": 131,
+    "language": null,
     "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
+      "ai",
+      "ai-coding",
+      "claude-code",
+      "developer-tools",
+      "productivity",
+      "saas",
+      "skills",
+      "templates",
+      "vscode",
+      "workflow"
     ],
-    "created_at": "2026-04-19T08:12:16Z"
+    "created_at": "2026-04-17T09:03:55Z"
   },
   {
     "id": "gh-1212803197",
     "name": "cablate/llm-atomic-wiki",
     "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
     "url": "https://github.com/cablate/llm-atomic-wiki",
-    "stars": 73,
+    "stars": 87,
     "language": "Shell",
     "topics": [
       "karpathy",
@@ -176,29 +179,29 @@
     "created_at": "2026-04-16T18:45:00Z"
   },
   {
-    "id": "gh-1211044158",
-    "name": "guo2001china/35gateway",
-    "description": "35m.ai \u65d7\u4e0b\u6e90\u7801\u5f00\u653e AI Gateway\uff0c\u6587\u672c/\u56fe\u7247/\u89c6\u9891/\u97f3\u9891/\u97f3\u4e50\u4e00\u952e\u63a5\u5165\uff0c\u652f\u6301\u591a\u4f9b\u5e94\u5546\u667a\u80fd\u8def\u7531\u4e0e\u81ea\u5e26 Key \u6df7\u5408\u4f7f\u7528\uff0c\u4e0d\u6d6a\u8d39\u6bcf\u4e00\u4efd\u7b97\u529b\u3002 Source-available AI gateway from 35m.ai for text, image, video, audio, and music. Supports smart multi-provider   routing and bring-your-own-key workflows without wasting compute.",
-    "url": "https://github.com/guo2001china/35gateway",
-    "stars": 46,
+    "id": "gh-1211614110",
+    "name": "gameworld-project/gameworld",
+    "description": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+    "url": "https://github.com/gameworld-project/gameworld",
+    "stars": 79,
     "language": "Python",
     "topics": [
-      "ai-gateway",
-      "byok",
+      "agent",
+      "benchmark",
+      "computer-use",
+      "game",
+      "gui",
       "llm",
-      "multimodal",
-      "private-deployment",
-      "self-hosted",
-      "source-available"
+      "vlm"
     ],
-    "created_at": "2026-04-15T02:33:46Z"
+    "created_at": "2026-04-15T15:11:00Z"
   },
   {
     "id": "gh-1213260734",
     "name": "MatthewK78/Rose",
     "description": "\ud83c\udf39 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
     "url": "https://github.com/MatthewK78/Rose",
-    "stars": 22,
+    "stars": 24,
     "language": "Python",
     "topics": [
       "adam-optimizer",
@@ -262,43 +265,64 @@
     "created_at": "2026-04-16T20:11:12Z"
   },
   {
-    "id": "gh-1214451720",
-    "name": "gryszzz/OpenThymos",
-    "description": "Programmable Rust runtime framework for AI systems and LLMs. Interactive, agentic, and ledgered execution across models, tools, code, and real world workflows.",
-    "url": "https://github.com/gryszzz/OpenThymos",
-    "stars": 7,
-    "language": "Rust",
+    "id": "gh-1211946001",
+    "name": "theihtisham/agent-shadow-brain",
+    "description": "\ud83e\udde0 AI-powered background code analysis agent \u2014 neural mesh networking, pattern memory, predictive engine, adversarial defense. Works with Claude Code, VS Code, any IDE. npm install @theihtisham/agent-shadow-brain",
+    "url": "https://github.com/theihtisham/agent-shadow-brain",
+    "stars": 9,
+    "language": "TypeScript",
     "topics": [
-      "agent-framework",
-      "agentic-ai",
-      "autonomous-systems",
-      "capability-based-security",
-      "ledger",
+      "ai",
+      "ai-agent",
+      "artificial-intelligence",
+      "claude-code",
+      "code-analysis",
+      "code-quality",
+      "coding-assistant",
+      "deep-learning",
+      "developer-tools",
+      "devtools",
+      "hacktoberfest",
+      "ide",
+      "large-language-models",
       "llm",
-      "local-ai",
-      "machine-action",
       "machine-learning",
-      "rust",
-      "systems-programming"
+      "npm-package",
+      "productivity",
+      "static-analysis",
+      "typescript",
+      "vscode"
     ],
-    "created_at": "2026-04-18T15:42:52Z"
+    "created_at": "2026-04-15T23:03:31Z"
   },
   {
-    "id": "gh-1213537298",
-    "name": "thanos/ex_datalog",
-    "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
-    "url": "https://github.com/thanos/ex_datalog",
-    "stars": 7,
-    "language": "Elixir",
+    "id": "gh-1214820847",
+    "name": "kishormorol/CiteLens",
+    "description": "Discover the citing papers that matter most \u2014 ranked by impact, relevance, and influence",
+    "url": "https://github.com/kishormorol/CiteLens",
+    "stars": 9,
+    "language": "TypeScript",
     "topics": [
-      "data-science",
-      "database",
-      "elixir",
-      "infrence",
-      "knowledge",
-      "machine-learning"
+      "academic",
+      "academic-search",
+      "arxiv",
+      "bibliometrics",
+      "citation-analysis",
+      "doi",
+      "fastapi",
+      "knowledge-graph",
+      "literature-review",
+      "machine-learning",
+      "nlp",
+      "openalex",
+      "paper-recommendation",
+      "react",
+      "research-tools",
+      "scientific-literature",
+      "semantic-scholar",
+      "typescript"
     ],
-    "created_at": "2026-04-17T13:40:59Z"
+    "created_at": "2026-04-19T05:01:32Z"
   },
   {
     "id": "gh-1211661982",

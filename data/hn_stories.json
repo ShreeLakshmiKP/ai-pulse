@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47823270",
-    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-    "points": 302,
-    "comments": 174,
+    "id": "hn-47831621",
+    "title": "GitHub's fake star economy",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "points": 766,
+    "comments": 360,
     "source": "Hacker News",
-    "published_date": "2026-04-19T10:36:29Z"
+    "published_date": "2026-04-20T08:26:52Z"
   },
   {
-    "id": "hn-47824068",
-    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-    "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-    "points": 268,
-    "comments": 176,
+    "id": "hn-47833247",
+    "title": "Atlassian enables default data collection to train AI",
+    "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "points": 561,
+    "comments": 124,
     "source": "Hacker News",
-    "published_date": "2026-04-19T13:13:09Z"
+    "published_date": "2026-04-20T12:23:39Z"
   },
   {
-    "id": "hn-47822940",
-    "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
-    "url": "https://news.ycombinator.com/item?id=47822940",
-    "points": 258,
-    "comments": 118,
+    "id": "hn-47839951",
+    "title": "AI Resistance: some recent anti-AI stuff that\u2019s worth discussing",
+    "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+    "points": 351,
+    "comments": 341,
     "source": "Hacker News",
-    "published_date": "2026-04-19T09:17:12Z"
+    "published_date": "2026-04-20T20:19:13Z"
   },
   {
-    "id": "hn-47827383",
-    "title": "Swiss authorities want to reduce dependency on Microsoft",
-    "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
-    "points": 209,
-    "comments": 83,
+    "id": "hn-47835928",
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "points": 337,
+    "comments": 338,
     "source": "Hacker News",
-    "published_date": "2026-04-19T20:25:29Z"
+    "published_date": "2026-04-20T15:41:02Z"
   },
   {
-    "id": "hn-47828225",
-    "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud",
-    "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
-    "points": 153,
-    "comments": 64,
+    "id": "hn-47838788",
+    "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+    "url": "https://github.com/Luce-Org/lucebox-hub",
+    "points": 164,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-04-19T22:30:19Z"
+    "published_date": "2026-04-20T18:46:22Z"
   },
   {
-    "id": "hn-47828896",
-    "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-    "url": "https://github.com/shivampkumar/trellis-mac",
-    "points": 146,
-    "comments": 24,
+    "id": "hn-47834213",
+    "title": "Ask HN: How to solve the cold start problem for a two-sided marketplace?",
+    "url": "https://news.ycombinator.com/item?id=47834213",
+    "points": 136,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-04-20T00:07:16Z"
+    "published_date": "2026-04-20T13:42:37Z"
   },
   {
-    "id": "hn-47823460",
-    "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-    "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
-    "points": 124,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T11:17:27Z"
-  },
-  {
-    "id": "hn-47826104",
-    "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
-    "url": "https://www.vincentgregoire.com/faceoff/",
-    "points": 112,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T17:44:44Z"
-  },
-  {
-    "id": "hn-47826328",
-    "title": "Uber\u2019s Anthropic AI push hits a wall",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
-    "points": 91,
-    "comments": 93,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T18:13:32Z"
-  },
-  {
-    "id": "hn-47829178",
-    "title": "Claude Token Counter, now with model comparisons",
-    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-    "points": 85,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-04-20T00:56:40Z"
-  },
-  {
-    "id": "hn-47827985",
-    "title": "CEOs admit AI had no impact on employment or productivity",
-    "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
-    "points": 80,
-    "comments": 73,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T21:56:22Z"
-  },
-  {
-    "id": "hn-47828427",
-    "title": "Got an Old Kindle? It Might Not Work Anymore",
-    "url": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
-    "points": 71,
-    "comments": 54,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T22:56:32Z"
-  },
-  {
-    "id": "hn-47823362",
-    "title": "Why Zip drives dominated the 90s, then vanished almost overnight",
-    "url": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
-    "points": 70,
-    "comments": 94,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T10:55:38Z"
-  },
-  {
-    "id": "hn-47828853",
-    "title": "Sudo for Windows (2024)",
-    "url": "https://github.com/microsoft/sudo",
-    "points": 68,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T23:59:51Z"
-  },
-  {
-    "id": "hn-47826852",
-    "title": "I wrote a CHIP-8 emulator in my own programming language",
-    "url": "https://github.com/navid-m/chip8emu",
-    "points": 67,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T19:21:22Z"
-  },
-  {
-    "id": "hn-47828444",
-    "title": "Swiss AI Initiative (2023)",
-    "url": "https://www.swiss-ai.org",
-    "points": 63,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-04-19T22:58:35Z"
-  },
-  {
-    "id": "hn-47829058",
-    "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-    "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
-    "points": 40,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-04-20T00:34:39Z"
-  },
-  {
-    "id": "hn-47825158",
-    "title": "Claude Brain",
-    "url": "https://github.com/memvid/claude-brain",
-    "points": 33,
+    "id": "hn-47835646",
+    "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+    "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+    "points": 129,
     "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-04-19T15:48:13Z"
+    "published_date": "2026-04-20T15:22:01Z"
   },
   {
-    "id": "hn-47827370",
-    "title": "The time when we suffer from large amounts of AI slop is gone",
-    "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
-    "points": 29,
-    "comments": 0,
+    "id": "hn-47842021",
+    "title": "Even 'uncensored' models can't say what they want",
+    "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "points": 128,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-04-19T20:24:18Z"
+    "published_date": "2026-04-20T22:43:29Z"
   },
   {
-    "id": "hn-47823800",
-    "title": "Palantir's Manifesto and Karp's Dissertation",
-    "url": "https://xcancel.com/gothburz/status/2045633711299813488",
-    "points": 29,
-    "comments": 4,
+    "id": "hn-47844269",
+    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "url": "https://docs.openclaw.ai/providers/anthropic",
+    "points": 110,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-04-19T12:27:10Z"
+    "published_date": "2026-04-21T03:43:03Z"
+  },
+  {
+    "id": "hn-47844431",
+    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "points": 108,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-04-21T04:12:12Z"
+  },
+  {
+    "id": "hn-47832366",
+    "title": "Figma's woes compound with Claude Design",
+    "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+    "points": 106,
+    "comments": 90,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T10:26:35Z"
+  },
+  {
+    "id": "hn-47835599",
+    "title": "Show HN: Alien \u2013 Self-hosting with remote management (written in Rust)",
+    "url": "https://news.ycombinator.com/item?id=47835599",
+    "points": 100,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T15:18:57Z"
+  },
+  {
+    "id": "hn-47838508",
+    "title": "Changes to GitHub Copilot Individual Plans",
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "points": 88,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T18:24:05Z"
+  },
+  {
+    "id": "hn-47832887",
+    "title": "A Pascal's Wager for AI doomers",
+    "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
+    "points": 64,
+    "comments": 97,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T11:42:17Z"
+  },
+  {
+    "id": "hn-47836226",
+    "title": "Peter Thiel Is Building a Parallel Justice System \u2013 Powered by AI",
+    "url": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/",
+    "points": 62,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T16:02:26Z"
+  },
+  {
+    "id": "hn-47834134",
+    "title": "AI chatbots could be making you stupider",
+    "url": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider",
+    "points": 49,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T13:36:11Z"
+  },
+  {
+    "id": "hn-47835411",
+    "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+    "url": "https://mediator.ai/",
+    "points": 46,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T15:07:04Z"
+  },
+  {
+    "id": "hn-47843715",
+    "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
+    "url": "https://arxiv.org/abs/2604.15356",
+    "points": 44,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-04-21T02:11:14Z"
+  },
+  {
+    "id": "hn-47840851",
+    "title": "Show HN: Holos \u2013 QEMU/KVM with a compose-style YAML, GPUs and health checks",
+    "url": "https://github.com/zeroecco/holos",
+    "points": 41,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T21:13:49Z"
+  },
+  {
+    "id": "hn-47833134",
+    "title": "Amazon's AI boom is creating mess of duplicate tools and data inside the company",
+    "url": "https://www.businessinsider.com/ai-sprawl-amazon-tool-duplication-data-risk-2026-4",
+    "points": 40,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-04-20T12:10:07Z"
   }
 ]
