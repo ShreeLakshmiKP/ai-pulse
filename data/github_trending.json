@@ -4,7 +4,7 @@
     "name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 7738,
+    "stars": 9100,
     "language": "Python",
     "topics": [
       "ai",
@@ -33,7 +33,7 @@
     "name": "cosmicstack-labs/mercury-agent",
     "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent",
-    "stars": 350,
+    "stars": 524,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -47,7 +47,7 @@
     "name": "yzhao062/agent-style",
     "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
     "url": "https://github.com/yzhao062/agent-style",
-    "stars": 225,
+    "stars": 271,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -64,7 +64,7 @@
     "name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 187,
+    "stars": 232,
     "language": null,
     "topics": [
       "ai",
@@ -85,7 +85,7 @@
     "name": "simoncirstoiu/alice",
     "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 142,
+    "stars": 220,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -108,7 +108,7 @@
     "name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 135,
+    "stars": 175,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -122,28 +122,11 @@
     "created_at": "2026-04-19T14:37:15Z"
   },
   {
-    "id": "gh-1212803197",
-    "name": "cablate/llm-atomic-wiki",
-    "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
-    "url": "https://github.com/cablate/llm-atomic-wiki",
-    "stars": 101,
-    "language": "Shell",
-    "topics": [
-      "karpathy",
-      "knowledge-base",
-      "knowledge-management",
-      "llm",
-      "markdown",
-      "wiki"
-    ],
-    "created_at": "2026-04-16T18:45:00Z"
-  },
-  {
     "id": "gh-1215473958",
     "name": "ovoment/ovo-local-llm",
     "description": "A private Claude-Code-style coding agent for Apple Silicon \u2014 run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
     "url": "https://github.com/ovoment/ovo-local-llm",
-    "stars": 90,
+    "stars": 97,
     "language": "TypeScript",
     "topics": [
       "agentic-ide",
@@ -174,7 +157,7 @@
     "name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 80,
+    "stars": 95,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -189,11 +172,39 @@
     "created_at": "2026-04-18T00:21:39Z"
   },
   {
+    "id": "gh-1214117173",
+    "name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 79,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "llm-agents",
+      "multi-agent-simulation",
+      "open-source",
+      "phaser",
+      "pixel-art",
+      "typescript"
+    ],
+    "created_at": "2026-04-18T06:24:32Z"
+  },
+  {
     "id": "gh-1217706948",
     "name": "SparkEngineAI/QuantClaw-plugin",
     "description": "QuantClaw is a plug-and-play task-type routing quantization plugin for OpenClaw.",
     "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
-    "stars": 45,
+    "stars": 70,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -211,7 +222,7 @@
     "name": "MatthewK78/Rose",
     "description": "\ud83c\udf39 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
     "url": "https://github.com/MatthewK78/Rose",
-    "stars": 26,
+    "stars": 30,
     "language": "Python",
     "topics": [
       "adam-optimizer",
@@ -237,11 +248,31 @@
     "created_at": "2026-04-17T07:43:47Z"
   },
   {
+    "id": "gh-1216201523",
+    "name": "Google-Cloud-AI/agent-platform",
+    "description": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+    "url": "https://github.com/Google-Cloud-AI/agent-platform",
+    "stars": 23,
+    "language": null,
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "enterprise",
+      "gemini",
+      "gemini-enterprise",
+      "gemini-enterprise-agent-platform",
+      "generative-ai",
+      "llm"
+    ],
+    "created_at": "2026-04-20T17:08:58Z"
+  },
+  {
     "id": "gh-1213064866",
     "name": "abbosaliboev/free-ai-bible",
     "description": "\ud83e\udde0 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 \u2014 Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources.",
     "url": "https://github.com/abbosaliboev/free-ai-bible",
-    "stars": 13,
+    "stars": 17,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -258,31 +289,30 @@
     "created_at": "2026-04-17T02:25:16Z"
   },
   {
-    "id": "gh-1212866717",
-    "name": "Arnav-Singh-5080/Ai-Credit-Intelligence-Engine",
-    "description": "A smart AI-driven platform for credit risk analysis, enabling accurate loan eligibility prediction and data-driven financial decision-making.",
-    "url": "https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine",
+    "id": "gh-1216018447",
+    "name": "dakshjain-1616/Qwen-Lens-Studio",
+    "description": "Multimodal AI studio powered by Qwen3.6-35B-A3B. End-to-end web app exposing visual reasoning, image captioning, and document understanding tools from a single model with side-by-side output across versions.",
+    "url": "https://github.com/dakshjain-1616/Qwen-Lens-Studio",
     "stars": 12,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "beginner-friendly",
-      "contributions-welcome",
-      "good-first-issue",
-      "gssoc",
+      "computer-vision",
+      "llm",
       "machine-learning",
-      "nsoc",
-      "open-source",
-      "python"
+      "multimodal",
+      "python",
+      "qwen",
+      "qwen3"
     ],
-    "created_at": "2026-04-16T20:11:12Z"
+    "created_at": "2026-04-20T13:36:56Z"
   },
   {
     "id": "gh-1214820847",
     "name": "kishormorol/CiteLens",
     "description": "Discover the citing papers that matter most \u2014 ranked by impact, relevance, and influence",
     "url": "https://github.com/kishormorol/CiteLens",
-    "stars": 11,
+    "stars": 12,
     "language": "TypeScript",
     "topics": [
       "academic",
@@ -305,22 +335,5 @@
       "typescript"
     ],
     "created_at": "2026-04-19T05:01:32Z"
-  },
-  {
-    "id": "gh-1213537298",
-    "name": "thanos/ex_datalog",
-    "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
-    "url": "https://github.com/thanos/ex_datalog",
-    "stars": 10,
-    "language": "Elixir",
-    "topics": [
-      "data-science",
-      "database",
-      "elixir",
-      "infrence",
-      "knowledge",
-      "machine-learning"
-    ],
-    "created_at": "2026-04-17T13:40:59Z"
   }
 ]

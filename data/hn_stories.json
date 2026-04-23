@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47854477",
-    "title": "Claude Code to be removed from Anthropic's Pro plan?",
-    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-    "points": 509,
-    "comments": 496,
+    "id": "hn-47862331",
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "url": "https://cli.github.com/telemetry",
+    "points": 436,
+    "comments": 318,
     "source": "Hacker News",
-    "published_date": "2026-04-21T21:03:04Z"
+    "published_date": "2026-04-22T11:58:58Z"
   },
   {
-    "id": "hn-47851948",
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "points": 484,
-    "comments": 363,
+    "id": "hn-47866913",
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "points": 345,
+    "comments": 193,
     "source": "Hacker News",
-    "published_date": "2026-04-21T17:40:39Z"
+    "published_date": "2026-04-22T17:51:17Z"
   },
   {
-    "id": "hn-47851634",
-    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "id": "hn-47864393",
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
     "points": 303,
-    "comments": 108,
+    "comments": 214,
     "source": "Hacker News",
-    "published_date": "2026-04-21T17:14:35Z"
+    "published_date": "2026-04-22T14:44:32Z"
   },
   {
-    "id": "hn-47855565",
-    "title": "Claude Code to be removed from Pro Tier?",
-    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-    "points": 263,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-21T22:36:24Z"
-  },
-  {
-    "id": "hn-47857461",
-    "title": "Tell HN: I'm sick of AI everything",
-    "url": "https://news.ycombinator.com/item?id=47857461",
-    "points": 241,
-    "comments": 130,
-    "source": "Hacker News",
-    "published_date": "2026-04-22T01:19:30Z"
-  },
-  {
-    "id": "hn-47849221",
-    "title": "Brands got worse on purpose",
-    "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
-    "points": 214,
-    "comments": 164,
-    "source": "Hacker News",
-    "published_date": "2026-04-21T14:19:49Z"
-  },
-  {
-    "id": "hn-47852155",
-    "title": "Cal.diy: open-source community edition of cal.com",
-    "url": "https://github.com/calcom/cal.diy",
-    "points": 187,
+    "id": "hn-47861087",
+    "title": "How does GPS work?",
+    "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+    "points": 230,
     "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-04-21T17:58:21Z"
+    "published_date": "2026-04-22T09:22:05Z"
   },
   {
-    "id": "hn-47849097",
-    "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "points": 172,
-    "comments": 63,
+    "id": "hn-47861731",
+    "title": "Nobody got fired for Uber's $8M ledger mistake?",
+    "url": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+    "points": 123,
+    "comments": 81,
     "source": "Hacker News",
-    "published_date": "2026-04-21T14:11:53Z"
+    "published_date": "2026-04-22T10:54:49Z"
   },
   {
-    "id": "hn-47856535",
-    "title": "Drunk post: Things I've learned as a senior engineer (2021)",
-    "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-    "points": 119,
-    "comments": 75,
+    "id": "hn-47862230",
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "url": "https://lwn.net/Articles/1068928/",
+    "points": 112,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-04-21T23:53:45Z"
+    "published_date": "2026-04-22T11:48:07Z"
   },
   {
-    "id": "hn-47850212",
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-    "url": "https://www.brex.com/crabtrap",
-    "points": 109,
-    "comments": 36,
+    "id": "hn-47860961",
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "points": 111,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-04-21T15:29:16Z"
+    "published_date": "2026-04-22T09:02:46Z"
   },
   {
-    "id": "hn-47851630",
-    "title": "Ibuilt a tiny Unix\u2011like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
-    "url": "https://github.com/Arc1011/KernelUNO",
-    "points": 79,
-    "comments": 15,
+    "id": "hn-47865523",
+    "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
+    "url": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013",
+    "points": 100,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-04-21T17:14:26Z"
+    "published_date": "2026-04-22T16:00:01Z"
   },
   {
-    "id": "hn-47855832",
-    "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
-    "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
-    "points": 70,
-    "comments": 28,
+    "id": "hn-47864808",
+    "title": "Top MAGA influencer revealed to be AI",
+    "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
+    "points": 84,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-04-21T22:56:09Z"
+    "published_date": "2026-04-22T15:15:04Z"
   },
   {
-    "id": "hn-47849494",
-    "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-    "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+    "id": "hn-47866368",
+    "title": "Anker made its own chip to bring AI to all its products",
+    "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
     "points": 65,
-    "comments": 34,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-04-21T14:41:36Z"
+    "published_date": "2026-04-22T17:10:46Z"
   },
   {
-    "id": "hn-47851086",
-    "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
-    "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html",
+    "id": "hn-47865642",
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "url": "https://github.com/besimple-oss/broccoli",
     "points": 58,
-    "comments": 4,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-21T16:32:26Z"
+    "published_date": "2026-04-22T16:09:56Z"
   },
   {
-    "id": "hn-47850907",
-    "title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them",
-    "url": "https://charlielabs.ai/",
-    "points": 56,
-    "comments": 28,
+    "id": "hn-47865923",
+    "title": "Startups brag they spend more money on AI than human employees",
+    "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+    "points": 48,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-04-21T16:16:41Z"
+    "published_date": "2026-04-22T16:34:21Z"
   },
   {
-    "id": "hn-47850542",
-    "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
-    "url": "https://github.com/Yus314/kasane",
-    "points": 50,
+    "id": "hn-47870924",
+    "title": "Israeli airstrike kills Lebanese journalist Amal Khalil",
+    "url": "https://apnews.com/article/lebanese-journalist-amal-khalil-killed-israel-airstrike-14cabe8f773f59450b1ac47e7706d0e6",
+    "points": 24,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-04-23T00:18:55Z"
+  },
+  {
+    "id": "hn-47869253",
+    "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
+    "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
+    "points": 23,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-04-22T21:03:42Z"
+  },
+  {
+    "id": "hn-47872452",
+    "title": "Ars Technica: Our newsroom AI policy",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "points": 22,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-04-21T15:53:22Z"
+    "published_date": "2026-04-23T05:14:05Z"
   },
   {
-    "id": "hn-47851242",
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "points": 47,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-21T16:43:12Z"
-  },
-  {
-    "id": "hn-47853021",
-    "title": "Anthropic bans orgs without warning",
-    "url": "https://news.ycombinator.com/item?id=47853021",
-    "points": 23,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-21T19:02:31Z"
-  },
-  {
-    "id": "hn-47850358",
-    "title": "Show HN: Runner \u2013 A Better Claude Cowork",
-    "url": "https://runner.now",
+    "id": "hn-47861630",
+    "title": "The invisible engineering behind Lambda's network",
+    "url": "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html",
     "points": 22,
-    "comments": 16,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-04-21T15:39:08Z"
+    "published_date": "2026-04-22T10:43:36Z"
   },
   {
-    "id": "hn-47854568",
-    "title": "Air Force can't quit the A-10 Warthog, extends service into 2030",
-    "url": "https://taskandpurpose.com/news/air-force-a10-warthog-2030/",
-    "points": 15,
-    "comments": 4,
+    "id": "hn-47865292",
+    "title": "Health AI Startup Has Helped Reverse Denied Health Insurance Claims",
+    "url": "https://www.bloomberg.com/news/features/2026-04-22/ai-and-mark-cuban-among-startup-s-tools-to-fight-denied-health-care-claims",
+    "points": 20,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-04-21T21:13:00Z"
+    "published_date": "2026-04-22T15:46:24Z"
+  },
+  {
+    "id": "hn-47861937",
+    "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+    "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
+    "points": 17,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-22T11:15:57Z"
+  },
+  {
+    "id": "hn-47867326",
+    "title": "Claude Code is not making your product better",
+    "url": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product",
+    "points": 16,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-22T18:23:25Z"
+  },
+  {
+    "id": "hn-47861009",
+    "title": "Ask HN: Why Opus4.6 was silently removed from Claude Code?",
+    "url": "https://news.ycombinator.com/item?id=47861009",
+    "points": 14,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-04-22T09:09:27Z"
   }
 ]
