@@ -326,6 +326,19 @@
     "image": null
   },
   {
+    "id": "rss-2447fb67",
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/decoupled-diloco/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 22 Apr 2026 10:20:03 +0000",
+    "image": null
+  },
+  {
     "id": "rss-e48afa0a",
     "title": "AI needs a strong data fabric to deliver business value",
     "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations.",
@@ -2609,6 +2622,198 @@
     "image": null
   },
   {
+    "id": "rss-13d3ab52",
+    "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+    "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 23 Apr 2026 21:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4dab914e",
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 23 Apr 2026 19:38:25 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-878578bd",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "tags": [
+      "GPT",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 23 Apr 2026 18:29:29 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ef50ca25",
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 23 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-01e3b33b",
+    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+    "summary": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Thu, 23 Apr 2026 14:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f10c6db6",
+    "title": "The Download: introducing the Nature issue",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about \u201cnature,\u201d we usually mean something untouched by humans.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 23 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d281c973",
+    "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
+    "summary": "Learn how Google\u2019s TPUs power increasingly demanding AI workloads with this new video.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 23 Apr 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3aa15380",
+    "title": "Introducing GPT-5.5",
+    "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-915b6ff1",
+    "title": "GPT-5.5 System Card",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-6e517fdb",
+    "title": "Automations",
+    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/codex-automations",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-fce40544",
+    "title": "Top 10 uses for Codex at work",
+    "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-79ea493d",
+    "title": "Plugins and skills",
+    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-00dceef7",
+    "title": "Will fusion power get cheap? Don\u2019t count on it.",
+    "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future\u2014if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 23 Apr 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-85f0e7dc",
+    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+    "summary": "Aerial image of the data center",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 23 Apr 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-7f8c010f",
     "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
     "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
@@ -2619,6 +2824,21 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Thu, 23 Apr 2026 04:38:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-66bd8767",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "tags": [
+      "transformers"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 23 Apr 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4082,230 +4302,6 @@
     ],
     "category": "AI Models",
     "published_date": "Mon, 30 Mar 2026 23:08:12 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b4424baf",
-    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "tags": [
-      "regulation"
-    ],
-    "category": "AI Policy",
-    "published_date": "Mon, 30 Mar 2026 20:24:53 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-41029fc7",
-    "title": "There are more AI health tools than ever\u2014but how well do they work?",
-    "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Mon, 30 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-093ef951",
-    "title": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Tools",
-    "published_date": "Mon, 30 Mar 2026 15:42:50 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-97f5b914",
-    "title": "Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
-    "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Mon, 30 Mar 2026 14:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4444b042",
-    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Mon, 30 Mar 2026 13:52:02 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-93789a06",
-    "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Mon, 30 Mar 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c6ab5b9d",
-    "title": "Inside the stealthy startup that pitched brainless human clones",
-    "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week\u2014saying it had raised money to create nonsentient monkey \u201corgan sacks\u201d as an alternative to animal testing.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Mon, 30 Mar 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b670ae2e",
-    "title": "Why OpenAI really shut down Sora",
-    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces \u2014 so was this some kind of elaborate data grab?",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Mon, 30 Mar 2026 03:09:38 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-61013804",
-    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-    "summary": "London\u2019s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Mon, 23 Mar 2026 22:36:39 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-892b8ef0",
-    "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
-    "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "tags": [
-      "Claude"
-    ],
-    "category": "AI Models",
-    "published_date": "Mon, 23 Mar 2026 20:15:59 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f21cf4bf",
-    "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-    "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Mon, 23 Mar 2026 18:22:04 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-110a0adc",
-    "title": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019",
-    "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Mon, 23 Mar 2026 18:00:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ec9b34ed",
-    "title": "The hardest question to answer about AI-fueled delusions",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Mon, 23 Mar 2026 16:31:20 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-54b361c8",
-    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-    "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-    "tags": [
-      "startups",
-      "NVIDIA",
-      "inference"
-    ],
-    "category": "AI Startups",
-    "published_date": "Mon, 23 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ed423aeb",
-    "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Mon, 23 Mar 2026 12:17:33 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1078cf07",
-    "title": "The Bay Area\u2019s animal welfare movement wants to recruit AI",
-    "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Mon, 23 Mar 2026 09:00:00 +0000",
     "image": null
   }
 ]

@@ -4,7 +4,7 @@
     "name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9100,
+    "stars": 9855,
     "language": "Python",
     "topics": [
       "ai",
@@ -33,7 +33,7 @@
     "name": "cosmicstack-labs/mercury-agent",
     "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent",
-    "stars": 524,
+    "stars": 611,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -47,7 +47,7 @@
     "name": "yzhao062/agent-style",
     "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
     "url": "https://github.com/yzhao062/agent-style",
-    "stars": 271,
+    "stars": 298,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -60,32 +60,29 @@
     "created_at": "2026-04-19T08:12:16Z"
   },
   {
-    "id": "gh-1213323614",
-    "name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 232,
-    "language": null,
+    "id": "gh-1215142181",
+    "name": "xiaochong/hi-kid",
+    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+    "url": "https://github.com/xiaochong/hi-kid",
+    "stars": 276,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-coding",
-      "claude-code",
-      "developer-tools",
-      "productivity",
-      "saas",
-      "skills",
-      "templates",
-      "vscode",
-      "workflow"
+      "english-learning",
+      "kids-education",
+      "local-ai",
+      "offline-ai",
+      "speaking-practice",
+      "voice-chat"
     ],
-    "created_at": "2026-04-17T09:03:55Z"
+    "created_at": "2026-04-19T14:37:15Z"
   },
   {
     "id": "gh-1214958134",
     "name": "simoncirstoiu/alice",
     "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 220,
+    "stars": 259,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -104,29 +101,73 @@
     "created_at": "2026-04-19T09:32:31Z"
   },
   {
-    "id": "gh-1215142181",
-    "name": "xiaochong/hi-kid",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-    "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 175,
+    "id": "gh-1217522067",
+    "name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 212,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45Z"
+  },
+  {
+    "id": "gh-1214117173",
+    "name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 164,
     "language": "TypeScript",
     "topics": [
+      "agent",
       "ai",
-      "english-learning",
-      "kids-education",
-      "local-ai",
-      "offline-ai",
-      "speaking-practice",
-      "voice-chat"
+      "ai-agents",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "llm-agents",
+      "multi-agent-simulation",
+      "open-source",
+      "phaser",
+      "pixel-art",
+      "typescript"
     ],
-    "created_at": "2026-04-19T14:37:15Z"
+    "created_at": "2026-04-18T06:24:32Z"
+  },
+  {
+    "id": "gh-1219087723",
+    "name": "future-agi/future-agi",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 118,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "evals",
+      "llm",
+      "observability",
+      "simulation"
+    ],
+    "created_at": "2026-04-23T14:11:31Z"
   },
   {
     "id": "gh-1215473958",
     "name": "ovoment/ovo-local-llm",
     "description": "A private Claude-Code-style coding agent for Apple Silicon \u2014 run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
     "url": "https://github.com/ovoment/ovo-local-llm",
-    "stars": 97,
+    "stars": 99,
     "language": "TypeScript",
     "topics": [
       "agentic-ide",
@@ -153,106 +194,11 @@
     "created_at": "2026-04-20T00:26:46Z"
   },
   {
-    "id": "gh-1213956965",
-    "name": "JuliusBrussee/cavemem",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-    "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 95,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "caveman",
-      "claude",
-      "claude-code",
-      "compress",
-      "memory",
-      "rag",
-      "rag-chatbot"
-    ],
-    "created_at": "2026-04-18T00:21:39Z"
-  },
-  {
-    "id": "gh-1214117173",
-    "name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 79,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-04-18T06:24:32Z"
-  },
-  {
-    "id": "gh-1217706948",
-    "name": "SparkEngineAI/QuantClaw-plugin",
-    "description": "QuantClaw is a plug-and-play task-type routing quantization plugin for OpenClaw.",
-    "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
-    "stars": 70,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "claude",
-      "codex",
-      "harness",
-      "llm",
-      "openclaw",
-      "quantization"
-    ],
-    "created_at": "2026-04-22T06:22:19Z"
-  },
-  {
-    "id": "gh-1213260734",
-    "name": "MatthewK78/Rose",
-    "description": "\ud83c\udf39 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
-    "url": "https://github.com/MatthewK78/Rose",
-    "stars": 30,
-    "language": "Python",
-    "topics": [
-      "adam-optimizer",
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "diffusion-models",
-      "fine-tuning",
-      "gpt",
-      "gradient-descent",
-      "large-language-models",
-      "llm",
-      "lora",
-      "machine-learning",
-      "optimizer",
-      "optimizer-algorithms",
-      "optimizers",
-      "pretraining",
-      "pytorch",
-      "sgd",
-      "transformers"
-    ],
-    "created_at": "2026-04-17T07:43:47Z"
-  },
-  {
     "id": "gh-1216201523",
     "name": "Google-Cloud-AI/agent-platform",
     "description": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
     "url": "https://github.com/Google-Cloud-AI/agent-platform",
-    "stars": 23,
+    "stars": 38,
     "language": null,
     "topics": [
       "agentic",
@@ -268,32 +214,11 @@
     "created_at": "2026-04-20T17:08:58Z"
   },
   {
-    "id": "gh-1213064866",
-    "name": "abbosaliboev/free-ai-bible",
-    "description": "\ud83e\udde0 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 \u2014 Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources.",
-    "url": "https://github.com/abbosaliboev/free-ai-bible",
-    "stars": 17,
-    "language": "Python",
-    "topics": [
-      "ai-tools",
-      "api",
-      "artificial-intelligence",
-      "awesome-list",
-      "chatgpt-alternative",
-      "developer-tools",
-      "free",
-      "llm",
-      "machine-learning",
-      "open-source"
-    ],
-    "created_at": "2026-04-17T02:25:16Z"
-  },
-  {
     "id": "gh-1216018447",
     "name": "dakshjain-1616/Qwen-Lens-Studio",
     "description": "Multimodal AI studio powered by Qwen3.6-35B-A3B. End-to-end web app exposing visual reasoning, image captioning, and document understanding tools from a single model with side-by-side output across versions.",
     "url": "https://github.com/dakshjain-1616/Qwen-Lens-Studio",
-    "stars": 12,
+    "stars": 23,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -335,5 +260,86 @@
       "typescript"
     ],
     "created_at": "2026-04-19T05:01:32Z"
+  },
+  {
+    "id": "gh-1215512629",
+    "name": "Visko-Platform/VEFX-Bench",
+    "description": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
+    "url": "https://github.com/Visko-Platform/VEFX-Bench",
+    "stars": 11,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "generative-ai",
+      "image",
+      "image-editing",
+      "image-generation",
+      "skills",
+      "vfx",
+      "video",
+      "video-editing",
+      "video-gen",
+      "video-generation",
+      "video-processing",
+      "video-quality-assessment",
+      "visualization"
+    ],
+    "created_at": "2026-04-20T01:50:00Z"
+  },
+  {
+    "id": "gh-1215528293",
+    "name": "404stillhere/upg",
+    "description": "Universal Prompt Generator \u2014 prompt-engineering system for text-to-image models. Spectrum of 1\u20135 calibrated prompts per theme, with safety/drift/cliche enforcement built into the pipeline.",
+    "url": "https://github.com/404stillhere/upg",
+    "stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-prompts",
+      "chatgpt",
+      "claude",
+      "flux",
+      "gemini",
+      "generative-ai",
+      "image-generation",
+      "llm",
+      "midjourney",
+      "prompt-design",
+      "prompt-engineering",
+      "stable-diffusion",
+      "system-prompt",
+      "text-to-image"
+    ],
+    "created_at": "2026-04-20T02:19:12Z"
+  },
+  {
+    "id": "gh-1215387769",
+    "name": "FonaTech/Project_Chronos",
+    "description": "\u26a1 Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 9,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18Z"
   }
 ]

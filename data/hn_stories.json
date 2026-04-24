@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47862331",
-    "title": "GitHub CLI now collects pseudoanonymous telemetry",
-    "url": "https://cli.github.com/telemetry",
-    "points": 436,
-    "comments": 318,
+    "id": "hn-47879092",
+    "title": "GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "points": 1325,
+    "comments": 872,
     "source": "Hacker News",
-    "published_date": "2026-04-22T11:58:58Z"
+    "published_date": "2026-04-23T18:01:39Z"
   },
   {
-    "id": "hn-47866913",
-    "title": "Over-editing refers to a model modifying code beyond what is necessary",
-    "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "points": 345,
-    "comments": 193,
+    "id": "hn-47884971",
+    "title": "DeepSeek v4",
+    "url": "https://api-docs.deepseek.com/",
+    "points": 729,
+    "comments": 394,
     "source": "Hacker News",
-    "published_date": "2026-04-22T17:51:17Z"
+    "published_date": "2026-04-24T03:01:21Z"
   },
   {
-    "id": "hn-47864393",
-    "title": "Scoring Show HN submissions for AI design patterns",
-    "url": "https://www.adriankrebs.ch/blog/design-slop/",
-    "points": 303,
-    "comments": 214,
+    "id": "hn-47878905",
+    "title": "An update on recent Claude Code quality reports",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "points": 702,
+    "comments": 522,
     "source": "Hacker News",
-    "published_date": "2026-04-22T14:44:32Z"
+    "published_date": "2026-04-23T17:48:38Z"
   },
   {
-    "id": "hn-47861087",
-    "title": "How does GPS work?",
-    "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-    "points": 230,
-    "comments": 49,
+    "id": "hn-47877429",
+    "title": "If America's so rich, how'd it get so sad?",
+    "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+    "points": 485,
+    "comments": 910,
     "source": "Hacker News",
-    "published_date": "2026-04-22T09:22:05Z"
+    "published_date": "2026-04-23T16:05:30Z"
   },
   {
-    "id": "hn-47861731",
-    "title": "Nobody got fired for Uber's $8M ledger mistake?",
-    "url": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
-    "points": 123,
-    "comments": 81,
+    "id": "hn-47874647",
+    "title": "Show HN: Honker \u2013 Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "url": "https://github.com/russellromney/honker",
+    "points": 254,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-04-22T10:54:49Z"
+    "published_date": "2026-04-23T11:53:11Z"
   },
   {
-    "id": "hn-47862230",
-    "title": "Kernel code removals driven by LLM-created security reports",
-    "url": "https://lwn.net/Articles/1068928/",
-    "points": 112,
-    "comments": 96,
+    "id": "hn-47877644",
+    "title": "Incident with multple GitHub services",
+    "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+    "points": 239,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-04-22T11:48:07Z"
+    "published_date": "2026-04-23T16:21:55Z"
   },
   {
-    "id": "hn-47860961",
-    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
-    "points": 111,
-    "comments": 87,
+    "id": "hn-47878117",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "points": 208,
+    "comments": 109,
     "source": "Hacker News",
-    "published_date": "2026-04-22T09:02:46Z"
+    "published_date": "2026-04-23T16:55:13Z"
   },
   {
-    "id": "hn-47865523",
-    "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
-    "url": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013",
-    "points": 100,
-    "comments": 55,
+    "id": "hn-47882697",
+    "title": "Show HN: Tolaria \u2013 Open-source macOS app to manage Markdown knowledge bases",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "points": 180,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-04-22T16:00:01Z"
+    "published_date": "2026-04-23T22:01:59Z"
   },
   {
-    "id": "hn-47864808",
-    "title": "Top MAGA influencer revealed to be AI",
-    "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
-    "points": 84,
-    "comments": 46,
+    "id": "hn-47885014",
+    "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "points": 148,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-04-22T15:15:04Z"
+    "published_date": "2026-04-24T03:07:54Z"
   },
   {
-    "id": "hn-47866368",
-    "title": "Anker made its own chip to bring AI to all its products",
-    "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
-    "points": 65,
-    "comments": 44,
+    "id": "hn-47875843",
+    "title": "UK Biobank health data keeps ending up on GitHub",
+    "url": "https://biobank.rocher.lc",
+    "points": 113,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-04-22T17:10:46Z"
+    "published_date": "2026-04-23T13:58:03Z"
   },
   {
-    "id": "hn-47865642",
-    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
-    "url": "https://github.com/besimple-oss/broccoli",
-    "points": 58,
-    "comments": 39,
+    "id": "hn-47880697",
+    "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+    "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+    "points": 89,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-04-22T16:09:56Z"
+    "published_date": "2026-04-23T19:43:08Z"
   },
   {
-    "id": "hn-47865923",
-    "title": "Startups brag they spend more money on AI than human employees",
-    "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
-    "points": 48,
-    "comments": 45,
+    "id": "hn-47879330",
+    "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
+    "url": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
+    "points": 56,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-04-22T16:34:21Z"
+    "published_date": "2026-04-23T18:16:55Z"
   },
   {
-    "id": "hn-47870924",
-    "title": "Israeli airstrike kills Lebanese journalist Amal Khalil",
-    "url": "https://apnews.com/article/lebanese-journalist-amal-khalil-killed-israel-airstrike-14cabe8f773f59450b1ac47e7706d0e6",
-    "points": 24,
-    "comments": 3,
+    "id": "hn-47877726",
+    "title": "Show HN: Run coding agents in microVM sandboxes instead of your host machine",
+    "url": "https://github.com/superhq-ai/superhq",
+    "points": 54,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-04-23T00:18:55Z"
+    "published_date": "2026-04-23T16:28:03Z"
   },
   {
-    "id": "hn-47869253",
-    "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
-    "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
-    "points": 23,
-    "comments": 7,
+    "id": "hn-47873796",
+    "title": "Do you want the US to \"win\" AI?",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+    "points": 53,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-04-22T21:03:42Z"
+    "published_date": "2026-04-23T09:41:20Z"
   },
   {
-    "id": "hn-47872452",
-    "title": "Ars Technica: Our newsroom AI policy",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "points": 22,
+    "id": "hn-47881672",
+    "title": "GitHub Merge Queue Silently Reverted Code",
+    "url": "https://www.githubstatus.com/incidents/zsg1lk7w13cf",
+    "points": 46,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-04-23T20:45:48Z"
+  },
+  {
+    "id": "hn-47874106",
+    "title": "Congressman Introduces Bill to Ban AI Chatbots in Children's Toys",
+    "url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys",
+    "points": 27,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-04-23T10:35:04Z"
+  },
+  {
+    "id": "hn-47875694",
+    "title": "LLM pricing has never made sense",
+    "url": "https://anderegg.ca/2026/04/22/llm-pricing-has-never-made-sense",
+    "points": 27,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-04-23T13:43:51Z"
+  },
+  {
+    "id": "hn-47885334",
+    "title": "AI run store in SF can't stop ordering candies and paying women less.",
+    "url": "https://sfist.com/2026/04/21/ai-store-manager-paying-female-employees-less-cant-stop-ordering-candles/",
+    "points": 14,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-04-23T05:14:05Z"
+    "published_date": "2026-04-24T03:57:24Z"
   },
   {
-    "id": "hn-47861630",
-    "title": "The invisible engineering behind Lambda's network",
-    "url": "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html",
-    "points": 22,
-    "comments": 0,
+    "id": "hn-47876282",
+    "title": "Be sinceerly human \u2013 AI to undo your AI writing",
+    "url": "https://sinceerly.com/",
+    "points": 11,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-04-22T10:43:36Z"
+    "published_date": "2026-04-23T14:38:01Z"
   },
   {
-    "id": "hn-47865292",
-    "title": "Health AI Startup Has Helped Reverse Denied Health Insurance Claims",
-    "url": "https://www.bloomberg.com/news/features/2026-04-22/ai-and-mark-cuban-among-startup-s-tools-to-fight-denied-health-care-claims",
-    "points": 20,
-    "comments": 12,
+    "id": "hn-47875668",
+    "title": "Google says 75% of the company's new code is AI-generated",
+    "url": "https://www.businessinsider.com/google-ai-generated-code-75-gemini-agents-software-2026-4",
+    "points": 11,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-22T15:46:24Z"
-  },
-  {
-    "id": "hn-47861937",
-    "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
-    "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
-    "points": 17,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-04-22T11:15:57Z"
-  },
-  {
-    "id": "hn-47867326",
-    "title": "Claude Code is not making your product better",
-    "url": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product",
-    "points": 16,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-22T18:23:25Z"
-  },
-  {
-    "id": "hn-47861009",
-    "title": "Ask HN: Why Opus4.6 was silently removed from Claude Code?",
-    "url": "https://news.ycombinator.com/item?id=47861009",
-    "points": 14,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-04-22T09:09:27Z"
+    "published_date": "2026-04-23T13:40:55Z"
   }
 ]
