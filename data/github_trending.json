@@ -1,39 +1,10 @@
 [
   {
-    "id": "gh-1214346700",
-    "name": "kyegomez/OpenMythos",
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-    "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9855,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "anthropic",
-      "attention",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-mythos",
-      "claude-sonnet",
-      "deepmind",
-      "gpt-5",
-      "gpt-7",
-      "jax",
-      "looped-transformers",
-      "ml",
-      "pytorch",
-      "sonnet",
-      "torch"
-    ],
-    "created_at": "2026-04-18T12:57:52Z"
-  },
-  {
     "id": "gh-1215974868",
     "name": "cosmicstack-labs/mercury-agent",
     "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent",
-    "stars": 611,
+    "stars": 799,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -43,28 +14,49 @@
     "created_at": "2026-04-20T12:46:31Z"
   },
   {
-    "id": "gh-1214914397",
-    "name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 298,
+    "id": "gh-1218682596",
+    "name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 409,
     "language": "Python",
     "topics": [
+      "agent-framework",
+      "agent-system",
       "ai-agents",
+      "claude-code",
+      "cursor-ide",
       "llm",
+      "multi-agent-framework",
+      "orchestration",
       "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
+      "python"
     ],
-    "created_at": "2026-04-19T08:12:16Z"
+    "created_at": "2026-04-23T05:42:29Z"
+  },
+  {
+    "id": "gh-1217522067",
+    "name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 376,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45Z"
   },
   {
     "id": "gh-1215142181",
     "name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 276,
+    "stars": 326,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -78,11 +70,45 @@
     "created_at": "2026-04-19T14:37:15Z"
   },
   {
+    "id": "gh-1214914397",
+    "name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 319,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16Z"
+  },
+  {
+    "id": "gh-1219087723",
+    "name": "future-agi/future-agi",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 290,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "evals",
+      "llm",
+      "observability",
+      "simulation"
+    ],
+    "created_at": "2026-04-23T14:11:31Z"
+  },
+  {
     "id": "gh-1214958134",
     "name": "simoncirstoiu/alice",
     "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 259,
+    "stars": 270,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -101,104 +127,42 @@
     "created_at": "2026-04-19T09:32:31Z"
   },
   {
-    "id": "gh-1217522067",
-    "name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 212,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45Z"
-  },
-  {
-    "id": "gh-1214117173",
-    "name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 164,
+    "id": "gh-1218088263",
+    "name": "chekusu/wanman",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+    "url": "https://github.com/chekusu/wanman",
+    "stars": 141,
     "language": "TypeScript",
     "topics": [
       "agent",
+      "claude-code",
+      "codex",
+      "llm"
+    ],
+    "created_at": "2026-04-22T14:17:57Z"
+  },
+  {
+    "id": "gh-1216767127",
+    "name": "riverscn/intro-agentic-ai",
+    "description": "\u8ba4\u8bc6 Agentic AI\uff1a\u4ece\u795e\u7ecf\u7f51\u7edc\u5230\u667a\u80fd\u4f53",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 98,
+    "language": "Vue",
+    "topics": [
       "ai",
       "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
+      "knowledge",
+      "slideshow",
+      "slidev"
     ],
-    "created_at": "2026-04-18T06:24:32Z"
-  },
-  {
-    "id": "gh-1219087723",
-    "name": "future-agi/future-agi",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-    "url": "https://github.com/future-agi/future-agi",
-    "stars": 118,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-gateway",
-      "evals",
-      "llm",
-      "observability",
-      "simulation"
-    ],
-    "created_at": "2026-04-23T14:11:31Z"
-  },
-  {
-    "id": "gh-1215473958",
-    "name": "ovoment/ovo-local-llm",
-    "description": "A private Claude-Code-style coding agent for Apple Silicon \u2014 run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
-    "url": "https://github.com/ovoment/ovo-local-llm",
-    "stars": 99,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ide",
-      "apple-silicon",
-      "claude-code",
-      "deepseek",
-      "diffusers",
-      "gemma",
-      "huggingface",
-      "llama",
-      "llm",
-      "lm-studio-alternative",
-      "local-llm",
-      "macos",
-      "mistral",
-      "mlx",
-      "ollama-alternative",
-      "on-device-ai",
-      "privacy-first",
-      "qwen",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2026-04-20T00:26:46Z"
+    "created_at": "2026-04-21T08:03:14Z"
   },
   {
     "id": "gh-1216201523",
     "name": "Google-Cloud-AI/agent-platform",
     "description": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
     "url": "https://github.com/Google-Cloud-AI/agent-platform",
-    "stars": 38,
+    "stars": 52,
     "language": null,
     "topics": [
       "agentic",
@@ -212,6 +176,35 @@
       "llm"
     ],
     "created_at": "2026-04-20T17:08:58Z"
+  },
+  {
+    "id": "gh-1215387769",
+    "name": "FonaTech/Project_Chronos",
+    "description": "\u26a1 Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 30,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18Z"
   },
   {
     "id": "gh-1216018447",
@@ -231,6 +224,33 @@
       "qwen3"
     ],
     "created_at": "2026-04-20T13:36:56Z"
+  },
+  {
+    "id": "gh-1215512629",
+    "name": "Visko-Platform/VEFX-Bench",
+    "description": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
+    "url": "https://github.com/Visko-Platform/VEFX-Bench",
+    "stars": 15,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "generative-ai",
+      "image",
+      "image-editing",
+      "image-generation",
+      "skills",
+      "vfx",
+      "video",
+      "video-editing",
+      "video-gen",
+      "video-generation",
+      "video-processing",
+      "video-quality-assessment",
+      "visualization"
+    ],
+    "created_at": "2026-04-20T01:50:00Z"
   },
   {
     "id": "gh-1214820847",
@@ -262,33 +282,6 @@
     "created_at": "2026-04-19T05:01:32Z"
   },
   {
-    "id": "gh-1215512629",
-    "name": "Visko-Platform/VEFX-Bench",
-    "description": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
-    "url": "https://github.com/Visko-Platform/VEFX-Bench",
-    "stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "artificial-intelligence",
-      "generative-ai",
-      "image",
-      "image-editing",
-      "image-generation",
-      "skills",
-      "vfx",
-      "video",
-      "video-editing",
-      "video-gen",
-      "video-generation",
-      "video-processing",
-      "video-quality-assessment",
-      "visualization"
-    ],
-    "created_at": "2026-04-20T01:50:00Z"
-  },
-  {
     "id": "gh-1215528293",
     "name": "404stillhere/upg",
     "description": "Universal Prompt Generator \u2014 prompt-engineering system for text-to-image models. Spectrum of 1\u20135 calibrated prompts per theme, with safety/drift/cliche enforcement built into the pipeline.",
@@ -312,34 +305,5 @@
       "text-to-image"
     ],
     "created_at": "2026-04-20T02:19:12Z"
-  },
-  {
-    "id": "gh-1215387769",
-    "name": "FonaTech/Project_Chronos",
-    "description": "\u26a1 Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 9,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18Z"
   }
 ]
