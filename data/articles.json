@@ -4071,6 +4071,80 @@
     "image": null
   },
   {
+    "id": "rss-26099004",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "tags": [
+      "agents",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 25 Apr 2026 21:43:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-dcebb3f5",
+    "title": "Maine\u2019s governor vetoes data center moratorium",
+    "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Sat, 25 Apr 2026 20:57:08 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b2e84456",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Sat, 25 Apr 2026 17:17:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2f012164",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 25 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-44b8124a",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "tags": [
+      "funding"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sat, 25 Apr 2026 15:03:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-e648870e",
     "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
     "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
@@ -4228,80 +4302,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Sat, 11 Apr 2026 17:18:22 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b85184ea",
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Sat, 04 Apr 2026 16:32:22 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-502b8169",
-    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 04 Apr 2026 01:31:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-10b7bdd6",
-    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
-    "summary": "Introduction Imagine yourself a decade ago, jumping directly into the present shock of conversing naturally with an encyclopedic AI that crafts images, writes code, and debates philosophy.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "The Gradient",
-    "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Sat, 03 Aug 2024 17:00:43 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-17604cb0",
-    "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
-    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Mon, 30 Mar 2026 23:41:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5dec6cd5",
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "tags": [
-      "LLM",
-      "startups"
-    ],
-    "category": "AI Models",
-    "published_date": "Mon, 30 Mar 2026 23:08:12 +0000",
     "image": null
   }
 ]

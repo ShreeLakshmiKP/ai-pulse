@@ -4,7 +4,7 @@
     "name": "cosmicstack-labs/mercury-agent",
     "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent",
-    "stars": 799,
+    "stars": 1203,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -18,7 +18,7 @@
     "name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 409,
+    "stars": 646,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -39,7 +39,7 @@
     "name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 376,
+    "stars": 509,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -52,46 +52,11 @@
     "created_at": "2026-04-22T01:09:45Z"
   },
   {
-    "id": "gh-1215142181",
-    "name": "xiaochong/hi-kid",
-    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-    "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 326,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "english-learning",
-      "kids-education",
-      "local-ai",
-      "offline-ai",
-      "speaking-practice",
-      "voice-chat"
-    ],
-    "created_at": "2026-04-19T14:37:15Z"
-  },
-  {
-    "id": "gh-1214914397",
-    "name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 319,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
-    ],
-    "created_at": "2026-04-19T08:12:16Z"
-  },
-  {
     "id": "gh-1219087723",
     "name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 290,
+    "stars": 452,
     "language": "Python",
     "topics": [
       "ai",
@@ -104,34 +69,11 @@
     "created_at": "2026-04-23T14:11:31Z"
   },
   {
-    "id": "gh-1214958134",
-    "name": "simoncirstoiu/alice",
-    "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 270,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-tools",
-      "annotation",
-      "computer-vision",
-      "dataset",
-      "frigate",
-      "nvidia-cuda",
-      "nvidia-smi",
-      "nvr",
-      "object-detection",
-      "training",
-      "yolo"
-    ],
-    "created_at": "2026-04-19T09:32:31Z"
-  },
-  {
     "id": "gh-1218088263",
     "name": "chekusu/wanman",
     "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
     "url": "https://github.com/chekusu/wanman",
-    "stars": 141,
+    "stars": 313,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -142,11 +84,26 @@
     "created_at": "2026-04-22T14:17:57Z"
   },
   {
+    "id": "gh-1220418983",
+    "name": "alash3al/stash",
+    "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 249,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12Z"
+  },
+  {
     "id": "gh-1216767127",
     "name": "riverscn/intro-agentic-ai",
     "description": "\u8ba4\u8bc6 Agentic AI\uff1a\u4ece\u795e\u7ecf\u7f51\u7edc\u5230\u667a\u80fd\u4f53",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 98,
+    "stars": 103,
     "language": "Vue",
     "topics": [
       "ai",
@@ -158,11 +115,73 @@
     "created_at": "2026-04-21T08:03:14Z"
   },
   {
+    "id": "gh-1215473958",
+    "name": "ovoment/ovo-local-llm",
+    "description": "A private Claude-Code-style coding agent for Apple Silicon \u2014 run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
+    "url": "https://github.com/ovoment/ovo-local-llm",
+    "stars": 99,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ide",
+      "apple-silicon",
+      "claude-code",
+      "deepseek",
+      "diffusers",
+      "gemma",
+      "huggingface",
+      "llama",
+      "llm",
+      "lm-studio-alternative",
+      "local-llm",
+      "macos",
+      "mistral",
+      "mlx",
+      "ollama-alternative",
+      "on-device-ai",
+      "privacy-first",
+      "qwen",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-04-20T00:26:46Z"
+  },
+  {
+    "id": "gh-1216559990",
+    "name": "chaohong-ai/ai-auto-work",
+    "description": "Automatically completes the full workflow from requirement research \u2192 research review \u2192 planning \u2192 plan review \u2192 development \u2192  development review using \u2192 test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.",
+    "url": "https://github.com/chaohong-ai/ai-auto-work",
+    "stars": 93,
+    "language": "Shell",
+    "topics": [
+      "agent",
+      "agentic-coding",
+      "ai",
+      "ai-coding",
+      "ai-workflow",
+      "anthropic",
+      "automation",
+      "autonomous-coding",
+      "claude",
+      "code-generation",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "devops",
+      "llm",
+      "openai",
+      "productivity",
+      "prompt-engineering",
+      "software-engineering",
+      "workflow"
+    ],
+    "created_at": "2026-04-21T02:55:11Z"
+  },
+  {
     "id": "gh-1216201523",
     "name": "Google-Cloud-AI/agent-platform",
     "description": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
     "url": "https://github.com/Google-Cloud-AI/agent-platform",
-    "stars": 52,
+    "stars": 64,
     "language": null,
     "topics": [
       "agentic",
@@ -176,35 +195,6 @@
       "llm"
     ],
     "created_at": "2026-04-20T17:08:58Z"
-  },
-  {
-    "id": "gh-1215387769",
-    "name": "FonaTech/Project_Chronos",
-    "description": "\u26a1 Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 30,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18Z"
   },
   {
     "id": "gh-1216018447",
@@ -230,7 +220,7 @@
     "name": "Visko-Platform/VEFX-Bench",
     "description": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
     "url": "https://github.com/Visko-Platform/VEFX-Bench",
-    "stars": 15,
+    "stars": 22,
     "language": "Python",
     "topics": [
       "agent",
@@ -253,40 +243,11 @@
     "created_at": "2026-04-20T01:50:00Z"
   },
   {
-    "id": "gh-1214820847",
-    "name": "kishormorol/CiteLens",
-    "description": "Discover the citing papers that matter most \u2014 ranked by impact, relevance, and influence",
-    "url": "https://github.com/kishormorol/CiteLens",
-    "stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "academic",
-      "academic-search",
-      "arxiv",
-      "bibliometrics",
-      "citation-analysis",
-      "doi",
-      "fastapi",
-      "knowledge-graph",
-      "literature-review",
-      "machine-learning",
-      "nlp",
-      "openalex",
-      "paper-recommendation",
-      "react",
-      "research-tools",
-      "scientific-literature",
-      "semantic-scholar",
-      "typescript"
-    ],
-    "created_at": "2026-04-19T05:01:32Z"
-  },
-  {
     "id": "gh-1215528293",
     "name": "404stillhere/upg",
     "description": "Universal Prompt Generator \u2014 prompt-engineering system for text-to-image models. Spectrum of 1\u20135 calibrated prompts per theme, with safety/drift/cliche enforcement built into the pipeline.",
     "url": "https://github.com/404stillhere/upg",
-    "stars": 11,
+    "stars": 12,
     "language": "Python",
     "topics": [
       "ai-prompts",
@@ -305,5 +266,39 @@
       "text-to-image"
     ],
     "created_at": "2026-04-20T02:19:12Z"
+  },
+  {
+    "id": "gh-1218913916",
+    "name": "mljar/features_goldmine",
+    "description": "Features Engineering Made Easy",
+    "url": "https://github.com/mljar/features_goldmine",
+    "stars": 8,
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "features-engineering",
+      "machine-learning"
+    ],
+    "created_at": "2026-04-23T10:43:07Z"
+  },
+  {
+    "id": "gh-1216418105",
+    "name": "LibratioAI/sessa",
+    "description": "Official PyTorch implementation of Sessa: Selective State Space Attention for long-context sequence modeling.",
+    "url": "https://github.com/LibratioAI/sessa",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "long-context",
+      "machine-learning",
+      "mamba",
+      "pytorch",
+      "sequence-modeling",
+      "state-space-models",
+      "transformers"
+    ],
+    "created_at": "2026-04-20T22:12:54Z"
   }
 ]

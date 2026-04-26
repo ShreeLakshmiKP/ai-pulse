@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47892019",
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-    "points": 857,
-    "comments": 503,
+    "id": "hn-47904568",
+    "title": "The AI industry is discovering that the public hates it",
+    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+    "points": 231,
+    "comments": 310,
     "source": "Hacker News",
-    "published_date": "2026-04-24T15:59:19Z"
+    "published_date": "2026-04-25T21:11:11Z"
   },
   {
-    "id": "hn-47887334",
-    "title": "Spinel: Ruby AOT Native Compiler",
-    "url": "https://github.com/matz/spinel",
-    "points": 321,
-    "comments": 86,
+    "id": "hn-47902416",
+    "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+    "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+    "points": 230,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-04-24T08:28:47Z"
+    "published_date": "2026-04-25T15:59:15Z"
   },
   {
-    "id": "hn-47892291",
-    "title": "SDL Now Supports DOS",
-    "url": "https://github.com/libsdl-org/SDL/pull/15377",
-    "points": 247,
-    "comments": 100,
+    "id": "hn-47899844",
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "points": 229,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-04-24T16:20:15Z"
+    "published_date": "2026-04-25T08:53:53Z"
   },
   {
-    "id": "hn-47894000",
-    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-    "url": "https://developers.openai.com/api/docs/changelog",
-    "points": 232,
-    "comments": 126,
+    "id": "hn-47900398",
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "url": "https://github.com/MartinGalway/C64_music",
+    "points": 172,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-04-24T18:23:32Z"
+    "published_date": "2026-04-25T10:46:14Z"
   },
   {
-    "id": "hn-47887683",
-    "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-    "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-    "points": 223,
-    "comments": 149,
+    "id": "hn-47901734",
+    "title": "GPT\u20115.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "points": 143,
+    "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-04-24T09:17:57Z"
+    "published_date": "2026-04-25T14:17:31Z"
   },
   {
-    "id": "hn-47888465",
-    "title": "Hear your agent suffer through your code",
-    "url": "https://github.com/AndrewVos/endless-toil",
-    "points": 186,
-    "comments": 84,
+    "id": "hn-47900506",
+    "title": "Lambda Calculus Benchmark for AI",
+    "url": "https://victortaelin.github.io/lambench/",
+    "points": 135,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-04-24T10:58:45Z"
+    "published_date": "2026-04-25T11:16:23Z"
   },
   {
-    "id": "hn-47894081",
-    "title": "SFO Quiet Airport (2025)",
-    "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-    "points": 142,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T18:29:53Z"
-  },
-  {
-    "id": "hn-47896163",
-    "title": "Show HN: I've built a nice home server OS",
-    "url": "https://lightwhale.asklandd.dk/",
-    "points": 103,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T21:42:26Z"
-  },
-  {
-    "id": "hn-47890841",
-    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
-    "url": "https://github.com/browser-use/browser-harness",
-    "points": 97,
-    "comments": 50,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T14:31:38Z"
-  },
-  {
-    "id": "hn-47895029",
-    "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
-    "url": "https://news.ycombinator.com/item?id=47895029",
-    "points": 78,
-    "comments": 81,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T19:55:09Z"
-  },
-  {
-    "id": "hn-47894690",
-    "title": "Could a Claude Code routine watch my finances?",
-    "url": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
-    "points": 76,
-    "comments": 96,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T19:25:15Z"
-  },
-  {
-    "id": "hn-47892765",
-    "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-    "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
-    "points": 75,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T16:51:46Z"
-  },
-  {
-    "id": "hn-47889110",
-    "title": "Show HN: Atomic \u2013 Local-first, AI-augmented personal knowledge base",
-    "url": "https://atomicapp.ai/",
-    "points": 58,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T12:07:30Z"
-  },
-  {
-    "id": "hn-47893620",
-    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
-    "url": "https://github.com/delta-hq/cc-canary",
-    "points": 52,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-04-24T17:53:37Z"
-  },
-  {
-    "id": "hn-47888068",
-    "title": "Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?",
-    "url": "https://news.ycombinator.com/item?id=47888068",
-    "points": 38,
+    "id": "hn-47900440",
+    "title": "A web-based RDP client built with Go WebAssembly and grdp",
+    "url": "https://github.com/nakagami/grdpwasm",
+    "points": 124,
     "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-04-24T10:07:25Z"
+    "published_date": "2026-04-25T10:59:29Z"
   },
   {
-    "id": "hn-47891260",
-    "title": "AI as a Fascist Artifact",
-    "url": "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/",
-    "points": 31,
-    "comments": 8,
+    "id": "hn-47903173",
+    "title": "Mine, an IDE for Coalton and Common Lisp",
+    "url": "https://coalton-lang.github.io/mine/",
+    "points": 91,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-24T15:05:08Z"
+    "published_date": "2026-04-25T17:47:02Z"
   },
   {
-    "id": "hn-47893860",
-    "title": "LLM research on Hacker News is drying up",
-    "url": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
-    "points": 30,
-    "comments": 11,
+    "id": "hn-47903690",
+    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+    "url": "https://getkloak.io/",
+    "points": 49,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-24T18:12:15Z"
+    "published_date": "2026-04-25T19:03:01Z"
   },
   {
-    "id": "hn-47895150",
-    "title": "GPT-5.5 is generally available for GitHub Copilot",
-    "url": "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/",
-    "points": 22,
+    "id": "hn-47907543",
+    "title": "AGPLv3\u00a774 Empowers Users to Thwart Badgeware Like OnlyOffice",
+    "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+    "points": 49,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-04-24T20:07:54Z"
+    "published_date": "2026-04-26T05:06:58Z"
   },
   {
-    "id": "hn-47890094",
-    "title": "The pope moves to police AI",
-    "url": "https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence",
-    "points": 21,
-    "comments": 14,
+    "id": "hn-47905768",
+    "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
+    "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
+    "points": 42,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-04-24T13:36:42Z"
+    "published_date": "2026-04-25T23:44:05Z"
   },
   {
-    "id": "hn-47891147",
-    "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
-    "url": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
-    "points": 20,
-    "comments": 3,
+    "id": "hn-47903471",
+    "title": "AI agents that argue with each other to improve decisions",
+    "url": "https://github.com/rockcat/HATS",
+    "points": 28,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-04-24T14:55:34Z"
+    "published_date": "2026-04-25T18:30:12Z"
+  },
+  {
+    "id": "hn-47903440",
+    "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+    "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+    "points": 27,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T18:26:02Z"
+  },
+  {
+    "id": "hn-47904252",
+    "title": "AI Might Be Lying to Your Boss",
+    "url": "https://williamoconnell.me/blog/post/ai-ide/",
+    "points": 19,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T20:19:53Z"
+  },
+  {
+    "id": "hn-47904138",
+    "title": "Nicholas Carlini \u2013 Black-hat LLMs [video]",
+    "url": "https://www.youtube.com/watch?v=1sd26pWhfmg",
+    "points": 19,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T20:04:37Z"
+  },
+  {
+    "id": "hn-47899803",
+    "title": "Show HN: LLMs consume 5.4x less mobile energy than ad-supported web search",
+    "url": "https://dupr.at/thermodynamic-efficiency-inversion",
+    "points": 19,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T08:44:36Z"
+  },
+  {
+    "id": "hn-47900270",
+    "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+    "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
+    "points": 15,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T10:25:02Z"
+  },
+  {
+    "id": "hn-47901024",
+    "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+    "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
+    "points": 12,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T12:42:53Z"
+  },
+  {
+    "id": "hn-47902773",
+    "title": "AI Is Cannibalizing Human Intelligence",
+    "url": "https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e",
+    "points": 11,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T16:49:11Z"
+  },
+  {
+    "id": "hn-47903072",
+    "title": "FSF Position on \"Ethical\" AI",
+    "url": "https://www.fsf.org/blogs/licensing/rail-are-nonfree-and-unethical",
+    "points": 11,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-25T17:33:18Z"
   }
 ]
