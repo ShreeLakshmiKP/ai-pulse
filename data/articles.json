@@ -2788,6 +2788,19 @@
     "image": null
   },
   {
+    "id": "rss-c476e67c",
+    "title": "What is Codex?",
+    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/what-is-codex",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-00dceef7",
     "title": "Will fusion power get cheap? Don\u2019t count on it.",
     "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future\u2014if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time.",
@@ -3721,6 +3734,34 @@
     "image": null
   },
   {
+    "id": "rss-1ba739b0",
+    "title": "Our principles",
+    "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/our-principles",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Sun, 26 Apr 2026 16:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-17968030",
+    "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+    "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Sun, 26 Apr 2026 15:30:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-f4027ab9",
     "title": "Do you want to build a robot snowman?",
     "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
@@ -4261,47 +4302,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Sat, 18 Apr 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-23b7d3c1",
-    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
-    "summary": "What is the Role of Mathematics in Modern Machine Learning? The past decade has witnessed a shift in how progress is made in machine learning.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "The Gradient",
-    "url": "https://thegradient.pub/shape-symmetry-structure/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Sat, 16 Nov 2024 16:46:15 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-698dff86",
-    "title": "US Army announces contract with Anduril worth up to $20B",
-    "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sat, 14 Mar 2026 20:47:47 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0d1c21e4",
-    "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
-    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Sat, 11 Apr 2026 17:18:22 +0000",
     "image": null
   }
 ]
