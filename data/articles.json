@@ -1405,6 +1405,19 @@
     "image": null
   },
   {
+    "id": "rss-c1219940",
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Apr 2026 00:28:13 GMT",
+    "image": null
+  },
+  {
     "id": "rss-9b9139cc",
     "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
     "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
@@ -4289,19 +4302,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Sat, 18 Apr 2026 14:56:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-81c41bfd",
-    "title": "The App Store is booming again, and AI may be why",
-    "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Sat, 18 Apr 2026 13:00:00 +0000",
     "image": null
   }
 ]

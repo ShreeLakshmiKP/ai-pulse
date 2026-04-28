@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47911524",
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "points": 638,
-    "comments": 794,
+    "id": "hn-47923357",
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "points": 635,
+    "comments": 469,
     "source": "Hacker News",
-    "published_date": "2026-04-26T16:27:29Z"
+    "published_date": "2026-04-27T16:03:08Z"
   },
   {
-    "id": "hn-47913650",
-    "title": "AI should elevate your thinking, not replace it",
-    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "points": 449,
-    "comments": 330,
+    "id": "hn-47919630",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "points": 513,
+    "comments": 183,
     "source": "Hacker News",
-    "published_date": "2026-04-26T20:03:12Z"
+    "published_date": "2026-04-27T09:57:10Z"
   },
   {
-    "id": "hn-47910546",
-    "title": "Issue links now open in a popup",
-    "url": "https://github.com/orgs/community/discussions/192666",
-    "points": 234,
+    "id": "hn-47920315",
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+    "points": 368,
+    "comments": 266,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T11:43:59Z"
+  },
+  {
+    "id": "hn-47920787",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "url": "https://github.com/dirac-run/dirac",
+    "points": 337,
     "comments": 125,
     "source": "Hacker News",
-    "published_date": "2026-04-26T14:18:38Z"
+    "published_date": "2026-04-27T12:35:55Z"
   },
   {
-    "id": "hn-47911350",
-    "title": "Clay PCB Tutorial",
-    "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-    "points": 219,
-    "comments": 129,
+    "id": "hn-47927903",
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "points": 314,
+    "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-04-26T16:02:14Z"
+    "published_date": "2026-04-27T21:55:48Z"
   },
   {
-    "id": "hn-47908433",
-    "title": "Eden AI \u2013 European Alternative to OpenRouter",
-    "url": "https://www.edenai.co",
-    "points": 128,
-    "comments": 67,
+    "id": "hn-47924775",
+    "title": "GitHub is having issues now",
+    "url": "https://www.githubstatus.com",
+    "points": 314,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-04-26T08:18:09Z"
+    "published_date": "2026-04-27T17:42:19Z"
   },
   {
-    "id": "hn-47916890",
-    "title": "TurboQuant: A first-principles walkthrough",
-    "url": "https://arkaung.github.io/interactive-turboquant/",
-    "points": 121,
+    "id": "hn-47924877",
+    "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
+    "url": "https://zsnes.com/",
+    "points": 287,
+    "comments": 85,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T17:50:10Z"
+  },
+  {
+    "id": "hn-47919725",
+    "title": "Mistral built a $14B AI empire by not being American",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "points": 213,
+    "comments": 166,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T10:14:15Z"
+  },
+  {
+    "id": "hn-47921064",
+    "title": "Running local LLMs offline on a ten-hour flight",
+    "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+    "points": 119,
+    "comments": 94,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T13:05:59Z"
+  },
+  {
+    "id": "hn-47929035",
+    "title": "High Performance Git",
+    "url": "https://gitperf.com/",
+    "points": 110,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-04-27T01:54:32Z"
+    "published_date": "2026-04-28T00:32:04Z"
   },
   {
-    "id": "hn-47916410",
-    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-    "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-    "points": 97,
-    "comments": 81,
+    "id": "hn-47921626",
+    "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
+    "url": "https://www.systalyze.com/utilyze",
+    "points": 96,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-04-27T00:34:30Z"
+    "published_date": "2026-04-27T13:55:43Z"
   },
   {
-    "id": "hn-47913561",
-    "title": "Have you tried Clean Architecture as foundation for your AI project?",
-    "url": "https://news.ycombinator.com/item?id=47913561",
-    "points": 94,
-    "comments": 1,
+    "id": "hn-47931035",
+    "title": "GTFOBins",
+    "url": "https://gtfobins.org/",
+    "points": 90,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-04-26T19:55:25Z"
+    "published_date": "2026-04-28T06:27:39Z"
   },
   {
-    "id": "hn-47914367",
-    "title": "Show HN: AI memory with biological decay (52% recall)",
-    "url": "https://github.com/sachitrafa/YourMemory",
-    "points": 86,
-    "comments": 37,
+    "id": "hn-47919386",
+    "title": "Moleskine's AI Lord of the Rings collection can only mock",
+    "url": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+    "points": 73,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-04-26T20:58:31Z"
+    "published_date": "2026-04-27T09:19:06Z"
   },
   {
-    "id": "hn-47915632",
-    "title": "FreeBSD Device Drivers Book",
-    "url": "https://github.com/ebrandi/FDD-book",
-    "points": 78,
-    "comments": 13,
+    "id": "hn-47922518",
+    "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+    "points": 70,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-04-26T22:53:06Z"
+    "published_date": "2026-04-27T14:58:48Z"
   },
   {
-    "id": "hn-47918009",
-    "title": "AI can cost more than human workers now",
-    "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-    "points": 65,
-    "comments": 41,
+    "id": "hn-47928088",
+    "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
+    "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
+    "points": 63,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-04-27T05:28:39Z"
+    "published_date": "2026-04-27T22:13:17Z"
   },
   {
-    "id": "hn-47916909",
-    "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
-    "url": "https://github.com/evanklem/evanflow",
-    "points": 59,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T01:56:39Z"
-  },
-  {
-    "id": "hn-47914369",
-    "title": "Show HN: Tiao, A two-player turn-based board game",
-    "url": "https://playtiao.com",
-    "points": 43,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-04-26T20:59:07Z"
-  },
-  {
-    "id": "hn-47916769",
-    "title": "Show HN: The Unix Magic poster, annotated (updated)",
-    "url": "https://github.com/drio/unixmagic",
-    "points": 31,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T01:32:44Z"
-  },
-  {
-    "id": "hn-47916519",
-    "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
-    "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
-    "points": 29,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T00:50:46Z"
-  },
-  {
-    "id": "hn-47908912",
-    "title": "Show HN: A free ESG stock screener that publishes its losses and methodology",
-    "url": "https://jumpstartsignal.com/",
-    "points": 27,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-04-26T09:50:21Z"
-  },
-  {
-    "id": "hn-47915274",
-    "title": "Show HN: Startup Equity Adventure Game",
-    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
-    "points": 25,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-04-26T22:14:59Z"
-  },
-  {
-    "id": "hn-47914159",
-    "title": "Neal Stephenson: The Real Threat Isn't AI, It's Us [video]",
-    "url": "https://www.youtube.com/watch?v=pUSWa5hOCtU",
-    "points": 20,
+    "id": "hn-47924181",
+    "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+    "url": "https://deepmind.google/blog/decoupled-diloco/",
+    "points": 45,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-04-26T20:40:32Z"
+    "published_date": "2026-04-27T16:57:34Z"
   },
   {
-    "id": "hn-47914321",
-    "title": "At SpaceX, AI is burning the cash that Starlink earns",
-    "url": "https://www.reuters.com/business/finance/spacex-ai-is-burning-cash-that-starlink-earns-2026-04-24/",
-    "points": 19,
-    "comments": 0,
+    "id": "hn-47930483",
+    "title": "San Francisco, AI capital of the world, is an economic laggard",
+    "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+    "points": 41,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-26T20:53:52Z"
+    "published_date": "2026-04-28T04:32:42Z"
   },
   {
-    "id": "hn-47910597",
-    "title": "Ask HN: How I find a job where what is needed is solid code, not firefighting?",
-    "url": "https://news.ycombinator.com/item?id=47910597",
-    "points": 18,
-    "comments": 8,
+    "id": "hn-47928885",
+    "title": "Generative AI Vegetarianism",
+    "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+    "points": 37,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-04-26T14:23:50Z"
+    "published_date": "2026-04-28T00:07:39Z"
+  },
+  {
+    "id": "hn-47924676",
+    "title": "Git-based cache saves 50% on token usage",
+    "url": "https://old.reddit.com/r/vibecoding/comments/1sx4agk/gitbased_cache_saves_50_on_token_usage/",
+    "points": 33,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T17:36:20Z"
+  },
+  {
+    "id": "hn-47924610",
+    "title": "Steam Controller: It's almost here",
+    "url": "https://store.steampowered.com/news/group/45479024/view/508485755865137686",
+    "points": 29,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-04-27T17:30:37Z"
   }
 ]
