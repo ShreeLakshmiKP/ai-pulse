@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47923357",
-    "title": "GitHub Copilot is moving to usage-based billing",
-    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-    "points": 635,
-    "comments": 469,
+    "id": "hn-47939579",
+    "title": "Ghostty is leaving GitHub",
+    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "points": 2389,
+    "comments": 708,
     "source": "Hacker News",
-    "published_date": "2026-04-27T16:03:08Z"
+    "published_date": "2026-04-28T19:44:52Z"
   },
   {
-    "id": "hn-47919630",
-    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-    "url": "https://app.oravys.com/blog/mercor-breach-2026",
-    "points": 513,
-    "comments": 183,
+    "id": "hn-47933208",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "points": 810,
+    "comments": 248,
     "source": "Hacker News",
-    "published_date": "2026-04-27T09:57:10Z"
+    "published_date": "2026-04-28T11:54:20Z"
   },
   {
-    "id": "hn-47920315",
-    "title": "China blocks Meta's acquisition of AI startup Manus",
-    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "points": 368,
-    "comments": 266,
+    "id": "hn-47940921",
+    "title": "Before GitHub",
+    "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "points": 425,
+    "comments": 120,
     "source": "Hacker News",
-    "published_date": "2026-04-27T11:43:59Z"
+    "published_date": "2026-04-28T21:17:40Z"
   },
   {
-    "id": "hn-47920787",
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-    "url": "https://github.com/dirac-run/dirac",
-    "points": 337,
-    "comments": 125,
+    "id": "hn-47932422",
+    "title": "An update on GitHub availability",
+    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+    "points": 367,
+    "comments": 228,
     "source": "Hacker News",
-    "published_date": "2026-04-27T12:35:55Z"
+    "published_date": "2026-04-28T10:05:03Z"
   },
   {
-    "id": "hn-47927903",
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "points": 314,
-    "comments": 107,
+    "id": "hn-47932937",
+    "title": "Who owns the code Claude Code wrote?",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "points": 361,
+    "comments": 363,
     "source": "Hacker News",
-    "published_date": "2026-04-27T21:55:48Z"
+    "published_date": "2026-04-28T11:24:52Z"
   },
   {
-    "id": "hn-47924775",
-    "title": "GitHub is having issues now",
-    "url": "https://www.githubstatus.com",
-    "points": 314,
-    "comments": 114,
+    "id": "hn-47933236",
+    "title": "VibeVoice: Open-source frontier voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "points": 349,
+    "comments": 169,
     "source": "Hacker News",
-    "published_date": "2026-04-27T17:42:19Z"
+    "published_date": "2026-04-28T11:56:04Z"
   },
   {
-    "id": "hn-47924877",
-    "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
-    "url": "https://zsnes.com/",
+    "id": "hn-47936479",
+    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+    "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "points": 329,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-04-28T16:15:43Z"
+  },
+  {
+    "id": "hn-47936156",
+    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "points": 289,
+    "comments": 264,
+    "source": "Hacker News",
+    "published_date": "2026-04-28T15:49:22Z"
+  },
+  {
+    "id": "hn-47942437",
+    "title": "How ChatGPT serves ads",
+    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
     "points": 287,
-    "comments": 85,
+    "comments": 196,
     "source": "Hacker News",
-    "published_date": "2026-04-27T17:50:10Z"
+    "published_date": "2026-04-28T23:54:14Z"
   },
   {
-    "id": "hn-47919725",
-    "title": "Mistral built a $14B AI empire by not being American",
-    "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-    "points": 213,
-    "comments": 166,
+    "id": "hn-47938097",
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "points": 282,
+    "comments": 244,
     "source": "Hacker News",
-    "published_date": "2026-04-27T10:14:15Z"
+    "published_date": "2026-04-28T18:01:21Z"
   },
   {
-    "id": "hn-47921064",
-    "title": "Running local LLMs offline on a ten-hour flight",
-    "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-    "points": 119,
-    "comments": 94,
+    "id": "hn-47932028",
+    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+    "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+    "points": 275,
+    "comments": 186,
     "source": "Hacker News",
-    "published_date": "2026-04-27T13:05:59Z"
+    "published_date": "2026-04-28T09:01:05Z"
   },
   {
-    "id": "hn-47929035",
-    "title": "High Performance Git",
-    "url": "https://gitperf.com/",
-    "points": 110,
-    "comments": 15,
+    "id": "hn-47933257",
+    "title": "GitHub Actions is the weakest link",
+    "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+    "points": 227,
+    "comments": 78,
     "source": "Hacker News",
-    "published_date": "2026-04-28T00:32:04Z"
+    "published_date": "2026-04-28T11:58:14Z"
   },
   {
-    "id": "hn-47921626",
-    "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
-    "url": "https://www.systalyze.com/utilyze",
-    "points": 96,
-    "comments": 23,
+    "id": "hn-47936867",
+    "title": "AI's economics don't make sense",
+    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "points": 212,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-04-27T13:55:43Z"
+    "published_date": "2026-04-28T16:39:53Z"
   },
   {
-    "id": "hn-47931035",
-    "title": "GTFOBins",
-    "url": "https://gtfobins.org/",
-    "points": 90,
-    "comments": 33,
+    "id": "hn-47942492",
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "points": 204,
+    "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-04-28T06:27:39Z"
+    "published_date": "2026-04-28T23:59:57Z"
   },
   {
-    "id": "hn-47919386",
-    "title": "Moleskine's AI Lord of the Rings collection can only mock",
-    "url": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
-    "points": 73,
-    "comments": 98,
+    "id": "hn-47934261",
+    "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+    "url": "https://www.lumara-space.app/",
+    "points": 176,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-04-27T09:19:06Z"
+    "published_date": "2026-04-28T13:25:48Z"
   },
   {
-    "id": "hn-47922518",
-    "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-    "points": 70,
+    "id": "hn-47936347",
+    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "points": 170,
+    "comments": 110,
+    "source": "Hacker News",
+    "published_date": "2026-04-28T16:06:01Z"
+  },
+  {
+    "id": "hn-47942386",
+    "title": "Claude for Creative Work",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "points": 113,
+    "comments": 83,
+    "source": "Hacker News",
+    "published_date": "2026-04-28T23:46:56Z"
+  },
+  {
+    "id": "hn-47936312",
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "url": "https://github.com/trycua/cua",
+    "points": 102,
     "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-04-27T14:58:48Z"
+    "published_date": "2026-04-28T16:03:34Z"
   },
   {
-    "id": "hn-47928088",
-    "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
-    "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
-    "points": 63,
+    "id": "hn-47942903",
+    "title": "We decreased our LLM costs with Opus",
+    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+    "points": 86,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T00:57:12Z"
+  },
+  {
+    "id": "hn-47939079",
+    "title": "A playable DOOM MCP app",
+    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "points": 82,
     "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-04-27T22:13:17Z"
-  },
-  {
-    "id": "hn-47924181",
-    "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
-    "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "points": 45,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T16:57:34Z"
-  },
-  {
-    "id": "hn-47930483",
-    "title": "San Francisco, AI capital of the world, is an economic laggard",
-    "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
-    "points": 41,
-    "comments": 39,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T04:32:42Z"
-  },
-  {
-    "id": "hn-47928885",
-    "title": "Generative AI Vegetarianism",
-    "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-    "points": 37,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T00:07:39Z"
-  },
-  {
-    "id": "hn-47924676",
-    "title": "Git-based cache saves 50% on token usage",
-    "url": "https://old.reddit.com/r/vibecoding/comments/1sx4agk/gitbased_cache_saves_50_on_token_usage/",
-    "points": 33,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T17:36:20Z"
-  },
-  {
-    "id": "hn-47924610",
-    "title": "Steam Controller: It's almost here",
-    "url": "https://store.steampowered.com/news/group/45479024/view/508485755865137686",
-    "points": 29,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-04-27T17:30:37Z"
+    "published_date": "2026-04-28T19:08:47Z"
   }
 ]

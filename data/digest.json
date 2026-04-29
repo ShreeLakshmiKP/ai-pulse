@@ -1,8 +1,12 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "headline": "TechCrunch AI \u00b7 TechCrunch AI \u00b7 TechCrunch AI",
-  "top_story": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+  "top_story": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
   "highlights": [
+    {
+      "type": "tool",
+      "text": "At his OpenAI trial, Musk relitigates an old friendship"
+    },
     {
       "type": "tool",
       "text": "The AI skills gap is here, says AI company, and power users are pulling ahead"
@@ -18,13 +22,9 @@
     {
       "type": "research",
       "text": "Roundtables: The Next Era of Space Exploration"
-    },
-    {
-      "type": "tool",
-      "text": "Lyria 3 Pro: Create longer tracks in more"
     }
   ],
-  "stat_of_the_day": "Today's feed: 50 articles \u2014 14 in AI Startups.",
+  "stat_of_the_day": "Today's feed: 50 articles \u2014 15 in AI Startups.",
   "trending_tools": [
     "tool-001",
     "tool-002",
@@ -32,8 +32,8 @@
     "tool-006"
   ],
   "top_articles": [
+    "rss-1f2810cb",
     "rss-99987d70",
-    "rss-c8de106d",
-    "rss-119a424f"
+    "rss-c8de106d"
   ]
 }

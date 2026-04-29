@@ -1,5 +1,20 @@
 [
   {
+    "id": "rss-1f2810cb",
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Apr 2026 00:40:16 +0000",
+    "image": null
+  },
+  {
     "id": "rss-99987d70",
     "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
     "summary": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
@@ -1405,6 +1420,106 @@
     "image": null
   },
   {
+    "id": "rss-9ac17987",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Apr 2026 19:48:02 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a1231f5b",
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Apr 2026 18:49:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8dcbd07f",
+    "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 28 Apr 2026 18:15:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8a69f67e",
+    "title": "Lovable launches its vibe-coding app on iOS and Android",
+    "summary": "The app allows developers to vibe code web apps and websites on the go.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Apr 2026 16:09:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6d3470cf",
+    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Apr 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3fabcf99",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "tags": [
+      "agents",
+      "multimodal",
+      "NVIDIA"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Apr 2026 15:58:57 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-22a88b7f",
+    "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 28 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-c1219940",
     "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
     "summary": "",
@@ -1415,6 +1530,41 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Tue, 28 Apr 2026 00:28:13 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-d0682fe0",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-on-aws",
+    "tags": [
+      "GPT",
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1dc472c1",
+    "title": "Our commitment to community safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Tue, 28 Apr 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4151,157 +4301,6 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Sat, 25 Apr 2026 20:57:08 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b2e84456",
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Sat, 25 Apr 2026 17:17:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2f012164",
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 25 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-44b8124a",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "tags": [
-      "funding"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 25 Apr 2026 15:03:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e648870e",
-    "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
-    "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sat, 21 Mar 2026 19:30:27 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-881189d1",
-    "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
-    "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "tags": [
-      "regulation",
-      "startups"
-    ],
-    "category": "AI Policy",
-    "published_date": "Sat, 21 Mar 2026 17:00:05 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-577f4951",
-    "title": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
-    "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-    "tags": [
-      "NVIDIA"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 21 Mar 2026 16:28:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fa39393c",
-    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
-    "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 21 Mar 2026 01:40:28 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-31e6d9ab",
-    "title": "Tesla brings its robotaxi service to Dallas and Houston",
-    "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "tags": [
-      "robotics",
-      "safety"
-    ],
-    "category": "Robotics",
-    "published_date": "Sat, 18 Apr 2026 21:37:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-64b801fb",
-    "title": "AI chip startup Cerebras files for IPO",
-    "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "tags": [
-      "startups",
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 18 Apr 2026 19:19:11 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-bd8a430d",
-    "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
-    "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 18 Apr 2026 14:56:48 +0000",
     "image": null
   }
 ]

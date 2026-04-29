@@ -1,27 +1,41 @@
 [
   {
-    "id": "gh-1217522067",
-    "name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 989,
-    "language": "JavaScript",
+    "id": "gh-1223170290",
+    "name": "nexu-io/open-design",
+    "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \u00b7 \ud83d\uddbc\ufe0f sandboxed preview \u00b7 \ud83d\udce6 HTML/PDF/PPTX export. \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+    "url": "https://github.com/nexu-io/open-design",
+    "stars": 2410,
+    "language": "TypeScript",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "ai-design",
+      "anthropic",
+      "byok",
+      "claude",
+      "claude-code",
+      "claude-design",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "design",
+      "design-systems",
+      "design-tools",
+      "gemini-cli",
+      "generative-ai",
+      "llm",
+      "local-first",
+      "react",
+      "skills",
+      "typescript"
     ],
-    "created_at": "2026-04-22T01:09:45Z"
+    "created_at": "2026-04-28T04:25:20Z"
   },
   {
     "id": "gh-1218682596",
     "name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 761,
+    "stars": 859,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -42,7 +56,7 @@
     "name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 662,
+    "stars": 716,
     "language": "Python",
     "topics": [
       "ai",
@@ -59,7 +73,7 @@
     "name": "alash3al/stash",
     "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 448,
+    "stars": 527,
     "language": "Go",
     "topics": [
       "ai",
@@ -70,26 +84,30 @@
     "created_at": "2026-04-24T22:05:12Z"
   },
   {
-    "id": "gh-1218088263",
-    "name": "chekusu/wanman",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
-    "url": "https://github.com/chekusu/wanman",
-    "stars": 391,
-    "language": "TypeScript",
+    "id": "gh-1218819993",
+    "name": "baidu-baige/LoongForge",
+    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
+    "url": "https://github.com/baidu-baige/LoongForge",
+    "stars": 151,
+    "language": "Python",
     "topics": [
-      "agent",
-      "claude-code",
-      "codex",
-      "llm"
+      "ai",
+      "diffusion",
+      "infra",
+      "llm",
+      "training",
+      "vla",
+      "vlm",
+      "wan"
     ],
-    "created_at": "2026-04-22T14:17:57Z"
+    "created_at": "2026-04-23T08:45:42Z"
   },
   {
     "id": "gh-1222464224",
     "name": "HKUDS-AI/polymarket-ai-trading",
     "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
     "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 218,
+    "stars": 145,
     "language": "HTML",
     "topics": [
       "dashboard",
@@ -115,48 +133,11 @@
     "created_at": "2026-04-27T11:47:30Z"
   },
   {
-    "id": "gh-1218819993",
-    "name": "baidu-baige/LoongForge",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
-    "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 144,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "diffusion",
-      "infra",
-      "llm",
-      "training",
-      "vla",
-      "vlm",
-      "wan"
-    ],
-    "created_at": "2026-04-23T08:45:42Z"
-  },
-  {
-    "id": "gh-1217706948",
-    "name": "SparkEngineAI/QuantClaw-plugin",
-    "description": "QuantClaw is a plug-and-play task-type routing quantization plugin for OpenClaw.",
-    "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
-    "stars": 94,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "claude",
-      "codex",
-      "harness",
-      "llm",
-      "openclaw",
-      "quantization"
-    ],
-    "created_at": "2026-04-22T06:22:19Z"
-  },
-  {
     "id": "gh-1222126520",
     "name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 68,
+    "stars": 83,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -170,11 +151,53 @@
     "created_at": "2026-04-27T04:18:39Z"
   },
   {
+    "id": "gh-1222045086",
+    "name": "bbostaice/axi-front-design-skill",
+    "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 77,
+    "language": null,
+    "topics": [
+      "ai",
+      "claude-code",
+      "skill",
+      "vibe-coding"
+    ],
+    "created_at": "2026-04-27T01:49:54Z"
+  },
+  {
+    "id": "gh-1219379107",
+    "name": "eren23/openflipbook",
+    "description": "Open-source flipbook.page clone \u2014 every page is an AI-generated illustration, click anywhere to explore deeper. Next.js + FastAPI + Modal. BYO keys.",
+    "url": "https://github.com/eren23/openflipbook",
+    "stars": 26,
+    "language": "TypeScript",
+    "topics": [
+      "ai-image-generation",
+      "byo-keys",
+      "fal-ai",
+      "fastapi",
+      "flipbook",
+      "gemini-api",
+      "generative-ai",
+      "infinite-canvas",
+      "ltx-video",
+      "modal",
+      "nano-banana",
+      "nextjs",
+      "openrouter",
+      "self-hosted",
+      "typescript",
+      "vision-model"
+    ],
+    "created_at": "2026-04-23T20:19:44Z"
+  },
+  {
     "id": "gh-1221303916",
     "name": "smixs/visual-skills",
     "description": "Professional Claude Skills for AI image and video prompting. Supports Nano Banana (Gemini 3 Pro/Flash), GPT Image 2, Seedance 2.0, Kling 3.0 (multi-shot + native dialogue), Veo. Works with Claude Code, Cursor, Windsurf, OpenCode, Hermes-agent.",
     "url": "https://github.com/smixs/visual-skills",
-    "stars": 16,
+    "stars": 18,
     "language": null,
     "topics": [
       "ai-image-generation",
@@ -205,7 +228,7 @@
     "name": "ChaosRealmsAI/gpt-image-2-gallery",
     "description": "AI image inspiration atlas \u00b7 3,800+ GPT-Image-2 works across 445 themes with full copy-paste prompts \u00b7 MIT + CC BY 4.0",
     "url": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
-    "stars": 14,
+    "stars": 17,
     "language": "JavaScript",
     "topics": [
       "ai-art",
@@ -230,33 +253,6 @@
       "typography"
     ],
     "created_at": "2026-04-23T13:16:50Z"
-  },
-  {
-    "id": "gh-1219379107",
-    "name": "eren23/openflipbook",
-    "description": "Open-source flipbook.page clone \u2014 every page is an AI-generated illustration, click anywhere to explore deeper. Next.js + FastAPI + Modal. BYO keys.",
-    "url": "https://github.com/eren23/openflipbook",
-    "stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-image-generation",
-      "byo-keys",
-      "fal-ai",
-      "fastapi",
-      "flipbook",
-      "gemini-api",
-      "generative-ai",
-      "infinite-canvas",
-      "ltx-video",
-      "modal",
-      "nano-banana",
-      "nextjs",
-      "openrouter",
-      "self-hosted",
-      "typescript",
-      "vision-model"
-    ],
-    "created_at": "2026-04-23T20:19:44Z"
   },
   {
     "id": "gh-1220643917",
@@ -286,30 +282,27 @@
     "created_at": "2026-04-25T06:22:38Z"
   },
   {
-    "id": "gh-1220678583",
-    "name": "cliprise/awesome-ai-art-generator-prompts",
-    "description": "AI art generator prompts, AI artwork ideas, free AI art workflows, creative prompt templates, AI art gallery structure and Cliprise resources.",
-    "url": "https://github.com/cliprise/awesome-ai-art-generator-prompts",
-    "stars": 9,
+    "id": "gh-1220886594",
+    "name": "hgus107/A-Long-Walk-of-AI",
+    "description": "A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.",
+    "url": "https://github.com/hgus107/A-Long-Walk-of-AI",
+    "stars": 10,
     "language": null,
     "topics": [
-      "ai-art",
-      "ai-art-generator",
-      "ai-art-prompts",
-      "ai-artwork",
-      "ai-image-generator",
-      "art-generator",
-      "artwork-generator",
-      "cliprise",
-      "creative-ai",
-      "digital-art",
-      "free-ai-art-generator",
-      "generative-ai",
-      "image-generation",
-      "prompt-engineering",
-      "text-to-image"
+      "ai-history",
+      "bert",
+      "deep-learning",
+      "diffusion",
+      "educational",
+      "gpu",
+      "llama",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "nueral-networks",
+      "transformers"
     ],
-    "created_at": "2026-04-25T07:23:23Z"
+    "created_at": "2026-04-25T13:19:38Z"
   },
   {
     "id": "gh-1218913916",
@@ -324,5 +317,21 @@
       "machine-learning"
     ],
     "created_at": "2026-04-23T10:43:07Z"
+  },
+  {
+    "id": "gh-1220392046",
+    "name": "xprilion/OpenMLR",
+    "description": "A self-hosted ML research intern that plans tasks, reads papers, writes drafts, and runs experiments \u2014 end to end.",
+    "url": "https://github.com/xprilion/OpenMLR",
+    "stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "machine-learning",
+      "ml",
+      "research"
+    ],
+    "created_at": "2026-04-24T21:15:26Z"
   }
 ]
