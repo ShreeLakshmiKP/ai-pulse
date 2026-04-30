@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47939579",
-    "title": "Ghostty is leaving GitHub",
-    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "points": 2389,
-    "comments": 708,
+    "id": "hn-47952722",
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "url": "https://github.com/anthropics/claude-code/issues/53262",
+    "points": 1102,
+    "comments": 468,
     "source": "Hacker News",
-    "published_date": "2026-04-28T19:44:52Z"
+    "published_date": "2026-04-29T18:54:31Z"
   },
   {
-    "id": "hn-47933208",
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "url": "https://github.com/localsend/localsend",
-    "points": 810,
-    "comments": 248,
+    "id": "hn-47946958",
+    "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+    "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+    "points": 400,
+    "comments": 227,
     "source": "Hacker News",
-    "published_date": "2026-04-28T11:54:20Z"
+    "published_date": "2026-04-29T11:42:46Z"
   },
   {
-    "id": "hn-47940921",
-    "title": "Before GitHub",
-    "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-    "points": 425,
-    "comments": 120,
+    "id": "hn-47949750",
+    "title": "Why AI companies want you to be afraid of them",
+    "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+    "points": 276,
+    "comments": 212,
     "source": "Hacker News",
-    "published_date": "2026-04-28T21:17:40Z"
+    "published_date": "2026-04-29T15:26:01Z"
   },
   {
-    "id": "hn-47932422",
-    "title": "An update on GitHub availability",
-    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-    "points": 367,
-    "comments": 228,
+    "id": "hn-47949204",
+    "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+    "url": "https://github.com/GliaX/Stethoscope",
+    "points": 243,
+    "comments": 108,
     "source": "Hacker News",
-    "published_date": "2026-04-28T10:05:03Z"
+    "published_date": "2026-04-29T14:47:31Z"
   },
   {
-    "id": "hn-47932937",
-    "title": "Who owns the code Claude Code wrote?",
-    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "points": 361,
-    "comments": 363,
+    "id": "hn-47947490",
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "points": 237,
+    "comments": 297,
     "source": "Hacker News",
-    "published_date": "2026-04-28T11:24:52Z"
+    "published_date": "2026-04-29T12:38:50Z"
   },
   {
-    "id": "hn-47933236",
-    "title": "VibeVoice: Open-source frontier voice AI",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "points": 349,
-    "comments": 169,
+    "id": "hn-47957294",
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "points": 210,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-04-28T11:56:04Z"
+    "published_date": "2026-04-30T02:15:47Z"
   },
   {
-    "id": "hn-47936479",
-    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-    "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-    "points": 329,
-    "comments": 74,
+    "id": "hn-47953011",
+    "title": "\"People who don't use AI will be left behind\"",
+    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+    "points": 157,
+    "comments": 217,
     "source": "Hacker News",
-    "published_date": "2026-04-28T16:15:43Z"
+    "published_date": "2026-04-29T19:15:52Z"
   },
   {
-    "id": "hn-47936156",
-    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "points": 289,
-    "comments": 264,
+    "id": "hn-47946813",
+    "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+    "url": "https://github.com/DOS-History/Paterson-Listings",
+    "points": 142,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-04-28T15:49:22Z"
+    "published_date": "2026-04-29T11:25:12Z"
   },
   {
-    "id": "hn-47942437",
-    "title": "How ChatGPT serves ads",
-    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "points": 287,
-    "comments": 196,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T23:54:14Z"
-  },
-  {
-    "id": "hn-47938097",
-    "title": "Claude.ai unavailable and elevated errors on the API",
-    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "points": 282,
-    "comments": 244,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T18:01:21Z"
-  },
-  {
-    "id": "hn-47932028",
-    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-    "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-    "points": 275,
-    "comments": 186,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T09:01:05Z"
-  },
-  {
-    "id": "hn-47933257",
-    "title": "GitHub Actions is the weakest link",
-    "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-    "points": 227,
-    "comments": 78,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T11:58:14Z"
-  },
-  {
-    "id": "hn-47936867",
-    "title": "AI's economics don't make sense",
-    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-    "points": 212,
-    "comments": 171,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T16:39:53Z"
-  },
-  {
-    "id": "hn-47942492",
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
-    "url": "https://github.com/anthropics/claude-code/issues/49363",
-    "points": 204,
-    "comments": 101,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T23:59:57Z"
-  },
-  {
-    "id": "hn-47934261",
-    "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-    "url": "https://www.lumara-space.app/",
-    "points": 176,
-    "comments": 60,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T13:25:48Z"
-  },
-  {
-    "id": "hn-47936347",
-    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-    "points": 170,
-    "comments": 110,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T16:06:01Z"
-  },
-  {
-    "id": "hn-47942386",
-    "title": "Claude for Creative Work",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "points": 113,
-    "comments": 83,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T23:46:56Z"
-  },
-  {
-    "id": "hn-47936312",
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "url": "https://github.com/trycua/cua",
-    "points": 102,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-04-28T16:03:34Z"
-  },
-  {
-    "id": "hn-47942903",
-    "title": "We decreased our LLM costs with Opus",
-    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-    "points": 86,
+    "id": "hn-47947525",
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "points": 128,
     "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-04-29T00:57:12Z"
+    "published_date": "2026-04-29T12:43:12Z"
   },
   {
-    "id": "hn-47939079",
-    "title": "A playable DOOM MCP app",
-    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-    "points": 82,
-    "comments": 31,
+    "id": "hn-47951786",
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "points": 127,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-04-28T19:08:47Z"
+    "published_date": "2026-04-29T17:44:21Z"
+  },
+  {
+    "id": "hn-47957627",
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "points": 116,
+    "comments": 79,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T03:11:51Z"
+  },
+  {
+    "id": "hn-47956895",
+    "title": "Claude.ai and API unavailable [fixed]",
+    "url": "https://status.claude.com/incidents/2gf1jpyty350",
+    "points": 113,
+    "comments": 108,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T01:21:03Z"
+  },
+  {
+    "id": "hn-47947369",
+    "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
+    "url": "https://github.com/electricant/adblock-rust-manager",
+    "points": 89,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T12:24:53Z"
+  },
+  {
+    "id": "hn-47955118",
+    "title": "Vera: a programming language designed for machines to write",
+    "url": "https://github.com/aallan/vera",
+    "points": 87,
+    "comments": 70,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T21:41:32Z"
+  },
+  {
+    "id": "hn-47949538",
+    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "points": 85,
+    "comments": 65,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T15:11:12Z"
+  },
+  {
+    "id": "hn-47954745",
+    "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+    "points": 85,
+    "comments": 61,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T21:11:57Z"
+  },
+  {
+    "id": "hn-47953484",
+    "title": "Your CEO is suffering from AI psychosis",
+    "url": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
+    "points": 82,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T19:46:18Z"
+  },
+  {
+    "id": "hn-47956739",
+    "title": "Mike: open-source legal AI",
+    "url": "https://mikeoss.com/",
+    "points": 80,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T00:56:23Z"
+  },
+  {
+    "id": "hn-47945522",
+    "title": "Tell HN: An update from the new Tindie team",
+    "url": "https://news.ycombinator.com/item?id=47945522",
+    "points": 78,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T08:16:37Z"
+  },
+  {
+    "id": "hn-47950283",
+    "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+    "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+    "points": 51,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-04-29T16:01:51Z"
   }
 ]

@@ -1,5 +1,134 @@
 [
   {
+    "id": "rss-2fd0f913",
+    "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
+    "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Apr 2026 23:58:36 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-88881a09",
+    "title": "Meta is still burning money on AR/VR",
+    "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Apr 2026 23:58:26 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5425e3ec",
+    "title": "Where the goblins came from",
+    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Apr 2026 20:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-33ea9610",
+    "title": "AI evals are becoming the new compute bottleneck",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 29 Apr 2026 16:45:09 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-59ef3aa9",
+    "title": "Granite 4.1 LLMs: How They\u2019re Built",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "tags": [
+      "LLM"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Apr 2026 15:01:48 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8740c494",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-f6e9fc2a",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 29 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-60838243",
+    "title": "It\u2019s time to make a plan for nuclear waste",
+    "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 29 Apr 2026 08:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ad57812b",
+    "title": "Cybersecurity in the Intelligence Age",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-1f2810cb",
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
@@ -12,6 +141,21 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 29 Apr 2026 00:40:16 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f6674537",
+    "title": "DeepInfra on Hugging Face Inference Providers \ud83d\udd25",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "tags": [
+      "inference"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 29 Apr 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -2579,6 +2723,50 @@
     "image": null
   },
   {
+    "id": "rss-19231aea",
+    "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Thu, 30 Apr 2026 03:58:22 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ef01e2e7",
+    "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
+    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 30 Apr 2026 00:14:23 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-72ba5d8b",
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 30 Apr 2026 00:07:15 +0000",
+    "image": null
+  },
+  {
     "id": "rss-897b13ec",
     "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
     "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
@@ -4119,188 +4307,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Sun, 12 Apr 2026 21:14:38 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-77a7f187",
-    "title": "Apple reportedly testing four designs for upcoming smart glasses",
-    "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Sun, 12 Apr 2026 19:58:42 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-97774875",
-    "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "tags": [
-      "LLM"
-    ],
-    "category": "AI Models",
-    "published_date": "Sun, 12 Apr 2026 15:07:08 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-72ce90ad",
-    "title": "At the HumanX conference, everyone was talking about Claude",
-    "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Sun, 12 Apr 2026 15:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-19795563",
-    "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
-    "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 05 Apr 2026 18:51:37 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c436a0a6",
-    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-    "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 05 Apr 2026 15:40:58 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3cae30a0",
-    "title": "In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
-    "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Sun, 05 Apr 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-63c0fcbc",
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Sat, 28 Mar 2026 23:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7e192f12",
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "summary": "While there\u2019s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Sat, 28 Mar 2026 20:45:54 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-77e16d7c",
-    "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
-    "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sat, 28 Mar 2026 16:11:16 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-76a496ed",
-    "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
-    "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Sat, 28 Mar 2026 14:15:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-37644363",
-    "title": "A woman\u2019s uterus has been kept alive outside the body for the first time",
-    "summary": "\u201cThink of this as a human body,\u201d says Javier Gonz\u00e1lez. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Sat, 28 Mar 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-26099004",
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "tags": [
-      "agents",
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sat, 25 Apr 2026 21:43:37 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-dcebb3f5",
-    "title": "Maine\u2019s governor vetoes data center moratorium",
-    "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sat, 25 Apr 2026 20:57:08 +0000",
     "image": null
   }
 ]

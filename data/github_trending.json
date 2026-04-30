@@ -2,9 +2,9 @@
   {
     "id": "gh-1223170290",
     "name": "nexu-io/open-design",
-    "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \u00b7 \ud83d\uddbc\ufe0f sandboxed preview \u00b7 \ud83d\udce6 HTML/PDF/PPTX export. \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+    "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \u00b7 \ud83d\uddbc\ufe0f sandboxed preview \u00b7 \ud83d\udce6 HTML/PDF/PPTX export. \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 2410,
+    "stars": 5402,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -22,7 +22,7 @@
       "design-tools",
       "gemini-cli",
       "generative-ai",
-      "llm",
+      "hermes-agent",
       "local-first",
       "react",
       "skills",
@@ -31,49 +31,11 @@
     "created_at": "2026-04-28T04:25:20Z"
   },
   {
-    "id": "gh-1218682596",
-    "name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 859,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agent-system",
-      "ai-agents",
-      "claude-code",
-      "cursor-ide",
-      "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2026-04-23T05:42:29Z"
-  },
-  {
-    "id": "gh-1219087723",
-    "name": "future-agi/future-agi",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-    "url": "https://github.com/future-agi/future-agi",
-    "stars": 716,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-gateway",
-      "evals",
-      "llm",
-      "observability",
-      "simulation"
-    ],
-    "created_at": "2026-04-23T14:11:31Z"
-  },
-  {
     "id": "gh-1220418983",
     "name": "alash3al/stash",
     "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 527,
+    "stars": 569,
     "language": "Go",
     "topics": [
       "ai",
@@ -84,30 +46,11 @@
     "created_at": "2026-04-24T22:05:12Z"
   },
   {
-    "id": "gh-1218819993",
-    "name": "baidu-baige/LoongForge",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
-    "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 151,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "diffusion",
-      "infra",
-      "llm",
-      "training",
-      "vla",
-      "vlm",
-      "wan"
-    ],
-    "created_at": "2026-04-23T08:45:42Z"
-  },
-  {
     "id": "gh-1222464224",
     "name": "HKUDS-AI/polymarket-ai-trading",
     "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
     "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 145,
+    "stars": 161,
     "language": "HTML",
     "topics": [
       "dashboard",
@@ -137,7 +80,7 @@
     "name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 83,
+    "stars": 90,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -151,11 +94,42 @@
     "created_at": "2026-04-27T04:18:39Z"
   },
   {
+    "id": "gh-1225025578",
+    "name": "endless-sky-team/ai-trading-agent",
+    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+    "url": "https://github.com/endless-sky-team/ai-trading-agent",
+    "stars": 87,
+    "language": "TypeScript",
+    "topics": [
+      "ai-trading",
+      "algorithmic-trading",
+      "automated-trading",
+      "bitcoin",
+      "bun",
+      "crypto-bot",
+      "cryptocurrency",
+      "defi",
+      "ethereum",
+      "fintech",
+      "lighter",
+      "llm",
+      "machine-learning",
+      "open-source",
+      "openrouter",
+      "postgresql",
+      "quantitative-finance",
+      "react",
+      "trading-bot",
+      "typescript"
+    ],
+    "created_at": "2026-04-29T21:48:01Z"
+  },
+  {
     "id": "gh-1222045086",
     "name": "bbostaice/axi-front-design-skill",
     "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 77,
+    "stars": 82,
     "language": null,
     "topics": [
       "ai",
@@ -166,38 +140,140 @@
     "created_at": "2026-04-27T01:49:54Z"
   },
   {
-    "id": "gh-1219379107",
-    "name": "eren23/openflipbook",
-    "description": "Open-source flipbook.page clone \u2014 every page is an AI-generated illustration, click anywhere to explore deeper. Next.js + FastAPI + Modal. BYO keys.",
-    "url": "https://github.com/eren23/openflipbook",
-    "stars": 26,
-    "language": "TypeScript",
+    "id": "gh-1222252809",
+    "name": "appergb/openless",
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+    "url": "https://github.com/appergb/openless",
+    "stars": 60,
+    "language": "HTML",
     "topics": [
-      "ai-image-generation",
-      "byo-keys",
-      "fal-ai",
-      "fastapi",
-      "flipbook",
-      "gemini-api",
-      "generative-ai",
-      "infinite-canvas",
-      "ltx-video",
-      "modal",
-      "nano-banana",
-      "nextjs",
-      "openrouter",
-      "self-hosted",
-      "typescript",
-      "vision-model"
+      "ai-prompt",
+      "asr",
+      "dictation",
+      "llm",
+      "macos",
+      "open-source",
+      "prompt-engineering",
+      "rust",
+      "speech-to-text",
+      "swift",
+      "tauri",
+      "typeless",
+      "typeless-alternative",
+      "voice-input",
+      "windows",
+      "wispr-flow-alternative"
     ],
-    "created_at": "2026-04-23T20:19:44Z"
+    "created_at": "2026-04-27T07:25:49Z"
+  },
+  {
+    "id": "gh-1224738938",
+    "name": "PKU-YuanGroup/TIDE",
+    "description": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "url": "https://github.com/PKU-YuanGroup/TIDE",
+    "stars": 43,
+    "language": "Python",
+    "topics": [
+      "discrete-diffusion",
+      "distillation",
+      "llm",
+      "nlp"
+    ],
+    "created_at": "2026-04-29T15:21:39Z"
+  },
+  {
+    "id": "gh-1222756906",
+    "name": "mercedezformichelli48242088665/FaceChanger-DeepFake-AI-2026-v3",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
+    "url": "https://github.com/mercedezformichelli48242088665/FaceChanger-DeepFake-AI-2026-v3",
+    "stars": 41,
+    "language": "C#",
+    "topics": [
+      "ai-deep-fake",
+      "audio-deepfake-detection",
+      "deep-fake-ai",
+      "deepfake",
+      "deepfake-detection",
+      "deepfake-generation",
+      "deepfake-software",
+      "deepfake-videos",
+      "faceswap",
+      "llm",
+      "real-time-deepfake",
+      "realtime-face-changer"
+    ],
+    "created_at": "2026-04-27T17:17:40Z"
+  },
+  {
+    "id": "gh-1222716432",
+    "name": "pezufibuxoso654111/AI-Image-Generator-2026",
+    "description": "A foundational toolkit for exploring and implementing AI-powered image generation.",
+    "url": "https://github.com/pezufibuxoso654111/AI-Image-Generator-2026",
+    "stars": 36,
+    "language": "C#",
+    "topics": [
+      "ai",
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-image-generator",
+      "generative-art",
+      "image-ai",
+      "image-generation",
+      "image-generation-ai",
+      "image-generator-using-openai-api",
+      "image-generators"
+    ],
+    "created_at": "2026-04-27T16:30:03Z"
+  },
+  {
+    "id": "gh-1221489330",
+    "name": "Jane-xiaoer/smart-rename",
+    "description": "Right-click any file in Finder \u2192 AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
+    "url": "https://github.com/Jane-xiaoer/smart-rename",
+    "stars": 28,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "automation",
+      "bash",
+      "cli",
+      "file-management",
+      "gemini",
+      "macos",
+      "python",
+      "quick-action"
+    ],
+    "created_at": "2026-04-26T09:27:46Z"
+  },
+  {
+    "id": "gh-1220886594",
+    "name": "hgus107/A-Long-Walk-of-AI",
+    "description": "A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.",
+    "url": "https://github.com/hgus107/A-Long-Walk-of-AI",
+    "stars": 27,
+    "language": null,
+    "topics": [
+      "ai-history",
+      "bert",
+      "deep-learning",
+      "diffusion",
+      "educational",
+      "gpu",
+      "llama",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "nueral-networks",
+      "transformers"
+    ],
+    "created_at": "2026-04-25T13:19:38Z"
   },
   {
     "id": "gh-1221303916",
     "name": "smixs/visual-skills",
     "description": "Professional Claude Skills for AI image and video prompting. Supports Nano Banana (Gemini 3 Pro/Flash), GPT Image 2, Seedance 2.0, Kling 3.0 (multi-shot + native dialogue), Veo. Works with Claude Code, Cursor, Windsurf, OpenCode, Hermes-agent.",
     "url": "https://github.com/smixs/visual-skills",
-    "stars": 18,
+    "stars": 19,
     "language": null,
     "topics": [
       "ai-image-generation",
@@ -222,37 +298,6 @@
       "windsurf"
     ],
     "created_at": "2026-04-26T02:46:33Z"
-  },
-  {
-    "id": "gh-1219036815",
-    "name": "ChaosRealmsAI/gpt-image-2-gallery",
-    "description": "AI image inspiration atlas \u00b7 3,800+ GPT-Image-2 works across 445 themes with full copy-paste prompts \u00b7 MIT + CC BY 4.0",
-    "url": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
-    "stars": 17,
-    "language": "JavaScript",
-    "topics": [
-      "ai-art",
-      "ai-gallery",
-      "ai-image-generation",
-      "ai-poster",
-      "ai-prompts",
-      "awesome-list",
-      "chatgpt-images-2",
-      "curated",
-      "design-inspiration",
-      "generative-ai",
-      "gpt-image",
-      "gpt-image-2",
-      "illustration",
-      "image-generation",
-      "openai",
-      "prompt-atlas",
-      "prompt-engineering",
-      "prompt-library",
-      "text-to-image",
-      "typography"
-    ],
-    "created_at": "2026-04-23T13:16:50Z"
   },
   {
     "id": "gh-1220643917",
@@ -282,56 +327,29 @@
     "created_at": "2026-04-25T06:22:38Z"
   },
   {
-    "id": "gh-1220886594",
-    "name": "hgus107/A-Long-Walk-of-AI",
-    "description": "A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.",
-    "url": "https://github.com/hgus107/A-Long-Walk-of-AI",
-    "stars": 10,
+    "id": "gh-1220678583",
+    "name": "cliprise/awesome-ai-art-generator-prompts",
+    "description": "AI art generator prompts, AI artwork ideas, free AI art workflows, creative prompt templates, AI art gallery structure and Cliprise resources.",
+    "url": "https://github.com/cliprise/awesome-ai-art-generator-prompts",
+    "stars": 9,
     "language": null,
     "topics": [
-      "ai-history",
-      "bert",
-      "deep-learning",
-      "diffusion",
-      "educational",
-      "gpu",
-      "llama",
-      "llm",
-      "machine-learning",
-      "neural-network",
-      "nueral-networks",
-      "transformers"
+      "ai-art",
+      "ai-art-generator",
+      "ai-art-prompts",
+      "ai-artwork",
+      "ai-image-generator",
+      "art-generator",
+      "artwork-generator",
+      "cliprise",
+      "creative-ai",
+      "digital-art",
+      "free-ai-art-generator",
+      "generative-ai",
+      "image-generation",
+      "prompt-engineering",
+      "text-to-image"
     ],
-    "created_at": "2026-04-25T13:19:38Z"
-  },
-  {
-    "id": "gh-1218913916",
-    "name": "mljar/features_goldmine",
-    "description": "Features Engineering Made Easy",
-    "url": "https://github.com/mljar/features_goldmine",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "data-science",
-      "features-engineering",
-      "machine-learning"
-    ],
-    "created_at": "2026-04-23T10:43:07Z"
-  },
-  {
-    "id": "gh-1220392046",
-    "name": "xprilion/OpenMLR",
-    "description": "A self-hosted ML research intern that plans tasks, reads papers, writes drafts, and runs experiments \u2014 end to end.",
-    "url": "https://github.com/xprilion/OpenMLR",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "machine-learning",
-      "ml",
-      "research"
-    ],
-    "created_at": "2026-04-24T21:15:26Z"
+    "created_at": "2026-04-25T07:23:23Z"
   }
 ]
