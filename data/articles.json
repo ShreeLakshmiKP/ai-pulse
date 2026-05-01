@@ -2723,6 +2723,123 @@
     "image": null
   },
   {
+    "id": "rss-e0cea1ae",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 30 Apr 2026 23:07:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-485653f3",
+    "title": "Apple was surprised by AI-driven demand for Macs",
+    "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Thu, 30 Apr 2026 22:12:52 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4f23af2c",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 30 Apr 2026 20:14:47 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fa5627bf",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "tags": [
+      "GPT",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Thu, 30 Apr 2026 19:27:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3d553336",
+    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+    "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Thu, 30 Apr 2026 18:42:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9ec0466f",
+    "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
+    "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "tags": [
+      "LLM",
+      "startups"
+    ],
+    "category": "AI Tools",
+    "published_date": "Thu, 30 Apr 2026 15:59:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b59858ef",
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/ai-co-clinician/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 30 Apr 2026 12:14:15 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-99c79c91",
+    "title": "The Download: the North Pole\u2019s future and humanoid data",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole\u2019s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Thu, 30 Apr 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-19231aea",
     "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
     "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
@@ -2764,6 +2881,19 @@
     ],
     "category": "AI Startups",
     "published_date": "Thu, 30 Apr 2026 00:07:15 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7ec2acda",
+    "title": "Introducing Advanced Account Security",
+    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advanced-account-security",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Thu, 30 Apr 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4184,129 +4314,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Sun, 22 Mar 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-bf069dd4",
-    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 22 Mar 2026 06:20:43 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e0862fe0",
-    "title": "OpenAI\u2019s existential questions",
-    "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sun, 19 Apr 2026 21:24:06 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e0ab883c",
-    "title": "The 12-month window",
-    "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Models",
-    "published_date": "Sun, 19 Apr 2026 19:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-07e3823e",
-    "title": "Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures",
-    "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 19 Apr 2026 16:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3217ffdb",
-    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 19 Apr 2026 16:01:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5acfb02d",
-    "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-    "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Sun, 15 Mar 2026 21:01:51 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-65445343",
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Sun, 15 Mar 2026 18:49:32 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-48324556",
-    "title": "Wiz investor unpacks Google\u2019s $32B acquisition",
-    "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 15 Mar 2026 15:30:33 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0edae4e8",
-    "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
-    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sun, 12 Apr 2026 21:14:38 +0000",
     "image": null
   }
 ]

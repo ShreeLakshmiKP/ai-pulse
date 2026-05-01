@@ -4,7 +4,7 @@
     "name": "nexu-io/open-design",
     "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \u00b7 \ud83d\uddbc\ufe0f sandboxed preview \u00b7 \ud83d\udce6 HTML/PDF/PPTX export. \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 5402,
+    "stars": 9212,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -31,74 +31,11 @@
     "created_at": "2026-04-28T04:25:20Z"
   },
   {
-    "id": "gh-1220418983",
-    "name": "alash3al/stash",
-    "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 569,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12Z"
-  },
-  {
-    "id": "gh-1222464224",
-    "name": "HKUDS-AI/polymarket-ai-trading",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
-    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 161,
-    "language": "HTML",
-    "topics": [
-      "dashboard",
-      "defi",
-      "express",
-      "fintech",
-      "hkuds-ai",
-      "javascript",
-      "machine-learning",
-      "mean-reversion",
-      "nodejs",
-      "openai",
-      "paper-trading",
-      "polymarket",
-      "prediction-markets",
-      "quantitative-finance",
-      "rest-api",
-      "sqlite",
-      "trading-bot",
-      "vercel",
-      "web3"
-    ],
-    "created_at": "2026-04-27T11:47:30Z"
-  },
-  {
-    "id": "gh-1222126520",
-    "name": "maria-rcks/clawd.rip",
-    "description": "Everything that *went* wrong with Claude.",
-    "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 90,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "anthropic",
-      "claude",
-      "claudecode",
-      "llm",
-      "theprimeagen"
-    ],
-    "created_at": "2026-04-27T04:18:39Z"
-  },
-  {
     "id": "gh-1225025578",
     "name": "endless-sky-team/ai-trading-agent",
     "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
     "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 87,
+    "stars": 154,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -125,26 +62,41 @@
     "created_at": "2026-04-29T21:48:01Z"
   },
   {
-    "id": "gh-1222045086",
-    "name": "bbostaice/axi-front-design-skill",
-    "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
-    "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 82,
-    "language": null,
+    "id": "gh-1222464224",
+    "name": "HKUDS-AI/polymarket-ai-trading",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
+    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
+    "stars": 145,
+    "language": "HTML",
     "topics": [
-      "ai",
-      "claude-code",
-      "skill",
-      "vibe-coding"
+      "dashboard",
+      "defi",
+      "express",
+      "fintech",
+      "hkuds-ai",
+      "javascript",
+      "machine-learning",
+      "mean-reversion",
+      "nodejs",
+      "openai",
+      "paper-trading",
+      "polymarket",
+      "prediction-markets",
+      "quantitative-finance",
+      "rest-api",
+      "sqlite",
+      "trading-bot",
+      "vercel",
+      "web3"
     ],
-    "created_at": "2026-04-27T01:49:54Z"
+    "created_at": "2026-04-27T11:47:30Z"
   },
   {
     "id": "gh-1222252809",
     "name": "appergb/openless",
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
     "url": "https://github.com/appergb/openless",
-    "stars": 60,
+    "stars": 128,
     "language": "HTML",
     "topics": [
       "ai-prompt",
@@ -167,11 +119,44 @@
     "created_at": "2026-04-27T07:25:49Z"
   },
   {
+    "id": "gh-1222126520",
+    "name": "maria-rcks/clawd.rip",
+    "description": "Everything that *went* wrong with Claude.",
+    "url": "https://github.com/maria-rcks/clawd.rip",
+    "stars": 97,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude",
+      "claudecode",
+      "llm",
+      "theprimeagen"
+    ],
+    "created_at": "2026-04-27T04:18:39Z"
+  },
+  {
+    "id": "gh-1222045086",
+    "name": "bbostaice/axi-front-design-skill",
+    "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 87,
+    "language": null,
+    "topics": [
+      "ai",
+      "claude-code",
+      "skill",
+      "vibe-coding"
+    ],
+    "created_at": "2026-04-27T01:49:54Z"
+  },
+  {
     "id": "gh-1224738938",
     "name": "PKU-YuanGroup/TIDE",
     "description": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
     "url": "https://github.com/PKU-YuanGroup/TIDE",
-    "stars": 43,
+    "stars": 60,
     "language": "Python",
     "topics": [
       "discrete-diffusion",
@@ -182,11 +167,28 @@
     "created_at": "2026-04-29T15:21:39Z"
   },
   {
+    "id": "gh-1224498772",
+    "name": "JodusNodus/opencode-chrome-annotation",
+    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
+    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
+    "stars": 46,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "ai",
+      "chrome",
+      "llms",
+      "opencode"
+    ],
+    "created_at": "2026-04-29T10:43:24Z"
+  },
+  {
     "id": "gh-1222756906",
     "name": "mercedezformichelli48242088665/FaceChanger-DeepFake-AI-2026-v3",
     "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
     "url": "https://github.com/mercedezformichelli48242088665/FaceChanger-DeepFake-AI-2026-v3",
-    "stars": 41,
+    "stars": 42,
     "language": "C#",
     "topics": [
       "ai-deep-fake",
@@ -226,24 +228,18 @@
     "created_at": "2026-04-27T16:30:03Z"
   },
   {
-    "id": "gh-1221489330",
-    "name": "Jane-xiaoer/smart-rename",
-    "description": "Right-click any file in Finder \u2192 AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
-    "url": "https://github.com/Jane-xiaoer/smart-rename",
-    "stars": 28,
-    "language": "Shell",
+    "id": "gh-1222527844",
+    "name": "ifixai-ai/diagnostic",
+    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
+    "url": "https://github.com/ifixai-ai/diagnostic",
+    "stars": 35,
+    "language": "Python",
     "topics": [
       "ai",
-      "automation",
-      "bash",
-      "cli",
-      "file-management",
-      "gemini",
-      "macos",
-      "python",
-      "quick-action"
+      "diagnostic-tool",
+      "misalignment"
     ],
-    "created_at": "2026-04-26T09:27:46Z"
+    "created_at": "2026-04-27T13:02:34Z"
   },
   {
     "id": "gh-1220886594",
@@ -327,29 +323,24 @@
     "created_at": "2026-04-25T06:22:38Z"
   },
   {
-    "id": "gh-1220678583",
-    "name": "cliprise/awesome-ai-art-generator-prompts",
-    "description": "AI art generator prompts, AI artwork ideas, free AI art workflows, creative prompt templates, AI art gallery structure and Cliprise resources.",
-    "url": "https://github.com/cliprise/awesome-ai-art-generator-prompts",
+    "id": "gh-1221252023",
+    "name": "Rangle2/mda",
+    "description": "Memory system for LLMs that remembers everything you teach it during conversation. No reindexing, no context window limits. CPU by default, GPU optional.",
+    "url": "https://github.com/Rangle2/mda",
     "stars": 9,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "ai-art",
-      "ai-art-generator",
-      "ai-art-prompts",
-      "ai-artwork",
-      "ai-image-generator",
-      "art-generator",
-      "artwork-generator",
-      "cliprise",
-      "creative-ai",
-      "digital-art",
-      "free-ai-art-generator",
-      "generative-ai",
-      "image-generation",
-      "prompt-engineering",
-      "text-to-image"
+      "associative-memory",
+      "continual-learning",
+      "llm",
+      "machine-learning",
+      "memory-augmented",
+      "oja-rule",
+      "online-learning",
+      "python",
+      "rag",
+      "transformer"
     ],
-    "created_at": "2026-04-25T07:23:23Z"
+    "created_at": "2026-04-26T00:27:14Z"
   }
 ]

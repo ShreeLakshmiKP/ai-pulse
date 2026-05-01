@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47952722",
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "url": "https://github.com/anthropics/claude-code/issues/53262",
-    "points": 1102,
-    "comments": 468,
+    "id": "hn-47963204",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "points": 1120,
+    "comments": 610,
     "source": "Hacker News",
-    "published_date": "2026-04-29T18:54:31Z"
+    "published_date": "2026-04-30T14:36:58Z"
   },
   {
-    "id": "hn-47946958",
-    "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-    "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-    "points": 400,
-    "comments": 227,
+    "id": "hn-47964617",
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "points": 387,
+    "comments": 133,
     "source": "Hacker News",
-    "published_date": "2026-04-29T11:42:46Z"
+    "published_date": "2026-04-30T16:09:26Z"
   },
   {
-    "id": "hn-47949750",
-    "title": "Why AI companies want you to be afraid of them",
-    "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-    "points": 276,
-    "comments": 212,
+    "id": "hn-47965503",
+    "title": "I built a Game Boy emulator in F#",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "points": 266,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-04-29T15:26:01Z"
+    "published_date": "2026-04-30T17:14:21Z"
   },
   {
-    "id": "hn-47949204",
-    "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-    "url": "https://github.com/GliaX/Stethoscope",
-    "points": 243,
-    "comments": 108,
+    "id": "hn-47963163",
+    "title": "The More Young People Use AI, the More They Hate It",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "points": 118,
+    "comments": 134,
     "source": "Hacker News",
-    "published_date": "2026-04-29T14:47:31Z"
+    "published_date": "2026-04-30T14:34:36Z"
   },
   {
-    "id": "hn-47947490",
-    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-    "points": 237,
-    "comments": 297,
+    "id": "hn-47963499",
+    "title": "Japan is building cardboard suicide drones",
+    "url": "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
+    "points": 92,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-04-29T12:38:50Z"
+    "published_date": "2026-04-30T14:55:36Z"
   },
   {
-    "id": "hn-47957294",
-    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "points": 210,
-    "comments": 93,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T02:15:47Z"
-  },
-  {
-    "id": "hn-47953011",
-    "title": "\"People who don't use AI will be left behind\"",
-    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
-    "points": 157,
-    "comments": 217,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T19:15:52Z"
-  },
-  {
-    "id": "hn-47946813",
-    "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-    "url": "https://github.com/DOS-History/Paterson-Listings",
-    "points": 142,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T11:25:12Z"
-  },
-  {
-    "id": "hn-47947525",
-    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
-    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-    "points": 128,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T12:43:12Z"
-  },
-  {
-    "id": "hn-47951786",
-    "title": "Ramp's Sheets AI Exfiltrates Financials",
-    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-    "points": 127,
-    "comments": 39,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T17:44:21Z"
-  },
-  {
-    "id": "hn-47957627",
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "points": 116,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T03:11:51Z"
-  },
-  {
-    "id": "hn-47956895",
-    "title": "Claude.ai and API unavailable [fixed]",
-    "url": "https://status.claude.com/incidents/2gf1jpyty350",
-    "points": 113,
-    "comments": 108,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T01:21:03Z"
-  },
-  {
-    "id": "hn-47947369",
-    "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
-    "url": "https://github.com/electricant/adblock-rust-manager",
-    "points": 89,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T12:24:53Z"
-  },
-  {
-    "id": "hn-47955118",
-    "title": "Vera: a programming language designed for machines to write",
-    "url": "https://github.com/aallan/vera",
-    "points": 87,
-    "comments": 70,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T21:41:32Z"
-  },
-  {
-    "id": "hn-47949538",
-    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-    "points": 85,
-    "comments": 65,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T15:11:12Z"
-  },
-  {
-    "id": "hn-47954745",
-    "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-    "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-    "points": 85,
-    "comments": 61,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T21:11:57Z"
-  },
-  {
-    "id": "hn-47953484",
-    "title": "Your CEO is suffering from AI psychosis",
-    "url": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
-    "points": 82,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T19:46:18Z"
-  },
-  {
-    "id": "hn-47956739",
-    "title": "Mike: open-source legal AI",
-    "url": "https://mikeoss.com/",
-    "points": 80,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T00:56:23Z"
-  },
-  {
-    "id": "hn-47945522",
-    "title": "Tell HN: An update from the new Tindie team",
-    "url": "https://news.ycombinator.com/item?id=47945522",
-    "points": 78,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-04-29T08:16:37Z"
-  },
-  {
-    "id": "hn-47950283",
-    "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
-    "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
-    "points": 51,
+    "id": "hn-47968112",
+    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+    "url": "https://pu.dev/",
+    "points": 75,
     "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-04-29T16:01:51Z"
+    "published_date": "2026-04-30T20:55:12Z"
+  },
+  {
+    "id": "hn-47970690",
+    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+    "url": "https://github.com/kernalix7/winpodx",
+    "points": 72,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T02:23:43Z"
+  },
+  {
+    "id": "hn-47963026",
+    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+    "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+    "points": 68,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T14:26:38Z"
+  },
+  {
+    "id": "hn-47961491",
+    "title": "Show HN: Kanwas, open-source shared context board for teams and agents",
+    "url": "https://github.com/kanwas-ai/kanwas",
+    "points": 56,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T12:35:37Z"
+  },
+  {
+    "id": "hn-47964897",
+    "title": "SatoshiGuesser \u2013 Roll for Bitcoin",
+    "url": "https://github.com/Pathos0925/SatoshiGuesser",
+    "points": 49,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T16:29:58Z"
+  },
+  {
+    "id": "hn-47965161",
+    "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
+    "url": "https://github.com/carlovalenti/TRiP",
+    "points": 34,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T16:48:17Z"
+  },
+  {
+    "id": "hn-47964595",
+    "title": "Sev: A graphical Emacs-like text editor, scriptable with Chibi-Scheme",
+    "url": "https://github.com/dylancobb/sev",
+    "points": 25,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T16:08:21Z"
+  },
+  {
+    "id": "hn-47971456",
+    "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
+    "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
+    "points": 24,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T05:02:15Z"
+  },
+  {
+    "id": "hn-47960033",
+    "title": "Chrome looks set to ship an LLM Prompt API to the web. We oppose this API",
+    "url": "https://mastodon.social/@firefoxwebdevs/116492853483021978",
+    "points": 23,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T09:16:07Z"
+  },
+  {
+    "id": "hn-47962672",
+    "title": "Supreme Court Limits Voting Rights Act",
+    "url": "https://www.politico.com/news/2026/04/29/supreme-court-voting-rights-act-louisiana-00898123",
+    "points": 22,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T14:02:45Z"
+  },
+  {
+    "id": "hn-47969392",
+    "title": "US Supreme Court Guts Key Provision of Voting Rights Act",
+    "url": "https://www.reuters.com/world/us-supreme-court-blocks-louisiana-voting-map-with-second-black-majority-district-2026-04-29/",
+    "points": 21,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T23:01:22Z"
+  },
+  {
+    "id": "hn-47969258",
+    "title": "AI discovery reveals DNA isn\u2019t locked away in cells after all",
+    "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+    "points": 19,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T22:45:44Z"
+  },
+  {
+    "id": "hn-47965227",
+    "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+    "url": "https://github.com/kubereboot/kured",
+    "points": 19,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T16:53:44Z"
+  },
+  {
+    "id": "hn-47966484",
+    "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
+    "url": "https://contralabs.com/research/human-creativity-benchmark",
+    "points": 18,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T18:33:03Z"
+  },
+  {
+    "id": "hn-47964957",
+    "title": "Dotcl: Common Lisp Implementation on .NET",
+    "url": "https://github.com/dotcl/dotcl",
+    "points": 18,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-04-30T16:33:24Z"
   }
 ]
