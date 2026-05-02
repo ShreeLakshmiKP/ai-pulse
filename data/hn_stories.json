@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-47963204",
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "points": 1120,
-    "comments": 610,
+    "id": "hn-47977134",
+    "title": "The gay jailbreak technique (2025)",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "points": 486,
+    "comments": 197,
     "source": "Hacker News",
-    "published_date": "2026-04-30T14:36:58Z"
+    "published_date": "2026-05-01T16:59:35Z"
   },
   {
-    "id": "hn-47964617",
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "points": 387,
-    "comments": 133,
+    "id": "hn-47972511",
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "points": 483,
+    "comments": 141,
     "source": "Hacker News",
-    "published_date": "2026-04-30T16:09:26Z"
+    "published_date": "2026-05-01T08:43:45Z"
   },
   {
-    "id": "hn-47965503",
-    "title": "I built a Game Boy emulator in F#",
-    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "points": 266,
-    "comments": 59,
+    "id": "hn-47976415",
+    "title": "Uber torches 2026 AI budget on Claude Code in four months",
+    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "points": 377,
+    "comments": 445,
     "source": "Hacker News",
-    "published_date": "2026-04-30T17:14:21Z"
+    "published_date": "2026-05-01T16:08:53Z"
   },
   {
-    "id": "hn-47963163",
-    "title": "The More Young People Use AI, the More They Hate It",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-    "points": 118,
-    "comments": 134,
+    "id": "hn-47977383",
+    "title": "AI uses less water than the public thinks",
+    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "points": 371,
+    "comments": 336,
     "source": "Hacker News",
-    "published_date": "2026-04-30T14:34:36Z"
+    "published_date": "2026-05-01T17:18:58Z"
   },
   {
-    "id": "hn-47963499",
-    "title": "Japan is building cardboard suicide drones",
-    "url": "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
-    "points": 92,
-    "comments": 68,
+    "id": "hn-47973378",
+    "title": "Apple accidentally left Claude.md files Apple Support app",
+    "url": "https://x.com/aaronp613/status/2049986504617820551",
+    "points": 371,
+    "comments": 306,
     "source": "Hacker News",
-    "published_date": "2026-04-30T14:55:36Z"
+    "published_date": "2026-05-01T11:08:32Z"
   },
   {
-    "id": "hn-47968112",
-    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
-    "url": "https://pu.dev/",
-    "points": 75,
-    "comments": 21,
+    "id": "hn-47975571",
+    "title": "Ask HN: Who is hiring? (May 2026)",
+    "url": "https://news.ycombinator.com/item?id=47975571",
+    "points": 253,
+    "comments": 270,
     "source": "Hacker News",
-    "published_date": "2026-04-30T20:55:12Z"
+    "published_date": "2026-05-01T15:00:07Z"
   },
   {
-    "id": "hn-47970690",
-    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
-    "url": "https://github.com/kernalix7/winpodx",
-    "points": 72,
-    "comments": 37,
+    "id": "hn-47976856",
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+    "points": 234,
+    "comments": 260,
     "source": "Hacker News",
-    "published_date": "2026-05-01T02:23:43Z"
+    "published_date": "2026-05-01T16:42:41Z"
   },
   {
-    "id": "hn-47963026",
-    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-    "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
-    "points": 68,
-    "comments": 42,
+    "id": "hn-47975592",
+    "title": "Whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
+    "url": "https://github.com/whohas/whohas",
+    "points": 140,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-04-30T14:26:38Z"
+    "published_date": "2026-05-01T15:01:08Z"
   },
   {
-    "id": "hn-47961491",
-    "title": "Show HN: Kanwas, open-source shared context board for teams and agents",
-    "url": "https://github.com/kanwas-ai/kanwas",
+    "id": "hn-47973108",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "points": 139,
+    "comments": 126,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T10:28:12Z"
+  },
+  {
+    "id": "hn-47978834",
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "url": "https://github.com/microsoft/lib0xc",
+    "points": 135,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T19:10:56Z"
+  },
+  {
+    "id": "hn-47977470",
+    "title": "Understand Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "points": 131,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T17:27:03Z"
+  },
+  {
+    "id": "hn-47972659",
+    "title": "Advanced Quantization Algorithm for LLMs",
+    "url": "https://github.com/intel/auto-round",
+    "points": 123,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T09:10:02Z"
+  },
+  {
+    "id": "hn-47972888",
+    "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+    "url": "https://news.ycombinator.com/item?id=47972888",
+    "points": 101,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T09:52:15Z"
+  },
+  {
+    "id": "hn-47977694",
+    "title": "Show HN: AI CAD Harness",
+    "url": "https://fusion.adam.new/install",
+    "points": 82,
+    "comments": 85,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T17:43:53Z"
+  },
+  {
+    "id": "hn-47977026",
+    "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
+    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+    "points": 69,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T16:52:43Z"
+  },
+  {
+    "id": "hn-47979898",
+    "title": "Ask HN: Who wants to be fired? (May 2026)",
+    "url": "https://news.ycombinator.com/item?id=47979898",
     "points": 56,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-05-01T20:31:54Z"
+  },
+  {
+    "id": "hn-47973093",
+    "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+    "url": "https://github.com/leox255/loopsy",
+    "points": 48,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-04-30T12:35:37Z"
+    "published_date": "2026-05-01T10:25:41Z"
   },
   {
-    "id": "hn-47964897",
-    "title": "SatoshiGuesser \u2013 Roll for Bitcoin",
-    "url": "https://github.com/Pathos0925/SatoshiGuesser",
-    "points": 49,
-    "comments": 51,
+    "id": "hn-47979438",
+    "title": "Show HN: Destiny \u2013 Claude Code's fortune Teller skill",
+    "url": "https://github.com/xodn348/destiny",
+    "points": 41,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-04-30T16:29:58Z"
+    "published_date": "2026-05-01T19:56:18Z"
   },
   {
-    "id": "hn-47965161",
-    "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
-    "url": "https://github.com/carlovalenti/TRiP",
-    "points": 34,
-    "comments": 6,
+    "id": "hn-47977659",
+    "title": "Show HN: My Private GitHub on Postgres",
+    "url": "https://github.com/calebwin/gitgres",
+    "points": 37,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-04-30T16:48:17Z"
+    "published_date": "2026-05-01T17:40:15Z"
   },
   {
-    "id": "hn-47964595",
-    "title": "Sev: A graphical Emacs-like text editor, scriptable with Chibi-Scheme",
-    "url": "https://github.com/dylancobb/sev",
-    "points": 25,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T16:08:21Z"
-  },
-  {
-    "id": "hn-47971456",
-    "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
-    "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
-    "points": 24,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-01T05:02:15Z"
-  },
-  {
-    "id": "hn-47960033",
-    "title": "Chrome looks set to ship an LLM Prompt API to the web. We oppose this API",
-    "url": "https://mastodon.social/@firefoxwebdevs/116492853483021978",
-    "points": 23,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T09:16:07Z"
-  },
-  {
-    "id": "hn-47962672",
-    "title": "Supreme Court Limits Voting Rights Act",
-    "url": "https://www.politico.com/news/2026/04/29/supreme-court-voting-rights-act-louisiana-00898123",
-    "points": 22,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T14:02:45Z"
-  },
-  {
-    "id": "hn-47969392",
-    "title": "US Supreme Court Guts Key Provision of Voting Rights Act",
-    "url": "https://www.reuters.com/world/us-supreme-court-blocks-louisiana-voting-map-with-second-black-majority-district-2026-04-29/",
-    "points": 21,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T23:01:22Z"
-  },
-  {
-    "id": "hn-47969258",
-    "title": "AI discovery reveals DNA isn\u2019t locked away in cells after all",
-    "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+    "id": "hn-47983873",
+    "title": "Spirit Airlines Is Winding Down All Operations",
+    "url": "https://www.spiritrestructuring.com/",
     "points": 19,
-    "comments": 8,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-04-30T22:45:44Z"
-  },
-  {
-    "id": "hn-47965227",
-    "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
-    "url": "https://github.com/kubereboot/kured",
-    "points": 19,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T16:53:44Z"
-  },
-  {
-    "id": "hn-47966484",
-    "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
-    "url": "https://contralabs.com/research/human-creativity-benchmark",
-    "points": 18,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T18:33:03Z"
-  },
-  {
-    "id": "hn-47964957",
-    "title": "Dotcl: Common Lisp Implementation on .NET",
-    "url": "https://github.com/dotcl/dotcl",
-    "points": 18,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-04-30T16:33:24Z"
+    "published_date": "2026-05-02T06:28:00Z"
   }
 ]
