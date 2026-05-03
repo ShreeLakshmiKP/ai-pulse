@@ -4,7 +4,7 @@
     "name": "nexu-io/open-design",
     "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \ud83d\uddbc Generate web \u00b7 desktop \u00b7 mobile prototypes \u00b7 slides \u00b7 images \u00b7 videos \u00b7 HyperFrames \ud83d\udce6 Sandboxed preview \u00b7 HTML/PDF/PPTX/MP4 export \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 12824,
+    "stars": 16972,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -35,7 +35,7 @@
     "name": "appergb/openless",
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
     "url": "https://github.com/appergb/openless",
-    "stars": 242,
+    "stars": 445,
     "language": "HTML",
     "topics": [
       "ai-prompt",
@@ -62,7 +62,7 @@
     "name": "endless-sky-team/ai-trading-agent",
     "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
     "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 179,
+    "stars": 199,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -89,41 +89,11 @@
     "created_at": "2026-04-29T21:48:01Z"
   },
   {
-    "id": "gh-1222464224",
-    "name": "HKUDS-AI/polymarket-ai-trading",
-    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
-    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 143,
-    "language": "HTML",
-    "topics": [
-      "dashboard",
-      "defi",
-      "express",
-      "fintech",
-      "hkuds-ai",
-      "javascript",
-      "machine-learning",
-      "mean-reversion",
-      "nodejs",
-      "openai",
-      "paper-trading",
-      "polymarket",
-      "prediction-markets",
-      "quantitative-finance",
-      "rest-api",
-      "sqlite",
-      "trading-bot",
-      "vercel",
-      "web3"
-    ],
-    "created_at": "2026-04-27T11:47:30Z"
-  },
-  {
     "id": "gh-1226272373",
     "name": "warpdot-dev/composio",
     "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
     "url": "https://github.com/warpdot-dev/composio",
-    "stars": 141,
+    "stars": 192,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -154,7 +124,7 @@
     "name": "lukiIabs/trading-agents",
     "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
     "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 140,
+    "stars": 191,
     "language": "Python",
     "topics": [
       "agents",
@@ -180,25 +150,11 @@
     "created_at": "2026-05-01T08:27:19Z"
   },
   {
-    "id": "gh-1223293586",
-    "name": "mrslimslim/gpt-image-canvas",
-    "description": "Local professional AI canvas built with tldraw.",
-    "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 129,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-tools",
-      "aiimagegenerator"
-    ],
-    "created_at": "2026-04-28T07:26:43Z"
-  },
-  {
     "id": "gh-1224347838",
     "name": "peter123023/awesome-claude-api",
     "description": "\u6536\u96c6\u548c\u6574\u7406\u7684\u53ef\u9760Claude\u4e2d\u8f6cAPI\u8d44\u6e90\u5217\u8868\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u627e\u5230\u7a33\u5b9a\u3001\u9ad8\u6027\u4ef7\u6bd4\u7684Claude API\u670d\u52a1",
     "url": "https://github.com/peter123023/awesome-claude-api",
-    "stars": 123,
+    "stars": 164,
     "language": null,
     "topics": [
       "api",
@@ -211,61 +167,25 @@
     "created_at": "2026-04-29T07:36:49Z"
   },
   {
-    "id": "gh-1222126520",
-    "name": "maria-rcks/clawd.rip",
-    "description": "Everything that *went* wrong with Claude.",
-    "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 101,
+    "id": "gh-1223293586",
+    "name": "mrslimslim/gpt-image-canvas",
+    "description": "Local professional AI canvas built with tldraw.",
+    "url": "https://github.com/mrslimslim/gpt-image-canvas",
+    "stars": 156,
     "language": "TypeScript",
     "topics": [
-      "agent",
       "ai",
-      "anthropic",
-      "claude",
-      "claudecode",
-      "llm",
-      "theprimeagen"
+      "ai-tools",
+      "aiimagegenerator"
     ],
-    "created_at": "2026-04-27T04:18:39Z"
-  },
-  {
-    "id": "gh-1222045086",
-    "name": "bbostaice/axi-front-design-skill",
-    "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
-    "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 93,
-    "language": null,
-    "topics": [
-      "ai",
-      "claude-code",
-      "skill",
-      "vibe-coding"
-    ],
-    "created_at": "2026-04-27T01:49:54Z"
-  },
-  {
-    "id": "gh-1224498772",
-    "name": "JodusNodus/opencode-chrome-annotation",
-    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
-    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 51,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agentic-coding",
-      "ai",
-      "chrome",
-      "llms",
-      "opencode"
-    ],
-    "created_at": "2026-04-29T10:43:24Z"
+    "created_at": "2026-04-28T07:26:43Z"
   },
   {
     "id": "gh-1222527844",
     "name": "ifixai-ai/diagnostic",
     "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 41,
+    "stars": 142,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -292,11 +212,99 @@
     "created_at": "2026-04-27T13:02:34Z"
   },
   {
+    "id": "gh-1222464224",
+    "name": "HKUDS-AI/polymarket-ai-trading",
+    "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
+    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
+    "stars": 141,
+    "language": "HTML",
+    "topics": [
+      "dashboard",
+      "defi",
+      "express",
+      "fintech",
+      "hkuds-ai",
+      "javascript",
+      "machine-learning",
+      "mean-reversion",
+      "nodejs",
+      "openai",
+      "paper-trading",
+      "polymarket",
+      "prediction-markets",
+      "quantitative-finance",
+      "rest-api",
+      "sqlite",
+      "trading-bot",
+      "vercel",
+      "web3"
+    ],
+    "created_at": "2026-04-27T11:47:30Z"
+  },
+  {
+    "id": "gh-1222126520",
+    "name": "maria-rcks/clawd.rip",
+    "description": "Everything that *went* wrong with Claude.",
+    "url": "https://github.com/maria-rcks/clawd.rip",
+    "stars": 102,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude",
+      "claudecode",
+      "llm",
+      "theprimeagen"
+    ],
+    "created_at": "2026-04-27T04:18:39Z"
+  },
+  {
+    "id": "gh-1222045086",
+    "name": "bbostaice/axi-front-design-skill",
+    "description": "\u5e2e\u4f60\u505a PPT\u3001\u843d\u5730\u9875\u3001\u4ea7\u54c1\u52a8\u6548\u548c\u4ea4\u4e92\u539f\u578b\u7684 Skill\u3002\u2014\u2014by \u963f\u897f_\u51fa\u6d77",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 100,
+    "language": null,
+    "topics": [
+      "ai",
+      "claude-code",
+      "skill",
+      "vibe-coding"
+    ],
+    "created_at": "2026-04-27T01:49:54Z"
+  },
+  {
+    "id": "gh-1223761956",
+    "name": "derrickgong87/product-idea-excavator",
+    "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
+    "url": "https://github.com/derrickgong87/product-idea-excavator",
+    "stars": 52,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "bilingual",
+      "claude",
+      "claude-skills",
+      "commercial-use",
+      "mvp",
+      "open-source",
+      "prd",
+      "product-discovery",
+      "product-management",
+      "saas",
+      "skills",
+      "startup"
+    ],
+    "created_at": "2026-04-28T16:21:11Z"
+  },
+  {
     "id": "gh-1222608265",
     "name": "elisaterumi-ai/agent-skills-in-practice",
     "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
     "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 35,
+    "stars": 51,
     "language": null,
     "topics": [
       "agent-skills",
@@ -307,37 +315,6 @@
       "machine-learning"
     ],
     "created_at": "2026-04-27T14:29:45Z"
-  },
-  {
-    "id": "gh-1221303916",
-    "name": "smixs/visual-skills",
-    "description": "Professional Claude Skills for AI image and video prompting. Supports Nano Banana (Gemini 3 Pro/Flash), GPT Image 2, Seedance 2.0, Kling 3.0 (multi-shot + native dialogue), Veo. Works with Claude Code, Cursor, Windsurf, OpenCode, Hermes-agent.",
-    "url": "https://github.com/smixs/visual-skills",
-    "stars": 19,
-    "language": null,
-    "topics": [
-      "ai-image-generation",
-      "ai-prompts",
-      "ai-video-generation",
-      "claude",
-      "claude-agent-sdk",
-      "claude-code",
-      "claude-skills",
-      "cline",
-      "creative-director",
-      "cursor",
-      "generative-ai",
-      "gpt-image",
-      "hermes-agent",
-      "kling",
-      "nano-banana",
-      "opencode",
-      "prompt-engineering",
-      "seedance",
-      "veo",
-      "windsurf"
-    ],
-    "created_at": "2026-04-26T02:46:33Z"
   },
   {
     "id": "gh-1226315599",
@@ -355,5 +332,36 @@
       "typescript"
     ],
     "created_at": "2026-05-01T08:28:25Z"
+  },
+  {
+    "id": "gh-1225709304",
+    "name": "programmersd21/scratch-copilot",
+    "description": " \u2728An AI-powered Chrome extension for Scratch 3.0 that acts as your copilot. Seamlessly generate entire games, inject blocks, and automatically load sprites, sounds, and backdrops from the Scratch library using Gemini AI directly within the editor.",
+    "url": "https://github.com/programmersd21/scratch-copilot",
+    "stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-ai",
+      "ai-assistant",
+      "ast-generation",
+      "block-programming",
+      "chrome-extension",
+      "copilot",
+      "creative-coding",
+      "education-tech",
+      "gemini-api",
+      "generative-ai",
+      "javascript",
+      "llm-tools",
+      "scratch",
+      "scratch-3",
+      "scratch-api",
+      "scratch-extension",
+      "scratch-gui",
+      "scratch-vm",
+      "shadow-dom",
+      "visual-programming"
+    ],
+    "created_at": "2026-04-30T14:55:57Z"
   }
 ]
