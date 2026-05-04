@@ -1,182 +1,164 @@
 [
   {
-    "id": "hn-47989883",
-    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-    "url": "https://github.com/microsoft/vscode/pull/310226",
-    "points": 1102,
-    "comments": 521,
+    "id": "hn-48002136",
+    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+    "url": "https://github.com/aattaran/deepclaude",
+    "points": 415,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-05-02T19:57:26Z"
+    "published_date": "2026-05-03T22:13:20Z"
   },
   {
-    "id": "hn-47987256",
-    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "url": "https://arxiv.org/abs/2509.00462",
-    "points": 323,
-    "comments": 171,
+    "id": "hn-48002777",
+    "title": "Let's Buy Spirit Air",
+    "url": "https://letsbuyspiritair.com/",
+    "points": 313,
+    "comments": 298,
     "source": "Hacker News",
-    "published_date": "2026-05-02T15:28:13Z"
+    "published_date": "2026-05-03T23:36:11Z"
   },
   {
-    "id": "hn-47993235",
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "points": 237,
-    "comments": 107,
+    "id": "hn-47998225",
+    "title": "For thirty years I programmed with Phish on, every day",
+    "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
+    "points": 217,
+    "comments": 172,
     "source": "Hacker News",
-    "published_date": "2026-05-03T04:05:28Z"
+    "published_date": "2026-05-03T15:55:59Z"
   },
   {
-    "id": "hn-47988268",
-    "title": "Ask HN: Is the Job Market Actually Bad?",
-    "url": "https://news.ycombinator.com/item?id=47988268",
-    "points": 99,
-    "comments": 148,
+    "id": "hn-47995037",
+    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+    "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+    "points": 171,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-05-02T17:10:35Z"
+    "published_date": "2026-05-03T09:14:56Z"
   },
   {
-    "id": "hn-47990708",
-    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
-    "url": "https://hnup.date/hn-sota",
-    "points": 94,
+    "id": "hn-47999520",
+    "title": "LLMs Are Not a Higher Level of Abstraction",
+    "url": "https://www.lelanthran.com/chap15/content.html",
+    "points": 113,
+    "comments": 105,
+    "source": "Hacker News",
+    "published_date": "2026-05-03T17:51:58Z"
+  },
+  {
+    "id": "hn-47999346",
+    "title": "The Oscars just banned AI from winning acting and writing awards",
+    "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
+    "points": 72,
     "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-05-02T21:25:05Z"
+    "published_date": "2026-05-03T17:34:15Z"
   },
   {
-    "id": "hn-47985622",
-    "title": "Spirit Airlines canceled all flights and is going out of business",
-    "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
-    "points": 75,
-    "comments": 43,
+    "id": "hn-48000420",
+    "title": "Colorado grandma keeps getting pulled over due to database error",
+    "url": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
+    "points": 43,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-05-02T11:56:32Z"
+    "published_date": "2026-05-03T19:23:20Z"
   },
   {
-    "id": "hn-47991018",
-    "title": "Voice-AI-for-Beginners \u2013 A curated learning path for developers",
-    "url": "https://github.com/mahimairaja/voiceai",
-    "points": 70,
+    "id": "hn-47999754",
+    "title": "How Kepler built verifiable AI for financial services with Claude",
+    "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+    "points": 41,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-05-03T18:14:56Z"
+  },
+  {
+    "id": "hn-47996055",
+    "title": "Show HN: I built a RISC-V emulator that runs DOOM",
+    "url": "https://github.com/lalitshankarch/rvcore",
+    "points": 39,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-03T11:57:12Z"
+  },
+  {
+    "id": "hn-48002681",
+    "title": "Every American interacting with chatbot would need to upload a government ID",
+    "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
+    "points": 34,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-05-02T22:03:15Z"
+    "published_date": "2026-05-03T23:22:11Z"
   },
   {
-    "id": "hn-47985077",
-    "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
-    "url": "https://mljar.com/",
-    "points": 65,
-    "comments": 10,
+    "id": "hn-47996094",
+    "title": "Show HN: I built a tool that helps predict HN front page success",
+    "url": "https://wannalaunch.com/",
+    "points": 25,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-05-02T10:21:31Z"
+    "published_date": "2026-05-03T12:02:41Z"
   },
   {
-    "id": "hn-47991340",
-    "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-    "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
-    "points": 64,
-    "comments": 91,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T22:44:23Z"
-  },
-  {
-    "id": "hn-47985210",
-    "title": "Show HN: Piruetas \u2013 A self-hosted diary app I built for my girlfriend",
-    "url": "https://piruet.app",
-    "points": 61,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T10:42:55Z"
-  },
-  {
-    "id": "hn-47984675",
-    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-    "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-    "points": 51,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T08:54:27Z"
-  },
-  {
-    "id": "hn-47984614",
-    "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-    "url": "https://snewpapers.com/",
-    "points": 46,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T08:42:45Z"
-  },
-  {
-    "id": "hn-47987278",
-    "title": "Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
-    "url": "https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php",
-    "points": 38,
-    "comments": 61,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T15:30:37Z"
-  },
-  {
-    "id": "hn-47984734",
-    "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-    "url": "https://iesna.eu/?wasm=skyglow_demo",
-    "points": 38,
+    "id": "hn-48001701",
+    "title": "xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs",
+    "url": "https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/",
+    "points": 22,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-05-02T09:08:18Z"
+    "published_date": "2026-05-03T21:28:57Z"
   },
   {
-    "id": "hn-47988880",
-    "title": "Richard Dawkins and The Claude Delusion: The great skeptic gets taken in",
-    "url": "https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion",
-    "points": 32,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T18:14:14Z"
-  },
-  {
-    "id": "hn-47986578",
-    "title": "Mini PC for local LLMs in 2026",
-    "url": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
-    "points": 31,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-05-02T14:14:49Z"
-  },
-  {
-    "id": "hn-47992742",
-    "title": "Elon Musk gets an apology from California regulators as a SpaceX lawsuit settled",
-    "url": "https://apnews.com/article/california-coastal-commission-spacex-elon-musk-33065c34cc0555faa91ca2571924e4b3",
-    "points": 30,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-03T02:31:09Z"
-  },
-  {
-    "id": "hn-47994012",
-    "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-    "url": "https://acai.sh/blog/specsmaxxing",
-    "points": 24,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-05-03T06:33:38Z"
-  },
-  {
-    "id": "hn-47985148",
-    "title": "Spirit Airlines says it's going out of business after 34 years",
-    "url": "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c",
-    "points": 16,
+    "id": "hn-48000521",
+    "title": "ASU Using AI Tool to Create Courses from Professors' Work Without Their",
+    "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
+    "points": 20,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-02T10:33:56Z"
+    "published_date": "2026-05-03T19:33:00Z"
   },
   {
-    "id": "hn-47992802",
-    "title": "AI, Intimacy, and the Data You Never Meant to Share",
-    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "id": "hn-47997777",
+    "title": "AI deleted my most tests, and said \"All Tests Pass\"",
+    "url": "https://typia.io/blog/ai-deleted-my-tests-and-said-all-tests-pass/",
     "points": 16,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-05-03T15:15:02Z"
+  },
+  {
+    "id": "hn-47996509",
+    "title": "Show HN: Bhatti \u2013 Self-hostable Firecracker orchestrator with auto pause/wake",
+    "url": "https://bhatti.sh/",
+    "points": 16,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-03T12:56:54Z"
+  },
+  {
+    "id": "hn-48003888",
+    "title": "Coffee appears to rewire the gut-brain connection",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
+    "points": 15,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-05-04T02:15:32Z"
+  },
+  {
+    "id": "hn-47996331",
+    "title": "Show HN: Parrot \u2013 a fun, skeuomorphic audio recorder to hear yourself",
+    "url": "https://www.zkhrv.com/parrot",
+    "points": 12,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-03T02:42:43Z"
+    "published_date": "2026-05-03T12:34:55Z"
+  },
+  {
+    "id": "hn-48003262",
+    "title": "Tesla is facing up to $14.5B in lawsuits and it's only getting worse",
+    "url": "https://electrek.co/2026/04/16/tesla-facing-up-to-14-billion-lawsuits-deep-dive/",
+    "points": 11,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-04T00:43:21Z"
   }
 ]
