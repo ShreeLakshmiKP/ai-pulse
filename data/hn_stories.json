@@ -1,164 +1,182 @@
 [
   {
-    "id": "hn-48002136",
-    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-    "url": "https://github.com/aattaran/deepclaude",
-    "points": 415,
-    "comments": 156,
+    "id": "hn-48016880",
+    "title": "Bun is being ported from Zig to Rust",
+    "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "points": 449,
+    "comments": 314,
     "source": "Hacker News",
-    "published_date": "2026-05-03T22:13:20Z"
+    "published_date": "2026-05-05T01:08:17Z"
   },
   {
-    "id": "hn-48002777",
-    "title": "Let's Buy Spirit Air",
-    "url": "https://letsbuyspiritair.com/",
-    "points": 313,
-    "comments": 298,
+    "id": "hn-48010301",
+    "title": "Incident with Issues and Webhooks \u2013 Resolved",
+    "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+    "points": 421,
+    "comments": 259,
     "source": "Hacker News",
-    "published_date": "2026-05-03T23:36:11Z"
+    "published_date": "2026-05-04T15:53:21Z"
   },
   {
-    "id": "hn-47998225",
-    "title": "For thirty years I programmed with Phish on, every day",
-    "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
-    "points": 217,
-    "comments": 172,
+    "id": "hn-48013919",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "points": 388,
+    "comments": 120,
     "source": "Hacker News",
-    "published_date": "2026-05-03T15:55:59Z"
+    "published_date": "2026-05-04T19:42:47Z"
   },
   {
-    "id": "hn-47995037",
-    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
-    "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-    "points": 171,
-    "comments": 42,
+    "id": "hn-48012022",
+    "title": "Days without GitHub incidents",
+    "url": "https://www.dayswithoutgithubincident.com/",
+    "points": 371,
+    "comments": 155,
     "source": "Hacker News",
-    "published_date": "2026-05-03T09:14:56Z"
+    "published_date": "2026-05-04T17:36:32Z"
   },
   {
-    "id": "hn-47999520",
-    "title": "LLMs Are Not a Higher Level of Abstraction",
-    "url": "https://www.lelanthran.com/chap15/content.html",
-    "points": 113,
-    "comments": 105,
+    "id": "hn-48008083",
+    "title": "PyInfra 3.8.0",
+    "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "points": 266,
+    "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-05-03T17:51:58Z"
+    "published_date": "2026-05-04T12:53:46Z"
   },
   {
-    "id": "hn-47999346",
-    "title": "The Oscars just banned AI from winning acting and writing awards",
-    "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
-    "points": 72,
-    "comments": 49,
+    "id": "hn-48012162",
+    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "points": 193,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-05-03T17:34:15Z"
+    "published_date": "2026-05-04T17:46:32Z"
   },
   {
-    "id": "hn-48000420",
-    "title": "Colorado grandma keeps getting pulled over due to database error",
-    "url": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
-    "points": 43,
-    "comments": 14,
+    "id": "hn-48017948",
+    "title": "Train Your Own LLM from Scratch",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "points": 170,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-05-03T19:23:20Z"
+    "published_date": "2026-05-05T04:09:17Z"
   },
   {
-    "id": "hn-47999754",
-    "title": "How Kepler built verifiable AI for financial services with Claude",
-    "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-    "points": 41,
-    "comments": 22,
+    "id": "hn-48011904",
+    "title": "Let's talk about LLMs",
+    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+    "points": 159,
+    "comments": 137,
     "source": "Hacker News",
-    "published_date": "2026-05-03T18:14:56Z"
+    "published_date": "2026-05-04T17:29:39Z"
   },
   {
-    "id": "hn-47996055",
-    "title": "Show HN: I built a RISC-V emulator that runs DOOM",
-    "url": "https://github.com/lalitshankarch/rvcore",
-    "points": 39,
-    "comments": 1,
+    "id": "hn-48010774",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "points": 116,
+    "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-05-03T11:57:12Z"
+    "published_date": "2026-05-04T16:21:38Z"
   },
   {
-    "id": "hn-48002681",
-    "title": "Every American interacting with chatbot would need to upload a government ID",
-    "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
-    "points": 34,
-    "comments": 4,
+    "id": "hn-48010266",
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "points": 105,
+    "comments": 130,
     "source": "Hacker News",
-    "published_date": "2026-05-03T23:22:11Z"
+    "published_date": "2026-05-04T15:51:37Z"
   },
   {
-    "id": "hn-47996094",
-    "title": "Show HN: I built a tool that helps predict HN front page success",
-    "url": "https://wannalaunch.com/",
-    "points": 25,
-    "comments": 23,
+    "id": "hn-48007503",
+    "title": "Why Almost Everyone Loses\u2013Except a Few Sharks\u2013On Prediction Markets",
+    "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
+    "points": 96,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-05-03T12:02:41Z"
+    "published_date": "2026-05-04T11:49:16Z"
   },
   {
-    "id": "hn-48001701",
-    "title": "xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs",
-    "url": "https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/",
-    "points": 22,
-    "comments": 11,
+    "id": "hn-48007880",
+    "title": "DAG Workflow Engine",
+    "url": "https://github.com/vivekg13186/Daisy-DAG",
+    "points": 59,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-05-03T21:28:57Z"
+    "published_date": "2026-05-04T12:32:00Z"
   },
   {
-    "id": "hn-48000521",
-    "title": "ASU Using AI Tool to Create Courses from Professors' Work Without Their",
-    "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
-    "points": 20,
-    "comments": 2,
+    "id": "hn-48012681",
+    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+    "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+    "points": 42,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-05-03T19:33:00Z"
+    "published_date": "2026-05-04T18:19:04Z"
   },
   {
-    "id": "hn-47997777",
-    "title": "AI deleted my most tests, and said \"All Tests Pass\"",
-    "url": "https://typia.io/blog/ai-deleted-my-tests-and-said-all-tests-pass/",
-    "points": 16,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-03T15:15:02Z"
-  },
-  {
-    "id": "hn-47996509",
-    "title": "Show HN: Bhatti \u2013 Self-hostable Firecracker orchestrator with auto pause/wake",
-    "url": "https://bhatti.sh/",
-    "points": 16,
+    "id": "hn-48014510",
+    "title": "AI startup JuliaHub raises $65M to rival Simulink",
+    "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
+    "points": 28,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-05-03T12:56:54Z"
+    "published_date": "2026-05-04T20:27:55Z"
   },
   {
-    "id": "hn-48003888",
-    "title": "Coffee appears to rewire the gut-brain connection",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
-    "points": 15,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T02:15:32Z"
-  },
-  {
-    "id": "hn-47996331",
-    "title": "Show HN: Parrot \u2013 a fun, skeuomorphic audio recorder to hear yourself",
-    "url": "https://www.zkhrv.com/parrot",
-    "points": 12,
+    "id": "hn-48017641",
+    "title": "Biscuit",
+    "url": "https://github.com/yattsu/biscuit",
+    "points": 21,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-03T12:34:55Z"
+    "published_date": "2026-05-05T03:09:56Z"
   },
   {
-    "id": "hn-48003262",
-    "title": "Tesla is facing up to $14.5B in lawsuits and it's only getting worse",
-    "url": "https://electrek.co/2026/04/16/tesla-facing-up-to-14-billion-lawsuits-deep-dive/",
-    "points": 11,
-    "comments": 0,
+    "id": "hn-48015548",
+    "title": "What do we lose when AI does our work?",
+    "url": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
+    "points": 18,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-05-04T00:43:21Z"
+    "published_date": "2026-05-04T21:57:56Z"
+  },
+  {
+    "id": "hn-48010578",
+    "title": "OpenAI Finalizes $10B Joint Venture with PE Firms to Deploy AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
+    "points": 18,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-05-04T16:11:28Z"
+  },
+  {
+    "id": "hn-48017742",
+    "title": "Fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+    "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+    "points": 13,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T03:28:01Z"
+  },
+  {
+    "id": "hn-48015659",
+    "title": "Researchers Asked LLMs for Strategic Advice. They Got \"Trendslop\" in Return",
+    "url": "https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return",
+    "points": 13,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-05-04T22:10:44Z"
+  },
+  {
+    "id": "hn-48013448",
+    "title": "Grove.el: an Obsidian-like note-taking mode for Emacs",
+    "url": "https://github.com/jonathanchu/grove",
+    "points": 13,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-05-04T19:08:17Z"
   }
 ]

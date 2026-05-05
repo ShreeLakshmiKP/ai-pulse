@@ -2708,6 +2708,21 @@
     "image": null
   },
   {
+    "id": "rss-2d00a23f",
+    "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+    "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 05 May 2026 03:31:54 +0000",
+    "image": null
+  },
+  {
     "id": "rss-46fc501d",
     "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
     "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
@@ -4298,22 +4313,6 @@
     ],
     "category": "AI Policy",
     "published_date": "Sun, 22 Mar 2026 14:43:51 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0302c850",
-    "title": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
-    "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "category": "AI Tools",
-    "published_date": "Sun, 22 Mar 2026 12:00:00 +0000",
     "image": null
   }
 ]
