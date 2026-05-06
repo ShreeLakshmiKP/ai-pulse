@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48016880",
-    "title": "Bun is being ported from Zig to Rust",
-    "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "points": 449,
-    "comments": 314,
+    "id": "hn-48022742",
+    "title": "AI didn't delete your database, you did",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "points": 518,
+    "comments": 290,
     "source": "Hacker News",
-    "published_date": "2026-05-05T01:08:17Z"
+    "published_date": "2026-05-05T14:07:50Z"
   },
   {
-    "id": "hn-48010301",
-    "title": "Incident with Issues and Webhooks \u2013 Resolved",
-    "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
-    "points": 421,
-    "comments": 259,
+    "id": "hn-48023861",
+    "title": "Three Inverse Laws of AI",
+    "url": "https://susam.net/inverse-laws-of-robotics.html",
+    "points": 431,
+    "comments": 296,
     "source": "Hacker News",
-    "published_date": "2026-05-04T15:53:21Z"
+    "published_date": "2026-05-05T15:27:18Z"
   },
   {
-    "id": "hn-48013919",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "points": 388,
-    "comments": 120,
+    "id": "hn-48020063",
+    "title": "When everyone has AI and the company still learns nothing",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "points": 357,
+    "comments": 234,
     "source": "Hacker News",
-    "published_date": "2026-05-04T19:42:47Z"
+    "published_date": "2026-05-05T09:30:22Z"
   },
   {
-    "id": "hn-48012022",
-    "title": "Days without GitHub incidents",
-    "url": "https://www.dayswithoutgithubincident.com/",
-    "points": 371,
-    "comments": 155,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T17:36:32Z"
-  },
-  {
-    "id": "hn-48008083",
-    "title": "PyInfra 3.8.0",
-    "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-    "points": 266,
+    "id": "hn-48021968",
+    "title": "AI Product Graveyard",
+    "url": "https://tooldirectory.ai/ai-graveyard",
+    "points": 248,
     "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-05-04T12:53:46Z"
+    "published_date": "2026-05-05T13:00:47Z"
   },
   {
-    "id": "hn-48012162",
-    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-    "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-    "points": 193,
-    "comments": 80,
+    "id": "hn-48029334",
+    "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+    "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+    "points": 147,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-04T17:46:32Z"
+    "published_date": "2026-05-05T22:07:18Z"
   },
   {
-    "id": "hn-48017948",
-    "title": "Train Your Own LLM from Scratch",
-    "url": "https://github.com/angelos-p/llm-from-scratch",
-    "points": 170,
-    "comments": 20,
+    "id": "hn-48022900",
+    "title": "Incident with Actions \u2013 Resolved",
+    "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
+    "points": 143,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-05-05T04:09:17Z"
+    "published_date": "2026-05-05T14:21:18Z"
   },
   {
-    "id": "hn-48011904",
-    "title": "Let's talk about LLMs",
-    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "points": 159,
-    "comments": 137,
+    "id": "hn-48028546",
+    "title": "Why most product tours get skipped",
+    "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "points": 141,
+    "comments": 111,
     "source": "Hacker News",
-    "published_date": "2026-05-04T17:29:39Z"
+    "published_date": "2026-05-05T21:05:19Z"
   },
   {
-    "id": "hn-48010774",
-    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-    "points": 116,
-    "comments": 107,
+    "id": "hn-48026021",
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "url": "https://arxiv.org/abs/2604.26752",
+    "points": 140,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-05-04T16:21:38Z"
+    "published_date": "2026-05-05T17:52:31Z"
   },
   {
-    "id": "hn-48010266",
-    "title": "Sierra Raises $950M at $15B Valuation",
-    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "points": 105,
-    "comments": 130,
+    "id": "hn-48031109",
+    "title": "Telus Uses AI to Alter Call-Agent Accents",
+    "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "points": 134,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-05-04T15:51:37Z"
+    "published_date": "2026-05-06T01:38:44Z"
   },
   {
-    "id": "hn-48007503",
-    "title": "Why Almost Everyone Loses\u2013Except a Few Sharks\u2013On Prediction Markets",
-    "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
-    "points": 96,
-    "comments": 98,
+    "id": "hn-48023496",
+    "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "url": "https://news.ycombinator.com/item?id=48023496",
+    "points": 117,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-05-04T11:49:16Z"
+    "published_date": "2026-05-05T15:03:18Z"
   },
   {
-    "id": "hn-48007880",
-    "title": "DAG Workflow Engine",
-    "url": "https://github.com/vivekg13186/Daisy-DAG",
-    "points": 59,
-    "comments": 52,
+    "id": "hn-48029753",
+    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+    "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+    "points": 95,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-05-04T12:32:00Z"
+    "published_date": "2026-05-05T22:43:47Z"
   },
   {
-    "id": "hn-48012681",
-    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
-    "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+    "id": "hn-48031707",
+    "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+    "url": "https://github.com/microsoft/vscode/issues/314311",
+    "points": 81,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T03:15:05Z"
+  },
+  {
+    "id": "hn-48025274",
+    "title": "GPT\u20115.5 Instant",
+    "url": "https://openai.com/index/gpt-5-5-instant/",
+    "points": 79,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T17:02:23Z"
+  },
+  {
+    "id": "hn-48025282",
+    "title": "Why airlines are always going bankrupt",
+    "url": "https://davidoks.blog/p/why-airlines-are-always-going-bankrupt",
+    "points": 63,
+    "comments": 53,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T17:03:03Z"
+  },
+  {
+    "id": "hn-48022596",
+    "title": "Simple Meta-Harness on Islo.dev",
+    "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
+    "points": 49,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T13:55:45Z"
+  },
+  {
+    "id": "hn-48023079",
+    "title": "SubQ: a sub-quadratic LLM with 12M-token context",
+    "url": "https://subq.ai/introducing-subq",
+    "points": 46,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T14:37:12Z"
+  },
+  {
+    "id": "hn-48028289",
+    "title": "Our AI started a cafe in Stockholm",
+    "url": "https://andonlabs.com/blog/ai-cafe-stockholm",
+    "points": 44,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-05-05T20:47:02Z"
+  },
+  {
+    "id": "hn-48022551",
+    "title": "Google, Microsoft and xAI agree to share early AI models with U.S.",
+    "url": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1",
     "points": 42,
-    "comments": 43,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-05-04T18:19:04Z"
+    "published_date": "2026-05-05T13:51:01Z"
   },
   {
-    "id": "hn-48014510",
-    "title": "AI startup JuliaHub raises $65M to rival Simulink",
-    "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
-    "points": 28,
-    "comments": 3,
+    "id": "hn-48031185",
+    "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
+    "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
+    "points": 37,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-05-04T20:27:55Z"
+    "published_date": "2026-05-06T01:50:42Z"
   },
   {
-    "id": "hn-48017641",
-    "title": "Biscuit",
-    "url": "https://github.com/yattsu/biscuit",
-    "points": 21,
-    "comments": 0,
+    "id": "hn-48022266",
+    "title": "Richard Dawkins and the Claude Delusion",
+    "url": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
+    "points": 32,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-05-05T03:09:56Z"
-  },
-  {
-    "id": "hn-48015548",
-    "title": "What do we lose when AI does our work?",
-    "url": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
-    "points": 18,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T21:57:56Z"
-  },
-  {
-    "id": "hn-48010578",
-    "title": "OpenAI Finalizes $10B Joint Venture with PE Firms to Deploy AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
-    "points": 18,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T16:11:28Z"
-  },
-  {
-    "id": "hn-48017742",
-    "title": "Fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
-    "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
-    "points": 13,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T03:28:01Z"
-  },
-  {
-    "id": "hn-48015659",
-    "title": "Researchers Asked LLMs for Strategic Advice. They Got \"Trendslop\" in Return",
-    "url": "https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return",
-    "points": 13,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T22:10:44Z"
-  },
-  {
-    "id": "hn-48013448",
-    "title": "Grove.el: an Obsidian-like note-taking mode for Emacs",
-    "url": "https://github.com/jonathanchu/grove",
-    "points": 13,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-05-04T19:08:17Z"
+    "published_date": "2026-05-05T13:26:46Z"
   }
 ]

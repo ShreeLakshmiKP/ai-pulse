@@ -1203,6 +1203,34 @@
     "image": null
   },
   {
+    "id": "rss-5ce2f9b9",
+    "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
+    "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million).",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 06 May 2026 06:47:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-18521d41",
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "summary": "Wonder wants to turn its robotic kitchens into AI-powered \u201crestaurant factories,\u201d letting anyone spin up a virtual food brand with a prompt.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 06 May 2026 06:34:32 +0000",
+    "image": null
+  },
+  {
     "id": "rss-6895a2b0",
     "title": "AGI Is Not Multimodal",
     "summary": "\"In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.\" &#x2013;Terry Winograd The recent successes of generative AI models have convinced some that AGI is imminent.",
@@ -2708,6 +2736,119 @@
     "image": null
   },
   {
+    "id": "rss-412ad8a3",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "tags": [
+      "agents",
+      "startups",
+      "NVIDIA"
+    ],
+    "category": "AI Policy",
+    "published_date": "Tue, 05 May 2026 23:50:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-adb40e36",
+    "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
+    "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 05 May 2026 22:57:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d9d36c1e",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 05 May 2026 20:56:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5f907f4d",
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Tue, 05 May 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-798ce4a3",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 05 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-05d3c5cd",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 05 May 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-2fd4f4a9",
+    "title": "GPT-5.5 Instant System Card",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 05 May 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c9dd6bc7",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 05 May 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-2d00a23f",
     "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
     "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
@@ -2720,6 +2861,23 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 05 May 2026 03:31:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3938b1e2",
+    "title": "New ways to buy ChatGPT ads",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 05 May 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4155,164 +4313,6 @@
     ],
     "category": "AI Models",
     "published_date": "Thu, 02 Apr 2026 10:30:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-c32a08ac",
-    "title": "Codex now offers more flexible pricing for teams",
-    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 02 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-9afab4be",
-    "title": "Fuel prices are soaring. Plastic could be next.",
-    "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 02 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a38a6a43",
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/gemma4",
-    "tags": [
-      "multimodal"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 02 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-26481377",
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e0fe23a4",
-    "title": "Sora\u2019s shutdown could be a reality check moment for AI video",
-    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 29 Mar 2026 16:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1ba739b0",
-    "title": "Our principles",
-    "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/our-principles",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Sun, 26 Apr 2026 16:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-17968030",
-    "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
-    "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Sun, 26 Apr 2026 15:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f4027ab9",
-    "title": "Do you want to build a robot snowman?",
-    "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-    "tags": [
-      "robotics",
-      "NVIDIA"
-    ],
-    "category": "Robotics",
-    "published_date": "Sun, 22 Mar 2026 19:45:07 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2d60258d",
-    "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
-    "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 22 Mar 2026 18:41:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ab9ad6ba",
-    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-    "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Sun, 22 Mar 2026 16:20:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-485043cf",
-    "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
-    "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "tags": [
-      "regulation",
-      "startups"
-    ],
-    "category": "AI Policy",
-    "published_date": "Sun, 22 Mar 2026 14:43:51 +0000",
     "image": null
   }
 ]

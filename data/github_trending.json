@@ -4,8 +4,8 @@
     "name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 315,
-    "language": null,
+    "stars": 488,
+    "language": "Jupyter Notebook",
     "topics": [
       "attention-mechanism",
       "deep-learning",
@@ -30,7 +30,7 @@
     "name": "lukiIabs/trading-agents",
     "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
     "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 230,
+    "stars": 239,
     "language": "Python",
     "topics": [
       "agents",
@@ -60,7 +60,7 @@
     "name": "warpdot-dev/composio",
     "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
     "url": "https://github.com/warpdot-dev/composio",
-    "stars": 226,
+    "stars": 238,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -87,42 +87,11 @@
     "created_at": "2026-05-01T07:19:17Z"
   },
   {
-    "id": "gh-1225025578",
-    "name": "endless-sky-team/ai-trading-agent",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-    "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 217,
-    "language": "TypeScript",
-    "topics": [
-      "ai-trading",
-      "algorithmic-trading",
-      "automated-trading",
-      "bitcoin",
-      "bun",
-      "crypto-bot",
-      "cryptocurrency",
-      "defi",
-      "ethereum",
-      "fintech",
-      "lighter",
-      "llm",
-      "machine-learning",
-      "open-source",
-      "openrouter",
-      "postgresql",
-      "quantitative-finance",
-      "react",
-      "trading-bot",
-      "typescript"
-    ],
-    "created_at": "2026-04-29T21:48:01Z"
-  },
-  {
     "id": "gh-1226272404",
     "name": "warpdot-dev/craft-agents-oss",
     "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
     "url": "https://github.com/warpdot-dev/craft-agents-oss",
-    "stars": 186,
+    "stars": 220,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -147,11 +116,42 @@
     "created_at": "2026-05-01T07:19:21Z"
   },
   {
+    "id": "gh-1228616732",
+    "name": "bestpracticaI/kalshi-ai-trading-bot",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK",
+    "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
+    "stars": 205,
+    "language": "TypeScript",
+    "topics": [
+      "algorithmic-trading",
+      "automated-trading",
+      "cli",
+      "event-contracts",
+      "exchange-api",
+      "fintech",
+      "kalshi",
+      "kalshi-api",
+      "kalshi-trading",
+      "llm",
+      "market-making",
+      "nodejs",
+      "nodejs-bot",
+      "npm",
+      "openrouter",
+      "prediction-markets",
+      "quantitative-finance",
+      "rest-api",
+      "trading-bot",
+      "typescript"
+    ],
+    "created_at": "2026-05-04T07:48:29Z"
+  },
+  {
     "id": "gh-1225277249",
     "name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS \u2014 streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 88,
+    "stars": 105,
     "language": "Python",
     "topics": [
       "agents",
@@ -163,11 +163,32 @@
     "created_at": "2026-04-30T05:56:20Z"
   },
   {
+    "id": "gh-1225722703",
+    "name": "nduckmink/arkon",
+    "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
+    "url": "https://github.com/nduckmink/arkon",
+    "stars": 81,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "claude",
+      "knowledge-base",
+      "knowledge-management",
+      "knowledge-sharing",
+      "knowledgebase",
+      "llm-wiki",
+      "llm-wiki-knowledge-base",
+      "llm-wiki-organization-knowledge-base",
+      "wiki-llm"
+    ],
+    "created_at": "2026-04-30T15:11:39Z"
+  },
+  {
     "id": "gh-1226349980",
     "name": "DevelopersGlobal/ai-agent-skills",
     "description": "AI agent skills for production grade applications",
     "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 59,
+    "stars": 60,
     "language": "Python",
     "topics": [
       "ai",
@@ -184,45 +205,11 @@
     "created_at": "2026-05-01T09:27:28Z"
   },
   {
-    "id": "gh-1224498772",
-    "name": "JodusNodus/opencode-chrome-annotation",
-    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
-    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 56,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agentic-coding",
-      "ai",
-      "chrome",
-      "llms",
-      "opencode"
-    ],
-    "created_at": "2026-04-29T10:43:24Z"
-  },
-  {
-    "id": "gh-1224526153",
-    "name": "shiphrahx/AI-for-engineering-leaders",
-    "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
-    "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 45,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-workflow",
-      "developer-productivity",
-      "engineering-leadership",
-      "engineering-management",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-04-29T11:18:45Z"
-  },
-  {
     "id": "gh-1227265762",
     "name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 39,
+    "stars": 44,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -239,11 +226,60 @@
     "created_at": "2026-05-02T12:50:06Z"
   },
   {
+    "id": "gh-1225683137",
+    "name": "multigroupco/MultiGroup-Build-With-AI-Course",
+    "description": "MultiGroup Build With AI Course w/Google",
+    "url": "https://github.com/multigroupco/MultiGroup-Build-With-AI-Course",
+    "stars": 37,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "antigravity",
+      "buildwithai",
+      "gemini",
+      "google",
+      "ml"
+    ],
+    "created_at": "2026-04-30T14:25:45Z"
+  },
+  {
+    "id": "gh-1230262140",
+    "name": "TitanFlow-Systems/best-of-algorithmic-trading",
+    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score",
+    "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading",
+    "stars": 23,
+    "language": "TypeScript",
+    "topics": [
+      "algorithmic-trading",
+      "awesome-list",
+      "backtesting",
+      "best-of-list",
+      "bitcoin",
+      "crypto-trading",
+      "cryptocurrency",
+      "defi",
+      "ethereum",
+      "fintech",
+      "freqtrade",
+      "hummingbot",
+      "machine-learning",
+      "nodejs",
+      "open-source",
+      "python",
+      "quantitative-finance",
+      "technical-analysis",
+      "trading-bot",
+      "typescript"
+    ],
+    "created_at": "2026-05-05T20:40:50Z"
+  },
+  {
     "id": "gh-1225617968",
     "name": "IrtezaAsadRizvi/ai-megalist",
     "description": "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.",
     "url": "https://github.com/IrtezaAsadRizvi/ai-megalist",
-    "stars": 13,
+    "stars": 17,
     "language": null,
     "topics": [
       "agents",
@@ -270,38 +306,51 @@
     "created_at": "2026-04-30T13:14:58Z"
   },
   {
-    "id": "gh-1226315599",
-    "name": "jmerelnyc/ai-practice-examples",
-    "description": "Course examples demonstrating AI implementation with industry best practices",
-    "url": "https://github.com/jmerelnyc/ai-practice-examples",
-    "stars": 10,
-    "language": "TypeScript",
+    "id": "gh-1225420868",
+    "name": "vishwanathakuthota/openvals",
+    "description": "Open-source AI model evaluation and benchmarking framework for LLMs (OpenAI, Ollama, Claude, Gemini)",
+    "url": "https://github.com/vishwanathakuthota/openvals",
+    "stars": 16,
+    "language": "Python",
     "topics": [
-      "ai-examples",
-      "artificial-intelligence",
-      "best-practices",
-      "course-materials",
+      "ai-agents",
+      "ai-evaluation",
+      "ai-evaluation-framework",
+      "ai-quality",
+      "ai-reliability",
+      "ai-safety",
+      "ai-testing",
+      "calude",
+      "gemini",
+      "llm-benchmarking",
+      "llm-tools",
       "machine-learning",
-      "typescript"
+      "ollama",
+      "openai",
+      "vishwanath-akuthota"
     ],
-    "created_at": "2026-05-01T08:28:25Z"
+    "created_at": "2026-04-30T09:01:40Z"
   },
   {
-    "id": "gh-1226366496",
-    "name": "jmerelnyc/kannolo",
-    "description": "Official kANNolo library for Kolmogorov-Arnold neural network operations",
-    "url": "https://github.com/jmerelnyc/kannolo",
-    "stars": 9,
-    "language": "Rust",
+    "id": "gh-1226597750",
+    "name": "FrankS-IntelLab/agentic-kaggle-skill",
+    "description": "\ud83e\udd16 AI Agent-driven Kaggle competition workflow. Battle-tested patterns for score stabilization, submission troubleshooting, kernel workflows, and spec-driven development.",
+    "url": "https://github.com/FrankS-IntelLab/agentic-kaggle-skill",
+    "stars": 10,
+    "language": null,
     "topics": [
-      "deep-learning",
-      "kan",
-      "kolmogorov-arnold",
+      "agentic-ai",
+      "ai-agent",
+      "automation",
+      "claude-code",
+      "data-science",
+      "kaggle",
+      "kaggle-competition",
       "machine-learning",
-      "neural-network",
-      "rust"
+      "opencode",
+      "skill"
     ],
-    "created_at": "2026-05-01T09:55:54Z"
+    "created_at": "2026-05-01T15:49:26Z"
   },
   {
     "id": "gh-1225709304",
@@ -333,36 +382,5 @@
       "visual-programming"
     ],
     "created_at": "2026-04-30T14:55:57Z"
-  },
-  {
-    "id": "gh-1227851508",
-    "name": "entanglr/awesome-vintage-llms",
-    "description": "A curated list of vintage large language models \u2014 also called historical or time-capsule LLMs \u2014 trained from scratch on text from bounded historical periods, along with the papers, datasets, demos, and discussions surrounding them.",
-    "url": "https://github.com/entanglr/awesome-vintage-llms",
-    "stars": 6,
-    "language": null,
-    "topics": [
-      "ai",
-      "awesome",
-      "awesome-list",
-      "counterfactual-history",
-      "digital-humanities",
-      "generative-ai",
-      "historical-llms",
-      "history",
-      "humanities",
-      "language-models",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning",
-      "nlp",
-      "pretraining",
-      "time-capsule-llm",
-      "time-locked-llm",
-      "vintage-llm",
-      "vintage-llms"
-    ],
-    "created_at": "2026-05-03T08:56:33Z"
   }
 ]
