@@ -1203,6 +1203,104 @@
     "image": null
   },
   {
+    "id": "rss-f05f5c0e",
+    "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 06 May 2026 21:57:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f863a8c5",
+    "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
+    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 06 May 2026 21:43:24 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8b600010",
+    "title": "Is xAI a neocloud now?",
+    "summary": "xAI's real business may be more about building data centers than training AI models.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 06 May 2026 21:32:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-11e756df",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "tags": [
+      "LLM"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 19:06:55 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-a1179bcb",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "tags": [
+      "startups",
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 06 May 2026 18:23:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5329de4b",
+    "title": "5 gardening tips you can try right in Search",
+    "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5e162e5f",
+    "title": "The Download: seafloor science and military chatbots",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 06 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-5ce2f9b9",
     "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
     "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million).",
@@ -1228,6 +1326,82 @@
     ],
     "category": "Robotics",
     "published_date": "Wed, 06 May 2026 06:34:32 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2d7f3b66",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-49359060",
+    "title": "How frontier enterprises are building an AI advantage",
+    "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b18ba1c7",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/uber",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-54dff980",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/singular-bank",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-6491f8c1",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -2836,6 +3010,21 @@
     "image": null
   },
   {
+    "id": "rss-2c0d932a",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 05 May 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-c9dd6bc7",
     "title": "A blueprint for using AI to strengthen democracy",
     "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government.",
@@ -4129,190 +4318,6 @@
     ],
     "category": "AI Models",
     "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-3d01d31c",
-    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-cb929f08",
-    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/waypoint-1-5",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-aeed5283",
-    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-    "tags": [
-      "transformers",
-      "multimodal"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-d4b70b90",
-    "title": "Ask a Techspert: How does AI understand my visual searches?",
-    "summary": "Mobile phone with a search bar that says \"Ask anything\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 05 Mar 2026 18:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-44250886",
-    "title": "The latest AI news we announced in February",
-    "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 05 Mar 2026 16:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-043898ae",
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Thu, 02 Apr 2026 19:21:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c13f45af",
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 02 Apr 2026 16:48:16 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c64eb2c5",
-    "title": "Gemma 4: Byte for byte, the most capable open models",
-    "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "tags": [
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Thu, 02 Apr 2026 16:00:49 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-11d321b4",
-    "title": "Google now lets you direct avatars through prompts in its Vids app",
-    "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b9151f44",
-    "title": "New ways to balance cost and reliability in the Gemini API",
-    "summary": "Gemini API Dials",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-aaf3d2dd",
-    "title": "Create, edit and share videos at no cost in Google Vids",
-    "summary": "Google Vids logo surrounded by various video editing UI",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 02 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5a3637bd",
-    "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 02 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b487a1bf",
-    "title": "OpenAI acquires TBPN",
-    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/openai-acquires-tbpn",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 02 Apr 2026 10:30:00 GMT",
     "image": null
   }
 ]

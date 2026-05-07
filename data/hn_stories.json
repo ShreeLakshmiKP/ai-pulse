@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-48022742",
-    "title": "AI didn't delete your database, you did",
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "points": 518,
-    "comments": 290,
+    "id": "hn-48034587",
+    "title": "Red Squares \u2013 GitHub outages as contributions",
+    "url": "https://red-squares.cian.lol/",
+    "points": 742,
+    "comments": 164,
     "source": "Hacker News",
-    "published_date": "2026-05-05T14:07:50Z"
+    "published_date": "2026-05-06T10:28:40Z"
   },
   {
-    "id": "hn-48023861",
-    "title": "Three Inverse Laws of AI",
-    "url": "https://susam.net/inverse-laws-of-robotics.html",
-    "points": 431,
-    "comments": 296,
+    "id": "hn-48037128",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "points": 570,
+    "comments": 612,
     "source": "Hacker News",
-    "published_date": "2026-05-05T15:27:18Z"
+    "published_date": "2026-05-06T15:06:37Z"
   },
   {
-    "id": "hn-48020063",
-    "title": "When everyone has AI and the company still learns nothing",
-    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "points": 357,
-    "comments": 234,
+    "id": "hn-48037986",
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "points": 453,
+    "comments": 410,
     "source": "Hacker News",
-    "published_date": "2026-05-05T09:30:22Z"
+    "published_date": "2026-05-06T16:17:33Z"
   },
   {
-    "id": "hn-48021968",
-    "title": "AI Product Graveyard",
-    "url": "https://tooldirectory.ai/ai-graveyard",
-    "points": 248,
-    "comments": 88,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T13:00:47Z"
-  },
-  {
-    "id": "hn-48029334",
-    "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-    "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-    "points": 147,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T22:07:18Z"
-  },
-  {
-    "id": "hn-48022900",
-    "title": "Incident with Actions \u2013 Resolved",
-    "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-    "points": 143,
-    "comments": 83,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T14:21:18Z"
-  },
-  {
-    "id": "hn-48028546",
-    "title": "Why most product tours get skipped",
-    "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "points": 141,
-    "comments": 111,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T21:05:19Z"
-  },
-  {
-    "id": "hn-48026021",
-    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-    "url": "https://arxiv.org/abs/2604.26752",
-    "points": 140,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T17:52:31Z"
-  },
-  {
-    "id": "hn-48031109",
-    "title": "Telus Uses AI to Alter Call-Agent Accents",
-    "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-    "points": 134,
-    "comments": 85,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T01:38:44Z"
-  },
-  {
-    "id": "hn-48023496",
-    "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
-    "url": "https://news.ycombinator.com/item?id=48023496",
-    "points": 117,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T15:03:18Z"
-  },
-  {
-    "id": "hn-48029753",
-    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-    "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-    "points": 95,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T22:43:47Z"
-  },
-  {
-    "id": "hn-48031707",
-    "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
-    "url": "https://github.com/microsoft/vscode/issues/314311",
-    "points": 81,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T03:15:05Z"
-  },
-  {
-    "id": "hn-48025274",
-    "title": "GPT\u20115.5 Instant",
-    "url": "https://openai.com/index/gpt-5-5-instant/",
-    "points": 79,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T17:02:23Z"
-  },
-  {
-    "id": "hn-48025282",
-    "title": "Why airlines are always going bankrupt",
-    "url": "https://davidoks.blog/p/why-airlines-are-always-going-bankrupt",
-    "points": 63,
-    "comments": 53,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T17:03:03Z"
-  },
-  {
-    "id": "hn-48022596",
-    "title": "Simple Meta-Harness on Islo.dev",
-    "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-    "points": 49,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-05T13:55:45Z"
-  },
-  {
-    "id": "hn-48023079",
-    "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-    "url": "https://subq.ai/introducing-subq",
-    "points": 46,
+    "id": "hn-48041316",
+    "title": "Show HN: PHP-fts \u2013 Full-text search engine in pure PHP, no extensions",
+    "url": "https://github.com/olivier-ls/php-fts",
+    "points": 69,
     "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-05-05T14:37:12Z"
+    "published_date": "2026-05-06T20:28:17Z"
   },
   {
-    "id": "hn-48028289",
-    "title": "Our AI started a cafe in Stockholm",
-    "url": "https://andonlabs.com/blog/ai-cafe-stockholm",
-    "points": 44,
-    "comments": 48,
+    "id": "hn-48037261",
+    "title": "Our Continuation of MkDocs",
+    "url": "https://github.com/orgs/ProperDocs/discussions/33",
+    "points": 45,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-05-05T20:47:02Z"
+    "published_date": "2026-05-06T15:19:25Z"
   },
   {
-    "id": "hn-48022551",
-    "title": "Google, Microsoft and xAI agree to share early AI models with U.S.",
-    "url": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1",
-    "points": 42,
-    "comments": 64,
+    "id": "hn-48037923",
+    "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
+    "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+    "points": 34,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-05-05T13:51:01Z"
+    "published_date": "2026-05-06T16:12:50Z"
   },
   {
-    "id": "hn-48031185",
-    "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-    "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
-    "points": 37,
+    "id": "hn-48037336",
+    "title": "Rumors of my death are slightly exaggerated",
+    "url": "https://news.ycombinator.com/item?id=48037336",
+    "points": 29,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-05-06T01:50:42Z"
+    "published_date": "2026-05-06T15:24:51Z"
   },
   {
-    "id": "hn-48022266",
-    "title": "Richard Dawkins and the Claude Delusion",
-    "url": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
-    "points": 32,
-    "comments": 45,
+    "id": "hn-48042911",
+    "title": "Richard Dawkins concludes AI is conscious, even if it doesn't know it",
+    "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
+    "points": 24,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-05-05T13:26:46Z"
+    "published_date": "2026-05-06T22:47:45Z"
+  },
+  {
+    "id": "hn-48035677",
+    "title": "Show HN: Adam \u2013 An embeddable cross-platform AI agent library",
+    "url": "https://github.com/sqliteai/adam",
+    "points": 24,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T12:56:29Z"
+  },
+  {
+    "id": "hn-48036683",
+    "title": "Google Chrome silently installs 4 GB Gemini Nano AI model without consent",
+    "url": "https://alternativeto.net/news/2026/5/google-chrome-silently-installs-4-gb-gemini-nano-ai-model-to-user-device-without-consent/",
+    "points": 19,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T14:27:25Z"
+  },
+  {
+    "id": "hn-48039702",
+    "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
+    "url": "https://news.ycombinator.com/item?id=48039702",
+    "points": 18,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T18:22:03Z"
+  },
+  {
+    "id": "hn-48043007",
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "points": 18,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T22:59:43Z"
+  },
+  {
+    "id": "hn-48036969",
+    "title": "Google Tag Gateway \u2013 Ad-Block Killer?",
+    "url": "https://developers.google.com/tag-platform/tag-manager/gateway",
+    "points": 16,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T14:52:46Z"
+  },
+  {
+    "id": "hn-48040901",
+    "title": "Let's Get EFF to Accept Monero Donations",
+    "url": "https://monerocoalition.org/lets-get-eff-to-accept-monero-donations/",
+    "points": 14,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T19:55:17Z"
+  },
+  {
+    "id": "hn-48042519",
+    "title": "Judge Halts Colorado AI Law After xAI First Amendment Challenge",
+    "url": "https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge",
+    "points": 12,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T22:06:20Z"
+  },
+  {
+    "id": "hn-48044587",
+    "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
+    "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
+    "points": 11,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T02:09:45Z"
+  },
+  {
+    "id": "hn-48033952",
+    "title": "The AI operator: Biggest role in Silicon Valley",
+    "url": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
+    "points": 11,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T09:00:07Z"
+  },
+  {
+    "id": "hn-48040791",
+    "title": "Hackers Hate AI Slop More Than You Do",
+    "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+    "points": 11,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T19:45:30Z"
+  },
+  {
+    "id": "hn-48035848",
+    "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
+    "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
+    "points": 11,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-06T13:12:47Z"
   }
 ]
