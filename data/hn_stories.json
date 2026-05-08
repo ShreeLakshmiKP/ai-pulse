@@ -1,173 +1,182 @@
 [
   {
-    "id": "hn-48034587",
-    "title": "Red Squares \u2013 GitHub outages as contributions",
-    "url": "https://red-squares.cian.lol/",
-    "points": 742,
-    "comments": 164,
+    "id": "hn-48053203",
+    "title": "AI slop is killing online communities",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "points": 600,
+    "comments": 536,
     "source": "Hacker News",
-    "published_date": "2026-05-06T10:28:40Z"
+    "published_date": "2026-05-07T18:46:25Z"
   },
   {
-    "id": "hn-48037128",
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "points": 570,
-    "comments": 612,
+    "id": "hn-48050751",
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "url": "https://github.com/antirez/ds4",
+    "points": 360,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-05-06T15:06:37Z"
+    "published_date": "2026-05-07T15:40:24Z"
   },
   {
-    "id": "hn-48037986",
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-    "url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "points": 453,
-    "comments": 410,
+    "id": "hn-48050278",
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "points": 282,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-05-06T16:17:33Z"
+    "published_date": "2026-05-07T15:02:20Z"
   },
   {
-    "id": "hn-48041316",
-    "title": "Show HN: PHP-fts \u2013 Full-text search engine in pure PHP, no extensions",
-    "url": "https://github.com/olivier-ls/php-fts",
+    "id": "hn-48050540",
+    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "points": 268,
+    "comments": 315,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T15:23:23Z"
+  },
+  {
+    "id": "hn-48052537",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "points": 255,
+    "comments": 86,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T17:54:02Z"
+  },
+  {
+    "id": "hn-48051079",
+    "title": "Hardening Firefox with Claude Mythos Preview",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "points": 155,
+    "comments": 82,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T16:05:33Z"
+  },
+  {
+    "id": "hn-48053816",
+    "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "points": 122,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T19:36:45Z"
+  },
+  {
+    "id": "hn-48053842",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "points": 80,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T19:38:36Z"
+  },
+  {
+    "id": "hn-48056749",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
     "points": 69,
-    "comments": 19,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-05-06T20:28:17Z"
+    "published_date": "2026-05-08T00:03:38Z"
   },
   {
-    "id": "hn-48037261",
-    "title": "Our Continuation of MkDocs",
-    "url": "https://github.com/orgs/ProperDocs/discussions/33",
-    "points": 45,
-    "comments": 16,
+    "id": "hn-48056804",
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "points": 47,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-05-06T15:19:25Z"
+    "published_date": "2026-05-08T00:10:44Z"
   },
   {
-    "id": "hn-48037923",
-    "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-    "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+    "id": "hn-48056003",
+    "title": "OpenClaw had a rough week",
+    "url": "https://openclaw.ai/blog/openclaw-rough-week",
+    "points": 37,
+    "comments": 62,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T22:33:11Z"
+  },
+  {
+    "id": "hn-48050732",
+    "title": "Show HN: Stage CLI \u2013 An easier way of reading your AI generated changes locally",
+    "url": "https://github.com/ReviewStage/stage-cli",
+    "points": 36,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T15:38:36Z"
+  },
+  {
+    "id": "hn-48048121",
+    "title": "KLM flight attendant hospitalized after contact with hantavirus",
+    "url": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
     "points": 34,
-    "comments": 16,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-05-06T16:12:50Z"
+    "published_date": "2026-05-07T11:31:47Z"
   },
   {
-    "id": "hn-48037336",
-    "title": "Rumors of my death are slightly exaggerated",
-    "url": "https://news.ycombinator.com/item?id=48037336",
+    "id": "hn-48053435",
+    "title": "Colored Shadow Penumbra",
+    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+    "points": 34,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T19:04:30Z"
+  },
+  {
+    "id": "hn-48058644",
+    "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "url": "https://github.com/graemeg/blaise",
     "points": 29,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-05-06T15:24:51Z"
+    "published_date": "2026-05-08T04:44:02Z"
   },
   {
-    "id": "hn-48042911",
-    "title": "Richard Dawkins concludes AI is conscious, even if it doesn't know it",
-    "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
-    "points": 24,
-    "comments": 29,
+    "id": "hn-48052290",
+    "title": "Show HN: Full Python GUI apps in the browser \u2013 no JavaScript, no server",
+    "url": "https://github.com/pthom/imgui_bundle",
+    "points": 26,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-05-06T22:47:45Z"
+    "published_date": "2026-05-07T17:36:26Z"
   },
   {
-    "id": "hn-48035677",
-    "title": "Show HN: Adam \u2013 An embeddable cross-platform AI agent library",
-    "url": "https://github.com/sqliteai/adam",
-    "points": 24,
+    "id": "hn-48058393",
+    "title": "Copy Fail 2: Electric Boogaloo",
+    "url": "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+    "points": 22,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-06T12:56:29Z"
+    "published_date": "2026-05-08T04:00:53Z"
   },
   {
-    "id": "hn-48036683",
-    "title": "Google Chrome silently installs 4 GB Gemini Nano AI model without consent",
-    "url": "https://alternativeto.net/news/2026/5/google-chrome-silently-installs-4-gb-gemini-nano-ai-model-to-user-device-without-consent/",
-    "points": 19,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T14:27:25Z"
-  },
-  {
-    "id": "hn-48039702",
-    "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
-    "url": "https://news.ycombinator.com/item?id=48039702",
-    "points": 18,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T18:22:03Z"
-  },
-  {
-    "id": "hn-48043007",
-    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-    "points": 18,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T22:59:43Z"
-  },
-  {
-    "id": "hn-48036969",
-    "title": "Google Tag Gateway \u2013 Ad-Block Killer?",
-    "url": "https://developers.google.com/tag-platform/tag-manager/gateway",
-    "points": 16,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T14:52:46Z"
-  },
-  {
-    "id": "hn-48040901",
-    "title": "Let's Get EFF to Accept Monero Donations",
-    "url": "https://monerocoalition.org/lets-get-eff-to-accept-monero-donations/",
-    "points": 14,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T19:55:17Z"
-  },
-  {
-    "id": "hn-48042519",
-    "title": "Judge Halts Colorado AI Law After xAI First Amendment Challenge",
-    "url": "https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge",
-    "points": 12,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T22:06:20Z"
-  },
-  {
-    "id": "hn-48044587",
-    "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
-    "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
-    "points": 11,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T02:09:45Z"
-  },
-  {
-    "id": "hn-48033952",
-    "title": "The AI operator: Biggest role in Silicon Valley",
-    "url": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
-    "points": 11,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-06T09:00:07Z"
-  },
-  {
-    "id": "hn-48040791",
-    "title": "Hackers Hate AI Slop More Than You Do",
-    "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-    "points": 11,
+    "id": "hn-48056210",
+    "title": "[dupe] Cloudflare is laying off 1,100 employees",
+    "url": "https://www.businessinsider.com/cloudflare-announces-1100-layoffs-amid-ai-focus-shift-2026-5",
+    "points": 17,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-06T19:45:30Z"
+    "published_date": "2026-05-07T22:59:14Z"
   },
   {
-    "id": "hn-48035848",
-    "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
-    "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
-    "points": 11,
+    "id": "hn-48054981",
+    "title": "CVE-2026-42511 Breakdown: RCE in FreeBSD",
+    "url": "https://aisle.com/blog/aisle-discovers-cve-2026-42511-a-21-year-old-freebsd-remote-command-execution-vulnerability",
+    "points": 17,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-06T13:12:47Z"
+    "published_date": "2026-05-07T21:03:54Z"
+  },
+  {
+    "id": "hn-48046492",
+    "title": "Cursed Browser: Rendering Engine Using Visual-LLMs",
+    "url": "https://github.com/scosman/cursed_browser",
+    "points": 16,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-07T07:28:30Z"
   }
 ]

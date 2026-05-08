@@ -1301,6 +1301,22 @@
     "image": null
   },
   {
+    "id": "rss-c122dcde",
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "tags": [
+      "Gemini",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 06 May 2026 10:43:49 +0000",
+    "image": null
+  },
+  {
     "id": "rss-5ce2f9b9",
     "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
     "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million).",
@@ -4301,23 +4317,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Thu, 09 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7fc7366f",
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/cyberagent",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 09 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]
