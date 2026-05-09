@@ -1,182 +1,164 @@
 [
   {
-    "id": "hn-48053203",
-    "title": "AI slop is killing online communities",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "points": 600,
-    "comments": 536,
+    "id": "hn-48066524",
+    "title": "AI is breaking two vulnerability cultures",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "points": 314,
+    "comments": 130,
     "source": "Hacker News",
-    "published_date": "2026-05-07T18:46:25Z"
+    "published_date": "2026-05-08T17:55:08Z"
   },
   {
-    "id": "hn-48050751",
-    "title": "DeepSeek 4 Flash local inference engine for Metal",
-    "url": "https://github.com/antirez/ds4",
-    "points": 360,
-    "comments": 99,
+    "id": "hn-48067734",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "url": "https://ze3tar.github.io/post-zcrx.html",
+    "points": 176,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-05-07T15:40:24Z"
+    "published_date": "2026-05-08T19:40:39Z"
   },
   {
-    "id": "hn-48050278",
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "points": 282,
-    "comments": 122,
+    "id": "hn-48066592",
+    "title": "Teaching Claude Why",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "points": 149,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-05-07T15:02:20Z"
+    "published_date": "2026-05-08T17:59:41Z"
   },
   {
-    "id": "hn-48050540",
-    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-    "points": 268,
-    "comments": 315,
+    "id": "hn-48067197",
+    "title": "What we lost the last time code got cheap",
+    "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+    "points": 113,
+    "comments": 110,
     "source": "Hacker News",
-    "published_date": "2026-05-07T15:23:23Z"
+    "published_date": "2026-05-08T18:53:08Z"
   },
   {
-    "id": "hn-48052537",
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "points": 255,
-    "comments": 86,
+    "id": "hn-48070548",
+    "title": "People Hate AI Art",
+    "url": "https://mccue.dev/pages/5-8-26-ai-art",
+    "points": 110,
+    "comments": 127,
     "source": "Hacker News",
-    "published_date": "2026-05-07T17:54:02Z"
+    "published_date": "2026-05-09T00:39:58Z"
   },
   {
-    "id": "hn-48051079",
-    "title": "Hardening Firefox with Claude Mythos Preview",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "points": 155,
-    "comments": 82,
+    "id": "hn-48063548",
+    "title": "Show HN: Git for AI Agents",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "points": 100,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-05-07T16:05:33Z"
+    "published_date": "2026-05-08T14:15:36Z"
   },
   {
-    "id": "hn-48053816",
-    "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "points": 122,
-    "comments": 4,
+    "id": "hn-48071940",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "points": 89,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-05-07T19:36:45Z"
+    "published_date": "2026-05-09T04:53:52Z"
   },
   {
-    "id": "hn-48053842",
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "points": 80,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T19:38:36Z"
-  },
-  {
-    "id": "hn-48056749",
-    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "url": "https://github.com/robertdfrench/ifuncd-up",
-    "points": 69,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-05-08T00:03:38Z"
-  },
-  {
-    "id": "hn-48056804",
-    "title": "Komai: a fine Matrix chat app you can get to love",
-    "url": "https://etke.cc/blog/introducing-komai",
-    "points": 47,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-05-08T00:10:44Z"
-  },
-  {
-    "id": "hn-48056003",
-    "title": "OpenClaw had a rough week",
-    "url": "https://openclaw.ai/blog/openclaw-rough-week",
-    "points": 37,
-    "comments": 62,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T22:33:11Z"
-  },
-  {
-    "id": "hn-48050732",
-    "title": "Show HN: Stage CLI \u2013 An easier way of reading your AI generated changes locally",
-    "url": "https://github.com/ReviewStage/stage-cli",
-    "points": 36,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T15:38:36Z"
-  },
-  {
-    "id": "hn-48048121",
-    "title": "KLM flight attendant hospitalized after contact with hantavirus",
-    "url": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
-    "points": 34,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T11:31:47Z"
-  },
-  {
-    "id": "hn-48053435",
-    "title": "Colored Shadow Penumbra",
-    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
-    "points": 34,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-07T19:04:30Z"
-  },
-  {
-    "id": "hn-48058644",
-    "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "url": "https://github.com/graemeg/blaise",
-    "points": 29,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-08T04:44:02Z"
-  },
-  {
-    "id": "hn-48052290",
-    "title": "Show HN: Full Python GUI apps in the browser \u2013 no JavaScript, no server",
-    "url": "https://github.com/pthom/imgui_bundle",
-    "points": 26,
+    "id": "hn-48065254",
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "points": 74,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-05-07T17:36:26Z"
+    "published_date": "2026-05-08T16:21:56Z"
   },
   {
-    "id": "hn-48058393",
-    "title": "Copy Fail 2: Electric Boogaloo",
-    "url": "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "points": 22,
+    "id": "hn-48072319",
+    "title": "I Will Never Use AI to Code",
+    "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+    "points": 41,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-05-09T06:14:20Z"
+  },
+  {
+    "id": "hn-48068254",
+    "title": "When is your birthday? The math behind hash collisions",
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+    "points": 41,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-08T04:00:53Z"
+    "published_date": "2026-05-08T20:18:39Z"
   },
   {
-    "id": "hn-48056210",
-    "title": "[dupe] Cloudflare is laying off 1,100 employees",
-    "url": "https://www.businessinsider.com/cloudflare-announces-1100-layoffs-amid-ai-focus-shift-2026-5",
-    "points": 17,
-    "comments": 2,
+    "id": "hn-48065203",
+    "title": "Show HN: GETadb.com \u2013 every GET request creates a DB",
+    "url": "https://www.getadb.com/",
+    "points": 34,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-05-07T22:59:14Z"
+    "published_date": "2026-05-08T16:17:37Z"
   },
   {
-    "id": "hn-48054981",
-    "title": "CVE-2026-42511 Breakdown: RCE in FreeBSD",
-    "url": "https://aisle.com/blog/aisle-discovers-cve-2026-42511-a-21-year-old-freebsd-remote-command-execution-vulnerability",
-    "points": 17,
+    "id": "hn-48065138",
+    "title": "I didn't think I could get addicted to weed. I was wrong \u2013 and I'm not alone",
+    "url": "https://www.theguardian.com/wellness/2026/may/08/cannabis-addiction-recovery",
+    "points": 31,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-05-08T16:11:05Z"
+  },
+  {
+    "id": "hn-48070181",
+    "title": "The FCC Wants Your ID Before You Get a Phone Number",
+    "url": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
+    "points": 20,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-08T23:49:04Z"
+  },
+  {
+    "id": "hn-48068475",
+    "title": "Dirty Frag: Universal Linux LPE",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "points": 19,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-08T20:36:51Z"
+  },
+  {
+    "id": "hn-48060952",
+    "title": "'Dirty Frag' exploit leaks out, gives root on most Linux machines",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
+    "points": 15,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-05-08T09:59:35Z"
+  },
+  {
+    "id": "hn-48068521",
+    "title": "The Very American, Intense World of High-School Debate",
+    "url": "https://www.newyorker.com/magazine/2026/05/11/the-very-american-very-intense-world-of-high-school-debate",
+    "points": 12,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-07T21:03:54Z"
+    "published_date": "2026-05-08T20:40:10Z"
   },
   {
-    "id": "hn-48046492",
-    "title": "Cursed Browser: Rendering Engine Using Visual-LLMs",
-    "url": "https://github.com/scosman/cursed_browser",
-    "points": 16,
-    "comments": 3,
+    "id": "hn-48066035",
+    "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
+    "url": "https://blog.readsail.com/p/we-spent-10-days-touring-chinese",
+    "points": 11,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-07T07:28:30Z"
+    "published_date": "2026-05-08T17:14:38Z"
+  },
+  {
+    "id": "hn-48060572",
+    "title": "Claude Flags Hantavirus Vaccine Questions as Security Risk",
+    "url": "https://news.ycombinator.com/item?id=48060572",
+    "points": 11,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-05-08T09:05:42Z"
   }
 ]
