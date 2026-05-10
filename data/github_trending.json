@@ -4,7 +4,7 @@
     "name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1417,
+    "stars": 1515,
     "language": "Python",
     "topics": [
       "ai",
@@ -20,7 +20,7 @@
     "name": "lightseekorg/tokenspeed",
     "description": "TokenSpeed is a speed-of-light LLM inference engine.",
     "url": "https://github.com/lightseekorg/tokenspeed",
-    "stars": 816,
+    "stars": 873,
     "language": "Python",
     "topics": [
       "blackwell",
@@ -37,37 +37,32 @@
     "created_at": "2026-05-06T13:13:21Z"
   },
   {
-    "id": "gh-1228312499",
-    "name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 771,
-    "language": "Jupyter Notebook",
+    "id": "gh-1228687488",
+    "name": "jmerelnyc/Photo-agents",
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+    "url": "https://github.com/jmerelnyc/Photo-agents",
+    "stars": 364,
+    "language": "Python",
     "topics": [
-      "attention-mechanism",
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "gpt",
-      "language-model",
-      "llama",
+      "agent-memory",
+      "ai-agents",
+      "autonomous-agents",
+      "computer-use",
       "llm",
-      "machine-learning",
-      "natural-language-processing",
+      "photo-agents",
+      "photographic-memory",
       "python",
-      "pytorch",
-      "tokenisation",
-      "transformers",
-      "tutorial"
+      "self-evolving-agents",
+      "vision-agents"
     ],
-    "created_at": "2026-05-03T21:41:33Z"
+    "created_at": "2026-05-04T09:14:09Z"
   },
   {
     "id": "gh-1230262140",
     "name": "TitanFlow-Systems/best-of-algorithmic-trading",
     "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score",
     "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading",
-    "stars": 268,
+    "stars": 269,
     "language": "TypeScript",
     "topics": [
       "algorithmic-trading",
@@ -94,32 +89,26 @@
     "created_at": "2026-05-05T20:40:50Z"
   },
   {
-    "id": "gh-1228687488",
-    "name": "jmerelnyc/Photo-agents",
-    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
-    "url": "https://github.com/jmerelnyc/Photo-agents",
-    "stars": 259,
-    "language": "Python",
+    "id": "gh-1232094166",
+    "name": "kerlos/pordee",
+    "description": "\u0e15\u0e2d\u0e1a\u0e2a\u0e31\u0e49\u0e19\u0e46 \u0e01\u0e47\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08\u0e41\u0e1a\u0e1a\u0e1e\u0e2d\u0e14\u0e35\u0e46",
+    "url": "https://github.com/kerlos/pordee",
+    "stars": 215,
+    "language": "JavaScript",
     "topics": [
-      "agent-memory",
-      "ai-agents",
-      "autonomous-agents",
-      "computer-use",
-      "llm",
-      "photo-agents",
-      "photographic-memory",
-      "python",
-      "self-evolving-agents",
-      "vision-agents"
+      "ai",
+      "claude",
+      "claude-code-plugin",
+      "thai"
     ],
-    "created_at": "2026-05-04T09:14:09Z"
+    "created_at": "2026-05-07T15:26:07Z"
   },
   {
     "id": "gh-1228616732",
     "name": "bestpracticaI/kalshi-ai-trading-bot",
     "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK",
     "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
-    "stars": 211,
+    "stars": 207,
     "language": "TypeScript",
     "topics": [
       "algorithmic-trading",
@@ -146,40 +135,11 @@
     "created_at": "2026-05-04T07:48:29Z"
   },
   {
-    "id": "gh-1232094166",
-    "name": "kerlos/pordee",
-    "description": "\u0e15\u0e2d\u0e1a\u0e2a\u0e31\u0e49\u0e19\u0e46 \u0e01\u0e47\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08\u0e41\u0e1a\u0e1a\u0e1e\u0e2d\u0e14\u0e35\u0e46",
-    "url": "https://github.com/kerlos/pordee",
-    "stars": 189,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "claude",
-      "claude-code-plugin",
-      "thai"
-    ],
-    "created_at": "2026-05-07T15:26:07Z"
-  },
-  {
-    "id": "gh-1229218228",
-    "name": "enmanuelmag/agent-harness-kit",
-    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.",
-    "url": "https://github.com/enmanuelmag/agent-harness-kit",
-    "stars": 128,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agent-harness",
-      "llm"
-    ],
-    "created_at": "2026-05-04T20:26:43Z"
-  },
-  {
     "id": "gh-1231170332",
     "name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 116,
+    "stars": 173,
     "language": "Python",
     "topics": [
       "agent",
@@ -197,34 +157,40 @@
     "created_at": "2026-05-06T17:43:05Z"
   },
   {
-    "id": "gh-1231362609",
-    "name": "omermaksutii/mnemo",
-    "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
-    "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 48,
+    "id": "gh-1229218228",
+    "name": "enmanuelmag/agent-harness-kit",
+    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.",
+    "url": "https://github.com/enmanuelmag/agent-harness-kit",
+    "stars": 133,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "anthropic",
-      "claude-code",
-      "embeddings",
-      "hnsw",
-      "mcp",
-      "mcp-server",
-      "memory",
-      "onnx",
-      "persistent-memory",
-      "semantic-search",
-      "typescript"
+      "agent",
+      "agent-harness",
+      "llm"
     ],
-    "created_at": "2026-05-06T22:23:02Z"
+    "created_at": "2026-05-04T20:26:43Z"
+  },
+  {
+    "id": "gh-1233680465",
+    "name": "cosmicstack-labs/mercury-agent-skills",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+    "stars": 65,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aiskills",
+      "skills"
+    ],
+    "created_at": "2026-05-09T08:16:53Z"
   },
   {
     "id": "gh-1230804418",
     "name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 47,
+    "stars": 54,
     "language": "Shell",
     "topics": [
       "agents",
@@ -246,7 +212,7 @@
     "name": "ybuild-ai/ai-game-art-pipeline-skill",
     "description": "Agent skill for turning AI images and videos into playable game art assets",
     "url": "https://github.com/ybuild-ai/ai-game-art-pipeline-skill",
-    "stars": 31,
+    "stars": 41,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -263,11 +229,48 @@
     "created_at": "2026-05-04T13:43:38Z"
   },
   {
+    "id": "gh-1231387029",
+    "name": "RareSense/Nova3D",
+    "description": "Editable, part-aware 3D generation from text or reference images. Open-source client for nova3d.xyz.",
+    "url": "https://github.com/RareSense/Nova3D",
+    "stars": 19,
+    "language": "Dart",
+    "topics": [
+      "3d-generation",
+      "blen",
+      "cad",
+      "claude",
+      "flutter",
+      "gemini",
+      "generative-ai",
+      "glb",
+      "llms",
+      "openai"
+    ],
+    "created_at": "2026-05-06T23:08:26Z"
+  },
+  {
+    "id": "gh-1230650845",
+    "name": "Shashank-Tripathi-07/awesome-ml-systems-engineering",
+    "description": "A curated list of resources for ML Systems Engineering - hardware, compilers, distributed training, inference, and production operations.",
+    "url": "https://github.com/Shashank-Tripathi-07/awesome-ml-systems-engineering",
+    "stars": 18,
+    "language": null,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "machine-learning",
+      "ml-systems",
+      "systems-engineering"
+    ],
+    "created_at": "2026-05-06T07:35:03Z"
+  },
+  {
     "id": "gh-1232070333",
     "name": "shootthesound/comfyui-CleanFreak",
     "description": "One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get their own column or row, with optional colour-coded groups. Width-aware. Connections preserved.",
     "url": "https://github.com/shootthesound/comfyui-CleanFreak",
-    "stars": 16,
+    "stars": 18,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -283,27 +286,11 @@
     "created_at": "2026-05-07T15:00:42Z"
   },
   {
-    "id": "gh-1230650845",
-    "name": "Shashank-Tripathi-07/awesome-ml-systems-engineering",
-    "description": "A curated list of resources for ML Systems Engineering - hardware, compilers, distributed training, inference, and production operations.",
-    "url": "https://github.com/Shashank-Tripathi-07/awesome-ml-systems-engineering",
-    "stars": 15,
-    "language": null,
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "machine-learning",
-      "ml-systems",
-      "systems-engineering"
-    ],
-    "created_at": "2026-05-06T07:35:03Z"
-  },
-  {
     "id": "gh-1231393604",
     "name": "shootthesound/comfyui-ReferenceLatentPlus",
     "description": "Improved ReferenceLatent for ComfyUI \u2014 per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image inputs. Works with Flux, Klein, Lumina, Wan, Hunyuan, Qwen-Image.",
     "url": "https://github.com/shootthesound/comfyui-ReferenceLatentPlus",
-    "stars": 15,
+    "stars": 17,
     "language": "Python",
     "topics": [
       "ai",

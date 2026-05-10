@@ -1,164 +1,146 @@
 [
   {
-    "id": "hn-48066524",
-    "title": "AI is breaking two vulnerability cultures",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "points": 314,
-    "comments": 130,
+    "id": "hn-48073246",
+    "title": "LLMs corrupt your documents when you delegate",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "points": 396,
+    "comments": 153,
     "source": "Hacker News",
-    "published_date": "2026-05-08T17:55:08Z"
+    "published_date": "2026-05-09T08:44:34Z"
   },
   {
-    "id": "hn-48067734",
-    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "url": "https://ze3tar.github.io/post-zcrx.html",
-    "points": 176,
-    "comments": 98,
+    "id": "hn-48077126",
+    "title": "Meta's embrace of AI is making its employees miserable",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "points": 383,
+    "comments": 411,
     "source": "Hacker News",
-    "published_date": "2026-05-08T19:40:39Z"
+    "published_date": "2026-05-09T18:33:36Z"
   },
   {
-    "id": "hn-48066592",
-    "title": "Teaching Claude Why",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "points": 149,
-    "comments": 75,
+    "id": "hn-48080587",
+    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "url": "https://github.com/imtomt/ymawky",
+    "points": 216,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-05-08T17:59:41Z"
+    "published_date": "2026-05-10T03:01:44Z"
   },
   {
-    "id": "hn-48067197",
-    "title": "What we lost the last time code got cheap",
-    "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-    "points": 113,
-    "comments": 110,
+    "id": "hn-48078647",
+    "title": "Getting arrested in Japan",
+    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "points": 196,
+    "comments": 237,
     "source": "Hacker News",
-    "published_date": "2026-05-08T18:53:08Z"
+    "published_date": "2026-05-09T21:56:19Z"
   },
   {
-    "id": "hn-48070548",
-    "title": "People Hate AI Art",
-    "url": "https://mccue.dev/pages/5-8-26-ai-art",
-    "points": 110,
-    "comments": 127,
+    "id": "hn-48076815",
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "url": "https://github.com/nooga/let-go",
+    "points": 150,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-05-09T00:39:58Z"
+    "published_date": "2026-05-09T17:52:13Z"
   },
   {
-    "id": "hn-48063548",
-    "title": "Show HN: Git for AI Agents",
-    "url": "https://github.com/regent-vcs/re_gent",
-    "points": 100,
-    "comments": 46,
+    "id": "hn-48078575",
+    "title": "Show HN: Rust but Lisp",
+    "url": "https://github.com/ThatXliner/rust-but-lisp",
+    "points": 125,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-05-08T14:15:36Z"
+    "published_date": "2026-05-09T21:46:27Z"
   },
   {
-    "id": "hn-48071940",
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "points": 89,
-    "comments": 44,
+    "id": "hn-48075185",
+    "title": "The FCC wants your ID before you get a phone number",
+    "url": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
+    "points": 77,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-05-09T04:53:52Z"
+    "published_date": "2026-05-09T14:18:13Z"
   },
   {
-    "id": "hn-48065254",
-    "title": "Can LLMs model real-world systems in TLA+?",
-    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "points": 74,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-05-08T16:21:56Z"
-  },
-  {
-    "id": "hn-48072319",
-    "title": "I Will Never Use AI to Code",
-    "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
-    "points": 41,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-05-09T06:14:20Z"
-  },
-  {
-    "id": "hn-48068254",
-    "title": "When is your birthday? The math behind hash collisions",
-    "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-    "points": 41,
+    "id": "hn-48080702",
+    "title": "Gemini API File Search is now multimodal",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "points": 68,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-08T20:18:39Z"
+    "published_date": "2026-05-10T03:22:02Z"
   },
   {
-    "id": "hn-48065203",
-    "title": "Show HN: GETadb.com \u2013 every GET request creates a DB",
-    "url": "https://www.getadb.com/",
-    "points": 34,
-    "comments": 40,
+    "id": "hn-48073978",
+    "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
+    "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+    "points": 52,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-05-08T16:17:37Z"
+    "published_date": "2026-05-09T11:14:13Z"
   },
   {
-    "id": "hn-48065138",
-    "title": "I didn't think I could get addicted to weed. I was wrong \u2013 and I'm not alone",
-    "url": "https://www.theguardian.com/wellness/2026/may/08/cannabis-addiction-recovery",
-    "points": 31,
-    "comments": 36,
+    "id": "hn-48075059",
+    "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+    "url": "https://mochijs.com/",
+    "points": 41,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-05-08T16:11:05Z"
+    "published_date": "2026-05-09T14:01:40Z"
   },
   {
-    "id": "hn-48070181",
-    "title": "The FCC Wants Your ID Before You Get a Phone Number",
-    "url": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
-    "points": 20,
-    "comments": 1,
+    "id": "hn-48078891",
+    "title": "10 Trillion downloads are crushing open-source repositories",
+    "url": "https://www.zdnet.com/article/open-source-repositories-are-being-overwhelmed-but-there-is-an-answer/",
+    "points": 22,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-08T23:49:04Z"
+    "published_date": "2026-05-09T22:27:47Z"
   },
   {
-    "id": "hn-48068475",
-    "title": "Dirty Frag: Universal Linux LPE",
-    "url": "https://github.com/V4bel/dirtyfrag",
-    "points": 19,
-    "comments": 1,
+    "id": "hn-48075340",
+    "title": "Show HN: Create flashcards with Space CLI",
+    "url": "https://getspace.app/cli",
+    "points": 18,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-05-08T20:36:51Z"
+    "published_date": "2026-05-09T14:38:04Z"
   },
   {
-    "id": "hn-48060952",
-    "title": "'Dirty Frag' exploit leaks out, gives root on most Linux machines",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
+    "id": "hn-48076695",
+    "title": "Go Players Disempower Themselves to AI",
+    "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai",
     "points": 15,
-    "comments": 4,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-05-08T09:59:35Z"
+    "published_date": "2026-05-09T17:36:55Z"
   },
   {
-    "id": "hn-48068521",
-    "title": "The Very American, Intense World of High-School Debate",
-    "url": "https://www.newyorker.com/magazine/2026/05/11/the-very-american-very-intense-world-of-high-school-debate",
+    "id": "hn-48077634",
+    "title": "Movies Are Too Long",
+    "url": "https://www.slowboring.com/p/why-movies-are-getting-longer",
+    "points": 15,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-05-09T19:43:52Z"
+  },
+  {
+    "id": "hn-48078009",
+    "title": "The Atari 800 \u2013 By Paul Lefebvre",
+    "url": "https://www.goto10retro.com/p/inside-the-atari-800",
     "points": 12,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-08T20:40:10Z"
+    "published_date": "2026-05-09T20:35:54Z"
   },
   {
-    "id": "hn-48066035",
-    "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
-    "url": "https://blog.readsail.com/p/we-spent-10-days-touring-chinese",
+    "id": "hn-48078461",
+    "title": "The Rise of Emotional Surveillance",
+    "url": "https://www.theatlantic.com/culture/2026/05/worker-surveillance-emotion-ai/687029/",
     "points": 11,
-    "comments": 2,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-08T17:14:38Z"
-  },
-  {
-    "id": "hn-48060572",
-    "title": "Claude Flags Hantavirus Vaccine Questions as Security Risk",
-    "url": "https://news.ycombinator.com/item?id=48060572",
-    "points": 11,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-05-08T09:05:42Z"
+    "published_date": "2026-05-09T21:33:00Z"
   }
 ]
