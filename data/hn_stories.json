@@ -1,146 +1,182 @@
 [
   {
-    "id": "hn-48073246",
-    "title": "LLMs corrupt your documents when you delegate",
-    "url": "https://arxiv.org/abs/2604.15597",
-    "points": 396,
+    "id": "hn-48085821",
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "points": 1089,
+    "comments": 465,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T17:19:28Z"
+  },
+  {
+    "id": "hn-48088151",
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "points": 242,
+    "comments": 135,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T21:16:58Z"
+  },
+  {
+    "id": "hn-48085095",
+    "title": "GitHub is sinking",
+    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "points": 230,
     "comments": 153,
     "source": "Hacker News",
-    "published_date": "2026-05-09T08:44:34Z"
+    "published_date": "2026-05-10T16:07:26Z"
   },
   {
-    "id": "hn-48077126",
-    "title": "Meta's embrace of AI is making its employees miserable",
-    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "points": 383,
-    "comments": 411,
+    "id": "hn-48082396",
+    "title": "Think Linear Algebra (2023)",
+    "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+    "points": 202,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-05-09T18:33:36Z"
+    "published_date": "2026-05-10T09:40:33Z"
   },
   {
-    "id": "hn-48080587",
-    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "url": "https://github.com/imtomt/ymawky",
-    "points": 216,
-    "comments": 94,
+    "id": "hn-48089263",
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "points": 162,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-05-10T03:01:44Z"
+    "published_date": "2026-05-10T23:36:48Z"
   },
   {
-    "id": "hn-48078647",
-    "title": "Getting arrested in Japan",
-    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-    "points": 196,
-    "comments": 237,
+    "id": "hn-48089289",
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "points": 153,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-05-09T21:56:19Z"
+    "published_date": "2026-05-10T23:39:55Z"
   },
   {
-    "id": "hn-48076815",
-    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "url": "https://github.com/nooga/let-go",
-    "points": 150,
-    "comments": 39,
+    "id": "hn-48084710",
+    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "points": 108,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-05-09T17:52:13Z"
+    "published_date": "2026-05-10T15:22:46Z"
   },
   {
-    "id": "hn-48078575",
-    "title": "Show HN: Rust but Lisp",
-    "url": "https://github.com/ThatXliner/rust-but-lisp",
-    "points": 125,
-    "comments": 65,
+    "id": "hn-48083919",
+    "title": "Academic Research Skills for Claude Code",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "points": 81,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-05-09T21:46:27Z"
+    "published_date": "2026-05-10T13:42:00Z"
   },
   {
-    "id": "hn-48075185",
-    "title": "The FCC wants your ID before you get a phone number",
-    "url": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
-    "points": 77,
-    "comments": 93,
-    "source": "Hacker News",
-    "published_date": "2026-05-09T14:18:13Z"
-  },
-  {
-    "id": "hn-48080702",
-    "title": "Gemini API File Search is now multimodal",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "points": 68,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T03:22:02Z"
-  },
-  {
-    "id": "hn-48073978",
-    "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
-    "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "points": 52,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-09T11:14:13Z"
-  },
-  {
-    "id": "hn-48075059",
-    "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-    "url": "https://mochijs.com/",
-    "points": 41,
+    "id": "hn-48089049",
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "points": 73,
     "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-05-09T14:01:40Z"
+    "published_date": "2026-05-10T23:02:31Z"
   },
   {
-    "id": "hn-48078891",
-    "title": "10 Trillion downloads are crushing open-source repositories",
-    "url": "https://www.zdnet.com/article/open-source-repositories-are-being-overwhelmed-but-there-is-an-answer/",
-    "points": 22,
-    "comments": 2,
+    "id": "hn-48082763",
+    "title": "Israel's AI targeting system: data from a phone become a death sentence",
+    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+    "points": 44,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-05-09T22:27:47Z"
+    "published_date": "2026-05-10T10:51:47Z"
   },
   {
-    "id": "hn-48075340",
-    "title": "Show HN: Create flashcards with Space CLI",
-    "url": "https://getspace.app/cli",
-    "points": 18,
-    "comments": 7,
+    "id": "hn-48088459",
+    "title": "Plex's price hikes prove I was right to switch to Jellyfin",
+    "url": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
+    "points": 42,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-05-09T14:38:04Z"
+    "published_date": "2026-05-10T21:49:59Z"
   },
   {
-    "id": "hn-48076695",
-    "title": "Go Players Disempower Themselves to AI",
-    "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai",
-    "points": 15,
+    "id": "hn-48085441",
+    "title": "Wall Street lawyers aided insider trading ring, say US prosecutors",
+    "url": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d",
+    "points": 38,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T16:42:08Z"
+  },
+  {
+    "id": "hn-48083814",
+    "title": "BLAS, Lapack and OpenMP",
+    "url": "https://pypackaging-native.github.io/key-issues/native-dependencies/blas_openmp/",
+    "points": 30,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-05-09T17:36:55Z"
+    "published_date": "2026-05-10T13:28:56Z"
   },
   {
-    "id": "hn-48077634",
-    "title": "Movies Are Too Long",
-    "url": "https://www.slowboring.com/p/why-movies-are-getting-longer",
-    "points": 15,
-    "comments": 10,
+    "id": "hn-48090276",
+    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+    "url": "https://github.com/adamjgmiller/adamsreview",
+    "points": 29,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-05-09T19:43:52Z"
+    "published_date": "2026-05-11T02:06:29Z"
   },
   {
-    "id": "hn-48078009",
-    "title": "The Atari 800 \u2013 By Paul Lefebvre",
-    "url": "https://www.goto10retro.com/p/inside-the-atari-800",
-    "points": 12,
-    "comments": 0,
+    "id": "hn-48089641",
+    "title": "Energy Prices Are Driving Demand for Solar Panels and Heat Pumps",
+    "url": "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html",
+    "points": 27,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-05-09T20:35:54Z"
+    "published_date": "2026-05-11T00:26:18Z"
   },
   {
-    "id": "hn-48078461",
-    "title": "The Rise of Emotional Surveillance",
-    "url": "https://www.theatlantic.com/culture/2026/05/worker-surveillance-emotion-ai/687029/",
-    "points": 11,
+    "id": "hn-48089531",
+    "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+    "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+    "points": 20,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T00:10:34Z"
+  },
+  {
+    "id": "hn-48087925",
+    "title": "Ask HN: Will low quality AI customer support be the new normal?",
+    "url": "https://news.ycombinator.com/item?id=48087925",
+    "points": 20,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T20:57:27Z"
+  },
+  {
+    "id": "hn-48087863",
+    "title": "Nuke All Routers",
+    "url": "https://github.com/maxbrito500/esp32-c5-deauth",
+    "points": 19,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-09T21:33:00Z"
+    "published_date": "2026-05-10T20:50:54Z"
+  },
+  {
+    "id": "hn-48085825",
+    "title": "My writing students were using AI. Their confessions led to a teaching moment",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+    "points": 17,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T17:19:45Z"
+  },
+  {
+    "id": "hn-48087887",
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "points": 14,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-05-10T20:54:06Z"
   }
 ]
