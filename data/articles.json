@@ -2752,6 +2752,34 @@
     "image": null
   },
   {
+    "id": "rss-d3b5b5ad",
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 12 May 2026 04:52:35 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7a7c4cf1",
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 12 May 2026 00:09:01 +0000",
+    "image": null
+  },
+  {
     "id": "rss-abaebc11",
     "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
     "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014 just describe \u2026",
@@ -4291,32 +4319,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Thu, 09 Apr 2026 12:25:10 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-50a626fa",
-    "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-    "summary": "A rare warm spell in January melted enough snow to uncover Cornell University\u2019s newest athletic field, built for field hockey.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 09 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7c3b4f90",
-    "title": "Desalination technology, by the numbers",
-    "summary": "When I started digging into desalination technology for a new story, I couldn\u2019t help but obsess over the numbers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 09 Apr 2026 10:00:00 +0000",
     "image": null
   }
 ]

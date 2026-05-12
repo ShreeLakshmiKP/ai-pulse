@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48085821",
-    "title": "Local AI needs to be the norm",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "points": 1089,
-    "comments": 465,
+    "id": "hn-48100706",
+    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "points": 801,
+    "comments": 302,
     "source": "Hacker News",
-    "published_date": "2026-05-10T17:19:28Z"
+    "published_date": "2026-05-11T21:08:25Z"
   },
   {
-    "id": "hn-48088151",
-    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-    "points": 242,
-    "comments": 135,
+    "id": "hn-48100500",
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "points": 482,
+    "comments": 479,
     "source": "Hacker News",
-    "published_date": "2026-05-10T21:16:58Z"
+    "published_date": "2026-05-11T20:51:57Z"
   },
   {
-    "id": "hn-48085095",
-    "title": "GitHub is sinking",
-    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
-    "points": 230,
-    "comments": 153,
+    "id": "hn-48100433",
+    "title": "If AI writes your code, why use Python?",
+    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "points": 445,
+    "comments": 481,
     "source": "Hacker News",
-    "published_date": "2026-05-10T16:07:26Z"
+    "published_date": "2026-05-11T20:45:55Z"
   },
   {
-    "id": "hn-48082396",
-    "title": "Think Linear Algebra (2023)",
-    "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-    "points": 202,
-    "comments": 26,
+    "id": "hn-48096692",
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "points": 401,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-05-10T09:40:33Z"
+    "published_date": "2026-05-11T15:55:07Z"
   },
   {
-    "id": "hn-48089263",
-    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-    "points": 162,
-    "comments": 114,
+    "id": "hn-48102700",
+    "title": "They Live (1988) inspired Adblocker",
+    "url": "https://github.com/davmlaw/they_live_adblocker",
+    "points": 189,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-05-10T23:36:48Z"
+    "published_date": "2026-05-12T00:37:54Z"
   },
   {
-    "id": "hn-48089289",
-    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "points": 153,
-    "comments": 37,
+    "id": "hn-48094641",
+    "title": "Google says criminal hackers used AI to find a major software flaw",
+    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "points": 175,
+    "comments": 134,
     "source": "Hacker News",
-    "published_date": "2026-05-10T23:39:55Z"
+    "published_date": "2026-05-11T13:20:14Z"
   },
   {
-    "id": "hn-48084710",
-    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "points": 108,
-    "comments": 55,
+    "id": "hn-48100662",
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "points": 167,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-05-10T15:22:46Z"
+    "published_date": "2026-05-11T21:04:10Z"
   },
   {
-    "id": "hn-48083919",
-    "title": "Academic Research Skills for Claude Code",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "id": "hn-48096674",
+    "title": "Students boo commencement speaker after she calls AI next industrial revolution",
+    "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+    "points": 157,
+    "comments": 186,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T15:53:23Z"
+  },
+  {
+    "id": "hn-48099616",
+    "title": "Library for fast mapping of Java records to native memory",
+    "url": "https://github.com/mamba-studio/TypedMemory",
+    "points": 138,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T19:33:31Z"
+  },
+  {
+    "id": "hn-48103042",
+    "title": "Claude Platform on AWS",
+    "url": "https://claude.com/blog/claude-platform-on-aws",
+    "points": 124,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-05-12T01:24:29Z"
+  },
+  {
+    "id": "hn-48096842",
+    "title": "Show HN: TikTok but for scientific papers",
+    "url": "https://andreaturchet.github.io/website/index.html",
+    "points": 116,
+    "comments": 56,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T16:05:50Z"
+  },
+  {
+    "id": "hn-48093446",
+    "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "points": 102,
+    "comments": 79,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T11:05:04Z"
+  },
+  {
+    "id": "hn-48100192",
+    "title": "Show HN: OpenGravity \u2013 A zero-install, BYOK vanilla JS clone of Antigravity",
+    "url": "https://github.com/ab-613/opengravity",
     "points": 81,
-    "comments": 25,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-05-10T13:42:00Z"
+    "published_date": "2026-05-11T20:23:25Z"
   },
   {
-    "id": "hn-48089049",
-    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "points": 73,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T23:02:31Z"
-  },
-  {
-    "id": "hn-48082763",
-    "title": "Israel's AI targeting system: data from a phone become a death sentence",
-    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-    "points": 44,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T10:51:47Z"
-  },
-  {
-    "id": "hn-48088459",
-    "title": "Plex's price hikes prove I was right to switch to Jellyfin",
-    "url": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
-    "points": 42,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T21:49:59Z"
-  },
-  {
-    "id": "hn-48085441",
-    "title": "Wall Street lawyers aided insider trading ring, say US prosecutors",
-    "url": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d",
-    "points": 38,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T16:42:08Z"
-  },
-  {
-    "id": "hn-48083814",
-    "title": "BLAS, Lapack and OpenMP",
-    "url": "https://pypackaging-native.github.io/key-issues/native-dependencies/blas_openmp/",
-    "points": 30,
+    "id": "hn-48093466",
+    "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
+    "url": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/",
+    "points": 67,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-05-10T13:28:56Z"
+    "published_date": "2026-05-11T11:07:10Z"
   },
   {
-    "id": "hn-48090276",
-    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
-    "url": "https://github.com/adamjgmiller/adamsreview",
-    "points": 29,
-    "comments": 7,
+    "id": "hn-48102198",
+    "title": "GM just laid off IT workers to hire those with stronger AI skills",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "points": 55,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-05-11T02:06:29Z"
+    "published_date": "2026-05-11T23:33:04Z"
   },
   {
-    "id": "hn-48089641",
-    "title": "Energy Prices Are Driving Demand for Solar Panels and Heat Pumps",
-    "url": "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html",
+    "id": "hn-48103459",
+    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+    "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+    "points": 38,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-05-12T02:22:04Z"
+  },
+  {
+    "id": "hn-48100227",
+    "title": "Show HN: E2a \u2013 Open-source email gateway for AI agents",
+    "url": "https://github.com/Mnexa-AI/e2a",
+    "points": 37,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T20:26:17Z"
+  },
+  {
+    "id": "hn-48093933",
+    "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
+    "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+    "points": 37,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T12:06:02Z"
+  },
+  {
+    "id": "hn-48095337",
+    "title": "What's Wrong with AI?",
+    "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
+    "points": 33,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-05-11T14:18:28Z"
+  },
+  {
+    "id": "hn-48097141",
+    "title": "Canvas got hacked, provost banned exams, professor responded by assigning Hayek",
+    "url": "https://old.reddit.com/r/UIUC/comments/1ta8b3o/i_opened_my_email_expecting_exam_postponed_hang/",
     "points": 27,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-11T00:26:18Z"
-  },
-  {
-    "id": "hn-48089531",
-    "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
-    "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
-    "points": 20,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-11T00:10:34Z"
-  },
-  {
-    "id": "hn-48087925",
-    "title": "Ask HN: Will low quality AI customer support be the new normal?",
-    "url": "https://news.ycombinator.com/item?id=48087925",
-    "points": 20,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-05-10T20:57:27Z"
-  },
-  {
-    "id": "hn-48087863",
-    "title": "Nuke All Routers",
-    "url": "https://github.com/maxbrito500/esp32-c5-deauth",
-    "points": 19,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T20:50:54Z"
-  },
-  {
-    "id": "hn-48085825",
-    "title": "My writing students were using AI. Their confessions led to a teaching moment",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
-    "points": 17,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T17:19:45Z"
-  },
-  {
-    "id": "hn-48087887",
-    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-    "points": 14,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-05-10T20:54:06Z"
+    "published_date": "2026-05-11T16:26:39Z"
   }
 ]
