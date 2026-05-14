@@ -960,6 +960,107 @@
     "image": null
   },
   {
+    "id": "rss-e4edfbe3",
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 13 May 2026 21:45:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-29058bb3",
+    "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Wed, 13 May 2026 19:49:42 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b5a23609",
+    "title": "Anthropic\u2019s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 13 May 2026 19:28:06 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-110d107a",
+    "title": "AI chatbots are giving out people\u2019s real phone numbers",
+    "summary": "People report that their personal contact info was surfaced by Google AI\u2014and there\u2019s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawy...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Wed, 13 May 2026 18:09:03 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7643edf2",
+    "title": "The Download: making drugs in orbit and NASA\u2019s nuclear-powered spacecraft",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 13 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-49a108cb",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 13 May 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-ff9141df",
+    "title": "A plan to make drugs in orbit is going commercial",
+    "summary": "Varda Space Industries, a startup that\u2019s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 13 May 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-64b64965",
     "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
     "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
@@ -972,6 +1073,21 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 13 May 2026 00:26:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7e8d14b0",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 13 May 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4204,122 +4320,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Thu, 16 Apr 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0498919b",
-    "title": "Treating enterprise AI as an operating layer",
-    "summary": "There\u2019s a fault line running through enterprise AI, and it\u2019s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks\u2014GPT versus Gemini, reasoning scores, and marginal capability gains.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-    "tags": [
-      "GPT",
-      "Gemini",
-      "benchmark"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 16 Apr 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e7584719",
-    "title": "The Download: cyberscammers\u2019 banking bypasses, and carbon removal troubles",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 16 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2e78f094",
-    "title": "Why having \u201chumans in the loop\u201d in an AI war is an illusion",
-    "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "Research",
-    "published_date": "Thu, 16 Apr 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a0464d43",
-    "title": "Codex for (almost) everything",
-    "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/codex-for-almost-everything",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 16 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-18e2fb7f",
-    "title": "The noise we make is hurting animals. Can we learn to shut up?",
-    "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 16 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b6d50c92",
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-gpt-rosalind",
-    "tags": [
-      "GPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 16 Apr 2026 01:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-a14aecd4",
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "summary": "Leading security firms and enterprises join OpenAI\u2019s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "tags": [
-      "GPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-03222db2",
-    "title": "The PR you would have opened yourself",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/transformers-to-mlx",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48111896",
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "url": "https://github.com/cactus-compute/needle",
-    "points": 436,
-    "comments": 149,
+    "id": "hn-48121266",
+    "title": "Leaving GitHub for Forgejo",
+    "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "points": 575,
+    "comments": 296,
     "source": "Hacker News",
-    "published_date": "2026-05-12T18:03:11Z"
+    "published_date": "2026-05-13T12:54:00Z"
   },
   {
-    "id": "hn-48110529",
-    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "points": 221,
-    "comments": 226,
+    "id": "hn-48128003",
+    "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+    "url": "https://news.ycombinator.com/item?id=48128003",
+    "points": 249,
+    "comments": 70,
     "source": "Hacker News",
-    "published_date": "2026-05-12T16:29:21Z"
+    "published_date": "2026-05-13T21:40:18Z"
   },
   {
-    "id": "hn-48111581",
-    "title": "Reimagining the mouse pointer for the AI era",
-    "url": "https://deepmind.google/blog/ai-pointer/",
-    "points": 191,
-    "comments": 164,
+    "id": "hn-48130950",
+    "title": "Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "points": 201,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-05-12T17:40:13Z"
+    "published_date": "2026-05-14T03:59:35Z"
   },
   {
-    "id": "hn-48108778",
-    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
-    "url": "https://github.com/statewright/statewright",
-    "points": 91,
+    "id": "hn-48121929",
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "points": 196,
+    "comments": 530,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T13:53:53Z"
+  },
+  {
+    "id": "hn-48126981",
+    "title": "Meta won't let you block its AI account on Threads",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "points": 162,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T20:22:21Z"
+  },
+  {
+    "id": "hn-48121717",
+    "title": "Software Developers Say AI Is Rotting Their Brains",
+    "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+    "points": 92,
+    "comments": 108,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T13:34:51Z"
+  },
+  {
+    "id": "hn-48126675",
+    "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+    "url": "https://bitplane.net/log/2026/05/rars/",
+    "points": 85,
+    "comments": 80,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T19:59:35Z"
+  },
+  {
+    "id": "hn-48124436",
+    "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+    "url": "https://www.tryardent.com/",
+    "points": 85,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T16:54:03Z"
+  },
+  {
+    "id": "hn-48129561",
+    "title": "The other half of AI safety",
+    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "points": 78,
+    "comments": 96,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T00:27:20Z"
+  },
+  {
+    "id": "hn-48122624",
+    "title": "The AI Backlash Could Get Ugly",
+    "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
+    "points": 76,
+    "comments": 158,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T14:44:41Z"
+  },
+  {
+    "id": "hn-48127815",
+    "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "points": 73,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T21:24:14Z"
+  },
+  {
+    "id": "hn-48122954",
+    "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
+    "url": "https://kerkour.com/the-limits-of-rust",
+    "points": 67,
+    "comments": 62,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T15:09:52Z"
+  },
+  {
+    "id": "hn-48120514",
+    "title": "Composer leaks contents of tokens configured as GitHub OAuth tokens",
+    "url": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
+    "points": 64,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T11:26:33Z"
+  },
+  {
+    "id": "hn-48130711",
+    "title": "Arena AI Model ELO History",
+    "url": "https://mayerwin.github.io/AI-Arena-History/",
+    "points": 54,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T03:19:05Z"
+  },
+  {
+    "id": "hn-48126281",
+    "title": "Claude subscription changes coverage of `claude -p`",
+    "url": "https://x.com/i/trending/2054617957440143639",
+    "points": 53,
+    "comments": 43,
+    "source": "Hacker News",
+    "published_date": "2026-05-13T19:25:58Z"
+  },
+  {
+    "id": "hn-48130186",
+    "title": "Show HN: Nibble",
+    "url": "https://github.com/glouw/nibble",
+    "points": 51,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T01:46:45Z"
+  },
+  {
+    "id": "hn-48126438",
+    "title": "New Claude Code programmatic usage restrictions",
+    "url": "https://twitter.com/i/status/2054610152817619388",
+    "points": 46,
     "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-05-12T14:24:55Z"
+    "published_date": "2026-05-13T19:38:39Z"
   },
   {
-    "id": "hn-48111143",
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
-    "url": "https://www.hypercubic.ai/hopper",
-    "points": 70,
-    "comments": 41,
+    "id": "hn-48130679",
+    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "url": "https://github.com/DrCatHicks/learning-opportunities",
+    "points": 32,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-12T17:10:22Z"
+    "published_date": "2026-05-14T03:13:31Z"
   },
   {
-    "id": "hn-48109962",
-    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
-    "url": "https://voker.ai",
-    "points": 52,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T15:45:20Z"
-  },
-  {
-    "id": "hn-48110593",
-    "title": "Show HN: Gigacatalyst \u2013 Extend your SaaS with an embedded AI builder",
-    "url": "https://news.ycombinator.com/item?id=48110593",
-    "points": 49,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T16:32:54Z"
-  },
-  {
-    "id": "hn-48112544",
-    "title": "Company behind GLiNER model released open source model for running LLM guardrail",
-    "url": "https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model",
-    "points": 35,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T18:45:25Z"
-  },
-  {
-    "id": "hn-48112799",
-    "title": "AI isn't paying off in the way companies think according to Gartner study",
-    "url": "https://fortune.com/2026/05/11/ai-automation-layoffs-gartner-study-roi/",
-    "points": 34,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T19:00:49Z"
-  },
-  {
-    "id": "hn-48110689",
-    "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-    "points": 23,
-    "comments": 36,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T16:39:40Z"
-  },
-  {
-    "id": "hn-48116142",
-    "title": "You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming",
-    "url": "https://gardinerbryant.com/you-dont-look-like-a-gamer/",
-    "points": 21,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T23:56:25Z"
-  },
-  {
-    "id": "hn-48112190",
-    "title": "Unauthorized Anthropic stock sales and investment scams",
-    "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
-    "points": 18,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T18:20:44Z"
-  },
-  {
-    "id": "hn-48111082",
-    "title": "Googlebook, Designed for Gemini Intelligence",
-    "url": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/",
-    "points": 18,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T17:05:45Z"
-  },
-  {
-    "id": "hn-48111527",
-    "title": "FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels",
-    "url": "https://arxiv.org/abs/2604.20913",
-    "points": 17,
+    "id": "hn-48119340",
+    "title": "Try LispE in the Browser",
+    "url": "https://naver.github.io/lispe/",
+    "points": 31,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-12T17:35:51Z"
+    "published_date": "2026-05-13T08:43:11Z"
   },
   {
-    "id": "hn-48116604",
-    "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
-    "url": "https://www.openmonoagent.ai/",
-    "points": 16,
-    "comments": 16,
+    "id": "hn-48120912",
+    "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+    "url": "https://github.com/torrix-ai/install",
+    "points": 30,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-13T00:58:51Z"
-  },
-  {
-    "id": "hn-48113484",
-    "title": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations",
-    "url": "https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations",
-    "points": 16,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T19:49:34Z"
-  },
-  {
-    "id": "hn-48107362",
-    "title": "Show HN: Retrace \u2013 reverse debugging for production CPython applications",
-    "url": "https://github.com/retracesoftware/retracesoftware",
-    "points": 14,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T12:35:00Z"
-  },
-  {
-    "id": "hn-48108273",
-    "title": "The gutting of USAID has left a void China will not fill",
-    "url": "https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill",
-    "points": 12,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T13:49:23Z"
-  },
-  {
-    "id": "hn-48109600",
-    "title": "Show HN: Reducing LLM input tokens by 70%",
-    "url": "https://adola.app/",
-    "points": 11,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T15:18:33Z"
-  },
-  {
-    "id": "hn-48110514",
-    "title": "Spotify Is Down",
-    "url": "https://news.ycombinator.com/item?id=48110514",
-    "points": 11,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-12T16:28:03Z"
+    "published_date": "2026-05-13T12:14:26Z"
   }
 ]
