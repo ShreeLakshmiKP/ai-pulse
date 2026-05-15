@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48121266",
-    "title": "Leaving GitHub for Forgejo",
-    "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-    "points": 575,
-    "comments": 296,
+    "id": "hn-48138136",
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "points": 821,
+    "comments": 419,
     "source": "Hacker News",
-    "published_date": "2026-05-13T12:54:00Z"
+    "published_date": "2026-05-14T17:08:00Z"
   },
   {
-    "id": "hn-48128003",
-    "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-    "url": "https://news.ycombinator.com/item?id=48128003",
-    "points": 249,
-    "comments": 70,
+    "id": "hn-48137145",
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "points": 579,
+    "comments": 142,
     "source": "Hacker News",
-    "published_date": "2026-05-13T21:40:18Z"
+    "published_date": "2026-05-14T15:47:31Z"
   },
   {
-    "id": "hn-48130950",
-    "title": "Claude for Small Business",
-    "url": "https://www.anthropic.com/news/claude-for-small-business",
-    "points": 201,
-    "comments": 126,
+    "id": "hn-48139148",
+    "title": "AI is making me dumb",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "points": 480,
+    "comments": 286,
     "source": "Hacker News",
-    "published_date": "2026-05-14T03:59:35Z"
+    "published_date": "2026-05-14T18:19:28Z"
   },
   {
-    "id": "hn-48121929",
-    "title": "The US is winning the AI race where it matters most: commercialization",
-    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "points": 196,
-    "comments": 530,
+    "id": "hn-48138268",
+    "title": "New Nginx Exploit",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "points": 366,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-05-13T13:53:53Z"
+    "published_date": "2026-05-14T17:17:48Z"
   },
   {
-    "id": "hn-48126981",
-    "title": "Meta won't let you block its AI account on Threads",
-    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "points": 162,
-    "comments": 74,
+    "id": "hn-48136240",
+    "title": "Bitcoin trader recovers wallet with help of Claude",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+    "points": 321,
+    "comments": 168,
     "source": "Hacker News",
-    "published_date": "2026-05-13T20:22:21Z"
+    "published_date": "2026-05-14T14:49:48Z"
   },
   {
-    "id": "hn-48121717",
-    "title": "Software Developers Say AI Is Rotting Their Brains",
-    "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-    "points": 92,
-    "comments": 108,
+    "id": "hn-48142188",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "points": 223,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-05-13T13:34:51Z"
+    "published_date": "2026-05-14T22:37:40Z"
   },
   {
-    "id": "hn-48126675",
-    "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-    "url": "https://bitplane.net/log/2026/05/rars/",
-    "points": 85,
+    "id": "hn-48139355",
+    "title": "The AI zombification of universities",
+    "url": "https://www.thenewcritic.com/p/the-great-zombification",
+    "points": 184,
+    "comments": 187,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T18:37:08Z"
+  },
+  {
+    "id": "hn-48144494",
+    "title": "How Claude Code works in large codebases",
+    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "points": 159,
+    "comments": 113,
+    "source": "Hacker News",
+    "published_date": "2026-05-15T04:15:31Z"
+  },
+  {
+    "id": "hn-48143284",
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "points": 138,
+    "comments": 106,
+    "source": "Hacker News",
+    "published_date": "2026-05-15T01:08:04Z"
+  },
+  {
+    "id": "hn-48136662",
+    "title": "Anthropic forms $200M partnership with the Gates Foundation",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "points": 121,
+    "comments": 99,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T15:15:05Z"
+  },
+  {
+    "id": "hn-48144380",
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "points": 100,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-05-15T03:56:14Z"
+  },
+  {
+    "id": "hn-48139704",
+    "title": "WinUI 3 Performance: A Leap Forward",
+    "url": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
+    "points": 99,
     "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-05-13T19:59:35Z"
+    "published_date": "2026-05-14T19:01:58Z"
   },
   {
-    "id": "hn-48124436",
-    "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-    "url": "https://www.tryardent.com/",
-    "points": 85,
+    "id": "hn-48139144",
+    "title": "The people writing AI alignment policy are not whose work is being replaced",
+    "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+    "points": 90,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T18:19:13Z"
+  },
+  {
+    "id": "hn-48141234",
+    "title": "Claude for Legal",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "points": 84,
+    "comments": 78,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T21:05:05Z"
+  },
+  {
+    "id": "hn-48134400",
+    "title": "What happens when you post a real Monet and say it's AI?",
+    "url": "https://twitter.com/jediwolf/status/2054776716770320631",
+    "points": 83,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-05-14T12:23:27Z"
+  },
+  {
+    "id": "hn-48142650",
+    "title": "LLM Policy for Rust Compiler",
+    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "points": 77,
     "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-05-13T16:54:03Z"
+    "published_date": "2026-05-14T23:37:21Z"
   },
   {
-    "id": "hn-48129561",
-    "title": "The other half of AI safety",
-    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-    "points": 78,
-    "comments": 96,
+    "id": "hn-48134808",
+    "title": "Claude Account Suspended Seconds After Purchase?",
+    "url": "https://news.ycombinator.com/item?id=48134808",
+    "points": 70,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-05-14T00:27:20Z"
+    "published_date": "2026-05-14T13:01:52Z"
   },
   {
-    "id": "hn-48122624",
-    "title": "The AI Backlash Could Get Ugly",
-    "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
-    "points": 76,
-    "comments": 158,
+    "id": "hn-48142553",
+    "title": "Have a Coherent AI Policy",
+    "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "points": 66,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-05-13T14:44:41Z"
+    "published_date": "2026-05-14T23:24:45Z"
   },
   {
-    "id": "hn-48127815",
-    "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "points": 73,
+    "id": "hn-48142964",
+    "title": "Elevated error rates on Opus 4.7",
+    "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+    "points": 57,
     "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-05-13T21:24:14Z"
+    "published_date": "2026-05-15T00:22:53Z"
   },
   {
-    "id": "hn-48122954",
-    "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
-    "url": "https://kerkour.com/the-limits-of-rust",
-    "points": 67,
-    "comments": 62,
+    "id": "hn-48141902",
+    "title": "Show HN: GridTravel \u2013 A community based travel app for users to share routes",
+    "url": "https://www.gridtravel.app",
+    "points": 48,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-05-13T15:09:52Z"
-  },
-  {
-    "id": "hn-48120514",
-    "title": "Composer leaks contents of tokens configured as GitHub OAuth tokens",
-    "url": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
-    "points": 64,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-05-13T11:26:33Z"
-  },
-  {
-    "id": "hn-48130711",
-    "title": "Arena AI Model ELO History",
-    "url": "https://mayerwin.github.io/AI-Arena-History/",
-    "points": 54,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-05-14T03:19:05Z"
-  },
-  {
-    "id": "hn-48126281",
-    "title": "Claude subscription changes coverage of `claude -p`",
-    "url": "https://x.com/i/trending/2054617957440143639",
-    "points": 53,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-05-13T19:25:58Z"
-  },
-  {
-    "id": "hn-48130186",
-    "title": "Show HN: Nibble",
-    "url": "https://github.com/glouw/nibble",
-    "points": 51,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-05-14T01:46:45Z"
-  },
-  {
-    "id": "hn-48126438",
-    "title": "New Claude Code programmatic usage restrictions",
-    "url": "https://twitter.com/i/status/2054610152817619388",
-    "points": 46,
-    "comments": 33,
-    "source": "Hacker News",
-    "published_date": "2026-05-13T19:38:39Z"
-  },
-  {
-    "id": "hn-48130679",
-    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-    "url": "https://github.com/DrCatHicks/learning-opportunities",
-    "points": 32,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-05-14T03:13:31Z"
-  },
-  {
-    "id": "hn-48119340",
-    "title": "Try LispE in the Browser",
-    "url": "https://naver.github.io/lispe/",
-    "points": 31,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-05-13T08:43:11Z"
-  },
-  {
-    "id": "hn-48120912",
-    "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
-    "url": "https://github.com/torrix-ai/install",
-    "points": 30,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-05-13T12:14:26Z"
+    "published_date": "2026-05-14T22:05:30Z"
   }
 ]
