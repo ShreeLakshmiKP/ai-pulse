@@ -4,7 +4,7 @@
     "name": "nexu-io/html-anything",
     "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 1522,
+    "stars": 2159,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -35,7 +35,7 @@
     "name": "WantongC/journal-adapt-writing-skill",
     "description": "Learn any journal's writing conventions from its published papers, then revise your manuscript to match \u2014 section by section.",
     "url": "https://github.com/WantongC/journal-adapt-writing-skill",
-    "stars": 200,
+    "stars": 262,
     "language": null,
     "topics": [
       "academic-writing",
@@ -52,42 +52,54 @@
     "created_at": "2026-05-13T04:33:17Z"
   },
   {
-    "id": "gh-1233547157",
-    "name": "sno-ai/llmix",
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity.",
-    "url": "https://github.com/sno-ai/llmix",
-    "stars": 127,
+    "id": "gh-1239522492",
+    "name": "agentic-in/elephant-agent",
+    "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
+    "url": "https://github.com/agentic-in/elephant-agent",
+    "stars": 167,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-sdk",
-      "ai-tools",
-      "anthropic",
-      "circuit-breaker",
-      "config-driven",
-      "gemini",
-      "key-rotation",
-      "litellm",
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "context",
       "llm",
-      "llm-cache",
-      "llm-orchestration",
-      "llmops",
-      "model-switching",
-      "openai",
-      "python",
-      "redis",
-      "rust",
-      "singleflight",
-      "typescript"
+      "memory",
+      "models",
+      "personal-ai",
+      "self-evolution"
     ],
-    "created_at": "2026-05-09T04:39:12Z"
+    "created_at": "2026-05-15T07:08:17Z"
+  },
+  {
+    "id": "gh-1237524419",
+    "name": "Evokoa/pgGraph",
+    "description": "Open-source graph database superpowers for your existing Postgres data.",
+    "url": "https://github.com/Evokoa/pgGraph",
+    "stars": 160,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-agents-framework",
+      "graph",
+      "graph-database",
+      "pgrx",
+      "postgres",
+      "postgresql-database",
+      "postgresql-extension",
+      "relationship-graph",
+      "rust",
+      "traversal"
+    ],
+    "created_at": "2026-05-13T09:04:07Z"
   },
   {
     "id": "gh-1237883600",
     "name": "python-telegramBot/ai-auto-trading",
     "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
     "url": "https://github.com/python-telegramBot/ai-auto-trading",
-    "stars": 123,
+    "stars": 132,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -117,7 +129,7 @@
     "name": "thinkpixelIab/polymarket-ai-trading",
     "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
     "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-    "stars": 120,
+    "stars": 127,
     "language": "HTML",
     "topics": [
       "ai-trading",
@@ -144,26 +156,11 @@
     "created_at": "2026-05-13T16:08:45Z"
   },
   {
-    "id": "gh-1233680465",
-    "name": "cosmicstack-labs/mercury-agent-skills",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 114,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aiskills",
-      "skills"
-    ],
-    "created_at": "2026-05-09T08:16:53Z"
-  },
-  {
     "id": "gh-1234870827",
     "name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 104,
+    "stars": 114,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -176,35 +173,11 @@
     "created_at": "2026-05-10T18:44:26Z"
   },
   {
-    "id": "gh-1233656750",
-    "name": "ndcorder/outputguard",
-    "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
-    "url": "https://github.com/ndcorder/outputguard",
-    "stars": 81,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "anthropic",
-      "cli",
-      "developer-tools",
-      "json",
-      "json-repair",
-      "json-schema",
-      "llm",
-      "openai",
-      "python",
-      "repair",
-      "structured-output",
-      "validation"
-    ],
-    "created_at": "2026-05-09T07:40:12Z"
-  },
-  {
     "id": "gh-1236665062",
     "name": "johunsang/semble_rs",
     "description": "Fast, AI-agent-native code search in Rust \u2014 hybrid BM25 + semantic, Tree-sitter AST chunking, dependency & impact analysis. Drop-in replacement for grep/cat/read/ls in Claude Code, Codex, Cursor, Aider, OpenHands.",
     "url": "https://github.com/johunsang/semble_rs",
-    "stars": 79,
+    "stars": 83,
     "language": "Rust",
     "topics": [
       "ai-agent",
@@ -229,6 +202,42 @@
       "tree-sitter"
     ],
     "created_at": "2026-05-12T13:07:42Z"
+  },
+  {
+    "id": "gh-1238096032",
+    "name": "chiennv2000/orthrus",
+    "description": "Fast, lossless LLM inference via dual-view diffusion decoding.",
+    "url": "https://github.com/chiennv2000/orthrus",
+    "stars": 74,
+    "language": "Python",
+    "topics": [
+      "diffusion-language-models",
+      "efficient-inference",
+      "large-language-models",
+      "llm",
+      "llm-efficiency",
+      "model-architecture",
+      "natural-language-processing"
+    ],
+    "created_at": "2026-05-13T20:08:33Z"
+  },
+  {
+    "id": "gh-1239210589",
+    "name": "NeuralInverse/neuralinverse",
+    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
+    "url": "https://github.com/NeuralInverse/neuralinverse",
+    "stars": 73,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai",
+      "code-editor",
+      "ide",
+      "llm",
+      "open-source",
+      "vscode-fork"
+    ],
+    "created_at": "2026-05-14T21:48:10Z"
   },
   {
     "id": "gh-1237739069",
@@ -265,7 +274,7 @@
     "name": "secureagentics/Adrian",
     "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
     "url": "https://github.com/secureagentics/Adrian",
-    "stars": 41,
+    "stars": 43,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -290,7 +299,7 @@
     "name": "Thiago-code-lab/aws-certified-ai-practitioner-brasil",
     "description": "Reposit\u00f3rio com recursos em Portugu\u00eas (PT-BR) para estudos da certifica\u00e7\u00e3o AWS Certified AI Practitioner (AIF-C01)",
     "url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
-    "stars": 37,
+    "stars": 43,
     "language": "HTML",
     "topics": [
       "ai-practitioner",
@@ -313,7 +322,7 @@
     "name": "kavishka-dot/libminerva",
     "description": "MINERVA - Minimal Inference Engine for Robust, Verifiable, and Authenticated ML. Encrypted, integrity-verified neural network inference for MCUs down to ATmega328P.",
     "url": "https://github.com/kavishka-dot/libminerva",
-    "stars": 37,
+    "stars": 39,
     "language": "C",
     "topics": [
       "arduino",
@@ -332,47 +341,33 @@
     "created_at": "2026-05-10T12:17:14Z"
   },
   {
-    "id": "gh-1233879336",
-    "name": "kavishka-dot/filum",
-    "description": "Pure-C federated learning library for MCU-class edge devices over LoRa. STM32 + SX1276.",
-    "url": "https://github.com/kavishka-dot/filum",
-    "stars": 27,
-    "language": "C",
+    "id": "gh-1237468388",
+    "name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab \u2014 open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 23,
+    "language": "TypeScript",
     "topics": [
-      "c99",
-      "edge-ai",
-      "embedded",
-      "federated-learning",
-      "iot",
-      "lora",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "coding-assistant",
+      "copilot",
+      "cursor",
+      "data-science",
+      "developer-tools",
+      "inline-completion",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyterlab",
+      "llm",
       "machine-learning",
-      "stm32"
+      "notebook",
+      "ollama",
+      "openai"
     ],
-    "created_at": "2026-05-09T13:22:59Z"
-  },
-  {
-    "id": "gh-1237750162",
-    "name": "Hao0321/ai-media-generator",
-    "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms.",
-    "url": "https://github.com/Hao0321/ai-media-generator",
-    "stars": 8,
-    "language": null,
-    "topics": [
-      "ai-image",
-      "ai-music",
-      "ai-video",
-      "claude-code",
-      "claude-skill",
-      "flux",
-      "generative-ai",
-      "kling",
-      "midjourney",
-      "prompt-engineering",
-      "seedance",
-      "sora",
-      "suno",
-      "veo"
-    ],
-    "created_at": "2026-05-13T13:26:06Z"
+    "created_at": "2026-05-13T07:59:34Z"
   }
 ]
