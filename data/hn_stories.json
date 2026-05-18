@@ -1,146 +1,182 @@
 [
   {
-    "id": "hn-48159445",
-    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "url": "https://nvlabs.github.io/Sana/WM/",
-    "points": 331,
-    "comments": 135,
+    "id": "hn-48168221",
+    "title": "I don't think AI will make your processes go faster",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "points": 591,
+    "comments": 405,
     "source": "Hacker News",
-    "published_date": "2026-05-16T12:06:21Z"
+    "published_date": "2026-05-17T12:13:45Z"
   },
   {
-    "id": "hn-48160807",
-    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-    "url": "https://www.seangoedecke.com/steering-vectors/",
-    "points": 233,
-    "comments": 72,
+    "id": "hn-48168626",
+    "title": "AI is a technology not a product",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "points": 407,
+    "comments": 175,
     "source": "Hacker News",
-    "published_date": "2026-05-16T14:58:16Z"
+    "published_date": "2026-05-17T13:11:20Z"
   },
   {
-    "id": "hn-48162354",
-    "title": "US is starting to see heavy job losses in roles exposed to AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-    "points": 154,
-    "comments": 238,
+    "id": "hn-48168056",
+    "title": "AI subscriptions are a ticking time bomb for enterprise",
+    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "points": 394,
+    "comments": 387,
     "source": "Hacker News",
-    "published_date": "2026-05-16T17:59:45Z"
+    "published_date": "2026-05-17T11:49:31Z"
   },
   {
-    "id": "hn-48159528",
-    "title": "A Meta employee gets real about the horror of working there",
-    "url": "https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/",
-    "points": 93,
-    "comments": 91,
+    "id": "hn-48168668",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "url": "https://github.com/tech4bot/rk3562deb",
+    "points": 363,
+    "comments": 169,
     "source": "Hacker News",
-    "published_date": "2026-05-16T12:19:46Z"
+    "published_date": "2026-05-17T13:16:27Z"
   },
   {
-    "id": "hn-48160211",
-    "title": "Accelerate \u2013 Embedded language for high-performance array computations",
-    "url": "https://github.com/AccelerateHS/accelerate",
-    "points": 83,
+    "id": "hn-48169874",
+    "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
+    "url": "https://github.com/MinishLab/semble",
+    "points": 321,
+    "comments": 111,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T15:37:07Z"
+  },
+  {
+    "id": "hn-48168198",
+    "title": "Apple Silicon costs more than OpenRouter",
+    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "points": 316,
+    "comments": 274,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T12:09:23Z"
+  },
+  {
+    "id": "hn-48173429",
+    "title": "GenCAD",
+    "url": "https://gencad.github.io/",
+    "points": 306,
+    "comments": 75,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T21:40:35Z"
+  },
+  {
+    "id": "hn-48168485",
+    "title": "CUDA Books",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "points": 194,
+    "comments": 46,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T12:52:06Z"
+  },
+  {
+    "id": "hn-48173468",
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "points": 193,
+    "comments": 189,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T21:45:30Z"
+  },
+  {
+    "id": "hn-48170122",
+    "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+    "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+    "points": 107,
+    "comments": 181,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T16:04:28Z"
+  },
+  {
+    "id": "hn-48173547",
+    "title": "The History of ThinkPad: From IBM\u2019s Bento Box to Lenovo\u2019s AI Workstations",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "points": 100,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T21:56:40Z"
+  },
+  {
+    "id": "hn-48174808",
+    "title": "Most Americans don't trust AI \u2013 or the people in charge of it (2025)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+    "points": 96,
+    "comments": 76,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T01:39:30Z"
+  },
+  {
+    "id": "hn-48170247",
+    "title": "Canada\u2019s Bill C-22 would weaken protections on private messages",
+    "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+    "points": 95,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T16:15:01Z"
+  },
+  {
+    "id": "hn-48168159",
+    "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "points": 94,
+    "comments": 102,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T12:03:04Z"
+  },
+  {
+    "id": "hn-48173318",
+    "title": "An AI Hate Wave Is Here",
+    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "points": 86,
+    "comments": 109,
+    "source": "Hacker News",
+    "published_date": "2026-05-17T21:23:25Z"
+  },
+  {
+    "id": "hn-48173849",
+    "title": "Design posters showcasing your country's electrical grid",
+    "url": "https://github.com/open-energy-transition/grid2poster",
+    "points": 85,
     "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-05-16T13:42:34Z"
+    "published_date": "2026-05-17T22:47:05Z"
   },
   {
-    "id": "hn-48158110",
-    "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-    "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
-    "points": 54,
-    "comments": 65,
+    "id": "hn-48171852",
+    "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "points": 82,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-16T08:30:51Z"
+    "published_date": "2026-05-17T18:37:59Z"
   },
   {
-    "id": "hn-48164173",
-    "title": "Ask HN: When did computers stop being fun?",
-    "url": "https://news.ycombinator.com/item?id=48164173",
-    "points": 54,
-    "comments": 71,
+    "id": "hn-48171826",
+    "title": "The AI water issue is fake",
+    "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+    "points": 81,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-05-16T22:02:51Z"
+    "published_date": "2026-05-17T18:35:18Z"
   },
   {
-    "id": "hn-48164229",
-    "title": "I tried to make Claude make me money on open-source bounties",
-    "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
-    "points": 34,
+    "id": "hn-48173708",
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "url": "https://xca-attacks.github.io/fabricked/",
+    "points": 50,
     "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-05-16T22:13:54Z"
+    "published_date": "2026-05-17T22:23:30Z"
   },
   {
-    "id": "hn-48161427",
-    "title": "Meta to cut 8000 employees despite $26B Q1 net income",
-    "url": "https://moneywise.com/news/top-stories/meta-layoffs-8000-workers-zuckerberg-ai-spending",
-    "points": 32,
-    "comments": 6,
+    "id": "hn-48168426",
+    "title": "Agentic Trading with Safe Guardrails",
+    "url": "https://github.com/ShurikenTrade/shuriken-skills",
+    "points": 48,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-05-16T16:09:49Z"
-  },
-  {
-    "id": "hn-48159291",
-    "title": "Prepare for an AI Jobs Apocalypse",
-    "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
-    "points": 28,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-16T11:45:08Z"
-  },
-  {
-    "id": "hn-48160313",
-    "title": "I spent my whole career building passive income. Here's what I got wrong",
-    "url": "https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/",
-    "points": 21,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-05-16T13:56:19Z"
-  },
-  {
-    "id": "hn-48165492",
-    "title": "How to buy cheap Claude tokens in China",
-    "url": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
-    "points": 21,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T02:11:57Z"
-  },
-  {
-    "id": "hn-48165828",
-    "title": "The latest X algorithm has been published to GitHub",
-    "url": "https://twitter.com/elonmusk/status/2055277918633562153",
-    "points": 20,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T03:31:29Z"
-  },
-  {
-    "id": "hn-48166275",
-    "title": "Show HN: Codiff, a local diff review tool",
-    "url": "https://github.com/nkzw-tech/codiff/releases",
-    "points": 19,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T05:30:14Z"
-  },
-  {
-    "id": "hn-48162816",
-    "title": "Xi Jinping Was Only Humoring Trump",
-    "url": "https://www.theatlantic.com/ideas/2026/05/trump-lame-duck-superpower/687189/",
-    "points": 13,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-16T19:03:25Z"
-  },
-  {
-    "id": "hn-48158305",
-    "title": "Show HN: A Dark Cave \u2013 Minimalistic Graphics in the Age of AI Slop",
-    "url": "https://a-dark-cave.com/",
-    "points": 12,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-16T08:57:47Z"
+    "published_date": "2026-05-17T12:44:24Z"
   }
 ]

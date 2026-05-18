@@ -1,41 +1,10 @@
 [
   {
-    "id": "gh-1235403234",
-    "name": "nexu-io/html-anything",
-    "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "url": "https://github.com/nexu-io/html-anything",
-    "stars": 2586,
-    "language": "HTML",
-    "topics": [
-      "agent-skills",
-      "agentic",
-      "ai-agents",
-      "ai-design",
-      "ai-editor",
-      "byok",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "coding-agents",
-      "generative-ai",
-      "html",
-      "html-editor",
-      "hyperframes",
-      "local-first",
-      "markdown",
-      "nextjs",
-      "vibe-coding",
-      "wechat",
-      "xiaohongshu"
-    ],
-    "created_at": "2026-05-11T09:40:38Z"
-  },
-  {
     "id": "gh-1239201366",
     "name": "2508965-ship-it/harmonist-orchestral",
     "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
     "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-    "stars": 420,
+    "stars": 421,
     "language": null,
     "topics": [
       "agent-framework",
@@ -56,7 +25,7 @@
     "name": "WantongC/journal-adapt-writing-skill",
     "description": "Learn any journal's writing conventions from its published papers, then revise your manuscript to match \u2014 section by section.",
     "url": "https://github.com/WantongC/journal-adapt-writing-skill",
-    "stars": 303,
+    "stars": 330,
     "language": null,
     "topics": [
       "academic-writing",
@@ -77,7 +46,7 @@
     "name": "agentic-in/elephant-agent",
     "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
     "url": "https://github.com/agentic-in/elephant-agent",
-    "stars": 263,
+    "stars": 291,
     "language": "Python",
     "topics": [
       "agent",
@@ -97,7 +66,7 @@
     "name": "chiennv2000/orthrus",
     "description": "Fast, lossless LLM inference via dual-view diffusion decoding.",
     "url": "https://github.com/chiennv2000/orthrus",
-    "stars": 246,
+    "stars": 288,
     "language": "Python",
     "topics": [
       "diffusion-language-models",
@@ -115,7 +84,7 @@
     "name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 200,
+    "stars": 227,
     "language": "Rust",
     "topics": [
       "ai",
@@ -138,7 +107,7 @@
     "name": "python-telegramBot/ai-auto-trading",
     "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
     "url": "https://github.com/python-telegramBot/ai-auto-trading",
-    "stars": 152,
+    "stars": 175,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -168,7 +137,7 @@
     "name": "thinkpixelIab/polymarket-ai-trading",
     "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
     "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-    "stars": 145,
+    "stars": 168,
     "language": "HTML",
     "topics": [
       "ai-trading",
@@ -195,29 +164,48 @@
     "created_at": "2026-05-13T16:08:45Z"
   },
   {
-    "id": "gh-1239210589",
-    "name": "NeuralInverse/neuralinverse",
-    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
-    "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 80,
-    "language": "TypeScript",
+    "id": "gh-1241425259",
+    "name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "\u628a\u5c97\u4f4d\u63cf\u8ff0\u53d8\u9879\u76ee\uff0c\u628a\u9879\u76ee\u53d8\u7b80\u5386\uff0c\u628a\u7b80\u5386\u53d8\u9762\u8bd5\u3002",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 135,
+    "language": "Python",
     "topics": [
-      "agentic-coding",
       "ai",
-      "code-editor",
-      "ide",
-      "llm",
-      "open-source",
-      "vscode-fork"
+      "ai-agents",
+      "skills"
     ],
-    "created_at": "2026-05-14T21:48:10Z"
+    "created_at": "2026-05-17T11:25:47Z"
+  },
+  {
+    "id": "gh-1239473321",
+    "name": "basionwang-bot/HermesPet",
+    "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
+    "url": "https://github.com/basionwang-bot/HermesPet",
+    "stars": 111,
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "chatgpt",
+      "chinese",
+      "claude",
+      "deepseek",
+      "desktop-app",
+      "dynamic-island",
+      "llm",
+      "macos",
+      "menu-bar-app",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-05-15T06:03:02Z"
   },
   {
     "id": "gh-1237739069",
     "name": "gonemedia/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/gonemedia/aipointer",
-    "stars": 77,
+    "stars": 110,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -243,27 +231,54 @@
     "created_at": "2026-05-13T13:13:57Z"
   },
   {
-    "id": "gh-1239473321",
-    "name": "basionwang-bot/HermesPet",
-    "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-    "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 62,
-    "language": "Swift",
+    "id": "gh-1239898419",
+    "name": "ahammadmejbah/Awesome-Datasets-Hub",
+    "description": "A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks.",
+    "url": "https://github.com/ahammadmejbah/Awesome-Datasets-Hub",
+    "stars": 105,
+    "language": null,
+    "topics": [
+      "benchmark",
+      "benchmarking",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "genetic-algorithm",
+      "llm",
+      "llm-evaluation",
+      "llm-inference",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "neural-network"
+    ],
+    "created_at": "2026-05-15T14:58:14Z"
+  },
+  {
+    "id": "gh-1240996286",
+    "name": "agent-quality-controls/slopless",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+    "url": "https://github.com/agent-quality-controls/slopless",
+    "stars": 103,
+    "language": "HTML",
     "topics": [
       "ai",
-      "chatgpt",
-      "chinese",
-      "claude",
-      "deepseek",
-      "desktop-app",
-      "dynamic-island",
+      "cli",
+      "lint",
+      "linter",
       "llm",
-      "macos",
-      "menu-bar-app",
-      "swift",
-      "swiftui"
+      "markdown",
+      "nodejs",
+      "prose",
+      "quality",
+      "slop",
+      "static-analysis",
+      "style-guide",
+      "textlint",
+      "typescript",
+      "writing"
     ],
-    "created_at": "2026-05-15T06:03:02Z"
+    "created_at": "2026-05-16T20:44:14Z"
   },
   {
     "id": "gh-1237468388",
@@ -296,60 +311,6 @@
     "created_at": "2026-05-13T07:59:34Z"
   },
   {
-    "id": "gh-1235821686",
-    "name": "Thiago-code-lab/aws-certified-ai-practitioner-brasil",
-    "description": "Reposit\u00f3rio com recursos em Portugu\u00eas (PT-BR) para estudos da certifica\u00e7\u00e3o AWS Certified AI Practitioner (AIF-C01)",
-    "url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
-    "stars": 44,
-    "language": "HTML",
-    "topics": [
-      "ai-practitioner",
-      "aif-c01-study",
-      "aif-c01-test",
-      "artificial-intelligence",
-      "aws",
-      "aws-certified-cloud-practitioner",
-      "brasil",
-      "cloudstudy",
-      "estudos",
-      "generative-ai",
-      "machine-learning",
-      "portuguese-brazilian"
-    ],
-    "created_at": "2026-05-11T17:30:31Z"
-  },
-  {
-    "id": "gh-1236081155",
-    "name": "ProfineAI/profine-cli",
-    "description": "Profine automatically profiles and optimizes PyTorch training jobs on real GPUs, delivering measurable speedups and lower GPU costs before teams waste days tuning configs by hand.",
-    "url": "https://github.com/ProfineAI/profine-cli",
-    "stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "automated-optimization",
-      "benchmark",
-      "cli",
-      "command-line-tool",
-      "deep-learning",
-      "gpu",
-      "gpu-profiling",
-      "llm-agents",
-      "machine-learning",
-      "mingpt",
-      "mixed-precision",
-      "mlops",
-      "modal",
-      "model-training",
-      "performance-optimization",
-      "profiling",
-      "python",
-      "pytorch",
-      "torch-compile"
-    ],
-    "created_at": "2026-05-11T23:50:17Z"
-  },
-  {
     "id": "gh-1237750162",
     "name": "Hao0321/ai-media-generator",
     "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms.",
@@ -373,5 +334,25 @@
       "veo"
     ],
     "created_at": "2026-05-13T13:26:06Z"
+  },
+  {
+    "id": "gh-1236473288",
+    "name": "kavishka-dot/vulcan-os",
+    "description": "Minimal real-time OS for STM32H7, built from scratch for edge ML inference and on-device training",
+    "url": "https://github.com/kavishka-dot/vulcan-os",
+    "stars": 10,
+    "language": "C",
+    "topics": [
+      "assembly",
+      "bare-metal",
+      "cortex-m7",
+      "edge-ai",
+      "embedded-systems",
+      "iot",
+      "machine-learning",
+      "rtos",
+      "stm32"
+    ],
+    "created_at": "2026-05-12T09:25:02Z"
   }
 ]
