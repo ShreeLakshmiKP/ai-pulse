@@ -25,7 +25,7 @@
     "name": "WantongC/journal-adapt-writing-skill",
     "description": "Learn any journal's writing conventions from its published papers, then revise your manuscript to match \u2014 section by section.",
     "url": "https://github.com/WantongC/journal-adapt-writing-skill",
-    "stars": 330,
+    "stars": 346,
     "language": null,
     "topics": [
       "academic-writing",
@@ -46,7 +46,7 @@
     "name": "agentic-in/elephant-agent",
     "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
     "url": "https://github.com/agentic-in/elephant-agent",
-    "stars": 291,
+    "stars": 322,
     "language": "Python",
     "topics": [
       "agent",
@@ -66,7 +66,7 @@
     "name": "chiennv2000/orthrus",
     "description": "Fast, lossless LLM inference via dual-view diffusion decoding.",
     "url": "https://github.com/chiennv2000/orthrus",
-    "stars": 288,
+    "stars": 321,
     "language": "Python",
     "topics": [
       "diffusion-language-models",
@@ -84,7 +84,7 @@
     "name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 227,
+    "stars": 234,
     "language": "Rust",
     "topics": [
       "ai",
@@ -103,11 +103,25 @@
     "created_at": "2026-05-13T09:04:07Z"
   },
   {
+    "id": "gh-1241425259",
+    "name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "\u628a\u5c97\u4f4d\u63cf\u8ff0\u53d8\u9879\u76ee\uff0c\u628a\u9879\u76ee\u53d8\u7b80\u5386\uff0c\u628a\u7b80\u5386\u53d8\u9762\u8bd5\u3002",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 204,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47Z"
+  },
+  {
     "id": "gh-1237883600",
     "name": "python-telegramBot/ai-auto-trading",
     "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
     "url": "https://github.com/python-telegramBot/ai-auto-trading",
-    "stars": 175,
+    "stars": 195,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -137,7 +151,7 @@
     "name": "thinkpixelIab/polymarket-ai-trading",
     "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
     "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-    "stars": 168,
+    "stars": 187,
     "language": "HTML",
     "topics": [
       "ai-trading",
@@ -164,25 +178,37 @@
     "created_at": "2026-05-13T16:08:45Z"
   },
   {
-    "id": "gh-1241425259",
-    "name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "\u628a\u5c97\u4f4d\u63cf\u8ff0\u53d8\u9879\u76ee\uff0c\u628a\u9879\u76ee\u53d8\u7b80\u5386\uff0c\u628a\u7b80\u5386\u53d8\u9762\u8bd5\u3002",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 135,
-    "language": "Python",
+    "id": "gh-1240996286",
+    "name": "agent-quality-controls/slopless",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+    "url": "https://github.com/agent-quality-controls/slopless",
+    "stars": 158,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "skills"
+      "cli",
+      "lint",
+      "linter",
+      "llm",
+      "markdown",
+      "nodejs",
+      "prose",
+      "quality",
+      "slop",
+      "static-analysis",
+      "style-guide",
+      "textlint",
+      "typescript",
+      "writing"
     ],
-    "created_at": "2026-05-17T11:25:47Z"
+    "created_at": "2026-05-16T20:44:14Z"
   },
   {
     "id": "gh-1239473321",
     "name": "basionwang-bot/HermesPet",
     "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 111,
+    "stars": 139,
     "language": "Swift",
     "topics": [
       "ai",
@@ -205,7 +231,7 @@
     "name": "gonemedia/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/gonemedia/aipointer",
-    "stars": 110,
+    "stars": 124,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -235,7 +261,7 @@
     "name": "ahammadmejbah/Awesome-Datasets-Hub",
     "description": "A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks.",
     "url": "https://github.com/ahammadmejbah/Awesome-Datasets-Hub",
-    "stars": 105,
+    "stars": 111,
     "language": null,
     "topics": [
       "benchmark",
@@ -253,32 +279,6 @@
       "neural-network"
     ],
     "created_at": "2026-05-15T14:58:14Z"
-  },
-  {
-    "id": "gh-1240996286",
-    "name": "agent-quality-controls/slopless",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
-    "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 103,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "cli",
-      "lint",
-      "linter",
-      "llm",
-      "markdown",
-      "nodejs",
-      "prose",
-      "quality",
-      "slop",
-      "static-analysis",
-      "style-guide",
-      "textlint",
-      "typescript",
-      "writing"
-    ],
-    "created_at": "2026-05-16T20:44:14Z"
   },
   {
     "id": "gh-1237468388",
@@ -315,7 +315,7 @@
     "name": "Hao0321/ai-media-generator",
     "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms.",
     "url": "https://github.com/Hao0321/ai-media-generator",
-    "stars": 11,
+    "stars": 17,
     "language": null,
     "topics": [
       "ai-image",
@@ -336,23 +336,21 @@
     "created_at": "2026-05-13T13:26:06Z"
   },
   {
-    "id": "gh-1236473288",
-    "name": "kavishka-dot/vulcan-os",
-    "description": "Minimal real-time OS for STM32H7, built from scratch for edge ML inference and on-device training",
-    "url": "https://github.com/kavishka-dot/vulcan-os",
+    "id": "gh-1240150652",
+    "name": "andersondanieln/hexllama",
+    "description": "A beautifully crafted desktop client for running and managing local LLMs via llama.cpp.",
+    "url": "https://github.com/andersondanieln/hexllama",
     "stars": 10,
-    "language": "C",
+    "language": "TypeScript",
     "topics": [
-      "assembly",
-      "bare-metal",
-      "cortex-m7",
-      "edge-ai",
-      "embedded-systems",
-      "iot",
-      "machine-learning",
-      "rtos",
-      "stm32"
+      "ai-assistant",
+      "gguf",
+      "llama",
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "machine-learning"
     ],
-    "created_at": "2026-05-12T09:25:02Z"
+    "created_at": "2026-05-15T20:25:56Z"
   }
 ]

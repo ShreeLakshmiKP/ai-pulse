@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48168221",
-    "title": "I don't think AI will make your processes go faster",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "points": 591,
-    "comments": 405,
+    "id": "hn-48179677",
+    "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+    "url": "https://github.com/zakirullin/files.md",
+    "points": 629,
+    "comments": 307,
     "source": "Hacker News",
-    "published_date": "2026-05-17T12:13:45Z"
+    "published_date": "2026-05-18T13:33:33Z"
   },
   {
-    "id": "hn-48168626",
-    "title": "AI is a technology not a product",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "points": 407,
-    "comments": 175,
+    "id": "hn-48181125",
+    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "points": 466,
+    "comments": 227,
     "source": "Hacker News",
-    "published_date": "2026-05-17T13:11:20Z"
+    "published_date": "2026-05-18T15:24:19Z"
   },
   {
-    "id": "hn-48168056",
-    "title": "AI subscriptions are a ticking time bomb for enterprise",
-    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-    "points": 394,
-    "comments": 387,
+    "id": "hn-48188183",
+    "title": "The last six months in LLMs in five minutes",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "points": 389,
+    "comments": 248,
     "source": "Hacker News",
-    "published_date": "2026-05-17T11:49:31Z"
+    "published_date": "2026-05-19T01:30:42Z"
   },
   {
-    "id": "hn-48168668",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "url": "https://github.com/tech4bot/rk3562deb",
-    "points": 363,
-    "comments": 169,
+    "id": "hn-48177785",
+    "title": "Eric Schmidt speech about AI booed during graduation",
+    "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+    "points": 354,
+    "comments": 375,
     "source": "Hacker News",
-    "published_date": "2026-05-17T13:16:27Z"
+    "published_date": "2026-05-18T10:50:25Z"
   },
   {
-    "id": "hn-48169874",
-    "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
-    "url": "https://github.com/MinishLab/semble",
+    "id": "hn-48178184",
+    "title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
+    "url": "https://github.com/stephenlthorn/auto-identity-remove",
     "points": 321,
-    "comments": 111,
+    "comments": 132,
     "source": "Hacker News",
-    "published_date": "2026-05-17T15:37:07Z"
+    "published_date": "2026-05-18T11:32:42Z"
   },
   {
-    "id": "hn-48168198",
-    "title": "Apple Silicon costs more than OpenRouter",
-    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-    "points": 316,
-    "comments": 274,
+    "id": "hn-48183301",
+    "title": "We let AIs run radio stations",
+    "url": "https://andonlabs.com/blog/andon-fm",
+    "points": 250,
+    "comments": 202,
     "source": "Hacker News",
-    "published_date": "2026-05-17T12:09:23Z"
+    "published_date": "2026-05-18T18:12:18Z"
   },
   {
-    "id": "hn-48173429",
-    "title": "GenCAD",
-    "url": "https://gencad.github.io/",
-    "points": 306,
-    "comments": 75,
+    "id": "hn-48179021",
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "points": 218,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-05-17T21:40:35Z"
+    "published_date": "2026-05-18T12:49:28Z"
   },
   {
-    "id": "hn-48168485",
-    "title": "CUDA Books",
-    "url": "https://github.com/alternbits/awesome-cuda-books",
-    "points": 194,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T12:52:06Z"
-  },
-  {
-    "id": "hn-48173468",
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "points": 193,
-    "comments": 189,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T21:45:30Z"
-  },
-  {
-    "id": "hn-48170122",
-    "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-    "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
-    "points": 107,
-    "comments": 181,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T16:04:28Z"
-  },
-  {
-    "id": "hn-48173547",
-    "title": "The History of ThinkPad: From IBM\u2019s Bento Box to Lenovo\u2019s AI Workstations",
-    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-    "points": 100,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T21:56:40Z"
-  },
-  {
-    "id": "hn-48174808",
-    "title": "Most Americans don't trust AI \u2013 or the people in charge of it (2025)",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-    "points": 96,
-    "comments": 76,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T01:39:30Z"
-  },
-  {
-    "id": "hn-48170247",
-    "title": "Canada\u2019s Bill C-22 would weaken protections on private messages",
-    "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
-    "points": 95,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-05-17T16:15:01Z"
-  },
-  {
-    "id": "hn-48168159",
-    "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-    "points": 94,
+    "id": "hn-48178692",
+    "title": "Linux security mailing list 'almost unmanageable'",
+    "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+    "points": 206,
     "comments": 102,
     "source": "Hacker News",
-    "published_date": "2026-05-17T12:03:04Z"
+    "published_date": "2026-05-18T12:20:50Z"
   },
   {
-    "id": "hn-48173318",
-    "title": "An AI Hate Wave Is Here",
-    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
-    "points": 86,
-    "comments": 109,
+    "id": "hn-48177107",
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "points": 153,
+    "comments": 165,
     "source": "Hacker News",
-    "published_date": "2026-05-17T21:23:25Z"
+    "published_date": "2026-05-18T09:12:10Z"
   },
   {
-    "id": "hn-48173849",
-    "title": "Design posters showcasing your country's electrical grid",
-    "url": "https://github.com/open-energy-transition/grid2poster",
-    "points": 85,
-    "comments": 18,
+    "id": "hn-48179029",
+    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+    "points": 152,
+    "comments": 82,
     "source": "Hacker News",
-    "published_date": "2026-05-17T22:47:05Z"
+    "published_date": "2026-05-18T12:49:54Z"
   },
   {
-    "id": "hn-48171852",
-    "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "points": 82,
-    "comments": 1,
+    "id": "hn-48180204",
+    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "url": "https://github.com/2b2tplace/1m_release",
+    "points": 139,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-05-17T18:37:59Z"
+    "published_date": "2026-05-18T14:13:07Z"
   },
   {
-    "id": "hn-48171826",
-    "title": "The AI water issue is fake",
-    "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
-    "points": 81,
-    "comments": 55,
+    "id": "hn-48178378",
+    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+    "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+    "points": 119,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-05-17T18:35:18Z"
+    "published_date": "2026-05-18T11:51:05Z"
   },
   {
-    "id": "hn-48173708",
-    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-    "url": "https://xca-attacks.github.io/fabricked/",
-    "points": 50,
-    "comments": 22,
+    "id": "hn-48188310",
+    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+    "points": 100,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-05-17T22:23:30Z"
+    "published_date": "2026-05-19T01:51:48Z"
   },
   {
-    "id": "hn-48168426",
-    "title": "Agentic Trading with Safe Guardrails",
-    "url": "https://github.com/ShurikenTrade/shuriken-skills",
-    "points": 48,
-    "comments": 30,
+    "id": "hn-48177716",
+    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "points": 98,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-05-17T12:44:24Z"
+    "published_date": "2026-05-18T10:43:56Z"
+  },
+  {
+    "id": "hn-48179569",
+    "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+    "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+    "points": 94,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T13:26:34Z"
+  },
+  {
+    "id": "hn-48187680",
+    "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+    "url": "https://vas-blog.pages.dev/qwen-censorship/",
+    "points": 77,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T00:16:31Z"
+  },
+  {
+    "id": "hn-48185938",
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "url": "https://arxiv.org/abs/2601.10160",
+    "points": 53,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T21:29:13Z"
+  },
+  {
+    "id": "hn-48185048",
+    "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay",
+    "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+    "points": 49,
+    "comments": 43,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T20:22:37Z"
+  },
+  {
+    "id": "hn-48181342",
+    "title": "Show HN: InsForge \u2013 Open-source Heroku for coding agents",
+    "url": "https://github.com/InsForge/InsForge",
+    "points": 44,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T15:40:42Z"
+  },
+  {
+    "id": "hn-48186326",
+    "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+    "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+    "points": 44,
+    "comments": 38,
+    "source": "Hacker News",
+    "published_date": "2026-05-18T21:59:34Z"
   }
 ]
