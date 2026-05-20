@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48179677",
-    "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-    "url": "https://github.com/zakirullin/files.md",
-    "points": 629,
-    "comments": 307,
+    "id": "hn-48196570",
+    "title": "Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "points": 760,
+    "comments": 535,
     "source": "Hacker News",
-    "published_date": "2026-05-18T13:33:33Z"
+    "published_date": "2026-05-19T17:43:45Z"
   },
   {
-    "id": "hn-48181125",
-    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-    "url": "https://archestra.ai/blog/only-responsible-ai",
-    "points": 466,
-    "comments": 227,
+    "id": "hn-48192383",
+    "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "url": "https://github.com/antoinezambelli/forge",
+    "points": 463,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-05-18T15:24:19Z"
+    "published_date": "2026-05-19T12:23:07Z"
   },
   {
-    "id": "hn-48188183",
-    "title": "The last six months in LLMs in five minutes",
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-    "points": 389,
-    "comments": 248,
+    "id": "hn-48201316",
+    "title": "GitHub is investigating unauthorized access to their internal repositories",
+    "url": "https://twitter.com/github/status/2056884788179726685",
+    "points": 415,
+    "comments": 214,
     "source": "Hacker News",
-    "published_date": "2026-05-19T01:30:42Z"
+    "published_date": "2026-05-20T00:01:18Z"
   },
   {
-    "id": "hn-48177785",
-    "title": "Eric Schmidt speech about AI booed during graduation",
-    "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
-    "points": 354,
-    "comments": 375,
+    "id": "hn-48196609",
+    "title": "Gemini Omni",
+    "url": "https://deepmind.google/models/gemini-omni/",
+    "points": 306,
+    "comments": 128,
     "source": "Hacker News",
-    "published_date": "2026-05-18T10:50:25Z"
+    "published_date": "2026-05-19T17:46:19Z"
   },
   {
-    "id": "hn-48178184",
-    "title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
-    "url": "https://github.com/stephenlthorn/auto-identity-remove",
-    "points": 321,
-    "comments": 132,
+    "id": "hn-48198291",
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "url": "https://openai.com/index/advancing-content-provenance/",
+    "points": 274,
+    "comments": 142,
     "source": "Hacker News",
-    "published_date": "2026-05-18T11:32:42Z"
+    "published_date": "2026-05-19T19:34:30Z"
   },
   {
-    "id": "hn-48183301",
-    "title": "We let AIs run radio stations",
-    "url": "https://andonlabs.com/blog/andon-fm",
-    "points": 250,
-    "comments": 202,
+    "id": "hn-48200569",
+    "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "points": 265,
+    "comments": 149,
     "source": "Hacker News",
-    "published_date": "2026-05-18T18:12:18Z"
+    "published_date": "2026-05-19T22:30:31Z"
   },
   {
-    "id": "hn-48179021",
-    "title": "AI eats the world (Spring 26) [pdf]",
-    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-    "points": 218,
-    "comments": 117,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T12:49:28Z"
-  },
-  {
-    "id": "hn-48178692",
-    "title": "Linux security mailing list 'almost unmanageable'",
-    "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-    "points": 206,
-    "comments": 102,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T12:20:50Z"
-  },
-  {
-    "id": "hn-48177107",
-    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
-    "points": 153,
-    "comments": 165,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T09:12:10Z"
-  },
-  {
-    "id": "hn-48179029",
-    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-    "points": 152,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T12:49:54Z"
-  },
-  {
-    "id": "hn-48180204",
-    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-    "url": "https://github.com/2b2tplace/1m_release",
-    "points": 139,
-    "comments": 83,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T14:13:07Z"
-  },
-  {
-    "id": "hn-48178378",
-    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-    "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-    "points": 119,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T11:51:05Z"
-  },
-  {
-    "id": "hn-48188310",
-    "title": "The American Rebellion Against AI Is Gaining Steam",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "points": 100,
-    "comments": 106,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T01:51:48Z"
-  },
-  {
-    "id": "hn-48177716",
-    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
-    "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
-    "points": 98,
-    "comments": 100,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T10:43:56Z"
-  },
-  {
-    "id": "hn-48179569",
-    "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-    "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-    "points": 94,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T13:26:34Z"
-  },
-  {
-    "id": "hn-48187680",
-    "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-    "url": "https://vas-blog.pages.dev/qwen-censorship/",
-    "points": 77,
-    "comments": 39,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T00:16:31Z"
-  },
-  {
-    "id": "hn-48185938",
-    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-    "url": "https://arxiv.org/abs/2601.10160",
-    "points": 53,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T21:29:13Z"
-  },
-  {
-    "id": "hn-48185048",
-    "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay",
-    "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
-    "points": 49,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-05-18T20:22:37Z"
-  },
-  {
-    "id": "hn-48181342",
-    "title": "Show HN: InsForge \u2013 Open-source Heroku for coding agents",
-    "url": "https://github.com/InsForge/InsForge",
-    "points": 44,
+    "id": "hn-48202993",
+    "title": "GitHub Compromised",
+    "url": "https://twitter.com/github/status/2056949168208552080",
+    "points": 254,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-05-18T15:40:42Z"
+    "published_date": "2026-05-20T04:12:48Z"
   },
   {
-    "id": "hn-48186326",
-    "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
-    "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-    "points": 44,
-    "comments": 38,
+    "id": "hn-48197995",
+    "title": "Mistral AI acquires Emmi AI",
+    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "points": 252,
+    "comments": 71,
     "source": "Hacker News",
-    "published_date": "2026-05-18T21:59:34Z"
+    "published_date": "2026-05-19T19:14:12Z"
+  },
+  {
+    "id": "hn-48196867",
+    "title": "Gemini CLI will stop working from June 18, 2026",
+    "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+    "points": 195,
+    "comments": 104,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T18:03:10Z"
+  },
+  {
+    "id": "hn-48196656",
+    "title": "Gemini 3.5 Flash: frontier intelligence with action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "points": 180,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T17:49:50Z"
+  },
+  {
+    "id": "hn-48195100",
+    "title": "AI is too expensive",
+    "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+    "points": 138,
+    "comments": 144,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T15:59:03Z"
+  },
+  {
+    "id": "hn-48194098",
+    "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
+    "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+    "points": 125,
+    "comments": 197,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T14:50:42Z"
+  },
+  {
+    "id": "hn-48196546",
+    "title": "Graduates are booing pep talks on AI at college commencements",
+    "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
+    "points": 114,
+    "comments": 175,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T17:42:11Z"
+  },
+  {
+    "id": "hn-48192397",
+    "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+    "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
+    "points": 112,
+    "comments": 25,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T12:24:55Z"
+  },
+  {
+    "id": "hn-48195021",
+    "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
+    "url": "https://superlog.sh/",
+    "points": 65,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T15:54:06Z"
+  },
+  {
+    "id": "hn-48193524",
+    "title": "Going full AI engineer, not touching code anymore",
+    "url": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/",
+    "points": 54,
+    "comments": 115,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T14:08:53Z"
+  },
+  {
+    "id": "hn-48191312",
+    "title": "Open-Source Agentic QA Harness with Memory",
+    "url": "https://github.com/vostride/agent-qa",
+    "points": 50,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T09:53:01Z"
+  },
+  {
+    "id": "hn-48196303",
+    "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+    "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+    "points": 47,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T17:22:45Z"
+  },
+  {
+    "id": "hn-48201222",
+    "title": "HTML-in-Canvas Demos",
+    "url": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
+    "points": 37,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T23:49:03Z"
+  },
+  {
+    "id": "hn-48191852",
+    "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
+    "url": "https://github.com/vostride/id-agent",
+    "points": 36,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-05-19T11:16:56Z"
   }
 ]
