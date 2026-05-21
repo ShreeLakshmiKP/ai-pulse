@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48196570",
-    "title": "Gemini 3.5 Flash",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "points": 760,
-    "comments": 535,
+    "id": "hn-48207660",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "points": 809,
+    "comments": 329,
     "source": "Hacker News",
-    "published_date": "2026-05-19T17:43:45Z"
+    "published_date": "2026-05-20T13:43:37Z"
   },
   {
-    "id": "hn-48192383",
-    "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "url": "https://github.com/antoinezambelli/forge",
-    "points": 463,
-    "comments": 171,
+    "id": "hn-48206241",
+    "title": "College students drown out AI-praising commencement speeches with boos",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+    "points": 362,
+    "comments": 363,
     "source": "Hacker News",
-    "published_date": "2026-05-19T12:23:07Z"
+    "published_date": "2026-05-20T11:51:32Z"
   },
   {
-    "id": "hn-48201316",
-    "title": "GitHub is investigating unauthorized access to their internal repositories",
-    "url": "https://twitter.com/github/status/2056884788179726685",
-    "points": 415,
-    "comments": 214,
+    "id": "hn-48205782",
+    "title": "Google\u2019s AI is being manipulated. The search giant is quietly fighting back",
+    "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+    "points": 309,
+    "comments": 191,
     "source": "Hacker News",
-    "published_date": "2026-05-20T00:01:18Z"
+    "published_date": "2026-05-20T10:57:09Z"
   },
   {
-    "id": "hn-48196609",
-    "title": "Gemini Omni",
-    "url": "https://deepmind.google/models/gemini-omni/",
-    "points": 306,
-    "comments": 128,
+    "id": "hn-48216278",
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "points": 182,
+    "comments": 133,
     "source": "Hacker News",
-    "published_date": "2026-05-19T17:46:19Z"
+    "published_date": "2026-05-21T00:36:01Z"
   },
   {
-    "id": "hn-48198291",
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-    "url": "https://openai.com/index/advancing-content-provenance/",
-    "points": 274,
-    "comments": 142,
+    "id": "hn-48210590",
+    "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
+    "url": "https://news.ycombinator.com/item?id=48210590",
+    "points": 164,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-05-19T19:34:30Z"
+    "published_date": "2026-05-20T16:50:54Z"
   },
   {
-    "id": "hn-48200569",
-    "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
-    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "points": 265,
-    "comments": 149,
+    "id": "hn-48205415",
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
+    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "points": 149,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-05-19T22:30:31Z"
+    "published_date": "2026-05-20T10:04:28Z"
   },
   {
-    "id": "hn-48202993",
-    "title": "GitHub Compromised",
-    "url": "https://twitter.com/github/status/2056949168208552080",
-    "points": 254,
+    "id": "hn-48209323",
+    "title": "Formal Verification Gates for AI Coding Loops",
+    "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+    "points": 123,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T15:25:45Z"
+  },
+  {
+    "id": "hn-48208685",
+    "title": "Testing distributed systems with AI agents",
+    "url": "https://github.com/shenli/distributed-system-testing",
+    "points": 86,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T14:40:42Z"
+  },
+  {
+    "id": "hn-48214617",
+    "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+    "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+    "points": 67,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T21:45:57Z"
+  },
+  {
+    "id": "hn-48209668",
+    "title": "Show HN: Lance \u2013 image/video generation and understanding in one model",
+    "url": "https://github.com/bytedance/Lance",
+    "points": 60,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T15:45:32Z"
+  },
+  {
+    "id": "hn-48205143",
+    "title": "Public have more fear than hope on AI and future of work, study finds",
+    "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+    "points": 57,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T09:26:39Z"
+  },
+  {
+    "id": "hn-48214188",
+    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+    "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+    "points": 46,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-05-20T04:12:48Z"
+    "published_date": "2026-05-20T21:11:55Z"
   },
   {
-    "id": "hn-48197995",
-    "title": "Mistral AI acquires Emmi AI",
-    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "points": 252,
-    "comments": 71,
+    "id": "hn-48209112",
+    "title": "Nobel laureate Olga Tokarczuk used AI while writing her latest novel",
+    "url": "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/",
+    "points": 43,
+    "comments": 79,
     "source": "Hacker News",
-    "published_date": "2026-05-19T19:14:12Z"
+    "published_date": "2026-05-20T15:10:43Z"
   },
   {
-    "id": "hn-48196867",
-    "title": "Gemini CLI will stop working from June 18, 2026",
-    "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "points": 195,
-    "comments": 104,
+    "id": "hn-48214215",
+    "title": "GitHub's take on age assurance for developers",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+    "points": 39,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-05-19T18:03:10Z"
+    "published_date": "2026-05-20T21:14:03Z"
   },
   {
-    "id": "hn-48196656",
-    "title": "Gemini 3.5 Flash: frontier intelligence with action",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "points": 180,
+    "id": "hn-48208834",
+    "title": "Show HN: Hocuspocus 4 \u2013 self-hosted Yjs collaboration backend",
+    "url": "https://github.com/ueberdosis/hocuspocus",
+    "points": 37,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T14:51:00Z"
+  },
+  {
+    "id": "hn-48214348",
+    "title": "America Turned Against AI According to the Poll Data: A Very Big Compilation",
+    "url": "https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according",
+    "points": 31,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T21:23:57Z"
+  },
+  {
+    "id": "hn-48211334",
+    "title": "Show HN: I made a tool for learning scales, chords, and how to combine them",
+    "url": "https://projects.alesh.com/intervalkit/",
+    "points": 26,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-05-20T17:44:20Z"
+  },
+  {
+    "id": "hn-48206539",
+    "title": "You can access Gemini chat history without unlocking your phone with Android 16",
+    "url": "https://old.reddit.com/r/androiddev/comments/1tihs3s/google_is_not_going_to_fix_this_if_you_see_a/",
+    "points": 24,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-19T17:49:50Z"
+    "published_date": "2026-05-20T12:21:58Z"
   },
   {
-    "id": "hn-48195100",
-    "title": "AI is too expensive",
-    "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
-    "points": 138,
-    "comments": 144,
+    "id": "hn-48207785",
+    "title": "Ask HN: Are there any serious efforts to organize tech labor now?",
+    "url": "https://news.ycombinator.com/item?id=48207785",
+    "points": 20,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-05-19T15:59:03Z"
+    "published_date": "2026-05-20T13:50:31Z"
   },
   {
-    "id": "hn-48194098",
-    "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-    "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-    "points": 125,
-    "comments": 197,
+    "id": "hn-48210615",
+    "title": "Show HN: Dari-docs \u2013 Optimize your docs using parallel coding agents",
+    "url": "https://github.com/mupt-ai/dari-docs",
+    "points": 19,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-05-19T14:50:42Z"
-  },
-  {
-    "id": "hn-48196546",
-    "title": "Graduates are booing pep talks on AI at college commencements",
-    "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
-    "points": 114,
-    "comments": 175,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T17:42:11Z"
-  },
-  {
-    "id": "hn-48192397",
-    "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
-    "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
-    "points": 112,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T12:24:55Z"
-  },
-  {
-    "id": "hn-48195021",
-    "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
-    "url": "https://superlog.sh/",
-    "points": 65,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T15:54:06Z"
-  },
-  {
-    "id": "hn-48193524",
-    "title": "Going full AI engineer, not touching code anymore",
-    "url": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/",
-    "points": 54,
-    "comments": 115,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T14:08:53Z"
-  },
-  {
-    "id": "hn-48191312",
-    "title": "Open-Source Agentic QA Harness with Memory",
-    "url": "https://github.com/vostride/agent-qa",
-    "points": 50,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T09:53:01Z"
-  },
-  {
-    "id": "hn-48196303",
-    "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-    "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
-    "points": 47,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T17:22:45Z"
-  },
-  {
-    "id": "hn-48201222",
-    "title": "HTML-in-Canvas Demos",
-    "url": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
-    "points": 37,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T23:49:03Z"
-  },
-  {
-    "id": "hn-48191852",
-    "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
-    "url": "https://github.com/vostride/id-agent",
-    "points": 36,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-05-19T11:16:56Z"
+    "published_date": "2026-05-20T16:53:07Z"
   }
 ]

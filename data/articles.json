@@ -616,6 +616,120 @@
     "image": null
   },
   {
+    "id": "rss-6b0b9cf6",
+    "title": "Clouted wants to take the guesswork out of making short videos go viral",
+    "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 20 May 2026 22:30:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1dd70716",
+    "title": "xAI burned $6.4B last year \u2014 SpaceX\u2019s IPO filing shows why the spending is far from over",
+    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion \u2014 offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 20 May 2026 22:26:08 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-701a8a6a",
+    "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+    "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "tags": [
+      "startups",
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 20 May 2026 22:03:51 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-58130303",
+    "title": "We\u2019re announcing new community investments in Missouri.",
+    "summary": "We\u2019re helping build the state\u2019s next-generation workforce and investing in energy programs.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 20 May 2026 20:40:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c1e2764b",
+    "title": "100 things we announced at I/O 2026",
+    "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 20 May 2026 19:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9e924c46",
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 20 May 2026 16:45:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a835a1c1",
+    "title": "Green steel startup Boston Metal is doubling down on critical metals",
+    "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+    "tags": [
+      "startups",
+      "funding"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 20 May 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5f48f1a1",
+    "title": "The Download: fully artificial chicken eggs and why Musk lost",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip\u2014or trying to hatch.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 20 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-ae68796c",
     "title": "The next phase of OpenAI\u2019s Education for Countries",
     "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -627,6 +741,36 @@
       "OpenAI"
     ],
     "category": "AI Tools",
+    "published_date": "Wed, 20 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-a23c5621",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 20 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-95e072c6",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ramp",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
     "published_date": "Wed, 20 May 2026 00:00:00 GMT",
     "image": null
   },
@@ -4176,142 +4320,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Thu, 23 Apr 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3aa15380",
-    "title": "Introducing GPT-5.5",
-    "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "tags": [
-      "GPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-915b6ff1",
-    "title": "GPT-5.5 System Card",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "tags": [
-      "GPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-6e517fdb",
-    "title": "Automations",
-    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/codex-automations",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-fce40544",
-    "title": "Top 10 uses for Codex at work",
-    "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-79ea493d",
-    "title": "Plugins and skills",
-    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-c476e67c",
-    "title": "What is Codex?",
-    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/what-is-codex",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-00dceef7",
-    "title": "Will fusion power get cheap? Don\u2019t count on it.",
-    "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future\u2014if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 23 Apr 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-85f0e7dc",
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "summary": "Aerial image of the data center",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 23 Apr 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7f8c010f",
-    "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
-    "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 04:38:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-66bd8767",
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "tags": [
-      "transformers"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]
