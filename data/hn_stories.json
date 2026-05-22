@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48207660",
-    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "points": 809,
-    "comments": 329,
+    "id": "hn-48222383",
+    "title": "AI is just unauthorised plagiarism at a bigger scale",
+    "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "points": 779,
+    "comments": 682,
     "source": "Hacker News",
-    "published_date": "2026-05-20T13:43:37Z"
+    "published_date": "2026-05-21T13:38:12Z"
   },
   {
-    "id": "hn-48206241",
-    "title": "College students drown out AI-praising commencement speeches with boos",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
-    "points": 362,
-    "comments": 363,
+    "id": "hn-48219992",
+    "title": "Throwing AI-generated walls of text into conversations",
+    "url": "https://noslopgrenade.com/",
+    "points": 597,
+    "comments": 350,
     "source": "Hacker News",
-    "published_date": "2026-05-20T11:51:32Z"
+    "published_date": "2026-05-21T09:31:15Z"
   },
   {
-    "id": "hn-48205782",
-    "title": "Google\u2019s AI is being manipulated. The search giant is quietly fighting back",
-    "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-    "points": 309,
-    "comments": 191,
+    "id": "hn-48222366",
+    "title": "Shunning AI is the human choice",
+    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "points": 357,
+    "comments": 506,
     "source": "Hacker News",
-    "published_date": "2026-05-20T10:57:09Z"
+    "published_date": "2026-05-21T13:36:06Z"
   },
   {
-    "id": "hn-48216278",
-    "title": "Intuit to lay off over 3k employees to refocus on AI",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "points": 182,
-    "comments": 133,
+    "id": "hn-48226944",
+    "title": "BBEdit 16",
+    "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+    "points": 301,
+    "comments": 92,
     "source": "Hacker News",
-    "published_date": "2026-05-21T00:36:01Z"
+    "published_date": "2026-05-21T18:21:37Z"
   },
   {
-    "id": "hn-48210590",
-    "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
-    "url": "https://news.ycombinator.com/item?id=48210590",
-    "points": 164,
-    "comments": 95,
+    "id": "hn-48223362",
+    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "url": "https://freenet.org/",
+    "points": 278,
+    "comments": 173,
     "source": "Hacker News",
-    "published_date": "2026-05-20T16:50:54Z"
+    "published_date": "2026-05-21T14:34:57Z"
   },
   {
-    "id": "hn-48205415",
-    "title": "Learnings from 100K lines of Rust with AI (2025)",
-    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-    "points": 149,
-    "comments": 156,
+    "id": "hn-48225838",
+    "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
+    "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+    "points": 277,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-05-20T10:04:28Z"
+    "published_date": "2026-05-21T16:59:27Z"
   },
   {
-    "id": "hn-48209323",
-    "title": "Formal Verification Gates for AI Coding Loops",
-    "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-    "points": 123,
-    "comments": 30,
+    "id": "hn-48221896",
+    "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+    "url": "https://news.ycombinator.com/item?id=48221896",
+    "points": 228,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-05-20T15:25:45Z"
+    "published_date": "2026-05-21T12:56:37Z"
   },
   {
-    "id": "hn-48208685",
-    "title": "Testing distributed systems with AI agents",
-    "url": "https://github.com/shenli/distributed-system-testing",
-    "points": 86,
-    "comments": 16,
+    "id": "hn-48230892",
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "points": 215,
+    "comments": 170,
     "source": "Hacker News",
-    "published_date": "2026-05-20T14:40:42Z"
+    "published_date": "2026-05-22T01:30:45Z"
   },
   {
-    "id": "hn-48214617",
-    "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-    "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
-    "points": 67,
-    "comments": 31,
+    "id": "hn-48223258",
+    "title": "Get your passwords out of Bitwarden while you still can",
+    "url": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
+    "points": 211,
+    "comments": 188,
     "source": "Hacker News",
-    "published_date": "2026-05-20T21:45:57Z"
+    "published_date": "2026-05-21T14:29:14Z"
   },
   {
-    "id": "hn-48209668",
-    "title": "Show HN: Lance \u2013 image/video generation and understanding in one model",
-    "url": "https://github.com/bytedance/Lance",
-    "points": 60,
-    "comments": 14,
+    "id": "hn-48219918",
+    "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
+    "url": "https://github.com/helvesec/rmux",
+    "points": 171,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-05-20T15:45:32Z"
+    "published_date": "2026-05-21T09:22:00Z"
   },
   {
-    "id": "hn-48205143",
-    "title": "Public have more fear than hope on AI and future of work, study finds",
-    "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
-    "points": 57,
-    "comments": 36,
+    "id": "hn-48227923",
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "url": "https://arxiv.org/abs/2605.12460",
+    "points": 104,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-05-20T09:26:39Z"
+    "published_date": "2026-05-21T19:37:26Z"
   },
   {
-    "id": "hn-48214188",
-    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-    "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-    "points": 46,
-    "comments": 6,
+    "id": "hn-48230104",
+    "title": "Tell HN: I'm tired of AI-generated answers",
+    "url": "https://news.ycombinator.com/item?id=48230104",
+    "points": 98,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-05-20T21:11:55Z"
+    "published_date": "2026-05-21T23:37:14Z"
   },
   {
-    "id": "hn-48209112",
-    "title": "Nobel laureate Olga Tokarczuk used AI while writing her latest novel",
-    "url": "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/",
-    "points": 43,
-    "comments": 79,
+    "id": "hn-48221976",
+    "title": "Gemini randomly dumped its system prompt",
+    "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
+    "points": 93,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-05-20T15:10:43Z"
+    "published_date": "2026-05-21T13:04:21Z"
   },
   {
-    "id": "hn-48214215",
-    "title": "GitHub's take on age assurance for developers",
-    "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-    "points": 39,
-    "comments": 20,
+    "id": "hn-48225040",
+    "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+    "url": "https://www.runtm.com/",
+    "points": 85,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-05-20T21:14:03Z"
+    "published_date": "2026-05-21T16:07:13Z"
   },
   {
-    "id": "hn-48208834",
-    "title": "Show HN: Hocuspocus 4 \u2013 self-hosted Yjs collaboration backend",
-    "url": "https://github.com/ueberdosis/hocuspocus",
-    "points": 37,
-    "comments": 6,
+    "id": "hn-48222105",
+    "title": "Magic the Gathering format: Fun 40",
+    "url": "https://fabiensanglard.net/mtg/fun/",
+    "points": 78,
+    "comments": 90,
     "source": "Hacker News",
-    "published_date": "2026-05-20T14:51:00Z"
+    "published_date": "2026-05-21T13:13:36Z"
   },
   {
-    "id": "hn-48214348",
-    "title": "America Turned Against AI According to the Poll Data: A Very Big Compilation",
-    "url": "https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according",
-    "points": 31,
+    "id": "hn-48225596",
+    "title": "Show HN: Agent.email \u2013 sign up via curl, claim with a human OTP",
+    "url": "https://news.ycombinator.com/item?id=48225596",
+    "points": 73,
+    "comments": 89,
+    "source": "Hacker News",
+    "published_date": "2026-05-21T16:42:34Z"
+  },
+  {
+    "id": "hn-48226440",
+    "title": "GitHub faces a fight for its survival at Microsoft",
+    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+    "points": 56,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-05-21T17:43:13Z"
+  },
+  {
+    "id": "hn-48228283",
+    "title": "AI-assisted engineers are burning out, is this fine?",
+    "url": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
+    "points": 35,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-05-21T20:10:34Z"
+  },
+  {
+    "id": "hn-48221805",
+    "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+    "url": "https://github.com/FredAntB/Spec-Driven-Development",
+    "points": 26,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-20T21:23:57Z"
+    "published_date": "2026-05-21T12:49:07Z"
   },
   {
-    "id": "hn-48211334",
-    "title": "Show HN: I made a tool for learning scales, chords, and how to combine them",
-    "url": "https://projects.alesh.com/intervalkit/",
-    "points": 26,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-05-20T17:44:20Z"
-  },
-  {
-    "id": "hn-48206539",
-    "title": "You can access Gemini chat history without unlocking your phone with Android 16",
-    "url": "https://old.reddit.com/r/androiddev/comments/1tihs3s/google_is_not_going_to_fix_this_if_you_see_a/",
+    "id": "hn-48230177",
+    "title": "New Getmonero.org Website Design",
+    "url": "https://beta.monerodevs.org/",
     "points": 24,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-20T12:21:58Z"
-  },
-  {
-    "id": "hn-48207785",
-    "title": "Ask HN: Are there any serious efforts to organize tech labor now?",
-    "url": "https://news.ycombinator.com/item?id=48207785",
-    "points": 20,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-20T13:50:31Z"
-  },
-  {
-    "id": "hn-48210615",
-    "title": "Show HN: Dari-docs \u2013 Optimize your docs using parallel coding agents",
-    "url": "https://github.com/mupt-ai/dari-docs",
-    "points": 19,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-05-20T16:53:07Z"
+    "published_date": "2026-05-21T23:47:20Z"
   }
 ]

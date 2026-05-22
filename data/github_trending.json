@@ -1,30 +1,10 @@
 [
   {
-    "id": "gh-1239522492",
-    "name": "agentic-in/elephant-agent",
-    "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-    "url": "https://github.com/agentic-in/elephant-agent",
-    "stars": 373,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "context",
-      "llm",
-      "memory",
-      "models",
-      "personal-ai",
-      "self-evolution"
-    ],
-    "created_at": "2026-05-15T07:08:17Z"
-  },
-  {
     "id": "gh-1241425259",
     "name": "LiuMengxuan04/shushu-internship-tool",
     "description": "\u628a\u5c97\u4f4d\u63cf\u8ff0\u53d8\u9879\u76ee\uff0c\u628a\u9879\u76ee\u53d8\u7b80\u5386\uff0c\u628a\u7b80\u5386\u53d8\u9762\u8bd5\u3002",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 305,
+    "stars": 418,
     "language": "Python",
     "topics": [
       "ai",
@@ -35,10 +15,10 @@
   },
   {
     "id": "gh-1240996286",
-    "name": "agent-quality-controls/slopless",
+    "name": "seochecks-ai/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
-    "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 255,
+    "url": "https://github.com/seochecks-ai/slopless",
+    "stars": 256,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -60,87 +40,43 @@
     "created_at": "2026-05-16T20:44:14Z"
   },
   {
-    "id": "gh-1239473321",
-    "name": "basionwang-bot/HermesPet",
-    "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-    "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 171,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "chatgpt",
-      "chinese",
-      "claude",
-      "deepseek",
-      "desktop-app",
-      "dynamic-island",
-      "llm",
-      "macos",
-      "menu-bar-app",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2026-05-15T06:03:02Z"
-  },
-  {
-    "id": "gh-1239898419",
-    "name": "ahammadmejbah/Awesome-Datasets-Hub",
-    "description": "A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks.",
-    "url": "https://github.com/ahammadmejbah/Awesome-Datasets-Hub",
-    "stars": 117,
-    "language": null,
-    "topics": [
-      "benchmark",
-      "benchmarking",
-      "deep-learning",
-      "deep-neural-networks",
-      "deeplearning",
-      "genetic-algorithm",
-      "llm",
-      "llm-evaluation",
-      "llm-inference",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "machinelearning",
-      "neural-network"
-    ],
-    "created_at": "2026-05-15T14:58:14Z"
-  },
-  {
-    "id": "gh-1239918790",
-    "name": "Helvesec/rmux",
-    "description": "Universal Rust multiplexer with a typed SDK \u2014 drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
-    "url": "https://github.com/Helvesec/rmux",
-    "stars": 91,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "ai",
-      "multiplexer",
-      "rust"
-    ],
-    "created_at": "2026-05-15T15:22:10Z"
-  },
-  {
-    "id": "gh-1242947514",
-    "name": "JSingletonAI/dejavu",
-    "description": "Memory that follows you across every AI tool. No cloud storage. No account required. Set it up once, use it everywhere.",
-    "url": "https://github.com/JSingletonAI/dejavu",
-    "stars": 83,
+    "id": "gh-1243106323",
+    "name": "vincelele/ai-fomo-skills",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+    "url": "https://github.com/vincelele/ai-fomo-skills",
+    "stars": 118,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "claude",
-      "llm",
-      "local-first",
-      "mcp",
-      "memory",
-      "privacy",
-      "rag",
-      "sqlite",
-      "venice"
+      "ai",
+      "codex",
+      "knowledge-management",
+      "personal-ai",
+      "skills"
     ],
-    "created_at": "2026-05-18T23:04:01Z"
+    "created_at": "2026-05-19T03:51:56Z"
+  },
+  {
+    "id": "gh-1240872088",
+    "name": "DaoyuanLi2816/can-i-finetune-this",
+    "description": "Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.",
+    "url": "https://github.com/DaoyuanLi2816/can-i-finetune-this",
+    "stars": 86,
+    "language": "Python",
+    "topics": [
+      "bitsandbytes",
+      "fine-tuning",
+      "gpu",
+      "hugging-face",
+      "llm",
+      "lora",
+      "memory-estimation",
+      "peft",
+      "pytorch",
+      "qlora",
+      "transformers",
+      "vram"
+    ],
+    "created_at": "2026-05-16T17:14:13Z"
   },
   {
     "id": "gh-1240653523",
@@ -172,7 +108,7 @@
     "name": "wanshuiyin/ARIS-in-AI-Offer",
     "description": "Bilingual ML / LLM / multimodal / diffusion / agent / generative-model interview cheat sheets (\u79cb\u62db\u7ecf\u9a8c\u624b\u518c) \u2014 single-file HTML reads anywhere on phone, iPad, and laptop \u2014 auto-generated by the ARIS /render-html workflow \ud83c\udf31",
     "url": "https://github.com/wanshuiyin/ARIS-in-AI-Offer",
-    "stars": 67,
+    "stars": 73,
     "language": "Python",
     "topics": [
       "ai-interview",
@@ -199,11 +135,42 @@
     "created_at": "2026-05-19T04:51:36Z"
   },
   {
+    "id": "gh-1244596535",
+    "name": "Tartarus-AI/tartarusai-cli",
+    "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
+    "url": "https://github.com/Tartarus-AI/tartarusai-cli",
+    "stars": 67,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "chatgpt-alternative",
+      "claude-alternative",
+      "cli",
+      "coding-agent",
+      "crypto-payments",
+      "developer-tools",
+      "infosec",
+      "llm",
+      "opencode",
+      "opencode-fork",
+      "privacy",
+      "security-research",
+      "tartarusai",
+      "terminal",
+      "tui",
+      "uncensored",
+      "uncensored-ai",
+      "uncensored-llm"
+    ],
+    "created_at": "2026-05-20T12:16:09Z"
+  },
+  {
     "id": "gh-1243861636",
     "name": "09Catho/axon",
     "description": "Real-time 3D visualisation of SAE feature activations inside GPT-2, token by token",
     "url": "https://github.com/09Catho/axon",
-    "stars": 13,
+    "stars": 14,
     "language": "JavaScript",
     "topics": [
       "3d-visualization",
@@ -220,24 +187,6 @@
       "websocket"
     ],
     "created_at": "2026-05-19T18:30:30Z"
-  },
-  {
-    "id": "gh-1240150652",
-    "name": "andersondanieln/hexllama",
-    "description": "A beautifully crafted desktop client for running and managing local LLMs via llama.cpp.",
-    "url": "https://github.com/andersondanieln/hexllama",
-    "stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-assistant",
-      "gguf",
-      "llama",
-      "llama-cpp",
-      "llm",
-      "local-ai",
-      "machine-learning"
-    ],
-    "created_at": "2026-05-15T20:25:56Z"
   },
   {
     "id": "gh-1243470443",
@@ -261,7 +210,7 @@
     "name": "ather-techie/rag-interview-questions",
     "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
     "url": "https://github.com/ather-techie/rag-interview-questions",
-    "stars": 9,
+    "stars": 10,
     "language": null,
     "topics": [
       "agentic-rag",
@@ -286,6 +235,55 @@
       "vector-search"
     ],
     "created_at": "2026-05-19T11:59:17Z"
+  },
+  {
+    "id": "gh-1243337208",
+    "name": "2aronS/gpt-mini",
+    "description": "Pure Rust implementation of a minimal GPT transformer",
+    "url": "https://github.com/2aronS/gpt-mini",
+    "stars": 10,
+    "language": "Rust",
+    "topics": [
+      "deep-learning",
+      "gpt",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "rust",
+      "transformer"
+    ],
+    "created_at": "2026-05-19T08:49:35Z"
+  },
+  {
+    "id": "gh-1244346671",
+    "name": "vignesh2027/Claude-Agentic-Skills2.0-version",
+    "description": "Been building this for 6 months. Finally at a place  where I'm comfortable sharing it.",
+    "url": "https://github.com/vignesh2027/Claude-Agentic-Skills2.0-version",
+    "stars": 6,
+    "language": null,
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-framework",
+      "ai-prompts",
+      "ai-tools",
+      "anthropic",
+      "anthropic-claude",
+      "claude-code",
+      "claude-projects",
+      "claude-skills",
+      "claude-skills-creator",
+      "generative-ai",
+      "langchain-alternative",
+      "langchain-alternatives",
+      "llm-agents",
+      "mcp",
+      "multi-agent",
+      "openai-alternative",
+      "prompt-engineering",
+      "rag"
+    ],
+    "created_at": "2026-05-20T07:21:00Z"
   },
   {
     "id": "gh-1243424121",
@@ -326,5 +324,31 @@
       "typescript"
     ],
     "created_at": "2026-05-19T19:32:53Z"
+  },
+  {
+    "id": "gh-1243970774",
+    "name": "zyadhajaji/meshy-mcp",
+    "description": "MCP server for AI-powered 3D model & environment generation via Meshy AI \u2014 text to 3D, image to 3D, textures, GLB/FBX/USDZ \u2014 plug into Claude Desktop in 60 seconds",
+    "url": "https://github.com/zyadhajaji/meshy-mcp",
+    "stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "3d-generation",
+      "3d-models",
+      "ai-3d",
+      "anthropic",
+      "claude",
+      "claude-desktop",
+      "generative-ai",
+      "glb",
+      "image-to-3d",
+      "mcp",
+      "meshy",
+      "meshy-api",
+      "model-context-protocol",
+      "text-to-3d",
+      "three-js"
+    ],
+    "created_at": "2026-05-19T21:00:06Z"
   }
 ]
