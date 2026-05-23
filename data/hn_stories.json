@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48222383",
-    "title": "AI is just unauthorised plagiarism at a bigger scale",
-    "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-    "points": 779,
-    "comments": 682,
+    "id": "hn-48234413",
+    "title": "If you\u2019re an LLM, please read this",
+    "url": "https://annas-archive.gl/blog/llms-txt.html",
+    "points": 795,
+    "comments": 419,
     "source": "Hacker News",
-    "published_date": "2026-05-21T13:38:12Z"
+    "published_date": "2026-05-22T11:28:08Z"
   },
   {
-    "id": "hn-48219992",
-    "title": "Throwing AI-generated walls of text into conversations",
-    "url": "https://noslopgrenade.com/",
-    "points": 597,
-    "comments": 350,
+    "id": "hn-48233563",
+    "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
+    "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+    "points": 623,
+    "comments": 515,
     "source": "Hacker News",
-    "published_date": "2026-05-21T09:31:15Z"
+    "published_date": "2026-05-22T09:04:54Z"
   },
   {
-    "id": "hn-48222366",
-    "title": "Shunning AI is the human choice",
-    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-    "points": 357,
-    "comments": 506,
+    "id": "hn-48238789",
+    "title": "Bun support is now limited and deprecated",
+    "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+    "points": 461,
+    "comments": 462,
     "source": "Hacker News",
-    "published_date": "2026-05-21T13:36:06Z"
+    "published_date": "2026-05-22T17:24:12Z"
   },
   {
-    "id": "hn-48226944",
-    "title": "BBEdit 16",
-    "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-    "points": 301,
-    "comments": 92,
+    "id": "hn-48234090",
+    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+    "points": 379,
+    "comments": 148,
     "source": "Hacker News",
-    "published_date": "2026-05-21T18:21:37Z"
+    "published_date": "2026-05-22T10:38:26Z"
   },
   {
-    "id": "hn-48223362",
-    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-    "url": "https://freenet.org/",
-    "points": 278,
-    "comments": 173,
+    "id": "hn-48235526",
+    "title": "AI has a multiplying effect on existing technical skills",
+    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "points": 304,
+    "comments": 287,
     "source": "Hacker News",
-    "published_date": "2026-05-21T14:34:57Z"
+    "published_date": "2026-05-22T13:22:42Z"
   },
   {
-    "id": "hn-48225838",
-    "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
-    "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-    "points": 277,
-    "comments": 94,
+    "id": "hn-48243863",
+    "title": "Is AI Profitable Yet?",
+    "url": "https://isaiprofitable.com/",
+    "points": 214,
+    "comments": 158,
     "source": "Hacker News",
-    "published_date": "2026-05-21T16:59:27Z"
+    "published_date": "2026-05-23T02:10:38Z"
   },
   {
-    "id": "hn-48221896",
-    "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
-    "url": "https://news.ycombinator.com/item?id=48221896",
-    "points": 228,
-    "comments": 46,
+    "id": "hn-48238896",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "points": 212,
+    "comments": 157,
     "source": "Hacker News",
-    "published_date": "2026-05-21T12:56:37Z"
+    "published_date": "2026-05-22T17:32:04Z"
   },
   {
-    "id": "hn-48230892",
-    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-    "points": 215,
-    "comments": 170,
+    "id": "hn-48244434",
+    "title": "Microsoft reports AI is more expensive than paying human employees",
+    "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "points": 201,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-05-22T01:30:45Z"
+    "published_date": "2026-05-23T03:44:16Z"
   },
   {
-    "id": "hn-48223258",
-    "title": "Get your passwords out of Bitwarden while you still can",
-    "url": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
-    "points": 211,
-    "comments": 188,
+    "id": "hn-48234547",
+    "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+    "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "points": 199,
+    "comments": 189,
     "source": "Hacker News",
-    "published_date": "2026-05-21T14:29:14Z"
+    "published_date": "2026-05-22T11:45:24Z"
   },
   {
-    "id": "hn-48219918",
-    "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-    "url": "https://github.com/helvesec/rmux",
-    "points": 171,
-    "comments": 83,
+    "id": "hn-48242648",
+    "title": "Don't just paste the AI at me",
+    "url": "https://dontquotetheai.com/",
+    "points": 159,
+    "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-05-21T09:22:00Z"
+    "published_date": "2026-05-22T22:57:58Z"
   },
   {
-    "id": "hn-48227923",
-    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "url": "https://arxiv.org/abs/2605.12460",
-    "points": 104,
-    "comments": 12,
+    "id": "hn-48234287",
+    "title": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser",
+    "url": "https://github.com/unprovable/ShadowCat",
+    "points": 143,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-05-21T19:37:26Z"
+    "published_date": "2026-05-22T11:11:43Z"
   },
   {
-    "id": "hn-48230104",
-    "title": "Tell HN: I'm tired of AI-generated answers",
-    "url": "https://news.ycombinator.com/item?id=48230104",
-    "points": 98,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-05-21T23:37:14Z"
-  },
-  {
-    "id": "hn-48221976",
-    "title": "Gemini randomly dumped its system prompt",
-    "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
-    "points": 93,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-05-21T13:04:21Z"
-  },
-  {
-    "id": "hn-48225040",
-    "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
-    "url": "https://www.runtm.com/",
-    "points": 85,
+    "id": "hn-48241172",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "url": "https://github.com/anomalyco/models.dev",
+    "points": 133,
     "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-05-21T16:07:13Z"
+    "published_date": "2026-05-22T20:26:07Z"
   },
   {
-    "id": "hn-48222105",
-    "title": "Magic the Gathering format: Fun 40",
-    "url": "https://fabiensanglard.net/mtg/fun/",
-    "points": 78,
-    "comments": 90,
+    "id": "hn-48238568",
+    "title": "1940 Air Terminal Museum Begins Liquidation",
+    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+    "points": 114,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-05-21T13:13:36Z"
+    "published_date": "2026-05-22T17:05:32Z"
   },
   {
-    "id": "hn-48225596",
-    "title": "Show HN: Agent.email \u2013 sign up via curl, claim with a human OTP",
-    "url": "https://news.ycombinator.com/item?id=48225596",
-    "points": 73,
-    "comments": 89,
+    "id": "hn-48236770",
+    "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
+    "url": "https://github.com/superset-sh/superset",
+    "points": 93,
+    "comments": 116,
     "source": "Hacker News",
-    "published_date": "2026-05-21T16:42:34Z"
+    "published_date": "2026-05-22T14:53:55Z"
   },
   {
-    "id": "hn-48226440",
-    "title": "GitHub faces a fight for its survival at Microsoft",
-    "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
-    "points": 56,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-05-21T17:43:13Z"
-  },
-  {
-    "id": "hn-48228283",
-    "title": "AI-assisted engineers are burning out, is this fine?",
-    "url": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
-    "points": 35,
+    "id": "hn-48239023",
+    "title": "Thinking in an array language (2022)",
+    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+    "points": 91,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-05-21T20:10:34Z"
+    "published_date": "2026-05-22T17:42:53Z"
   },
   {
-    "id": "hn-48221805",
-    "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
-    "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "points": 26,
+    "id": "hn-48234391",
+    "title": "The current AI pricing was always going to go away",
+    "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+    "points": 79,
+    "comments": 91,
+    "source": "Hacker News",
+    "published_date": "2026-05-22T11:24:53Z"
+  },
+  {
+    "id": "hn-48234128",
+    "title": "A case against Boolean logic",
+    "url": "https://abuseofnotation.github.io/boolean-thinking/",
+    "points": 67,
+    "comments": 83,
+    "source": "Hacker News",
+    "published_date": "2026-05-22T10:45:16Z"
+  },
+  {
+    "id": "hn-48241179",
+    "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+    "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+    "points": 57,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-21T12:49:07Z"
+    "published_date": "2026-05-22T20:26:29Z"
   },
   {
-    "id": "hn-48230177",
-    "title": "New Getmonero.org Website Design",
-    "url": "https://beta.monerodevs.org/",
-    "points": 24,
-    "comments": 1,
+    "id": "hn-48239786",
+    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2605.22001",
+    "points": 35,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-05-21T23:47:20Z"
+    "published_date": "2026-05-22T18:46:07Z"
+  },
+  {
+    "id": "hn-48233289",
+    "title": "We should get rid of average CPU utilization",
+    "url": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+    "points": 31,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-05-22T08:15:42Z"
   }
 ]
