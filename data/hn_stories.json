@@ -1,182 +1,137 @@
 [
   {
-    "id": "hn-48234413",
-    "title": "If you\u2019re an LLM, please read this",
-    "url": "https://annas-archive.gl/blog/llms-txt.html",
-    "points": 795,
-    "comments": 419,
+    "id": "hn-48247208",
+    "title": "The Art of Money Getting",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "points": 272,
+    "comments": 149,
     "source": "Hacker News",
-    "published_date": "2026-05-22T11:28:08Z"
+    "published_date": "2026-05-23T12:48:02Z"
   },
   {
-    "id": "hn-48233563",
-    "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
-    "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-    "points": 623,
-    "comments": 515,
+    "id": "hn-48247876",
+    "title": "Oura says it gets government demands for user data",
+    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "points": 271,
+    "comments": 149,
     "source": "Hacker News",
-    "published_date": "2026-05-22T09:04:54Z"
+    "published_date": "2026-05-23T14:09:57Z"
   },
   {
-    "id": "hn-48238789",
-    "title": "Bun support is now limited and deprecated",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "points": 461,
-    "comments": 462,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T17:24:12Z"
-  },
-  {
-    "id": "hn-48234090",
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-    "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "points": 379,
-    "comments": 148,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T10:38:26Z"
-  },
-  {
-    "id": "hn-48235526",
-    "title": "AI has a multiplying effect on existing technical skills",
-    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "points": 304,
-    "comments": 287,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T13:22:42Z"
-  },
-  {
-    "id": "hn-48243863",
-    "title": "Is AI Profitable Yet?",
-    "url": "https://isaiprofitable.com/",
-    "points": 214,
-    "comments": 158,
-    "source": "Hacker News",
-    "published_date": "2026-05-23T02:10:38Z"
-  },
-  {
-    "id": "hn-48238896",
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "points": 212,
-    "comments": 157,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T17:32:04Z"
-  },
-  {
-    "id": "hn-48244434",
-    "title": "Microsoft reports AI is more expensive than paying human employees",
-    "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-    "points": 201,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-05-23T03:44:16Z"
-  },
-  {
-    "id": "hn-48234547",
-    "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-    "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-    "points": 199,
-    "comments": 189,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T11:45:24Z"
-  },
-  {
-    "id": "hn-48242648",
-    "title": "Don't just paste the AI at me",
-    "url": "https://dontquotetheai.com/",
-    "points": 159,
+    "id": "hn-48248775",
+    "title": "Italy moves to Airbus A330 tankers",
+    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "points": 255,
     "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-05-22T22:57:58Z"
+    "published_date": "2026-05-23T16:02:43Z"
   },
   {
-    "id": "hn-48234287",
-    "title": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser",
-    "url": "https://github.com/unprovable/ShadowCat",
-    "points": 143,
-    "comments": 53,
+    "id": "hn-48246735",
+    "title": "DHS Quits Granting Green Cards\u2013Almost",
+    "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+    "points": 141,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-22T11:11:43Z"
+    "published_date": "2026-05-23T11:18:23Z"
   },
   {
-    "id": "hn-48241172",
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "url": "https://github.com/anomalyco/models.dev",
-    "points": 133,
-    "comments": 23,
+    "id": "hn-48248014",
+    "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+    "url": "https://nand2mario.github.io/posts/2026/z386/",
+    "points": 127,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-05-22T20:26:07Z"
+    "published_date": "2026-05-23T14:25:30Z"
   },
   {
-    "id": "hn-48238568",
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-    "points": 114,
-    "comments": 29,
+    "id": "hn-48254345",
+    "title": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
+    "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+    "points": 100,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-05-22T17:05:32Z"
+    "published_date": "2026-05-24T04:22:39Z"
   },
   {
-    "id": "hn-48236770",
-    "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
-    "url": "https://github.com/superset-sh/superset",
-    "points": 93,
-    "comments": 116,
+    "id": "hn-48250980",
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+    "points": 77,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-05-22T14:53:55Z"
+    "published_date": "2026-05-23T20:09:13Z"
   },
   {
-    "id": "hn-48239023",
-    "title": "Thinking in an array language (2022)",
-    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "points": 91,
-    "comments": 15,
+    "id": "hn-48248256",
+    "title": "New Attack \"Megaladon\" Compromises 5.5K+ GitHub Repos",
+    "url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
+    "points": 46,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-22T17:42:53Z"
+    "published_date": "2026-05-23T14:57:42Z"
   },
   {
-    "id": "hn-48234391",
-    "title": "The current AI pricing was always going to go away",
-    "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
-    "points": 79,
-    "comments": 91,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T11:24:53Z"
-  },
-  {
-    "id": "hn-48234128",
-    "title": "A case against Boolean logic",
-    "url": "https://abuseofnotation.github.io/boolean-thinking/",
-    "points": 67,
-    "comments": 83,
-    "source": "Hacker News",
-    "published_date": "2026-05-22T10:45:16Z"
-  },
-  {
-    "id": "hn-48241179",
-    "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-    "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
-    "points": 57,
+    "id": "hn-48251243",
+    "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
+    "url": "https://www.youtube.com/watch?v=jaYOskvlq18",
+    "points": 27,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-22T20:26:29Z"
+    "published_date": "2026-05-23T20:38:02Z"
   },
   {
-    "id": "hn-48239786",
-    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-    "url": "https://arxiv.org/abs/2605.22001",
-    "points": 35,
-    "comments": 4,
+    "id": "hn-48251864",
+    "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+    "points": 23,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-05-22T18:46:07Z"
+    "published_date": "2026-05-23T21:45:46Z"
   },
   {
-    "id": "hn-48233289",
-    "title": "We should get rid of average CPU utilization",
-    "url": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
-    "points": 31,
-    "comments": 23,
+    "id": "hn-48250198",
+    "title": "NeuralNote",
+    "url": "https://github.com/DamRsn/NeuralNote",
+    "points": 21,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-05-22T08:15:42Z"
+    "published_date": "2026-05-23T18:51:01Z"
+  },
+  {
+    "id": "hn-48253165",
+    "title": "Ask HN: Did Messages get removed from Google Takeout?",
+    "url": "https://news.ycombinator.com/item?id=48253165",
+    "points": 13,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T00:48:21Z"
+  },
+  {
+    "id": "hn-48247160",
+    "title": "Awesome Neuroscience",
+    "url": "https://github.com/analyticalmonk/awesome-neuroscience",
+    "points": 13,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-23T12:41:09Z"
+  },
+  {
+    "id": "hn-48254524",
+    "title": "Reddit stock drops almost 6%, Meta launches standalone app for online forums",
+    "url": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
+    "points": 12,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T04:58:51Z"
+  },
+  {
+    "id": "hn-48252859",
+    "title": "When does learning from data work (math starting from basic probability)",
+    "url": "https://prateekchandrajha.github.io/vc-rademacher.html",
+    "points": 12,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-05-23T23:58:34Z"
   }
 ]
