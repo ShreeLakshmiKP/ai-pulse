@@ -1,137 +1,137 @@
 [
   {
-    "id": "hn-48247208",
-    "title": "The Art of Money Getting",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "points": 272,
-    "comments": 149,
+    "id": "hn-48256953",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "points": 561,
+    "comments": 233,
     "source": "Hacker News",
-    "published_date": "2026-05-23T12:48:02Z"
+    "published_date": "2026-05-24T13:02:06Z"
   },
   {
-    "id": "hn-48247876",
-    "title": "Oura says it gets government demands for user data",
-    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "points": 271,
-    "comments": 149,
+    "id": "hn-48258684",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "points": 387,
+    "comments": 395,
     "source": "Hacker News",
-    "published_date": "2026-05-23T14:09:57Z"
+    "published_date": "2026-05-24T16:31:29Z"
   },
   {
-    "id": "hn-48248775",
-    "title": "Italy moves to Airbus A330 tankers",
-    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-    "points": 255,
-    "comments": 101,
+    "id": "hn-48263238",
+    "title": "The Eternal Sloptember",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "points": 325,
+    "comments": 258,
     "source": "Hacker News",
-    "published_date": "2026-05-23T16:02:43Z"
+    "published_date": "2026-05-25T03:47:24Z"
   },
   {
-    "id": "hn-48246735",
-    "title": "DHS Quits Granting Green Cards\u2013Almost",
-    "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-    "points": 141,
+    "id": "hn-48259784",
+    "title": "Claude is not your architect. Stop letting it pretend",
+    "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+    "points": 251,
+    "comments": 177,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T18:28:11Z"
+  },
+  {
+    "id": "hn-48256912",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "points": 240,
+    "comments": 137,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T12:55:53Z"
+  },
+  {
+    "id": "hn-48257410",
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "points": 207,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-05-23T11:18:23Z"
+    "published_date": "2026-05-24T14:09:33Z"
   },
   {
-    "id": "hn-48248014",
-    "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-    "url": "https://nand2mario.github.io/posts/2026/z386/",
-    "points": 127,
-    "comments": 30,
+    "id": "hn-48257980",
+    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "points": 163,
+    "comments": 150,
     "source": "Hacker News",
-    "published_date": "2026-05-23T14:25:30Z"
+    "published_date": "2026-05-24T15:21:28Z"
   },
   {
-    "id": "hn-48254345",
-    "title": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
-    "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-    "points": 100,
-    "comments": 61,
+    "id": "hn-48259861",
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "points": 121,
+    "comments": 128,
     "source": "Hacker News",
-    "published_date": "2026-05-24T04:22:39Z"
+    "published_date": "2026-05-24T18:39:10Z"
   },
   {
-    "id": "hn-48250980",
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "points": 77,
-    "comments": 45,
+    "id": "hn-48256565",
+    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "url": "https://apple.github.io/ml-pico/",
+    "points": 114,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-05-23T20:09:13Z"
+    "published_date": "2026-05-24T12:01:24Z"
   },
   {
-    "id": "hn-48248256",
-    "title": "New Attack \"Megaladon\" Compromises 5.5K+ GitHub Repos",
-    "url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
-    "points": 46,
-    "comments": 0,
+    "id": "hn-48257058",
+    "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+    "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+    "points": 85,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-05-23T14:57:42Z"
+    "published_date": "2026-05-24T13:16:33Z"
   },
   {
-    "id": "hn-48251243",
-    "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
-    "url": "https://www.youtube.com/watch?v=jaYOskvlq18",
-    "points": 27,
+    "id": "hn-48264290",
+    "title": "If you let AI do your writing, I will come to your house and kill you",
+    "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will",
+    "points": 22,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-23T20:38:02Z"
+    "published_date": "2026-05-25T07:19:14Z"
   },
   {
-    "id": "hn-48251864",
-    "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
-    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-    "points": 23,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-05-23T21:45:46Z"
-  },
-  {
-    "id": "hn-48250198",
-    "title": "NeuralNote",
-    "url": "https://github.com/DamRsn/NeuralNote",
+    "id": "hn-48261753",
+    "title": "There's Never Been a Better Time to Study Computer Science",
+    "url": "https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/",
     "points": 21,
-    "comments": 1,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-05-23T18:51:01Z"
+    "published_date": "2026-05-24T22:44:29Z"
   },
   {
-    "id": "hn-48253165",
-    "title": "Ask HN: Did Messages get removed from Google Takeout?",
-    "url": "https://news.ycombinator.com/item?id=48253165",
-    "points": 13,
+    "id": "hn-48259761",
+    "title": "The Eternal Sloptember",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "points": 19,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T18:25:34Z"
+  },
+  {
+    "id": "hn-48256520",
+    "title": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+    "url": "https://codeberg.org/hydrafog/kanban",
+    "points": 12,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-05-24T11:54:35Z"
+  },
+  {
+    "id": "hn-48261386",
+    "title": "Parsing IPv6 Addresses Crazily Fast with AVX-512",
+    "url": "https://lemire.me/blog/2026/05/23/parsing-ipv6-addresses-crazily-fast-with-avx-512/",
+    "points": 12,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-24T00:48:21Z"
-  },
-  {
-    "id": "hn-48247160",
-    "title": "Awesome Neuroscience",
-    "url": "https://github.com/analyticalmonk/awesome-neuroscience",
-    "points": 13,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-05-23T12:41:09Z"
-  },
-  {
-    "id": "hn-48254524",
-    "title": "Reddit stock drops almost 6%, Meta launches standalone app for online forums",
-    "url": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
-    "points": 12,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-05-24T04:58:51Z"
-  },
-  {
-    "id": "hn-48252859",
-    "title": "When does learning from data work (math starting from basic probability)",
-    "url": "https://prateekchandrajha.github.io/vc-rademacher.html",
-    "points": 12,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-23T23:58:34Z"
+    "published_date": "2026-05-24T21:53:30Z"
   }
 ]
