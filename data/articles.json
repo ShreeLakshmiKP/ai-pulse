@@ -2220,6 +2220,104 @@
     "image": null
   },
   {
+    "id": "rss-1e2ebecf",
+    "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
+    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 26 May 2026 22:32:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1ab37a27",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 26 May 2026 18:33:01 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-96f157c6",
+    "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "tags": [
+      "robotics",
+      "startups"
+    ],
+    "category": "Robotics",
+    "published_date": "Tue, 26 May 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f2c5d9ca",
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 26 May 2026 14:55:05 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b920d871",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 26 May 2026 14:54:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-bd0bc3af",
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+    "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 26 May 2026 14:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-25ecfa04",
+    "title": "The Download: puncturing the AI jobs panic",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 26 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-7400dc01",
     "title": "A reality check on the AI jobs hysteria",
     "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers.",
@@ -4223,103 +4321,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Thu, 26 Mar 2026 02:46:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4c23be2e",
-    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-    "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 26 Mar 2026 00:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4e89de79",
-    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 26 Feb 2026 16:01:50 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-13d3ab52",
-    "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
-    "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "tags": [
-      "agents",
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Thu, 23 Apr 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4dab914e",
-    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-    "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 23 Apr 2026 19:38:25 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-878578bd",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
-    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "tags": [
-      "GPT",
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 23 Apr 2026 18:29:29 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ef50ca25",
-    "title": "Era raises $11M to build a software platform for AI gadgets",
-    "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 23 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-01e3b33b",
-    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-    "summary": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 23 Apr 2026 14:00:00 +0000",
     "image": null
   }
 ]
