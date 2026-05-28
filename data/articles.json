@@ -159,6 +159,166 @@
     "image": null
   },
   {
+    "id": "rss-d73c2adf",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 27 May 2026 20:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b20d7395",
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 27 May 2026 19:39:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1eb01a95",
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a prett...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 27 May 2026 18:39:17 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6c6d47b5",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "tags": [
+      "benchmark",
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 27 May 2026 17:20:29 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-58acaee1",
+    "title": "The Download: keeping up with AI, and the future of IVF",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 27 May 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b5479ebc",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/cisco",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 27 May 2026 11:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-5899b169",
+    "title": "Building self-improving tax agents with Codex",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 27 May 2026 07:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-919d46e1",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/warp",
+    "tags": [
+      "GPT",
+      "open-source",
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 27 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1c77cec1",
+    "title": "Election information and safeguards in 2026",
+    "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 27 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7cdcfd61",
+    "title": "Reachy Mini goes fully local",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 27 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-3b3971ce",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 27 May 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-99987d70",
     "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
     "summary": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
@@ -4144,183 +4304,32 @@
     "image": null
   },
   {
-    "id": "rss-897b13ec",
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+    "id": "rss-b16689dc",
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
     "bullets": [],
     "why_it_matters": "",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
     "tags": [
-      "Gemini"
+      "open-source",
+      "agents"
     ],
-    "category": "AI Models",
-    "published_date": "Thu, 26 Mar 2026 23:47:56 +0000",
+    "category": "AI Startups",
+    "published_date": "Thu, 28 May 2026 07:00:00 +0000",
     "image": null
   },
   {
-    "id": "rss-e92acf9d",
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+    "id": "rss-efa51fc3",
+    "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+    "summary": "Google is embarrassing itself, again.",
     "bullets": [],
     "why_it_matters": "",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "tags": [],
     "category": "AI Startups",
-    "published_date": "Thu, 26 Mar 2026 21:50:10 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2e81617a",
-    "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
-    "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "startups",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 26 Mar 2026 18:34:02 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e3fbdc52",
-    "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
-    "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014 and how that affects the grid.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 26 Mar 2026 18:23:31 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-815730bb",
-    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-    "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Thu, 26 Mar 2026 17:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b56f0c5d",
-    "title": "Transform your headphones into a live personal translator on iOS.",
-    "summary": "Google Translate\u2019s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries\u2026",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 26 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-161f77b8",
-    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 26 Mar 2026 15:23:35 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6c86c309",
-    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 26 Mar 2026 15:21:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c7ab0719",
-    "title": "Search Live is expanding globally",
-    "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 26 Mar 2026 15:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b2df8689",
-    "title": "The Download: a battery pivot to AI, and rewriting math",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn\u2019t&#160;mince words about the state of the battery industry.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 26 Mar 2026 12:42:53 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1a67c37c",
-    "title": "The snow gods: How a couple of ski bums built the internet\u2019s best weather app",
-    "summary": "The best snow-forecasting app for skiers and snowboarders isn\u2019t from any of the federally funded weather services. Nor from any of the big-name brands.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 26 Mar 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9de0ac1c",
-    "title": "Are high gas prices good news for EVs? It\u2019s complicated.",
-    "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don\u2019t own a car. I\u2019m often utterly clueless about the current price of gasoline.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 26 Mar 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2b918f8c",
-    "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
-    "summary": "Did anyone think there would not be a reckoning over this tie-up?",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 26 Mar 2026 02:46:48 +0000",
+    "published_date": "Thu, 28 May 2026 00:17:41 +0000",
     "image": null
   }
 ]
