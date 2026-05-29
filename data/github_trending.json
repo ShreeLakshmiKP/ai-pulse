@@ -4,7 +4,7 @@
     "name": "UditAkhourii/adhd",
     "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 399,
+    "stars": 497,
     "language": "TypeScript",
     "topics": [
       "adhd",
@@ -33,7 +33,7 @@
     "name": "withkynam/vibecode-pro-max-kit",
     "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "stars": 111,
+    "stars": 434,
     "language": "JavaScript",
     "topics": [
       "agentic",
@@ -60,11 +60,34 @@
     "created_at": "2026-05-27T05:46:25Z"
   },
   {
+    "id": "gh-1251707859",
+    "name": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
+    "url": "https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime",
+    "stars": 202,
+    "language": "C#",
+    "topics": [
+      "ai-deep-fake",
+      "audio-deepfake-detection",
+      "deep-fake-ai",
+      "deepfake",
+      "deepfake-detection",
+      "deepfake-generation",
+      "deepfake-software",
+      "deepfake-videos",
+      "faceswap",
+      "llm",
+      "real-time-deepfake",
+      "realtime-face-changer"
+    ],
+    "created_at": "2026-05-27T20:55:23Z"
+  },
+  {
     "id": "gh-1249888354",
     "name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 102,
+    "stars": 113,
     "language": "Python",
     "topics": [
       "agent",
@@ -74,11 +97,32 @@
     "created_at": "2026-05-26T05:56:39Z"
   },
   {
+    "id": "gh-1251922807",
+    "name": "ATOM00blue/machine-learning-library",
+    "description": "A hand-curated library of the best machine learning education \u2014 590 docs (78 arXiv papers, 474 course lectures from Stanford/MIT/Karpathy/fast.ai, 38 explainer articles), normalized to Markdown with full provenance. A clean ML corpus/dataset for learning, RAG, and fine-tuning.",
+    "url": "https://github.com/ATOM00blue/machine-learning-library",
+    "stars": 92,
+    "language": null,
+    "topics": [
+      "arxiv",
+      "corpus",
+      "dataset",
+      "deep-learning",
+      "education",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "study-resources",
+      "transformers"
+    ],
+    "created_at": "2026-05-28T03:03:04Z"
+  },
+  {
     "id": "gh-1248568839",
     "name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 85,
+    "stars": 87,
     "language": "C",
     "topics": [
       "ai",
@@ -103,11 +147,26 @@
     "created_at": "2026-05-24T20:14:02Z"
   },
   {
+    "id": "gh-1250326921",
+    "name": "Gao-Ruilin/AutoRun",
+    "description": "An AI agent for coding and others",
+    "url": "https://github.com/Gao-Ruilin/AutoRun",
+    "stars": 69,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "code-generation"
+    ],
+    "created_at": "2026-05-26T14:19:49Z"
+  },
+  {
     "id": "gh-1248315096",
     "name": "vuejs-ai/vue-tui",
     "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
     "url": "https://github.com/vuejs-ai/vue-tui",
-    "stars": 65,
+    "stars": 69,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -158,48 +217,11 @@
     "created_at": "2026-05-23T01:51:04Z"
   },
   {
-    "id": "gh-1250326921",
-    "name": "Gao-Ruilin/AutoRun",
-    "description": "An AI agent for coding and others",
-    "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "code-generation"
-    ],
-    "created_at": "2026-05-26T14:19:49Z"
-  },
-  {
-    "id": "gh-1246273057",
-    "name": "kldhsh123/Afterglow",
-    "description": "\u4f7f\u7528 QQ/\u5fae\u4fe1 \u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002 --\u7eed\u6e29",
-    "url": "https://github.com/kldhsh123/Afterglow",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "afterglow",
-      "ai-companion",
-      "digital-companion",
-      "lancedb",
-      "llm",
-      "python",
-      "qq-chat",
-      "rag",
-      "semantic-search",
-      "vector-database",
-      "vue"
-    ],
-    "created_at": "2026-05-22T03:20:11Z"
-  },
-  {
     "id": "gh-1248401658",
     "name": "Mohana05245/CopBot-AI-",
     "description": "AI-powered multilingual FIR drafting assistant using Flask, NLP, and Machine Learning.",
     "url": "https://github.com/Mohana05245/CopBot-AI-",
-    "stars": 28,
+    "stars": 29,
     "language": "Python",
     "topics": [
       "ai",
@@ -213,32 +235,52 @@
     "created_at": "2026-05-24T15:42:16Z"
   },
   {
-    "id": "gh-1251922807",
-    "name": "ATOM00blue/machine-learning-library",
-    "description": "A hand-curated library of the best machine learning education \u2014 590 docs (78 arXiv papers, 474 course lectures from Stanford/MIT/Karpathy/fast.ai, 38 explainer articles), normalized to Markdown with full provenance. A clean ML corpus/dataset for learning, RAG, and fine-tuning.",
-    "url": "https://github.com/ATOM00blue/machine-learning-library",
-    "stars": 20,
-    "language": null,
+    "id": "gh-1251802067",
+    "name": "Liu-Ming-Yu/alpha-forge",
+    "description": "Alpha Forge \u2014 an agentic AI operating system for systematic trading.",
+    "url": "https://github.com/Liu-Ming-Yu/alpha-forge",
+    "stars": 19,
+    "language": "Python",
     "topics": [
-      "arxiv",
-      "corpus",
-      "dataset",
-      "deep-learning",
-      "education",
+      "algorithmic-trading",
+      "alpha-research",
+      "backtesting",
+      "financial-ml",
+      "ibkr",
+      "machine-learning",
+      "portfolio-construction",
+      "python",
+      "quantitative-finance",
+      "risk-management",
+      "trading-systems"
+    ],
+    "created_at": "2026-05-27T23:37:27Z"
+  },
+  {
+    "id": "gh-1249550191",
+    "name": "Tejas-TA/predikit",
+    "description": "pypi-predikit: Turn any sklearn/XGBoost model into an LLM-callable tool. Framework-agnostic",
+    "url": "https://github.com/Tejas-TA/predikit",
+    "stars": 19,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "langchain",
       "llm",
       "machine-learning",
-      "nlp",
-      "study-resources",
-      "transformers"
+      "openai",
+      "python",
+      "sklearn",
+      "xgboost"
     ],
-    "created_at": "2026-05-28T03:03:04Z"
+    "created_at": "2026-05-25T20:26:22Z"
   },
   {
     "id": "gh-1251297383",
     "name": "kesslernity/awesome-copilot-chat-agents",
     "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writing, HR, PM, IT ops, Sales, Finance, Engineering & more. RAI reviewed, source-quality labelled, tested. No coding required.",
     "url": "https://github.com/kesslernity/awesome-copilot-chat-agents",
-    "stars": 8,
+    "stars": 10,
     "language": null,
     "topics": [
       "ai-agents",
@@ -264,6 +306,36 @@
     "created_at": "2026-05-27T12:46:48Z"
   },
   {
+    "id": "gh-1251711133",
+    "name": "gammahazard/locate-anything",
+    "description": "Sleek, mobile-friendly web UI for NVIDIA LocateAnything-3B \u2014 open-vocabulary object detection & grounding on your own GPU, via one docker compose up.",
+    "url": "https://github.com/gammahazard/locate-anything",
+    "stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "bounding-boxes",
+      "computer-vision",
+      "cuda",
+      "docker",
+      "fastapi",
+      "gpu",
+      "grounding",
+      "locate-anything",
+      "machine-learning",
+      "nvidia",
+      "object-detection",
+      "ocr",
+      "open-vocabulary-detection",
+      "react",
+      "self-hosted",
+      "tailwindcss",
+      "typescript",
+      "vision-language-model",
+      "web-ui"
+    ],
+    "created_at": "2026-05-27T21:00:17Z"
+  },
+  {
     "id": "gh-1249006271",
     "name": "cnemri/awesome-gemini-omni",
     "description": "A curated list of awesome Google Gemini Omni prompt guides, interactive platforms, and creative showcases.",
@@ -280,88 +352,5 @@
       "multimodal"
     ],
     "created_at": "2026-05-25T08:58:42Z"
-  },
-  {
-    "id": "gh-1248276064",
-    "name": "GautamVhavle/BrowserLLM",
-    "description": "Run 100+ open-source LLMs entirely in your browser. No servers, no API keys, 100% private. Powered by WebGPU and WebLLM.",
-    "url": "https://github.com/GautamVhavle/BrowserLLM",
-    "stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "browser-ai",
-      "edge-ai",
-      "llm",
-      "local-ai",
-      "machine-learning",
-      "offline",
-      "open-source",
-      "privacy",
-      "pwa",
-      "react",
-      "typescript",
-      "vite",
-      "web-llm",
-      "webgpu"
-    ],
-    "created_at": "2026-05-24T12:32:35Z"
-  },
-  {
-    "id": "gh-1246371012",
-    "name": "turntducky/wade-ai",
-    "description": "W.A.D.E. \u2014 A local-first autonomous AI runtime that runs on your hardware, owns your data, and acts without being prompted.",
-    "url": "https://github.com/turntducky/wade-ai",
-    "stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "artificial-intelligence",
-      "autonomous-agent",
-      "daemon",
-      "fastapi",
-      "home-automation",
-      "llm",
-      "local-ai",
-      "local-llm",
-      "machine-learning",
-      "ollama",
-      "open-source",
-      "privacy",
-      "privacy-first",
-      "python",
-      "rag",
-      "self-hosted",
-      "voice-assistant",
-      "whatsapp"
-    ],
-    "created_at": "2026-05-22T06:12:40Z"
-  },
-  {
-    "id": "gh-1251505701",
-    "name": "milcio79/ml-ai-algorithm-advisor",
-    "description": "Local Streamlit app that suggests and ranks ML, AI, NLP, computer vision, time series, anomaly detection, document intelligence, GenAI, and RAG algorithms for a project.",
-    "url": "https://github.com/milcio79/ml-ai-algorithm-advisor",
-    "stars": 3,
-    "language": "Python",
-    "topics": [
-      "algorithm-selection",
-      "anomaly-detection",
-      "artificial-intelligence",
-      "computer-vision",
-      "data-science",
-      "document-intelligence",
-      "genai",
-      "machine-learning",
-      "mlops",
-      "nlp",
-      "openai",
-      "python",
-      "rag",
-      "streamlit",
-      "time-series"
-    ],
-    "created_at": "2026-05-27T16:39:21Z"
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48292224",
-    "title": "I'm Tired of Talking to AI",
-    "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-    "points": 1911,
-    "comments": 913,
+    "id": "hn-48311647",
+    "title": "Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "points": 1520,
+    "comments": 1185,
     "source": "Hacker News",
-    "published_date": "2026-05-27T10:43:25Z"
+    "published_date": "2026-05-28T16:49:14Z"
   },
   {
-    "id": "hn-48299753",
-    "title": "YouTube to automatically label AI-generated videos",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "points": 865,
-    "comments": 532,
+    "id": "hn-48307887",
+    "title": "Disagreement among frontier LLMs on real-world fact-checks",
+    "url": "https://lenz.io/research/llm-disagreement",
+    "points": 489,
+    "comments": 341,
     "source": "Hacker News",
-    "published_date": "2026-05-27T20:00:51Z"
+    "published_date": "2026-05-28T12:20:19Z"
   },
   {
-    "id": "hn-48296649",
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "points": 861,
-    "comments": 405,
+    "id": "hn-48315968",
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "points": 391,
+    "comments": 167,
     "source": "Hacker News",
-    "published_date": "2026-05-27T16:28:41Z"
+    "published_date": "2026-05-28T21:45:54Z"
   },
   {
-    "id": "hn-48295679",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "points": 647,
-    "comments": 321,
+    "id": "hn-48308376",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "url": "https://llmgame.scalex.dev",
+    "points": 321,
+    "comments": 130,
     "source": "Hacker News",
-    "published_date": "2026-05-27T15:20:47Z"
+    "published_date": "2026-05-28T13:02:00Z"
   },
   {
-    "id": "hn-48293080",
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "points": 301,
-    "comments": 195,
+    "id": "hn-48318481",
+    "title": "Cars collect a startling amount of data about you",
+    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "points": 320,
+    "comments": 147,
     "source": "Hacker News",
-    "published_date": "2026-05-27T12:15:14Z"
+    "published_date": "2026-05-29T03:01:00Z"
   },
   {
-    "id": "hn-48296359",
-    "title": "Training our own AI models",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "points": 202,
-    "comments": 139,
+    "id": "hn-48313810",
+    "title": "Various LLM Smells",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "points": 305,
+    "comments": 241,
     "source": "Hacker News",
-    "published_date": "2026-05-27T16:08:42Z"
+    "published_date": "2026-05-28T19:02:18Z"
   },
   {
-    "id": "hn-48299638",
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "points": 198,
-    "comments": 71,
+    "id": "hn-48314363",
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "points": 211,
+    "comments": 163,
     "source": "Hacker News",
-    "published_date": "2026-05-27T19:52:49Z"
+    "published_date": "2026-05-28T19:43:14Z"
   },
   {
-    "id": "hn-48294401",
-    "title": "Lombardy increases charges for the construction of data centres in green areas",
-    "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
-    "points": 139,
-    "comments": 194,
+    "id": "hn-48317093",
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "points": 206,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-05-27T13:52:48Z"
+    "published_date": "2026-05-28T23:42:47Z"
   },
   {
-    "id": "hn-48297467",
-    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-    "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-    "points": 118,
-    "comments": 57,
+    "id": "hn-48307098",
+    "title": "AI sticker shock hits corporate America",
+    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+    "points": 160,
+    "comments": 134,
     "source": "Hacker News",
-    "published_date": "2026-05-27T17:24:25Z"
+    "published_date": "2026-05-28T10:39:32Z"
   },
   {
-    "id": "hn-48292718",
-    "title": "Ripgrep AI Policy",
-    "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md",
-    "points": 71,
-    "comments": 10,
+    "id": "hn-48319509",
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "points": 149,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-05-27T11:40:49Z"
+    "published_date": "2026-05-29T05:45:36Z"
   },
   {
-    "id": "hn-48294791",
-    "title": "Show HN: I made an emergency page for my family",
-    "url": "https://help.delduca.org",
-    "points": 70,
-    "comments": 94,
+    "id": "hn-48311705",
+    "title": "Dynamic Workflows in Claude Code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "points": 145,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-05-27T14:18:03Z"
+    "published_date": "2026-05-28T16:52:21Z"
   },
   {
-    "id": "hn-48305446",
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "points": 68,
-    "comments": 24,
+    "id": "hn-48312616",
+    "title": "Bitburner, programming-based incremental game",
+    "url": "https://bitburner-official.github.io/",
+    "points": 101,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-05-28T06:40:31Z"
+    "published_date": "2026-05-28T17:43:36Z"
   },
   {
-    "id": "hn-48303273",
-    "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-    "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
-    "points": 55,
-    "comments": 5,
+    "id": "hn-48311490",
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "url": "https://github.com/bytecodealliance/endive",
+    "points": 88,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-05-28T01:40:24Z"
+    "published_date": "2026-05-28T16:40:33Z"
   },
   {
-    "id": "hn-48297723",
-    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-    "url": "https://arxiv.org/abs/2605.21779",
-    "points": 47,
-    "comments": 4,
+    "id": "hn-48318174",
+    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "points": 80,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-05-27T17:42:24Z"
+    "published_date": "2026-05-29T02:13:20Z"
   },
   {
-    "id": "hn-48294315",
-    "title": "Why AI Agents Cannot Change Software Systems",
-    "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html",
-    "points": 46,
-    "comments": 37,
+    "id": "hn-48313219",
+    "title": "About LLMs at Zig Days",
+    "url": "https://kristoff.it/blog/llms-at-zig-days/",
+    "points": 78,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-05-27T13:46:38Z"
+    "published_date": "2026-05-28T18:20:34Z"
   },
   {
-    "id": "hn-48300280",
-    "title": "Show HN: Open-Source AI Racing Harness",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "points": 35,
-    "comments": 4,
+    "id": "hn-48317294",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "points": 76,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-05-27T20:37:42Z"
+    "published_date": "2026-05-29T00:09:35Z"
   },
   {
-    "id": "hn-48299466",
-    "title": "SpaceX gets $2.29B Space Force sensor-to-shooter network contract",
-    "url": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-    "points": 26,
+    "id": "hn-48309986",
+    "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
+    "url": "https://github.com/Kaelio/ktx",
+    "points": 73,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-05-28T15:05:06Z"
+  },
+  {
+    "id": "hn-48309645",
+    "title": "Creusot helps you prove your Rust code is correct",
+    "url": "https://github.com/creusot-rs/creusot/tree/master",
+    "points": 66,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-27T19:40:30Z"
+    "published_date": "2026-05-28T14:42:04Z"
   },
   {
-    "id": "hn-48297825",
-    "title": "The AI tech job slaughter gets real",
-    "url": "https://www.computerworld.com/article/4175956/the-ai-tech-job-slaughter-gets-real.html",
-    "points": 25,
-    "comments": 5,
+    "id": "hn-48315583",
+    "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+    "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+    "points": 61,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-05-27T17:49:19Z"
+    "published_date": "2026-05-28T21:14:22Z"
   },
   {
-    "id": "hn-48300890",
-    "title": "Getting Claude to extract data from a 1997 football manager game",
-    "url": "https://bennuttall.com/blog/2026/04/fsm97/",
-    "points": 18,
-    "comments": 0,
+    "id": "hn-48317563",
+    "title": "Microsoft data suggests using AI is more expensive than hiring people",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+    "points": 57,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-27T21:21:15Z"
-  },
-  {
-    "id": "hn-48296503",
-    "title": "Show HN: Demon \u2013 open-source real-time music diffusion engine, 25Hz local GPU",
-    "url": "https://daydreamlive.github.io/DEMON/",
-    "points": 17,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-05-27T16:17:22Z"
+    "published_date": "2026-05-29T00:49:05Z"
   }
 ]
