@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48311647",
-    "title": "Claude Opus 4.8",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "points": 1520,
-    "comments": 1185,
+    "id": "hn-48323101",
+    "title": "Please Use AI",
+    "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+    "points": 739,
+    "comments": 380,
     "source": "Hacker News",
-    "published_date": "2026-05-28T16:49:14Z"
+    "published_date": "2026-05-29T13:50:25Z"
   },
   {
-    "id": "hn-48307887",
-    "title": "Disagreement among frontier LLMs on real-world fact-checks",
-    "url": "https://lenz.io/research/llm-disagreement",
-    "points": 489,
-    "comments": 341,
+    "id": "hn-48324499",
+    "title": "GTA 6 Developers Unionize",
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "points": 668,
+    "comments": 448,
     "source": "Hacker News",
-    "published_date": "2026-05-28T12:20:19Z"
+    "published_date": "2026-05-29T15:32:55Z"
   },
   {
-    "id": "hn-48315968",
-    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-    "points": 391,
-    "comments": 167,
+    "id": "hn-48325340",
+    "title": "Notes from the Mistral AI Now Summit",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "points": 358,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-05-28T21:45:54Z"
+    "published_date": "2026-05-29T16:22:01Z"
   },
   {
-    "id": "hn-48308376",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "url": "https://llmgame.scalex.dev",
-    "points": 321,
-    "comments": 130,
+    "id": "hn-48321631",
+    "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "points": 334,
+    "comments": 288,
     "source": "Hacker News",
-    "published_date": "2026-05-28T13:02:00Z"
+    "published_date": "2026-05-29T11:09:32Z"
   },
   {
-    "id": "hn-48318481",
-    "title": "Cars collect a startling amount of data about you",
-    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-    "points": 320,
-    "comments": 147,
+    "id": "hn-48321076",
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "points": 204,
+    "comments": 91,
     "source": "Hacker News",
-    "published_date": "2026-05-29T03:01:00Z"
+    "published_date": "2026-05-29T09:47:23Z"
   },
   {
-    "id": "hn-48313810",
-    "title": "Various LLM Smells",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "points": 305,
-    "comments": 241,
+    "id": "hn-48325306",
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "points": 182,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-05-28T19:02:18Z"
+    "published_date": "2026-05-29T16:19:54Z"
   },
   {
-    "id": "hn-48314363",
-    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "points": 211,
-    "comments": 163,
+    "id": "hn-48328184",
+    "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "points": 137,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-05-28T19:43:14Z"
+    "published_date": "2026-05-29T19:38:27Z"
   },
   {
-    "id": "hn-48317093",
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "points": 206,
-    "comments": 99,
+    "id": "hn-48323397",
+    "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+    "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+    "points": 116,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-05-28T23:42:47Z"
+    "published_date": "2026-05-29T14:15:41Z"
   },
   {
-    "id": "hn-48307098",
-    "title": "AI sticker shock hits corporate America",
-    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-    "points": 160,
-    "comments": 134,
+    "id": "hn-48322929",
+    "title": "Expertise in the age of AI",
+    "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+    "points": 112,
+    "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-05-28T10:39:32Z"
+    "published_date": "2026-05-29T13:35:13Z"
   },
   {
-    "id": "hn-48319509",
-    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-    "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-    "points": 149,
-    "comments": 73,
+    "id": "hn-48326659",
+    "title": "Robinhood now lets your AI agents trade stocks",
+    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "points": 96,
+    "comments": 170,
     "source": "Hacker News",
-    "published_date": "2026-05-29T05:45:36Z"
+    "published_date": "2026-05-29T17:46:27Z"
   },
   {
-    "id": "hn-48311705",
-    "title": "Dynamic Workflows in Claude Code",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "points": 145,
-    "comments": 114,
+    "id": "hn-48322389",
+    "title": "Local Git remotes",
+    "url": "https://cblgh.org/posts/local-git-remotes/",
+    "points": 81,
+    "comments": 70,
     "source": "Hacker News",
-    "published_date": "2026-05-28T16:52:21Z"
+    "published_date": "2026-05-29T12:45:02Z"
   },
   {
-    "id": "hn-48312616",
-    "title": "Bitburner, programming-based incremental game",
-    "url": "https://bitburner-official.github.io/",
-    "points": 101,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-05-28T17:43:36Z"
-  },
-  {
-    "id": "hn-48311490",
-    "title": "Endive: A JVM native WebAssembly runtime",
-    "url": "https://github.com/bytecodealliance/endive",
-    "points": 88,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-05-28T16:40:33Z"
-  },
-  {
-    "id": "hn-48318174",
-    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
-    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "id": "hn-48332151",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "url": "https://www.perryts.com/",
     "points": 80,
-    "comments": 17,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-05-29T02:13:20Z"
+    "published_date": "2026-05-30T03:14:25Z"
   },
   {
-    "id": "hn-48313219",
-    "title": "About LLMs at Zig Days",
-    "url": "https://kristoff.it/blog/llms-at-zig-days/",
-    "points": 78,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-05-28T18:20:34Z"
-  },
-  {
-    "id": "hn-48317294",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "points": 76,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-05-29T00:09:35Z"
-  },
-  {
-    "id": "hn-48309986",
-    "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
-    "url": "https://github.com/Kaelio/ktx",
+    "id": "hn-48324910",
+    "title": "CAPTCHAs can still detect AI agents",
+    "url": "https://research.roundtable.ai/captchas-detect-ai/",
     "points": 73,
+    "comments": 59,
+    "source": "Hacker News",
+    "published_date": "2026-05-29T15:57:37Z"
+  },
+  {
+    "id": "hn-48322956",
+    "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+    "url": "https://github.com/scanaislop/aislop",
+    "points": 72,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-05-29T13:37:38Z"
+  },
+  {
+    "id": "hn-48326561",
+    "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+    "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+    "points": 65,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-05-28T15:05:06Z"
+    "published_date": "2026-05-29T17:39:49Z"
   },
   {
-    "id": "hn-48309645",
-    "title": "Creusot helps you prove your Rust code is correct",
-    "url": "https://github.com/creusot-rs/creusot/tree/master",
-    "points": 66,
+    "id": "hn-48327222",
+    "title": "AI will be used to estimate age of asylum seekers from next year",
+    "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
+    "points": 36,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-05-29T18:23:03Z"
+  },
+  {
+    "id": "hn-48324276",
+    "title": "The literary world is sleepwalking into an AI disaster",
+    "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
+    "points": 35,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-05-28T14:42:04Z"
+    "published_date": "2026-05-29T15:20:49Z"
   },
   {
-    "id": "hn-48315583",
-    "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-    "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
-    "points": 61,
-    "comments": 16,
+    "id": "hn-48328331",
+    "title": "Paint.NET developer gets \"paint.net\" domain from scammers after 22 years",
+    "url": "https://twitter.com/i/status/2060397901650825238",
+    "points": 32,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-05-28T21:14:22Z"
+    "published_date": "2026-05-29T19:53:10Z"
   },
   {
-    "id": "hn-48317563",
-    "title": "Microsoft data suggests using AI is more expensive than hiring people",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-    "points": 57,
-    "comments": 8,
+    "id": "hn-48327360",
+    "title": "Why German trains are never on time anymore",
+    "url": "https://www.lemonde.fr/en/international/article/2026/05/29/why-german-trains-are-never-on-time-anymore_6753927_4.html",
+    "points": 29,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-05-29T00:49:05Z"
+    "published_date": "2026-05-29T18:31:23Z"
+  },
+  {
+    "id": "hn-48324357",
+    "title": "Brilliant launches AI tutor to get kids to think",
+    "url": "https://twitter.com/suekhim/status/2060378988606878147",
+    "points": 25,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-29T15:25:25Z"
   }
 ]
