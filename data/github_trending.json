@@ -1,10 +1,39 @@
 [
   {
+    "id": "gh-1249107749",
+    "name": "UditAkhourii/adhd",
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "stars": 627,
+    "language": "TypeScript",
+    "topics": [
+      "adhd",
+      "agents",
+      "ai",
+      "ai-agents",
+      "brainstorm",
+      "chain-of-thought",
+      "claude",
+      "claude-agent-sdk",
+      "creativity",
+      "divergent-thinking",
+      "ideation",
+      "interdisciplinary",
+      "llm",
+      "llm-tools",
+      "nodejs",
+      "prompt-engineering",
+      "tree-of-thought",
+      "typescript"
+    ],
+    "created_at": "2026-05-25T11:06:35Z"
+  },
+  {
     "id": "gh-1250957639",
     "name": "withkynam/vibecode-pro-max-kit",
     "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "stars": 533,
+    "stars": 627,
     "language": "JavaScript",
     "topics": [
       "agentic",
@@ -31,40 +60,11 @@
     "created_at": "2026-05-27T05:46:25Z"
   },
   {
-    "id": "gh-1249107749",
-    "name": "UditAkhourii/adhd",
-    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 525,
-    "language": "TypeScript",
-    "topics": [
-      "adhd",
-      "agents",
-      "ai",
-      "ai-agents",
-      "brainstorm",
-      "chain-of-thought",
-      "claude",
-      "claude-agent-sdk",
-      "creativity",
-      "divergent-thinking",
-      "ideation",
-      "interdisciplinary",
-      "llm",
-      "llm-tools",
-      "nodejs",
-      "prompt-engineering",
-      "tree-of-thought",
-      "typescript"
-    ],
-    "created_at": "2026-05-25T11:06:35Z"
-  },
-  {
     "id": "gh-1252258448",
     "name": "2aronS/Duel-Agents",
     "description": "CLI, SDK, and IDE plugins for Duel Agents",
     "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 401,
+    "stars": 484,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -83,34 +83,60 @@
     "created_at": "2026-05-28T10:45:44Z"
   },
   {
-    "id": "gh-1251707859",
-    "name": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
-    "url": "https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime",
-    "stars": 202,
-    "language": "C#",
+    "id": "gh-1254736740",
+    "name": "polymaxi2/polymarket-arbitrage-trading-bot",
+    "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
+    "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
+    "stars": 203,
+    "language": null,
     "topics": [
-      "ai-deep-fake",
-      "audio-deepfake-detection",
-      "deep-fake-ai",
-      "deepfake",
-      "deepfake-detection",
-      "deepfake-generation",
-      "deepfake-software",
-      "deepfake-videos",
-      "faceswap",
-      "llm",
-      "real-time-deepfake",
-      "realtime-face-changer"
+      "15min",
+      "5min",
+      "ai",
+      "arbitrage",
+      "arbitragebot",
+      "bot",
+      "btc",
+      "polymarket",
+      "polymarket-arbitrage-trading-bot",
+      "polymarket-bot",
+      "polymarket-trading-bot",
+      "trading",
+      "tradingbot"
     ],
-    "created_at": "2026-05-27T20:55:23Z"
+    "created_at": "2026-05-31T00:10:17Z"
+  },
+  {
+    "id": "gh-1248955957",
+    "name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 132,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "lazy",
+      "lazycodex",
+      "oh-my-openagent",
+      "omo",
+      "openai",
+      "orchestration",
+      "typescript"
+    ],
+    "created_at": "2026-05-25T07:56:45Z"
   },
   {
     "id": "gh-1249888354",
     "name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 117,
+    "stars": 125,
     "language": "Python",
     "topics": [
       "agent",
@@ -124,7 +150,7 @@
     "name": "openfi-dao/kalshi-trading-bot",
     "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot",
     "url": "https://github.com/openfi-dao/kalshi-trading-bot",
-    "stars": 113,
+    "stars": 114,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -142,7 +168,7 @@
     "name": "ATOM00blue/machine-learning-library",
     "description": "A hand-curated, topic-organized library of the best ML education \u2014 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
     "url": "https://github.com/ATOM00blue/machine-learning-library",
-    "stars": 102,
+    "stars": 107,
     "language": "Python",
     "topics": [
       "arxiv",
@@ -174,59 +200,33 @@
     "created_at": "2026-05-26T14:19:49Z"
   },
   {
-    "id": "gh-1248568839",
-    "name": "X-3306/Project-Onyx",
-    "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
-    "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 89,
-    "language": "C",
+    "id": "gh-1248761307",
+    "name": "1ove9/antenna-forge",
+    "description": "AI-driven inverse antenna design with real NEC2 + openEMS in the loop. Try the live in-browser playground.",
+    "url": "https://github.com/1ove9/antenna-forge",
+    "stars": 64,
+    "language": "Python",
     "topics": [
-      "ai",
-      "av-bypass",
-      "chain",
-      "cpp",
-      "cryptography",
-      "edr-evasion",
-      "in-memory-execution",
-      "malware-development",
-      "monolithic",
-      "onnx",
-      "onnxruntime",
-      "redteam",
-      "reverse-engineering",
-      "security-research",
-      "systems-security",
-      "wasm",
-      "webassembly",
-      "windows"
+      "antenna",
+      "antenna-design",
+      "electromagnetics",
+      "fdtd",
+      "inverse-design",
+      "machine-learning",
+      "nec2",
+      "openems",
+      "python",
+      "rf",
+      "yagi"
     ],
-    "created_at": "2026-05-24T20:14:02Z"
-  },
-  {
-    "id": "gh-1251314041",
-    "name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder \u2014 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 50,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "bricks-builder",
-      "claude",
-      "cursor",
-      "mcp",
-      "model-context-protocol",
-      "page-builder",
-      "wordpress"
-    ],
-    "created_at": "2026-05-27T13:06:05Z"
+    "created_at": "2026-05-25T03:00:24Z"
   },
   {
     "id": "gh-1251802067",
     "name": "Liu-Ming-Yu/alpha-forge",
     "description": "Alpha Forge \u2014 an agentic AI operating system for systematic trading.",
     "url": "https://github.com/Liu-Ming-Yu/alpha-forge",
-    "stars": 36,
+    "stars": 46,
     "language": "Python",
     "topics": [
       "algorithmic-trading",
@@ -244,38 +244,23 @@
     "created_at": "2026-05-27T23:37:27Z"
   },
   {
-    "id": "gh-1248401658",
-    "name": "Mohana05245/CopBot-AI-",
-    "description": "AI-powered multilingual FIR drafting assistant using Flask, NLP, and Machine Learning.",
-    "url": "https://github.com/Mohana05245/CopBot-AI-",
-    "stars": 29,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "chatbot",
-      "flask",
-      "machine-learning",
-      "nlp",
-      "python",
-      "web-development"
-    ],
-    "created_at": "2026-05-24T15:42:16Z"
-  },
-  {
     "id": "gh-1249550191",
     "name": "Tejas-TA/predikit",
-    "description": "pypi-predikit: Turn any sklearn/XGBoost model into an LLM-callable tool. Framework-agnostic",
+    "description": "The missing bridge between your ML models and your AI agents.",
     "url": "https://github.com/Tejas-TA/predikit",
-    "stars": 28,
+    "stars": 30,
     "language": "Python",
     "topics": [
       "agents",
       "langchain",
       "llm",
       "machine-learning",
+      "model-serving",
       "openai",
+      "pydantic",
       "python",
       "sklearn",
+      "snowflake",
       "xgboost"
     ],
     "created_at": "2026-05-25T20:26:22Z"
@@ -285,7 +270,7 @@
     "name": "kesslernity/awesome-copilot-chat-agents",
     "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writing, HR, PM, IT ops, Sales, Finance, Engineering & more. RAI reviewed, source-quality labelled, tested. No coding required.",
     "url": "https://github.com/kesslernity/awesome-copilot-chat-agents",
-    "stars": 11,
+    "stars": 12,
     "language": null,
     "topics": [
       "ai-agents",
@@ -315,7 +300,7 @@
     "name": "gammahazard/locate-anything",
     "description": "Sleek, mobile-friendly web UI for NVIDIA LocateAnything-3B \u2014 open-vocabulary object detection & grounding on your own GPU, via one docker compose up.",
     "url": "https://github.com/gammahazard/locate-anything",
-    "stars": 7,
+    "stars": 9,
     "language": "TypeScript",
     "topics": [
       "bounding-boxes",
@@ -339,5 +324,23 @@
       "web-ui"
     ],
     "created_at": "2026-05-27T21:00:17Z"
+  },
+  {
+    "id": "gh-1249006271",
+    "name": "cnemri/awesome-gemini-omni",
+    "description": "A curated list of awesome Google Gemini Omni prompt guides, interactive platforms, and creative showcases.",
+    "url": "https://github.com/cnemri/awesome-gemini-omni",
+    "stars": 8,
+    "language": null,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "gemini",
+      "gemini-omni",
+      "generative-ai",
+      "google-flow",
+      "multimodal"
+    ],
+    "created_at": "2026-05-25T08:58:42Z"
   }
 ]
