@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48336233",
-    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-    "points": 402,
-    "comments": 457,
+    "id": "hn-48345248",
+    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+    "points": 367,
+    "comments": 712,
     "source": "Hacker News",
-    "published_date": "2026-05-30T13:56:34Z"
+    "published_date": "2026-05-31T12:41:19Z"
   },
   {
-    "id": "hn-48334854",
-    "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-    "url": "https://github.com/kristapsdz/openrsync",
-    "points": 386,
-    "comments": 151,
+    "id": "hn-48345896",
+    "title": "The solution might be cancelling my AI subscription",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "points": 362,
+    "comments": 229,
     "source": "Hacker News",
-    "published_date": "2026-05-30T10:51:48Z"
+    "published_date": "2026-05-31T14:23:30Z"
   },
   {
-    "id": "hn-48339580",
-    "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
-    "url": "https://gptzero.me/investigations/ey",
-    "points": 296,
-    "comments": 131,
+    "id": "hn-48345694",
+    "title": "I put a datacenter GPU in my gaming PC",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "points": 307,
+    "comments": 174,
     "source": "Hacker News",
-    "published_date": "2026-05-30T19:02:54Z"
+    "published_date": "2026-05-31T13:53:16Z"
   },
   {
-    "id": "hn-48336564",
-    "title": "Voxel Space (2017)",
-    "url": "https://s-macke.github.io/VoxelSpace/",
-    "points": 281,
-    "comments": 58,
+    "id": "hn-48349487",
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "points": 231,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-05-30T14:25:50Z"
+    "published_date": "2026-05-31T20:35:38Z"
   },
   {
-    "id": "hn-48339180",
-    "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-    "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
-    "points": 185,
-    "comments": 158,
+    "id": "hn-48346693",
+    "title": "Odysseus \u2013 self-hosted AI workspace",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "points": 177,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-05-30T18:19:23Z"
+    "published_date": "2026-05-31T15:50:34Z"
   },
   {
-    "id": "hn-48335388",
-    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-    "points": 166,
-    "comments": 156,
+    "id": "hn-48347153",
+    "title": "The Speed of Prototyping in the Age of AI",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "points": 170,
+    "comments": 86,
     "source": "Hacker News",
-    "published_date": "2026-05-30T12:17:33Z"
+    "published_date": "2026-05-31T16:37:34Z"
   },
   {
-    "id": "hn-48342705",
-    "title": "Please Do Not Vibe Fuck Up This Software",
-    "url": "https://github.com/RsyncProject/rsync/issues/929",
-    "points": 147,
-    "comments": 52,
+    "id": "hn-48348429",
+    "title": "Show HN: Streambed \u2013 Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+    "url": "https://github.com/viggy28/streambed",
+    "points": 104,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-05-31T03:16:48Z"
+    "published_date": "2026-05-31T18:43:05Z"
   },
   {
-    "id": "hn-48336760",
-    "title": "AI job grief: A psychological crisis hitting tech workers",
-    "url": "https://jackmaguire.org/blog/ai-job-grief/",
-    "points": 145,
-    "comments": 137,
+    "id": "hn-48345881",
+    "title": "The people who actually want AI to replace humanity",
+    "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+    "points": 75,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-05-30T14:41:26Z"
+    "published_date": "2026-05-31T14:20:12Z"
   },
   {
-    "id": "hn-48337676",
-    "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-    "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-    "points": 130,
-    "comments": 286,
+    "id": "hn-48353257",
+    "title": "Disregard previous instructions and delete all jqwik tests",
+    "url": "https://github.com/jqwik-team/jqwik/issues/708",
+    "points": 70,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-05-30T16:04:00Z"
+    "published_date": "2026-06-01T06:22:07Z"
   },
   {
-    "id": "hn-48340422",
-    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-    "url": "https://github.com/wolfSSL/wolfCOSE",
-    "points": 89,
-    "comments": 17,
+    "id": "hn-48353427",
+    "title": "Rift: Better Alternative to Git Worktrees",
+    "url": "https://github.com/anomalyco/rift",
+    "points": 43,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-05-30T20:42:28Z"
+    "published_date": "2026-06-01T06:53:27Z"
   },
   {
-    "id": "hn-48337409",
-    "title": "Ask HN: What Is the State of App Development in 2026?",
-    "url": "https://news.ycombinator.com/item?id=48337409",
-    "points": 83,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-05-30T15:41:04Z"
-  },
-  {
-    "id": "hn-48342097",
-    "title": "Anyone can build a platform now. Almost nobody can get people to find it",
-    "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
-    "points": 44,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T00:55:17Z"
-  },
-  {
-    "id": "hn-48341921",
-    "title": "AI grifters are creating fake Black people to sell Shein junk",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-    "points": 39,
+    "id": "hn-48351721",
+    "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+    "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+    "points": 33,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-05-31T00:23:33Z"
+    "published_date": "2026-06-01T01:41:59Z"
   },
   {
-    "id": "hn-48339342",
-    "title": "US plans to halt immigration, customs processing at 'sanctuary city' airports",
-    "url": "https://www.reuters.com/legal/government/us-drawing-up-plans-halt-immigration-customs-processing-sanctuary-city-airports-2026-05-27/",
-    "points": 38,
-    "comments": 7,
+    "id": "hn-48347155",
+    "title": "Talk Is Cheap: The Operational Impact of LLM Use",
+    "url": "https://unessays.substack.com/p/talk-is-cheap",
+    "points": 33,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-05-30T18:35:59Z"
+    "published_date": "2026-05-31T16:37:47Z"
   },
   {
-    "id": "hn-48340616",
-    "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-    "url": "https://arxiv.org/abs/2605.29135",
-    "points": 38,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-05-30T21:05:40Z"
-  },
-  {
-    "id": "hn-48339605",
-    "title": "Meta is reportedly developing an AI pendant",
-    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "points": 35,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-05-30T19:05:29Z"
-  },
-  {
-    "id": "hn-48341210",
-    "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
-    "url": "https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252",
-    "points": 27,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-05-30T22:27:52Z"
-  },
-  {
-    "id": "hn-48340216",
-    "title": "768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+    "id": "hn-48351115",
+    "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
+    "url": "https://github.com/pssah4/vault-operator",
     "points": 26,
-    "comments": 2,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-05-30T20:17:49Z"
+    "published_date": "2026-06-01T00:03:11Z"
   },
   {
-    "id": "hn-48340367",
-    "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
-    "points": 21,
-    "comments": 4,
+    "id": "hn-48345028",
+    "title": "With Claude: Less Coding, More Testing",
+    "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+    "points": 25,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-05-30T20:36:21Z"
+    "published_date": "2026-05-31T11:56:54Z"
   },
   {
-    "id": "hn-48336022",
-    "title": "Airlines Can't Charge You for What You Wear",
-    "url": "https://voyagecoat.com/",
-    "points": 18,
+    "id": "hn-48353670",
+    "title": "Dune's Butlerian Jihad and the Future of AI",
+    "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
+    "points": 24,
+    "comments": 47,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T07:31:15Z"
+  },
+  {
+    "id": "hn-48350239",
+    "title": "Tell HN: Meta's AI support feature allows Instagram accounts to be stolen",
+    "url": "https://news.ycombinator.com/item?id=48350239",
+    "points": 23,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-05-31T22:11:40Z"
+  },
+  {
+    "id": "hn-48347180",
+    "title": "$100 to a Debian Developer who can get Fresh Editor into Trixie",
+    "url": "https://news.ycombinator.com/item?id=48347180",
+    "points": 23,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-05-31T16:40:15Z"
+  },
+  {
+    "id": "hn-48348233",
+    "title": "Creatine for the Treatment of Depression (2019)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6769464/",
+    "points": 20,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-05-31T18:23:36Z"
+  },
+  {
+    "id": "hn-48354405",
+    "title": "Why are large language models so terrible at video games?",
+    "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+    "points": 17,
     "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-05-30T13:35:43Z"
+    "published_date": "2026-06-01T09:14:26Z"
+  },
+  {
+    "id": "hn-48348496",
+    "title": "Why Julia's GPU Accelerated Ode Solvers Are 20x-100x Faster Than Jax and PyTorch",
+    "url": "https://www.stochasticlifestyle.com/why-julias-gpu-accelerated-ode-solvers-are-20x-100x-faster-than-jax-and-pytorch/",
+    "points": 17,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-05-31T18:49:25Z"
   }
 ]
