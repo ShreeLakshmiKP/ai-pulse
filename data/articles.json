@@ -4130,6 +4130,34 @@
     "image": null
   },
   {
+    "id": "rss-e0ba9cd4",
+    "title": "How small businesses can leverage AI",
+    "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "tags": [
+      "LLM"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 02 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-aaeba9d9",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 02 Jun 2026 02:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-e0cea1ae",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
@@ -4301,36 +4329,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7b1aab1a",
-    "title": "The internet is being rebuilt for machines",
-    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 28 May 2026 21:24:01 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0d22b328",
-    "title": "Asana acquires no-code agent-builder StackAI",
-    "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 28 May 2026 20:06:07 +0000",
     "image": null
   }
 ]

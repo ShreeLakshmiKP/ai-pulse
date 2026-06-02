@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48345248",
-    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-    "points": 367,
-    "comments": 712,
+    "id": "hn-48356625",
+    "title": "Malicious npm packages detected across Red Hat Cloud Services",
+    "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+    "points": 750,
+    "comments": 429,
     "source": "Hacker News",
-    "published_date": "2026-05-31T12:41:19Z"
+    "published_date": "2026-06-01T13:30:21Z"
   },
   {
-    "id": "hn-48345896",
-    "title": "The solution might be cancelling my AI subscription",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "points": 362,
-    "comments": 229,
+    "id": "hn-48359232",
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "points": 417,
+    "comments": 137,
     "source": "Hacker News",
-    "published_date": "2026-05-31T14:23:30Z"
+    "published_date": "2026-06-01T16:41:49Z"
   },
   {
-    "id": "hn-48345694",
-    "title": "I put a datacenter GPU in my gaming PC",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "points": 307,
-    "comments": 174,
+    "id": "hn-48359130",
+    "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "points": 299,
+    "comments": 144,
     "source": "Hacker News",
-    "published_date": "2026-05-31T13:53:16Z"
+    "published_date": "2026-06-01T16:33:59Z"
   },
   {
-    "id": "hn-48349487",
-    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "points": 231,
-    "comments": 80,
+    "id": "hn-48358667",
+    "title": "Florida sues OpenAI and Sam Altman over AI risks",
+    "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+    "points": 227,
+    "comments": 179,
     "source": "Hacker News",
-    "published_date": "2026-05-31T20:35:38Z"
+    "published_date": "2026-06-01T16:02:04Z"
   },
   {
-    "id": "hn-48346693",
-    "title": "Odysseus \u2013 self-hosted AI workspace",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "points": 177,
-    "comments": 83,
+    "id": "hn-48361064",
+    "title": "GitHub and the crime against software",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "points": 222,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-05-31T15:50:34Z"
+    "published_date": "2026-06-01T18:54:55Z"
   },
   {
-    "id": "hn-48347153",
-    "title": "The Speed of Prototyping in the Age of AI",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "points": 170,
-    "comments": 86,
+    "id": "hn-48357725",
+    "title": "Ask HN: Who is hiring? (June 2026)",
+    "url": "https://news.ycombinator.com/item?id=48357725",
+    "points": 191,
+    "comments": 270,
     "source": "Hacker News",
-    "published_date": "2026-05-31T16:37:34Z"
+    "published_date": "2026-06-01T15:00:48Z"
   },
   {
-    "id": "hn-48348429",
-    "title": "Show HN: Streambed \u2013 Stream Postgres to Iceberg on S3, Supports Postgres Wire",
-    "url": "https://github.com/viggy28/streambed",
-    "points": 104,
-    "comments": 29,
+    "id": "hn-48362515",
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "points": 190,
+    "comments": 176,
     "source": "Hacker News",
-    "published_date": "2026-05-31T18:43:05Z"
+    "published_date": "2026-06-01T20:55:15Z"
   },
   {
-    "id": "hn-48345881",
-    "title": "The people who actually want AI to replace humanity",
-    "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
-    "points": 75,
-    "comments": 85,
+    "id": "hn-48355751",
+    "title": "When AI Crosses the Line: The Matplotlib Incident",
+    "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+    "points": 133,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-05-31T14:20:12Z"
+    "published_date": "2026-06-01T12:08:23Z"
   },
   {
-    "id": "hn-48353257",
-    "title": "Disregard previous instructions and delete all jqwik tests",
-    "url": "https://github.com/jqwik-team/jqwik/issues/708",
-    "points": 70,
-    "comments": 50,
+    "id": "hn-48356847",
+    "title": "Sysadmining Like It's 2009",
+    "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+    "points": 95,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-06-01T06:22:07Z"
+    "published_date": "2026-06-01T13:50:14Z"
   },
   {
-    "id": "hn-48353427",
-    "title": "Rift: Better Alternative to Git Worktrees",
-    "url": "https://github.com/anomalyco/rift",
-    "points": 43,
-    "comments": 19,
+    "id": "hn-48355229",
+    "title": "LLMs Are Closer to Religion Than They Appear",
+    "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+    "points": 83,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-06-01T06:53:27Z"
+    "published_date": "2026-06-01T11:03:38Z"
   },
   {
-    "id": "hn-48351721",
-    "title": "Unlawful by design: Exposing the human rights costs of generative AI",
-    "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
-    "points": 33,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-06-01T01:41:59Z"
-  },
-  {
-    "id": "hn-48347155",
-    "title": "Talk Is Cheap: The Operational Impact of LLM Use",
-    "url": "https://unessays.substack.com/p/talk-is-cheap",
-    "points": 33,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T16:37:47Z"
-  },
-  {
-    "id": "hn-48351115",
-    "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
-    "url": "https://github.com/pssah4/vault-operator",
-    "points": 26,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-06-01T00:03:11Z"
-  },
-  {
-    "id": "hn-48345028",
-    "title": "With Claude: Less Coding, More Testing",
-    "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
-    "points": 25,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T11:56:54Z"
-  },
-  {
-    "id": "hn-48353670",
-    "title": "Dune's Butlerian Jihad and the Future of AI",
-    "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
-    "points": 24,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-06-01T07:31:15Z"
-  },
-  {
-    "id": "hn-48350239",
-    "title": "Tell HN: Meta's AI support feature allows Instagram accounts to be stolen",
-    "url": "https://news.ycombinator.com/item?id=48350239",
-    "points": 23,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T22:11:40Z"
-  },
-  {
-    "id": "hn-48347180",
-    "title": "$100 to a Debian Developer who can get Fresh Editor into Trixie",
-    "url": "https://news.ycombinator.com/item?id=48347180",
-    "points": 23,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T16:40:15Z"
-  },
-  {
-    "id": "hn-48348233",
-    "title": "Creatine for the Treatment of Depression (2019)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6769464/",
-    "points": 20,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-05-31T18:23:36Z"
-  },
-  {
-    "id": "hn-48354405",
-    "title": "Why are large language models so terrible at video games?",
-    "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
-    "points": 17,
+    "id": "hn-48356312",
+    "title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
+    "url": "https://news.ycombinator.com/item?id=48356312",
+    "points": 82,
     "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-06-01T09:14:26Z"
+    "published_date": "2026-06-01T13:05:02Z"
   },
   {
-    "id": "hn-48348496",
-    "title": "Why Julia's GPU Accelerated Ode Solvers Are 20x-100x Faster Than Jax and PyTorch",
-    "url": "https://www.stochasticlifestyle.com/why-julias-gpu-accelerated-ode-solvers-are-20x-100x-faster-than-jax-and-pytorch/",
-    "points": 17,
+    "id": "hn-48361346",
+    "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+    "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+    "points": 52,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T19:18:52Z"
+  },
+  {
+    "id": "hn-48354967",
+    "title": "Nvidia announces new AI chip for personal computers",
+    "url": "https://www.bbc.com/news/articles/crmp9mppvzro",
+    "points": 45,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T10:33:25Z"
+  },
+  {
+    "id": "hn-48359989",
+    "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
+    "url": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
+    "points": 37,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T17:31:57Z"
+  },
+  {
+    "id": "hn-48361054",
+    "title": "Show HN: Textile \u2013 A desktop app for weaving together bits of text",
+    "url": "https://www.gettextile.app",
+    "points": 32,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T18:54:12Z"
+  },
+  {
+    "id": "hn-48357831",
+    "title": "Cloudflare CTO enforcing usage limits",
+    "url": "https://old.reddit.com/r/BetterOffline/comments/1tryfft/cloudflare_cto_enforcing_usage_limits/",
+    "points": 31,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T15:06:26Z"
+  },
+  {
+    "id": "hn-48359478",
+    "title": "Show HN: DepsGuard \u2013 One command to harden NPM/pnpm/yarn/bun/uv configs",
+    "url": "https://github.com/arnica/depsguard",
+    "points": 31,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T16:58:52Z"
+  },
+  {
+    "id": "hn-48360088",
+    "title": "Build a Basic AI Agent from Scratch: Tools",
+    "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+    "points": 26,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-05-31T18:49:25Z"
+    "published_date": "2026-06-01T17:40:00Z"
+  },
+  {
+    "id": "hn-48364983",
+    "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
+    "points": 24,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-02T01:55:07Z"
+  },
+  {
+    "id": "hn-48359982",
+    "title": "Hackers Asked Meta AI to Give Them Access to Instagram Accounts. It Worked",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "points": 23,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-06-01T17:31:15Z"
   }
 ]

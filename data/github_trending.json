@@ -4,7 +4,7 @@
     "name": "withkynam/vibecode-pro-max-kit",
     "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "stars": 689,
+    "stars": 708,
     "language": "JavaScript",
     "topics": [
       "agentic",
@@ -35,7 +35,7 @@
     "name": "2aronS/Duel-Agents",
     "description": "CLI, SDK, and IDE plugins for Duel Agents",
     "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 608,
+    "stars": 653,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -54,25 +54,11 @@
     "created_at": "2026-05-28T10:45:44Z"
   },
   {
-    "id": "gh-1249922033",
-    "name": "cellinlab/how-pi-agent-works",
-    "description": "Pi Agent \u539f\u7406\u4e0e\u5b9e\u73b0",
-    "url": "https://github.com/cellinlab/how-pi-agent-works",
-    "stars": 296,
-    "language": null,
-    "topics": [
-      "agent",
-      "ai",
-      "pi"
-    ],
-    "created_at": "2026-05-26T06:37:08Z"
-  },
-  {
     "id": "gh-1254736740",
     "name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
     "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 259,
+    "stars": 314,
     "language": null,
     "topics": [
       "15min",
@@ -92,85 +78,32 @@
     "created_at": "2026-05-31T00:10:17Z"
   },
   {
-    "id": "gh-1250575980",
-    "name": "boona13/image-extender",
-    "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-    "url": "https://github.com/boona13/image-extender",
-    "stars": 131,
-    "language": "TypeScript",
+    "id": "gh-1255267904",
+    "name": "johnbean393/KeyType",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+    "url": "https://github.com/johnbean393/KeyType",
+    "stars": 197,
+    "language": "Swift",
     "topics": [
       "ai",
-      "gemini",
-      "image-generation",
-      "nano-banana",
-      "nextjs",
-      "openrouter",
-      "outpainting",
-      "poisson-blending",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2026-05-26T19:11:44Z"
-  },
-  {
-    "id": "gh-1249888354",
-    "name": "nekocode/filetree-skill",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
-    "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 129,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "skills"
-    ],
-    "created_at": "2026-05-26T05:56:39Z"
-  },
-  {
-    "id": "gh-1252225158",
-    "name": "openfi-dao/kalshi-trading-bot",
-    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot",
-    "url": "https://github.com/openfi-dao/kalshi-trading-bot",
-    "stars": 114,
-    "language": "TypeScript",
-    "topics": [
-      "ai-trading",
-      "bot",
-      "kalshi",
+      "ai-autocomplete",
+      "autocomplete",
+      "completions",
+      "cotabby",
+      "cotypist",
+      "gemma4",
       "llm",
-      "nodejs",
-      "prediction-markets",
-      "trading-bot"
+      "macos",
+      "qwen3-5"
     ],
-    "created_at": "2026-05-28T10:04:01Z"
-  },
-  {
-    "id": "gh-1251922807",
-    "name": "ATOM00blue/machine-learning-library",
-    "description": "A hand-curated, topic-organized library of the best ML education \u2014 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
-    "url": "https://github.com/ATOM00blue/machine-learning-library",
-    "stars": 111,
-    "language": "Python",
-    "topics": [
-      "arxiv",
-      "corpus",
-      "dataset",
-      "deep-learning",
-      "education",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "study-resources",
-      "transformers"
-    ],
-    "created_at": "2026-05-28T03:03:04Z"
+    "created_at": "2026-05-31T16:08:48Z"
   },
   {
     "id": "gh-1255127700",
     "name": "stormneonnightraven4640692/DeepFake-AI-RealTime",
     "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
     "url": "https://github.com/stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "stars": 99,
+    "stars": 182,
     "language": "C#",
     "topics": [
       "ai-deep-fake",
@@ -195,32 +128,32 @@
     "created_at": "2026-05-31T12:48:13Z"
   },
   {
-    "id": "gh-1255267904",
-    "name": "johnbean393/KeyType",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-    "url": "https://github.com/johnbean393/KeyType",
-    "stars": 91,
-    "language": "Swift",
+    "id": "gh-1251922807",
+    "name": "ATOM00blue/machine-learning-library",
+    "description": "A hand-curated, topic-organized library of the best ML education \u2014 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
+    "url": "https://github.com/ATOM00blue/machine-learning-library",
+    "stars": 114,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-autocomplete",
-      "autocomplete",
-      "completions",
-      "cotabby",
-      "cotypist",
-      "gemma4",
+      "arxiv",
+      "corpus",
+      "dataset",
+      "deep-learning",
+      "education",
       "llm",
-      "macos",
-      "qwen3-5"
+      "machine-learning",
+      "nlp",
+      "study-resources",
+      "transformers"
     ],
-    "created_at": "2026-05-31T16:08:48Z"
+    "created_at": "2026-05-28T03:03:04Z"
   },
   {
     "id": "gh-1255005802",
     "name": "lilliancrivaro27064501728/AI-Photo-Background-Remover",
     "description": "An easy-to-use desktop utility powered by AI to automatically remove background from photos locally, offline, and in high resolution.",
     "url": "https://github.com/lilliancrivaro27064501728/AI-Photo-Background-Remover",
-    "stars": 75,
+    "stars": 76,
     "language": "Python",
     "topics": [
       "ai-background-removal",
@@ -247,11 +180,71 @@
     "created_at": "2026-05-31T09:24:15Z"
   },
   {
+    "id": "gh-1254133915",
+    "name": "ethanhq/cc-fleet",
+    "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagents \ud83d\ude80 \uff5c\ud83e\udd16 \u8ba9 Claude Code \u63a5\u5165\u4efb\u610f\u7b2c\u4e09\u65b9\u6a21\u578b(DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026\u2026),\u4f5c\u4e3a\u539f\u751f Agent Team Teammate \u6216 \u26a1 \u4e00\u6b21\u6027 subagent \u4e3a\u4f60\u5e72\u6d3b \ud83d\ude80",
+    "url": "https://github.com/ethanhq/cc-fleet",
+    "stars": 67,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "bash-cli",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills"
+    ],
+    "created_at": "2026-05-30T07:20:37Z"
+  },
+  {
+    "id": "gh-1255644879",
+    "name": "PanisHandsome/ai-rules-sync",
+    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini \u2014 or scaffold a fresh AGENTS.md. Zero dependencies.",
+    "url": "https://github.com/PanisHandsome/ai-rules-sync",
+    "stars": 61,
+    "language": "JavaScript",
+    "topics": [
+      "agents-md",
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "coding-agent",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "llm"
+    ],
+    "created_at": "2026-06-01T03:32:48Z"
+  },
+  {
+    "id": "gh-1251314041",
+    "name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder \u2014 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 57,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "bricks-builder",
+      "claude",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "page-builder",
+      "wordpress"
+    ],
+    "created_at": "2026-05-27T13:06:05Z"
+  },
+  {
     "id": "gh-1251802067",
     "name": "Liu-Ming-Yu/alpha-forge",
     "description": "Alpha Forge \u2014 an agentic AI operating system for systematic trading.",
     "url": "https://github.com/Liu-Ming-Yu/alpha-forge",
-    "stars": 53,
+    "stars": 57,
     "language": "Python",
     "topics": [
       "algorithmic-trading",
@@ -269,66 +262,89 @@
     "created_at": "2026-05-27T23:37:27Z"
   },
   {
-    "id": "gh-1251501996",
-    "name": "Radianceplastudio/Kling-AI-Pro-Unlimited",
-    "description": "Kling AI Pro Unlimited with full Professional membership: unlimited video generations, highest motion quality, image-to-video Pro modes, and priority queue\u2014every paid feature unlocked.",
-    "url": "https://github.com/Radianceplastudio/Kling-AI-Pro-Unlimited",
-    "stars": 49,
-    "language": null,
+    "id": "gh-1254936535",
+    "name": "argahv/sisyphus-academica",
+    "description": "Open-source research pipeline \u2014 literature review, novelty generation, citation verification, and adversarial review.",
+    "url": "https://github.com/argahv/sisyphus-academica",
+    "stars": 32,
+    "language": "Python",
     "topics": [
-      "ai-video",
-      "creative-ai",
-      "full-version",
-      "generative-ai",
-      "kling",
-      "motion-ai",
-      "pro",
-      "unlimited",
-      "video-generator",
-      "windows"
+      "academic-writing",
+      "arxiv",
+      "citation-verification",
+      "latex",
+      "literature-review",
+      "machine-learning",
+      "multi-agent",
+      "novelty",
+      "open-source",
+      "research"
     ],
-    "created_at": "2026-05-27T16:35:00Z"
+    "created_at": "2026-05-31T07:22:28Z"
   },
   {
-    "id": "gh-1251501478",
-    "name": "GrandWarblerEmbody/ElevenLabs-Creator-Pro-Unlimited",
-    "description": "ElevenLabs Creator Pro Unlimited with unlimited characters, instant voice clone, dubbing studio, sound effects, and the full premium voice library\u2014top creator tier unlocked.",
-    "url": "https://github.com/GrandWarblerEmbody/ElevenLabs-Creator-Pro-Unlimited",
-    "stars": 47,
-    "language": null,
+    "id": "gh-1253229410",
+    "name": "keshik6/gpic",
+    "description": "Official Code for GPIC: A Giant Permissive Image Corpus for Visual Generation",
+    "url": "https://github.com/keshik6/gpic",
+    "stars": 27,
+    "language": "Python",
     "topics": [
-      "creative-ai",
-      "dubbing",
-      "elevenlabs",
-      "full-version",
+      "flow-matching",
       "generative-ai",
-      "pro",
-      "text-to-speech",
-      "unlimited",
-      "voice-ai",
-      "windows"
+      "jit",
+      "large-scale-dataset",
+      "text-to-image",
+      "text-to-image-generation"
     ],
-    "created_at": "2026-05-27T16:34:22Z"
+    "created_at": "2026-05-29T09:05:47Z"
   },
   {
-    "id": "gh-1251502572",
-    "name": "NexusFletcher/Luma-Dream-Machine-Pro-Unlimited",
-    "description": "Luma Dream Machine Pro Unlimited with premium quality, unlimited generations, loop and extend tools, and every premium export option\u2014full Pro tier without limits.",
-    "url": "https://github.com/NexusFletcher/Luma-Dream-Machine-Pro-Unlimited",
-    "stars": 46,
+    "id": "gh-1256183986",
+    "name": "wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
+    "description": "Fine-tuning LLM \u2014 lora, qlora, unsloth, fine tune tutorial.",
+    "url": "https://github.com/wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
+    "stars": 24,
     "language": null,
     "topics": [
-      "creative-ai",
-      "dream-machine",
-      "full-version",
-      "generative-ai",
-      "luma-ai",
-      "luma-dream-machine",
-      "pro",
-      "text-to-video",
-      "unlimited",
-      "windows"
+      "fine-tuning",
+      "llm-training",
+      "lora",
+      "machine-learning",
+      "peft",
+      "qlora",
+      "unsloth"
     ],
-    "created_at": "2026-05-27T16:35:41Z"
+    "created_at": "2026-06-01T14:38:34Z"
+  },
+  {
+    "id": "gh-1251297383",
+    "name": "kesslernity/awesome-copilot-chat-agents",
+    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writing, HR, PM, IT ops, Sales, Finance, Engineering & more. RAI reviewed, source-quality labelled, tested. No coding required.",
+    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents",
+    "stars": 22,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-governance",
+      "copilot-chat",
+      "copilot-studio",
+      "declarative-agents",
+      "engineering",
+      "enterprise-ai",
+      "finance",
+      "generative-ai",
+      "hr",
+      "m365-copilot",
+      "microsoft-365",
+      "microsoft-copilot",
+      "productivity",
+      "project-management",
+      "prompt-engineering",
+      "prompt-library",
+      "responsible-ai",
+      "sales"
+    ],
+    "created_at": "2026-05-27T12:46:48Z"
   }
 ]
