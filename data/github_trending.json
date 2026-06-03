@@ -1,41 +1,10 @@
 [
   {
-    "id": "gh-1250957639",
-    "name": "withkynam/vibecode-pro-max-kit",
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "stars": 708,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "ai-coding-assistant",
-      "ai-development",
-      "ai-workflow",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli-tools",
-      "code-quality",
-      "codex",
-      "coding-agents",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "openai",
-      "prompt-engineering",
-      "typescript",
-      "vibe-coding",
-      "vibecoding"
-    ],
-    "created_at": "2026-05-27T05:46:25Z"
-  },
-  {
     "id": "gh-1252258448",
     "name": "2aronS/Duel-Agents",
     "description": "CLI, SDK, and IDE plugins for Duel Agents",
     "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 653,
+    "stars": 699,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -54,35 +23,11 @@
     "created_at": "2026-05-28T10:45:44Z"
   },
   {
-    "id": "gh-1254736740",
-    "name": "polymaxi2/polymarket-arbitrage-trading-bot",
-    "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
-    "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 314,
-    "language": null,
-    "topics": [
-      "15min",
-      "5min",
-      "ai",
-      "arbitrage",
-      "arbitragebot",
-      "bot",
-      "btc",
-      "polymarket",
-      "polymarket-arbitrage-trading-bot",
-      "polymarket-bot",
-      "polymarket-trading-bot",
-      "trading",
-      "tradingbot"
-    ],
-    "created_at": "2026-05-31T00:10:17Z"
-  },
-  {
     "id": "gh-1255267904",
     "name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 197,
+    "stars": 219,
     "language": "Swift",
     "topics": [
       "ai",
@@ -97,6 +42,44 @@
       "qwen3-5"
     ],
     "created_at": "2026-05-31T16:08:48Z"
+  },
+  {
+    "id": "gh-1255251478",
+    "name": "duncatzat/vigils",
+    "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+    "url": "https://github.com/duncatzat/vigils",
+    "stars": 204,
+    "language": "Rust",
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "audit-log",
+      "desktop",
+      "llm",
+      "local-first",
+      "pii",
+      "rust",
+      "sandbox",
+      "tauri"
+    ],
+    "created_at": "2026-05-31T15:45:25Z"
+  },
+  {
+    "id": "gh-1255069527",
+    "name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "url": "https://github.com/PentesterFlow/agent",
+    "stars": 190,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "bugbounty",
+      "penetration-testing",
+      "security-audit",
+      "security-automation"
+    ],
+    "created_at": "2026-05-31T11:14:35Z"
   },
   {
     "id": "gh-1255127700",
@@ -128,11 +111,31 @@
     "created_at": "2026-05-31T12:48:13Z"
   },
   {
+    "id": "gh-1252801819",
+    "name": "trynullsec/nullsec-s1",
+    "description": "Security-native LLM system for AI-generated application security.",
+    "url": "https://github.com/trynullsec/nullsec-s1",
+    "stars": 151,
+    "language": "Python",
+    "topics": [
+      "ai-security",
+      "appsec",
+      "code-security",
+      "llm",
+      "mcp",
+      "qlora",
+      "security",
+      "vibecoding",
+      "web3-security"
+    ],
+    "created_at": "2026-05-28T22:13:50Z"
+  },
+  {
     "id": "gh-1251922807",
     "name": "ATOM00blue/machine-learning-library",
     "description": "A hand-curated, topic-organized library of the best ML education \u2014 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
     "url": "https://github.com/ATOM00blue/machine-learning-library",
-    "stars": 114,
+    "stars": 115,
     "language": "Python",
     "topics": [
       "arxiv",
@@ -147,6 +150,27 @@
       "transformers"
     ],
     "created_at": "2026-05-28T03:03:04Z"
+  },
+  {
+    "id": "gh-1255644879",
+    "name": "PanisHandsome/ai-rules-sync",
+    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini \u2014 or scaffold a fresh AGENTS.md. Zero dependencies.",
+    "url": "https://github.com/PanisHandsome/ai-rules-sync",
+    "stars": 84,
+    "language": "JavaScript",
+    "topics": [
+      "agents-md",
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "coding-agent",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "llm"
+    ],
+    "created_at": "2026-06-01T03:32:48Z"
   },
   {
     "id": "gh-1255005802",
@@ -184,7 +208,7 @@
     "name": "ethanhq/cc-fleet",
     "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagents \ud83d\ude80 \uff5c\ud83e\udd16 \u8ba9 Claude Code \u63a5\u5165\u4efb\u610f\u7b2c\u4e09\u65b9\u6a21\u578b(DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026\u2026),\u4f5c\u4e3a\u539f\u751f Agent Team Teammate \u6216 \u26a1 \u4e00\u6b21\u6027 subagent \u4e3a\u4f60\u5e72\u6d3b \ud83d\ude80",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 67,
+    "stars": 72,
     "language": "Go",
     "topics": [
       "ai",
@@ -200,73 +224,29 @@
     "created_at": "2026-05-30T07:20:37Z"
   },
   {
-    "id": "gh-1255644879",
-    "name": "PanisHandsome/ai-rules-sync",
-    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini \u2014 or scaffold a fresh AGENTS.md. Zero dependencies.",
-    "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 61,
-    "language": "JavaScript",
-    "topics": [
-      "agents-md",
-      "ai",
-      "claude",
-      "cli",
-      "codex",
-      "coding-agent",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "llm"
-    ],
-    "created_at": "2026-06-01T03:32:48Z"
-  },
-  {
-    "id": "gh-1251314041",
-    "name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder \u2014 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 57,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "bricks-builder",
-      "claude",
-      "cursor",
-      "mcp",
-      "model-context-protocol",
-      "page-builder",
-      "wordpress"
-    ],
-    "created_at": "2026-05-27T13:06:05Z"
-  },
-  {
-    "id": "gh-1251802067",
-    "name": "Liu-Ming-Yu/alpha-forge",
-    "description": "Alpha Forge \u2014 an agentic AI operating system for systematic trading.",
-    "url": "https://github.com/Liu-Ming-Yu/alpha-forge",
+    "id": "gh-1253229117",
+    "name": "kurikomi-labs/komi-learn",
+    "description": "Continuous memory + self-improvement for AI agents. Learns how you work, recalls it automatically, no commands. Claude Code & Codex.",
+    "url": "https://github.com/kurikomi-labs/komi-learn",
     "stars": 57,
     "language": "Python",
     "topics": [
-      "algorithmic-trading",
-      "alpha-research",
-      "backtesting",
-      "financial-ml",
-      "ibkr",
-      "machine-learning",
-      "portfolio-construction",
-      "python",
-      "quantitative-finance",
-      "risk-management",
-      "trading-systems"
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "continuous-learning",
+      "llm"
     ],
-    "created_at": "2026-05-27T23:37:27Z"
+    "created_at": "2026-05-29T09:05:28Z"
   },
   {
     "id": "gh-1254936535",
     "name": "argahv/sisyphus-academica",
     "description": "Open-source research pipeline \u2014 literature review, novelty generation, citation verification, and adversarial review.",
     "url": "https://github.com/argahv/sisyphus-academica",
-    "stars": 32,
+    "stars": 41,
     "language": "Python",
     "topics": [
       "academic-writing",
@@ -283,11 +263,30 @@
     "created_at": "2026-05-31T07:22:28Z"
   },
   {
+    "id": "gh-1256946355",
+    "name": "2417467487-hub/WorldCupROI",
+    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
+    "url": "https://github.com/2417467487-hub/WorldCupROI",
+    "stars": 41,
+    "language": "HTML",
+    "topics": [
+      "business-intelligence",
+      "machine-learning",
+      "plotly",
+      "roi-prediction",
+      "sponsorship",
+      "sports-analytics",
+      "streamlit",
+      "world-cup"
+    ],
+    "created_at": "2026-06-02T08:15:02Z"
+  },
+  {
     "id": "gh-1253229410",
     "name": "keshik6/gpic",
     "description": "Official Code for GPIC: A Giant Permissive Image Corpus for Visual Generation",
     "url": "https://github.com/keshik6/gpic",
-    "stars": 27,
+    "stars": 31,
     "language": "Python",
     "topics": [
       "flow-matching",
@@ -300,51 +299,24 @@
     "created_at": "2026-05-29T09:05:47Z"
   },
   {
-    "id": "gh-1256183986",
-    "name": "wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
-    "description": "Fine-tuning LLM \u2014 lora, qlora, unsloth, fine tune tutorial.",
-    "url": "https://github.com/wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
-    "stars": 24,
-    "language": null,
+    "id": "gh-1254821193",
+    "name": "qixinhu11/LongLive-RAG",
+    "description": "Official Implementation of LongLive-RAG: A general retrieval-augmented framework for long video generation.",
+    "url": "https://github.com/qixinhu11/LongLive-RAG",
+    "stars": 30,
+    "language": "Python",
     "topics": [
-      "fine-tuning",
-      "llm-training",
-      "lora",
-      "machine-learning",
-      "peft",
-      "qlora",
-      "unsloth"
-    ],
-    "created_at": "2026-06-01T14:38:34Z"
-  },
-  {
-    "id": "gh-1251297383",
-    "name": "kesslernity/awesome-copilot-chat-agents",
-    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writing, HR, PM, IT ops, Sales, Finance, Engineering & more. RAI reviewed, source-quality labelled, tested. No coding required.",
-    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents",
-    "stars": 22,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-governance",
-      "copilot-chat",
-      "copilot-studio",
-      "declarative-agents",
-      "engineering",
-      "enterprise-ai",
-      "finance",
+      "autoregressive",
+      "diffusion-models",
       "generative-ai",
-      "hr",
-      "m365-copilot",
-      "microsoft-365",
-      "microsoft-copilot",
-      "productivity",
-      "project-management",
-      "prompt-engineering",
-      "prompt-library",
-      "responsible-ai",
-      "sales"
+      "long-video-generation",
+      "pytorch",
+      "retrieval-augmented-generation",
+      "video-diffusion",
+      "video-diffusion-model",
+      "video-generation",
+      "wan"
     ],
-    "created_at": "2026-05-27T12:46:48Z"
+    "created_at": "2026-05-31T03:28:12Z"
   }
 ]

@@ -4130,6 +4130,142 @@
     "image": null
   },
   {
+    "id": "rss-18b803ee",
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 02 Jun 2026 22:50:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ed584258",
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 02 Jun 2026 19:11:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f9405aa0",
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 02 Jun 2026 19:02:21 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1a9290e0",
+    "title": "Martin Scorsese becomes the latest \u2014 and most unlikely \u2014 Hollywood voice for AI",
+    "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 02 Jun 2026 18:16:53 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d011fdfd",
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "tags": [],
+    "category": "AI Policy",
+    "published_date": "Tue, 02 Jun 2026 18:02:44 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c9edca22",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 02 Jun 2026 14:13:23 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8462d1d0",
+    "title": "The Download: AI can run your admin department now",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 02 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fa84d034",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/travelers",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7c39f76d",
+    "title": "Rehumanizing global health care with agentic AI",
+    "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 02 Jun 2026 11:23:34 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9b923bad",
+    "title": "Codex for every role, tool, and workflow",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 02 Jun 2026 09:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-e0ba9cd4",
     "title": "How small businesses can leverage AI",
     "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here.",
@@ -4142,6 +4278,22 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 02 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ffa5f8be",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "tags": [
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Tue, 02 Jun 2026 07:00:00 GMT",
     "image": null
   },
   {
@@ -4170,165 +4322,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-485653f3",
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 30 Apr 2026 22:12:52 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4f23af2c",
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Thu, 30 Apr 2026 20:14:47 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fa5627bf",
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "tags": [
-      "GPT",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Thu, 30 Apr 2026 19:27:41 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3d553336",
-    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-    "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Thu, 30 Apr 2026 18:42:50 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9ec0466f",
-    "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
-    "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "tags": [
-      "LLM",
-      "startups"
-    ],
-    "category": "AI Tools",
-    "published_date": "Thu, 30 Apr 2026 15:59:41 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b59858ef",
-    "title": "Enabling a new model for healthcare with AI co-clinician",
-    "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/ai-co-clinician/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 30 Apr 2026 12:14:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-99c79c91",
-    "title": "The Download: the North Pole\u2019s future and humanoid data",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole\u2019s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Thu, 30 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-19231aea",
-    "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
-    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Thu, 30 Apr 2026 03:58:22 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ef01e2e7",
-    "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
-    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Thu, 30 Apr 2026 00:14:23 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-72ba5d8b",
-    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Thu, 30 Apr 2026 00:07:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7ec2acda",
-    "title": "Introducing Advanced Account Security",
-    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/advanced-account-security",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Thu, 30 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]
