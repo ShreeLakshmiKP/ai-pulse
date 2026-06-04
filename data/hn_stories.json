@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48370330",
-    "title": "Please don't spam people looking for employment. It's just cruel",
-    "url": "https://news.ycombinator.com/item?id=48370330",
-    "points": 926,
-    "comments": 260,
+    "id": "hn-48383056",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "points": 484,
+    "comments": 604,
     "source": "Hacker News",
-    "published_date": "2026-06-02T13:56:46Z"
+    "published_date": "2026-06-03T12:25:14Z"
   },
   {
-    "id": "hn-48371562",
-    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-    "url": "https://blog.ammaraskar.com/github-token-stealing/",
-    "points": 429,
-    "comments": 64,
+    "id": "hn-48383241",
+    "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "points": 400,
+    "comments": 359,
     "source": "Hacker News",
-    "published_date": "2026-06-02T15:29:05Z"
+    "published_date": "2026-06-03T12:43:43Z"
   },
   {
-    "id": "hn-48375824",
-    "title": "CT scans of BYD car parts",
-    "url": "https://www.lumafield.com/scan-of-the-month/byd",
-    "points": 391,
-    "comments": 236,
+    "id": "hn-48392004",
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "points": 285,
+    "comments": 219,
     "source": "Hacker News",
-    "published_date": "2026-06-02T20:30:08Z"
+    "published_date": "2026-06-04T00:18:02Z"
   },
   {
-    "id": "hn-48377404",
-    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-    "url": "https://github.com/c0dejedi/nbd-vram",
-    "points": 323,
-    "comments": 88,
+    "id": "hn-48382052",
+    "title": "Mathematicians issue warning as AI rapidly gains ground",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "points": 238,
+    "comments": 270,
     "source": "Hacker News",
-    "published_date": "2026-06-02T22:55:33Z"
+    "published_date": "2026-06-03T10:05:48Z"
   },
   {
-    "id": "hn-48377761",
-    "title": "AI outperforms law professors in Stanford Law study",
-    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "points": 261,
-    "comments": 202,
+    "id": "hn-48392343",
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "points": 216,
+    "comments": 86,
     "source": "Hacker News",
-    "published_date": "2026-06-02T23:43:12Z"
+    "published_date": "2026-06-04T00:56:32Z"
   },
   {
-    "id": "hn-48373054",
-    "title": "Three Ways to Get Paid (2018)",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "points": 214,
-    "comments": 140,
+    "id": "hn-48386725",
+    "title": "Gooey: A GPU-accelerated UI framework for Zig",
+    "url": "https://github.com/duanebester/gooey",
+    "points": 178,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-06-02T17:09:04Z"
+    "published_date": "2026-06-03T17:12:27Z"
   },
   {
-    "id": "hn-48372628",
-    "title": "Trump signs downsized AI order after weeks of reversals",
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "points": 213,
-    "comments": 157,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T16:40:16Z"
-  },
-  {
-    "id": "hn-48379203",
-    "title": "Agentic Mfw",
-    "url": "https://agenticmotherfucking.website",
-    "points": 187,
-    "comments": 54,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T02:32:48Z"
-  },
-  {
-    "id": "hn-48369863",
-    "title": "Expanding Project Glasswing",
-    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-    "points": 175,
-    "comments": 236,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T13:15:14Z"
-  },
-  {
-    "id": "hn-48371592",
-    "title": "Americans don't know how to fight AI so they're fighting data centers",
-    "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-    "points": 118,
-    "comments": 207,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T15:32:06Z"
-  },
-  {
-    "id": "hn-48373764",
-    "title": "GitHub Copilot App",
-    "url": "https://github.com/features/preview/github-app",
-    "points": 112,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T17:58:55Z"
-  },
-  {
-    "id": "hn-48374079",
-    "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-    "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-    "points": 89,
-    "comments": 81,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T18:19:27Z"
-  },
-  {
-    "id": "hn-48377854",
-    "title": "More than 6 out of 10 people turn to AI for psychological support",
-    "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-    "points": 76,
-    "comments": 74,
-    "source": "Hacker News",
-    "published_date": "2026-06-02T23:55:04Z"
-  },
-  {
-    "id": "hn-48375673",
-    "title": "Now AI agents need what RSS does",
-    "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-    "points": 74,
+    "id": "hn-48392082",
+    "title": "The ways we contain Claude across products",
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "points": 125,
     "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-06-02T20:19:11Z"
+    "published_date": "2026-06-04T00:27:52Z"
   },
   {
-    "id": "hn-48377250",
-    "title": "Show HN: Paseo \u2013 Beautiful open-source coding agent interface",
-    "url": "https://github.com/getpaseo/paseo",
-    "points": 70,
-    "comments": 44,
+    "id": "hn-48386129",
+    "title": "Show HN: Nutrepedia \u2013 Nutrition info in 29 locales built with Clojure and Htmx",
+    "url": "https://nutrepedia.com/en-us/",
+    "points": 121,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-06-02T22:34:42Z"
+    "published_date": "2026-06-03T16:24:46Z"
   },
   {
-    "id": "hn-48377455",
-    "title": "Why China got rich and India didn't",
-    "url": "https://davidoks.blog/p/why-china-got-rich-and-india-didnt",
-    "points": 64,
-    "comments": 66,
+    "id": "hn-48388909",
+    "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "points": 90,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-06-02T23:02:29Z"
+    "published_date": "2026-06-03T19:43:37Z"
   },
   {
-    "id": "hn-48375544",
-    "title": "Uber caps employee AI spending after blowing through budget in four months",
-    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "points": 62,
-    "comments": 47,
+    "id": "hn-48386529",
+    "title": "If AI data centers are so great, why are they being built in secret?",
+    "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+    "points": 84,
+    "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-06-02T20:09:13Z"
+    "published_date": "2026-06-03T16:57:11Z"
   },
   {
-    "id": "hn-48371292",
-    "title": "Show HN: Opstan, a decentralized social network on a PoW blockchain",
-    "url": "https://github.com/OpstanGit/opstan",
-    "points": 61,
-    "comments": 8,
+    "id": "hn-48390400",
+    "title": "A Mathematician's Lament (2002) [pdf]",
+    "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+    "points": 78,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-06-02T15:09:57Z"
+    "published_date": "2026-06-03T21:32:10Z"
   },
   {
-    "id": "hn-48370437",
-    "title": "AI Doesn't Have ROI",
-    "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
-    "points": 60,
-    "comments": 47,
+    "id": "hn-48387251",
+    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+    "points": 69,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-06-02T14:06:52Z"
+    "published_date": "2026-06-03T17:50:16Z"
   },
   {
-    "id": "hn-48377631",
-    "title": "LLMs are not the black box you were promised",
-    "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
-    "points": 54,
-    "comments": 36,
+    "id": "hn-48387095",
+    "title": "Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
+    "url": "https://news.ycombinator.com/item?id=48387095",
+    "points": 67,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-06-02T23:27:30Z"
+    "published_date": "2026-06-03T17:39:53Z"
+  },
+  {
+    "id": "hn-48391838",
+    "title": "The \u00dc Programming Language",
+    "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+    "points": 52,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T00:00:04Z"
+  },
+  {
+    "id": "hn-48389586",
+    "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "url": "https://github.com/zaydmulani09/mnemo",
+    "points": 43,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T20:32:10Z"
+  },
+  {
+    "id": "hn-48385829",
+    "title": "Show HN: Ideogram 4.0 \u2013 open-weight 9.3B text-to-image model",
+    "url": "https://github.com/ideogram-oss/ideogram4",
+    "points": 42,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T16:00:09Z"
+  },
+  {
+    "id": "hn-48386343",
+    "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+    "url": "https://github.com/loadingalias/rscrypto",
+    "points": 30,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T16:41:14Z"
+  },
+  {
+    "id": "hn-48383564",
+    "title": "Claude Opus 4.8 Max responding to an empty message",
+    "url": "https://xcancel.com/davidad/status/2061858258046898518",
+    "points": 27,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T13:14:29Z"
+  },
+  {
+    "id": "hn-48384125",
+    "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+    "url": "https://shirleymaxx.github.io/REST3D/",
+    "points": 26,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T13:53:03Z"
+  },
+  {
+    "id": "hn-48383258",
+    "title": "Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight",
+    "url": "https://simpleflying.com/project-sunrise-qantas-a350-1000ulr-maiden-flight/",
+    "points": 23,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-06-03T12:45:22Z"
   }
 ]
