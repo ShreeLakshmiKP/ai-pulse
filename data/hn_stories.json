@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48383056",
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "points": 484,
-    "comments": 604,
+    "id": "hn-48400842",
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "points": 453,
+    "comments": 610,
     "source": "Hacker News",
-    "published_date": "2026-06-03T12:25:14Z"
+    "published_date": "2026-06-04T16:20:17Z"
   },
   {
-    "id": "hn-48383241",
-    "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
-    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-    "points": 400,
-    "comments": 359,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T12:43:43Z"
-  },
-  {
-    "id": "hn-48392004",
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "points": 285,
-    "comments": 219,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T00:18:02Z"
-  },
-  {
-    "id": "hn-48382052",
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
-    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "points": 238,
-    "comments": 270,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T10:05:48Z"
-  },
-  {
-    "id": "hn-48392343",
-    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-    "points": 216,
-    "comments": 86,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T00:56:32Z"
-  },
-  {
-    "id": "hn-48386725",
-    "title": "Gooey: A GPU-accelerated UI framework for Zig",
-    "url": "https://github.com/duanebester/gooey",
-    "points": 178,
-    "comments": 69,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T17:12:27Z"
-  },
-  {
-    "id": "hn-48392082",
-    "title": "The ways we contain Claude across products",
-    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-    "points": 125,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T00:27:52Z"
-  },
-  {
-    "id": "hn-48386129",
-    "title": "Show HN: Nutrepedia \u2013 Nutrition info in 29 locales built with Clojure and Htmx",
-    "url": "https://nutrepedia.com/en-us/",
-    "points": 121,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T16:24:46Z"
-  },
-  {
-    "id": "hn-48388909",
-    "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-    "url": "https://github.com/tastyeffectco/sandboxes",
-    "points": 90,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-06-03T19:43:37Z"
-  },
-  {
-    "id": "hn-48386529",
-    "title": "If AI data centers are so great, why are they being built in secret?",
-    "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
-    "points": 84,
+    "id": "hn-48403980",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "points": 415,
     "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-06-03T16:57:11Z"
+    "published_date": "2026-06-04T20:11:20Z"
   },
   {
-    "id": "hn-48390400",
-    "title": "A Mathematician's Lament (2002) [pdf]",
-    "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-    "points": 78,
-    "comments": 5,
+    "id": "hn-48406358",
+    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+    "url": "https://github.com/alibaba/open-code-review",
+    "points": 177,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-06-03T21:32:10Z"
+    "published_date": "2026-06-05T00:04:29Z"
   },
   {
-    "id": "hn-48387251",
-    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-    "points": 69,
-    "comments": 5,
+    "id": "hn-48400311",
+    "title": "Google employees internally share memes about how its AI sucks",
+    "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+    "points": 159,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-06-03T17:50:16Z"
+    "published_date": "2026-06-04T15:42:33Z"
   },
   {
-    "id": "hn-48387095",
-    "title": "Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
-    "url": "https://news.ycombinator.com/item?id=48387095",
-    "points": 67,
-    "comments": 60,
+    "id": "hn-48403377",
+    "title": "WSL 2 is getting faster Windows file system access",
+    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "points": 142,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-06-03T17:39:53Z"
+    "published_date": "2026-06-04T19:21:18Z"
   },
   {
-    "id": "hn-48391838",
-    "title": "The \u00dc Programming Language",
-    "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-    "points": 52,
-    "comments": 51,
+    "id": "hn-48399974",
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "points": 133,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-06-04T00:00:04Z"
+    "published_date": "2026-06-04T15:18:00Z"
   },
   {
-    "id": "hn-48389586",
-    "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-    "url": "https://github.com/zaydmulani09/mnemo",
-    "points": 43,
-    "comments": 17,
+    "id": "hn-48406198",
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "points": 128,
+    "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-06-03T20:32:10Z"
+    "published_date": "2026-06-04T23:45:56Z"
   },
   {
-    "id": "hn-48385829",
-    "title": "Show HN: Ideogram 4.0 \u2013 open-weight 9.3B text-to-image model",
-    "url": "https://github.com/ideogram-oss/ideogram4",
-    "points": 42,
-    "comments": 9,
+    "id": "hn-48400213",
+    "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
+    "url": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
+    "points": 113,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-06-03T16:00:09Z"
+    "published_date": "2026-06-04T15:34:43Z"
   },
   {
-    "id": "hn-48386343",
-    "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
-    "url": "https://github.com/loadingalias/rscrypto",
-    "points": 30,
+    "id": "hn-48399358",
+    "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+    "url": "https://boxes.dev",
+    "points": 90,
+    "comments": 64,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T14:38:35Z"
+  },
+  {
+    "id": "hn-48408031",
+    "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+    "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+    "points": 66,
+    "comments": 59,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T04:38:41Z"
+  },
+  {
+    "id": "hn-48399528",
+    "title": "AI, Ashby Engineering, and the future",
+    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+    "points": 59,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T14:48:44Z"
+  },
+  {
+    "id": "hn-48408442",
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "points": 55,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T05:46:06Z"
+  },
+  {
+    "id": "hn-48404732",
+    "title": "Show HN: Mercek \u2013 A Desktop IDE for AWS ECS",
+    "url": "https://www.mercek.dev/",
+    "points": 55,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T21:15:16Z"
+  },
+  {
+    "id": "hn-48405264",
+    "title": "Show HN: Formally verified polygon intersection \u2013 Opus 4.8 oneshots, prev failed",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "points": 45,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T22:06:18Z"
+  },
+  {
+    "id": "hn-48401973",
+    "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
+    "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
+    "points": 40,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T17:39:59Z"
+  },
+  {
+    "id": "hn-48404658",
+    "title": "AI will consume as much water in 2030 as 1.3B people",
+    "url": "https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html",
+    "points": 32,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-06-04T21:07:34Z"
+  },
+  {
+    "id": "hn-48407401",
+    "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
+    "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
+    "points": 32,
     "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-06-03T16:41:14Z"
+    "published_date": "2026-06-05T02:54:33Z"
   },
   {
-    "id": "hn-48383564",
-    "title": "Claude Opus 4.8 Max responding to an empty message",
-    "url": "https://xcancel.com/davidad/status/2061858258046898518",
-    "points": 27,
-    "comments": 4,
+    "id": "hn-48397677",
+    "title": "Machine learning using Clojure, libpython-clj2, and PyTorch",
+    "url": "https://www.wedesoft.de/ai/2026/05/26/mlp/",
+    "points": 32,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-06-03T13:14:29Z"
+    "published_date": "2026-06-04T12:27:44Z"
   },
   {
-    "id": "hn-48384125",
-    "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
-    "url": "https://shirleymaxx.github.io/REST3D/",
-    "points": 26,
-    "comments": 2,
+    "id": "hn-48397634",
+    "title": "Ask HN: How do you find deep technical content?",
+    "url": "https://news.ycombinator.com/item?id=48397634",
+    "points": 31,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-06-03T13:53:03Z"
+    "published_date": "2026-06-04T12:21:55Z"
   },
   {
-    "id": "hn-48383258",
-    "title": "Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight",
-    "url": "https://simpleflying.com/project-sunrise-qantas-a350-1000ulr-maiden-flight/",
-    "points": 23,
-    "comments": 1,
+    "id": "hn-48397148",
+    "title": "Show HN: Cost.dev (YC W21) \u2013 making agents cost-aware and cheaper to call",
+    "url": "https://cost.dev/",
+    "points": 30,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-06-03T12:45:22Z"
+    "published_date": "2026-06-04T11:30:13Z"
   }
 ]

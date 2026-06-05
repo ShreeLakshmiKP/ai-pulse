@@ -1,10 +1,47 @@
 [
   {
+    "id": "gh-1258621567",
+    "name": "tastyeffectco/sandboxes",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "stars": 409,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "dev-environment",
+      "docker",
+      "isolation",
+      "preview",
+      "preview-environment",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-06-03T18:55:02Z"
+  },
+  {
+    "id": "gh-1255069527",
+    "name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "url": "https://github.com/PentesterFlow/agent",
+    "stars": 276,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "bugbounty",
+      "penetration-testing",
+      "security-audit",
+      "security-automation"
+    ],
+    "created_at": "2026-05-31T11:14:35Z"
+  },
+  {
     "id": "gh-1255267904",
     "name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 241,
+    "stars": 257,
     "language": "Swift",
     "topics": [
       "ai",
@@ -21,28 +58,11 @@
     "created_at": "2026-05-31T16:08:48Z"
   },
   {
-    "id": "gh-1255069527",
-    "name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 233,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
-    ],
-    "created_at": "2026-05-31T11:14:35Z"
-  },
-  {
     "id": "gh-1255251478",
     "name": "duncatzat/vigils",
     "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
     "url": "https://github.com/duncatzat/vigils",
-    "stars": 205,
+    "stars": 242,
     "language": "Rust",
     "topics": [
       "agent-security",
@@ -57,6 +77,22 @@
       "tauri"
     ],
     "created_at": "2026-05-31T15:45:25Z"
+  },
+  {
+    "id": "gh-1256791924",
+    "name": "Soul-AILab/SoulX-Transcriber",
+    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+    "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+    "stars": 182,
+    "language": "Python",
+    "topics": [
+      "asr",
+      "llm",
+      "sd",
+      "sdr",
+      "speech-recognition"
+    ],
+    "created_at": "2026-06-02T05:08:08Z"
   },
   {
     "id": "gh-1255127700",
@@ -88,20 +124,35 @@
     "created_at": "2026-05-31T12:48:13Z"
   },
   {
-    "id": "gh-1256791924",
-    "name": "Soul-AILab/SoulX-Transcriber",
-    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-    "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-    "stars": 153,
-    "language": "Python",
+    "id": "gh-1255637579",
+    "name": "couragec/LLMInternSkill",
+    "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. \u5927\u6a21\u578b\u5b9e\u4e60\u7b80\u5386\u4e0e\u6c42\u804c\u5de5\u5177\u7bb1\u3002",
+    "url": "https://github.com/couragec/LLMInternSkill",
+    "stars": 111,
+    "language": "Markdown",
     "topics": [
-      "asr",
+      "agent",
+      "ai-career",
+      "aigc",
+      "chinese",
+      "codex-skill",
+      "interview-prep",
+      "jd-tailoring",
+      "job-search",
+      "latex-resume",
       "llm",
-      "sd",
-      "sdr",
-      "speech-recognition"
+      "llm-internship",
+      "multimodal",
+      "openai-codex",
+      "post-training",
+      "pretraining",
+      "project-scout",
+      "rag",
+      "resume",
+      "resume-polish",
+      "search-ranking"
     ],
-    "created_at": "2026-06-02T05:08:08Z"
+    "created_at": "2026-06-01T03:20:26Z"
   },
   {
     "id": "gh-1255644879",
@@ -129,7 +180,7 @@
     "name": "ethanhq/cc-fleet",
     "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagents \ud83d\ude80 \uff5c\ud83e\udd16 \u8ba9 Claude Code \u63a5\u5165\u4efb\u610f\u7b2c\u4e09\u65b9\u6a21\u578b(DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026\u2026),\u4f5c\u4e3a\u539f\u751f Agent Team Teammate \u6216 \u26a1 \u4e00\u6b21\u6027 subagent \u4e3a\u4f60\u5e72\u6d3b \ud83d\ude80",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 84,
+    "stars": 97,
     "language": "Go",
     "topics": [
       "ai",
@@ -143,6 +194,25 @@
       "claude-skills"
     ],
     "created_at": "2026-05-30T07:20:37Z"
+  },
+  {
+    "id": "gh-1256946355",
+    "name": "2417467487-hub/WorldCupROI",
+    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
+    "url": "https://github.com/2417467487-hub/WorldCupROI",
+    "stars": 81,
+    "language": "Python",
+    "topics": [
+      "business-intelligence",
+      "machine-learning",
+      "plotly",
+      "roi-prediction",
+      "sponsorship",
+      "sports-analytics",
+      "streamlit",
+      "world-cup"
+    ],
+    "created_at": "2026-06-02T08:15:02Z"
   },
   {
     "id": "gh-1255005802",
@@ -176,68 +246,11 @@
     "created_at": "2026-05-31T09:24:15Z"
   },
   {
-    "id": "gh-1258377532",
-    "name": "razr001/align-dev",
-    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Cursor, Copilot, and other agents write consistently.",
-    "url": "https://github.com/razr001/align-dev",
-    "stars": 58,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "claude-code",
-      "codex",
-      "fronted",
-      "nextjs",
-      "skills"
-    ],
-    "created_at": "2026-06-03T14:19:33Z"
-  },
-  {
-    "id": "gh-1254936535",
-    "name": "argahv/sisyphus-academica",
-    "description": "Open-source research pipeline \u2014 literature review, novelty generation, citation verification, and adversarial review.",
-    "url": "https://github.com/argahv/sisyphus-academica",
-    "stars": 42,
-    "language": "Python",
-    "topics": [
-      "academic-writing",
-      "arxiv",
-      "citation-verification",
-      "latex",
-      "literature-review",
-      "machine-learning",
-      "multi-agent",
-      "novelty",
-      "open-source",
-      "research"
-    ],
-    "created_at": "2026-05-31T07:22:28Z"
-  },
-  {
-    "id": "gh-1256946355",
-    "name": "2417467487-hub/WorldCupROI",
-    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
-    "url": "https://github.com/2417467487-hub/WorldCupROI",
-    "stars": 41,
-    "language": "HTML",
-    "topics": [
-      "business-intelligence",
-      "machine-learning",
-      "plotly",
-      "roi-prediction",
-      "sponsorship",
-      "sports-analytics",
-      "streamlit",
-      "world-cup"
-    ],
-    "created_at": "2026-06-02T08:15:02Z"
-  },
-  {
     "id": "gh-1254821193",
     "name": "qixinhu11/LongLive-RAG",
     "description": "Official Implementation of LongLive-RAG: A general retrieval-augmented framework for long video generation.",
     "url": "https://github.com/qixinhu11/LongLive-RAG",
-    "stars": 40,
+    "stars": 47,
     "language": "Python",
     "topics": [
       "autoregressive",
@@ -254,21 +267,25 @@
     "created_at": "2026-05-31T03:28:12Z"
   },
   {
-    "id": "gh-1253229410",
-    "name": "keshik6/gpic",
-    "description": "Official Code for GPIC: A Giant Permissive Image Corpus for Visual Generation",
-    "url": "https://github.com/keshik6/gpic",
-    "stars": 32,
+    "id": "gh-1254936535",
+    "name": "argahv/sisyphus-academica",
+    "description": "Open-source research pipeline \u2014 literature review, novelty generation, citation verification, and adversarial review.",
+    "url": "https://github.com/argahv/sisyphus-academica",
+    "stars": 44,
     "language": "Python",
     "topics": [
-      "flow-matching",
-      "generative-ai",
-      "jit",
-      "large-scale-dataset",
-      "text-to-image",
-      "text-to-image-generation"
+      "academic-writing",
+      "arxiv",
+      "citation-verification",
+      "latex",
+      "literature-review",
+      "machine-learning",
+      "multi-agent",
+      "novelty",
+      "open-source",
+      "research"
     ],
-    "created_at": "2026-05-29T09:05:47Z"
+    "created_at": "2026-05-31T07:22:28Z"
   },
   {
     "id": "gh-1256183986",
@@ -289,19 +306,27 @@
     "created_at": "2026-06-01T14:38:34Z"
   },
   {
-    "id": "gh-1257287344",
-    "name": "Glossarmanage38/Stable-Diffusion-Pro-cracked",
-    "description": "Stable Diffusion Pro - Open-source AI image generation with customizable models and workflows. Comprehensive guide with setup instructions, feature highlights, and system requirements.",
-    "url": "https://github.com/Glossarmanage38/Stable-Diffusion-Pro-cracked",
-    "stars": 23,
-    "language": null,
+    "id": "gh-1256386246",
+    "name": "crimeacs/auto-improve",
+    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
+    "url": "https://github.com/crimeacs/auto-improve",
+    "stars": 18,
+    "language": "Python",
     "topics": [
-      "ai-image",
+      "ai-agents",
+      "developer-tools",
+      "evaluation",
+      "gan",
+      "gemini",
       "generative-ai",
-      "open-source",
-      "stable-diffusion",
-      "text-to-image"
+      "llm",
+      "prompt-engineering",
+      "python",
+      "rlaif",
+      "rust",
+      "self-improvement",
+      "text-generation"
     ],
-    "created_at": "2026-06-02T14:35:11Z"
+    "created_at": "2026-06-01T18:20:23Z"
   }
 ]
