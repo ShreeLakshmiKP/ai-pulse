@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48400842",
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "points": 453,
-    "comments": 610,
+    "id": "hn-48411635",
+    "title": "Did Claude increase bugs in rsync?",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "points": 398,
+    "comments": 401,
     "source": "Hacker News",
-    "published_date": "2026-06-04T16:20:17Z"
+    "published_date": "2026-06-05T12:43:33Z"
   },
   {
-    "id": "hn-48403980",
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "points": 415,
-    "comments": 119,
+    "id": "hn-48413464",
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "points": 387,
+    "comments": 249,
     "source": "Hacker News",
-    "published_date": "2026-06-04T20:11:20Z"
+    "published_date": "2026-06-05T15:00:31Z"
   },
   {
-    "id": "hn-48406358",
-    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-    "url": "https://github.com/alibaba/open-code-review",
-    "points": 177,
-    "comments": 47,
+    "id": "hn-48411510",
+    "title": "Programmers will document for Claude, but not for each other",
+    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+    "points": 180,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-06-05T00:04:29Z"
+    "published_date": "2026-06-05T12:30:17Z"
   },
   {
-    "id": "hn-48400311",
-    "title": "Google employees internally share memes about how its AI sucks",
-    "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
-    "points": 159,
-    "comments": 103,
+    "id": "hn-48417916",
+    "title": "Hacker News, Sans AI",
+    "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+    "points": 164,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-06-04T15:42:33Z"
+    "published_date": "2026-06-05T20:38:40Z"
   },
   {
-    "id": "hn-48403377",
-    "title": "WSL 2 is getting faster Windows file system access",
-    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-    "points": 142,
-    "comments": 103,
+    "id": "hn-48413629",
+    "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+    "url": "https://news.ycombinator.com/item?id=48413629",
+    "points": 132,
+    "comments": 118,
     "source": "Hacker News",
-    "published_date": "2026-06-04T19:21:18Z"
+    "published_date": "2026-06-05T15:13:54Z"
   },
   {
-    "id": "hn-48399974",
-    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-    "url": "https://github.com/huawei-csl/KVarN",
-    "points": 133,
-    "comments": 13,
+    "id": "hn-48420827",
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "url": "https://news.ycombinator.com/item?id=48420827",
+    "points": 127,
+    "comments": 236,
     "source": "Hacker News",
-    "published_date": "2026-06-04T15:18:00Z"
+    "published_date": "2026-06-06T02:31:51Z"
   },
   {
-    "id": "hn-48406198",
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "points": 128,
-    "comments": 101,
+    "id": "hn-48409955",
+    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "url": "https://github.com/zdk/lowfat",
+    "points": 127,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-06-04T23:45:56Z"
+    "published_date": "2026-06-05T09:10:42Z"
   },
   {
-    "id": "hn-48400213",
-    "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-    "url": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
-    "points": 113,
-    "comments": 104,
+    "id": "hn-48411799",
+    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+    "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+    "points": 85,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-06-04T15:34:43Z"
+    "published_date": "2026-06-05T12:56:44Z"
   },
   {
-    "id": "hn-48399358",
-    "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-    "url": "https://boxes.dev",
-    "points": 90,
-    "comments": 64,
+    "id": "hn-48419023",
+    "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+    "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+    "points": 67,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-06-04T14:38:35Z"
+    "published_date": "2026-06-05T22:12:58Z"
   },
   {
-    "id": "hn-48408031",
-    "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-    "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+    "id": "hn-48413924",
+    "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+    "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
     "points": 66,
-    "comments": 59,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-06-05T04:38:41Z"
+    "published_date": "2026-06-05T15:32:58Z"
   },
   {
-    "id": "hn-48399528",
-    "title": "AI, Ashby Engineering, and the future",
-    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-    "points": 59,
-    "comments": 44,
+    "id": "hn-48414869",
+    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
+    "url": "https://news.ycombinator.com/item?id=48414869",
+    "points": 51,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-06-04T14:48:44Z"
+    "published_date": "2026-06-05T16:33:00Z"
   },
   {
-    "id": "hn-48408442",
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "points": 55,
-    "comments": 16,
+    "id": "hn-48410589",
+    "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+    "url": "https://news.ycombinator.com/item?id=48410589",
+    "points": 36,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-06-05T05:46:06Z"
+    "published_date": "2026-06-05T10:43:28Z"
   },
   {
-    "id": "hn-48404732",
-    "title": "Show HN: Mercek \u2013 A Desktop IDE for AWS ECS",
-    "url": "https://www.mercek.dev/",
-    "points": 55,
-    "comments": 20,
+    "id": "hn-48418318",
+    "title": "Microsoft Compromised Again. Shuts Down Azure Function GitHub Actions",
+    "url": "https://opensourcemalware.com/blog/miasma-reaches-azure",
+    "points": 36,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-06-04T21:15:16Z"
+    "published_date": "2026-06-05T21:08:39Z"
   },
   {
-    "id": "hn-48405264",
-    "title": "Show HN: Formally verified polygon intersection \u2013 Opus 4.8 oneshots, prev failed",
-    "url": "https://github.com/schildep/verified-polygon-intersection",
-    "points": 45,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T22:06:18Z"
-  },
-  {
-    "id": "hn-48401973",
-    "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
-    "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
-    "points": 40,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T17:39:59Z"
-  },
-  {
-    "id": "hn-48404658",
-    "title": "AI will consume as much water in 2030 as 1.3B people",
-    "url": "https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html",
-    "points": 32,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T21:07:34Z"
-  },
-  {
-    "id": "hn-48407401",
-    "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
-    "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
-    "points": 32,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-06-05T02:54:33Z"
-  },
-  {
-    "id": "hn-48397677",
-    "title": "Machine learning using Clojure, libpython-clj2, and PyTorch",
-    "url": "https://www.wedesoft.de/ai/2026/05/26/mlp/",
-    "points": 32,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T12:27:44Z"
-  },
-  {
-    "id": "hn-48397634",
-    "title": "Ask HN: How do you find deep technical content?",
-    "url": "https://news.ycombinator.com/item?id=48397634",
-    "points": 31,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-06-04T12:21:55Z"
-  },
-  {
-    "id": "hn-48397148",
-    "title": "Show HN: Cost.dev (YC W21) \u2013 making agents cost-aware and cheaper to call",
-    "url": "https://cost.dev/",
-    "points": 30,
+    "id": "hn-48420494",
+    "title": "Show HN: ABC Classic 100 Rankings visualised",
+    "url": "https://classic100.gotski.workers.dev/",
+    "points": 28,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-06-04T11:30:13Z"
+    "published_date": "2026-06-06T01:32:09Z"
+  },
+  {
+    "id": "hn-48415633",
+    "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+    "url": "https://sakana.ai/rsi-lab/",
+    "points": 27,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T17:27:39Z"
+  },
+  {
+    "id": "hn-48418949",
+    "title": "Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
+    "url": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
+    "points": 26,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T22:02:27Z"
+  },
+  {
+    "id": "hn-48413543",
+    "title": "The British university is dying, and it seems that almost nobody cares",
+    "url": "https://newleftreview.org/sidecar/posts/irreversible",
+    "points": 25,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T15:07:11Z"
+  },
+  {
+    "id": "hn-48419614",
+    "title": "Show HN: I nerfed our coding agents on purpose",
+    "url": "https://news.ycombinator.com/item?id=48419614",
+    "points": 25,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T23:19:14Z"
+  },
+  {
+    "id": "hn-48413273",
+    "title": "ISS astronauts prepare for possible evacuation due to air leak",
+    "url": "https://www.reuters.com/world/nasa-live-international-space-station-astronauts-prepare-possible-evacuation-due-2026-06-05/",
+    "points": 23,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-06-05T14:46:36Z"
+  },
+  {
+    "id": "hn-48420481",
+    "title": "Alzheimer's patient gets back speech, bladder control and memory in drug trial",
+    "url": "https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/",
+    "points": 22,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-06-06T01:30:09Z"
   }
 ]
