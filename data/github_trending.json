@@ -4,7 +4,7 @@
     "name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 446,
+    "stars": 478,
     "language": "Go",
     "topics": [
       "ai",
@@ -20,70 +20,30 @@
     "created_at": "2026-06-03T18:55:02Z"
   },
   {
-    "id": "gh-1255069527",
-    "name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 298,
+    "id": "gh-1258377532",
+    "name": "razr001/align-dev",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+    "url": "https://github.com/razr001/align-dev",
+    "stars": 257,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
+      "claude-code",
+      "codex",
+      "copilot",
+      "cursor",
+      "fronted",
+      "nextjs",
+      "skills"
     ],
-    "created_at": "2026-05-31T11:14:35Z"
-  },
-  {
-    "id": "gh-1255251478",
-    "name": "duncatzat/vigils",
-    "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-    "url": "https://github.com/duncatzat/vigils",
-    "stars": 281,
-    "language": "Rust",
-    "topics": [
-      "agent-security",
-      "ai-agents",
-      "audit-log",
-      "desktop",
-      "llm",
-      "local-first",
-      "pii",
-      "rust",
-      "sandbox",
-      "tauri"
-    ],
-    "created_at": "2026-05-31T15:45:25Z"
-  },
-  {
-    "id": "gh-1255267904",
-    "name": "johnbean393/KeyType",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-    "url": "https://github.com/johnbean393/KeyType",
-    "stars": 266,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "ai-autocomplete",
-      "autocomplete",
-      "completions",
-      "cotabby",
-      "cotypist",
-      "gemma4",
-      "llm",
-      "macos",
-      "qwen3-5"
-    ],
-    "created_at": "2026-05-31T16:08:48Z"
+    "created_at": "2026-06-03T14:19:33Z"
   },
   {
     "id": "gh-1256791924",
     "name": "Soul-AILab/SoulX-Transcriber",
     "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
     "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-    "stars": 189,
+    "stars": 193,
     "language": "Python",
     "topics": [
       "asr",
@@ -95,40 +55,11 @@
     "created_at": "2026-06-02T05:08:08Z"
   },
   {
-    "id": "gh-1255127700",
-    "name": "stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
-    "url": "https://github.com/stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "stars": 182,
-    "language": "C#",
-    "topics": [
-      "ai-deep-fake",
-      "audio-deepfake-detection",
-      "deep-ai",
-      "deep-fake-ai",
-      "deepfake",
-      "deepfake-ai",
-      "deepfake-detection",
-      "deepfake-generation",
-      "deepfake-software",
-      "deepfake-videos",
-      "face-swap",
-      "faceswap",
-      "fake-image-detection",
-      "llm",
-      "neural-voice-synthesis",
-      "real-time-deepfake",
-      "realtime-face-changer",
-      "video-deepfake"
-    ],
-    "created_at": "2026-05-31T12:48:13Z"
-  },
-  {
     "id": "gh-1255637579",
     "name": "couragec/LLMInternSkill",
     "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. \u5927\u6a21\u578b\u5b9e\u4e60\u7b80\u5386\u4e0e\u6c42\u804c\u5de5\u5177\u7bb1\u3002",
     "url": "https://github.com/couragec/LLMInternSkill",
-    "stars": 141,
+    "stars": 155,
     "language": "Markdown",
     "topics": [
       "agent",
@@ -155,30 +86,30 @@
     "created_at": "2026-06-01T03:20:26Z"
   },
   {
-    "id": "gh-1258377532",
-    "name": "razr001/align-dev",
-    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-    "url": "https://github.com/razr001/align-dev",
-    "stars": 139,
-    "language": "TypeScript",
+    "id": "gh-1256946355",
+    "name": "2417467487-hub/WorldCupROI",
+    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
+    "url": "https://github.com/2417467487-hub/WorldCupROI",
+    "stars": 121,
+    "language": "Python",
     "topics": [
-      "ai",
-      "claude-code",
-      "codex",
-      "copilot",
-      "cursor",
-      "fronted",
-      "nextjs",
-      "skills"
+      "business-intelligence",
+      "machine-learning",
+      "plotly",
+      "roi-prediction",
+      "sponsorship",
+      "sports-analytics",
+      "streamlit",
+      "world-cup"
     ],
-    "created_at": "2026-06-03T14:19:33Z"
+    "created_at": "2026-06-02T08:15:02Z"
   },
   {
     "id": "gh-1255644879",
     "name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini \u2014 or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 105,
+    "stars": 112,
     "language": "JavaScript",
     "topics": [
       "agents-md",
@@ -195,61 +126,47 @@
     "created_at": "2026-06-01T03:32:48Z"
   },
   {
-    "id": "gh-1256946355",
-    "name": "2417467487-hub/WorldCupROI",
-    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
-    "url": "https://github.com/2417467487-hub/WorldCupROI",
-    "stars": 101,
+    "id": "gh-1258221473",
+    "name": "AI272/speaker",
+    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
+    "url": "https://github.com/AI272/speaker",
+    "stars": 97,
     "language": "Python",
     "topics": [
-      "business-intelligence",
-      "machine-learning",
-      "plotly",
-      "roi-prediction",
-      "sponsorship",
-      "sports-analytics",
-      "streamlit",
-      "world-cup"
+      "ai",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "codex-skill",
+      "skill"
     ],
-    "created_at": "2026-06-02T08:15:02Z"
+    "created_at": "2026-06-03T11:33:33Z"
   },
   {
-    "id": "gh-1255005802",
-    "name": "lilliancrivaro27064501728/AI-Photo-Background-Remover",
-    "description": "An easy-to-use desktop utility powered by AI to automatically remove background from photos locally, offline, and in high resolution.",
-    "url": "https://github.com/lilliancrivaro27064501728/AI-Photo-Background-Remover",
-    "stars": 76,
+    "id": "gh-1258006305",
+    "name": "Happy-Chen-CH/text_classification",
+    "description": "This is a text classification project based on the \"Category News\" feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs\u2014let's work together to fix them.",
+    "url": "https://github.com/Happy-Chen-CH/text_classification",
+    "stars": 79,
     "language": "Python",
     "topics": [
-      "ai-background-removal",
-      "auto-background-remover",
-      "background-extraction",
-      "background-generation",
-      "background-removal",
-      "background-subtraction",
-      "backgroundremover",
-      "baseline-removal",
-      "bg-remove",
-      "generative-ai",
-      "image-manipulation",
-      "image-upscaling",
-      "object-removal-tools",
-      "photo-editor",
-      "prompt-engineering",
-      "remove-background",
-      "remove-background-image",
-      "remove-bg",
-      "remove-bg-alternative",
-      "removebg-api"
+      "ai",
+      "bert",
+      "distilbert",
+      "fasttext-python",
+      "python",
+      "random-forest-classifier",
+      "tensorflow",
+      "text-classification"
     ],
-    "created_at": "2026-05-31T09:24:15Z"
+    "created_at": "2026-06-03T07:39:51Z"
   },
   {
     "id": "gh-1256747268",
     "name": "Somnusochi/VLM-AutoYOLO",
     "description": "AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA LocateAnything-3B, manual refinement, one-click YOLO training, video keyframe extraction, and model validation. Supports image and video.",
     "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 54,
+    "stars": 75,
     "language": "Python",
     "topics": [
       "auto-labeling",
@@ -272,46 +189,77 @@
     "created_at": "2026-06-02T03:55:53Z"
   },
   {
-    "id": "gh-1254821193",
-    "name": "qixinhu11/LongLive-RAG",
-    "description": "Official Implementation of LongLive-RAG: A general retrieval-augmented framework for long video generation.",
-    "url": "https://github.com/qixinhu11/LongLive-RAG",
-    "stars": 48,
+    "id": "gh-1260030086",
+    "name": "zengxiao-he/tessera",
+    "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+    "url": "https://github.com/zengxiao-he/tessera",
+    "stars": 56,
     "language": "Python",
     "topics": [
-      "autoregressive",
-      "diffusion-models",
-      "generative-ai",
-      "long-video-generation",
+      "cuda",
+      "flash-attention",
+      "fsdp",
+      "inference-engine",
+      "jax",
+      "knowledge-distillation",
+      "kv-cache",
+      "llm",
+      "mechanistic-interpretability",
+      "ml-systems",
+      "paged-attention",
       "pytorch",
-      "retrieval-augmented-generation",
-      "video-diffusion",
-      "video-diffusion-model",
-      "video-generation",
-      "wan"
+      "quantization",
+      "rust",
+      "speculative-decoding",
+      "triton"
     ],
-    "created_at": "2026-05-31T03:28:12Z"
+    "created_at": "2026-06-05T05:02:09Z"
   },
   {
-    "id": "gh-1254936535",
-    "name": "argahv/sisyphus-academica",
-    "description": "Open-source research pipeline \u2014 literature review, novelty generation, citation verification, and adversarial review.",
-    "url": "https://github.com/argahv/sisyphus-academica",
-    "stars": 45,
+    "id": "gh-1259424581",
+    "name": "myccarl/ai-shortVideo-pipeline",
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+    "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+    "stars": 53,
     "language": "Python",
     "topics": [
-      "academic-writing",
-      "arxiv",
-      "citation-verification",
-      "latex",
-      "literature-review",
-      "machine-learning",
-      "multi-agent",
-      "novelty",
-      "open-source",
-      "research"
+      "ai",
+      "ai-pipeline",
+      "circuit-breaker",
+      "clip-model",
+      "deepseek",
+      "docker-compose",
+      "failover",
+      "fastapi",
+      "ffmpeg",
+      "java",
+      "kling",
+      "langfuse",
+      "llm",
+      "multi-model",
+      "prompt-engineering",
+      "python",
+      "resilience4j",
+      "short-video",
+      "spring-boot",
+      "video-generation"
     ],
-    "created_at": "2026-05-31T07:22:28Z"
+    "created_at": "2026-06-04T13:49:51Z"
+  },
+  {
+    "id": "gh-1261546884",
+    "name": "fjordravenrecoup/RunwayML-Premium-Windows",
+    "description": "Powerful AI magic tools for video editing, text-to-video generation, and VFX.",
+    "url": "https://github.com/fjordravenrecoup/RunwayML-Premium-Windows",
+    "stars": 24,
+    "language": null,
+    "topics": [
+      "ai-video",
+      "generative-ai",
+      "runwayml",
+      "text-to-video"
+    ],
+    "created_at": "2026-06-06T20:51:32Z"
   },
   {
     "id": "gh-1256183986",
@@ -330,5 +278,44 @@
       "unsloth"
     ],
     "created_at": "2026-06-01T14:38:34Z"
+  },
+  {
+    "id": "gh-1261548466",
+    "name": "MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
+    "description": "Revolutionary AI music generator producing high-quality full songs with vocals.",
+    "url": "https://github.com/MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
+    "stars": 22,
+    "language": null,
+    "topics": [
+      "ai-music",
+      "generative-ai",
+      "music-generator",
+      "suno-ai"
+    ],
+    "created_at": "2026-06-06T20:55:04Z"
+  },
+  {
+    "id": "gh-1256386246",
+    "name": "crimeacs/auto-improve",
+    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
+    "url": "https://github.com/crimeacs/auto-improve",
+    "stars": 19,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "evaluation",
+      "gan",
+      "gemini",
+      "generative-ai",
+      "llm",
+      "prompt-engineering",
+      "python",
+      "rlaif",
+      "rust",
+      "self-improvement",
+      "text-generation"
+    ],
+    "created_at": "2026-06-01T18:20:23Z"
   }
 ]
