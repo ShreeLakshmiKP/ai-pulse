@@ -1,10 +1,10 @@
 [
   {
     "id": "gh-1258621567",
-    "name": "tastyeffectco/sandboxes",
+    "name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 478,
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "stars": 506,
     "language": "Go",
     "topics": [
       "ai",
@@ -12,6 +12,7 @@
       "dev-environment",
       "docker",
       "isolation",
+      "pinokio",
       "preview",
       "preview-environment",
       "sandbox",
@@ -20,11 +21,31 @@
     "created_at": "2026-06-03T18:55:02Z"
   },
   {
+    "id": "gh-1261422007",
+    "name": "amElnagdy/guard-skills",
+    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "stars": 392,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude",
+      "claude-code",
+      "code-review",
+      "codex",
+      "skills-sh",
+      "woocommerce",
+      "wordpress"
+    ],
+    "created_at": "2026-06-06T16:59:27Z"
+  },
+  {
     "id": "gh-1258377532",
     "name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 257,
+    "stars": 319,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -43,7 +64,7 @@
     "name": "Soul-AILab/SoulX-Transcriber",
     "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
     "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-    "stars": 193,
+    "stars": 195,
     "language": "Python",
     "topics": [
       "asr",
@@ -55,42 +76,11 @@
     "created_at": "2026-06-02T05:08:08Z"
   },
   {
-    "id": "gh-1255637579",
-    "name": "couragec/LLMInternSkill",
-    "description": "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. \u5927\u6a21\u578b\u5b9e\u4e60\u7b80\u5386\u4e0e\u6c42\u804c\u5de5\u5177\u7bb1\u3002",
-    "url": "https://github.com/couragec/LLMInternSkill",
-    "stars": 155,
-    "language": "Markdown",
-    "topics": [
-      "agent",
-      "ai-career",
-      "aigc",
-      "chinese",
-      "codex-skill",
-      "interview-prep",
-      "jd-tailoring",
-      "job-search",
-      "latex-resume",
-      "llm",
-      "llm-internship",
-      "multimodal",
-      "openai-codex",
-      "post-training",
-      "pretraining",
-      "project-scout",
-      "rag",
-      "resume",
-      "resume-polish",
-      "search-ranking"
-    ],
-    "created_at": "2026-06-01T03:20:26Z"
-  },
-  {
     "id": "gh-1256946355",
     "name": "2417467487-hub/WorldCupROI",
     "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
     "url": "https://github.com/2417467487-hub/WorldCupROI",
-    "stars": 121,
+    "stars": 162,
     "language": "Python",
     "topics": [
       "business-intelligence",
@@ -105,32 +95,11 @@
     "created_at": "2026-06-02T08:15:02Z"
   },
   {
-    "id": "gh-1255644879",
-    "name": "PanisHandsome/ai-rules-sync",
-    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini \u2014 or scaffold a fresh AGENTS.md. Zero dependencies.",
-    "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 112,
-    "language": "JavaScript",
-    "topics": [
-      "agents-md",
-      "ai",
-      "claude",
-      "cli",
-      "codex",
-      "coding-agent",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "llm"
-    ],
-    "created_at": "2026-06-01T03:32:48Z"
-  },
-  {
     "id": "gh-1258221473",
     "name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 97,
+    "stars": 134,
     "language": "Python",
     "topics": [
       "ai",
@@ -147,7 +116,7 @@
     "name": "Happy-Chen-CH/text_classification",
     "description": "This is a text classification project based on the \"Category News\" feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs\u2014let's work together to fix them.",
     "url": "https://github.com/Happy-Chen-CH/text_classification",
-    "stars": 79,
+    "stars": 101,
     "language": "Python",
     "topics": [
       "ai",
@@ -166,7 +135,7 @@
     "name": "Somnusochi/VLM-AutoYOLO",
     "description": "AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA LocateAnything-3B, manual refinement, one-click YOLO training, video keyframe extraction, and model validation. Supports image and video.",
     "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 75,
+    "stars": 98,
     "language": "Python",
     "topics": [
       "auto-labeling",
@@ -189,38 +158,11 @@
     "created_at": "2026-06-02T03:55:53Z"
   },
   {
-    "id": "gh-1260030086",
-    "name": "zengxiao-he/tessera",
-    "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
-    "url": "https://github.com/zengxiao-he/tessera",
-    "stars": 56,
-    "language": "Python",
-    "topics": [
-      "cuda",
-      "flash-attention",
-      "fsdp",
-      "inference-engine",
-      "jax",
-      "knowledge-distillation",
-      "kv-cache",
-      "llm",
-      "mechanistic-interpretability",
-      "ml-systems",
-      "paged-attention",
-      "pytorch",
-      "quantization",
-      "rust",
-      "speculative-decoding",
-      "triton"
-    ],
-    "created_at": "2026-06-05T05:02:09Z"
-  },
-  {
     "id": "gh-1259424581",
     "name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 53,
+    "stars": 73,
     "language": "Python",
     "topics": [
       "ai",
@@ -247,11 +189,80 @@
     "created_at": "2026-06-04T13:49:51Z"
   },
   {
+    "id": "gh-1260030086",
+    "name": "zengxiao-he/tessera",
+    "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+    "url": "https://github.com/zengxiao-he/tessera",
+    "stars": 63,
+    "language": "Python",
+    "topics": [
+      "cuda",
+      "flash-attention",
+      "fsdp",
+      "inference-engine",
+      "jax",
+      "knowledge-distillation",
+      "kv-cache",
+      "llm",
+      "mechanistic-interpretability",
+      "ml-systems",
+      "paged-attention",
+      "pytorch",
+      "quantization",
+      "rust",
+      "speculative-decoding",
+      "triton"
+    ],
+    "created_at": "2026-06-05T05:02:09Z"
+  },
+  {
+    "id": "gh-1257798483",
+    "name": "K-Dense-AI/scientific-agents",
+    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+    "url": "https://github.com/K-Dense-AI/scientific-agents",
+    "stars": 50,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "agents-md",
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "science"
+    ],
+    "created_at": "2026-06-03T02:43:24Z"
+  },
+  {
+    "id": "gh-1258597378",
+    "name": "Ricar66/omnistack-agent",
+    "description": "Platform-agnostic AI agent: one Full-Stack Software Engineer brain, compiled into ready-to-paste adapters for ChatGPT, Claude, Copilot, Gemini & Cursor. Zero-dependency, MIT.",
+    "url": "https://github.com/Ricar66/omnistack-agent",
+    "stars": 49,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "chatgpt",
+      "claude-code",
+      "cursor",
+      "developer-tools",
+      "full-stack",
+      "gemini",
+      "github-copilot",
+      "llm",
+      "open-source",
+      "prompt-engineering",
+      "software-engineering",
+      "system-prompts"
+    ],
+    "created_at": "2026-06-03T18:25:02Z"
+  },
+  {
     "id": "gh-1261546884",
     "name": "fjordravenrecoup/RunwayML-Premium-Windows",
     "description": "Powerful AI magic tools for video editing, text-to-video generation, and VFX.",
     "url": "https://github.com/fjordravenrecoup/RunwayML-Premium-Windows",
-    "stars": 24,
+    "stars": 44,
     "language": null,
     "topics": [
       "ai-video",
@@ -262,29 +273,11 @@
     "created_at": "2026-06-06T20:51:32Z"
   },
   {
-    "id": "gh-1256183986",
-    "name": "wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
-    "description": "Fine-tuning LLM \u2014 lora, qlora, unsloth, fine tune tutorial.",
-    "url": "https://github.com/wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth",
-    "stars": 23,
-    "language": null,
-    "topics": [
-      "fine-tuning",
-      "llm-training",
-      "lora",
-      "machine-learning",
-      "peft",
-      "qlora",
-      "unsloth"
-    ],
-    "created_at": "2026-06-01T14:38:34Z"
-  },
-  {
     "id": "gh-1261548466",
     "name": "MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
     "description": "Revolutionary AI music generator producing high-quality full songs with vocals.",
     "url": "https://github.com/MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
-    "stars": 22,
+    "stars": 40,
     "language": null,
     "topics": [
       "ai-music",
@@ -295,27 +288,34 @@
     "created_at": "2026-06-06T20:55:04Z"
   },
   {
-    "id": "gh-1256386246",
-    "name": "crimeacs/auto-improve",
-    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
-    "url": "https://github.com/crimeacs/auto-improve",
-    "stars": 19,
+    "id": "gh-1259357841",
+    "name": "Orkas-AI/Orkas-Awesome-AgentSkills",
+    "description": "Curated Orkas agents and skills for education, product development, content creation, data analysis, office automation, and e-commerce workflows.",
+    "url": "https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills",
+    "stars": 9,
     "language": "Python",
     "topics": [
+      "agent-framework",
+      "agent-skills",
       "ai-agents",
-      "developer-tools",
-      "evaluation",
-      "gan",
-      "gemini",
+      "ai-tools",
+      "automation",
+      "awesome-list",
+      "content-creation",
+      "data-analysis",
+      "ecommerce",
+      "education",
       "generative-ai",
-      "llm",
+      "llm-agents",
+      "office-automation",
+      "open-source",
+      "orkas",
+      "product-management",
       "prompt-engineering",
-      "python",
-      "rlaif",
-      "rust",
-      "self-improvement",
-      "text-generation"
+      "prompt-library",
+      "software-development",
+      "workflow-automation"
     ],
-    "created_at": "2026-06-01T18:20:23Z"
+    "created_at": "2026-06-04T12:32:44Z"
   }
 ]

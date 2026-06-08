@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48427643",
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "points": 569,
-    "comments": 206,
+    "id": "hn-48434312",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "points": 978,
+    "comments": 940,
     "source": "Hacker News",
-    "published_date": "2026-06-06T18:35:27Z"
+    "published_date": "2026-06-07T12:49:29Z"
   },
   {
-    "id": "hn-48424605",
-    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-    "url": "https://twitter.com/lemire/status/2062880075117113739",
-    "points": 276,
-    "comments": 467,
+    "id": "hn-48434436",
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "points": 496,
+    "comments": 283,
     "source": "Hacker News",
-    "published_date": "2026-06-06T12:52:18Z"
+    "published_date": "2026-06-07T13:06:52Z"
   },
   {
-    "id": "hn-48422993",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "points": 207,
-    "comments": 91,
+    "id": "hn-48433756",
+    "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "points": 318,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-06-06T09:17:49Z"
+    "published_date": "2026-06-07T11:16:46Z"
   },
   {
-    "id": "hn-48426022",
-    "title": "Police in England and Wales told to halt AI use in court statements",
-    "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-    "points": 151,
-    "comments": 46,
+    "id": "hn-48440448",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "points": 272,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-06-06T15:35:49Z"
+    "published_date": "2026-06-08T01:39:30Z"
   },
   {
-    "id": "hn-48431461",
-    "title": "Valve P2P networking broken for more than 2 months",
-    "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-    "points": 139,
-    "comments": 65,
+    "id": "hn-48435371",
+    "title": "The OnlyFans Economy of American AI",
+    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+    "points": 142,
+    "comments": 198,
     "source": "Hacker News",
-    "published_date": "2026-06-07T03:21:52Z"
+    "published_date": "2026-06-07T14:47:17Z"
   },
   {
-    "id": "hn-48431981",
-    "title": "I design with Claude more than Figma now",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "points": 121,
-    "comments": 84,
+    "id": "hn-48437568",
+    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "url": "https://arxiv.org/abs/2605.31514",
+    "points": 111,
+    "comments": 112,
     "source": "Hacker News",
-    "published_date": "2026-06-07T05:04:24Z"
+    "published_date": "2026-06-07T18:54:55Z"
   },
   {
-    "id": "hn-48425031",
-    "title": "US House lawmakers release draft bill to prohibit state AI rules",
-    "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-    "points": 117,
-    "comments": 77,
+    "id": "hn-48442470",
+    "title": "GitHub Is Down",
+    "url": "https://www.githubstatus.com/incidents/m7n7sm0sr1pz",
+    "points": 55,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-06-06T13:40:22Z"
+    "published_date": "2026-06-08T07:53:57Z"
   },
   {
-    "id": "hn-48428475",
-    "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
-    "url": "https://ataraxy-labs.github.io/sem/",
-    "points": 114,
-    "comments": 47,
+    "id": "hn-48435920",
+    "title": "Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began",
+    "url": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/",
+    "points": 52,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-06-06T20:03:55Z"
+    "published_date": "2026-06-07T15:42:57Z"
   },
   {
-    "id": "hn-48423615",
-    "title": "Introduction \u2013 Rust for Python Programmers",
-    "url": "https://microsoft.github.io/RustTraining/python-book/",
-    "points": 69,
-    "comments": 25,
+    "id": "hn-48440994",
+    "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
+    "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+    "points": 42,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-06-06T10:52:25Z"
+    "published_date": "2026-06-08T03:24:44Z"
   },
   {
-    "id": "hn-48424252",
-    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-    "points": 63,
-    "comments": 24,
+    "id": "hn-48434001",
+    "title": "Google just made you a search quality rater. You won't get paid",
+    "url": "https://mojodojo.io/blog/google-just-made-you-a-search-quality-rater-you-won-t-get-paid",
+    "points": 42,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-06-06T12:15:59Z"
+    "published_date": "2026-06-07T12:04:53Z"
   },
   {
-    "id": "hn-48431085",
-    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-    "points": 58,
-    "comments": 34,
+    "id": "hn-48439240",
+    "title": "Ask HN: Are we as society going to let LLM companies take all the values?",
+    "url": "https://news.ycombinator.com/item?id=48439240",
+    "points": 29,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-06-07T02:12:19Z"
+    "published_date": "2026-06-07T22:30:08Z"
   },
   {
-    "id": "hn-48431079",
-    "title": "Show HN: Oproxy \u2013 inspect and modify network traffic from the browser",
-    "url": "https://github.com/sauravrao637/oproxy",
-    "points": 44,
+    "id": "hn-48437912",
+    "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+    "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+    "points": 28,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-06-07T19:48:01Z"
+  },
+  {
+    "id": "hn-48438754",
+    "title": "VibeOS: First ever AI-native operating system",
+    "url": "https://vibeos.sh/",
+    "points": 23,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-06-07T21:29:21Z"
+  },
+  {
+    "id": "hn-48438854",
+    "title": "Data centers consumed 264B gallons of water as drought hits nearly 63% of US",
+    "url": "https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-u-s",
+    "points": 23,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-06-07T21:41:06Z"
+  },
+  {
+    "id": "hn-48434240",
+    "title": "Ask HN: How are thinking efforts implemented?",
+    "url": "https://news.ycombinator.com/item?id=48434240",
+    "points": 22,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-06-07T12:38:44Z"
+  },
+  {
+    "id": "hn-48438180",
+    "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+    "url": "https://github.com/ninoxAI/nightwatch",
+    "points": 17,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-06-07T02:11:29Z"
+    "published_date": "2026-06-07T20:24:36Z"
   },
   {
-    "id": "hn-48428652",
-    "title": "Elfeed 4.0 (Emacs)",
-    "url": "https://github.com/emacs-elfeed/elfeed/blob/main/NEWS.org",
-    "points": 42,
+    "id": "hn-48436434",
+    "title": "Show HN: OpenPayphone \u2013 open-source guts for a 1996 coin payphone (Pi and SIP)",
+    "url": "https://github.com/eric-cgn/openpayphone",
+    "points": 16,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-06-06T20:24:56Z"
+    "published_date": "2026-06-07T16:36:29Z"
   },
   {
-    "id": "hn-48430282",
-    "title": "Human-Like Neural Nets by Catapulting",
-    "url": "https://gwern.net/llm-catapult",
-    "points": 33,
+    "id": "hn-48440074",
+    "title": "The sneaky way companies get new chemicals into our food",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5836552/fda-gras-food-chemicals-additives-rfk",
+    "points": 14,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-06-06T23:45:36Z"
+    "published_date": "2026-06-08T00:30:19Z"
   },
   {
-    "id": "hn-48423995",
-    "title": "AI Can't Care",
-    "url": "https://www.mooreds.com/wordpress/archives/3737",
-    "points": 28,
-    "comments": 5,
+    "id": "hn-48438186",
+    "title": "Loss of Prefrontal Cortical Higher Cognition with Uncontrollable Stress (2019)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562841/",
+    "points": 13,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-06-06T11:46:43Z"
+    "published_date": "2026-06-07T20:24:49Z"
   },
   {
-    "id": "hn-48426916",
-    "title": "Qualcomm Linux",
-    "url": "https://github.com/qualcomm-linux",
-    "points": 28,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-06-06T17:11:57Z"
-  },
-  {
-    "id": "hn-48428097",
-    "title": "Claude, Teach Me Something",
-    "url": "https://hugotunius.se/2025/10/26/claude-teach-me-something.html",
-    "points": 21,
+    "id": "hn-48434430",
+    "title": "Show HN: I made a better zsh autosuggestion tool that predicts your next command",
+    "url": "https://github.com/Giammarco-Ferranti/deja",
+    "points": 12,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-06-06T19:25:25Z"
-  },
-  {
-    "id": "hn-48427037",
-    "title": "Which Buffett? Warren or Jimmy. Can you tell them apart?",
-    "url": "https://whichbuffett.github.io/quiz/",
-    "points": 20,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-06-06T17:25:08Z"
-  },
-  {
-    "id": "hn-48425983",
-    "title": "AI didn't break the web. The dotcons did \u2013 AI just turned up the volume",
-    "url": "https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/",
-    "points": 18,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-06-06T15:30:13Z"
-  },
-  {
-    "id": "hn-48432117",
-    "title": "Learn from my lesson, don't take your pre seed through stripe = Account Closure",
-    "url": "https://news.ycombinator.com/item?id=48432117",
-    "points": 17,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T05:33:25Z"
+    "published_date": "2026-06-07T13:06:04Z"
   }
 ]
