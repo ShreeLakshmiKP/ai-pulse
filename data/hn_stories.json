@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48434312",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "points": 978,
-    "comments": 940,
+    "id": "hn-48450142",
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "points": 578,
+    "comments": 445,
     "source": "Hacker News",
-    "published_date": "2026-06-07T12:49:29Z"
+    "published_date": "2026-06-08T19:14:47Z"
   },
   {
-    "id": "hn-48434436",
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "points": 496,
-    "comments": 283,
+    "id": "hn-48449084",
+    "title": "Siri AI",
+    "url": "https://www.apple.com/apple-intelligence/",
+    "points": 563,
+    "comments": 512,
     "source": "Hacker News",
-    "published_date": "2026-06-07T13:06:52Z"
+    "published_date": "2026-06-08T18:17:53Z"
   },
   {
-    "id": "hn-48433756",
-    "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
-    "url": "https://github.com/devenjarvis/lathe",
-    "points": 318,
-    "comments": 55,
+    "id": "hn-48446893",
+    "title": "AI is slowing down",
+    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "points": 537,
+    "comments": 558,
     "source": "Hacker News",
-    "published_date": "2026-06-07T11:16:46Z"
+    "published_date": "2026-06-08T15:46:37Z"
   },
   {
-    "id": "hn-48440448",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "points": 272,
-    "comments": 122,
+    "id": "hn-48449187",
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "url": "https://news.ycombinator.com/item?id=48449187",
+    "points": 292,
+    "comments": 478,
     "source": "Hacker News",
-    "published_date": "2026-06-08T01:39:30Z"
+    "published_date": "2026-06-08T18:22:39Z"
   },
   {
-    "id": "hn-48435371",
-    "title": "The OnlyFans Economy of American AI",
-    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+    "id": "hn-48449665",
+    "title": "Apple Core AI Framework",
+    "url": "https://developer.apple.com/documentation/coreai/",
+    "points": 288,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T18:47:38Z"
+  },
+  {
+    "id": "hn-48447806",
+    "title": "Show HN: Gitdot \u2013 A better GitHub. Open-source, written in Rust",
+    "url": "https://gitdot.io/",
+    "points": 244,
+    "comments": 219,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T16:52:11Z"
+  },
+  {
+    "id": "hn-48446909",
+    "title": "Why are so many young people getting cancer?",
+    "url": "https://www.nature.com/articles/d41586-026-01780-6",
+    "points": 174,
+    "comments": 192,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T15:48:00Z"
+  },
+  {
+    "id": "hn-48448313",
+    "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+    "url": "https://news.ycombinator.com/item?id=48448313",
+    "points": 165,
+    "comments": 132,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T17:28:29Z"
+  },
+  {
+    "id": "hn-48443258",
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "points": 149,
+    "comments": 205,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T09:52:03Z"
+  },
+  {
+    "id": "hn-48450065",
+    "title": "Why are cells small?",
+    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
     "points": 142,
-    "comments": 198,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-06-07T14:47:17Z"
+    "published_date": "2026-06-08T19:10:27Z"
   },
   {
-    "id": "hn-48437568",
-    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-    "url": "https://arxiv.org/abs/2605.31514",
-    "points": 111,
-    "comments": 112,
+    "id": "hn-48445171",
+    "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
+    "url": "https://intunedhq.com",
+    "points": 106,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-06-07T18:54:55Z"
+    "published_date": "2026-06-08T13:35:27Z"
   },
   {
-    "id": "hn-48442470",
-    "title": "GitHub Is Down",
-    "url": "https://www.githubstatus.com/incidents/m7n7sm0sr1pz",
-    "points": 55,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-06-08T07:53:57Z"
-  },
-  {
-    "id": "hn-48435920",
-    "title": "Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began",
-    "url": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/",
-    "points": 52,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T15:42:57Z"
-  },
-  {
-    "id": "hn-48440994",
-    "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-    "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
-    "points": 42,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-06-08T03:24:44Z"
-  },
-  {
-    "id": "hn-48434001",
-    "title": "Google just made you a search quality rater. You won't get paid",
-    "url": "https://mojodojo.io/blog/google-just-made-you-a-search-quality-rater-you-won-t-get-paid",
-    "points": 42,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T12:04:53Z"
-  },
-  {
-    "id": "hn-48439240",
-    "title": "Ask HN: Are we as society going to let LLM companies take all the values?",
-    "url": "https://news.ycombinator.com/item?id=48439240",
-    "points": 29,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T22:30:08Z"
-  },
-  {
-    "id": "hn-48437912",
-    "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-    "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-    "points": 28,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T19:48:01Z"
-  },
-  {
-    "id": "hn-48438754",
-    "title": "VibeOS: First ever AI-native operating system",
-    "url": "https://vibeos.sh/",
-    "points": 23,
+    "id": "hn-48457830",
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "points": 80,
     "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-06-07T21:29:21Z"
+    "published_date": "2026-06-09T07:33:16Z"
   },
   {
-    "id": "hn-48438854",
-    "title": "Data centers consumed 264B gallons of water as drought hits nearly 63% of US",
-    "url": "https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-u-s",
-    "points": 23,
-    "comments": 22,
+    "id": "hn-48452000",
+    "title": "Apple bets cheaper AI will woo small developers",
+    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "points": 60,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-06-07T21:41:06Z"
+    "published_date": "2026-06-08T21:02:00Z"
   },
   {
-    "id": "hn-48434240",
-    "title": "Ask HN: How are thinking efforts implemented?",
-    "url": "https://news.ycombinator.com/item?id=48434240",
+    "id": "hn-48453002",
+    "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+    "url": "https://www.cc.dev/",
+    "points": 49,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T22:10:18Z"
+  },
+  {
+    "id": "hn-48445469",
+    "title": "SoulsOnly.tff \u2013 A font for humans not AI and keyboard firmware to type in it",
+    "url": "https://github.com/convictional/souls-only",
+    "points": 46,
+    "comments": 25,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T14:00:22Z"
+  },
+  {
+    "id": "hn-48449430",
+    "title": "Show HN: AI Pair Programmer for Emacs",
+    "url": "https://github.com/jaketothepast/codetutor",
+    "points": 32,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T18:34:21Z"
+  },
+  {
+    "id": "hn-48448447",
+    "title": "HN seems dead compared to say 10-15 years ago",
+    "url": "https://news.ycombinator.com/item?id=48448447",
+    "points": 31,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T17:37:48Z"
+  },
+  {
+    "id": "hn-48453666",
+    "title": "Show HN: Mach \u2013 A compiled systems language looking for contributions",
+    "url": "https://github.com/octalide/mach",
+    "points": 25,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-06-08T23:05:20Z"
+  },
+  {
+    "id": "hn-48452001",
+    "title": "Developer Gets Half-Life Running at 30 FPS on a Nokia N95",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
     "points": 22,
-    "comments": 14,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-06-07T12:38:44Z"
+    "published_date": "2026-06-08T21:02:01Z"
   },
   {
-    "id": "hn-48438180",
-    "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-    "url": "https://github.com/ninoxAI/nightwatch",
-    "points": 17,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T20:24:36Z"
-  },
-  {
-    "id": "hn-48436434",
-    "title": "Show HN: OpenPayphone \u2013 open-source guts for a 1996 coin payphone (Pi and SIP)",
-    "url": "https://github.com/eric-cgn/openpayphone",
-    "points": 16,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T16:36:29Z"
-  },
-  {
-    "id": "hn-48440074",
-    "title": "The sneaky way companies get new chemicals into our food",
-    "url": "https://www.npr.org/2026/05/29/nx-s1-5836552/fda-gras-food-chemicals-additives-rfk",
-    "points": 14,
+    "id": "hn-48448103",
+    "title": "Apple announces macOS 27 Golden Gate",
+    "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
+    "points": 19,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-06-08T00:30:19Z"
-  },
-  {
-    "id": "hn-48438186",
-    "title": "Loss of Prefrontal Cortical Higher Cognition with Uncontrollable Stress (2019)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562841/",
-    "points": 13,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T20:24:49Z"
-  },
-  {
-    "id": "hn-48434430",
-    "title": "Show HN: I made a better zsh autosuggestion tool that predicts your next command",
-    "url": "https://github.com/Giammarco-Ferranti/deja",
-    "points": 12,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-06-07T13:06:04Z"
+    "published_date": "2026-06-08T17:14:11Z"
   }
 ]

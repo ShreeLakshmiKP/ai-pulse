@@ -4037,6 +4037,32 @@
     "image": null
   },
   {
+    "id": "rss-bf51653a",
+    "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
+    "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 09 Jun 2026 01:56:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d2fe95ff",
+    "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
+    "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 09 Jun 2026 00:45:56 +0000",
+    "image": null
+  },
+  {
     "id": "rss-cb723f1a",
     "title": "I can\u2019t help rooting for tiny open source AI model maker Arcee",
     "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
@@ -4292,38 +4318,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 05 May 2026 03:31:54 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3938b1e2",
-    "title": "New ways to buy ChatGPT ads",
-    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 05 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-46fc501d",
-    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 03 Mar 2026 16:35:55 +0000",
     "image": null
   }
 ]

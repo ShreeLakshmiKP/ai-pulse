@@ -4,7 +4,7 @@
     "name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 506,
+    "stars": 519,
     "language": "Go",
     "topics": [
       "ai",
@@ -25,7 +25,7 @@
     "name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 392,
+    "stars": 484,
     "language": null,
     "topics": [
       "agent-skills",
@@ -45,7 +45,7 @@
     "name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 319,
+    "stars": 346,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -60,46 +60,11 @@
     "created_at": "2026-06-03T14:19:33Z"
   },
   {
-    "id": "gh-1256791924",
-    "name": "Soul-AILab/SoulX-Transcriber",
-    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-    "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-    "stars": 195,
-    "language": "Python",
-    "topics": [
-      "asr",
-      "llm",
-      "sd",
-      "sdr",
-      "speech-recognition"
-    ],
-    "created_at": "2026-06-02T05:08:08Z"
-  },
-  {
-    "id": "gh-1256946355",
-    "name": "2417467487-hub/WorldCupROI",
-    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
-    "url": "https://github.com/2417467487-hub/WorldCupROI",
-    "stars": 162,
-    "language": "Python",
-    "topics": [
-      "business-intelligence",
-      "machine-learning",
-      "plotly",
-      "roi-prediction",
-      "sponsorship",
-      "sports-analytics",
-      "streamlit",
-      "world-cup"
-    ],
-    "created_at": "2026-06-02T08:15:02Z"
-  },
-  {
     "id": "gh-1258221473",
     "name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 134,
+    "stars": 169,
     "language": "Python",
     "topics": [
       "ai",
@@ -131,38 +96,11 @@
     "created_at": "2026-06-03T07:39:51Z"
   },
   {
-    "id": "gh-1256747268",
-    "name": "Somnusochi/VLM-AutoYOLO",
-    "description": "AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA LocateAnything-3B, manual refinement, one-click YOLO training, video keyframe extraction, and model validation. Supports image and video.",
-    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 98,
-    "language": "Python",
-    "topics": [
-      "auto-labeling",
-      "computer-vision",
-      "data-annotation",
-      "deep-learning",
-      "fastapi",
-      "locate-anything",
-      "machine-learning",
-      "nvidia",
-      "object-detection",
-      "pytorch",
-      "react",
-      "ultralytics",
-      "video-annotation",
-      "vlm",
-      "yolo",
-      "yolo-training"
-    ],
-    "created_at": "2026-06-02T03:55:53Z"
-  },
-  {
     "id": "gh-1259424581",
     "name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 73,
+    "stars": 98,
     "language": "Python",
     "topics": [
       "ai",
@@ -193,7 +131,7 @@
     "name": "zengxiao-he/tessera",
     "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
     "url": "https://github.com/zengxiao-he/tessera",
-    "stars": 63,
+    "stars": 72,
     "language": "Python",
     "topics": [
       "cuda",
@@ -216,28 +154,11 @@
     "created_at": "2026-06-05T05:02:09Z"
   },
   {
-    "id": "gh-1257798483",
-    "name": "K-Dense-AI/scientific-agents",
-    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
-    "url": "https://github.com/K-Dense-AI/scientific-agents",
-    "stars": 50,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents-md",
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "science"
-    ],
-    "created_at": "2026-06-03T02:43:24Z"
-  },
-  {
     "id": "gh-1258597378",
     "name": "Ricar66/omnistack-agent",
     "description": "Platform-agnostic AI agent: one Full-Stack Software Engineer brain, compiled into ready-to-paste adapters for ChatGPT, Claude, Copilot, Gemini & Cursor. Zero-dependency, MIT.",
     "url": "https://github.com/Ricar66/omnistack-agent",
-    "stars": 49,
+    "stars": 56,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -258,34 +179,87 @@
     "created_at": "2026-06-03T18:25:02Z"
   },
   {
-    "id": "gh-1261546884",
-    "name": "fjordravenrecoup/RunwayML-Premium-Windows",
-    "description": "Powerful AI magic tools for video editing, text-to-video generation, and VFX.",
-    "url": "https://github.com/fjordravenrecoup/RunwayML-Premium-Windows",
-    "stars": 44,
+    "id": "gh-1257798483",
+    "name": "K-Dense-AI/scientific-agents",
+    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+    "url": "https://github.com/K-Dense-AI/scientific-agents",
+    "stars": 53,
     "language": null,
     "topics": [
-      "ai-video",
-      "generative-ai",
-      "runwayml",
-      "text-to-video"
+      "agentic-ai",
+      "agents-md",
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "science"
     ],
-    "created_at": "2026-06-06T20:51:32Z"
+    "created_at": "2026-06-03T02:43:24Z"
   },
   {
-    "id": "gh-1261548466",
-    "name": "MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
-    "description": "Revolutionary AI music generator producing high-quality full songs with vocals.",
-    "url": "https://github.com/MemoryAdvisorTruss86/Suno-AI-Premium-Windows",
-    "stars": 40,
-    "language": null,
+    "id": "gh-1258994885",
+    "name": "axocoatl/axocoatl",
+    "description": "Agentic runtime in Rust \u2014 persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
+    "url": "https://github.com/axocoatl/axocoatl",
+    "stars": 49,
+    "language": "Rust",
     "topics": [
-      "ai-music",
-      "generative-ai",
-      "music-generator",
-      "suno-ai"
+      "agentic",
+      "agents",
+      "ai",
+      "llm",
+      "local-first",
+      "mcp",
+      "runtime",
+      "rust",
+      "self-hosted"
     ],
-    "created_at": "2026-06-06T20:55:04Z"
+    "created_at": "2026-06-04T05:24:13Z"
+  },
+  {
+    "id": "gh-1263098427",
+    "name": "RightNow-AI/AutoMegaKernel",
+    "description": "An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it past cuBLAS at batch-1 LLM decode.",
+    "url": "https://github.com/RightNow-AI/AutoMegaKernel",
+    "stars": 12,
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "cuda",
+      "gpu",
+      "gpu-programming",
+      "kernel-fusion",
+      "llm-inference",
+      "machine-learning",
+      "megakernel",
+      "mlsys"
+    ],
+    "created_at": "2026-06-08T16:08:59Z"
+  },
+  {
+    "id": "gh-1259423904",
+    "name": "bhavyakeerthi3/-purplle_hackathon",
+    "description": "AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker.",
+    "url": "https://github.com/bhavyakeerthi3/-purplle_hackathon",
+    "stars": 11,
+    "language": "HTML",
+    "topics": [
+      "anomaly-detection",
+      "business-intelligence",
+      "bytetrack",
+      "cctv-analytics",
+      "computer-vision",
+      "dashboard",
+      "docker",
+      "fastapi",
+      "machine-learning",
+      "object-tracking",
+      "python",
+      "retail-analytics",
+      "store-intelligence",
+      "video-analytics",
+      "yolov8"
+    ],
+    "created_at": "2026-06-04T13:49:03Z"
   },
   {
     "id": "gh-1259357841",
@@ -317,5 +291,46 @@
       "workflow-automation"
     ],
     "created_at": "2026-06-04T12:32:44Z"
+  },
+  {
+    "id": "gh-1259782962",
+    "name": "strands-labs/benchmark-harnesses",
+    "description": "Strands-based agents and harnesses for agentic benchmarks.",
+    "url": "https://github.com/strands-labs/benchmark-harnesses",
+    "stars": 8,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "benchmarks",
+      "genai",
+      "llm",
+      "machine-learning",
+      "strands-agents",
+      "strands-labs",
+      "swe-bench",
+      "terminal-bench"
+    ],
+    "created_at": "2026-06-04T21:17:23Z"
+  },
+  {
+    "id": "gh-1261034692",
+    "name": "Noor-Sabah05/CodeRush-GDC-ITU-2026-Machine-Learning-Competition",
+    "description": "Economic class classification (lower/middle/upper) from bag-structured demographic data. Multi-seed 5-fold ensemble of LightGBM & XGBoost with OOF threshold tuning. Top 5 \u00b7 Coderush 2026",
+    "url": "https://github.com/Noor-Sabah05/CodeRush-GDC-ITU-2026-Machine-Learning-Competition",
+    "stars": 7,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "classification",
+      "ensemble-learning--bagging",
+      "kaggle-competition",
+      "lightgbm-classifier",
+      "machine-learning",
+      "python",
+      "tabular-data-analysis",
+      "xgboost-classifier"
+    ],
+    "created_at": "2026-06-06T06:43:28Z"
   }
 ]
