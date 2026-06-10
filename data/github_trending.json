@@ -1,31 +1,10 @@
 [
   {
-    "id": "gh-1258621567",
-    "name": "tastyeffectco/sandboxd",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 519,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "dev-environment",
-      "docker",
-      "isolation",
-      "pinokio",
-      "preview",
-      "preview-environment",
-      "sandbox",
-      "self-hosted"
-    ],
-    "created_at": "2026-06-03T18:55:02Z"
-  },
-  {
     "id": "gh-1261422007",
     "name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 484,
+    "stars": 529,
     "language": null,
     "topics": [
       "agent-skills",
@@ -41,66 +20,11 @@
     "created_at": "2026-06-06T16:59:27Z"
   },
   {
-    "id": "gh-1258377532",
-    "name": "razr001/align-dev",
-    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-    "url": "https://github.com/razr001/align-dev",
-    "stars": 346,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "claude-code",
-      "codex",
-      "copilot",
-      "cursor",
-      "fronted",
-      "nextjs",
-      "skills"
-    ],
-    "created_at": "2026-06-03T14:19:33Z"
-  },
-  {
-    "id": "gh-1258221473",
-    "name": "AI272/speaker",
-    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
-    "url": "https://github.com/AI272/speaker",
-    "stars": 169,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude-code",
-      "claude-code-skill",
-      "codex",
-      "codex-skill",
-      "skill"
-    ],
-    "created_at": "2026-06-03T11:33:33Z"
-  },
-  {
-    "id": "gh-1258006305",
-    "name": "Happy-Chen-CH/text_classification",
-    "description": "This is a text classification project based on the \"Category News\" feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs\u2014let's work together to fix them.",
-    "url": "https://github.com/Happy-Chen-CH/text_classification",
-    "stars": 101,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "bert",
-      "distilbert",
-      "fasttext-python",
-      "python",
-      "random-forest-classifier",
-      "tensorflow",
-      "text-classification"
-    ],
-    "created_at": "2026-06-03T07:39:51Z"
-  },
-  {
     "id": "gh-1259424581",
     "name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 98,
+    "stars": 118,
     "language": "Python",
     "topics": [
       "ai",
@@ -131,7 +55,7 @@
     "name": "zengxiao-he/tessera",
     "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
     "url": "https://github.com/zengxiao-he/tessera",
-    "stars": 72,
+    "stars": 82,
     "language": "Python",
     "topics": [
       "cuda",
@@ -154,53 +78,32 @@
     "created_at": "2026-06-05T05:02:09Z"
   },
   {
-    "id": "gh-1258597378",
-    "name": "Ricar66/omnistack-agent",
-    "description": "Platform-agnostic AI agent: one Full-Stack Software Engineer brain, compiled into ready-to-paste adapters for ChatGPT, Claude, Copilot, Gemini & Cursor. Zero-dependency, MIT.",
-    "url": "https://github.com/Ricar66/omnistack-agent",
-    "stars": 56,
-    "language": "JavaScript",
+    "id": "gh-1262842296",
+    "name": "borhen68/TokenTamer",
+    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50\u201380% without losing what the model actually needs to know.",
+    "url": "https://github.com/borhen68/TokenTamer",
+    "stars": 69,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "chatgpt",
-      "claude-code",
-      "cursor",
+      "ai-coding-agent",
+      "anthropic",
+      "context-compression",
+      "cost-reduction",
       "developer-tools",
-      "full-stack",
-      "gemini",
-      "github-copilot",
       "llm",
-      "open-source",
-      "prompt-engineering",
-      "software-engineering",
-      "system-prompts"
+      "openai",
+      "proxy",
+      "python",
+      "token-optimization"
     ],
-    "created_at": "2026-06-03T18:25:02Z"
-  },
-  {
-    "id": "gh-1257798483",
-    "name": "K-Dense-AI/scientific-agents",
-    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
-    "url": "https://github.com/K-Dense-AI/scientific-agents",
-    "stars": 53,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents-md",
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "science"
-    ],
-    "created_at": "2026-06-03T02:43:24Z"
+    "created_at": "2026-06-08T11:25:21Z"
   },
   {
     "id": "gh-1258994885",
     "name": "axocoatl/axocoatl",
     "description": "Agentic runtime in Rust \u2014 persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
     "url": "https://github.com/axocoatl/axocoatl",
-    "stars": 49,
+    "stars": 56,
     "language": "Rust",
     "topics": [
       "agentic",
@@ -216,11 +119,78 @@
     "created_at": "2026-06-04T05:24:13Z"
   },
   {
+    "id": "gh-1262328297",
+    "name": "Tools2U/AI-Website-Audit-CLI",
+    "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
+    "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
+    "stars": 55,
+    "language": "Python",
+    "topics": [
+      "accessibility",
+      "ai",
+      "audit",
+      "automation",
+      "cli",
+      "developer",
+      "openai",
+      "python",
+      "security",
+      "securityaudit",
+      "seo",
+      "ux",
+      "website-audit"
+    ],
+    "created_at": "2026-06-07T21:32:29Z"
+  },
+  {
+    "id": "gh-1259398032",
+    "name": "maximecb/bebelm",
+    "description": "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LLM",
+    "url": "https://github.com/maximecb/bebelm",
+    "stars": 49,
+    "language": "Rust",
+    "topics": [
+      "cpu",
+      "inference",
+      "llm",
+      "local-ai",
+      "local-llm",
+      "rust"
+    ],
+    "created_at": "2026-06-04T13:19:28Z"
+  },
+  {
+    "id": "gh-1261279210",
+    "name": "albertofettucini/Council",
+    "description": "Ask several AI models one question \u2014 they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+    "url": "https://github.com/albertofettucini/Council",
+    "stars": 38,
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "anthropic",
+      "bring-your-own-key",
+      "claude",
+      "gemini",
+      "llm",
+      "macos",
+      "macos-app",
+      "multi-llm",
+      "ollama",
+      "openai",
+      "privacy",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-06-06T13:29:15Z"
+  },
+  {
     "id": "gh-1263098427",
     "name": "RightNow-AI/AutoMegaKernel",
     "description": "An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it past cuBLAS at batch-1 LLM decode.",
     "url": "https://github.com/RightNow-AI/AutoMegaKernel",
-    "stars": 12,
+    "stars": 22,
     "language": "Python",
     "topics": [
       "agent-harness",
@@ -236,11 +206,33 @@
     "created_at": "2026-06-08T16:08:59Z"
   },
   {
+    "id": "gh-1259782962",
+    "name": "strands-labs/benchmark-harnesses",
+    "description": "Strands-based agents and harnesses for agentic benchmarks.",
+    "url": "https://github.com/strands-labs/benchmark-harnesses",
+    "stars": 16,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "benchmarks",
+      "genai",
+      "llm",
+      "machine-learning",
+      "strands-agents",
+      "strands-labs",
+      "swe-bench",
+      "terminal-bench"
+    ],
+    "created_at": "2026-06-04T21:17:23Z"
+  },
+  {
     "id": "gh-1259423904",
     "name": "bhavyakeerthi3/-purplle_hackathon",
     "description": "AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker.",
     "url": "https://github.com/bhavyakeerthi3/-purplle_hackathon",
-    "stars": 11,
+    "stars": 12,
     "language": "HTML",
     "topics": [
       "anomaly-detection",
@@ -293,28 +285,6 @@
     "created_at": "2026-06-04T12:32:44Z"
   },
   {
-    "id": "gh-1259782962",
-    "name": "strands-labs/benchmark-harnesses",
-    "description": "Strands-based agents and harnesses for agentic benchmarks.",
-    "url": "https://github.com/strands-labs/benchmark-harnesses",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "ai",
-      "benchmarks",
-      "genai",
-      "llm",
-      "machine-learning",
-      "strands-agents",
-      "strands-labs",
-      "swe-bench",
-      "terminal-bench"
-    ],
-    "created_at": "2026-06-04T21:17:23Z"
-  },
-  {
     "id": "gh-1261034692",
     "name": "Noor-Sabah05/CodeRush-GDC-ITU-2026-Machine-Learning-Competition",
     "description": "Economic class classification (lower/middle/upper) from bag-structured demographic data. Multi-seed 5-fold ensemble of LightGBM & XGBoost with OOF threshold tuning. Top 5 \u00b7 Coderush 2026",
@@ -332,5 +302,44 @@
       "xgboost-classifier"
     ],
     "created_at": "2026-06-06T06:43:28Z"
+  },
+  {
+    "id": "gh-1261291158",
+    "name": "nazmiefearmutcu/Prizma",
+    "description": "Two small-scale research threads with pre-registered falsifiable bars + adversarial referee audits: Prizma-Seq (a parameter-free quadratic delta-state sequence mixer, an efficient-attention-replacement candidate) and Prizma (backprop-free, fully-local continual learning).",
+    "url": "https://github.com/nazmiefearmutcu/Prizma",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "continual-learning",
+      "deep-learning",
+      "efficient-attention",
+      "machine-learning",
+      "pytorch",
+      "research",
+      "sequence-model"
+    ],
+    "created_at": "2026-06-06T13:46:19Z"
+  },
+  {
+    "id": "gh-1261607946",
+    "name": "joseteiadirector/teia-igo-vs-claude-opus-4.8",
+    "description": "Red Teaming Epist\u00eamico Dial\u00e9tico \u2014 IGO vs Claude Opus 4.8. Matem\u00e1tica p\u00fablica (Zenodo), produ\u00e7\u00e3o em 4 institui\u00e7\u00f5es e debate assinado. PT/EN.",
+    "url": "https://github.com/joseteiadirector/teia-igo-vs-claude-opus-4.8",
+    "stars": 3,
+    "language": null,
+    "topics": [
+      "ai-governance",
+      "ai-safety",
+      "claude",
+      "epistemics",
+      "generative-ai",
+      "igo",
+      "large-language-models",
+      "llm",
+      "observability",
+      "red-teaming"
+    ],
+    "created_at": "2026-06-06T23:20:37Z"
   }
 ]
