@@ -1474,6 +1474,105 @@
     "image": null
   },
   {
+    "id": "rss-6de145b7",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "tags": [
+      "safety"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 10 Jun 2026 22:31:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6bbed140",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 10 Jun 2026 20:19:31 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c6fecd91",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 10 Jun 2026 20:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7282240d",
+    "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 10 Jun 2026 17:07:35 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-277040b3",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 10 Jun 2026 16:24:11 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1076dadb",
+    "title": "The Download: the \u201csteroid olympics\u201d and a safer Mythos",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 10 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2c872de7",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 10 Jun 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-ea2ec57e",
     "title": "The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture",
     "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills.",
@@ -4222,103 +4321,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Tue, 09 Jun 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-de0a2342",
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/nextdoor",
-    "tags": [
-      "GPT"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 09 Jun 2026 12:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-6d8d3867",
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 09 Jun 2026 10:46:19 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-25761d58",
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "tags": [
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 10:20:06 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fbb44934",
-    "title": "What Codex unlocks for Notion",
-    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/notion",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 09 Jun 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-135288a6",
-    "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-    "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you\u2019ll go to the doctor and get a prescription that will make you 10 years younger.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5a0f8f20",
-    "title": "Five things you need to know about AI",
-    "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 09:16:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-bf51653a",
-    "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
-    "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 09 Jun 2026 01:56:48 +0000",
     "image": null
   }
 ]
