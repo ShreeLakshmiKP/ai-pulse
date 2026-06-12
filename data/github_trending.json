@@ -4,7 +4,7 @@
     "name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 560,
+    "stars": 573,
     "language": null,
     "topics": [
       "agent-skills",
@@ -20,59 +20,73 @@
     "created_at": "2026-06-06T16:59:27Z"
   },
   {
-    "id": "gh-1260030086",
-    "name": "zengxiao-he/tessera",
-    "description": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
-    "url": "https://github.com/zengxiao-he/tessera",
-    "stars": 106,
-    "language": "Python",
+    "id": "gh-1266797999",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 371,
+    "language": "JavaScript",
     "topics": [
-      "cuda",
-      "flash-attention",
-      "fsdp",
-      "inference-engine",
-      "jax",
-      "knowledge-distillation",
-      "kv-cache",
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
       "llm",
-      "mechanistic-interpretability",
-      "ml-systems",
-      "paged-attention",
-      "pytorch",
-      "quantization",
-      "rust",
-      "speculative-decoding",
-      "triton"
+      "prompt-engineering",
+      "yagni"
     ],
-    "created_at": "2026-06-05T05:02:09Z"
+    "created_at": "2026-06-12T00:52:37Z"
   },
   {
-    "id": "gh-1262603912",
-    "name": "agentic-in/inferoa",
-    "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
-    "url": "https://github.com/agentic-in/inferoa",
-    "stars": 81,
-    "language": "TypeScript",
+    "id": "gh-1264560911",
+    "name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "url": "https://github.com/coder/boo",
+    "stars": 172,
+    "language": "Zig",
     "topics": [
-      "agent",
-      "agent-harness",
+      "ai",
+      "coding",
+      "ghostty",
+      "multiplexer",
+      "screen",
+      "terminal"
+    ],
+    "created_at": "2026-06-10T01:53:01Z"
+  },
+  {
+    "id": "gh-1263648864",
+    "name": "cobusgreyling/loop-engineering",
+    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "stars": 101,
+    "language": "JavaScript",
+    "topics": [
       "agentic-ai",
-      "harness-engineering",
-      "inference",
-      "kvcache",
+      "ai-agents",
+      "ai-coding",
+      "automation",
+      "claude-code",
+      "codex",
+      "devops-automation",
+      "github-actions",
+      "grok",
       "llm",
       "loop-engineering",
-      "token",
-      "tokenmaxxing"
+      "mcp",
+      "prompt-engineering"
     ],
-    "created_at": "2026-06-08T06:29:56Z"
+    "created_at": "2026-06-09T06:28:20Z"
   },
   {
     "id": "gh-1262842296",
     "name": "borhen68/TokenTamer",
     "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50\u201380% without losing what the model actually needs to know.",
     "url": "https://github.com/borhen68/TokenTamer",
-    "stars": 81,
+    "stars": 92,
     "language": "Python",
     "topics": [
       "ai-coding-agent",
@@ -89,24 +103,25 @@
     "created_at": "2026-06-08T11:25:21Z"
   },
   {
-    "id": "gh-1263648864",
-    "name": "cobusgreyling/loop-engineering",
-    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 73,
-    "language": "JavaScript",
+    "id": "gh-1262603912",
+    "name": "agentic-in/inferoa",
+    "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
+    "url": "https://github.com/agentic-in/inferoa",
+    "stars": 88,
+    "language": "TypeScript",
     "topics": [
+      "agent",
+      "agent-harness",
       "agentic-ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "devops-automation",
-      "github-actions",
-      "grok",
+      "harness-engineering",
+      "inference",
+      "kvcache",
       "llm",
-      "mcp"
+      "loop-engineering",
+      "token",
+      "tokenmaxxing"
     ],
-    "created_at": "2026-06-09T06:28:20Z"
+    "created_at": "2026-06-08T06:29:56Z"
   },
   {
     "id": "gh-1262328297",
@@ -133,103 +148,69 @@
     "created_at": "2026-06-07T21:32:29Z"
   },
   {
-    "id": "gh-1259962837",
-    "name": "hadihonarvar/flock",
-    "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster \u2014 multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
-    "url": "https://github.com/hadihonarvar/flock",
-    "stars": 42,
-    "language": "Go",
-    "topics": [
-      "ai-gateway",
-      "aider",
-      "anthropic",
-      "claude-code",
-      "cursor",
-      "gguf",
-      "golang",
-      "inference",
-      "llama-cpp",
-      "llm",
-      "local-llm",
-      "mlx",
-      "multi-tenant",
-      "ollama",
-      "openai-compatible",
-      "opentelemetry",
-      "prometheus",
-      "self-hosted",
-      "sharded-inference",
-      "vllm"
-    ],
-    "created_at": "2026-06-05T03:06:23Z"
-  },
-  {
-    "id": "gh-1261206045",
-    "name": "amarnath3003/MCPify",
-    "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
-    "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 40,
-    "language": "TypeScript",
+    "id": "gh-1265976488",
+    "name": "liyupi/zhuanglema",
+    "description": "\u88c5\u4e86\u5417 \u2014\u2014 AI \u9a71\u52a8\u7684\u8f6f\u4ef6\u5b89\u88c5\u52a9\u624b\uff0c\u5e2e\u5b66\u7f16\u7a0b\u7684\u540c\u5b66\u4e00\u952e\u5b89\u88c5\u8f6f\u4ef6",
+    "url": "https://github.com/liyupi/zhuanglema",
+    "stars": 52,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "hackathon",
-      "mcp",
-      "mcp-server",
-      "npm"
+      "javascript",
+      "programming",
+      "python",
+      "software",
+      "vibe-coding"
     ],
-    "created_at": "2026-06-06T11:31:43Z"
+    "created_at": "2026-06-11T08:19:58Z"
   },
   {
-    "id": "gh-1261279210",
-    "name": "albertofettucini/Council",
-    "description": "Ask several AI models one question \u2014 they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-    "url": "https://github.com/albertofettucini/Council",
-    "stars": 39,
+    "id": "gh-1264692184",
+    "name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 48,
     "language": "Swift",
     "topics": [
       "ai",
-      "ai-tools",
-      "anthropic",
-      "bring-your-own-key",
-      "claude",
-      "gemini",
+      "apple-silicon",
+      "coreai",
+      "gemma4",
+      "granite",
+      "ios",
+      "iphone",
+      "lfm",
       "llm",
+      "local-llm",
       "macos",
-      "macos-app",
-      "multi-llm",
-      "ollama",
-      "openai",
-      "privacy",
-      "swift",
-      "swiftui"
+      "qwen"
     ],
-    "created_at": "2026-06-06T13:29:15Z"
+    "created_at": "2026-06-10T05:21:10Z"
   },
   {
-    "id": "gh-1261482517",
-    "name": "sudomichael/agentgraphed",
-    "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
-    "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 33,
-    "language": "TypeScript",
+    "id": "gh-1265260024",
+    "name": "kellyvv/OpenReshot",
+    "description": "A native iOS app for re-shooting regular photos from different angles.",
+    "url": "https://github.com/kellyvv/OpenReshot",
+    "stars": 36,
+    "language": "Python",
     "topics": [
-      "ai",
-      "analytics",
-      "claude-code",
-      "codex",
-      "dashboard",
-      "developer-tools",
-      "local-first"
+      "3d-gaussian-splatting",
+      "coreml",
+      "generative-ai",
+      "ios",
+      "openreshoot",
+      "photo-editing",
+      "swiftui"
     ],
-    "created_at": "2026-06-06T18:43:00Z"
+    "created_at": "2026-06-10T15:58:42Z"
   },
   {
     "id": "gh-1263098427",
     "name": "RightNow-AI/AutoMegaKernel",
     "description": "An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it past cuBLAS at batch-1 LLM decode.",
     "url": "https://github.com/RightNow-AI/AutoMegaKernel",
-    "stars": 25,
+    "stars": 27,
     "language": "Python",
     "topics": [
       "agent-harness",
@@ -245,30 +226,11 @@
     "created_at": "2026-06-08T16:08:59Z"
   },
   {
-    "id": "gh-1265260850",
-    "name": "mohammadmehdimasoumi/hybrid-movie-recommender",
-    "description": "Hybrid Movie Recommendation System built with Python, Pandas, NumPy and Machine Learning techniques.",
-    "url": "https://github.com/mohammadmehdimasoumi/hybrid-movie-recommender",
-    "stars": 9,
-    "language": "Python",
-    "topics": [
-      "collaborative-filtering",
-      "content-based-filtering",
-      "machine-learning",
-      "pandas",
-      "python",
-      "recommender-system",
-      "streamlit",
-      "tfidf"
-    ],
-    "created_at": "2026-06-10T15:59:37Z"
-  },
-  {
     "id": "gh-1264077731",
     "name": "xingguangYan/GEE-pro",
     "description": "GEEPro \u2014 A comprehensive Google Earth Engine skill pack for Codex & Claude. Covers Python (ee/geemap) and JavaScript APIs with 15 reference guides, 10 runnable examples, ML workflows, time-series analysis, SAR/optical fusion, export optimization, and a bundled local knowledge base. 85 files, 33 MB, MIT license.",
     "url": "https://github.com/xingguangYan/GEE-pro",
-    "stars": 9,
+    "stars": 12,
     "language": "Python",
     "topics": [
       "ai-assistant",
@@ -292,6 +254,41 @@
     "created_at": "2026-06-09T14:37:44Z"
   },
   {
+    "id": "gh-1265260850",
+    "name": "mohammadmehdimasoumi/hybrid-movie-recommender",
+    "description": "Hybrid Movie Recommendation System built with Python, Pandas, NumPy and Machine Learning techniques.",
+    "url": "https://github.com/mohammadmehdimasoumi/hybrid-movie-recommender",
+    "stars": 9,
+    "language": "Python",
+    "topics": [
+      "collaborative-filtering",
+      "content-based-filtering",
+      "machine-learning",
+      "pandas",
+      "python",
+      "recommender-system",
+      "streamlit",
+      "tfidf"
+    ],
+    "created_at": "2026-06-10T15:59:37Z"
+  },
+  {
+    "id": "gh-1264421074",
+    "name": "Dox45/protein.cpp",
+    "description": "High-performance C++ inference engine for ESMF protein foundation models",
+    "url": "https://github.com/Dox45/protein.cpp",
+    "stars": 9,
+    "language": "C",
+    "topics": [
+      "biotechnology",
+      "cpp",
+      "esmc",
+      "ggml",
+      "machine-learning"
+    ],
+    "created_at": "2026-06-09T21:44:50Z"
+  },
+  {
     "id": "gh-1261291158",
     "name": "nazmiefearmutcu/Prizma",
     "description": "Two small-scale research threads with pre-registered falsifiable bars + adversarial referee audits: Prizma-Seq (a parameter-free quadratic delta-state sequence mixer, an efficient-attention-replacement candidate) and Prizma (backprop-free, fully-local continual learning).",
@@ -308,24 +305,5 @@
       "sequence-model"
     ],
     "created_at": "2026-06-06T13:46:19Z"
-  },
-  {
-    "id": "gh-1261034692",
-    "name": "Noor-Sabah05/CodeRush-GDC-ITU-2026-Machine-Learning-Competition",
-    "description": "Economic class classification (lower/middle/upper) from bag-structured demographic data. Multi-seed 5-fold ensemble of LightGBM & XGBoost with OOF threshold tuning. Top 5 \u00b7 Coderush 2026",
-    "url": "https://github.com/Noor-Sabah05/CodeRush-GDC-ITU-2026-Machine-Learning-Competition",
-    "stars": 7,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "classification",
-      "ensemble-learning--bagging",
-      "kaggle-competition",
-      "lightgbm-classifier",
-      "machine-learning",
-      "python",
-      "tabular-data-analysis",
-      "xgboost-classifier"
-    ],
-    "created_at": "2026-06-06T06:43:28Z"
   }
 ]

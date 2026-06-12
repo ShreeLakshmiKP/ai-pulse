@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48480978",
-    "title": "\u03c0FS",
-    "url": "https://github.com/philipl/pifs",
-    "points": 752,
-    "comments": 179,
+    "id": "hn-48490024",
+    "title": "Show HN: Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "points": 1229,
+    "comments": 285,
     "source": "Hacker News",
-    "published_date": "2026-06-10T18:54:54Z"
+    "published_date": "2026-06-11T13:24:29Z"
   },
   {
-    "id": "hn-48477135",
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-    "url": "https://news.ycombinator.com/item?id=48477135",
-    "points": 671,
-    "comments": 490,
+    "id": "hn-48500012",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "points": 551,
+    "comments": 206,
     "source": "Hacker News",
-    "published_date": "2026-06-10T14:47:52Z"
+    "published_date": "2026-06-12T04:42:53Z"
   },
   {
-    "id": "hn-48484584",
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "points": 408,
-    "comments": 157,
+    "id": "hn-48498385",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "points": 460,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-06-11T00:10:08Z"
+    "published_date": "2026-06-12T00:38:11Z"
   },
   {
-    "id": "hn-48479452",
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "points": 403,
-    "comments": 282,
+    "id": "hn-48498573",
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "points": 439,
+    "comments": 341,
     "source": "Hacker News",
-    "published_date": "2026-06-10T17:11:56Z"
+    "published_date": "2026-06-12T01:06:51Z"
   },
   {
-    "id": "hn-48475871",
-    "title": "Ask HN: Are most corporate SWE jobs performative?",
-    "url": "https://news.ycombinator.com/item?id=48475871",
-    "points": 224,
-    "comments": 268,
+    "id": "hn-48489229",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "points": 421,
+    "comments": 385,
     "source": "Hacker News",
-    "published_date": "2026-06-10T13:18:34Z"
+    "published_date": "2026-06-11T12:05:02Z"
   },
   {
-    "id": "hn-48477400",
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "url": "https://burr.apache.org/",
-    "points": 220,
+    "id": "hn-48489402",
+    "title": "Lines of code got a better publicist",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "points": 393,
+    "comments": 275,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T12:26:42Z"
+  },
+  {
+    "id": "hn-48492210",
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "points": 320,
+    "comments": 151,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T16:03:21Z"
+  },
+  {
+    "id": "hn-48490057",
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+    "points": 269,
+    "comments": 215,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T13:26:59Z"
+  },
+  {
+    "id": "hn-48489917",
+    "title": "Open Reproduction of DeepSeek-R1",
+    "url": "https://github.com/huggingface/open-r1",
+    "points": 231,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T13:14:31Z"
+  },
+  {
+    "id": "hn-48495575",
+    "title": "Shall we play a game? My AI nuclear simulation",
+    "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "points": 194,
+    "comments": 181,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T19:54:54Z"
+  },
+  {
+    "id": "hn-48491486",
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "url": "https://github.com/icitry/FPS.cob",
+    "points": 121,
+    "comments": 66,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T15:13:57Z"
+  },
+  {
+    "id": "hn-48490245",
+    "title": "US-Canada border library gets new Quebec-only entrance",
+    "url": "https://www.bbc.com/news/videos/clyrvrde160o",
+    "points": 117,
+    "comments": 132,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T13:42:42Z"
+  },
+  {
+    "id": "hn-48497576",
+    "title": "A jacket that harvests drinking water from the air",
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "points": 108,
+    "comments": 68,
+    "source": "Hacker News",
+    "published_date": "2026-06-11T22:59:22Z"
+  },
+  {
+    "id": "hn-48492118",
+    "title": "Ask HN: How do you get into a flow state when using AI to code?",
+    "url": "https://news.ycombinator.com/item?id=48492118",
+    "points": 87,
     "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-06-10T15:01:06Z"
+    "published_date": "2026-06-11T15:56:25Z"
   },
   {
-    "id": "hn-48478469",
-    "title": "Show HN: Extend UI \u2013 open-source UI kit for modern document apps",
-    "url": "https://www.extend.ai/ui",
-    "points": 212,
-    "comments": 52,
+    "id": "hn-48496483",
+    "title": "Tailwind and slop apps",
+    "url": "https://briandouglas.ie/llm-tailwind-template/",
+    "points": 75,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-06-10T16:09:26Z"
+    "published_date": "2026-06-11T21:12:47Z"
   },
   {
-    "id": "hn-48476136",
-    "title": "A \u20ac0.01 bank transfer could compromise a banking AI agent",
-    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "points": 186,
-    "comments": 177,
+    "id": "hn-48492177",
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "points": 55,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-06-10T13:39:11Z"
+    "published_date": "2026-06-11T16:01:01Z"
   },
   {
-    "id": "hn-48477851",
-    "title": "Authentication issues related to API requests",
-    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-    "points": 160,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T15:29:52Z"
-  },
-  {
-    "id": "hn-48480719",
-    "title": "Policy on the AI Exponential",
-    "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-    "points": 152,
-    "comments": 210,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T18:36:04Z"
-  },
-  {
-    "id": "hn-48478148",
-    "title": "Show HN: HelixDB \u2013 A graph database built on object storage",
-    "url": "https://github.com/HelixDB/helix-db/tree/main",
-    "points": 127,
-    "comments": 36,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T15:47:31Z"
-  },
-  {
-    "id": "hn-48487435",
-    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "points": 60,
+    "id": "hn-48490939",
+    "title": "How a new DSL may survive in the era of LLMs",
+    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "points": 42,
     "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-06-11T07:35:12Z"
+    "published_date": "2026-06-11T14:35:41Z"
   },
   {
-    "id": "hn-48486944",
-    "title": "Macaroni \u2013 a single HTML file messenger",
-    "url": "https://github.com/vanyapr/makaroshki",
-    "points": 52,
-    "comments": 47,
+    "id": "hn-48489835",
+    "title": "More AI-generated code doesn't make your team faster. It might slow you",
+    "url": "https://twitter.com/awscloud/status/2064449711155589396",
+    "points": 41,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-06-11T06:32:33Z"
+    "published_date": "2026-06-11T13:06:08Z"
   },
   {
-    "id": "hn-48478410",
-    "title": "Postgres by Example",
-    "url": "https://github.com/boringcollege/postgres-by-example",
-    "points": 47,
-    "comments": 6,
+    "id": "hn-48489335",
+    "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
+    "url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5",
+    "points": 28,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-06-10T16:05:06Z"
+    "published_date": "2026-06-11T12:19:17Z"
   },
   {
-    "id": "hn-48485958",
-    "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
-    "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-    "points": 46,
-    "comments": 20,
+    "id": "hn-48490410",
+    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "points": 28,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-06-11T03:41:06Z"
-  },
-  {
-    "id": "hn-48476189",
-    "title": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents \u00b7 Lua.ex",
-    "url": "https://deflua.com/",
-    "points": 31,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T13:44:54Z"
-  },
-  {
-    "id": "hn-48479996",
-    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-    "points": 29,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T17:47:46Z"
-  },
-  {
-    "id": "hn-48476792",
-    "title": "Cops Keep Getting Arrested for Using Flock to Stalk People",
-    "url": "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
-    "points": 24,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T14:26:08Z"
-  },
-  {
-    "id": "hn-48486370",
-    "title": "It blocked us at 'hello ' Anthropic Fable 5 refusing innocuous prompts",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/10/anthropic-claude-fable-5-refuses-innocuous-prompts/5253754",
-    "points": 23,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T04:54:52Z"
-  },
-  {
-    "id": "hn-48481593",
-    "title": "Apple Made a Sports App That Does Almost Nothing. It's Incredible",
-    "url": "https://slate.com/technology/2026/06/fifa-world-cup-apple-app-sports.html",
-    "points": 19,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-06-10T19:43:20Z"
+    "published_date": "2026-06-11T13:56:24Z"
   }
 ]

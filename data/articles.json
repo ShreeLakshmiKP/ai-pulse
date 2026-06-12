@@ -1573,6 +1573,23 @@
     "image": null
   },
   {
+    "id": "rss-d4285fc1",
+    "title": "Investing in multi-agent AI safety research",
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "tags": [
+      "agents",
+      "safety",
+      "funding"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 10 Jun 2026 10:21:19 +0000",
+    "image": null
+  },
+  {
     "id": "rss-ea2ec57e",
     "title": "The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture",
     "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills.",
@@ -4308,19 +4325,6 @@
     ],
     "category": "Robotics",
     "published_date": "Tue, 09 Jun 2026 14:02:33 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-52b0b046",
-    "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 12:10:00 +0000",
     "image": null
   }
 ]
