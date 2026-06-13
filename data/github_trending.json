@@ -1,30 +1,10 @@
 [
   {
-    "id": "gh-1261422007",
-    "name": "amElnagdy/guard-skills",
-    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 573,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai",
-      "claude",
-      "claude-code",
-      "code-review",
-      "codex",
-      "skills-sh",
-      "woocommerce",
-      "wordpress"
-    ],
-    "created_at": "2026-06-06T16:59:27Z"
-  },
-  {
     "id": "gh-1266797999",
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 371,
+    "stars": 1050,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -45,7 +25,7 @@
     "name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 172,
+    "stars": 300,
     "language": "Zig",
     "topics": [
       "ai",
@@ -58,20 +38,76 @@
     "created_at": "2026-06-10T01:53:01Z"
   },
   {
+    "id": "gh-1264531337",
+    "name": "alchaincyf/fanbox",
+    "description": "vibe coding \u7684\u9a7e\u9a76\u8231\uff1a\u5de6\u8fb9\u6587\u4ef6\uff0c\u53f3\u8fb9/\u4e0b\u8fb9\u7ec8\u7aef\uff0c\u4e2d\u95f4\u770b\u6e05\u6bcf\u4e00\u6b21\u6539\u52a8\u3002 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "stars": 261,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "ai",
+      "claude",
+      "codex",
+      "electron",
+      "file-manager",
+      "local-first",
+      "macos",
+      "terminal",
+      "vibe-coding"
+    ],
+    "created_at": "2026-06-10T01:01:42Z"
+  },
+  {
+    "id": "gh-1262689338",
+    "name": "kadevin/ilab-gpt-conjure",
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
+    "url": "https://github.com/kadevin/ilab-gpt-conjure",
+    "stars": 167,
+    "language": "Python",
+    "topics": [
+      "ai-art",
+      "ai-image-generation",
+      "cli",
+      "codex",
+      "fastapi",
+      "generative-ai",
+      "gpt-image-2",
+      "image-editing",
+      "image-generation",
+      "img2img",
+      "macos",
+      "openai",
+      "openai-compatible",
+      "prompt-engineering",
+      "prompt-templates",
+      "python",
+      "reference-images",
+      "responses-api",
+      "webui",
+      "windows"
+    ],
+    "created_at": "2026-06-08T08:20:30Z"
+  },
+  {
     "id": "gh-1263648864",
     "name": "cobusgreyling/loop-engineering",
-    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 101,
+    "stars": 118,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
       "ai-agents",
       "ai-coding",
+      "anthropic",
       "automation",
+      "claude",
       "claude-code",
       "codex",
+      "coding-agents",
       "devops-automation",
+      "devtools",
       "github-actions",
       "grok",
       "llm",
@@ -82,11 +118,29 @@
     "created_at": "2026-06-09T06:28:20Z"
   },
   {
+    "id": "gh-1266125334",
+    "name": "TestSprite/testsprite-cli",
+    "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "stars": 114,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "e2e-testing",
+      "playwright",
+      "qa",
+      "test-automation",
+      "testing"
+    ],
+    "created_at": "2026-06-11T10:44:15Z"
+  },
+  {
     "id": "gh-1262842296",
     "name": "borhen68/TokenTamer",
     "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50\u201380% without losing what the model actually needs to know.",
     "url": "https://github.com/borhen68/TokenTamer",
-    "stars": 92,
+    "stars": 102,
     "language": "Python",
     "topics": [
       "ai-coding-agent",
@@ -107,7 +161,7 @@
     "name": "agentic-in/inferoa",
     "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
     "url": "https://github.com/agentic-in/inferoa",
-    "stars": 88,
+    "stars": 97,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -124,52 +178,27 @@
     "created_at": "2026-06-08T06:29:56Z"
   },
   {
-    "id": "gh-1262328297",
-    "name": "Tools2U/AI-Website-Audit-CLI",
-    "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
-    "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
-    "stars": 58,
-    "language": "Python",
-    "topics": [
-      "accessibility",
-      "ai",
-      "audit",
-      "automation",
-      "cli",
-      "developer",
-      "openai",
-      "python",
-      "security",
-      "securityaudit",
-      "seo",
-      "ux",
-      "website-audit"
-    ],
-    "created_at": "2026-06-07T21:32:29Z"
-  },
-  {
-    "id": "gh-1265976488",
-    "name": "liyupi/zhuanglema",
-    "description": "\u88c5\u4e86\u5417 \u2014\u2014 AI \u9a71\u52a8\u7684\u8f6f\u4ef6\u5b89\u88c5\u52a9\u624b\uff0c\u5e2e\u5b66\u7f16\u7a0b\u7684\u540c\u5b66\u4e00\u952e\u5b89\u88c5\u8f6f\u4ef6",
-    "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 52,
-    "language": "JavaScript",
+    "id": "gh-1263681504",
+    "name": "xingwudao/xquant-beginner",
+    "description": "\u300aXQuant\uff1a\u4eba\u4eba\u90fd\u662f\u91cf\u5316\u4ea4\u6613\u5458\u300b\u5f00\u6e90\u4e66\u7a3f",
+    "url": "https://github.com/xingwudao/xquant-beginner",
+    "stars": 67,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "javascript",
-      "programming",
-      "python",
-      "software",
-      "vibe-coding"
+      "gitbook",
+      "quant",
+      "trading",
+      "vitepress"
     ],
-    "created_at": "2026-06-11T08:19:58Z"
+    "created_at": "2026-06-09T07:08:36Z"
   },
   {
     "id": "gh-1264692184",
     "name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 48,
+    "stars": 61,
     "language": "Swift",
     "topics": [
       "ai",
@@ -192,8 +221,8 @@
     "name": "kellyvv/OpenReshot",
     "description": "A native iOS app for re-shooting regular photos from different angles.",
     "url": "https://github.com/kellyvv/OpenReshot",
-    "stars": 36,
-    "language": "Python",
+    "stars": 41,
+    "language": "Swift",
     "topics": [
       "3d-gaussian-splatting",
       "coreml",
@@ -210,7 +239,7 @@
     "name": "RightNow-AI/AutoMegaKernel",
     "description": "An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it past cuBLAS at batch-1 LLM decode.",
     "url": "https://github.com/RightNow-AI/AutoMegaKernel",
-    "stars": 27,
+    "stars": 30,
     "language": "Python",
     "topics": [
       "agent-harness",
@@ -226,39 +255,11 @@
     "created_at": "2026-06-08T16:08:59Z"
   },
   {
-    "id": "gh-1264077731",
-    "name": "xingguangYan/GEE-pro",
-    "description": "GEEPro \u2014 A comprehensive Google Earth Engine skill pack for Codex & Claude. Covers Python (ee/geemap) and JavaScript APIs with 15 reference guides, 10 runnable examples, ML workflows, time-series analysis, SAR/optical fusion, export optimization, and a bundled local knowledge base. 85 files, 33 MB, MIT license.",
-    "url": "https://github.com/xingguangYan/GEE-pro",
-    "stars": 12,
-    "language": "Python",
-    "topics": [
-      "ai-assistant",
-      "claude-code",
-      "claude-skill",
-      "codex",
-      "codex-skill",
-      "earth-engine",
-      "gee",
-      "geemap",
-      "google-earth-engine",
-      "landsat",
-      "machine-learning",
-      "ndvi",
-      "remote-sensing",
-      "sar",
-      "satellite-imagery",
-      "sentinel-2",
-      "time-series-analysis"
-    ],
-    "created_at": "2026-06-09T14:37:44Z"
-  },
-  {
     "id": "gh-1265260850",
     "name": "mohammadmehdimasoumi/hybrid-movie-recommender",
     "description": "Hybrid Movie Recommendation System built with Python, Pandas, NumPy and Machine Learning techniques.",
     "url": "https://github.com/mohammadmehdimasoumi/hybrid-movie-recommender",
-    "stars": 9,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "collaborative-filtering",
@@ -271,6 +272,27 @@
       "tfidf"
     ],
     "created_at": "2026-06-10T15:59:37Z"
+  },
+  {
+    "id": "gh-1266183639",
+    "name": "MD-Mushfiqur123/lychee",
+    "description": "Lychee: Universal Local LLM Runtime with Anthropic API, Model Composer, Agent Sandbox, HuggingFace Pull, and Embedded Web Dashboard \u2014 built on top of Ollama",
+    "url": "https://github.com/MD-Mushfiqur123/lychee",
+    "stars": 10,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "gguf",
+      "golang",
+      "huggingface",
+      "llm",
+      "local-ai",
+      "machine-learning",
+      "ollama"
+    ],
+    "created_at": "2026-06-11T11:47:41Z"
   },
   {
     "id": "gh-1264421074",
@@ -287,23 +309,5 @@
       "machine-learning"
     ],
     "created_at": "2026-06-09T21:44:50Z"
-  },
-  {
-    "id": "gh-1261291158",
-    "name": "nazmiefearmutcu/Prizma",
-    "description": "Two small-scale research threads with pre-registered falsifiable bars + adversarial referee audits: Prizma-Seq (a parameter-free quadratic delta-state sequence mixer, an efficient-attention-replacement candidate) and Prizma (backprop-free, fully-local continual learning).",
-    "url": "https://github.com/nazmiefearmutcu/Prizma",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "continual-learning",
-      "deep-learning",
-      "efficient-attention",
-      "machine-learning",
-      "pytorch",
-      "research",
-      "sequence-model"
-    ],
-    "created_at": "2026-06-06T13:46:19Z"
   }
 ]

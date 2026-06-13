@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48490024",
-    "title": "Show HN: Homebrew 6.0.0",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "points": 1229,
-    "comments": 285,
+    "id": "hn-48511072",
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "points": 2144,
+    "comments": 1554,
     "source": "Hacker News",
-    "published_date": "2026-06-11T13:24:29Z"
+    "published_date": "2026-06-13T00:51:30Z"
   },
   {
-    "id": "hn-48500012",
-    "title": "AI agent bankrupted their operator while trying to scan DN42",
-    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-    "points": 551,
-    "comments": 206,
+    "id": "hn-48511908",
+    "title": "Open source AI must win",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "points": 842,
+    "comments": 259,
     "source": "Hacker News",
-    "published_date": "2026-06-12T04:42:53Z"
+    "published_date": "2026-06-13T02:14:24Z"
   },
   {
-    "id": "hn-48498385",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "points": 460,
-    "comments": 152,
+    "id": "hn-48506659",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "points": 252,
+    "comments": 78,
     "source": "Hacker News",
-    "published_date": "2026-06-12T00:38:11Z"
+    "published_date": "2026-06-12T17:07:46Z"
   },
   {
-    "id": "hn-48498573",
-    "title": "Claude Fable is relentlessly proactive",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "points": 439,
-    "comments": 341,
+    "id": "hn-48511121",
+    "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+    "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+    "points": 250,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-06-12T01:06:51Z"
+    "published_date": "2026-06-13T00:58:06Z"
   },
   {
-    "id": "hn-48489229",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "points": 421,
-    "comments": 385,
+    "id": "hn-48504063",
+    "title": "WASI 0.3",
+    "url": "https://bytecodealliance.org/articles/WASI-0.3",
+    "points": 245,
+    "comments": 91,
     "source": "Hacker News",
-    "published_date": "2026-06-11T12:05:02Z"
+    "published_date": "2026-06-12T13:51:15Z"
   },
   {
-    "id": "hn-48489402",
-    "title": "Lines of code got a better publicist",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "points": 393,
-    "comments": 275,
+    "id": "hn-48504912",
+    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "points": 191,
+    "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-06-11T12:26:42Z"
+    "published_date": "2026-06-12T14:48:38Z"
   },
   {
-    "id": "hn-48492210",
-    "title": "Claude Fable 5: mid-tier results on coding tasks",
-    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "points": 320,
-    "comments": 151,
+    "id": "hn-48504543",
+    "title": "A dumpster arrived behind my university's library",
+    "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+    "points": 164,
+    "comments": 159,
     "source": "Hacker News",
-    "published_date": "2026-06-11T16:03:21Z"
+    "published_date": "2026-06-12T14:21:22Z"
   },
   {
-    "id": "hn-48490057",
-    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-    "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-    "points": 269,
-    "comments": 215,
+    "id": "hn-48505452",
+    "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
+    "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+    "points": 125,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-06-11T13:26:59Z"
+    "published_date": "2026-06-12T15:32:56Z"
   },
   {
-    "id": "hn-48489917",
-    "title": "Open Reproduction of DeepSeek-R1",
-    "url": "https://github.com/huggingface/open-r1",
-    "points": 231,
-    "comments": 18,
+    "id": "hn-48509133",
+    "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "points": 90,
+    "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-06-11T13:14:31Z"
+    "published_date": "2026-06-12T20:33:22Z"
   },
   {
-    "id": "hn-48495575",
-    "title": "Shall we play a game? My AI nuclear simulation",
-    "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-    "points": 194,
-    "comments": 181,
+    "id": "hn-48509143",
+    "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+    "url": "https://worldofclaudecraft.com/",
+    "points": 90,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-06-11T19:54:54Z"
+    "published_date": "2026-06-12T20:34:42Z"
   },
   {
-    "id": "hn-48491486",
-    "title": "FPS.cob: A first person shooter in COBOL",
-    "url": "https://github.com/icitry/FPS.cob",
-    "points": 121,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T15:13:57Z"
-  },
-  {
-    "id": "hn-48490245",
-    "title": "US-Canada border library gets new Quebec-only entrance",
-    "url": "https://www.bbc.com/news/videos/clyrvrde160o",
-    "points": 117,
-    "comments": 132,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T13:42:42Z"
-  },
-  {
-    "id": "hn-48497576",
-    "title": "A jacket that harvests drinking water from the air",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "points": 108,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T22:59:22Z"
-  },
-  {
-    "id": "hn-48492118",
-    "title": "Ask HN: How do you get into a flow state when using AI to code?",
-    "url": "https://news.ycombinator.com/item?id=48492118",
-    "points": 87,
-    "comments": 107,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T15:56:25Z"
-  },
-  {
-    "id": "hn-48496483",
-    "title": "Tailwind and slop apps",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "points": 75,
-    "comments": 60,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T21:12:47Z"
-  },
-  {
-    "id": "hn-48492177",
-    "title": "MTG Bench: Testing how well LLMs can play Magic",
-    "url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "points": 55,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T16:01:01Z"
-  },
-  {
-    "id": "hn-48490939",
-    "title": "How a new DSL may survive in the era of LLMs",
-    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "points": 42,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T14:35:41Z"
-  },
-  {
-    "id": "hn-48489835",
-    "title": "More AI-generated code doesn't make your team faster. It might slow you",
-    "url": "https://twitter.com/awscloud/status/2064449711155589396",
-    "points": 41,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T13:06:08Z"
-  },
-  {
-    "id": "hn-48489335",
-    "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
-    "url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5",
-    "points": 28,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-06-11T12:19:17Z"
-  },
-  {
-    "id": "hn-48490410",
-    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-    "points": 28,
+    "id": "hn-48511168",
+    "title": "As a result of a US Government directive, we are suspending access to Fable 5",
+    "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
+    "points": 88,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-06-11T13:56:24Z"
+    "published_date": "2026-06-13T01:02:41Z"
+  },
+  {
+    "id": "hn-48513728",
+    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "points": 66,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-06-13T05:44:46Z"
+  },
+  {
+    "id": "hn-48505364",
+    "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
+    "url": "https://stackscope.dev/",
+    "points": 55,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T15:26:12Z"
+  },
+  {
+    "id": "hn-48504544",
+    "title": "How to automate Instagram engagements with computer vision (and get banned)",
+    "url": "https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html",
+    "points": 54,
+    "comments": 33,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T14:21:30Z"
+  },
+  {
+    "id": "hn-48505161",
+    "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+    "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+    "points": 54,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T15:08:59Z"
+  },
+  {
+    "id": "hn-48506545",
+    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+    "url": "https://bitboard.work/",
+    "points": 43,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T16:58:03Z"
+  },
+  {
+    "id": "hn-48509844",
+    "title": "SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "points": 40,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T21:49:49Z"
+  },
+  {
+    "id": "hn-48506701",
+    "title": "SpaceX increases almost 30% after biggest IPO",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+    "points": 30,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T17:10:07Z"
+  },
+  {
+    "id": "hn-48502456",
+    "title": "AI Economics for Dummies",
+    "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+    "points": 29,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-06-12T10:56:45Z"
+  },
+  {
+    "id": "hn-48511663",
+    "title": "Reddit RSS feeds recent rate limiting and solution",
+    "url": "https://lapcatsoftware.com/articles/2026/6/3.html",
+    "points": 28,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-06-13T01:51:49Z"
   }
 ]
