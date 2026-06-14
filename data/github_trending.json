@@ -4,7 +4,7 @@
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 1050,
+    "stars": 2226,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -21,28 +21,11 @@
     "created_at": "2026-06-12T00:52:37Z"
   },
   {
-    "id": "gh-1264560911",
-    "name": "coder/boo",
-    "description": "A GNU screen style terminal multiplexer built on libghostty.",
-    "url": "https://github.com/coder/boo",
-    "stars": 300,
-    "language": "Zig",
-    "topics": [
-      "ai",
-      "coding",
-      "ghostty",
-      "multiplexer",
-      "screen",
-      "terminal"
-    ],
-    "created_at": "2026-06-10T01:53:01Z"
-  },
-  {
     "id": "gh-1264531337",
     "name": "alchaincyf/fanbox",
     "description": "vibe coding \u7684\u9a7e\u9a76\u8231\uff1a\u5de6\u8fb9\u6587\u4ef6\uff0c\u53f3\u8fb9/\u4e0b\u8fb9\u7ec8\u7aef\uff0c\u4e2d\u95f4\u770b\u6e05\u6bcf\u4e00\u6b21\u6539\u52a8\u3002 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 261,
+    "stars": 487,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -59,11 +42,28 @@
     "created_at": "2026-06-10T01:01:42Z"
   },
   {
+    "id": "gh-1264560911",
+    "name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "url": "https://github.com/coder/boo",
+    "stars": 369,
+    "language": "Zig",
+    "topics": [
+      "ai",
+      "coding",
+      "ghostty",
+      "multiplexer",
+      "screen",
+      "terminal"
+    ],
+    "created_at": "2026-06-10T01:53:01Z"
+  },
+  {
     "id": "gh-1262689338",
     "name": "kadevin/ilab-gpt-conjure",
     "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
     "url": "https://github.com/kadevin/ilab-gpt-conjure",
-    "stars": 167,
+    "stars": 348,
     "language": "Python",
     "topics": [
       "ai-art",
@@ -90,11 +90,67 @@
     "created_at": "2026-06-08T08:20:30Z"
   },
   {
+    "id": "gh-1267982346",
+    "name": "eli-labz/Third-Eye",
+    "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+    "url": "https://github.com/eli-labz/Third-Eye",
+    "stars": 285,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "geospatial",
+      "maven-smart-system",
+      "palantir"
+    ],
+    "created_at": "2026-06-13T03:15:46Z"
+  },
+  {
+    "id": "gh-1266625409",
+    "name": "itsinseong/value-for-fable",
+    "description": "Fable 5 \uc218\uc900\uc758 \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
+    "url": "https://github.com/itsinseong/value-for-fable",
+    "stars": 147,
+    "language": "Shell",
+    "topics": [
+      "agentic",
+      "ai",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "fable",
+      "fable5",
+      "harness",
+      "opus",
+      "prompt-engineering",
+      "sonnet"
+    ],
+    "created_at": "2026-06-11T19:54:14Z"
+  },
+  {
+    "id": "gh-1266125334",
+    "name": "TestSprite/testsprite-cli",
+    "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "stars": 143,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "e2e-testing",
+      "playwright",
+      "qa",
+      "test-automation",
+      "testing"
+    ],
+    "created_at": "2026-06-11T10:44:15Z"
+  },
+  {
     "id": "gh-1263648864",
     "name": "cobusgreyling/loop-engineering",
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 118,
+    "stars": 142,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -118,92 +174,71 @@
     "created_at": "2026-06-09T06:28:20Z"
   },
   {
-    "id": "gh-1266125334",
-    "name": "TestSprite/testsprite-cli",
-    "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-    "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 114,
-    "language": "TypeScript",
+    "id": "gh-1267239286",
+    "name": "buynao/aipath",
+    "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+    "url": "https://github.com/buynao/aipath",
+    "stars": 136,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "cli",
-      "e2e-testing",
-      "playwright",
-      "qa",
-      "test-automation",
-      "testing"
+      "machine-learning"
     ],
-    "created_at": "2026-06-11T10:44:15Z"
+    "created_at": "2026-06-12T10:58:35Z"
   },
   {
-    "id": "gh-1262842296",
-    "name": "borhen68/TokenTamer",
-    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50\u201380% without losing what the model actually needs to know.",
-    "url": "https://github.com/borhen68/TokenTamer",
-    "stars": 102,
-    "language": "Python",
-    "topics": [
-      "ai-coding-agent",
-      "anthropic",
-      "context-compression",
-      "cost-reduction",
-      "developer-tools",
-      "llm",
-      "openai",
-      "proxy",
-      "python",
-      "token-optimization"
-    ],
-    "created_at": "2026-06-08T11:25:21Z"
-  },
-  {
-    "id": "gh-1262603912",
-    "name": "agentic-in/inferoa",
-    "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
-    "url": "https://github.com/agentic-in/inferoa",
-    "stars": 97,
+    "id": "gh-1262940334",
+    "name": "clarilayer/clarilayer",
+    "description": "Stop re-explaining your data to your AI every session. The individual-analyst context layer, delivered over MCP (Claude Code / Cursor / Codex).",
+    "url": "https://github.com/clarilayer/clarilayer",
+    "stars": 124,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "agent-harness",
-      "agentic-ai",
-      "harness-engineering",
-      "inference",
-      "kvcache",
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "context-engineering",
+      "cursor",
+      "data-engineering",
+      "dbt",
       "llm",
-      "loop-engineering",
-      "token",
-      "tokenmaxxing"
+      "mcp",
+      "model-context-protocol"
     ],
-    "created_at": "2026-06-08T06:29:56Z"
+    "created_at": "2026-06-08T13:17:43Z"
   },
   {
-    "id": "gh-1263681504",
-    "name": "xingwudao/xquant-beginner",
-    "description": "\u300aXQuant\uff1a\u4eba\u4eba\u90fd\u662f\u91cf\u5316\u4ea4\u6613\u5458\u300b\u5f00\u6e90\u4e66\u7a3f",
-    "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 67,
+    "id": "gh-1264017362",
+    "name": "hvardhan878/ghostwork",
+    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently.",
+    "url": "https://github.com/hvardhan878/ghostwork",
+    "stars": 122,
     "language": "TypeScript",
     "topics": [
+      "accesibility",
       "ai",
-      "gitbook",
-      "quant",
-      "trading",
-      "vitepress"
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "llm",
+      "macos",
+      "screenpipe",
+      "typescript"
     ],
-    "created_at": "2026-06-09T07:08:36Z"
+    "created_at": "2026-06-09T13:34:34Z"
   },
   {
     "id": "gh-1264692184",
     "name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 61,
+    "stars": 112,
     "language": "Swift",
     "topics": [
       "ai",
       "apple-silicon",
       "coreai",
+      "coreml",
       "gemma4",
       "granite",
       "ios",
@@ -212,6 +247,7 @@
       "llm",
       "local-llm",
       "macos",
+      "minicpm",
       "qwen"
     ],
     "created_at": "2026-06-10T05:21:10Z"
@@ -221,7 +257,7 @@
     "name": "kellyvv/OpenReshot",
     "description": "A native iOS app for re-shooting regular photos from different angles.",
     "url": "https://github.com/kellyvv/OpenReshot",
-    "stars": 41,
+    "stars": 54,
     "language": "Swift",
     "topics": [
       "3d-gaussian-splatting",
@@ -239,7 +275,7 @@
     "name": "RightNow-AI/AutoMegaKernel",
     "description": "An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it past cuBLAS at batch-1 LLM decode.",
     "url": "https://github.com/RightNow-AI/AutoMegaKernel",
-    "stars": 30,
+    "stars": 33,
     "language": "Python",
     "topics": [
       "agent-harness",
@@ -255,59 +291,34 @@
     "created_at": "2026-06-08T16:08:59Z"
   },
   {
-    "id": "gh-1265260850",
-    "name": "mohammadmehdimasoumi/hybrid-movie-recommender",
-    "description": "Hybrid Movie Recommendation System built with Python, Pandas, NumPy and Machine Learning techniques.",
-    "url": "https://github.com/mohammadmehdimasoumi/hybrid-movie-recommender",
-    "stars": 11,
-    "language": "Python",
+    "id": "gh-1263234639",
+    "name": "rudrankriyam/Core-AI-Framework-Lab",
+    "description": "A practical lab for exploring Apple's Core AI framework, model assets, specialization, and on-device inference.",
+    "url": "https://github.com/rudrankriyam/Core-AI-Framework-Lab",
+    "stars": 15,
+    "language": "Swift",
     "topics": [
-      "collaborative-filtering",
-      "content-based-filtering",
-      "machine-learning",
-      "pandas",
-      "python",
-      "recommender-system",
-      "streamlit",
-      "tfidf"
-    ],
-    "created_at": "2026-06-10T15:59:37Z"
-  },
-  {
-    "id": "gh-1266183639",
-    "name": "MD-Mushfiqur123/lychee",
-    "description": "Lychee: Universal Local LLM Runtime with Anthropic API, Model Composer, Agent Sandbox, HuggingFace Pull, and Embedded Web Dashboard \u2014 built on top of Ollama",
-    "url": "https://github.com/MD-Mushfiqur123/lychee",
-    "stars": 10,
-    "language": "Go",
-    "topics": [
-      "agent",
       "ai",
-      "anthropic",
-      "gguf",
-      "golang",
-      "huggingface",
-      "llm",
-      "local-ai",
+      "apple",
+      "apple-core-ai",
+      "apple-silicon",
+      "core-ai",
+      "core-ai-framework",
+      "generative-ai",
+      "ios",
       "machine-learning",
-      "ollama"
+      "macos",
+      "metal",
+      "model-conversion",
+      "neural-engine",
+      "on-device-ai",
+      "pytorch",
+      "speech-synthesis",
+      "swift",
+      "swiftui",
+      "text-to-speech",
+      "xcode"
     ],
-    "created_at": "2026-06-11T11:47:41Z"
-  },
-  {
-    "id": "gh-1264421074",
-    "name": "Dox45/protein.cpp",
-    "description": "High-performance C++ inference engine for ESMF protein foundation models",
-    "url": "https://github.com/Dox45/protein.cpp",
-    "stars": 9,
-    "language": "C",
-    "topics": [
-      "biotechnology",
-      "cpp",
-      "esmc",
-      "ggml",
-      "machine-learning"
-    ],
-    "created_at": "2026-06-09T21:44:50Z"
+    "created_at": "2026-06-08T18:53:57Z"
   }
 ]
