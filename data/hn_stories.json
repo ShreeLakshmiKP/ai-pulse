@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48518684",
-    "title": "GLM 5.2 Is Out",
-    "url": "https://twitter.com/jietang/status/2065784751345287314",
-    "points": 567,
-    "comments": 304,
+    "id": "hn-48529990",
+    "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "points": 582,
+    "comments": 116,
     "source": "Hacker News",
-    "published_date": "2026-06-13T16:18:31Z"
+    "published_date": "2026-06-14T17:25:38Z"
   },
   {
-    "id": "hn-48520807",
-    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-    "points": 318,
-    "comments": 151,
+    "id": "hn-48527700",
+    "title": "Not everyone is using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "points": 469,
+    "comments": 504,
     "source": "Hacker News",
-    "published_date": "2026-06-13T19:54:55Z"
+    "published_date": "2026-06-14T14:44:29Z"
   },
   {
-    "id": "hn-48518969",
-    "title": "AI coding at home without going broke",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "points": 287,
-    "comments": 237,
+    "id": "hn-48528371",
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "points": 360,
+    "comments": 193,
     "source": "Hacker News",
-    "published_date": "2026-06-13T16:45:03Z"
+    "published_date": "2026-06-14T15:37:31Z"
   },
   {
-    "id": "hn-48516504",
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "url": "https://github.com/tensorzero/tensorzero",
-    "points": 259,
-    "comments": 163,
+    "id": "hn-48528729",
+    "title": "Linux 7.1",
+    "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+    "points": 296,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-06-13T12:10:47Z"
+    "published_date": "2026-06-14T16:01:30Z"
   },
   {
-    "id": "hn-48515385",
-    "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
-    "url": "https://github.com/Paca-AI/paca",
-    "points": 150,
-    "comments": 55,
+    "id": "hn-48536776",
+    "title": "Apple Foundation Models",
+    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "points": 208,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-06-13T09:44:25Z"
+    "published_date": "2026-06-15T04:55:34Z"
   },
   {
-    "id": "hn-48517412",
-    "title": "Orthodox C++ (2016)",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "points": 94,
-    "comments": 178,
+    "id": "hn-48527297",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "points": 148,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-06-13T13:58:46Z"
+    "published_date": "2026-06-14T14:01:35Z"
   },
   {
-    "id": "hn-48519519",
-    "title": "PwC Report: AI Making Medical Bills Higher",
-    "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-    "points": 76,
-    "comments": 15,
+    "id": "hn-48532178",
+    "title": "AI is code \u2013 and can't be prompted into being smarter",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "points": 140,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-06-13T17:39:14Z"
+    "published_date": "2026-06-14T20:17:54Z"
   },
   {
-    "id": "hn-48523271",
-    "title": "Meta\u2019s chaotic AI strategy",
-    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "id": "hn-48533308",
+    "title": "Why Is Claude Turning into an a**Hole?",
+    "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+    "points": 112,
+    "comments": 175,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T22:04:01Z"
+  },
+  {
+    "id": "hn-48531394",
+    "title": "Yserver: A modern X11 server written in Rust",
+    "url": "https://github.com/joske/yserver",
+    "points": 107,
+    "comments": 113,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T19:10:35Z"
+  },
+  {
+    "id": "hn-48531449",
+    "title": "Chaosnet (1981)",
+    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "points": 90,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T19:14:21Z"
+  },
+  {
+    "id": "hn-48535215",
+    "title": "The hallucinogenic mushroom that contains no known psychedelic",
+    "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+    "points": 74,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T01:07:37Z"
+  },
+  {
+    "id": "hn-48527623",
+    "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+    "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+    "points": 69,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T14:37:51Z"
+  },
+  {
+    "id": "hn-48527946",
+    "title": "Ponytail \u2013 make your AI agent think like the laziest senior dev in the room",
+    "url": "https://github.com/DietrichGebert/ponytail",
     "points": 66,
-    "comments": 69,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T01:23:45Z"
-  },
-  {
-    "id": "hn-48516573",
-    "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-    "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-    "points": 53,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-06-13T12:20:05Z"
-  },
-  {
-    "id": "hn-48522555",
-    "title": "Show HN: I built 80 mini-games using Fable before it was shut down",
-    "url": "https://minigames.world/en",
-    "points": 50,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-06-13T23:35:40Z"
-  },
-  {
-    "id": "hn-48523752",
-    "title": "Making Claude a Chemist",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "points": 41,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T02:55:36Z"
-  },
-  {
-    "id": "hn-48523705",
-    "title": "Weave: Merging based on language structure and not lines",
-    "url": "https://ataraxy-labs.github.io/weave/",
-    "points": 40,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T02:45:38Z"
-  },
-  {
-    "id": "hn-48522237",
-    "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
-    "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
-    "points": 30,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-06-13T22:43:30Z"
-  },
-  {
-    "id": "hn-48515733",
-    "title": "KPMG's AI report turns into a demo of AI hallucinations",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
-    "points": 28,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-06-13T10:32:38Z"
+    "published_date": "2026-06-14T15:08:17Z"
   },
   {
-    "id": "hn-48515349",
-    "title": "What Would It Look Like If the AI Bubble Popped?",
-    "url": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
-    "points": 27,
-    "comments": 15,
+    "id": "hn-48533736",
+    "title": "The Jqwik Anti-AI Affair",
+    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "points": 49,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-06-13T09:40:13Z"
+    "published_date": "2026-06-14T22:43:49Z"
   },
   {
-    "id": "hn-48523550",
-    "title": "Apt Encounters of the Third Kind",
-    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-    "points": 24,
-    "comments": 5,
+    "id": "hn-48530270",
+    "title": "Oracle is changing free tier limits. Update by the 15th to avoid charges",
+    "url": "https://old.reddit.com/r/selfhosted/comments/1u4wqnj/psa_oracle_is_changing_free_tier_limits_update_by/",
+    "points": 34,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-06-14T02:17:13Z"
+    "published_date": "2026-06-14T17:45:17Z"
   },
   {
-    "id": "hn-48521279",
-    "title": "LLMs aren't conscious (and thinking they are is culturally dangerous)",
-    "url": "https://www.theintrinsicperspective.com/p/dont-dethrone-consciousness",
-    "points": 22,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-06-13T20:47:07Z"
-  },
-  {
-    "id": "hn-48522417",
-    "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
-    "url": "https://github.com/ayushh0110/ScreenMind",
-    "points": 20,
+    "id": "hn-48532845",
+    "title": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
+    "url": "https://rep-detect.lambda-combine.net/",
+    "points": 34,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-06-13T23:12:54Z"
+    "published_date": "2026-06-14T21:18:20Z"
   },
   {
-    "id": "hn-48519780",
-    "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?",
-    "url": "https://news.ycombinator.com/item?id=48519780",
-    "points": 18,
-    "comments": 26,
+    "id": "hn-48536167",
+    "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+    "url": "https://horizons.lambda-combine.net/",
+    "points": 30,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-06-13T18:02:39Z"
+    "published_date": "2026-06-15T03:15:41Z"
   },
   {
-    "id": "hn-48524688",
-    "title": "Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists",
-    "url": "https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists",
-    "points": 18,
-    "comments": 26,
+    "id": "hn-48526648",
+    "title": "Elon Musk's role was 'instrumental' in the Belfast riots, researchers say",
+    "url": "https://www.lemonde.fr/en/international/article/2026/06/13/musk-s-role-was-instrumental-in-the-belfast-riots-according-to-researchers_6754420_4.html",
+    "points": 19,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-06-14T06:21:48Z"
+    "published_date": "2026-06-14T12:36:48Z"
+  },
+  {
+    "id": "hn-48529112",
+    "title": "AI is code and can't be prompted into being smarter",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
+    "points": 15,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T16:27:17Z"
+  },
+  {
+    "id": "hn-48531568",
+    "title": "KPMG report on AI found riddled with AI hallucinations",
+    "url": "https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/",
+    "points": 15,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-06-14T19:23:43Z"
   }
 ]
