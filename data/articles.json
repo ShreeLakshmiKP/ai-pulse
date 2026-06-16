@@ -3791,6 +3791,35 @@
     "image": null
   },
   {
+    "id": "rss-a0c826c4",
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 16 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a399e347",
+    "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 16 Jun 2026 06:59:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-4126c0f4",
     "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
     "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
@@ -4295,36 +4324,6 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 09 Jun 2026 15:16:25 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5071c455",
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "tags": [
-      "multimodal"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 14:10:19 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4eca20f9",
-    "title": "Powering the future of robotics in Europe",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Tue, 09 Jun 2026 14:02:33 +0000",
     "image": null
   }
 ]

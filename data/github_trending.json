@@ -4,7 +4,7 @@
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 11167,
+    "stars": 19781,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -21,11 +21,46 @@
     "created_at": "2026-06-12T00:52:37Z"
   },
   {
+    "id": "gh-1266212515",
+    "name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 2174,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13Z"
+  },
+  {
+    "id": "gh-1264560911",
+    "name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "url": "https://github.com/coder/boo",
+    "stars": 618,
+    "language": "Zig",
+    "topics": [
+      "ai",
+      "coding",
+      "ghostty",
+      "multiplexer",
+      "screen",
+      "terminal"
+    ],
+    "created_at": "2026-06-10T01:53:01Z"
+  },
+  {
     "id": "gh-1264531337",
     "name": "alchaincyf/fanbox",
     "description": "vibe coding \u7684\u9a7e\u9a76\u8231\uff1a\u5de6\u8fb9\u6587\u4ef6\uff0c\u53f3\u8fb9/\u4e0b\u8fb9\u7ec8\u7aef\uff0c\u4e2d\u95f4\u770b\u6e05\u6bcf\u4e00\u6b21\u6539\u52a8\u3002 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 560,
+    "stars": 600,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -42,28 +77,11 @@
     "created_at": "2026-06-10T01:01:42Z"
   },
   {
-    "id": "gh-1264560911",
-    "name": "coder/boo",
-    "description": "A GNU screen style terminal multiplexer built on libghostty.",
-    "url": "https://github.com/coder/boo",
-    "stars": 513,
-    "language": "Zig",
-    "topics": [
-      "ai",
-      "coding",
-      "ghostty",
-      "multiplexer",
-      "screen",
-      "terminal"
-    ],
-    "created_at": "2026-06-10T01:53:01Z"
-  },
-  {
     "id": "gh-1267982346",
     "name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 287,
+    "stars": 291,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -79,7 +97,7 @@
     "name": "buynao/aipath",
     "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 245,
+    "stars": 273,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -88,57 +106,11 @@
     "created_at": "2026-06-12T10:58:35Z"
   },
   {
-    "id": "gh-1263648864",
-    "name": "cobusgreyling/loop-engineering",
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 227,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "devops-automation",
-      "devtools",
-      "github-actions",
-      "grok",
-      "llm",
-      "loop-engineering",
-      "mcp",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-06-09T06:28:20Z"
-  },
-  {
-    "id": "gh-1266125334",
-    "name": "TestSprite/testsprite-cli",
-    "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-    "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 197,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "cli",
-      "e2e-testing",
-      "playwright",
-      "qa",
-      "test-automation",
-      "testing"
-    ],
-    "created_at": "2026-06-11T10:44:15Z"
-  },
-  {
     "id": "gh-1264692184",
     "name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 126,
+    "stars": 139,
     "language": "Swift",
     "topics": [
       "ai",
@@ -159,68 +131,42 @@
     "created_at": "2026-06-10T05:21:10Z"
   },
   {
-    "id": "gh-1264017362",
-    "name": "hvardhan878/ghostwork",
-    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently.",
-    "url": "https://github.com/hvardhan878/ghostwork",
-    "stars": 123,
-    "language": "TypeScript",
-    "topics": [
-      "accesibility",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "automation",
-      "llm",
-      "macos",
-      "screenpipe",
-      "typescript"
-    ],
-    "created_at": "2026-06-09T13:34:34Z"
-  },
-  {
-    "id": "gh-1264123054",
-    "name": "keyuchen21/agentic-engineering-handbook",
-    "description": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
-    "url": "https://github.com/keyuchen21/agentic-engineering-handbook",
-    "stars": 67,
+    "id": "gh-1270074396",
+    "name": "Lekien082/AI-Photo-Background-Remover",
+    "description": "An easy-to-use desktop utility powered by AI to automatically remove background from photos locally, offline, and in high resolution.",
+    "url": "https://github.com/Lekien082/AI-Photo-Background-Remover",
+    "stars": 75,
     "language": "Python",
     "topics": [
-      "agentic-engineering",
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "llm",
-      "mcp",
-      "openai"
-    ],
-    "created_at": "2026-06-09T15:25:00Z"
-  },
-  {
-    "id": "gh-1265260024",
-    "name": "kellyvv/OpenReshot",
-    "description": "A native iOS app for re-shooting regular photos from different angles.",
-    "url": "https://github.com/kellyvv/OpenReshot",
-    "stars": 62,
-    "language": "Swift",
-    "topics": [
-      "3d-gaussian-splatting",
-      "coreml",
+      "ai-background-removal",
+      "auto-background-remover",
+      "background-extraction",
+      "background-generation",
+      "background-removal",
+      "background-subtraction",
+      "backgroundremover",
+      "baseline-removal",
+      "bg-remove",
       "generative-ai",
-      "ios",
-      "openreshoot",
-      "photo-editing",
-      "swiftui"
+      "image-manipulation",
+      "image-upscaling",
+      "object-removal-tools",
+      "photo-editor",
+      "prompt-engineering",
+      "remove-background",
+      "remove-background-image",
+      "remove-bg",
+      "remove-bg-alternative",
+      "removebg-api"
     ],
-    "created_at": "2026-06-10T15:58:42Z"
+    "created_at": "2026-06-15T11:07:48Z"
   },
   {
     "id": "gh-1266270626",
     "name": "metamask-eth/metamask-desktop",
     "description": "\ud83d\udda5\ufe0f The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build",
     "url": "https://github.com/metamask-eth/metamask-desktop",
-    "stars": 32,
+    "stars": 67,
     "language": "CSS",
     "topics": [
       "bitcoin",
@@ -247,28 +193,71 @@
     "created_at": "2026-06-11T13:17:13Z"
   },
   {
-    "id": "gh-1268421611",
-    "name": "watadarkstar/react-native-nsfw-detector",
-    "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model to detect nudity and unsafe visual content in images.",
-    "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
-    "stars": 19,
-    "language": "JavaScript",
+    "id": "gh-1265260024",
+    "name": "kellyvv/OpenReshot",
+    "description": "A native iOS app for re-shooting regular photos from different angles.",
+    "url": "https://github.com/kellyvv/OpenReshot",
+    "stars": 67,
+    "language": "Swift",
     "topics": [
-      "ai",
+      "3d-gaussian-splatting",
       "coreml",
-      "expo",
-      "machine-learning",
-      "react-native",
-      "swift"
+      "generative-ai",
+      "ios",
+      "openreshoot",
+      "photo-editing",
+      "swiftui"
     ],
-    "created_at": "2026-06-13T14:11:17Z"
+    "created_at": "2026-06-10T15:58:42Z"
+  },
+  {
+    "id": "gh-1267834136",
+    "name": "zmustafa/AzureSupportAgent",
+    "description": "AI-driven Azure operations workbench. Chat with your tenant, investigate incidents with a team of specialist AI agents, and assess, monitor & remediate your cloud \u2014 runs in your own subscription. One-click deploy.",
+    "url": "https://github.com/zmustafa/AzureSupportAgent",
+    "stars": 61,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "azure",
+      "azure-container-apps",
+      "azure-mcp",
+      "cloud-operations",
+      "devops",
+      "fastapi",
+      "llm",
+      "mcp",
+      "react",
+      "sre",
+      "well-architected"
+    ],
+    "created_at": "2026-06-12T22:45:03Z"
+  },
+  {
+    "id": "gh-1268804183",
+    "name": "001TMF/harness-forge",
+    "description": "Turn Claude Code into its own Meta-Harness \u2014 a skill that evolves the scaffolding around a fixed model (memory, retrieval, context, prompts) via a native propose\u2192score\u2192Pareto loop. Native reimplementation of Meta-Harness (Lee et al. 2026).",
+    "url": "https://github.com/001TMF/harness-forge",
+    "stars": 56,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "claude-code",
+      "claude-skill",
+      "llm",
+      "meta-harness",
+      "pareto-optimization",
+      "prompt-optimization"
+    ],
+    "created_at": "2026-06-14T00:36:07Z"
   },
   {
     "id": "gh-1264998703",
     "name": "gantasmo/theDAW",
     "description": "theDAW \u2014 an all-in-one studio for AI music creation, editing, mixing, DJing, and live visuals, by GANTASMO.",
     "url": "https://github.com/gantasmo/theDAW",
-    "stars": 18,
+    "stars": 25,
     "language": "TypeScript",
     "topics": [
       "ai-audio",
@@ -299,7 +288,7 @@
     "name": "mandarwagh9/dvd-jepa",
     "description": "A tiny, fully-reproducible JEPA world model that learns the physics of a bouncing DVD logo in representation space, dreams its future, and detects anomalies. Trains on a CPU in ~10s. Interactive browser demo.",
     "url": "https://github.com/mandarwagh9/dvd-jepa",
-    "stars": 13,
+    "stars": 22,
     "language": "Python",
     "topics": [
       "anomaly-detection",
@@ -317,5 +306,22 @@
       "world-models"
     ],
     "created_at": "2026-06-13T11:02:30Z"
+  },
+  {
+    "id": "gh-1268421611",
+    "name": "watadarkstar/react-native-nsfw-detector",
+    "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model to detect nudity and unsafe visual content in images.",
+    "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
+    "stars": 21,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "coreml",
+      "expo",
+      "machine-learning",
+      "react-native",
+      "swift"
+    ],
+    "created_at": "2026-06-13T14:11:17Z"
   }
 ]

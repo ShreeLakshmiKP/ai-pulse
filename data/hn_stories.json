@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48529990",
-    "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
-    "url": "https://github.com/tamnd/kage",
-    "points": 582,
-    "comments": 116,
+    "id": "hn-48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "points": 1028,
+    "comments": 452,
     "source": "Hacker News",
-    "published_date": "2026-06-14T17:25:38Z"
+    "published_date": "2026-06-15T14:46:53Z"
   },
   {
-    "id": "hn-48527700",
-    "title": "Not everyone is using AI for everything",
-    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "points": 469,
-    "comments": 504,
+    "id": "hn-48542433",
+    "title": "My Homelab AI Dev Platform",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "points": 317,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-06-14T14:44:29Z"
+    "published_date": "2026-06-15T15:09:40Z"
   },
   {
-    "id": "hn-48528371",
-    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "points": 360,
-    "comments": 193,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T15:37:31Z"
-  },
-  {
-    "id": "hn-48528729",
-    "title": "Linux 7.1",
-    "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-    "points": 296,
-    "comments": 113,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T16:01:30Z"
-  },
-  {
-    "id": "hn-48536776",
-    "title": "Apple Foundation Models",
-    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-    "points": 208,
-    "comments": 80,
-    "source": "Hacker News",
-    "published_date": "2026-06-15T04:55:34Z"
-  },
-  {
-    "id": "hn-48527297",
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "points": 148,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T14:01:35Z"
-  },
-  {
-    "id": "hn-48532178",
-    "title": "AI is code \u2013 and can't be prompted into being smarter",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "points": 140,
-    "comments": 126,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T20:17:54Z"
-  },
-  {
-    "id": "hn-48533308",
-    "title": "Why Is Claude Turning into an a**Hole?",
-    "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-    "points": 112,
-    "comments": 175,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T22:04:01Z"
-  },
-  {
-    "id": "hn-48531394",
-    "title": "Yserver: A modern X11 server written in Rust",
-    "url": "https://github.com/joske/yserver",
-    "points": 107,
-    "comments": 113,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T19:10:35Z"
-  },
-  {
-    "id": "hn-48531449",
-    "title": "Chaosnet (1981)",
-    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-    "points": 90,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T19:14:21Z"
-  },
-  {
-    "id": "hn-48535215",
-    "title": "The hallucinogenic mushroom that contains no known psychedelic",
-    "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
-    "points": 74,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-06-15T01:07:37Z"
-  },
-  {
-    "id": "hn-48527623",
-    "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
-    "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-    "points": 69,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T14:37:51Z"
-  },
-  {
-    "id": "hn-48527946",
-    "title": "Ponytail \u2013 make your AI agent think like the laziest senior dev in the room",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "points": 66,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-06-14T15:08:17Z"
-  },
-  {
-    "id": "hn-48533736",
-    "title": "The Jqwik Anti-AI Affair",
-    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "points": 49,
+    "id": "hn-48549918",
+    "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+    "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+    "points": 151,
     "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-06-14T22:43:49Z"
+    "published_date": "2026-06-16T02:47:57Z"
   },
   {
-    "id": "hn-48530270",
-    "title": "Oracle is changing free tier limits. Update by the 15th to avoid charges",
-    "url": "https://old.reddit.com/r/selfhosted/comments/1u4wqnj/psa_oracle_is_changing_free_tier_limits_update_by/",
-    "points": 34,
-    "comments": 11,
+    "id": "hn-48544637",
+    "title": "Claude Corps",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "points": 135,
+    "comments": 92,
     "source": "Hacker News",
-    "published_date": "2026-06-14T17:45:17Z"
+    "published_date": "2026-06-15T17:41:24Z"
   },
   {
-    "id": "hn-48532845",
-    "title": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
-    "url": "https://rep-detect.lambda-combine.net/",
-    "points": 34,
-    "comments": 1,
+    "id": "hn-48543392",
+    "title": "How memory safety CVEs differ between Rust and C/C++",
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "points": 134,
+    "comments": 168,
     "source": "Hacker News",
-    "published_date": "2026-06-14T21:18:20Z"
+    "published_date": "2026-06-15T16:11:02Z"
   },
   {
-    "id": "hn-48536167",
-    "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
-    "url": "https://horizons.lambda-combine.net/",
-    "points": 30,
-    "comments": 0,
+    "id": "hn-48541014",
+    "title": "Can Europe train a frontier AI model on the compute it owns?",
+    "url": "https://github.com/sammysltd/euromesh",
+    "points": 133,
+    "comments": 255,
     "source": "Hacker News",
-    "published_date": "2026-06-15T03:15:41Z"
+    "published_date": "2026-06-15T13:31:09Z"
   },
   {
-    "id": "hn-48526648",
-    "title": "Elon Musk's role was 'instrumental' in the Belfast riots, researchers say",
-    "url": "https://www.lemonde.fr/en/international/article/2026/06/13/musk-s-role-was-instrumental-in-the-belfast-riots-according-to-researchers_6754420_4.html",
-    "points": 19,
-    "comments": 12,
+    "id": "hn-48546306",
+    "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+    "points": 99,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-06-14T12:36:48Z"
+    "published_date": "2026-06-15T20:02:02Z"
   },
   {
-    "id": "hn-48529112",
-    "title": "AI is code and can't be prompted into being smarter",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
-    "points": 15,
-    "comments": 15,
+    "id": "hn-48543245",
+    "title": "Show HN: machine0 \u2013 Persistent NixOS VMs You Control from the CLI",
+    "url": "https://machine0.io",
+    "points": 86,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-06-14T16:27:17Z"
+    "published_date": "2026-06-15T16:01:43Z"
   },
   {
-    "id": "hn-48531568",
-    "title": "KPMG report on AI found riddled with AI hallucinations",
-    "url": "https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/",
-    "points": 15,
+    "id": "hn-48550569",
+    "title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "points": 81,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-06-16T04:25:57Z"
+  },
+  {
+    "id": "hn-48544823",
+    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+    "url": "https://grassdx.com/",
+    "points": 65,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T17:56:00Z"
+  },
+  {
+    "id": "hn-48545569",
+    "title": "LLMs Will Replace 8-Track Duplication Engineers",
+    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "points": 40,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-06-14T19:23:43Z"
+    "published_date": "2026-06-15T19:00:08Z"
+  },
+  {
+    "id": "hn-48541105",
+    "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+    "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+    "points": 33,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T13:37:54Z"
+  },
+  {
+    "id": "hn-48544413",
+    "title": "EU Air travellers to enjoy free cabin luggage and keep delay compensation",
+    "url": "https://www.euronews.com/my-europe/2026/06/15/air-travellers-to-enjoy-free-cabin-luggage-and-keep-delay-compensation-after-decade-long-t",
+    "points": 31,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T17:25:35Z"
+  },
+  {
+    "id": "hn-48546697",
+    "title": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base",
+    "url": "https://www.cnn.com/2026/06/15/us/b-52-crash-edwards-california",
+    "points": 31,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T20:34:51Z"
+  },
+  {
+    "id": "hn-48544736",
+    "title": "JD Vance Confirms Iran Will Get Jaw-Dropping Sum Under Trump Deal",
+    "url": "https://newrepublic.com/post/211826/jd-vance-us-pay-iran-billions-trump-deal",
+    "points": 31,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T17:48:59Z"
+  },
+  {
+    "id": "hn-48546618",
+    "title": "Anthropic pauses credit change for Claude Code",
+    "url": "https://news.ycombinator.com/item?id=48546618",
+    "points": 29,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T20:28:39Z"
+  },
+  {
+    "id": "hn-48545514",
+    "title": "Today's Frontier AI companies will never exceed the AI capability frontier again",
+    "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
+    "points": 25,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T18:56:35Z"
+  },
+  {
+    "id": "hn-48545285",
+    "title": "The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic",
+    "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b",
+    "points": 22,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T18:36:36Z"
+  },
+  {
+    "id": "hn-48548381",
+    "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+    "url": "https://github.com/firish/claude_code_vs",
+    "points": 19,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T23:15:56Z"
+  },
+  {
+    "id": "hn-48542615",
+    "title": "Anthropic Sued over Limits on Its $200-a-Month AI Plans",
+    "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
+    "points": 16,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-06-15T15:21:39Z"
   }
 ]
