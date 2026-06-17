@@ -1062,6 +1062,61 @@
     "image": null
   },
   {
+    "id": "rss-f8bb7a94",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "tags": [
+      "agents",
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-d36e8bce",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-db992211",
+    "title": "Entrepreneurs in Nairobi make the case for going solar",
+    "summary": "Most of Kenya\u2019s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8ee7ec35",
+    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+    "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-\u00adlooking aircraft with massive wings stretching out from a stubby fuselage.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-1c1d8c15",
     "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
     "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
@@ -3791,6 +3846,114 @@
     "image": null
   },
   {
+    "id": "rss-e9ed648d",
+    "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 16 Jun 2026 22:34:17 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ec6de238",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-89266766",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 16 Jun 2026 20:35:02 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ff6d444e",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 16 Jun 2026 20:11:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4a500f4a",
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 16 Jun 2026 18:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-78fc4b6a",
+    "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+    "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 16 Jun 2026 16:49:44 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d516edde",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 16 Jun 2026 15:53:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-82251555",
+    "title": "The Download: the first brain implant power user and South Korea\u2019s AI obsession",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 16 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-a0c826c4",
     "title": "Want to get a data center online quickly? Give it some flex.",
     "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea.",
@@ -3817,6 +3980,22 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 16 Jun 2026 06:59:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-031fe56c",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/deployment-simulation",
+    "tags": [
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Tue, 16 Jun 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4127,203 +4306,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 12 May 2026 00:09:01 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-efdc3d87",
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/nvidia",
-    "tags": [
-      "GPT",
-      "NVIDIA"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 12 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-15ea4517",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "tags": [
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 12 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-818b51bc",
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/autoscout24",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 12 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-abaebc11",
-    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-    "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014 just describe \u2026",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 10 Mar 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d8da46af",
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/instruction-hierarchy-challenge",
-    "tags": [
-      "LLM",
-      "safety"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-96e67819",
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/storage-buckets",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 10 Mar 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-1d66f35f",
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/async-rl-training-landscape",
-    "tags": [
-      "open-source"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 10 Mar 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e6f44b6e",
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "tags": [
-      "startups",
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 09 Jun 2026 23:17:51 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-41d61a58",
-    "title": "Hey, Siri, here\u2019s what I actually want from AI",
-    "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Tue, 09 Jun 2026 20:50:17 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-344b8041",
-    "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
-    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 09 Jun 2026 20:37:49 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-92ac3196",
-    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-    "tags": [
-      "benchmark",
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 09 Jun 2026 19:38:28 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-2428838e",
-    "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 09 Jun 2026 15:56:23 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-9e2b59b2",
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 09 Jun 2026 15:16:25 +0000",
     "image": null
   }
 ]
