@@ -4,7 +4,7 @@
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 28233,
+    "stars": 33959,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -21,47 +21,24 @@
     "created_at": "2026-06-12T00:52:37Z"
   },
   {
-    "id": "gh-1266212515",
-    "name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 3195,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13Z"
-  },
-  {
-    "id": "gh-1266125334",
-    "name": "TestSprite/testsprite-cli",
-    "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-    "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 351,
-    "language": "TypeScript",
+    "id": "gh-1267239286",
+    "name": "buynao/aipath",
+    "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+    "url": "https://github.com/buynao/aipath",
+    "stars": 316,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "cli",
-      "e2e-testing",
-      "playwright",
-      "qa",
-      "test-automation",
-      "testing"
+      "machine-learning"
     ],
-    "created_at": "2026-06-11T10:44:15Z"
+    "created_at": "2026-06-12T10:58:35Z"
   },
   {
     "id": "gh-1267982346",
     "name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 292,
+    "stars": 299,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -73,24 +50,11 @@
     "created_at": "2026-06-13T03:15:46Z"
   },
   {
-    "id": "gh-1267239286",
-    "name": "buynao/aipath",
-    "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
-    "url": "https://github.com/buynao/aipath",
-    "stars": 288,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "machine-learning"
-    ],
-    "created_at": "2026-06-12T10:58:35Z"
-  },
-  {
     "id": "gh-1268903356",
     "name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 208,
+    "stars": 236,
     "language": "Go",
     "topics": [
       "ai",
@@ -104,42 +68,11 @@
     "created_at": "2026-06-14T04:23:45Z"
   },
   {
-    "id": "gh-1266270626",
-    "name": "metamask-eth/metamask-desktop",
-    "description": "\ud83d\udda5\ufe0f The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build",
-    "url": "https://github.com/metamask-eth/metamask-desktop",
-    "stars": 83,
-    "language": "CSS",
-    "topics": [
-      "bitcoin",
-      "bitcoin-wallet",
-      "btc-wallet",
-      "crypto",
-      "cryptocurrency",
-      "cryptowallet",
-      "ethereum",
-      "ethereum-wallet",
-      "javascript",
-      "machine-learning",
-      "metamask-desktop",
-      "metamask-io",
-      "nodejs",
-      "npm",
-      "python",
-      "secure-wallet",
-      "solana",
-      "typescript",
-      "wallet",
-      "web3"
-    ],
-    "created_at": "2026-06-11T13:17:13Z"
-  },
-  {
     "id": "gh-1270814918",
     "name": "LichAmnesia/awesome-ad-video-prompts",
     "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
     "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-    "stars": 78,
+    "stars": 117,
     "language": "JavaScript",
     "topics": [
       "ad-creative",
@@ -158,6 +91,52 @@
       "video-prompts"
     ],
     "created_at": "2026-06-16T04:36:14Z"
+  },
+  {
+    "id": "gh-1268674412",
+    "name": "KorroAi/drunk-claude",
+    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
+    "url": "https://github.com/KorroAi/drunk-claude",
+    "stars": 96,
+    "language": "TeX",
+    "topics": [
+      "ai-skills",
+      "ai-tools",
+      "brainstorming",
+      "chaos-engineering",
+      "claude",
+      "claude-code",
+      "creative-ai",
+      "creative-coding",
+      "creativity",
+      "developer-tools",
+      "fun",
+      "ideation",
+      "llm",
+      "mit-license",
+      "open-source",
+      "unfiltered",
+      "viral"
+    ],
+    "created_at": "2026-06-13T20:05:21Z"
+  },
+  {
+    "id": "gh-1267083417",
+    "name": "bowen-aigame/awesome-ai-game",
+    "description": "A curated collection of the latest and most exciting AI-powered games \u2014 discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
+    "url": "https://github.com/bowen-aigame/awesome-ai-game",
+    "stars": 88,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-game",
+      "ai-game-creation",
+      "ai-games",
+      "aigame",
+      "aigames",
+      "game"
+    ],
+    "created_at": "2026-06-12T07:50:48Z"
   },
   {
     "id": "gh-1270074396",
@@ -191,63 +170,11 @@
     "created_at": "2026-06-15T11:07:48Z"
   },
   {
-    "id": "gh-1268674412",
-    "name": "KorroAi/drunk-claude",
-    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
-    "url": "https://github.com/KorroAi/drunk-claude",
-    "stars": 70,
-    "language": null,
-    "topics": [
-      "ai-skills",
-      "ai-tools",
-      "brainstorming",
-      "chaos-engineering",
-      "claude",
-      "claude-code",
-      "creative-ai",
-      "creative-coding",
-      "creativity",
-      "developer-tools",
-      "fun",
-      "ideation",
-      "llm",
-      "mit-license",
-      "open-source",
-      "unfiltered",
-      "viral"
-    ],
-    "created_at": "2026-06-13T20:05:21Z"
-  },
-  {
-    "id": "gh-1266611505",
-    "name": "Goekdeniz-Guelmez/MLX-LoRA-Studio",
-    "description": "A native Mac App for LLM fine-tuning on Apple Silicon \u2014 fully on-device, fully open source.",
-    "url": "https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio",
-    "stars": 69,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "llm-training",
-      "llms",
-      "machine-learning",
-      "mlx",
-      "mlx-lm",
-      "mlx-lm-lora",
-      "nlp",
-      "preference-learning",
-      "reinforcement-learning",
-      "rl",
-      "rlhf",
-      "sft"
-    ],
-    "created_at": "2026-06-11T19:34:33Z"
-  },
-  {
     "id": "gh-1270108133",
     "name": "Happy-Chen-CH/Educational_RAG_System",
     "description": "\u9762\u5411\u6559\u80b2\u573a\u666f\u7684RAG\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff0c\u878d\u5408\u5173\u952e\u8bcd\u5339\u914d\u4e0e\u8bed\u4e49\u68c0\u7d22\u53cc\u5f15\u64ce\uff0c\u878d\u5408MySQL\u548cRAG\u6280\u672f\uff0c\u5148\u7ecf\u8fc7MySQL\u6570\u636e\u5e93\u7684\u68c0\u7d22(\u8fd8\u878d\u5408\u4e86Redis\u8f85\u52a9\u50a8\u5b58\u548c\u641c\u7d22)\uff0c\u82e5\u65e0\u7b26\u5408\u6761\u4ef6\u7b54\u6848\uff0c\u5219\u8fdb\u5165RAG\u7cfb\u7edf\uff0cRAG\u77e5\u8bc6\u5e93\u4e2d\u7684\u77e5\u8bc6\u50a8\u5b58\u5728Milvus\u5411\u91cf\u6570\u636e\u5e93\u4e2d",
     "url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
-    "stars": 64,
+    "stars": 74,
     "language": "Python",
     "topics": [
       "ai",
@@ -259,6 +186,25 @@
       "redis"
     ],
     "created_at": "2026-06-15T11:50:53Z"
+  },
+  {
+    "id": "gh-1268804183",
+    "name": "001TMF/harness-forge",
+    "description": "Turn Claude Code into its own Meta-Harness \u2014 a skill that evolves the scaffolding around a fixed model (memory, retrieval, context, prompts) via a native propose\u2192score\u2192Pareto loop. Native reimplementation of Meta-Harness (Lee et al. 2026).",
+    "url": "https://github.com/001TMF/harness-forge",
+    "stars": 64,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "claude-code",
+      "claude-skill",
+      "llm",
+      "meta-harness",
+      "pareto-optimization",
+      "prompt-optimization"
+    ],
+    "created_at": "2026-06-14T00:36:07Z"
   },
   {
     "id": "gh-1267834136",
@@ -284,65 +230,98 @@
     "created_at": "2026-06-12T22:45:03Z"
   },
   {
-    "id": "gh-1271179472",
-    "name": "GripScholarBlade/MATLAB-R2026a-Desktop-Setup",
-    "description": "One-liner setup for MATLAB R2026a \u2014 technical computing with Simulink, Signal Processing, Image Processing and Deep Learning",
-    "url": "https://github.com/GripScholarBlade/MATLAB-R2026a-Desktop-Setup",
-    "stars": 51,
-    "language": null,
+    "id": "gh-1269888963",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "language": "HTML",
     "topics": [
-      "activator",
-      "data-analysis",
-      "data-science",
-      "deep-learning",
-      "engineering",
-      "machine-learning",
-      "mathworks",
-      "matlab",
-      "matlab-2026",
-      "matlab-download",
-      "matlab-free",
-      "matlab-license",
-      "matlab-r2026a",
-      "matlab-simulink",
-      "matlab-toolbox",
-      "science",
-      "signal-processing",
-      "simulation",
-      "simulink",
-      "simulink-free"
+      "ai-background-removal",
+      "auto-background-remover",
+      "background-extraction",
+      "background-generation",
+      "background-removal",
+      "background-subtraction",
+      "backgroundremover",
+      "baseline-removal",
+      "bg-remove",
+      "generative-ai",
+      "image-manipulation",
+      "image-upscaling",
+      "object-removal-tools",
+      "photo-editor",
+      "prompt-engineering",
+      "remove-background",
+      "remove-background-image",
+      "remove-bg",
+      "remove-bg-alternative",
+      "removebg-api"
     ],
-    "created_at": "2026-06-16T12:11:10Z"
+    "created_at": "2026-06-15T07:34:22Z"
   },
   {
-    "id": "gh-1271179830",
-    "name": "StokerReminisce/MATLAB-R2026a-Full-Toolboxes",
-    "description": "MATLAB R2026a with Simulink \u2014 model-based design, signal processing, computer vision, robotics and parallel computing",
-    "url": "https://github.com/StokerReminisce/MATLAB-R2026a-Full-Toolboxes",
-    "stars": 51,
+    "id": "gh-1268289071",
+    "name": "mandarwagh9/dvd-jepa",
+    "description": "A tiny, fully-reproducible JEPA world model that learns the physics of a bouncing DVD logo in representation space, dreams its future, and detects anomalies. Trains on a CPU in ~10s. Interactive browser demo.",
+    "url": "https://github.com/mandarwagh9/dvd-jepa",
+    "stars": 24,
+    "language": "Python",
+    "topics": [
+      "anomaly-detection",
+      "deep-learning",
+      "i-jepa",
+      "interactive-demo",
+      "jepa",
+      "machine-learning",
+      "pytorch",
+      "representation-learning",
+      "reproducible-research",
+      "self-supervised-learning",
+      "v-jepa",
+      "video-prediction",
+      "world-models"
+    ],
+    "created_at": "2026-06-13T11:02:30Z"
+  },
+  {
+    "id": "gh-1268421611",
+    "name": "watadarkstar/react-native-nsfw-detector",
+    "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model to detect nudity and unsafe visual content in images.",
+    "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
+    "stars": 22,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "coreml",
+      "expo",
+      "machine-learning",
+      "react-native",
+      "swift"
+    ],
+    "created_at": "2026-06-13T14:11:17Z"
+  },
+  {
+    "id": "gh-1270812122",
+    "name": "catnip-ai-tech/MaineCoon",
+    "description": "MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model \u2014 technical report & project links. \ud83c\udf10 https://mainecoon.tech/",
+    "url": "https://github.com/catnip-ai-tech/MaineCoon",
+    "stars": 14,
     "language": null,
     "topics": [
-      "activator",
-      "data-analysis",
-      "data-science",
-      "deep-learning",
-      "engineering",
-      "machine-learning",
-      "mathworks",
-      "matlab",
-      "matlab-2026",
-      "matlab-download",
-      "matlab-free",
-      "matlab-license",
-      "matlab-r2026a",
-      "matlab-simulink",
-      "matlab-toolbox",
-      "science",
-      "signal-processing",
-      "simulation",
-      "simulink",
-      "simulink-free"
+      "audio-visual-generation",
+      "autoregressive-model",
+      "generative-ai",
+      "mainecoon",
+      "real-time",
+      "social-video",
+      "social-world-model",
+      "streaming-generation",
+      "talking-head",
+      "text-to-video",
+      "video-generation",
+      "world-model"
     ],
-    "created_at": "2026-06-16T12:11:36Z"
+    "created_at": "2026-06-16T04:31:19Z"
   }
 ]

@@ -1062,6 +1062,99 @@
     "image": null
   },
   {
+    "id": "rss-3daf2dc5",
+    "title": "Roelof Botha joins SpaceX\u2019s board of directors",
+    "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 17 Jun 2026 20:32:52 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-358e207a",
+    "title": "After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
+    "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 17 Jun 2026 20:24:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-3d1666c9",
+    "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 17 Jun 2026 20:17:38 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9ef08ab1",
+    "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
+    "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight \u2014 a fear the Anthropic blackout just made real.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 17 Jun 2026 19:01:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4630c466",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 17 Jun 2026 15:26:44 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-0af1478c",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "summary": "Research in \u201cNature\u201d shows our conversational AI system matches primary care physicians in complex disease management.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-049cb7f5",
+    "title": "The Download: a reality check for geoengineering and the science of interoception",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 17 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-f8bb7a94",
     "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
     "summary": "",
@@ -1075,6 +1168,22 @@
     ],
     "category": "Robotics",
     "published_date": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-80c1a326",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "tags": [
+      "GPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 17 Jun 2026 10:00:00 GMT",
     "image": null
   },
   {
@@ -1114,6 +1223,36 @@
     "tags": [],
     "category": "Research",
     "published_date": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-916e534a",
+    "title": "Introducing LifeSciBench",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "tags": [
+      "benchmark"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-4dd20732",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 17 Jun 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4164,148 +4303,6 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-db7ff708",
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on be...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "VentureBeat AI",
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 13 Jan 2026 13:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-000a74be",
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "tags": [
-      "startups",
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 12 May 2026 18:05:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0e25700c",
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 12 May 2026 17:36:34 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4d7daab9",
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 12 May 2026 17:30:57 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-21c7329d",
-    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-    "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "tags": [
-      "Gemini",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 12 May 2026 17:01:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-431cb0e0",
-    "title": "World Models: 10 Things That Matter in AI Right Now",
-    "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 12 May 2026 16:22:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-14f0330c",
-    "title": "How finance teams use Codex",
-    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 12 May 2026 15:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-8af79745",
-    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 12 May 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d3b5b5ad",
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 12 May 2026 04:52:35 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7a7c4cf1",
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 12 May 2026 00:09:01 +0000",
     "image": null
   }
 ]
