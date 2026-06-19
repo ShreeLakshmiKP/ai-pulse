@@ -4080,6 +4080,21 @@
     "image": null
   },
   {
+    "id": "rss-6c3ecf06",
+    "title": "Securing the future of AI agents",
+    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 16 Jun 2026 15:46:31 +0000",
+    "image": null
+  },
+  {
     "id": "rss-82251555",
     "title": "The Download: the first brain implant power user and South Korea\u2019s AI obsession",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
@@ -4287,22 +4302,6 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 14 Apr 2026 00:23:33 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-8ae7ef47",
-    "title": "Trusted access for the next era of cyber defense",
-    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "tags": [
-      "GPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 14 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]
