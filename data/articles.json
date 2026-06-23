@@ -3230,6 +3230,62 @@
     "image": null
   },
   {
+    "id": "rss-44208f99",
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8bdf35b5",
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "summary": "OpenAI is using AI to help the open source community better protect itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-350becd7",
+    "title": "How Omio is building the future of conversational travel",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/omio",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-e9e69e17",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-b23181db",
     "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
     "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
@@ -4245,63 +4301,6 @@
     "tags": [],
     "category": "Robotics",
     "published_date": "Tue, 14 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a859eeda",
-    "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 14 Apr 2026 12:04:47 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9d31d8ec",
-    "title": "Coming soon: 10 Things That Matter in AI Right Now",
-    "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 14 Apr 2026 11:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c3d0ba01",
-    "title": "Bringing people together at AI for the Economy Forum",
-    "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 14 Apr 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d79fd99f",
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "startups",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 14 Apr 2026 00:23:33 +0000",
     "image": null
   }
 ]
