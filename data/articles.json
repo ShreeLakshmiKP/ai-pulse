@@ -533,6 +533,193 @@
     "image": null
   },
   {
+    "id": "rss-dd940491",
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 24 Jun 2026 23:26:52 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b33a3722",
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 24 Jun 2026 22:41:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-266f847b",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 24 Jun 2026 21:56:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-73ecb6bf",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 24 Jun 2026 21:42:07 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8efda96e",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 24 Jun 2026 16:30:01 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8b215902",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "tags": [
+      "transformers",
+      "NVIDIA"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 24 Jun 2026 16:00:13 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-4bfd31e8",
+    "title": "Europe\u2019s extreme heat is shutting down power plants",
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won\u2019t be online to help handle the load.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 24 Jun 2026 15:25:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-77540ffe",
+    "title": "The Download: introducing the Engineering issue",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can\u2019t fix everything, but we can be ambitious.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 24 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-63a3868f",
+    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+    "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 24 Jun 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-abc015d0",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 24 Jun 2026 11:59:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b8d25285",
+    "title": "This flying solar-powered platform could deliver better internet from the air",
+    "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico\u2013based company Sceye, will park some 18 kilometers above the ocean\u2019s surfa...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 24 Jun 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-24a3a922",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "tags": [
+      "LLM",
+      "OpenAI",
+      "inference"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8d09b4f6",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "tags": [
+      "benchmark"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-e4062796",
     "title": "Tesla just increased its spending plan to $25B \u2014 here\u2019s where the money is going",
     "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
@@ -4117,195 +4304,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Tue, 17 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-122ea54e",
-    "title": "Our latest investment in open source security for the AI era",
-    "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 17 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9969aa6a",
-    "title": "Holotron-12B - High Throughput Computer Use Agent",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 12:33:39 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-ff1bf752",
-    "title": "The Download: OpenAI\u2019s US military deal, and Grok\u2019s CSAM lawsuit",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI\u2019s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Tue, 17 Mar 2026 12:26:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c3086d49",
-    "title": "Introducing GPT-5.4 mini and nano",
-    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "tags": [
-      "GPT",
-      "agents",
-      "multimodal"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-99ed4f1c",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "tags": [
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-89cbb80a",
-    "title": "Picsart now allows creators to \u2018hire\u2019 AI assistants through agent marketplace",
-    "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 17 Mar 2026 04:01:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0ca36c17",
-    "title": "Equipping workers with insights about compensation",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e9ed648d",
-    "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
-    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 16 Jun 2026 22:34:17 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ec6de238",
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 16 Jun 2026 21:29:50 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-89266766",
-    "title": "Exclusive eBook: How AI is becoming the next military advisor",
-    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 16 Jun 2026 20:35:02 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ff6d444e",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 16 Jun 2026 20:11:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4a500f4a",
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 16 Jun 2026 18:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-78fc4b6a",
-    "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
-    "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 16 Jun 2026 16:49:44 +0000",
     "image": null
   }
 ]
