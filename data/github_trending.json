@@ -4,7 +4,7 @@
     "name": "benchflow-ai/awesome-evals",
     "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
     "url": "https://github.com/benchflow-ai/awesome-evals",
-    "stars": 387,
+    "stars": 501,
     "language": null,
     "topics": [
       "agent-evaluation",
@@ -20,11 +20,46 @@
     "created_at": "2026-06-24T08:10:33Z"
   },
   {
+    "id": "gh-1276595002",
+    "name": "NotASithLord/peerd",
+    "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+    "url": "https://github.com/NotASithLord/peerd",
+    "stars": 162,
+    "language": "JavaScript",
+    "topics": [
+      "agentic",
+      "ai-agent",
+      "browser-extension",
+      "chrome-extension",
+      "firefox-extension",
+      "llm",
+      "manifest-v3",
+      "p2p",
+      "webassembly",
+      "webrtc"
+    ],
+    "created_at": "2026-06-22T05:55:13Z"
+  },
+  {
+    "id": "gh-1278082400",
+    "name": "lemma-work/lemma-platform",
+    "description": "The open-source workspace where humans and AI agents work as one team.",
+    "url": "https://github.com/lemma-work/lemma-platform",
+    "stars": 136,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "harness",
+      "harness-ai"
+    ],
+    "created_at": "2026-06-23T12:53:55Z"
+  },
+  {
     "id": "gh-1278312228",
     "name": "Reyzowter/Hello-Agents",
     "description": "\ud83e\udd16 Building AI Agent Systems from Scratch \u2014 A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
     "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 132,
+    "stars": 133,
     "language": "Python",
     "topics": [
       "agent",
@@ -41,11 +76,37 @@
     "created_at": "2026-06-23T17:09:31Z"
   },
   {
+    "id": "gh-1280508992",
+    "name": "GraeLefix/GITVERSE",
+    "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+    "url": "https://github.com/GraeLefix/GITVERSE",
+    "stars": 132,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "build-prompt",
+      "claude",
+      "code-analysis",
+      "codebase-analysis",
+      "cursor",
+      "developer-tools",
+      "github-api",
+      "llm",
+      "nextjs",
+      "openai",
+      "prompt-engineering",
+      "reverse-engineering",
+      "tailwindcss",
+      "typescript"
+    ],
+    "created_at": "2026-06-25T16:50:48Z"
+  },
+  {
     "id": "gh-1279525967",
     "name": "benlamiro/ShipGenAI",
     "description": "\ud83d\ude80 50 production-ready Generative AI SaaS apps \u2014 brand them, ship them, keep 100% of the revenue. Stripe billing \u00b7 Google OAuth \u00b7 Vercel deploy \u00b7 MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 126,
+    "stars": 127,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -93,67 +154,6 @@
       "typescript"
     ],
     "created_at": "2026-06-23T18:07:33Z"
-  },
-  {
-    "id": "gh-1278082400",
-    "name": "lemma-work/lemma-platform",
-    "description": "The open-source workspace where humans and AI agents work as one team.",
-    "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 119,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "harness",
-      "harness-ai"
-    ],
-    "created_at": "2026-06-23T12:53:55Z"
-  },
-  {
-    "id": "gh-1280508992",
-    "name": "GraeLefix/GITVERSE",
-    "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
-    "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 116,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "build-prompt",
-      "claude",
-      "code-analysis",
-      "codebase-analysis",
-      "cursor",
-      "developer-tools",
-      "github-api",
-      "llm",
-      "nextjs",
-      "openai",
-      "prompt-engineering",
-      "reverse-engineering",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2026-06-25T16:50:48Z"
-  },
-  {
-    "id": "gh-1276595002",
-    "name": "NotASithLord/peerd",
-    "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-    "url": "https://github.com/NotASithLord/peerd",
-    "stars": 113,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "ai-agent",
-      "browser-extension",
-      "chrome-extension",
-      "firefox-extension",
-      "llm",
-      "manifest-v3",
-      "p2p",
-      "webassembly",
-      "webrtc"
-    ],
-    "created_at": "2026-06-22T05:55:13Z"
   },
   {
     "id": "gh-1275968866",
@@ -204,7 +204,7 @@
     "name": "evo-design/proto-tools",
     "description": "A universal infrastructure layer for generative biology",
     "url": "https://github.com/evo-design/proto-tools",
-    "stars": 56,
+    "stars": 57,
     "language": "Python",
     "topics": [
       "bioengineering",
@@ -215,65 +215,42 @@
     "created_at": "2026-06-23T10:07:15Z"
   },
   {
-    "id": "gh-1275409602",
-    "name": "dvbs2000/visible-ai",
-    "description": "\u770b\u5f97\u89c1\u7684 AI \u00b7 The Visible AI \u2014\u2014 \u4e00\u672c\u5168\u56fe\u89e3\u3001\u96f6\u57fa\u7840\u5230\u4eb2\u624b\u6784\u5efa\u7684 AI \u901a\u8bc6\u4e66,\u6c38\u4e45\u514d\u8d39\u300230 \u7ae0 / 6 \u9636\u6bb5,\u5143\u5143\u00d7\u5c0f\u6ee1\u5e26\u4f60\u4ece\u4e00\u4e2a\u795e\u7ecf\u5143\u8d70\u5230\u4eb2\u624b\u642d AI \u5e94\u7528\u3002",
-    "url": "https://github.com/dvbs2000/visible-ai",
-    "stars": 39,
-    "language": "HTML",
+    "id": "gh-1279934935",
+    "name": "PenghaoJiang/auto-paper-collecter",
+    "description": "\ud83d\udcda\ud83d\udd2d Your personal research radar \u2014 an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
+    "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+    "stars": 31,
+    "language": "Python",
     "topics": [
+      "academic",
+      "agent-skill",
       "ai",
-      "ai-education",
-      "beginners",
-      "chinese",
-      "deep-learning",
-      "ebook",
-      "free-book",
-      "llm",
-      "llm-tutorial",
-      "machine-learning",
-      "transformer",
-      "tutorial"
-    ],
-    "created_at": "2026-06-20T16:46:08Z"
-  },
-  {
-    "id": "gh-1275457908",
-    "name": "derob98/ailmanac",
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "url": "https://github.com/derob98/ailmanac",
-    "stars": 7,
-    "language": "MDX",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "ai-tools",
-      "anthropic",
-      "awesome",
-      "awesome-list",
-      "claude",
-      "claude-ai",
+      "arxiv",
       "claude-code",
-      "context-engineering",
-      "documentation",
-      "docusaurus",
-      "generative-ai",
-      "learning-resources",
+      "crossref",
+      "fastapi",
+      "literature-review",
       "llm",
-      "mcp",
-      "model-context-protocol",
-      "prompt-engineering",
-      "rag"
+      "machine-learning",
+      "openai",
+      "paper-aggregator",
+      "paper-tracker",
+      "python",
+      "rag",
+      "research",
+      "research-assistant",
+      "research-tools",
+      "self-hosted",
+      "semantic-scholar"
     ],
-    "created_at": "2026-06-20T18:01:57Z"
+    "created_at": "2026-06-25T06:10:54Z"
   },
   {
     "id": "gh-1277974369",
     "name": "yyh-001/llm-value-rankings",
     "description": "Daily LLM value rankings - compare 300+ models by intelligence, speed and price. OpenRouter + Artificial Analysis. \u5927\u6a21\u578b\u6027\u4ef7\u6bd4\u6392\u884c\u699c",
     "url": "https://github.com/yyh-001/llm-value-rankings",
-    "stars": 6,
+    "stars": 7,
     "language": "JavaScript",
     "topics": [
       "ai-ranking",
@@ -300,32 +277,11 @@
     "created_at": "2026-06-23T10:55:23Z"
   },
   {
-    "id": "gh-1279086651",
-    "name": "eduardd76/genai-for-network-engineers",
-    "description": "Companion Colab notebooks for 'Generative AI for Network Engineers: From API to Production \u2014 Volume 1' by Eduard Dulharu",
-    "url": "https://github.com/eduardd76/genai-for-network-engineers",
-    "stars": 5,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "anthropic",
-      "claude-api",
-      "colab",
-      "generative-ai",
-      "jupyter-notebook",
-      "llm",
-      "network-automation",
-      "network-engineering",
-      "networking",
-      "python"
-    ],
-    "created_at": "2026-06-24T11:07:28Z"
-  },
-  {
     "id": "gh-1276748558",
     "name": "Anil-matcha/n8n-nodes-seedance2",
     "description": "n8n community node for ByteDance Seedance 2.0 and Seedance 2 Mini \u2014 automate Text-to-Video, Image-to-Video, and video generation in n8n workflows.",
     "url": "https://github.com/Anil-matcha/n8n-nodes-seedance2",
-    "stars": 4,
+    "stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai-automation",
@@ -350,5 +306,57 @@
       "workflow-automation"
     ],
     "created_at": "2026-06-22T08:59:02Z"
+  },
+  {
+    "id": "gh-1279086651",
+    "name": "eduardd76/genai-for-network-engineers",
+    "description": "Companion Colab notebooks for 'Generative AI for Network Engineers: From API to Production \u2014 Volume 1' by Eduard Dulharu",
+    "url": "https://github.com/eduardd76/genai-for-network-engineers",
+    "stars": 5,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "anthropic",
+      "claude-api",
+      "colab",
+      "generative-ai",
+      "jupyter-notebook",
+      "llm",
+      "network-automation",
+      "network-engineering",
+      "networking",
+      "python"
+    ],
+    "created_at": "2026-06-24T11:07:28Z"
+  },
+  {
+    "id": "gh-1279243366",
+    "name": "eshwarvijay/agent-architecture",
+    "description": "The 21 agentic design patterns, distilled to concepts (no code) \u2014 a design-phase reference for building AI agents. Works as a Claude Code skill.",
+    "url": "https://github.com/eshwarvijay/agent-architecture",
+    "stars": 3,
+    "language": null,
+    "topics": [
+      "agent2agent",
+      "agentic-ai",
+      "agentic-design-patterns",
+      "agentic-workflow",
+      "ai-agent-framework",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "prompt-engineering",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2026-06-24T13:59:45Z"
   }
 ]
