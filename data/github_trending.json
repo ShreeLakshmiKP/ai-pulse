@@ -4,7 +4,7 @@
     "name": "benchflow-ai/awesome-evals",
     "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
     "url": "https://github.com/benchflow-ai/awesome-evals",
-    "stars": 501,
+    "stars": 540,
     "language": null,
     "topics": [
       "agent-evaluation",
@@ -20,11 +20,32 @@
     "created_at": "2026-06-24T08:10:33Z"
   },
   {
+    "id": "gh-1281819568",
+    "name": "eli-labz/Godcoder",
+    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+    "url": "https://github.com/eli-labz/Godcoder",
+    "stars": 242,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "coding-agent",
+      "desktop-app",
+      "llm",
+      "local-first",
+      "mcp",
+      "open-source",
+      "openai",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-06-27T00:56:36Z"
+  },
+  {
     "id": "gh-1276595002",
     "name": "NotASithLord/peerd",
     "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
     "url": "https://github.com/NotASithLord/peerd",
-    "stars": 162,
+    "stars": 200,
     "language": "JavaScript",
     "topics": [
       "agentic",
@@ -45,7 +66,7 @@
     "name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 136,
+    "stars": 145,
     "language": "Python",
     "topics": [
       "ai",
@@ -59,7 +80,7 @@
     "name": "Reyzowter/Hello-Agents",
     "description": "\ud83e\udd16 Building AI Agent Systems from Scratch \u2014 A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
     "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 133,
+    "stars": 134,
     "language": "Python",
     "topics": [
       "agent",
@@ -76,37 +97,11 @@
     "created_at": "2026-06-23T17:09:31Z"
   },
   {
-    "id": "gh-1280508992",
-    "name": "GraeLefix/GITVERSE",
-    "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
-    "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 132,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "build-prompt",
-      "claude",
-      "code-analysis",
-      "codebase-analysis",
-      "cursor",
-      "developer-tools",
-      "github-api",
-      "llm",
-      "nextjs",
-      "openai",
-      "prompt-engineering",
-      "reverse-engineering",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2026-06-25T16:50:48Z"
-  },
-  {
     "id": "gh-1279525967",
     "name": "benlamiro/ShipGenAI",
     "description": "\ud83d\ude80 50 production-ready Generative AI SaaS apps \u2014 brand them, ship them, keep 100% of the revenue. Stripe billing \u00b7 Google OAuth \u00b7 Vercel deploy \u00b7 MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 127,
+    "stars": 133,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -128,53 +123,30 @@
     "created_at": "2026-06-24T19:15:25Z"
   },
   {
-    "id": "gh-1278362416",
-    "name": "lightbearco/tupper",
-    "description": "Open-source sandboxes for AI agents \u2014 run untrusted, AI-generated code safely on your own machine.",
-    "url": "https://github.com/lightbearco/tupper",
-    "stars": 125,
+    "id": "gh-1280508992",
+    "name": "GraeLefix/GITVERSE",
+    "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+    "url": "https://github.com/GraeLefix/GITVERSE",
+    "stars": 131,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "apple-container",
-      "bun",
-      "code-execution",
-      "code-interpreter",
-      "containers",
-      "deepagents",
-      "e2b",
-      "e2b-alternative",
-      "firecracker",
+      "ai",
+      "build-prompt",
+      "claude",
+      "code-analysis",
+      "codebase-analysis",
+      "cursor",
+      "developer-tools",
+      "github-api",
       "llm",
-      "mastra",
-      "mcp",
-      "nodejs",
-      "sandbox",
-      "sandboxing",
+      "nextjs",
+      "openai",
+      "prompt-engineering",
+      "reverse-engineering",
+      "tailwindcss",
       "typescript"
     ],
-    "created_at": "2026-06-23T18:07:33Z"
-  },
-  {
-    "id": "gh-1275968866",
-    "name": "Huxiaoyou97/ManvoTV",
-    "description": "Manvo TV \u2014 \u60f3\u5230\u4ec0\u4e48\u5c31\u751f\u6210\u4ec0\u4e48 \u00b7 AI \u539f\u751f\u521b\u4f5c\u5e73\u53f0(\u65e0\u9650\u753b\u5e03 + \u6f2b\u5267\u5267\u672c\u5de5\u5382) | https://manvo.tv",
-    "url": "https://github.com/Huxiaoyou97/ManvoTV",
-    "stars": 108,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-video",
-      "aigc",
-      "creative-tools",
-      "infinite-canvas",
-      "manvo",
-      "short-drama",
-      "storyboard",
-      "video-generation"
-    ],
-    "created_at": "2026-06-21T11:27:16Z"
+    "created_at": "2026-06-25T16:50:48Z"
   },
   {
     "id": "gh-1277833095",
@@ -204,7 +176,7 @@
     "name": "evo-design/proto-tools",
     "description": "A universal infrastructure layer for generative biology",
     "url": "https://github.com/evo-design/proto-tools",
-    "stars": 57,
+    "stars": 61,
     "language": "Python",
     "topics": [
       "bioengineering",
@@ -219,7 +191,7 @@
     "name": "PenghaoJiang/auto-paper-collecter",
     "description": "\ud83d\udcda\ud83d\udd2d Your personal research radar \u2014 an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
     "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
-    "stars": 31,
+    "stars": 33,
     "language": "Python",
     "topics": [
       "academic",
@@ -329,34 +301,21 @@
     "created_at": "2026-06-24T11:07:28Z"
   },
   {
-    "id": "gh-1279243366",
-    "name": "eshwarvijay/agent-architecture",
-    "description": "The 21 agentic design patterns, distilled to concepts (no code) \u2014 a design-phase reference for building AI agents. Works as a Claude Code skill.",
-    "url": "https://github.com/eshwarvijay/agent-architecture",
-    "stars": 3,
+    "id": "gh-1280804858",
+    "name": "ShenZheng2000/WarpI2I",
+    "description": "[ECCV 2026] WarpI2I: Image Warping for Image-to-Image Translation. ",
+    "url": "https://github.com/ShenZheng2000/WarpI2I",
+    "stars": 4,
     "language": null,
     "topics": [
-      "agent2agent",
-      "agentic-ai",
-      "agentic-design-patterns",
-      "agentic-workflow",
-      "ai-agent-framework",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "prompt-engineering",
-      "rag",
-      "retrieval-augmented-generation"
+      "aigc",
+      "computer-vision",
+      "deep-learning",
+      "diffusion-models",
+      "eccv",
+      "eccv2026",
+      "generative-ai"
     ],
-    "created_at": "2026-06-24T13:59:45Z"
+    "created_at": "2026-06-26T00:40:08Z"
   }
 ]
