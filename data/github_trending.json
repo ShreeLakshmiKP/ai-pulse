@@ -4,7 +4,7 @@
     "name": "benchflow-ai/awesome-evals",
     "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
     "url": "https://github.com/benchflow-ai/awesome-evals",
-    "stars": 540,
+    "stars": 576,
     "language": null,
     "topics": [
       "agent-evaluation",
@@ -24,7 +24,7 @@
     "name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 242,
+    "stars": 248,
     "language": "Rust",
     "topics": [
       "ai",
@@ -41,32 +41,11 @@
     "created_at": "2026-06-27T00:56:36Z"
   },
   {
-    "id": "gh-1276595002",
-    "name": "NotASithLord/peerd",
-    "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-    "url": "https://github.com/NotASithLord/peerd",
-    "stars": 200,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "ai-agent",
-      "browser-extension",
-      "chrome-extension",
-      "firefox-extension",
-      "llm",
-      "manifest-v3",
-      "p2p",
-      "webassembly",
-      "webrtc"
-    ],
-    "created_at": "2026-06-22T05:55:13Z"
-  },
-  {
     "id": "gh-1278082400",
     "name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 145,
+    "stars": 176,
     "language": "Python",
     "topics": [
       "ai",
@@ -76,32 +55,11 @@
     "created_at": "2026-06-23T12:53:55Z"
   },
   {
-    "id": "gh-1278312228",
-    "name": "Reyzowter/Hello-Agents",
-    "description": "\ud83e\udd16 Building AI Agent Systems from Scratch \u2014 A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
-    "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 134,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "deep-learning",
-      "langchain",
-      "llm",
-      "machine-learning",
-      "multi-agent",
-      "openai",
-      "rag",
-      "tutorial"
-    ],
-    "created_at": "2026-06-23T17:09:31Z"
-  },
-  {
     "id": "gh-1279525967",
     "name": "benlamiro/ShipGenAI",
     "description": "\ud83d\ude80 50 production-ready Generative AI SaaS apps \u2014 brand them, ship them, keep 100% of the revenue. Stripe billing \u00b7 Google OAuth \u00b7 Vercel deploy \u00b7 MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 133,
+    "stars": 151,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -121,6 +79,55 @@
       "video-generation"
     ],
     "created_at": "2026-06-24T19:15:25Z"
+  },
+  {
+    "id": "gh-1278312228",
+    "name": "Reyzowter/Hello-Agents",
+    "description": "\ud83e\udd16 Building AI Agent Systems from Scratch \u2014 A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
+    "url": "https://github.com/Reyzowter/Hello-Agents",
+    "stars": 137,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "deep-learning",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "multi-agent",
+      "openai",
+      "rag",
+      "tutorial"
+    ],
+    "created_at": "2026-06-23T17:09:31Z"
+  },
+  {
+    "id": "gh-1278362416",
+    "name": "lightbearco/tupper",
+    "description": "Open-source sandboxes for AI agents \u2014 run untrusted, AI-generated code safely on your own machine.",
+    "url": "https://github.com/lightbearco/tupper",
+    "stars": 137,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "apple-container",
+      "bun",
+      "code-execution",
+      "code-interpreter",
+      "containers",
+      "deepagents",
+      "e2b",
+      "e2b-alternative",
+      "firecracker",
+      "llm",
+      "mastra",
+      "mcp",
+      "nodejs",
+      "sandbox",
+      "sandboxing",
+      "typescript"
+    ],
+    "created_at": "2026-06-23T18:07:33Z"
   },
   {
     "id": "gh-1280508992",
@@ -147,6 +154,32 @@
       "typescript"
     ],
     "created_at": "2026-06-25T16:50:48Z"
+  },
+  {
+    "id": "gh-1283299226",
+    "name": "Aliu-AiRobot/ESEILANE",
+    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG \u2014 built for the next generation of intelligent applications.",
+    "url": "https://github.com/Aliu-AiRobot/ESEILANE",
+    "stars": 122,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "graph-database",
+      "graph-ql",
+      "graphrag",
+      "high-performance",
+      "knowledge-graph",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "openai",
+      "python",
+      "rag",
+      "rust",
+      "typescript",
+      "vector-database"
+    ],
+    "created_at": "2026-06-28T19:14:42Z"
   },
   {
     "id": "gh-1277833095",
@@ -176,7 +209,7 @@
     "name": "evo-design/proto-tools",
     "description": "A universal infrastructure layer for generative biology",
     "url": "https://github.com/evo-design/proto-tools",
-    "stars": 61,
+    "stars": 62,
     "language": "Python",
     "topics": [
       "bioengineering",
@@ -187,35 +220,22 @@
     "created_at": "2026-06-23T10:07:15Z"
   },
   {
-    "id": "gh-1279934935",
-    "name": "PenghaoJiang/auto-paper-collecter",
-    "description": "\ud83d\udcda\ud83d\udd2d Your personal research radar \u2014 an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
-    "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
-    "stars": 33,
-    "language": "Python",
+    "id": "gh-1280804858",
+    "name": "ShenZheng2000/WarpI2I",
+    "description": "[ECCV 2026] WarpI2I: Image Warping for Image-to-Image Translation. ",
+    "url": "https://github.com/ShenZheng2000/WarpI2I",
+    "stars": 8,
+    "language": null,
     "topics": [
-      "academic",
-      "agent-skill",
-      "ai",
-      "arxiv",
-      "claude-code",
-      "crossref",
-      "fastapi",
-      "literature-review",
-      "llm",
-      "machine-learning",
-      "openai",
-      "paper-aggregator",
-      "paper-tracker",
-      "python",
-      "rag",
-      "research",
-      "research-assistant",
-      "research-tools",
-      "self-hosted",
-      "semantic-scholar"
+      "aigc",
+      "computer-vision",
+      "deep-learning",
+      "diffusion-models",
+      "eccv",
+      "eccv2026",
+      "generative-ai"
     ],
-    "created_at": "2026-06-25T06:10:54Z"
+    "created_at": "2026-06-26T00:40:08Z"
   },
   {
     "id": "gh-1277974369",
@@ -249,37 +269,6 @@
     "created_at": "2026-06-23T10:55:23Z"
   },
   {
-    "id": "gh-1276748558",
-    "name": "Anil-matcha/n8n-nodes-seedance2",
-    "description": "n8n community node for ByteDance Seedance 2.0 and Seedance 2 Mini \u2014 automate Text-to-Video, Image-to-Video, and video generation in n8n workflows.",
-    "url": "https://github.com/Anil-matcha/n8n-nodes-seedance2",
-    "stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-automation",
-      "ai-video",
-      "bytedance",
-      "generative-ai",
-      "image-to-video",
-      "low-code",
-      "muapi",
-      "multimodal-ai",
-      "n8n",
-      "n8n-nodes",
-      "no-code-ai",
-      "seedance",
-      "seedance-2-mini",
-      "seedance2",
-      "sora-alternative",
-      "text-to-video",
-      "typescript",
-      "video-ai",
-      "video-generation",
-      "workflow-automation"
-    ],
-    "created_at": "2026-06-22T08:59:02Z"
-  },
-  {
     "id": "gh-1279086651",
     "name": "eduardd76/genai-for-network-engineers",
     "description": "Companion Colab notebooks for 'Generative AI for Network Engineers: From API to Production \u2014 Volume 1' by Eduard Dulharu",
@@ -301,21 +290,34 @@
     "created_at": "2026-06-24T11:07:28Z"
   },
   {
-    "id": "gh-1280804858",
-    "name": "ShenZheng2000/WarpI2I",
-    "description": "[ECCV 2026] WarpI2I: Image Warping for Image-to-Image Translation. ",
-    "url": "https://github.com/ShenZheng2000/WarpI2I",
+    "id": "gh-1280350319",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated filmmaking pipeline. Built for AI agents.",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system",
     "stars": 4,
-    "language": null,
+    "language": "JavaScript",
     "topics": [
-      "aigc",
-      "computer-vision",
-      "deep-learning",
-      "diffusion-models",
-      "eccv",
-      "eccv2026",
-      "generative-ai"
+      "agent-framework",
+      "ai-agents",
+      "ai-cinema",
+      "ai-filmmaking",
+      "ai-native",
+      "ai-storyboard",
+      "ai-video",
+      "ai-video-generation",
+      "automation",
+      "cinematic",
+      "content-creation",
+      "film-production",
+      "generative-ai",
+      "hollywood",
+      "llm",
+      "multi-agent",
+      "production-pipeline",
+      "video-editing",
+      "video-pipeline",
+      "video-rendering"
     ],
-    "created_at": "2026-06-26T00:40:08Z"
+    "created_at": "2026-06-25T13:54:31Z"
   }
 ]
