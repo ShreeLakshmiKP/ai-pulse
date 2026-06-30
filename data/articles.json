@@ -2980,6 +2980,47 @@
     "image": null
   },
   {
+    "id": "rss-bcdfc8c6",
+    "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
+    "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 30 Jun 2026 06:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e2142c8f",
+    "title": "The AI jobs debate just got messier",
+    "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 30 Jun 2026 04:01:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0c981188",
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 30 Jun 2026 02:28:41 +0000",
+    "image": null
+  },
+  {
     "id": "rss-9ac17987",
     "title": "Amazon is already offering new OpenAI products on AWS",
     "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
@@ -4265,45 +4306,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Tue, 17 Mar 2026 16:37:55 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7d426875",
-    "title": "Measuring progress toward AGI: A cognitive framework",
-    "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 17 Mar 2026 16:03:47 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b72d18cc",
-    "title": "Google\u2019s Personal Intelligence feature is expanding to all US users",
-    "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 17 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a6d1f36e",
-    "title": "Bringing the power of Personal Intelligence to more people",
-    "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 17 Mar 2026 16:00:00 +0000",
     "image": null
   }
 ]
