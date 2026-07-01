@@ -2634,6 +2634,49 @@
     "image": null
   },
   {
+    "id": "rss-df664273",
+    "title": "The \u2018Father of the Internet\u2019 is finally retiring",
+    "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Jul 2026 03:15:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-579fe9f9",
+    "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+    "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Jul 2026 02:16:06 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-535fb062",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "summary": "Wayve\u2019s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Jul 2026 02:04:40 +0000",
+    "image": null
+  },
+  {
     "id": "rss-c38b9a20",
     "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
     "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
@@ -2980,6 +3023,169 @@
     "image": null
   },
   {
+    "id": "rss-be61e7a5",
+    "title": "OpenClaw is finally available on Android and iOS",
+    "summary": "The free open source agentic program is finally invading your phone.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Policy",
+    "published_date": "Tue, 30 Jun 2026 21:53:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-78c50124",
+    "title": "Claude Science is Anthropic\u2019s newest flagship product",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 30 Jun 2026 21:50:04 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-db04ba7c",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 20:33:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9d697f00",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "tags": [
+      "benchmark",
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-790e3857",
+    "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
+    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 17:36:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d866a21b",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 30 Jun 2026 16:02:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4a099067",
+    "title": "Why Specialization Is Inevitable",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-ecf57bff",
+    "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your \u201ccoworkers\u201d Imagine coming in to work to learn that a new underling will report to you.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "tags": [
+      "agents"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-76712e6d",
+    "title": "Agriculture is ready for AI, but its data isn\u2019t",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-cdfa1091",
+    "title": "Building tech in the world\u2019s secret R&D hub",
+    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people\u2014roughly half the size of San Francisco.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "NVIDIA"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 10:23:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a0bd493d",
+    "title": "How ChatGPT adoption has expanded",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-bcdfc8c6",
     "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
     "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
@@ -3018,6 +3224,62 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 30 Jun 2026 02:28:41 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fce36a9d",
+    "title": "Introducing GeneBench-Pro",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "tags": [
+      "benchmark"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-3abd2cd2",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-e2556323",
+    "title": "Inside Genebench-Pro",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-0f13ff90",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4049,263 +4311,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Tue, 19 May 2026 17:45:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-8feaaef8",
-    "title": "I/O 2026",
-    "summary": "At Google I/O 2026, we shared how we\u2019re making AI more helpful for everyone. See everything we announced.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 17:45:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-757b4a2a",
-    "title": "How AI Mode is changing the way people search in the U.S.",
-    "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 17:45:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-adac55b4",
-    "title": "New ways to create and get things done in Google Workspace",
-    "summary": "Google Workspace",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 17:45:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cd2fbffd",
-    "title": "I/O 2026: Welcome to the agentic Gemini era",
-    "summary": "a series of colorful icons representing Google I/O against a black background",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-    "tags": [
-      "Gemini",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 17:45:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-388f97de",
-    "title": "Gemini 3.5: frontier intelligence with action",
-    "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 17:45:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6dfb885e",
-    "title": "Understanding the modern cybercrime landscape",
-    "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals\u2019 methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 19 May 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-17cca9af",
-    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 19 May 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-84f3f341",
-    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-    "summary": "The baby chicks were shifting and starting to pip\u2014or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 19 May 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e4af29ed",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 10:45:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-9b154231",
-    "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
-    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow\u2014reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 00:53:10 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e05bf9eb",
-    "title": "Introducing the Ettin Reranker Family",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ettin-reranker",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-71c5e57a",
-    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 23:17:07 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-d45fb380",
-    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-    "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic\u2019s Claude are already used to answer questions in classified settings; a...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 17 Mar 2026 22:30:46 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4ca4185f",
-    "title": "Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
-    "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Mistral"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a968ecbf",
-    "title": "Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
-    "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "Claude",
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 17 Mar 2026 20:50:04 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ba0ebfd3",
-    "title": "The Pentagon is developing alternatives to Anthropic, report says",
-    "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 17 Mar 2026 18:20:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c03c301e",
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 17:17:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d7f943a0",
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 17 Mar 2026 16:37:55 GMT",
     "image": null
   }
 ]
