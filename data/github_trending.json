@@ -4,7 +4,7 @@
     "name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings \u2014 autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 659,
+    "stars": 731,
     "language": "Python",
     "topics": [
       "ai",
@@ -17,7 +17,7 @@
     "name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 259,
+    "stars": 269,
     "language": "Rust",
     "topics": [
       "ai",
@@ -38,7 +38,7 @@
     "name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 233,
+    "stars": 239,
     "language": null,
     "topics": [
       "ai",
@@ -65,7 +65,7 @@
     "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 154,
+    "stars": 155,
     "language": "HTML",
     "topics": [
       "agentic-coding",
@@ -92,11 +92,32 @@
     "created_at": "2026-06-28T19:26:01Z"
   },
   {
+    "id": "gh-1283318124",
+    "name": "Sakshxm1/hermes-agency-orchestrator",
+    "description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
+    "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
+    "stars": 154,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "claude-opus",
+      "html",
+      "llm",
+      "multi-agent",
+      "portfolio",
+      "presentation",
+      "workflows"
+    ],
+    "created_at": "2026-06-28T19:45:35Z"
+  },
+  {
     "id": "gh-1283323996",
     "name": "ninouanis84-sudo/foxl-orchestrator",
     "description": "Personal AI Agent Hub 2026 \u2014 Build Your 24/7 Autonomous Assistant",
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-    "stars": 153,
+    "stars": 152,
     "language": "HTML",
     "topics": [
       "ai",
@@ -127,7 +148,7 @@
     "name": "reunios2024/cortex-sentinel-trading-nexus",
     "description": "Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model",
     "url": "https://github.com/reunios2024/cortex-sentinel-trading-nexus",
-    "stars": 153,
+    "stars": 152,
     "language": "HTML",
     "topics": [
       "agentic",
@@ -158,7 +179,7 @@
     "name": "AgustiPuigserver/opus-prompt-architect",
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-    "stars": 153,
+    "stars": 152,
     "language": "HTML",
     "topics": [
       "ai-productivity",
@@ -185,32 +206,11 @@
     "created_at": "2026-06-28T19:34:17Z"
   },
   {
-    "id": "gh-1283318124",
-    "name": "Sakshxm1/hermes-agency-orchestrator",
-    "description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
-    "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
-    "stars": 153,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "claude-opus",
-      "html",
-      "llm",
-      "multi-agent",
-      "portfolio",
-      "presentation",
-      "workflows"
-    ],
-    "created_at": "2026-06-28T19:45:35Z"
-  },
-  {
     "id": "gh-1283364554",
     "name": "ivankadric02-alt/wyrd-ecs-core",
     "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
     "topics": [
       "adaptive-intelligence",
@@ -238,7 +238,7 @@
     "name": "grandgaming9321-prog/reality-engine",
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "url": "https://github.com/grandgaming9321-prog/reality-engine",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
     "topics": [
       "3d",
@@ -265,11 +265,34 @@
     "created_at": "2026-06-28T21:06:56Z"
   },
   {
+    "id": "gh-1283314136",
+    "name": "pravin6688/churn-triad-insights",
+    "description": "LLM-Powered Churn Risk Analyzer for Scalable 2026 Decision Support",
+    "url": "https://github.com/pravin6688/churn-triad-insights",
+    "stars": 151,
+    "language": "HTML",
+    "topics": [
+      "business-analytics",
+      "churn-analysis",
+      "customer-segmentation",
+      "data-analytics",
+      "excel",
+      "logistic-regression",
+      "machine-learning",
+      "powerbi",
+      "powerbi-dashboards",
+      "powerquery",
+      "python",
+      "revenue-analysis"
+    ],
+    "created_at": "2026-06-28T19:39:29Z"
+  },
+  {
     "id": "gh-1283362391",
     "name": "okesipoke/manuscript-phoneme-decipher",
     "description": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
     "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
     "topics": [
       "abugida",
@@ -300,7 +323,7 @@
     "name": "onlyoneshakibul/magic-eraser-studio",
     "description": "AI Object Remover 2026 \u2013 Erase Distractions & Keep HD Quality",
     "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
     "topics": [
       "artificial-intelligence",
@@ -327,34 +350,39 @@
     "created_at": "2026-06-28T20:45:56Z"
   },
   {
-    "id": "gh-1283314136",
-    "name": "pravin6688/churn-triad-insights",
-    "description": "LLM-Powered Churn Risk Analyzer for Scalable 2026 Decision Support",
-    "url": "https://github.com/pravin6688/churn-triad-insights",
-    "stars": 152,
+    "id": "gh-1283363799",
+    "name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
+    "stars": 151,
     "language": "HTML",
     "topics": [
-      "business-analytics",
-      "churn-analysis",
-      "customer-segmentation",
-      "data-analytics",
-      "excel",
-      "logistic-regression",
-      "machine-learning",
-      "powerbi",
-      "powerbi-dashboards",
-      "powerquery",
-      "python",
-      "revenue-analysis"
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "llm-agents",
+      "multi-agent-simulation",
+      "open-source",
+      "phaser",
+      "pixel-art",
+      "typescript"
     ],
-    "created_at": "2026-06-28T19:39:29Z"
+    "created_at": "2026-06-28T21:07:14Z"
   },
   {
     "id": "gh-1283310141",
     "name": "heavenaruba/codified-prompt-rule-engine",
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
     "topics": [
       "ai-productivity",
@@ -378,33 +406,5 @@
       "xml-prompt"
     ],
     "created_at": "2026-06-28T19:33:45Z"
-  },
-  {
-    "id": "gh-1283363799",
-    "name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 152,
-    "language": "HTML",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-06-28T21:07:14Z"
   }
 ]

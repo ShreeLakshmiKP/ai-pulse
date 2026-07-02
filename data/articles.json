@@ -2634,6 +2634,122 @@
     "image": null
   },
   {
+    "id": "rss-cba85e1b",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-aeca795e",
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Jul 2026 18:47:22 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1f96c5e6",
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "June Pixel Drop hero",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Jul 2026 18:15:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-af371092",
+    "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+    "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 01 Jul 2026 17:48:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-05a77cd0",
+    "title": "New York City educators and industry leaders gathered at Google\u2019s offices to shape the future of AI in classrooms.",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Jul 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b7a1a19f",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every time\u2014but if it&#8230;",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "LLM",
+      "startups"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Jul 2026 14:35:16 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-01aa0951",
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 01 Jul 2026 14:25:23 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-714a5dcd",
+    "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 01 Jul 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-df664273",
     "title": "The \u2018Father of the Internet\u2019 is finally retiring",
     "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
@@ -2674,6 +2790,19 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 01 Jul 2026 02:04:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-11d5ccf1",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 01 Jul 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4182,135 +4311,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-849677ab",
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 21:33:30 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-df9d01ab",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 21:25:31 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-56e3cf08",
-    "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
-    "summary": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 21:16:25 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f54e9de1",
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "tags": [
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 19 May 2026 21:08:51 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b8480648",
-    "title": "Introducing OpenAI for Singapore",
-    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 19 May 2026 20:30:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-25e68804",
-    "title": "Roundtables: Inside the Musk v. Altman Trial",
-    "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company\u2019s non-profit status.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 19 May 2026 20:15:18 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-53d03497",
-    "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
-    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Tue, 19 May 2026 20:11:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-63751fb3",
-    "title": "OlmoEarth v1.1: A more efficient family of models",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 18:38:09 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e7785d8c",
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "VentureBeat AI",
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 19 May 2026 17:45:00 GMT",
     "image": null
   }
 ]
