@@ -4,7 +4,7 @@
     "name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2080,
+    "stars": 2867,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -16,62 +16,11 @@
     "created_at": "2026-07-02T17:53:55Z"
   },
   {
-    "id": "gh-1287282432",
-    "name": "jmerelnyc/Talos",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 712,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "distributed-computing",
-      "gpu",
-      "llm",
-      "ollama",
-      "python",
-      "websocket",
-      "worker"
-    ],
-    "created_at": "2026-07-02T14:43:11Z"
-  },
-  {
-    "id": "gh-1287168491",
-    "name": "uzairansaruzi/hermex",
-    "description": "Native iPhone app for your Hermes agent",
-    "url": "https://github.com/uzairansaruzi/hermex",
-    "stars": 634,
-    "language": "Swift",
-    "topics": [
-      "hermes",
-      "hermes-agent",
-      "hermex",
-      "ios",
-      "llm",
-      "self-hosted",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2026-07-02T12:47:31Z"
-  },
-  {
-    "id": "gh-1284538699",
-    "name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings \u2014 autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 527,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents"
-    ],
-    "created_at": "2026-06-30T01:04:13Z"
-  },
-  {
     "id": "gh-1288402762",
     "name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 373,
+    "stars": 1012,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -93,11 +42,74 @@
     "created_at": "2026-07-03T15:06:45Z"
   },
   {
+    "id": "gh-1287282432",
+    "name": "jmerelnyc/Talos",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "stars": 722,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "distributed-computing",
+      "gpu",
+      "llm",
+      "ollama",
+      "python",
+      "websocket",
+      "worker"
+    ],
+    "created_at": "2026-07-02T14:43:11Z"
+  },
+  {
+    "id": "gh-1287168491",
+    "name": "uzairansaruzi/hermex",
+    "description": "Native iPhone app for your Hermes agent",
+    "url": "https://github.com/uzairansaruzi/hermex",
+    "stars": 668,
+    "language": "Swift",
+    "topics": [
+      "hermes",
+      "hermes-agent",
+      "hermex",
+      "ios",
+      "llm",
+      "self-hosted",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-07-02T12:47:31Z"
+  },
+  {
+    "id": "gh-1289743790",
+    "name": "simonlin1212/Vibe-Research",
+    "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "stars": 317,
+    "language": "TypeScript",
+    "topics": [
+      "a-stock",
+      "ai-agent",
+      "dashboard",
+      "fastapi",
+      "fintech",
+      "hk-stocks",
+      "investment-research",
+      "llm",
+      "mcp",
+      "python",
+      "react",
+      "stock-market",
+      "trading",
+      "us-stocks"
+    ],
+    "created_at": "2026-07-05T06:30:55Z"
+  },
+  {
     "id": "gh-1287401002",
     "name": "SuperJJ007/CSSwitch",
     "description": "\u5e2e\u4f60\u7684 Claude Science \u4e00\u952e\u63a5\u5165\u4f60\u81ea\u5df1\u7684 API\uff1aDeepSeek / \u901a\u4e49\u5343\u95ee / \u667a\u8c31 GLM / Kimi / MiniMax / \u5c0f\u7c73 MiMo / \u7845\u57fa\u6d41\u52a8 / OpenRouter / \u4efb\u610f OpenAI\u00b7Anthropic \u517c\u5bb9\u7aef\u70b9",
     "url": "https://github.com/SuperJJ007/CSSwitch",
-    "stars": 275,
+    "stars": 294,
     "language": "Rust",
     "topics": [
       "anthropic",
@@ -117,55 +129,11 @@
     "created_at": "2026-07-02T16:46:56Z"
   },
   {
-    "id": "gh-1288102626",
-    "name": "ai4s-research/open-science",
-    "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-    "url": "https://github.com/ai4s-research/open-science",
-    "stars": 184,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "ai-for-science",
-      "ai-scientist",
-      "ai4s",
-      "claude-science",
-      "claude-science-alternative",
-      "desktop-app",
-      "llm",
-      "local-first",
-      "mcp",
-      "open-science",
-      "reproducible-research",
-      "research-tools",
-      "scientific-research",
-      "tauri"
-    ],
-    "created_at": "2026-07-03T09:22:31Z"
-  },
-  {
-    "id": "gh-1289657695",
-    "name": "wanglinsaputra/OmniPost-AI",
-    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
-    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-    "stars": 42,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "automation",
-      "chatgpt",
-      "chrome-extension",
-      "gemini",
-      "typescript",
-      "vite"
-    ],
-    "created_at": "2026-07-05T03:17:33Z"
-  },
-  {
     "id": "gh-1290349763",
     "name": "eli-labz/Cognitive-Core-Skills",
     "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-    "stars": 22,
+    "stars": 268,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -188,11 +156,50 @@
     "created_at": "2026-07-05T21:25:55Z"
   },
   {
+    "id": "gh-1288331786",
+    "name": "kimsh-1/deck-factory",
+    "description": "One line of intent \u2192 a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
+    "url": "https://github.com/kimsh-1/deck-factory",
+    "stars": 46,
+    "language": "CSS",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "claude-skills",
+      "deck",
+      "design-system",
+      "html",
+      "presentation",
+      "slides"
+    ],
+    "created_at": "2026-07-03T13:51:02Z"
+  },
+  {
+    "id": "gh-1289657695",
+    "name": "wanglinsaputra/OmniPost-AI",
+    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
+    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
+    "stars": 42,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "chrome-extension",
+      "gemini",
+      "typescript",
+      "vite"
+    ],
+    "created_at": "2026-07-05T03:17:33Z"
+  },
+  {
     "id": "gh-1290014367",
     "name": "fabriciocarraro/runway-shopify-pipeline",
     "description": "Turn any Shopify catalog into product videos with the Runway API. One script, gen4.5 image-to-video.",
     "url": "https://github.com/fabriciocarraro/runway-shopify-pipeline",
-    "stars": 22,
+    "stars": 23,
     "language": "Python",
     "topics": [
       "ecommerce",
@@ -205,42 +212,11 @@
     "created_at": "2026-07-05T13:32:59Z"
   },
   {
-    "id": "gh-1284577303",
-    "name": "jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-    "description": "Why is LLM inference slow \u2014 and how do you make it fast? A hands-on, first-principles course: roofline \u2192 KV cache \u2192 quantization \u2192 parallelism \u2192 vLLM/SGLang, with GPU labs on open models.",
-    "url": "https://github.com/jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-    "stars": 19,
-    "language": "Python",
-    "topics": [
-      "cuda",
-      "deep-learning",
-      "flash-attention",
-      "gpu",
-      "inference-optimization",
-      "kv-cache",
-      "llm",
-      "llm-inference",
-      "llm-serving",
-      "llmops",
-      "machine-learning",
-      "mlops",
-      "pagedattention",
-      "quantization",
-      "roofline",
-      "self-hosting",
-      "sglang",
-      "speculative-decoding",
-      "transformers",
-      "vllm"
-    ],
-    "created_at": "2026-06-30T02:16:42Z"
-  },
-  {
     "id": "gh-1289258261",
     "name": "subinium/Awesome-Scientific-LLM-Benchmarks",
     "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery \u2014 math, physics, chemistry, materials, biology, and agentic science.",
     "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
-    "stars": 12,
+    "stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai-for-science",
@@ -261,7 +237,7 @@
     "name": "47thtechcorner/RayCodes_OmniRoute-Explorer",
     "description": "A lightweight dashboard and reporting tool powered by OmniRoute - The Free AI Gateway",
     "url": "https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer",
-    "stars": 12,
+    "stars": 14,
     "language": "Python",
     "topics": [
       "ai-gateway",
@@ -279,7 +255,7 @@
     "name": "chrisipanaque/qwen-lora-finetune",
     "description": "Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-response pairs and produce a shareable ~16 MB LoRA adapter.",
     "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
-    "stars": 10,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -294,6 +270,37 @@
       "transformers"
     ],
     "created_at": "2026-07-02T02:44:31Z"
+  },
+  {
+    "id": "gh-1288094093",
+    "name": "Victor-Kipruto-Rop/mpesa_safaricom-fraud_anomaly_detection",
+    "description": "Real-time fraud detection engine for M-Pesa mobile money \u2014 Kafka/Flink streaming, ML-based risk scoring, and explainable multi-signal checks (velocity, SIM swap correlation, mule networks) feeding an interaction-aware decision engine, with a full production pipeline from ingestion through dbt analytics.",
+    "url": "https://github.com/Victor-Kipruto-Rop/mpesa_safaricom-fraud_anomaly_detection",
+    "stars": 8,
+    "language": "Python",
+    "topics": [
+      "anomaly-detection",
+      "apache",
+      "apache-flink",
+      "apache-kafka",
+      "apache-spark",
+      "daraja-api",
+      "data-engineering",
+      "dbt",
+      "fraud-detection",
+      "ingestion",
+      "machine-learning",
+      "mpesa",
+      "mpesa-api",
+      "python",
+      "pytorch",
+      "real-time-analytics",
+      "safaricom",
+      "stream-processing",
+      "tensorflow",
+      "transaction-management"
+    ],
+    "created_at": "2026-07-03T09:13:15Z"
   },
   {
     "id": "gh-1286498734",
