@@ -2025,6 +2025,36 @@
     "image": null
   },
   {
+    "id": "rss-03bb7eb8",
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "tags": [
+      "LLM",
+      "startups",
+      "inference"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 08 Jul 2026 08:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7e6b7a6e",
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 08 Jul 2026 07:16:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-56185404",
     "title": "Poke makes using AI agents as easy as sending a text",
     "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
@@ -4283,34 +4313,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Tue, 21 Apr 2026 00:40:10 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-a85b09f8",
-    "title": "Scaling Codex to enterprises worldwide",
-    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-3027bbe1",
-    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/cybersecurity-openness",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 21 Apr 2026 00:00:00 GMT",
     "image": null
   }
 ]

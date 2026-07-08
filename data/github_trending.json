@@ -4,7 +4,7 @@
     "name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2867,
+    "stars": 3501,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -20,7 +20,7 @@
     "name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1012,
+    "stars": 1520,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -46,7 +46,7 @@
     "name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 722,
+    "stars": 725,
     "language": "Python",
     "topics": [
       "ai",
@@ -65,7 +65,7 @@
     "name": "uzairansaruzi/hermex",
     "description": "Native iPhone app for your Hermes agent",
     "url": "https://github.com/uzairansaruzi/hermex",
-    "stars": 668,
+    "stars": 685,
     "language": "Swift",
     "topics": [
       "hermes",
@@ -84,7 +84,7 @@
     "name": "simonlin1212/Vibe-Research",
     "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
     "url": "https://github.com/simonlin1212/Vibe-Research",
-    "stars": 317,
+    "stars": 493,
     "language": "TypeScript",
     "topics": [
       "a-stock",
@@ -105,35 +105,37 @@
     "created_at": "2026-07-05T06:30:55Z"
   },
   {
-    "id": "gh-1287401002",
-    "name": "SuperJJ007/CSSwitch",
-    "description": "\u5e2e\u4f60\u7684 Claude Science \u4e00\u952e\u63a5\u5165\u4f60\u81ea\u5df1\u7684 API\uff1aDeepSeek / \u901a\u4e49\u5343\u95ee / \u667a\u8c31 GLM / Kimi / MiniMax / \u5c0f\u7c73 MiMo / \u7845\u57fa\u6d41\u52a8 / OpenRouter / \u4efb\u610f OpenAI\u00b7Anthropic \u517c\u5bb9\u7aef\u70b9",
-    "url": "https://github.com/SuperJJ007/CSSwitch",
-    "stars": 294,
-    "language": "Rust",
+    "id": "gh-1288102626",
+    "name": "ai4s-research/open-science",
+    "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+    "url": "https://github.com/ai4s-research/open-science",
+    "stars": 338,
+    "language": "TypeScript",
     "topics": [
-      "anthropic",
-      "claude",
+      "ai-agent",
+      "ai-for-science",
+      "ai-scientist",
+      "ai4s",
       "claude-science",
-      "dashscope",
-      "deepseek",
+      "claude-science-alternative",
+      "desktop-app",
       "llm",
-      "macos",
+      "local-first",
       "mcp",
-      "menubar",
-      "openai-compatible",
-      "proxy",
-      "qwen",
+      "open-science",
+      "reproducible-research",
+      "research-tools",
+      "scientific-research",
       "tauri"
     ],
-    "created_at": "2026-07-02T16:46:56Z"
+    "created_at": "2026-07-03T09:22:31Z"
   },
   {
     "id": "gh-1290349763",
     "name": "eli-labz/Cognitive-Core-Skills",
     "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-    "stars": 268,
+    "stars": 274,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -156,50 +158,62 @@
     "created_at": "2026-07-05T21:25:55Z"
   },
   {
-    "id": "gh-1288331786",
-    "name": "kimsh-1/deck-factory",
-    "description": "One line of intent \u2192 a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
-    "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 46,
-    "language": "CSS",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "anthropic",
-      "claude-code",
-      "claude-skills",
-      "deck",
-      "design-system",
-      "html",
-      "presentation",
-      "slides"
-    ],
-    "created_at": "2026-07-03T13:51:02Z"
-  },
-  {
-    "id": "gh-1289657695",
-    "name": "wanglinsaputra/OmniPost-AI",
-    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
-    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-    "stars": 42,
-    "language": "TypeScript",
+    "id": "gh-1288096154",
+    "name": "ahwanulm/9router-v2",
+    "description": "Self-hosted AI gateway \u2014 one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+    "url": "https://github.com/ahwanulm/9router-v2",
+    "stars": 67,
+    "language": "JavaScript",
     "topics": [
       "ai",
       "automation",
-      "chatgpt",
-      "chrome-extension",
+      "claude",
+      "cloudflare-workers",
       "gemini",
-      "typescript",
-      "vite"
+      "kiro",
+      "llm",
+      "proxy",
+      "qoder",
+      "skills",
+      "token-saver",
+      "worker-ai"
     ],
-    "created_at": "2026-07-05T03:17:33Z"
+    "created_at": "2026-07-03T09:15:38Z"
+  },
+  {
+    "id": "gh-1290120364",
+    "name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 54,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-workbench",
+      "anthropic",
+      "llm",
+      "mcp",
+      "mongodb",
+      "multi-model",
+      "nextjs",
+      "ollama",
+      "open-core",
+      "openai",
+      "rag",
+      "self-hosted",
+      "typescript",
+      "vllm"
+    ],
+    "created_at": "2026-07-05T15:48:04Z"
   },
   {
     "id": "gh-1290014367",
     "name": "fabriciocarraro/runway-shopify-pipeline",
     "description": "Turn any Shopify catalog into product videos with the Runway API. One script, gen4.5 image-to-video.",
     "url": "https://github.com/fabriciocarraro/runway-shopify-pipeline",
-    "stars": 23,
+    "stars": 24,
     "language": "Python",
     "topics": [
       "ecommerce",
@@ -216,7 +230,7 @@
     "name": "subinium/Awesome-Scientific-LLM-Benchmarks",
     "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery \u2014 math, physics, chemistry, materials, biology, and agentic science.",
     "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
-    "stars": 16,
+    "stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai-for-science",
@@ -237,7 +251,7 @@
     "name": "47thtechcorner/RayCodes_OmniRoute-Explorer",
     "description": "A lightweight dashboard and reporting tool powered by OmniRoute - The Free AI Gateway",
     "url": "https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer",
-    "stars": 14,
+    "stars": 17,
     "language": "Python",
     "topics": [
       "ai-gateway",
@@ -303,22 +317,29 @@
     "created_at": "2026-07-03T09:13:15Z"
   },
   {
-    "id": "gh-1286498734",
-    "name": "MONZikWasTaken/Framegen",
-    "description": "Real-time neural frame interpolation in the browser: hand-written WGSL runtime on raw WebGPU, 2.9 MB model, 2x-6x any <video> at 3-4 ms per frame. Chrome extension.",
-    "url": "https://github.com/MONZikWasTaken/Framegen",
+    "id": "gh-1287146198",
+    "name": "nousheentabassum/Machine-Learning",
+    "description": "Collection of Machine Learning, Statistics, and Data Science notebooks covering EDA, hypothesis testing, regression, classification, clustering, ensemble learning, and association rule mining using Python.",
+    "url": "https://github.com/nousheentabassum/Machine-Learning",
     "stars": 8,
-    "language": "JavaScript",
+    "language": "Jupyter Notebook",
     "topics": [
-      "chrome-extension",
-      "frame-interpolation",
+      "classification",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "dataset",
       "machine-learning",
-      "real-time",
-      "rife",
-      "video-processing",
-      "webgpu",
-      "wgsl"
+      "numpy",
+      "pandas",
+      "pandas-python",
+      "python",
+      "regression",
+      "scikit-learn",
+      "seaborn",
+      "statistics"
     ],
-    "created_at": "2026-07-01T21:01:30Z"
+    "created_at": "2026-07-02T12:24:43Z"
   }
 ]
