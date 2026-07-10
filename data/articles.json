@@ -2025,6 +2025,47 @@
     "image": null
   },
   {
+    "id": "rss-dad44939",
+    "title": "Data for Agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-df693c77",
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 08 Jul 2026 16:26:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-de792f4a",
+    "title": "The Download: worms fight pollution, and geoengineering faces reality",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 08 Jul 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-03bb7eb8",
     "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
     "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
@@ -2052,6 +2093,22 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Wed, 08 Jul 2026 07:16:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-94cec3e2",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "tags": [
+      "LLM",
+      "transformers"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 08 Jul 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4257,62 +4314,6 @@
     ],
     "category": "Research",
     "published_date": "Tue, 21 Apr 2026 19:11:29 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4de0d2dd",
-    "title": "Partnering with industry leaders to accelerate AI transformation",
-    "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 21 Apr 2026 14:54:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6741483c",
-    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-    "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 21 Apr 2026 14:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-200ccf22",
-    "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-    "tags": [
-      "LLM"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 21 Apr 2026 10:09:58 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-35c281ef",
-    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 21 Apr 2026 00:40:10 GMT",
     "image": null
   }
 ]
