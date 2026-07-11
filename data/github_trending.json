@@ -4,7 +4,7 @@
     "name": "simonlin1212/Vibe-Research",
     "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
     "url": "https://github.com/simonlin1212/Vibe-Research",
-    "stars": 609,
+    "stars": 698,
     "language": "TypeScript",
     "topics": [
       "a-stock",
@@ -25,19 +25,44 @@
     "created_at": "2026-07-05T06:30:55Z"
   },
   {
-    "id": "gh-1289309191",
-    "name": "SmileLikeYe/agent-chief",
-    "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it \u2014 turning every agent, alert, and feed into one honest call: interrupt, or not.",
-    "url": "https://github.com/SmileLikeYe/agent-chief",
-    "stars": 380,
+    "id": "gh-1293275849",
+    "name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "stars": 324,
     "language": "Python",
     "topics": [
-      "harness",
-      "harness-engineering",
-      "llm",
-      "local-first"
+      "apple-silicon",
+      "imessage",
+      "local-first",
+      "machine-learning",
+      "mlx",
+      "transformer"
     ],
-    "created_at": "2026-07-04T15:28:56Z"
+    "created_at": "2026-07-08T08:12:17Z"
+  },
+  {
+    "id": "gh-1291242597",
+    "name": "ronak-create/FableCut",
+    "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+    "url": "https://github.com/ronak-create/FableCut",
+    "stars": 316,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agent",
+      "canvas",
+      "claude",
+      "ffmpeg",
+      "javascript",
+      "llm",
+      "mcp",
+      "nle",
+      "reels",
+      "video-editing",
+      "video-editor",
+      "zero-dependency"
+    ],
+    "created_at": "2026-07-06T16:18:57Z"
   },
   {
     "id": "gh-1290349763",
@@ -67,51 +92,11 @@
     "created_at": "2026-07-05T21:25:55Z"
   },
   {
-    "id": "gh-1291242597",
-    "name": "ronak-create/FableCut",
-    "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-    "url": "https://github.com/ronak-create/FableCut",
-    "stars": 265,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agent",
-      "canvas",
-      "claude",
-      "ffmpeg",
-      "javascript",
-      "llm",
-      "mcp",
-      "nle",
-      "reels",
-      "video-editing",
-      "video-editor",
-      "zero-dependency"
-    ],
-    "created_at": "2026-07-06T16:18:57Z"
-  },
-  {
-    "id": "gh-1293275849",
-    "name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 233,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17Z"
-  },
-  {
     "id": "gh-1293128596",
     "name": "bkingfilm/lapian-notes",
     "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 197,
+    "stars": 257,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -124,11 +109,31 @@
     "created_at": "2026-07-08T06:06:31Z"
   },
   {
+    "id": "gh-1291544092",
+    "name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 178,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18Z"
+  },
+  {
     "id": "gh-1291530267",
     "name": "ninjahawk/Subtext",
     "description": "To know what models don't say out loud.",
     "url": "https://github.com/ninjahawk/Subtext",
-    "stars": 160,
+    "stars": 169,
     "language": "HTML",
     "topics": [
       "interpretability",
@@ -142,11 +147,29 @@
     "created_at": "2026-07-06T22:11:53Z"
   },
   {
+    "id": "gh-1294722834",
+    "name": "KORAYTEACHER/fintech-advisor",
+    "description": "ai fintech financial advisor for your portfolio",
+    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+    "stars": 151,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-advisor",
+      "ai-financial",
+      "ai-fintech",
+      "fintech",
+      "fintech-advisor",
+      "fintech-financial"
+    ],
+    "created_at": "2026-07-09T06:23:12Z"
+  },
+  {
     "id": "gh-1294821660",
     "name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 87,
+    "stars": 113,
     "language": "Python",
     "topics": [
       "ai",
@@ -162,11 +185,28 @@
     "created_at": "2026-07-09T07:34:37Z"
   },
   {
+    "id": "gh-1295688847",
+    "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
+    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "stars": 107,
+    "language": "HTML",
+    "topics": [
+      "abobe",
+      "ai",
+      "photo-editor",
+      "photoshop",
+      "smart-ai",
+      "smart-enchance"
+    ],
+    "created_at": "2026-07-09T19:08:33Z"
+  },
+  {
     "id": "gh-1293528352",
     "name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 86,
+    "stars": 96,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -187,43 +227,49 @@
     "created_at": "2026-07-08T11:42:32Z"
   },
   {
-    "id": "gh-1290068976",
-    "name": "ashutosh-rath02/atrophy",
-    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
-    "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 81,
-    "language": "TypeScript",
+    "id": "gh-1296647613",
+    "name": "Alisa0808/vox-director",
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "stars": 40,
+    "language": "Python",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "cli",
-      "deliberate-practice",
-      "developer-tools",
-      "elo-rating",
-      "local-first",
-      "nodejs",
-      "skill-assessment",
-      "skill-decay",
-      "typescript"
+      "ai-video",
+      "claude-code",
+      "claude-skill",
+      "collage-video",
+      "explainer-video",
+      "ffmpeg",
+      "generative-ai",
+      "llm",
+      "motion-graphics",
+      "python",
+      "text-to-video",
+      "tts",
+      "video",
+      "video-generation",
+      "vox"
     ],
-    "created_at": "2026-07-05T14:45:19Z"
+    "created_at": "2026-07-10T15:32:05Z"
   },
   {
-    "id": "gh-1289409845",
-    "name": "Soutar97/instagui",
-    "description": "Turn any CLI into a web GUI with one command",
-    "url": "https://github.com/Soutar97/instagui",
-    "stars": 78,
-    "language": "TypeScript",
+    "id": "gh-1295965620",
+    "name": "amitshekhariitbhu/100-days-of-ai",
+    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+    "stars": 29,
+    "language": null,
     "topics": [
+      "100daysofai",
       "ai",
-      "claude",
-      "cli",
-      "developer-tools",
-      "ffmpeg",
-      "gui"
+      "ai-agents",
+      "large-language-models",
+      "llm",
+      "llms",
+      "machine-learning"
     ],
-    "created_at": "2026-07-04T18:01:28Z"
+    "created_at": "2026-07-10T02:23:30Z"
   },
   {
     "id": "gh-1290014367",
@@ -243,72 +289,23 @@
     "created_at": "2026-07-05T13:32:59Z"
   },
   {
-    "id": "gh-1289258261",
-    "name": "subinium/Awesome-Scientific-LLM-Benchmarks",
-    "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery \u2014 math, physics, chemistry, materials, biology, and agentic science.",
-    "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
-    "stars": 22,
-    "language": "TypeScript",
+    "id": "gh-1295872400",
+    "name": "cnemri/world-cup-2026-predictor",
+    "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
+    "url": "https://github.com/cnemri/world-cup-2026-predictor",
+    "stars": 9,
+    "language": "Python",
     "topics": [
-      "ai-for-science",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "benchmark",
-      "evaluation",
-      "large-language-models",
-      "llm",
+      "elo-rating",
+      "football",
+      "forecasting",
       "machine-learning",
-      "scientific-discovery"
+      "monte-carlo",
+      "soccer",
+      "sports-analytics",
+      "world-cup",
+      "xgboost"
     ],
-    "created_at": "2026-07-04T14:17:34Z"
-  },
-  {
-    "id": "gh-1295965620",
-    "name": "amitshekhariitbhu/100-days-of-ai",
-    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 10,
-    "language": null,
-    "topics": [
-      "100daysofai",
-      "ai",
-      "ai-agents",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning"
-    ],
-    "created_at": "2026-07-10T02:23:30Z"
-  },
-  {
-    "id": "gh-1289544417",
-    "name": "matteo-grella/fucina",
-    "description": "CPU-first tensor/autograd runtime and LLM inference engine in pure Zig \u2014 eager execution, GGUF in and out, LoRA training on CPU, benchmarked pairwise against llama.cpp.",
-    "url": "https://github.com/matteo-grella/fucina",
-    "stars": 8,
-    "language": "Zig",
-    "topics": [
-      "apple-silicon",
-      "autograd",
-      "cpu-inference",
-      "cuda",
-      "deep-learning",
-      "fine-tuning",
-      "gemma",
-      "gguf",
-      "llm",
-      "llm-inference",
-      "lora",
-      "machine-learning",
-      "quantization",
-      "qwen",
-      "simd",
-      "speech-recognition",
-      "tensor",
-      "text-to-speech",
-      "zig"
-    ],
-    "created_at": "2026-07-04T22:24:32Z"
+    "created_at": "2026-07-09T23:44:48Z"
   }
 ]
