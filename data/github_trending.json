@@ -1,35 +1,10 @@
 [
   {
-    "id": "gh-1289743790",
-    "name": "simonlin1212/Vibe-Research",
-    "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
-    "url": "https://github.com/simonlin1212/Vibe-Research",
-    "stars": 698,
-    "language": "TypeScript",
-    "topics": [
-      "a-stock",
-      "ai-agent",
-      "dashboard",
-      "fastapi",
-      "fintech",
-      "hk-stocks",
-      "investment-research",
-      "llm",
-      "mcp",
-      "python",
-      "react",
-      "stock-market",
-      "trading",
-      "us-stocks"
-    ],
-    "created_at": "2026-07-05T06:30:55Z"
-  },
-  {
     "id": "gh-1293275849",
     "name": "Doriandarko/texts-to-transformer",
     "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
     "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 324,
+    "stars": 355,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -46,7 +21,7 @@
     "name": "ronak-create/FableCut",
     "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
     "url": "https://github.com/ronak-create/FableCut",
-    "stars": 316,
+    "stars": 344,
     "language": "JavaScript",
     "topics": [
       "ai-agent",
@@ -65,38 +40,11 @@
     "created_at": "2026-07-06T16:18:57Z"
   },
   {
-    "id": "gh-1290349763",
-    "name": "eli-labz/Cognitive-Core-Skills",
-    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
-    "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-    "stars": 273,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "agentic-ai",
-      "ai-agents",
-      "ai-safety",
-      "artificial-intelligence",
-      "benchmarks",
-      "cognitive-architecture",
-      "json-schema",
-      "knowledge-graph",
-      "llm",
-      "machine-learning",
-      "prompt-engineering",
-      "schema",
-      "slm",
-      "taxonomy",
-      "world-models"
-    ],
-    "created_at": "2026-07-05T21:25:55Z"
-  },
-  {
     "id": "gh-1293128596",
     "name": "bkingfilm/lapian-notes",
     "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 257,
+    "stars": 272,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -113,7 +61,7 @@
     "name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 178,
+    "stars": 246,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -133,7 +81,7 @@
     "name": "ninjahawk/Subtext",
     "description": "To know what models don't say out loud.",
     "url": "https://github.com/ninjahawk/Subtext",
-    "stars": 169,
+    "stars": 184,
     "language": "HTML",
     "topics": [
       "interpretability",
@@ -151,7 +99,7 @@
     "name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 151,
+    "stars": 154,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -169,7 +117,7 @@
     "name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 113,
+    "stars": 151,
     "language": "Python",
     "topics": [
       "ai",
@@ -185,28 +133,54 @@
     "created_at": "2026-07-09T07:34:37Z"
   },
   {
-    "id": "gh-1295688847",
-    "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "stars": 107,
-    "language": "HTML",
+    "id": "gh-1290954656",
+    "name": "olemeyer/rocketplaneIO",
+    "description": "Self-hosted AI SRE for Kubernetes \u2014 zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+    "url": "https://github.com/olemeyer/rocketplaneIO",
+    "stars": 131,
+    "language": "Go",
     "topics": [
-      "abobe",
-      "ai",
-      "photo-editor",
-      "photoshop",
-      "smart-ai",
-      "smart-enchance"
+      "ai-agent",
+      "aiops",
+      "clickhouse",
+      "devops",
+      "ebpf",
+      "golang",
+      "incident-response",
+      "kubernetes",
+      "llm",
+      "monitoring",
+      "observability",
+      "opentelemetry",
+      "promql",
+      "self-hosted",
+      "sre",
+      "tracing"
     ],
-    "created_at": "2026-07-09T19:08:33Z"
+    "created_at": "2026-07-06T11:24:01Z"
+  },
+  {
+    "id": "gh-1292208306",
+    "name": "EXXETA/exxperts",
+    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+    "url": "https://github.com/EXXETA/exxperts",
+    "stars": 126,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "local-first",
+      "memory",
+      "typescript"
+    ],
+    "created_at": "2026-07-07T11:10:01Z"
   },
   {
     "id": "gh-1293528352",
     "name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 96,
+    "stars": 108,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -231,7 +205,7 @@
     "name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 40,
+    "stars": 75,
     "language": "Python",
     "topics": [
       "ai",
@@ -258,7 +232,7 @@
     "name": "amitshekhariitbhu/100-days-of-ai",
     "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 29,
+    "stars": 42,
     "language": null,
     "topics": [
       "100daysofai",
@@ -272,28 +246,11 @@
     "created_at": "2026-07-10T02:23:30Z"
   },
   {
-    "id": "gh-1290014367",
-    "name": "fabriciocarraro/runway-shopify-pipeline",
-    "description": "Turn any Shopify catalog into product videos with the Runway API. One script, gen4.5 image-to-video.",
-    "url": "https://github.com/fabriciocarraro/runway-shopify-pipeline",
-    "stars": 26,
-    "language": "Python",
-    "topics": [
-      "ecommerce",
-      "generative-ai",
-      "python",
-      "runway",
-      "shopify",
-      "video-generation"
-    ],
-    "created_at": "2026-07-05T13:32:59Z"
-  },
-  {
     "id": "gh-1295872400",
     "name": "cnemri/world-cup-2026-predictor",
     "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
     "url": "https://github.com/cnemri/world-cup-2026-predictor",
-    "stars": 9,
+    "stars": 14,
     "language": "Python",
     "topics": [
       "elo-rating",
@@ -307,5 +264,54 @@
       "xgboost"
     ],
     "created_at": "2026-07-09T23:44:48Z"
+  },
+  {
+    "id": "gh-1292930883",
+    "name": "Quazi-07/Research-Grant-Finder-Agent",
+    "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
+    "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
+    "stars": 11,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "data-science-projects",
+      "grant-finder",
+      "machine-learning",
+      "nih-grants",
+      "python",
+      "research-agent",
+      "sqlite3",
+      "streamlit"
+    ],
+    "created_at": "2026-07-08T01:13:33Z"
+  },
+  {
+    "id": "gh-1297829699",
+    "name": "CentralSailorPraise/ComfyUI-Desktop-2026",
+    "description": "comfyui download stable diffusion workflow windows \u2014 ComfyUI for Windows 11 & 10. Direct download, install steps and setup guide.",
+    "url": "https://github.com/CentralSailorPraise/ComfyUI-Desktop-2026",
+    "stars": 9,
+    "language": null,
+    "topics": [
+      "ai-image",
+      "comfyui",
+      "comfyui-2026",
+      "comfyui-ai-image-pc-install",
+      "comfyui-desktop",
+      "comfyui-desktop-2026",
+      "comfyui-download-stable-diffusion-workflow-windows",
+      "complete-version",
+      "diffusion",
+      "download",
+      "full-installer",
+      "generative-ai",
+      "software",
+      "stable",
+      "windows-11",
+      "windows-software"
+    ],
+    "created_at": "2026-07-11T22:47:45Z"
   }
 ]

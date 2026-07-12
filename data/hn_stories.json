@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48863490",
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "points": 434,
-    "comments": 343,
+    "id": "hn-48877371",
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "points": 255,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-07-10T18:29:19Z"
+    "published_date": "2026-07-12T01:09:50Z"
   },
   {
-    "id": "hn-48863707",
-    "title": "How the terrorist group Boko Haram uses frontier AI",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "points": 202,
-    "comments": 167,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T18:49:26Z"
-  },
-  {
-    "id": "hn-48859671",
-    "title": "Punk, or why I don't stream anymore",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-    "points": 159,
-    "comments": 201,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T13:30:19Z"
-  },
-  {
-    "id": "hn-48865093",
-    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-    "points": 141,
-    "comments": 81,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T20:52:28Z"
-  },
-  {
-    "id": "hn-48864507",
-    "title": "Please don't discontinue Gemini 2.5 Flash",
-    "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-    "points": 121,
+    "id": "hn-48873836",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "points": 241,
     "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-07-10T20:00:28Z"
+    "published_date": "2026-07-11T17:21:49Z"
   },
   {
-    "id": "hn-48858171",
-    "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
-    "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-    "points": 71,
-    "comments": 55,
+    "id": "hn-48876505",
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "points": 216,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-07-10T10:40:26Z"
+    "published_date": "2026-07-11T22:38:57Z"
   },
   {
-    "id": "hn-48862467",
-    "title": "Anyone else get a vague GitHub shakedown notice?",
-    "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
-    "points": 48,
+    "id": "hn-48870381",
+    "title": "Ghost Font: A font that humans can read but AI cannot",
+    "url": "https://www.mixfont.com/ghost-font",
+    "points": 210,
+    "comments": 153,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T09:36:53Z"
+  },
+  {
+    "id": "hn-48874200",
+    "title": "AI 2040 and the cult of intelligence",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "points": 199,
+    "comments": 231,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T18:04:01Z"
+  },
+  {
+    "id": "hn-48876441",
+    "title": "Stop Telling Me to Ask an LLM",
+    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "points": 177,
+    "comments": 104,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T22:28:48Z"
+  },
+  {
+    "id": "hn-48871973",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "url": "https://shipthatcode.com",
+    "points": 159,
     "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-07-10T16:57:35Z"
+    "published_date": "2026-07-11T13:40:27Z"
   },
   {
-    "id": "hn-48861833",
-    "title": "Hands-On with the AMD Ryzen AI Halo",
-    "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-    "points": 43,
-    "comments": 42,
+    "id": "hn-48876245",
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "url": "https://github.com/Wren6991/RISCBoy",
+    "points": 126,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-07-10T16:06:38Z"
+    "published_date": "2026-07-11T21:58:00Z"
   },
   {
-    "id": "hn-48867233",
-    "title": "Meta pulls new AI image feature after days of backlash",
-    "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-    "points": 42,
+    "id": "hn-48873855",
+    "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+    "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+    "points": 103,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T17:23:52Z"
+  },
+  {
+    "id": "hn-48872561",
+    "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch",
+    "url": "https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/",
+    "points": 64,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-07-11T00:40:36Z"
+    "published_date": "2026-07-11T14:51:25Z"
   },
   {
-    "id": "hn-48862506",
-    "title": "You're Not a Better Engineer Because You Type Git Commands by Hand",
-    "url": "https://www.minid.net/2026/7/10/ai-works-for-me",
-    "points": 40,
-    "comments": 128,
+    "id": "hn-48878126",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "points": 61,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-07-10T17:01:25Z"
+    "published_date": "2026-07-12T04:00:14Z"
   },
   {
-    "id": "hn-48859439",
-    "title": "Ask HN: How do you use Vim in the era of AI?",
-    "url": "https://news.ycombinator.com/item?id=48859439",
-    "points": 36,
-    "comments": 76,
+    "id": "hn-48870229",
+    "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+    "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+    "points": 50,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-07-10T13:11:30Z"
+    "published_date": "2026-07-11T09:10:45Z"
   },
   {
-    "id": "hn-48860494",
-    "title": "Tell HN: I De-Googled Myself",
-    "url": "https://news.ycombinator.com/item?id=48860494",
+    "id": "hn-48873417",
+    "title": "Show HN: Reame \u2013 a CPU inference server that gets faster as it runs",
+    "url": "https://github.com/swellweb/reame",
+    "points": 50,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T16:27:44Z"
+  },
+  {
+    "id": "hn-48872175",
+    "title": "Google deleting all recently inactive accounts without phone number",
+    "url": "https://news.ycombinator.com/item?id=48872175",
+    "points": 47,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T14:04:17Z"
+  },
+  {
+    "id": "hn-48875494",
+    "title": "I used to love Claude, but the latest models are slowly ruining it",
+    "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+    "points": 46,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T20:21:25Z"
+  },
+  {
+    "id": "hn-48870035",
+    "title": "Companies are scrambling to curtail soaring AI costs",
+    "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+    "points": 45,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T08:29:43Z"
+  },
+  {
+    "id": "hn-48874046",
+    "title": "Ask HN: Why isn't Google indexing information about the AT Protocol?",
+    "url": "https://news.ycombinator.com/item?id=48874046",
+    "points": 43,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T17:44:40Z"
+  },
+  {
+    "id": "hn-48876578",
+    "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+    "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+    "points": 33,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-07-11T22:48:00Z"
+  },
+  {
+    "id": "hn-48875371",
+    "title": "Wealthy AI workers send San Francisco house prices soaring",
+    "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
     "points": 32,
-    "comments": 17,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-07-10T14:29:26Z"
+    "published_date": "2026-07-11T20:06:38Z"
   },
   {
-    "id": "hn-48864390",
-    "title": "Guy is banned by OpenAI for cyber abuse, his AI appeals, another AI approves it",
-    "url": "https://twitter.com/endpointarena/status/2075245286339846145",
-    "points": 29,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T19:50:27Z"
-  },
-  {
-    "id": "hn-48857085",
-    "title": "Ask HN: Do we need a support group for developers alienated by LLMs?",
-    "url": "https://news.ycombinator.com/item?id=48857085",
-    "points": 29,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T08:00:24Z"
-  },
-  {
-    "id": "hn-48865717",
-    "title": "China's Open AI Models Are Advancing Its Global Soft Power",
-    "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
-    "points": 25,
+    "id": "hn-48871547",
+    "title": "Show HN: Clx \u2013 Compile Lua to Native Executables Through C++20",
+    "url": "https://github.com/samyeyo/clx",
+    "points": 32,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-07-10T21:45:16Z"
-  },
-  {
-    "id": "hn-48863171",
-    "title": "Ask HN: What was the last task where only a frontier model could do it?",
-    "url": "https://news.ycombinator.com/item?id=48863171",
-    "points": 23,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T18:02:02Z"
-  },
-  {
-    "id": "hn-48859047",
-    "title": "AI doesn't know how to forgive and cannot forget",
-    "url": "https://tejassuds.com/blog/ai-cannot-forget",
-    "points": 21,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T12:37:40Z"
-  },
-  {
-    "id": "hn-48861217",
-    "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
-    "url": "https://sxp.studio/apps/subz",
-    "points": 19,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T15:23:50Z"
-  },
-  {
-    "id": "hn-48861030",
-    "title": "AI Cameras on Garbage Trucks to Scan Properties for Code Violations",
-    "url": "https://www.gadgetreview.com/cape-coral-eyes-ai-cameras-on-garbage-trucks-to-scan-properties-for-code-violations",
-    "points": 18,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T15:09:40Z"
-  },
-  {
-    "id": "hn-48865252",
-    "title": "Apple accuses OpenAI of using stolen trade secrets to create its AI gadgets",
-    "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
-    "points": 18,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-07-10T21:04:56Z"
+    "published_date": "2026-07-11T12:40:24Z"
   }
 ]
