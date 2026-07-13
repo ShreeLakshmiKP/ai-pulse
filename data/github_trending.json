@@ -4,7 +4,7 @@
     "name": "Doriandarko/texts-to-transformer",
     "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
     "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 355,
+    "stars": 373,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -17,34 +17,11 @@
     "created_at": "2026-07-08T08:12:17Z"
   },
   {
-    "id": "gh-1291242597",
-    "name": "ronak-create/FableCut",
-    "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-    "url": "https://github.com/ronak-create/FableCut",
-    "stars": 344,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agent",
-      "canvas",
-      "claude",
-      "ffmpeg",
-      "javascript",
-      "llm",
-      "mcp",
-      "nle",
-      "reels",
-      "video-editing",
-      "video-editor",
-      "zero-dependency"
-    ],
-    "created_at": "2026-07-06T16:18:57Z"
-  },
-  {
     "id": "gh-1293128596",
     "name": "bkingfilm/lapian-notes",
     "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 272,
+    "stars": 303,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -57,49 +34,26 @@
     "created_at": "2026-07-08T06:06:31Z"
   },
   {
-    "id": "gh-1291544092",
-    "name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 246,
-    "language": "JavaScript",
+    "id": "gh-1296036886",
+    "name": "AlephAITech/WorkBuddyGuide",
+    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "stars": 295,
+    "language": "Python",
     "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18Z"
-  },
-  {
-    "id": "gh-1291530267",
-    "name": "ninjahawk/Subtext",
-    "description": "To know what models don't say out loud.",
-    "url": "https://github.com/ninjahawk/Subtext",
-    "stars": 184,
-    "language": "HTML",
-    "topics": [
-      "interpretability",
+      "codex",
+      "guide",
       "llm",
-      "mechanistic-interpretability",
-      "pytorch",
-      "qwen",
-      "transformers",
-      "visualization"
+      "workbuddy"
     ],
-    "created_at": "2026-07-06T22:11:53Z"
+    "created_at": "2026-07-10T04:13:51Z"
   },
   {
     "id": "gh-1294722834",
     "name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 154,
+    "stars": 171,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -117,7 +71,7 @@
     "name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 151,
+    "stars": 154,
     "language": "Python",
     "topics": [
       "ai",
@@ -133,38 +87,11 @@
     "created_at": "2026-07-09T07:34:37Z"
   },
   {
-    "id": "gh-1290954656",
-    "name": "olemeyer/rocketplaneIO",
-    "description": "Self-hosted AI SRE for Kubernetes \u2014 zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-    "url": "https://github.com/olemeyer/rocketplaneIO",
-    "stars": 131,
-    "language": "Go",
-    "topics": [
-      "ai-agent",
-      "aiops",
-      "clickhouse",
-      "devops",
-      "ebpf",
-      "golang",
-      "incident-response",
-      "kubernetes",
-      "llm",
-      "monitoring",
-      "observability",
-      "opentelemetry",
-      "promql",
-      "self-hosted",
-      "sre",
-      "tracing"
-    ],
-    "created_at": "2026-07-06T11:24:01Z"
-  },
-  {
     "id": "gh-1292208306",
     "name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 126,
+    "stars": 152,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -176,11 +103,29 @@
     "created_at": "2026-07-07T11:10:01Z"
   },
   {
+    "id": "gh-1294816362",
+    "name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 152,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "mcp-cli",
+      "openclaw",
+      "openclaw-mcp",
+      "openfinclaw",
+      "openfinclaw-mcp"
+    ],
+    "created_at": "2026-07-09T07:30:49Z"
+  },
+  {
     "id": "gh-1293528352",
     "name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 108,
+    "stars": 150,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -201,11 +146,29 @@
     "created_at": "2026-07-08T11:42:32Z"
   },
   {
+    "id": "gh-1293329788",
+    "name": "amitshekhariitbhu/transformers-explained",
+    "description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+    "url": "https://github.com/amitshekhariitbhu/transformers-explained",
+    "stars": 135,
+    "language": null,
+    "topics": [
+      "architecture",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "large-language-models",
+      "llm",
+      "llms",
+      "transformers"
+    ],
+    "created_at": "2026-07-08T08:48:47Z"
+  },
+  {
     "id": "gh-1296647613",
     "name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 75,
+    "stars": 85,
     "language": "Python",
     "topics": [
       "ai",
@@ -232,7 +195,7 @@
     "name": "amitshekhariitbhu/100-days-of-ai",
     "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 42,
+    "stars": 48,
     "language": null,
     "topics": [
       "100daysofai",
@@ -246,31 +209,37 @@
     "created_at": "2026-07-10T02:23:30Z"
   },
   {
-    "id": "gh-1295872400",
-    "name": "cnemri/world-cup-2026-predictor",
-    "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
-    "url": "https://github.com/cnemri/world-cup-2026-predictor",
-    "stars": 14,
+    "id": "gh-1296882043",
+    "name": "porespellar/Zer0Fit",
+    "description": "Zero-shot forecasting, tabular classification, and regression via MCP \u2014 exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
+    "url": "https://github.com/porespellar/Zer0Fit",
+    "stars": 17,
     "language": "Python",
     "topics": [
-      "elo-rating",
-      "football",
+      "ai",
+      "classification",
       "forecasting",
+      "foundation-models",
+      "llm",
       "machine-learning",
-      "monte-carlo",
-      "soccer",
-      "sports-analytics",
-      "world-cup",
-      "xgboost"
+      "mcp",
+      "open-webui",
+      "regression",
+      "tabfm",
+      "tabular",
+      "time-series",
+      "timesfm",
+      "zer0fit",
+      "zero-shot"
     ],
-    "created_at": "2026-07-09T23:44:48Z"
+    "created_at": "2026-07-10T20:31:33Z"
   },
   {
     "id": "gh-1292930883",
     "name": "Quazi-07/Research-Grant-Finder-Agent",
     "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
     "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
-    "stars": 11,
+    "stars": 16,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -286,6 +255,26 @@
       "streamlit"
     ],
     "created_at": "2026-07-08T01:13:33Z"
+  },
+  {
+    "id": "gh-1295872400",
+    "name": "cnemri/world-cup-2026-predictor",
+    "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
+    "url": "https://github.com/cnemri/world-cup-2026-predictor",
+    "stars": 15,
+    "language": "Python",
+    "topics": [
+      "elo-rating",
+      "football",
+      "forecasting",
+      "machine-learning",
+      "monte-carlo",
+      "soccer",
+      "sports-analytics",
+      "world-cup",
+      "xgboost"
+    ],
+    "created_at": "2026-07-09T23:44:48Z"
   },
   {
     "id": "gh-1297829699",
