@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48886741",
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "url": "https://news.ycombinator.com/item?id=48886741",
-    "points": 612,
-    "comments": 287,
+    "id": "hn-48897991",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
+    "url": "https://neow.in/cWsyMTV3",
+    "points": 309,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-07-13T01:24:20Z"
+    "published_date": "2026-07-13T20:01:43Z"
   },
   {
-    "id": "hn-48883275",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "points": 575,
-    "comments": 319,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T18:25:51Z"
-  },
-  {
-    "id": "hn-48883343",
-    "title": "I love LLMs, I hate hype",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "points": 416,
-    "comments": 264,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T18:31:56Z"
-  },
-  {
-    "id": "hn-48879504",
-    "title": "Ghostel.el: Terminal emulator powered by libghostty",
-    "url": "https://dakra.github.io/ghostel/",
-    "points": 277,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T08:52:59Z"
-  },
-  {
-    "id": "hn-48884395",
-    "title": "Tiny Emulators",
-    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "id": "hn-48901010",
+    "title": "The Git history command deserves more attention",
+    "url": "https://lalitm.com/post/git-history/",
     "points": 246,
-    "comments": 20,
+    "comments": 141,
     "source": "Hacker News",
-    "published_date": "2026-07-12T20:23:05Z"
+    "published_date": "2026-07-14T00:57:11Z"
   },
   {
-    "id": "hn-48882716",
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "points": 199,
-    "comments": 86,
+    "id": "hn-48899529",
+    "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+    "url": "https://github.com/thephw/claude-meseeks",
+    "points": 129,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-07-12T17:13:07Z"
+    "published_date": "2026-07-13T22:03:54Z"
   },
   {
-    "id": "hn-48881043",
-    "title": "AI boosts research careers but narrow the span of ideas explored: study",
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "points": 145,
-    "comments": 103,
+    "id": "hn-48892638",
+    "title": "Benchmarking 15 \u201cE-Waste\u201d GPUs with Modern Workloads",
+    "url": "https://esologic.com/benchmarking-tesla-gpus/",
+    "points": 127,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-07-12T13:26:13Z"
+    "published_date": "2026-07-13T13:48:42Z"
   },
   {
-    "id": "hn-48883090",
-    "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "id": "hn-48898154",
+    "title": "Show HN: YouTube Guitar Tab Parser",
+    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
     "points": 99,
-    "comments": 70,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-07-12T18:04:41Z"
+    "published_date": "2026-07-13T20:13:14Z"
   },
   {
-    "id": "hn-48882730",
-    "title": "Fable extended until 19 July",
-    "url": "https://twitter.com/claudeai/status/2076351399999557669",
-    "points": 87,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T17:14:34Z"
-  },
-  {
-    "id": "hn-48882562",
-    "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-    "url": "https://github.com/hasenj/go-shirei/",
-    "points": 85,
-    "comments": 51,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T16:55:42Z"
-  },
-  {
-    "id": "hn-48884775",
-    "title": "Storm clouds gather over America's financial supremacy",
-    "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
-    "points": 64,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T21:04:13Z"
-  },
-  {
-    "id": "hn-48888193",
-    "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-    "url": "https://github.com/schlae/BeavisUltrasound",
-    "points": 55,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T05:15:14Z"
-  },
-  {
-    "id": "hn-48883415",
-    "title": "The One-Step Trap (In AI Research)",
-    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "points": 49,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T18:41:15Z"
-  },
-  {
-    "id": "hn-48883064",
-    "title": "Claude Code May\u2013July 2026 weekly limits promotion",
-    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
-    "points": 45,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T18:01:29Z"
-  },
-  {
-    "id": "hn-48881498",
-    "title": "Autoresearch, Claude and Constrained Optimization",
-    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-    "points": 31,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T14:32:00Z"
-  },
-  {
-    "id": "hn-48885779",
-    "title": "How to Get What You Want",
-    "url": "https://andys.blog/how-to-get-what-you-want/",
-    "points": 22,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T23:05:14Z"
-  },
-  {
-    "id": "hn-48881352",
-    "title": "Show HN: Kurvengefahr \u2013 browser CAD/CAM for pen plotters",
-    "url": "https://kurvengefahr.org/",
-    "points": 18,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T14:09:23Z"
-  },
-  {
-    "id": "hn-48885500",
-    "title": "Show HN: Codebase Posters \u2013 turn any Git repo into generative poster art",
-    "url": "https://github.com/unable12/codebase-posters",
-    "points": 18,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T22:26:14Z"
-  },
-  {
-    "id": "hn-48885525",
-    "title": "A Speed Limit for Computers",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "points": 17,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-07-12T22:29:46Z"
-  },
-  {
-    "id": "hn-48886098",
-    "title": "AI's Biggest Unlock Isn't Productivity. It's Access to Expertise",
-    "url": "https://diviv.substack.com/p/ais-biggest-unlock-isnt-productivity",
-    "points": 15,
+    "id": "hn-48896493",
+    "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+    "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
+    "points": 98,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-07-12T23:49:25Z"
+    "published_date": "2026-07-13T18:10:23Z"
+  },
+  {
+    "id": "hn-48897975",
+    "title": "Show HN: I implemented a neural network in SQL",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "points": 87,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T20:00:10Z"
+  },
+  {
+    "id": "hn-48894630",
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "points": 82,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T15:56:02Z"
+  },
+  {
+    "id": "hn-48897861",
+    "title": "AI is a bad tool",
+    "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+    "points": 77,
+    "comments": 88,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T19:51:15Z"
+  },
+  {
+    "id": "hn-48896599",
+    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "url": "https://github.com/morganwilliscloud/billai-bass",
+    "points": 68,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T18:18:23Z"
+  },
+  {
+    "id": "hn-48899321",
+    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "url": "https://arxiv.org/abs/2607.01418",
+    "points": 56,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T21:43:51Z"
+  },
+  {
+    "id": "hn-48900319",
+    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "points": 34,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T23:26:52Z"
+  },
+  {
+    "id": "hn-48901275",
+    "title": "Building Food Metadata with LLM Juries",
+    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+    "points": 31,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T01:41:49Z"
+  },
+  {
+    "id": "hn-48899232",
+    "title": "France powers down several nuclear reactors due to extreme heat",
+    "url": "https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html",
+    "points": 30,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T21:35:00Z"
+  },
+  {
+    "id": "hn-48900231",
+    "title": "The AI Whale Fall and Open Source",
+    "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+    "points": 27,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T23:16:42Z"
+  },
+  {
+    "id": "hn-48900465",
+    "title": "Show HN: FixBugs \u2013 Reproduce production bugs and verify fixes",
+    "url": "https://fixbugs.ai",
+    "points": 27,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T23:42:53Z"
+  },
+  {
+    "id": "hn-48894277",
+    "title": "Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
+    "points": 26,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T15:32:19Z"
+  },
+  {
+    "id": "hn-48893671",
+    "title": "Trump says the US controls the Strait of Hormuz and should get paid for it",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-control-strait-hormuz-get-paid-it-2026-07-13/",
+    "points": 23,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T14:54:22Z"
+  },
+  {
+    "id": "hn-48901420",
+    "title": "Georgia family says they're forced to sell home to power AI data centers",
+    "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+    "points": 20,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T02:05:53Z"
+  },
+  {
+    "id": "hn-48896842",
+    "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
+    "url": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
+    "points": 18,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-07-13T18:35:34Z"
   }
 ]

@@ -1,10 +1,25 @@
 [
   {
+    "id": "gh-1296036886",
+    "name": "AlephAITech/WorkBuddyGuide",
+    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "stars": 583,
+    "language": "Python",
+    "topics": [
+      "codex",
+      "guide",
+      "llm",
+      "workbuddy"
+    ],
+    "created_at": "2026-07-10T04:13:51Z"
+  },
+  {
     "id": "gh-1293275849",
     "name": "Doriandarko/texts-to-transformer",
     "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
     "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 373,
+    "stars": 389,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -19,9 +34,9 @@
   {
     "id": "gh-1293128596",
     "name": "bkingfilm/lapian-notes",
-    "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
+    "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 303,
+    "stars": 319,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -34,26 +49,11 @@
     "created_at": "2026-07-08T06:06:31Z"
   },
   {
-    "id": "gh-1296036886",
-    "name": "AlephAITech/WorkBuddyGuide",
-    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
-    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "stars": 295,
-    "language": "Python",
-    "topics": [
-      "codex",
-      "guide",
-      "llm",
-      "workbuddy"
-    ],
-    "created_at": "2026-07-10T04:13:51Z"
-  },
-  {
     "id": "gh-1294722834",
     "name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 171,
+    "stars": 177,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -67,65 +67,11 @@
     "created_at": "2026-07-09T06:23:12Z"
   },
   {
-    "id": "gh-1294821660",
-    "name": "SilentFleetKK/ai-market-pulse",
-    "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
-    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 154,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "akshare",
-      "github-pages",
-      "investment-research",
-      "llm",
-      "portfolio",
-      "quant",
-      "stock-analysis",
-      "yfinance"
-    ],
-    "created_at": "2026-07-09T07:34:37Z"
-  },
-  {
-    "id": "gh-1292208306",
-    "name": "EXXETA/exxperts",
-    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-    "url": "https://github.com/EXXETA/exxperts",
-    "stars": 152,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai",
-      "local-first",
-      "memory",
-      "typescript"
-    ],
-    "created_at": "2026-07-07T11:10:01Z"
-  },
-  {
-    "id": "gh-1294816362",
-    "name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 152,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "cli",
-      "mcp-cli",
-      "openclaw",
-      "openclaw-mcp",
-      "openfinclaw",
-      "openfinclaw-mcp"
-    ],
-    "created_at": "2026-07-09T07:30:49Z"
-  },
-  {
     "id": "gh-1293528352",
     "name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 150,
+    "stars": 167,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -146,11 +92,49 @@
     "created_at": "2026-07-08T11:42:32Z"
   },
   {
+    "id": "gh-1294821660",
+    "name": "SilentFleetKK/ai-market-pulse",
+    "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
+    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+    "stars": 159,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "akshare",
+      "github-pages",
+      "investment-research",
+      "llm",
+      "portfolio",
+      "quant",
+      "stock-analysis",
+      "yfinance"
+    ],
+    "created_at": "2026-07-09T07:34:37Z"
+  },
+  {
+    "id": "gh-1294816362",
+    "name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 153,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "mcp-cli",
+      "openclaw",
+      "openclaw-mcp",
+      "openfinclaw",
+      "openfinclaw-mcp"
+    ],
+    "created_at": "2026-07-09T07:30:49Z"
+  },
+  {
     "id": "gh-1293329788",
     "name": "amitshekhariitbhu/transformers-explained",
     "description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
     "url": "https://github.com/amitshekhariitbhu/transformers-explained",
-    "stars": 135,
+    "stars": 149,
     "language": null,
     "topics": [
       "architecture",
@@ -164,11 +148,30 @@
     "created_at": "2026-07-08T08:48:47Z"
   },
   {
+    "id": "gh-1296349582",
+    "name": "aws-samples/sample-specship",
+    "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+    "url": "https://github.com/aws-samples/sample-specship",
+    "stars": 135,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "code-generation",
+      "developer-tools",
+      "kiro",
+      "llm",
+      "spec-driven-development",
+      "tdd"
+    ],
+    "created_at": "2026-07-10T09:54:06Z"
+  },
+  {
     "id": "gh-1296647613",
     "name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 85,
+    "stars": 120,
     "language": "Python",
     "topics": [
       "ai",
@@ -195,7 +198,7 @@
     "name": "amitshekhariitbhu/100-days-of-ai",
     "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 48,
+    "stars": 52,
     "language": null,
     "topics": [
       "100daysofai",
@@ -209,11 +212,59 @@
     "created_at": "2026-07-10T02:23:30Z"
   },
   {
+    "id": "gh-1292930883",
+    "name": "Quazi-07/Research-Grant-Finder-Agent",
+    "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
+    "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
+    "stars": 21,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "data-science-projects",
+      "grant-finder",
+      "machine-learning",
+      "nih-grants",
+      "python",
+      "research-agent",
+      "sqlite3",
+      "streamlit"
+    ],
+    "created_at": "2026-07-08T01:13:33Z"
+  },
+  {
+    "id": "gh-1298699871",
+    "name": "Y0oshi/Text-LLM-Training-from-scratch",
+    "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
+    "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
+    "stars": 18,
+    "language": "Python",
+    "topics": [
+      "alignment",
+      "deep-learning",
+      "dpo",
+      "educational",
+      "from-scratch",
+      "generative-ai",
+      "grpo",
+      "llm",
+      "local-llms",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "rlhf",
+      "sft",
+      "transformer"
+    ],
+    "created_at": "2026-07-12T23:48:13Z"
+  },
+  {
     "id": "gh-1296882043",
     "name": "porespellar/Zer0Fit",
     "description": "Zero-shot forecasting, tabular classification, and regression via MCP \u2014 exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
     "url": "https://github.com/porespellar/Zer0Fit",
-    "stars": 17,
+    "stars": 18,
     "language": "Python",
     "topics": [
       "ai",
@@ -233,48 +284,6 @@
       "zero-shot"
     ],
     "created_at": "2026-07-10T20:31:33Z"
-  },
-  {
-    "id": "gh-1292930883",
-    "name": "Quazi-07/Research-Grant-Finder-Agent",
-    "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
-    "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
-    "stars": 16,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "data-science-projects",
-      "grant-finder",
-      "machine-learning",
-      "nih-grants",
-      "python",
-      "research-agent",
-      "sqlite3",
-      "streamlit"
-    ],
-    "created_at": "2026-07-08T01:13:33Z"
-  },
-  {
-    "id": "gh-1295872400",
-    "name": "cnemri/world-cup-2026-predictor",
-    "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
-    "url": "https://github.com/cnemri/world-cup-2026-predictor",
-    "stars": 15,
-    "language": "Python",
-    "topics": [
-      "elo-rating",
-      "football",
-      "forecasting",
-      "machine-learning",
-      "monte-carlo",
-      "soccer",
-      "sports-analytics",
-      "world-cup",
-      "xgboost"
-    ],
-    "created_at": "2026-07-09T23:44:48Z"
   },
   {
     "id": "gh-1297829699",
