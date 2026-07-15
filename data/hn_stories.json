@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48897991",
-    "title": "Samsung Health app threatens data deletion if users opt out AI training",
-    "url": "https://neow.in/cWsyMTV3",
-    "points": 309,
-    "comments": 83,
+    "id": "hn-48903777",
+    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+    "points": 519,
+    "comments": 361,
     "source": "Hacker News",
-    "published_date": "2026-07-13T20:01:43Z"
+    "published_date": "2026-07-14T08:34:57Z"
   },
   {
-    "id": "hn-48901010",
-    "title": "The Git history command deserves more attention",
-    "url": "https://lalitm.com/post/git-history/",
-    "points": 246,
-    "comments": 141,
+    "id": "hn-48905248",
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "points": 513,
+    "comments": 539,
     "source": "Hacker News",
-    "published_date": "2026-07-14T00:57:11Z"
+    "published_date": "2026-07-14T11:46:02Z"
   },
   {
-    "id": "hn-48899529",
-    "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
-    "url": "https://github.com/thephw/claude-meseeks",
-    "points": 129,
-    "comments": 54,
+    "id": "hn-48908178",
+    "title": "Are we offloading too much of our thinking to AI?",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "points": 453,
+    "comments": 418,
     "source": "Hacker News",
-    "published_date": "2026-07-13T22:03:54Z"
+    "published_date": "2026-07-14T15:18:13Z"
   },
   {
-    "id": "hn-48892638",
-    "title": "Benchmarking 15 \u201cE-Waste\u201d GPUs with Modern Workloads",
-    "url": "https://esologic.com/benchmarking-tesla-gpus/",
-    "points": 127,
-    "comments": 50,
+    "id": "hn-48905028",
+    "title": "Codex starts encrypting sub-agent prompts",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "points": 418,
+    "comments": 245,
     "source": "Hacker News",
-    "published_date": "2026-07-13T13:48:42Z"
+    "published_date": "2026-07-14T11:21:32Z"
   },
   {
-    "id": "hn-48898154",
-    "title": "Show HN: YouTube Guitar Tab Parser",
-    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-    "points": 99,
-    "comments": 60,
+    "id": "hn-48906125",
+    "title": "Proof of care in the age of AI",
+    "url": "https://jacobfilipp.com/care/",
+    "points": 181,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-07-13T20:13:14Z"
+    "published_date": "2026-07-14T12:56:25Z"
   },
   {
-    "id": "hn-48896493",
-    "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-    "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
-    "points": 98,
-    "comments": 2,
+    "id": "hn-48913050",
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "points": 167,
+    "comments": 102,
     "source": "Hacker News",
-    "published_date": "2026-07-13T18:10:23Z"
+    "published_date": "2026-07-14T21:15:51Z"
   },
   {
-    "id": "hn-48897975",
-    "title": "Show HN: I implemented a neural network in SQL",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "points": 87,
-    "comments": 17,
+    "id": "hn-48908271",
+    "title": "Show HN: Opening lines of famous literary works",
+    "url": "https://www.verbaprima.com/",
+    "points": 163,
+    "comments": 91,
     "source": "Hacker News",
-    "published_date": "2026-07-13T20:00:10Z"
+    "published_date": "2026-07-14T15:24:49Z"
   },
   {
-    "id": "hn-48894630",
-    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "url": "https://github.com/jbwinters/jacquard-lang",
-    "points": 82,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T15:56:02Z"
-  },
-  {
-    "id": "hn-48897861",
-    "title": "AI is a bad tool",
-    "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-    "points": 77,
+    "id": "hn-48913443",
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "points": 149,
     "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-07-13T19:51:15Z"
+    "published_date": "2026-07-14T21:58:36Z"
   },
   {
-    "id": "hn-48896599",
-    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-    "url": "https://github.com/morganwilliscloud/billai-bass",
-    "points": 68,
-    "comments": 27,
+    "id": "hn-48904095",
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "points": 143,
+    "comments": 192,
     "source": "Hacker News",
-    "published_date": "2026-07-13T18:18:23Z"
+    "published_date": "2026-07-14T09:20:07Z"
   },
   {
-    "id": "hn-48899321",
-    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "url": "https://arxiv.org/abs/2607.01418",
-    "points": 56,
+    "id": "hn-48905914",
+    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "points": 112,
+    "comments": 53,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T12:40:50Z"
+  },
+  {
+    "id": "hn-48916975",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "points": 106,
     "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-07-13T21:43:51Z"
+    "published_date": "2026-07-15T06:28:00Z"
   },
   {
-    "id": "hn-48900319",
-    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "points": 34,
-    "comments": 29,
+    "id": "hn-48905919",
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "points": 101,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-07-13T23:26:52Z"
+    "published_date": "2026-07-14T12:41:25Z"
   },
   {
-    "id": "hn-48901275",
-    "title": "Building Food Metadata with LLM Juries",
-    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-    "points": 31,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-07-14T01:41:49Z"
-  },
-  {
-    "id": "hn-48899232",
-    "title": "France powers down several nuclear reactors due to extreme heat",
-    "url": "https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html",
-    "points": 30,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T21:35:00Z"
-  },
-  {
-    "id": "hn-48900231",
-    "title": "The AI Whale Fall and Open Source",
-    "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-    "points": 27,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T23:16:42Z"
-  },
-  {
-    "id": "hn-48900465",
-    "title": "Show HN: FixBugs \u2013 Reproduce production bugs and verify fixes",
-    "url": "https://fixbugs.ai",
-    "points": 27,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T23:42:53Z"
-  },
-  {
-    "id": "hn-48894277",
-    "title": "Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-    "points": 26,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T15:32:19Z"
-  },
-  {
-    "id": "hn-48893671",
-    "title": "Trump says the US controls the Strait of Hormuz and should get paid for it",
-    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-control-strait-hormuz-get-paid-it-2026-07-13/",
-    "points": 23,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-07-13T14:54:22Z"
-  },
-  {
-    "id": "hn-48901420",
-    "title": "Georgia family says they're forced to sell home to power AI data centers",
-    "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
-    "points": 20,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-07-14T02:05:53Z"
-  },
-  {
-    "id": "hn-48896842",
-    "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
-    "url": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
-    "points": 18,
+    "id": "hn-48913763",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "points": 87,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-07-13T18:35:34Z"
+    "published_date": "2026-07-14T22:30:47Z"
+  },
+  {
+    "id": "hn-48906041",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "url": "https://gwern.net/guardian-angel",
+    "points": 83,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T12:50:29Z"
+  },
+  {
+    "id": "hn-48908950",
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+    "url": "https://agnost.ai",
+    "points": 77,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T16:06:18Z"
+  },
+  {
+    "id": "hn-48913407",
+    "title": "The 3-degree limit could be exceeded as early as 2050",
+    "url": "https://www.dpg-physik.de/veroeffentlichungen/publikationen/stellungnahmen-der-dpg/klima-energie/klimaaufruf",
+    "points": 37,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T21:54:19Z"
+  },
+  {
+    "id": "hn-48906132",
+    "title": "U of Chicago law school bans laptops from classes amid AI backlash",
+    "url": "https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html",
+    "points": 30,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T12:57:08Z"
+  },
+  {
+    "id": "hn-48907615",
+    "title": "Show HN: Oodle.ai \u2013 $10 per million agent traces",
+    "url": "https://www.oodle.ai/product/agent-observability",
+    "points": 30,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T14:36:28Z"
+  },
+  {
+    "id": "hn-48904912",
+    "title": "Show HN: Rejourney \u2013 Open-source revenue leak prediction for web and mobile apps",
+    "url": "https://github.com/rejourneyco/rejourney",
+    "points": 30,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T11:06:09Z"
+  },
+  {
+    "id": "hn-48908065",
+    "title": "Meta used AI to target workers with medical conditions for layoffs",
+    "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
+    "points": 25,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-07-14T15:09:28Z"
   }
 ]
