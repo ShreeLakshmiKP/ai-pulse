@@ -4,7 +4,7 @@
     "name": "AlephAITech/WorkBuddyGuide",
     "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
     "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "stars": 740,
+    "stars": 901,
     "language": "Python",
     "topics": [
       "codex",
@@ -19,7 +19,7 @@
     "name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 620,
+    "stars": 655,
     "language": "Python",
     "topics": [
       "agenticops",
@@ -42,7 +42,7 @@
     "name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine \u2014 intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 302,
+    "stars": 313,
     "language": "Python",
     "topics": [
       "agents",
@@ -61,7 +61,7 @@
     "name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 169,
+    "stars": 193,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -86,49 +86,40 @@
     "created_at": "2026-07-11T14:38:25Z"
   },
   {
-    "id": "gh-1294821660",
-    "name": "SilentFleetKK/ai-market-pulse",
-    "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
-    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+    "id": "gh-1299705358",
+    "name": "Extraltodeus/J-Wash",
+    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
     "stars": 162,
     "language": "Python",
     "topics": [
+      "abliteration",
       "ai",
-      "akshare",
-      "github-pages",
-      "investment-research",
+      "anthropic",
+      "artificial-intelligence",
+      "huggingface",
+      "interpretability",
+      "j-wash",
+      "jacobian-lens",
+      "large-language-models",
       "llm",
-      "portfolio",
-      "quant",
-      "stock-analysis",
-      "yfinance"
+      "mechanistic-interpretability",
+      "model-editing",
+      "neural-networks",
+      "pytorch",
+      "research",
+      "steering",
+      "transformers",
+      "visualization"
     ],
-    "created_at": "2026-07-09T07:34:37Z"
-  },
-  {
-    "id": "gh-1294722834",
-    "name": "KORAYTEACHER/fintech-advisor",
-    "description": "ai fintech financial advisor for your portfolio",
-    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 161,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-advisor",
-      "ai-financial",
-      "ai-fintech",
-      "fintech",
-      "fintech-advisor",
-      "fintech-financial"
-    ],
-    "created_at": "2026-07-09T06:23:12Z"
+    "created_at": "2026-07-13T20:23:26Z"
   },
   {
     "id": "gh-1296647613",
     "name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 141,
+    "stars": 158,
     "language": "Python",
     "topics": [
       "ai",
@@ -149,37 +140,6 @@
       "vox"
     ],
     "created_at": "2026-07-10T15:32:05Z"
-  },
-  {
-    "id": "gh-1301030324",
-    "name": "ARSreg46/Ai-Image-Generator",
-    "description": "AI Image Generator is a powerful desktop application for creating stunning AI-generated artwork from text prompts. It integrates with Stable Diffusion XL, Flux, DALL-E 3, and Midjourney APIs for both local GPU-accelerated and cloud-based image generation. ",
-    "url": "https://github.com/ARSreg46/Ai-Image-Generator",
-    "stars": 71,
-    "language": null,
-    "topics": [
-      "ai-image-generation",
-      "art-generation",
-      "csharp",
-      "dall-e",
-      "desktop-app",
-      "diffusion-models",
-      "flux-model",
-      "generative-ai",
-      "gpu-acceleration",
-      "img2img",
-      "inpainting",
-      "lora",
-      "midjourney",
-      "neural-network",
-      "outpainting",
-      "stable-diffusion",
-      "text-to-image",
-      "textual-inversion",
-      "upscaling",
-      "wpf"
-    ],
-    "created_at": "2026-07-14T23:38:27Z"
   },
   {
     "id": "gh-1295965620",
@@ -204,7 +164,7 @@
     "name": "Y0oshi/Text-LLM-Training-from-scratch",
     "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
     "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
-    "stars": 19,
+    "stars": 26,
     "language": "Python",
     "topics": [
       "alignment",
@@ -230,7 +190,7 @@
     "name": "porespellar/Zer0Fit",
     "description": "Zero-shot forecasting, tabular classification, and regression via MCP \u2014 exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
     "url": "https://github.com/porespellar/Zer0Fit",
-    "stars": 19,
+    "stars": 20,
     "language": "Python",
     "topics": [
       "ai",
@@ -252,24 +212,25 @@
     "created_at": "2026-07-10T20:31:33Z"
   },
   {
-    "id": "gh-1295872400",
-    "name": "cnemri/world-cup-2026-predictor",
-    "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
-    "url": "https://github.com/cnemri/world-cup-2026-predictor",
-    "stars": 15,
-    "language": "Python",
+    "id": "gh-1300241319",
+    "name": "Moh4696/10-ai-careers-roadmap",
+    "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
+    "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
+    "stars": 14,
+    "language": null,
     "topics": [
-      "elo-rating",
-      "football",
-      "forecasting",
+      "ai",
+      "ai-engineering",
+      "awesome-list",
+      "careers",
+      "cybersecurity",
+      "data-engineering",
+      "free-resources",
+      "learning-resources",
       "machine-learning",
-      "monte-carlo",
-      "soccer",
-      "sports-analytics",
-      "world-cup",
-      "xgboost"
+      "roadmap"
     ],
-    "created_at": "2026-07-09T23:44:48Z"
+    "created_at": "2026-07-14T08:53:27Z"
   },
   {
     "id": "gh-1297829699",
@@ -303,7 +264,7 @@
     "name": "amirmasoud-iravani/ai-engineering-school",
     "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
     "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
-    "stars": 7,
+    "stars": 8,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-engineering",
@@ -320,22 +281,49 @@
     "created_at": "2026-07-11T19:33:27Z"
   },
   {
-    "id": "gh-1294485027",
-    "name": "yang-ai-lab/SensorGen",
-    "description": "Generative Models for Real-World Sensor Time Series",
-    "url": "https://github.com/yang-ai-lab/SensorGen",
-    "stars": 7,
-    "language": "Python",
+    "id": "gh-1297835521",
+    "name": "FeelingSteam/InvokeAI-2026",
+    "description": "invokeai download stable diffusion windows local \u2014 InvokeAI for Windows 11 & 10. Direct download, install steps and setup guide.",
+    "url": "https://github.com/FeelingSteam/InvokeAI-2026",
+    "stars": 5,
+    "language": null,
     "topics": [
-      "autoregressive-generation",
-      "diffusion-models",
-      "flow-matching",
+      "ai-art",
+      "ai-image",
+      "complete-version",
+      "diffusion",
+      "download",
+      "full-installer",
       "generative-ai",
-      "generative-models",
-      "multimodal-generation",
-      "time-series",
-      "time-series-generation"
+      "invokeai",
+      "invokeai-2026",
+      "invokeai-ai-art-pc-install",
+      "invokeai-download-stable-diffusion-windows-local",
+      "software",
+      "stable",
+      "windows-11",
+      "windows-software"
     ],
-    "created_at": "2026-07-09T01:15:23Z"
+    "created_at": "2026-07-11T23:02:10Z"
+  },
+  {
+    "id": "gh-1297579435",
+    "name": "cxbxmxcx/commercial-creator",
+    "description": "Agentic AI commercial pipeline: product description in, finished video ad out. Claude agents plan + QC, Seedance 2.0 generates, ElevenLabs voices and scores. FastAPI + web UI + MCP connector for Claude Code.",
+    "url": "https://github.com/cxbxmxcx/commercial-creator",
+    "stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "claude",
+      "elevenlabs",
+      "fastapi",
+      "generative-ai",
+      "mcp",
+      "seedance",
+      "video-generation"
+    ],
+    "created_at": "2026-07-11T15:54:20Z"
   }
 ]
