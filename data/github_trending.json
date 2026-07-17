@@ -1,48 +1,10 @@
 [
   {
-    "id": "gh-1296036886",
-    "name": "AlephAITech/WorkBuddyGuide",
-    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
-    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "stars": 901,
-    "language": "Python",
-    "topics": [
-      "codex",
-      "guide",
-      "llm",
-      "workbuddy"
-    ],
-    "created_at": "2026-07-10T04:13:51Z"
-  },
-  {
-    "id": "gh-1296107475",
-    "name": "William-Lu-stack/Flawless",
-    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-    "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 655,
-    "language": "Python",
-    "topics": [
-      "agenticops",
-      "ai",
-      "aiops",
-      "aisre",
-      "cloud",
-      "cloud-native",
-      "devops",
-      "kubernetes",
-      "llm",
-      "mcp",
-      "observability",
-      "sre"
-    ],
-    "created_at": "2026-07-10T05:57:02Z"
-  },
-  {
     "id": "gh-1300024503",
     "name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine \u2014 intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 313,
+    "stars": 316,
     "language": "Python",
     "topics": [
       "agents",
@@ -61,7 +23,7 @@
     "name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 193,
+    "stars": 201,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -90,7 +52,7 @@
     "name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 162,
+    "stars": 171,
     "language": "Python",
     "topics": [
       "abliteration",
@@ -115,56 +77,99 @@
     "created_at": "2026-07-13T20:23:26Z"
   },
   {
-    "id": "gh-1296647613",
-    "name": "Alisa0808/vox-director",
-    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 158,
-    "language": "Python",
+    "id": "gh-1302167840",
+    "name": "alexafinode/claude-arbitrage-bot",
+    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+    "stars": 164,
+    "language": "Solidity",
     "topics": [
       "ai",
-      "ai-video",
-      "claude-code",
-      "claude-skill",
-      "collage-video",
-      "explainer-video",
-      "ffmpeg",
-      "generative-ai",
-      "llm",
-      "motion-graphics",
-      "python",
-      "text-to-video",
-      "tts",
-      "video",
-      "video-generation",
-      "vox"
+      "arbitrage",
+      "bot",
+      "btc",
+      "claude",
+      "codex",
+      "contract",
+      "ether",
+      "ethereum",
+      "gpt",
+      "lab",
+      "smart",
+      "sol"
     ],
-    "created_at": "2026-07-10T15:32:05Z"
+    "created_at": "2026-07-16T00:58:40Z"
   },
   {
-    "id": "gh-1295965620",
-    "name": "amitshekhariitbhu/100-days-of-ai",
-    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 53,
-    "language": null,
+    "id": "gh-1301672719",
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 147,
+    "language": "Python",
     "topics": [
-      "100daysofai",
+      "agent-skills",
       "ai",
-      "ai-agents",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning"
+      "chinese",
+      "claude",
+      "content-compliance",
+      "cursor",
+      "douyin",
+      "wechat-channels",
+      "xiaohongshu"
     ],
-    "created_at": "2026-07-10T02:23:30Z"
+    "created_at": "2026-07-15T13:53:48Z"
+  },
+  {
+    "id": "gh-1302448737",
+    "name": "thesysdev/appless",
+    "description": "What if your phone had no apps",
+    "url": "https://github.com/thesysdev/appless",
+    "stars": 97,
+    "language": "TypeScript",
+    "topics": [
+      "generative-ui",
+      "llm",
+      "react-native"
+    ],
+    "created_at": "2026-07-16T07:08:49Z"
+  },
+  {
+    "id": "gh-1301372808",
+    "name": "CyberSunil/LLMVault",
+    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+    "url": "https://github.com/CyberSunil/LLMVault",
+    "stars": 79,
+    "language": "Python",
+    "topics": [
+      "agent-security",
+      "ai-security",
+      "ai-security-tool",
+      "ctf",
+      "cybersecurity",
+      "docker",
+      "education",
+      "genai",
+      "llm",
+      "llm-security",
+      "owasp",
+      "owasp-llm-top-10",
+      "penetration-testing",
+      "prompt-injection",
+      "python",
+      "rag",
+      "red-team",
+      "security-training",
+      "vulnerable-lab"
+    ],
+    "created_at": "2026-07-15T08:18:22Z"
   },
   {
     "id": "gh-1298699871",
     "name": "Y0oshi/Text-LLM-Training-from-scratch",
     "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
     "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
-    "stars": 26,
+    "stars": 31,
     "language": "Python",
     "topics": [
       "alignment",
@@ -186,37 +191,27 @@
     "created_at": "2026-07-12T23:48:13Z"
   },
   {
-    "id": "gh-1296882043",
-    "name": "porespellar/Zer0Fit",
-    "description": "Zero-shot forecasting, tabular classification, and regression via MCP \u2014 exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
-    "url": "https://github.com/porespellar/Zer0Fit",
-    "stars": 20,
+    "id": "gh-1297122378",
+    "name": "surajsinghm/ML-Executable-Malware-Detector",
+    "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
+    "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
+    "stars": 27,
     "language": "Python",
     "topics": [
-      "ai",
-      "classification",
-      "forecasting",
-      "foundation-models",
-      "llm",
+      "cybersecurity-tools",
       "machine-learning",
-      "mcp",
-      "open-webui",
-      "regression",
-      "tabfm",
-      "tabular",
-      "time-series",
-      "timesfm",
-      "zer0fit",
-      "zero-shot"
+      "malware",
+      "malware-detection",
+      "ml"
     ],
-    "created_at": "2026-07-10T20:31:33Z"
+    "created_at": "2026-07-11T04:28:20Z"
   },
   {
     "id": "gh-1300241319",
     "name": "Moh4696/10-ai-careers-roadmap",
     "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
     "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
-    "stars": 14,
+    "stars": 15,
     "language": null,
     "topics": [
       "ai",
@@ -233,11 +228,71 @@
     "created_at": "2026-07-14T08:53:27Z"
   },
   {
+    "id": "gh-1298916380",
+    "name": "cowboycodr/sitegeist",
+    "description": "A visual benchmark testing whether leading coding agents repeat the same design patterns across 100 neutral website briefs.",
+    "url": "https://github.com/cowboycodr/sitegeist",
+    "stars": 13,
+    "language": "HTML",
+    "topics": [
+      "ai-benchmark",
+      "coding-agents",
+      "generative-ai",
+      "sveltekit",
+      "web-design"
+    ],
+    "created_at": "2026-07-13T05:51:15Z"
+  },
+  {
+    "id": "gh-1303424682",
+    "name": "fahmidme/agentcore-agui-starter",
+    "description": "Streaming Strands agents from Amazon Bedrock AgentCore to a Next.js CopilotKit UI over AG-UI.",
+    "url": "https://github.com/fahmidme/agentcore-agui-starter",
+    "stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agentcore",
+      "ai-agents",
+      "amazon-bedrock",
+      "aws",
+      "copilotkit",
+      "generative-ai",
+      "nextjs",
+      "python",
+      "server-sent-events",
+      "strands-agents",
+      "typescript"
+    ],
+    "created_at": "2026-07-17T01:34:34Z"
+  },
+  {
+    "id": "gh-1297731029",
+    "name": "amirmasoud-iravani/ai-engineering-school",
+    "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
+    "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
+    "stars": 9,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-engineering",
+      "deep-learning",
+      "jupyter-notebook",
+      "learning-path",
+      "machine-learning",
+      "matplotlib",
+      "mlops",
+      "numpy",
+      "pandas",
+      "python"
+    ],
+    "created_at": "2026-07-11T19:33:27Z"
+  },
+  {
     "id": "gh-1297829699",
     "name": "CentralSailorPraise/ComfyUI-Desktop-2026",
     "description": "comfyui download stable diffusion workflow windows \u2014 ComfyUI for Windows 11 & 10. Direct download, install steps and setup guide.",
     "url": "https://github.com/CentralSailorPraise/ComfyUI-Desktop-2026",
-    "stars": 9,
+    "stars": 8,
     "language": null,
     "topics": [
       "ai-image",
@@ -260,70 +315,31 @@
     "created_at": "2026-07-11T22:47:45Z"
   },
   {
-    "id": "gh-1297731029",
-    "name": "amirmasoud-iravani/ai-engineering-school",
-    "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
-    "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
-    "stars": 8,
-    "language": "Jupyter Notebook",
+    "id": "gh-1302051423",
+    "name": "SkyportalAi/skyportalai",
+    "description": "SkyPortal SDK & CLI - Open Source",
+    "url": "https://github.com/SkyportalAi/skyportalai",
+    "stars": 6,
+    "language": "Python",
     "topics": [
-      "ai-engineering",
-      "deep-learning",
-      "jupyter-notebook",
-      "learning-path",
+      "ai-observability",
+      "anthropic",
+      "artificial-intelligence",
+      "devops",
+      "gpu-monitoring",
+      "grafana",
+      "inference",
+      "kubernetes",
+      "llm-observability",
       "machine-learning",
-      "matplotlib",
       "mlops",
-      "numpy",
-      "pandas",
-      "python"
+      "openai",
+      "opentelemetry",
+      "otel",
+      "prometheus",
+      "sre",
+      "vllm"
     ],
-    "created_at": "2026-07-11T19:33:27Z"
-  },
-  {
-    "id": "gh-1297835521",
-    "name": "FeelingSteam/InvokeAI-2026",
-    "description": "invokeai download stable diffusion windows local \u2014 InvokeAI for Windows 11 & 10. Direct download, install steps and setup guide.",
-    "url": "https://github.com/FeelingSteam/InvokeAI-2026",
-    "stars": 5,
-    "language": null,
-    "topics": [
-      "ai-art",
-      "ai-image",
-      "complete-version",
-      "diffusion",
-      "download",
-      "full-installer",
-      "generative-ai",
-      "invokeai",
-      "invokeai-2026",
-      "invokeai-ai-art-pc-install",
-      "invokeai-download-stable-diffusion-windows-local",
-      "software",
-      "stable",
-      "windows-11",
-      "windows-software"
-    ],
-    "created_at": "2026-07-11T23:02:10Z"
-  },
-  {
-    "id": "gh-1297579435",
-    "name": "cxbxmxcx/commercial-creator",
-    "description": "Agentic AI commercial pipeline: product description in, finished video ad out. Claude agents plan + QC, Seedance 2.0 generates, ElevenLabs voices and scores. FastAPI + web UI + MCP connector for Claude Code.",
-    "url": "https://github.com/cxbxmxcx/commercial-creator",
-    "stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-video",
-      "claude",
-      "elevenlabs",
-      "fastapi",
-      "generative-ai",
-      "mcp",
-      "seedance",
-      "video-generation"
-    ],
-    "created_at": "2026-07-11T15:54:20Z"
+    "created_at": "2026-07-15T21:31:25Z"
   }
 ]

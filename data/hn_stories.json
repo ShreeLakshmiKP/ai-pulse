@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48922434",
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "points": 275,
-    "comments": 180,
+    "id": "hn-48936451",
+    "title": "NotebookLM is now Gemini Notebook",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "points": 298,
+    "comments": 151,
     "source": "Hacker News",
-    "published_date": "2026-07-15T15:34:05Z"
+    "published_date": "2026-07-16T16:08:13Z"
   },
   {
-    "id": "hn-48926939",
-    "title": "Show HN: Firefox in WebAssembly",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "points": 186,
-    "comments": 97,
+    "id": "hn-48939524",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "points": 232,
+    "comments": 288,
     "source": "Hacker News",
-    "published_date": "2026-07-15T21:00:17Z"
+    "published_date": "2026-07-16T20:03:23Z"
   },
   {
-    "id": "hn-48920432",
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "points": 171,
-    "comments": 224,
+    "id": "hn-48939662",
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "points": 230,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-07-15T13:18:15Z"
+    "published_date": "2026-07-16T20:18:15Z"
   },
   {
-    "id": "hn-48927095",
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "points": 165,
-    "comments": 59,
+    "id": "hn-48933310",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "points": 215,
+    "comments": 223,
     "source": "Hacker News",
-    "published_date": "2026-07-15T21:16:36Z"
+    "published_date": "2026-07-16T11:59:01Z"
   },
   {
-    "id": "hn-48924929",
-    "title": "Inkling \u2013 Open-Weights 975B Parameter LLM",
-    "url": "https://thinkingmachines.ai/inkling/",
-    "points": 121,
-    "comments": 4,
+    "id": "hn-48936880",
+    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "points": 189,
+    "comments": 129,
     "source": "Hacker News",
-    "published_date": "2026-07-15T18:14:23Z"
+    "published_date": "2026-07-16T16:41:37Z"
   },
   {
-    "id": "hn-48926085",
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "url": "https://brainless.swerdlow.dev",
-    "points": 121,
-    "comments": 24,
+    "id": "hn-48937756",
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "points": 133,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-07-15T19:42:53Z"
+    "published_date": "2026-07-16T17:44:46Z"
   },
   {
-    "id": "hn-48925888",
-    "title": "Duskers, the scary command line game, is getting a sequel",
-    "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-    "points": 119,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-07-15T19:27:59Z"
-  },
-  {
-    "id": "hn-48918575",
-    "title": "DSLs Enable Reliable Use of LLMs",
-    "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-    "points": 114,
-    "comments": 75,
-    "source": "Hacker News",
-    "published_date": "2026-07-15T10:11:11Z"
-  },
-  {
-    "id": "hn-48927373",
-    "title": "We don't use AI in any of our design or production processes",
-    "url": "https://mass-driver.com/article/from-human-hands",
-    "points": 99,
-    "comments": 103,
-    "source": "Hacker News",
-    "published_date": "2026-07-15T21:36:49Z"
-  },
-  {
-    "id": "hn-48923363",
-    "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-    "url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
-    "points": 90,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-07-15T16:32:05Z"
-  },
-  {
-    "id": "hn-48927915",
-    "title": "LLM Networking with MikroTik",
-    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "points": 81,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-07-15T22:23:27Z"
-  },
-  {
-    "id": "hn-48930363",
-    "title": "Stop saying that AI is just a tool and it only matters how it is used",
-    "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-    "points": 74,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-07-16T04:31:01Z"
-  },
-  {
-    "id": "hn-48927409",
-    "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-    "points": 52,
+    "id": "hn-48935687",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "points": 122,
     "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-07-15T21:39:21Z"
+    "published_date": "2026-07-16T15:13:00Z"
   },
   {
-    "id": "hn-48919489",
-    "title": "Show HN: Make senders work to get into your inbox",
-    "url": "https://www.captchainbox.com",
-    "points": 41,
-    "comments": 67,
+    "id": "hn-48934046",
+    "title": "Generative AI Is an Engineering Disaster",
+    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+    "points": 104,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-07-15T11:58:54Z"
+    "published_date": "2026-07-16T13:12:24Z"
   },
   {
-    "id": "hn-48929660",
-    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-    "url": "https://arxiv.org/abs/2607.11859",
-    "points": 39,
+    "id": "hn-48935487",
+    "title": "We're Building Postgres in Rust. Using the LLVM of Databases",
+    "url": "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust",
+    "points": 79,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T14:57:07Z"
+  },
+  {
+    "id": "hn-48936389",
+    "title": "Show HN: Leaves \u2013 A text-UI disk usage treemap visualizer",
+    "url": "https://github.com/patonw/leaves",
+    "points": 73,
+    "comments": 25,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T16:03:43Z"
+  },
+  {
+    "id": "hn-48936407",
+    "title": "800 Canadian wildfires burning as air quality alerts extend to US",
+    "url": "https://www.bbc.com/news/articles/c0m7n427xd8o",
+    "points": 57,
+    "comments": 38,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T16:04:51Z"
+  },
+  {
+    "id": "hn-48941123",
+    "title": "Show HN: Mojibake \u2013 A low-level Unicode library written in C",
+    "url": "https://mojibake.zaerl.com/",
+    "points": 57,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T22:29:21Z"
+  },
+  {
+    "id": "hn-48932522",
+    "title": "Linus Torvalds on LLM usage in kernel development",
+    "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+    "points": 44,
     "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-07-16T02:17:31Z"
+    "published_date": "2026-07-16T10:11:31Z"
   },
   {
-    "id": "hn-48922706",
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
-    "url": "https://coasty.ai/docs",
-    "points": 33,
-    "comments": 7,
+    "id": "hn-48937007",
+    "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+    "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+    "points": 42,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-07-15T15:51:20Z"
+    "published_date": "2026-07-16T16:51:20Z"
   },
   {
-    "id": "hn-48928002",
-    "title": "Agentty \u2013 A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-    "url": "https://github.com/1ay1/agentty",
-    "points": 33,
-    "comments": 4,
+    "id": "hn-48936554",
+    "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+    "url": "https://news.ycombinator.com/item?id=48936554",
+    "points": 40,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-07-15T22:30:24Z"
+    "published_date": "2026-07-16T16:15:55Z"
   },
   {
-    "id": "hn-48918956",
-    "title": "Societal Impacts: Claude's values across models and languages",
-    "url": "https://www.anthropic.com/research/claude-values-models-languages",
-    "points": 32,
-    "comments": 50,
+    "id": "hn-48937020",
+    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
+    "url": "https://news.ycombinator.com/item?id=48937020",
+    "points": 39,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-07-15T10:56:33Z"
+    "published_date": "2026-07-16T16:52:16Z"
   },
   {
-    "id": "hn-48920995",
-    "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
-    "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
-    "points": 30,
-    "comments": 3,
+    "id": "hn-48938524",
+    "title": "Show HN: Be the ChatBOT",
+    "url": "https://bethechatbot.com/",
+    "points": 34,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-07-15T14:03:13Z"
+    "published_date": "2026-07-16T18:44:51Z"
   },
   {
-    "id": "hn-48921106",
-    "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-    "points": 28,
-    "comments": 3,
+    "id": "hn-48939408",
+    "title": "Truth Social to sell banks 'fastest' access to Trump's posts",
+    "url": "https://www.reuters.com/technology/trump-media-unveils-data-feed-businesses-tracking-truth-social-posts-2026-07-16/",
+    "points": 31,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-07-15T14:10:15Z"
+    "published_date": "2026-07-16T19:52:04Z"
+  },
+  {
+    "id": "hn-48939764",
+    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
+    "url": "https://timelinescan.com/",
+    "points": 29,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T20:25:47Z"
+  },
+  {
+    "id": "hn-48936271",
+    "title": "Show HN: BambooGrid \u2013 Open-source web UI for power grid modeling and power flow",
+    "url": "https://bamboo.kickstage.com",
+    "points": 27,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-07-16T15:55:47Z"
   }
 ]

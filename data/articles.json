@@ -1518,6 +1518,34 @@
     "image": null
   },
   {
+    "id": "rss-534a0446",
+    "title": "What building Shippy taught us about building agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Jul 2026 17:29:41 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-6bf98bfe",
+    "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 15 Jul 2026 17:27:01 GMT",
+    "image": null
+  },
+  {
     "id": "rss-0081d2e6",
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6.",
@@ -4300,34 +4328,6 @@
     "url": "https://openai.com/index/omio",
     "tags": [
       "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e9e69e17",
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-c144d0a7",
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/cross-origin-storage",
-    "tags": [
-      "transformers"
     ],
     "category": "AI Tools",
     "published_date": "Tue, 23 Jun 2026 00:00:00 GMT",
