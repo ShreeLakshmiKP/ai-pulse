@@ -4,7 +4,7 @@
     "name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine \u2014 intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 316,
+    "stars": 324,
     "language": "Python",
     "topics": [
       "agents",
@@ -19,40 +19,65 @@
     "created_at": "2026-07-14T04:53:39Z"
   },
   {
-    "id": "gh-1297518906",
-    "name": "barretlee/agent-pulse",
-    "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-    "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 201,
+    "id": "gh-1301672719",
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 230,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "chinese",
+      "claude",
+      "content-compliance",
+      "cursor",
+      "douyin",
+      "wechat-channels",
+      "xiaohongshu"
+    ],
+    "created_at": "2026-07-15T13:53:48Z"
+  },
+  {
+    "id": "gh-1302448737",
+    "name": "thesysdev/appless",
+    "description": "What if your phone had no apps",
+    "url": "https://github.com/thesysdev/appless",
+    "stars": 205,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-industry",
-      "ai-intelligence",
-      "ai-news",
-      "artificial-intelligence",
-      "evidence",
-      "fastify",
-      "github-actions",
-      "github-pages",
-      "industry-analysis",
-      "knowledge-graph",
+      "generative-ui",
       "llm",
-      "open-source-intelligence",
-      "sqlite",
-      "timeline",
-      "typescript",
-      "weekly-report"
+      "react-native"
     ],
-    "created_at": "2026-07-11T14:38:25Z"
+    "created_at": "2026-07-16T07:08:49Z"
+  },
+  {
+    "id": "gh-1303829880",
+    "name": "MIgHTy-alIeN/Trading-Bot",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "stars": 180,
+    "language": "Solidity",
+    "topics": [
+      "ai",
+      "aitradingbot",
+      "bot",
+      "btc",
+      "claude",
+      "eth",
+      "etherlab",
+      "mev",
+      "mevbots"
+    ],
+    "created_at": "2026-07-17T09:45:22Z"
   },
   {
     "id": "gh-1299705358",
     "name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 171,
+    "stars": 173,
     "language": "Python",
     "topics": [
       "abliteration",
@@ -77,92 +102,85 @@
     "created_at": "2026-07-13T20:23:26Z"
   },
   {
-    "id": "gh-1302167840",
-    "name": "alexafinode/claude-arbitrage-bot",
-    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
-    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
-    "stars": 164,
-    "language": "Solidity",
-    "topics": [
-      "ai",
-      "arbitrage",
-      "bot",
-      "btc",
-      "claude",
-      "codex",
-      "contract",
-      "ether",
-      "ethereum",
-      "gpt",
-      "lab",
-      "smart",
-      "sol"
-    ],
-    "created_at": "2026-07-16T00:58:40Z"
-  },
-  {
-    "id": "gh-1301672719",
-    "name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 147,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "chinese",
-      "claude",
-      "content-compliance",
-      "cursor",
-      "douyin",
-      "wechat-channels",
-      "xiaohongshu"
-    ],
-    "created_at": "2026-07-15T13:53:48Z"
-  },
-  {
-    "id": "gh-1302448737",
-    "name": "thesysdev/appless",
-    "description": "What if your phone had no apps",
-    "url": "https://github.com/thesysdev/appless",
-    "stars": 97,
-    "language": "TypeScript",
-    "topics": [
-      "generative-ui",
-      "llm",
-      "react-native"
-    ],
-    "created_at": "2026-07-16T07:08:49Z"
-  },
-  {
     "id": "gh-1301372808",
     "name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 79,
+    "stars": 163,
     "language": "Python",
     "topics": [
       "agent-security",
       "ai-security",
       "ai-security-tool",
+      "artificial-intelligence",
       "ctf",
-      "cybersecurity",
       "docker",
-      "education",
       "genai",
+      "large-language-models",
       "llm",
       "llm-security",
+      "llm-security-testing",
       "owasp",
       "owasp-llm-top-10",
       "penetration-testing",
       "prompt-injection",
+      "prompt-injection-llm-security",
       "python",
       "rag",
       "red-team",
-      "security-training",
       "vulnerable-lab"
     ],
     "created_at": "2026-07-15T08:18:22Z"
+  },
+  {
+    "id": "gh-1300612704",
+    "name": "erickong/penecho",
+    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "url": "https://github.com/erickong/penecho",
+    "stars": 161,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "canvas",
+      "claude",
+      "codex",
+      "education",
+      "handwriting",
+      "nodejs",
+      "visual-thinking"
+    ],
+    "created_at": "2026-07-14T14:45:23Z"
+  },
+  {
+    "id": "gh-1303929152",
+    "name": "KlaatAI/klaatcode",
+    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "stars": 108,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "artificial-intelligence",
+      "calude-code",
+      "claude",
+      "cli",
+      "code-generation",
+      "coding-agent",
+      "deepseek",
+      "klaatai",
+      "llm",
+      "open-source",
+      "openai",
+      "openclaw",
+      "pair-programming",
+      "terminal"
+    ],
+    "created_at": "2026-07-17T11:38:10Z"
   },
   {
     "id": "gh-1298699871",
@@ -191,20 +209,20 @@
     "created_at": "2026-07-12T23:48:13Z"
   },
   {
-    "id": "gh-1297122378",
-    "name": "surajsinghm/ML-Executable-Malware-Detector",
-    "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
-    "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
-    "stars": 27,
-    "language": "Python",
+    "id": "gh-1298916380",
+    "name": "cowboycodr/sitegeist",
+    "description": "A visual benchmark testing whether leading coding agents repeat the same design patterns across 100 neutral website briefs.",
+    "url": "https://github.com/cowboycodr/sitegeist",
+    "stars": 30,
+    "language": "HTML",
     "topics": [
-      "cybersecurity-tools",
-      "machine-learning",
-      "malware",
-      "malware-detection",
-      "ml"
+      "ai-benchmark",
+      "coding-agents",
+      "generative-ai",
+      "sveltekit",
+      "web-design"
     ],
-    "created_at": "2026-07-11T04:28:20Z"
+    "created_at": "2026-07-13T05:51:15Z"
   },
   {
     "id": "gh-1300241319",
@@ -226,22 +244,6 @@
       "roadmap"
     ],
     "created_at": "2026-07-14T08:53:27Z"
-  },
-  {
-    "id": "gh-1298916380",
-    "name": "cowboycodr/sitegeist",
-    "description": "A visual benchmark testing whether leading coding agents repeat the same design patterns across 100 neutral website briefs.",
-    "url": "https://github.com/cowboycodr/sitegeist",
-    "stars": 13,
-    "language": "HTML",
-    "topics": [
-      "ai-benchmark",
-      "coding-agents",
-      "generative-ai",
-      "sveltekit",
-      "web-design"
-    ],
-    "created_at": "2026-07-13T05:51:15Z"
   },
   {
     "id": "gh-1303424682",
@@ -267,52 +269,28 @@
     "created_at": "2026-07-17T01:34:34Z"
   },
   {
-    "id": "gh-1297731029",
-    "name": "amirmasoud-iravani/ai-engineering-school",
-    "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
-    "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
+    "id": "gh-1304260727",
+    "name": "Drobiazkin/ai-agent-architecture",
+    "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
+    "url": "https://github.com/Drobiazkin/ai-agent-architecture",
     "stars": 9,
-    "language": "Jupyter Notebook",
+    "language": "HTML",
     "topics": [
-      "ai-engineering",
-      "deep-learning",
-      "jupyter-notebook",
-      "learning-path",
+      "agentic-ai",
+      "ai-agents",
+      "distributed-systems",
+      "llm",
+      "llm-inference",
+      "llmops",
       "machine-learning",
-      "matplotlib",
-      "mlops",
-      "numpy",
-      "pandas",
-      "python"
+      "mcp",
+      "open-source-book",
+      "prompt-engineering",
+      "rag",
+      "self-hosted",
+      "transformers"
     ],
-    "created_at": "2026-07-11T19:33:27Z"
-  },
-  {
-    "id": "gh-1297829699",
-    "name": "CentralSailorPraise/ComfyUI-Desktop-2026",
-    "description": "comfyui download stable diffusion workflow windows \u2014 ComfyUI for Windows 11 & 10. Direct download, install steps and setup guide.",
-    "url": "https://github.com/CentralSailorPraise/ComfyUI-Desktop-2026",
-    "stars": 8,
-    "language": null,
-    "topics": [
-      "ai-image",
-      "comfyui",
-      "comfyui-2026",
-      "comfyui-ai-image-pc-install",
-      "comfyui-desktop",
-      "comfyui-desktop-2026",
-      "comfyui-download-stable-diffusion-workflow-windows",
-      "complete-version",
-      "diffusion",
-      "download",
-      "full-installer",
-      "generative-ai",
-      "software",
-      "stable",
-      "windows-11",
-      "windows-software"
-    ],
-    "created_at": "2026-07-11T22:47:45Z"
+    "created_at": "2026-07-17T17:57:55Z"
   },
   {
     "id": "gh-1302051423",
@@ -341,5 +319,36 @@
       "vllm"
     ],
     "created_at": "2026-07-15T21:31:25Z"
+  },
+  {
+    "id": "gh-1302624827",
+    "name": "Ali-hey-0/recon-modular",
+    "description": "\ud83d\udee1\ufe0f AI-powered reconnaissance framework unifying 130+ security tools \u2014 subdomain enum, vuln scanning, cloud/IoT recon, dark web monitoring & blockchain-audited reporting. GAN-driven subdomain prediction, distributed execution post-quantum encryption. Built for bug bounty, red team & DevSecOps.",
+    "url": "https://github.com/Ali-hey-0/recon-modular",
+    "stars": 5,
+    "language": "Shell",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "bash",
+      "bug-bounty",
+      "cloud-security",
+      "cybersecurity",
+      "devsecops",
+      "distributed-computing",
+      "infosec",
+      "kurbenetes",
+      "machine-learning",
+      "osint",
+      "penetration-testing",
+      "reconnaissance",
+      "red-team",
+      "security-automation",
+      "security-tools",
+      "subdomain-enumeration",
+      "threat-intelligence",
+      "vulnerability-scanner"
+    ],
+    "created_at": "2026-07-16T10:05:00Z"
   }
 ]

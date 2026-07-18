@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48936451",
-    "title": "NotebookLM is now Gemini Notebook",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-    "points": 298,
-    "comments": 151,
+    "id": "hn-48945241",
+    "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
+    "url": "https://news.ycombinator.com/item?id=48945241",
+    "points": 1142,
+    "comments": 683,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:08:13Z"
+    "published_date": "2026-07-17T09:42:05Z"
   },
   {
-    "id": "hn-48939524",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "points": 232,
-    "comments": 288,
+    "id": "hn-48949551",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "url": "https://news.ycombinator.com/item?id=48949551",
+    "points": 529,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-07-16T20:03:23Z"
+    "published_date": "2026-07-17T16:57:27Z"
   },
   {
-    "id": "hn-48939662",
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "points": 230,
-    "comments": 77,
+    "id": "hn-48952880",
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "points": 481,
+    "comments": 307,
     "source": "Hacker News",
-    "published_date": "2026-07-16T20:18:15Z"
+    "published_date": "2026-07-17T22:26:30Z"
   },
   {
-    "id": "hn-48933310",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "points": 215,
-    "comments": 223,
+    "id": "hn-48947825",
+    "title": "The state of open source AI",
+    "url": "https://stateofopensource.ai/",
+    "points": 415,
+    "comments": 302,
     "source": "Hacker News",
-    "published_date": "2026-07-16T11:59:01Z"
+    "published_date": "2026-07-17T14:31:10Z"
   },
   {
-    "id": "hn-48936880",
-    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "points": 189,
-    "comments": 129,
+    "id": "hn-48952439",
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "points": 170,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:41:37Z"
+    "published_date": "2026-07-17T21:22:53Z"
   },
   {
-    "id": "hn-48937756",
-    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "points": 133,
-    "comments": 28,
+    "id": "hn-48947776",
+    "title": "Claude Code: Anatomy of a Misfeature",
+    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+    "points": 138,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-07-16T17:44:46Z"
+    "published_date": "2026-07-17T14:26:58Z"
   },
   {
-    "id": "hn-48935687",
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "points": 122,
-    "comments": 60,
+    "id": "hn-48952565",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "points": 101,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-07-16T15:13:00Z"
+    "published_date": "2026-07-17T21:42:43Z"
   },
   {
-    "id": "hn-48934046",
-    "title": "Generative AI Is an Engineering Disaster",
-    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
-    "points": 104,
-    "comments": 74,
+    "id": "hn-48945260",
+    "title": "I Owe My Life to the Commodore 64",
+    "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+    "points": 96,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-07-16T13:12:24Z"
+    "published_date": "2026-07-17T09:44:25Z"
   },
   {
-    "id": "hn-48935487",
-    "title": "We're Building Postgres in Rust. Using the LLVM of Databases",
-    "url": "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust",
-    "points": 79,
-    "comments": 18,
+    "id": "hn-48947714",
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "points": 91,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-07-16T14:57:07Z"
+    "published_date": "2026-07-17T14:21:35Z"
   },
   {
-    "id": "hn-48936389",
-    "title": "Show HN: Leaves \u2013 A text-UI disk usage treemap visualizer",
-    "url": "https://github.com/patonw/leaves",
-    "points": 73,
-    "comments": 25,
+    "id": "hn-48945606",
+    "title": "Just got an AWS billing alert projecting my monthly cost at $140B",
+    "url": "https://news.ycombinator.com/item?id=48945606",
+    "points": 88,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:03:43Z"
+    "published_date": "2026-07-17T10:35:06Z"
   },
   {
-    "id": "hn-48936407",
-    "title": "800 Canadian wildfires burning as air quality alerts extend to US",
-    "url": "https://www.bbc.com/news/articles/c0m7n427xd8o",
-    "points": 57,
-    "comments": 38,
+    "id": "hn-48950477",
+    "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+    "url": "https://news.ycombinator.com/item?id=48950477",
+    "points": 88,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:04:51Z"
+    "published_date": "2026-07-17T18:18:23Z"
   },
   {
-    "id": "hn-48941123",
-    "title": "Show HN: Mojibake \u2013 A low-level Unicode library written in C",
-    "url": "https://mojibake.zaerl.com/",
-    "points": 57,
-    "comments": 14,
+    "id": "hn-48952067",
+    "title": "Topcoat: The full full-stack framework for Rust",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "points": 69,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-07-16T22:29:21Z"
+    "published_date": "2026-07-17T20:41:43Z"
   },
   {
-    "id": "hn-48932522",
-    "title": "Linus Torvalds on LLM usage in kernel development",
-    "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+    "id": "hn-48946692",
+    "title": "VulnHunter: Capital One's agentic AI code security tool",
+    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+    "points": 68,
+    "comments": 33,
+    "source": "Hacker News",
+    "published_date": "2026-07-17T12:42:12Z"
+  },
+  {
+    "id": "hn-48952445",
+    "title": "Everybody's Weirded Out by AI\u2013Except the People Who Foist It on Us",
+    "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+    "points": 64,
+    "comments": 61,
+    "source": "Hacker News",
+    "published_date": "2026-07-17T21:24:07Z"
+  },
+  {
+    "id": "hn-48953924",
+    "title": "A grumpy screed about AI in software engineering",
+    "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+    "points": 52,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T00:40:08Z"
+  },
+  {
+    "id": "hn-48955159",
+    "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
+    "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
     "points": 44,
-    "comments": 5,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-07-16T10:11:31Z"
+    "published_date": "2026-07-18T04:13:00Z"
   },
   {
-    "id": "hn-48937007",
-    "title": "Someone Used AI to Write an Unauthorized Biography of Me",
-    "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
-    "points": 42,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-07-16T16:51:20Z"
-  },
-  {
-    "id": "hn-48936554",
-    "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
-    "url": "https://news.ycombinator.com/item?id=48936554",
+    "id": "hn-48947184",
+    "title": "PennyLane is an open-source quantum software platform for quantum",
+    "url": "https://github.com/PennyLaneAI/pennylane",
     "points": 40,
-    "comments": 10,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:15:55Z"
+    "published_date": "2026-07-17T13:30:47Z"
   },
   {
-    "id": "hn-48937020",
-    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "points": 39,
-    "comments": 19,
+    "id": "hn-48953857",
+    "title": "Nadella Blasts AI Industry's Double Standard",
+    "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+    "points": 24,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-07-16T16:52:16Z"
+    "published_date": "2026-07-18T00:28:46Z"
   },
   {
-    "id": "hn-48938524",
-    "title": "Show HN: Be the ChatBOT",
-    "url": "https://bethechatbot.com/",
-    "points": 34,
-    "comments": 17,
+    "id": "hn-48954522",
+    "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
+    "url": "https://twitter.com/claudeai/status/2078302415804379218",
+    "points": 21,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-07-16T18:44:51Z"
+    "published_date": "2026-07-18T02:15:36Z"
   },
   {
-    "id": "hn-48939408",
-    "title": "Truth Social to sell banks 'fastest' access to Trump's posts",
-    "url": "https://www.reuters.com/technology/trump-media-unveils-data-feed-businesses-tracking-truth-social-posts-2026-07-16/",
-    "points": 31,
+    "id": "hn-48951474",
+    "title": "How to Write Unmaintainable Code (2015)",
+    "url": "https://github.com/droogans/unmaintainable-code",
+    "points": 20,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-07-16T19:52:04Z"
-  },
-  {
-    "id": "hn-48939764",
-    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
-    "url": "https://timelinescan.com/",
-    "points": 29,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-07-16T20:25:47Z"
-  },
-  {
-    "id": "hn-48936271",
-    "title": "Show HN: BambooGrid \u2013 Open-source web UI for power grid modeling and power flow",
-    "url": "https://bamboo.kickstage.com",
-    "points": 27,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-07-16T15:55:47Z"
+    "published_date": "2026-07-17T19:42:11Z"
   }
 ]
