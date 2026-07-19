@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48945241",
-    "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-    "url": "https://news.ycombinator.com/item?id=48945241",
-    "points": 1142,
-    "comments": 683,
+    "id": "hn-48957779",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "points": 552,
+    "comments": 352,
     "source": "Hacker News",
-    "published_date": "2026-07-17T09:42:05Z"
+    "published_date": "2026-07-18T13:00:52Z"
   },
   {
-    "id": "hn-48949551",
-    "title": "Thanks HN for 15 years of support and helping me find my life's work",
-    "url": "https://news.ycombinator.com/item?id=48949551",
-    "points": 529,
+    "id": "hn-48962983",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "points": 444,
+    "comments": 193,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T22:13:39Z"
+  },
+  {
+    "id": "hn-48956924",
+    "title": "Why do AI company logos look like buttholes? (2025)",
+    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "points": 422,
+    "comments": 139,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T11:06:50Z"
+  },
+  {
+    "id": "hn-48956949",
+    "title": "What AI did to stackoverflow in a graph",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "points": 399,
+    "comments": 489,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T11:12:46Z"
+  },
+  {
+    "id": "hn-48956879",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "points": 234,
+    "comments": 115,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T11:00:29Z"
+  },
+  {
+    "id": "hn-48959392",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "points": 222,
+    "comments": 152,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T16:12:08Z"
+  },
+  {
+    "id": "hn-48964185",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "points": 174,
+    "comments": 64,
+    "source": "Hacker News",
+    "published_date": "2026-07-19T01:29:19Z"
+  },
+  {
+    "id": "hn-48964015",
+    "title": "Better and Cheaper Than IPTV",
+    "url": "https://github.com/stupside/castor",
+    "points": 159,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-07-19T00:59:55Z"
+  },
+  {
+    "id": "hn-48963483",
+    "title": "Harness Engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "points": 60,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T23:27:36Z"
+  },
+  {
+    "id": "hn-48956153",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+    "points": 59,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T08:14:05Z"
+  },
+  {
+    "id": "hn-48958273",
+    "title": "LG ThinQ Terms of Use",
+    "url": "https://news.ycombinator.com/item?id=48958273",
+    "points": 59,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T14:04:55Z"
+  },
+  {
+    "id": "hn-48962963",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+    "points": 32,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T22:10:54Z"
+  },
+  {
+    "id": "hn-48964585",
+    "title": "LLM-Integrated Multivariable Calculus Course",
+    "url": "https://calculus.academa.ai/",
+    "points": 30,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-07-19T02:55:43Z"
+  },
+  {
+    "id": "hn-48960551",
+    "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+    "url": "https://imaxxing.io/",
+    "points": 30,
     "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-07-17T16:57:27Z"
+    "published_date": "2026-07-18T18:06:23Z"
   },
   {
-    "id": "hn-48952880",
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "points": 481,
-    "comments": 307,
+    "id": "hn-48964215",
+    "title": "Deepsec",
+    "url": "https://github.com/vercel-labs/deepsec",
+    "points": 22,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-07-17T22:26:30Z"
+    "published_date": "2026-07-19T01:33:32Z"
   },
   {
-    "id": "hn-48947825",
-    "title": "The state of open source AI",
-    "url": "https://stateofopensource.ai/",
-    "points": 415,
-    "comments": 302,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T14:31:10Z"
-  },
-  {
-    "id": "hn-48952439",
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-    "points": 170,
-    "comments": 96,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T21:22:53Z"
-  },
-  {
-    "id": "hn-48947776",
-    "title": "Claude Code: Anatomy of a Misfeature",
-    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-    "points": 138,
-    "comments": 117,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T14:26:58Z"
-  },
-  {
-    "id": "hn-48952565",
-    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "points": 101,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T21:42:43Z"
-  },
-  {
-    "id": "hn-48945260",
-    "title": "I Owe My Life to the Commodore 64",
-    "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-    "points": 96,
-    "comments": 95,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T09:44:25Z"
-  },
-  {
-    "id": "hn-48947714",
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "points": 91,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T14:21:35Z"
-  },
-  {
-    "id": "hn-48945606",
-    "title": "Just got an AWS billing alert projecting my monthly cost at $140B",
-    "url": "https://news.ycombinator.com/item?id=48945606",
-    "points": 88,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T10:35:06Z"
-  },
-  {
-    "id": "hn-48950477",
-    "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
-    "url": "https://news.ycombinator.com/item?id=48950477",
-    "points": 88,
-    "comments": 85,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T18:18:23Z"
-  },
-  {
-    "id": "hn-48952067",
-    "title": "Topcoat: The full full-stack framework for Rust",
-    "url": "https://github.com/tokio-rs/topcoat",
-    "points": 69,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T20:41:43Z"
-  },
-  {
-    "id": "hn-48946692",
-    "title": "VulnHunter: Capital One's agentic AI code security tool",
-    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-    "points": 68,
-    "comments": 33,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T12:42:12Z"
-  },
-  {
-    "id": "hn-48952445",
-    "title": "Everybody's Weirded Out by AI\u2013Except the People Who Foist It on Us",
-    "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
-    "points": 64,
-    "comments": 61,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T21:24:07Z"
-  },
-  {
-    "id": "hn-48953924",
-    "title": "A grumpy screed about AI in software engineering",
-    "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-    "points": 52,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T00:40:08Z"
-  },
-  {
-    "id": "hn-48955159",
-    "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
-    "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
-    "points": 44,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T04:13:00Z"
-  },
-  {
-    "id": "hn-48947184",
-    "title": "PennyLane is an open-source quantum software platform for quantum",
-    "url": "https://github.com/PennyLaneAI/pennylane",
-    "points": 40,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-17T13:30:47Z"
-  },
-  {
-    "id": "hn-48953857",
-    "title": "Nadella Blasts AI Industry's Double Standard",
-    "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-    "points": 24,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T00:28:46Z"
-  },
-  {
-    "id": "hn-48954522",
-    "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
-    "url": "https://twitter.com/claudeai/status/2078302415804379218",
-    "points": 21,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T02:15:36Z"
-  },
-  {
-    "id": "hn-48951474",
-    "title": "How to Write Unmaintainable Code (2015)",
-    "url": "https://github.com/droogans/unmaintainable-code",
-    "points": 20,
+    "id": "hn-48964243",
+    "title": "IceCream \u2013 Never use print() to debug again",
+    "url": "https://github.com/gruns/icecream",
+    "points": 19,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-07-17T19:42:11Z"
+    "published_date": "2026-07-19T01:39:04Z"
+  },
+  {
+    "id": "hn-48963642",
+    "title": "AI Bubble vs. Dot Com Crash. History Is Repeating",
+    "url": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
+    "points": 18,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T23:54:01Z"
+  },
+  {
+    "id": "hn-48960118",
+    "title": "Overtraining as the path to human-like AI",
+    "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+    "points": 16,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T17:23:50Z"
+  },
+  {
+    "id": "hn-48965161",
+    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+    "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "points": 16,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-07-19T05:07:08Z"
+  },
+  {
+    "id": "hn-48960051",
+    "title": "AI's new political donor class is outspending Big Tech's last one",
+    "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
+    "points": 15,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-07-18T17:18:04Z"
   }
 ]
