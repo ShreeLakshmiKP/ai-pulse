@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48957779",
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "points": 552,
-    "comments": 352,
+    "id": "hn-48968606",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "url": "https://news.ycombinator.com/item?id=48968606",
+    "points": 2207,
+    "comments": 236,
     "source": "Hacker News",
-    "published_date": "2026-07-18T13:00:52Z"
+    "published_date": "2026-07-19T14:41:16Z"
   },
   {
-    "id": "hn-48962983",
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "points": 444,
-    "comments": 193,
+    "id": "hn-48966569",
+    "title": "Claude Code uses Bun written in Rust now",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "points": 504,
+    "comments": 668,
     "source": "Hacker News",
-    "published_date": "2026-07-18T22:13:39Z"
+    "published_date": "2026-07-19T10:03:23Z"
   },
   {
-    "id": "hn-48956924",
-    "title": "Why do AI company logos look like buttholes? (2025)",
-    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "points": 422,
-    "comments": 139,
+    "id": "hn-48973869",
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "points": 355,
+    "comments": 204,
     "source": "Hacker News",
-    "published_date": "2026-07-18T11:06:50Z"
+    "published_date": "2026-07-20T02:51:16Z"
   },
   {
-    "id": "hn-48956949",
-    "title": "What AI did to stackoverflow in a graph",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "points": 399,
-    "comments": 489,
+    "id": "hn-48971738",
+    "title": "AI advice made people less accurate but more confident \u2013 sudy",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "points": 335,
+    "comments": 188,
     "source": "Hacker News",
-    "published_date": "2026-07-18T11:12:46Z"
+    "published_date": "2026-07-19T21:18:10Z"
   },
   {
-    "id": "hn-48956879",
-    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "points": 234,
-    "comments": 115,
+    "id": "hn-48969291",
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "points": 256,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-07-18T11:00:29Z"
+    "published_date": "2026-07-19T16:02:25Z"
   },
   {
-    "id": "hn-48959392",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "points": 222,
-    "comments": 152,
+    "id": "hn-48972970",
+    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "url": "https://github.com/hgaiser/moonshine",
+    "points": 154,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-07-18T16:12:08Z"
+    "published_date": "2026-07-20T00:16:50Z"
   },
   {
-    "id": "hn-48964185",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "points": 174,
-    "comments": 64,
+    "id": "hn-48970991",
+    "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+    "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+    "points": 97,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-07-19T01:29:19Z"
+    "published_date": "2026-07-19T19:27:16Z"
   },
   {
-    "id": "hn-48964015",
-    "title": "Better and Cheaper Than IPTV",
-    "url": "https://github.com/stupside/castor",
-    "points": 159,
+    "id": "hn-48972858",
+    "title": "Ask HN: What are your favorite blogs not about AI?",
+    "url": "https://news.ycombinator.com/item?id=48972858",
+    "points": 75,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-07-19T23:58:12Z"
+  },
+  {
+    "id": "hn-48971781",
+    "title": "How to Abandon Your Climate Commitments and Get Away with It",
+    "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+    "points": 66,
     "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-07-19T00:59:55Z"
+    "published_date": "2026-07-19T21:24:03Z"
   },
   {
-    "id": "hn-48963483",
-    "title": "Harness Engineering",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "points": 60,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T23:27:36Z"
-  },
-  {
-    "id": "hn-48956153",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
-    "points": 59,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-07-18T08:14:05Z"
-  },
-  {
-    "id": "hn-48958273",
-    "title": "LG ThinQ Terms of Use",
-    "url": "https://news.ycombinator.com/item?id=48958273",
-    "points": 59,
+    "id": "hn-48968701",
+    "title": "Natural experiments prove phytoplankton carbon removal works",
+    "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
+    "points": 62,
     "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-07-18T14:04:55Z"
+    "published_date": "2026-07-19T14:51:57Z"
   },
   {
-    "id": "hn-48962963",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-    "points": 32,
-    "comments": 10,
+    "id": "hn-48974325",
+    "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "url": "https://github.com/Saivineeth147/lora-speedrun",
+    "points": 61,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-07-18T22:10:54Z"
+    "published_date": "2026-07-20T04:24:48Z"
   },
   {
-    "id": "hn-48964585",
-    "title": "LLM-Integrated Multivariable Calculus Course",
-    "url": "https://calculus.academa.ai/",
-    "points": 30,
-    "comments": 41,
+    "id": "hn-48966182",
+    "title": "Valve say there's no end in sight to the memory crisis, prices going to increase",
+    "url": "https://www.pcgamer.com/hardware/steam-machines/valve-says-theres-no-end-in-sight-to-the-memory-crisis-and-prices-are-only-going-to-increase-honestly-its-still-getting-worse/",
+    "points": 52,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-07-19T02:55:43Z"
+    "published_date": "2026-07-19T08:56:29Z"
   },
   {
-    "id": "hn-48960551",
-    "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-    "url": "https://imaxxing.io/",
-    "points": 30,
-    "comments": 51,
+    "id": "hn-48974426",
+    "title": "Big tech needs to justify AI spending as investors dump stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+    "points": 37,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-07-18T18:06:23Z"
+    "published_date": "2026-07-20T04:41:10Z"
   },
   {
-    "id": "hn-48964215",
-    "title": "Deepsec",
-    "url": "https://github.com/vercel-labs/deepsec",
-    "points": 22,
-    "comments": 0,
+    "id": "hn-48966754",
+    "title": "Qwen 3.8 Max",
+    "url": "https://qwen.ai/home",
+    "points": 27,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-07-19T01:33:32Z"
+    "published_date": "2026-07-19T10:41:42Z"
   },
   {
-    "id": "hn-48964243",
-    "title": "IceCream \u2013 Never use print() to debug again",
-    "url": "https://github.com/gruns/icecream",
+    "id": "hn-48969839",
+    "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+    "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
     "points": 19,
-    "comments": 2,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-07-19T01:39:04Z"
+    "published_date": "2026-07-19T17:09:34Z"
   },
   {
-    "id": "hn-48963642",
-    "title": "AI Bubble vs. Dot Com Crash. History Is Repeating",
-    "url": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
+    "id": "hn-48973847",
+    "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+    "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
     "points": 18,
-    "comments": 26,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-07-18T23:54:01Z"
+    "published_date": "2026-07-20T02:45:14Z"
   },
   {
-    "id": "hn-48960118",
-    "title": "Overtraining as the path to human-like AI",
-    "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-    "points": 16,
-    "comments": 4,
+    "id": "hn-48967807",
+    "title": "Claude Code skill for searching royalty-free stock photos via the Pexels API",
+    "url": "https://github.com/amalshehu/pexels-skill",
+    "points": 14,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-07-18T17:23:50Z"
+    "published_date": "2026-07-19T12:55:11Z"
   },
   {
-    "id": "hn-48965161",
-    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-    "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-    "points": 16,
-    "comments": 0,
+    "id": "hn-48970814",
+    "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
+    "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+    "points": 13,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-07-19T05:07:08Z"
+    "published_date": "2026-07-19T19:02:31Z"
   },
   {
-    "id": "hn-48960051",
-    "title": "AI's new political donor class is outspending Big Tech's last one",
-    "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-    "points": 15,
-    "comments": 0,
+    "id": "hn-48973408",
+    "title": "GitHub Outage",
+    "url": "https://www.githubstatus.com/incidents/8vfyvq16hzh9",
+    "points": 13,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-07-18T17:18:04Z"
+    "published_date": "2026-07-20T01:22:51Z"
+  },
+  {
+    "id": "hn-48975245",
+    "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+    "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+    "points": 11,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-07-20T07:10:30Z"
   }
 ]

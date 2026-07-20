@@ -1,10 +1,69 @@
 [
   {
+    "id": "gh-1300612704",
+    "name": "erickong/penecho",
+    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "url": "https://github.com/erickong/penecho",
+    "stars": 362,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "canvas",
+      "claude",
+      "codex",
+      "education",
+      "handwriting",
+      "nodejs",
+      "visual-thinking"
+    ],
+    "created_at": "2026-07-14T14:45:23Z"
+  },
+  {
+    "id": "gh-1303829880",
+    "name": "MIgHTy-alIeN/Trading-Bot",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "stars": 351,
+    "language": "Solidity",
+    "topics": [
+      "ai",
+      "aitradingbot",
+      "bot",
+      "btc",
+      "claude",
+      "eth",
+      "etherlab",
+      "mev",
+      "mevbots"
+    ],
+    "created_at": "2026-07-17T09:45:22Z"
+  },
+  {
+    "id": "gh-1301672719",
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 340,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "chinese",
+      "claude",
+      "content-compliance",
+      "cursor",
+      "douyin",
+      "wechat-channels",
+      "xiaohongshu"
+    ],
+    "created_at": "2026-07-15T13:53:48Z"
+  },
+  {
     "id": "gh-1300024503",
     "name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine \u2014 intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 328,
+    "stars": 332,
     "language": "Python",
     "topics": [
       "agents",
@@ -46,51 +105,11 @@
     "created_at": "2026-07-16T11:37:15Z"
   },
   {
-    "id": "gh-1303829880",
-    "name": "MIgHTy-alIeN/Trading-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 300,
-    "language": "Solidity",
-    "topics": [
-      "ai",
-      "aitradingbot",
-      "bot",
-      "btc",
-      "claude",
-      "eth",
-      "etherlab",
-      "mev",
-      "mevbots"
-    ],
-    "created_at": "2026-07-17T09:45:22Z"
-  },
-  {
-    "id": "gh-1301672719",
-    "name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 261,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "chinese",
-      "claude",
-      "content-compliance",
-      "cursor",
-      "douyin",
-      "wechat-channels",
-      "xiaohongshu"
-    ],
-    "created_at": "2026-07-15T13:53:48Z"
-  },
-  {
     "id": "gh-1302448737",
     "name": "thesysdev/appless",
     "description": "What if your phone had no apps",
     "url": "https://github.com/thesysdev/appless",
-    "stars": 248,
+    "stars": 275,
     "language": "TypeScript",
     "topics": [
       "generative-ui",
@@ -100,30 +119,11 @@
     "created_at": "2026-07-16T07:08:49Z"
   },
   {
-    "id": "gh-1300612704",
-    "name": "erickong/penecho",
-    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-    "url": "https://github.com/erickong/penecho",
-    "stars": 232,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "canvas",
-      "claude",
-      "codex",
-      "education",
-      "handwriting",
-      "nodejs",
-      "visual-thinking"
-    ],
-    "created_at": "2026-07-14T14:45:23Z"
-  },
-  {
     "id": "gh-1301372808",
     "name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 190,
+    "stars": 205,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -150,56 +150,98 @@
     "created_at": "2026-07-15T08:18:22Z"
   },
   {
-    "id": "gh-1299705358",
-    "name": "Extraltodeus/J-Wash",
-    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-    "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 180,
-    "language": "Python",
+    "id": "gh-1303929152",
+    "name": "KlaatAI/klaatcode",
+    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "stars": 148,
+    "language": "TypeScript",
     "topics": [
-      "abliteration",
+      "agentic-ai",
       "ai",
-      "anthropic",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
       "artificial-intelligence",
-      "huggingface",
-      "interpretability",
-      "j-wash",
-      "jacobian-lens",
-      "large-language-models",
+      "calude-code",
+      "claude",
+      "cli",
+      "code-generation",
+      "coding-agent",
+      "deepseek",
+      "klaatai",
       "llm",
-      "mechanistic-interpretability",
-      "model-editing",
-      "neural-networks",
-      "pytorch",
-      "research",
-      "steering",
-      "transformers",
-      "visualization"
+      "open-source",
+      "openai",
+      "openclaw",
+      "pair-programming",
+      "terminal"
     ],
-    "created_at": "2026-07-13T20:23:26Z"
+    "created_at": "2026-07-17T11:38:10Z"
   },
   {
-    "id": "gh-1298916380",
-    "name": "cowboycodr/sitegeist",
-    "description": "A visual benchmark testing whether leading coding agents repeat the same design patterns across 100 neutral website briefs.",
-    "url": "https://github.com/cowboycodr/sitegeist",
-    "stars": 34,
-    "language": "HTML",
+    "id": "gh-1305058794",
+    "name": "worldwonderer/novel-to-game",
+    "description": "\u628a\u4efb\u4f55\u5c0f\u8bf4\u53d8\u6210\u53ef\u73a9\u7684\u6e38\u620f \u00b7 Turn any novel into a playable game \u2014 a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "url": "https://github.com/worldwonderer/novel-to-game",
+    "stars": 58,
+    "language": "Python",
     "topics": [
-      "ai-benchmark",
-      "coding-agents",
+      "agent-skills",
+      "ai-game-development",
+      "claude-code",
+      "game-design",
       "generative-ai",
-      "sveltekit",
-      "web-design"
+      "interactive-fiction",
+      "kimi-code",
+      "narrative-design",
+      "novel-to-game",
+      "open-source",
+      "openai-codex",
+      "story-to-game",
+      "text-to-game",
+      "web-game"
     ],
-    "created_at": "2026-07-13T05:51:15Z"
+    "created_at": "2026-07-18T16:29:56Z"
+  },
+  {
+    "id": "gh-1301135370",
+    "name": "0xsline/OpenChatCut",
+    "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+    "url": "https://github.com/0xsline/OpenChatCut",
+    "stars": 28,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agent",
+      "ai-video-editor",
+      "claude-code",
+      "codex",
+      "electron",
+      "ffmpeg",
+      "generative-ai",
+      "glsl",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "react",
+      "remotion",
+      "timeline-editor",
+      "typescript",
+      "video-editing",
+      "video-editor",
+      "webgl"
+    ],
+    "created_at": "2026-07-15T02:49:42Z"
   },
   {
     "id": "gh-1304260727",
     "name": "Drobiazkin/ai-agent-architecture",
     "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
     "url": "https://github.com/Drobiazkin/ai-agent-architecture",
-    "stars": 18,
+    "stars": 21,
     "language": "HTML",
     "topics": [
       "a2a-protocol",
@@ -242,6 +284,26 @@
     "created_at": "2026-07-14T08:53:27Z"
   },
   {
+    "id": "gh-1305375036",
+    "name": "MisterBooo/llm-interview-questions",
+    "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
+    "url": "https://github.com/MisterBooo/llm-interview-questions",
+    "stars": 11,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "artificial-intelligence",
+      "chinese",
+      "deep-learning",
+      "interview-questions",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "rag"
+    ],
+    "created_at": "2026-07-19T02:55:27Z"
+  },
+  {
     "id": "gh-1303424682",
     "name": "fahmidme/agentcore-agui-starter",
     "description": "Streaming Strands agents from Amazon Bedrock AgentCore to a Next.js CopilotKit UI over AG-UI.",
@@ -269,7 +331,7 @@
     "name": "Hardik-369/ROADMAP",
     "description": "Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech \u2014 AI Engineer, AI Governance Specialist, GTM Engineer, and more.",
     "url": "https://github.com/Hardik-369/ROADMAP",
-    "stars": 8,
+    "stars": 9,
     "language": null,
     "topics": [
       "ai-engineer",
@@ -289,53 +351,5 @@
       "tech-career"
     ],
     "created_at": "2026-07-17T06:48:11Z"
-  },
-  {
-    "id": "gh-1305375036",
-    "name": "MisterBooo/llm-interview-questions",
-    "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
-    "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "stars": 7,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "artificial-intelligence",
-      "chinese",
-      "deep-learning",
-      "interview-questions",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "rag"
-    ],
-    "created_at": "2026-07-19T02:55:27Z"
-  },
-  {
-    "id": "gh-1302051423",
-    "name": "SkyportalAi/skyportalai",
-    "description": "SkyPortal SDK & CLI - Open Source",
-    "url": "https://github.com/SkyportalAi/skyportalai",
-    "stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai-observability",
-      "anthropic",
-      "artificial-intelligence",
-      "devops",
-      "gpu-monitoring",
-      "grafana",
-      "inference",
-      "kubernetes",
-      "llm-observability",
-      "machine-learning",
-      "mlops",
-      "openai",
-      "opentelemetry",
-      "otel",
-      "prometheus",
-      "sre",
-      "vllm"
-    ],
-    "created_at": "2026-07-15T21:31:25Z"
   }
 ]
