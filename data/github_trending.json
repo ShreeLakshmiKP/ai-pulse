@@ -1,29 +1,10 @@
 [
   {
-    "id": "gh-1300612704",
-    "name": "erickong/penecho",
-    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-    "url": "https://github.com/erickong/penecho",
-    "stars": 362,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "canvas",
-      "claude",
-      "codex",
-      "education",
-      "handwriting",
-      "nodejs",
-      "visual-thinking"
-    ],
-    "created_at": "2026-07-14T14:45:23Z"
-  },
-  {
     "id": "gh-1303829880",
     "name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 351,
+    "stars": 467,
     "language": "Solidity",
     "topics": [
       "ai",
@@ -43,7 +24,7 @@
     "name": "yuwen-cool/yuwen-publish-precheck",
     "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 340,
+    "stars": 359,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -59,30 +40,11 @@
     "created_at": "2026-07-15T13:53:48Z"
   },
   {
-    "id": "gh-1300024503",
-    "name": "QuantumByteOSS/quantumbyte",
-    "description": "Open-source app builder engine \u2014 intent to working app",
-    "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 332,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "app-builder",
-      "code-generation",
-      "llm",
-      "nextjs",
-      "open-source",
-      "python"
-    ],
-    "created_at": "2026-07-14T04:53:39Z"
-  },
-  {
     "id": "gh-1302709153",
     "name": "PromptPartner/agentsmith",
     "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
     "url": "https://github.com/PromptPartner/agentsmith",
-    "stars": 308,
+    "stars": 315,
     "language": "Shell",
     "topics": [
       "agentic-ai",
@@ -109,7 +71,7 @@
     "name": "thesysdev/appless",
     "description": "What if your phone had no apps",
     "url": "https://github.com/thesysdev/appless",
-    "stars": 275,
+    "stars": 302,
     "language": "TypeScript",
     "topics": [
       "generative-ui",
@@ -123,7 +85,7 @@
     "name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 205,
+    "stars": 218,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -154,7 +116,7 @@
     "name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 148,
+    "stars": 174,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -181,36 +143,11 @@
     "created_at": "2026-07-17T11:38:10Z"
   },
   {
-    "id": "gh-1305058794",
-    "name": "worldwonderer/novel-to-game",
-    "description": "\u628a\u4efb\u4f55\u5c0f\u8bf4\u53d8\u6210\u53ef\u73a9\u7684\u6e38\u620f \u00b7 Turn any novel into a playable game \u2014 a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
-    "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 58,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-game-development",
-      "claude-code",
-      "game-design",
-      "generative-ai",
-      "interactive-fiction",
-      "kimi-code",
-      "narrative-design",
-      "novel-to-game",
-      "open-source",
-      "openai-codex",
-      "story-to-game",
-      "text-to-game",
-      "web-game"
-    ],
-    "created_at": "2026-07-18T16:29:56Z"
-  },
-  {
     "id": "gh-1301135370",
     "name": "0xsline/OpenChatCut",
     "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
     "url": "https://github.com/0xsline/OpenChatCut",
-    "stars": 28,
+    "stars": 153,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -237,11 +174,124 @@
     "created_at": "2026-07-15T02:49:42Z"
   },
   {
+    "id": "gh-1305115824",
+    "name": "Saivineeth147/lora-speedrun",
+    "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+    "url": "https://github.com/Saivineeth147/lora-speedrun",
+    "stars": 123,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "fine-tuning",
+      "leaderboard",
+      "llm",
+      "lora",
+      "peft",
+      "qlora",
+      "speedrun"
+    ],
+    "created_at": "2026-07-18T17:53:03Z"
+  },
+  {
+    "id": "gh-1302375379",
+    "name": "lofty14/restaurant-digitalization-blueprint",
+    "description": "\u9910\u996e\u8fde\u9501\u6570\u5b57\u5316 + AI \u5168\u666f\u84dd\u56fe:\u539f\u4e32(\u5e73\u4ef7\u70e4\u4e32\u8fde\u9501)\u7684\u67b6\u6784\u51b3\u7b56\u3001\u4e1a\u52a1\u53e3\u5f84\u3001\u8e29\u5751\u5b9e\u5f55\u4e0e\u53ef\u76f4\u63a5\u5582\u7ed9 AI \u7684\u590d\u523b\u6307\u4ee4\u3002\u7eaf\u81ea\u7136\u8bed\u8a00\u65b9\u6848,\u4e0d\u542b\u4ee3\u7801\u4e0e\u4efb\u4f55\u771f\u5b9e\u7ecf\u8425\u6570\u636e\u3002",
+    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
+    "stars": 119,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "blueprint",
+      "chinese",
+      "claude",
+      "digitalization",
+      "django",
+      "erp",
+      "food-and-beverage",
+      "llm",
+      "prompts",
+      "restaurant",
+      "saas",
+      "supply-chain"
+    ],
+    "created_at": "2026-07-16T05:53:33Z"
+  },
+  {
+    "id": "gh-1306989887",
+    "name": "Kritt-ai/open-kritt",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "stars": 98,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "bug-bounty",
+      "bugbounty",
+      "bugbounty-tools",
+      "security",
+      "security-research"
+    ],
+    "created_at": "2026-07-20T20:26:24Z"
+  },
+  {
+    "id": "gh-1305058794",
+    "name": "worldwonderer/novel-to-game",
+    "description": "\u628a\u4efb\u4f55\u5c0f\u8bf4\u53d8\u6210\u53ef\u73a9\u7684\u6e38\u620f \u00b7 Turn any novel into a playable game \u2014 a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "url": "https://github.com/worldwonderer/novel-to-game",
+    "stars": 83,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-game-development",
+      "claude-code",
+      "game-design",
+      "generative-ai",
+      "interactive-fiction",
+      "kimi-code",
+      "narrative-design",
+      "novel-to-game",
+      "open-source",
+      "openai-codex",
+      "story-to-game",
+      "text-to-game",
+      "web-game"
+    ],
+    "created_at": "2026-07-18T16:29:56Z"
+  },
+  {
+    "id": "gh-1306607268",
+    "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "description": "The comprehensive bilingual (EN/\u4e2d\u6587) hub for Spiking Neural Networks \u2014 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "stars": 24,
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "brain-inspired-computing",
+      "deep-learning",
+      "event-camera",
+      "machine-learning",
+      "neural-networks",
+      "neuromorphic-computing",
+      "neuromorphic-hardware",
+      "paper-list",
+      "snn",
+      "spiking-neural-networks",
+      "spiking-transformer",
+      "surrogate-gradient"
+    ],
+    "created_at": "2026-07-20T12:55:19Z"
+  },
+  {
     "id": "gh-1304260727",
     "name": "Drobiazkin/ai-agent-architecture",
     "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
     "url": "https://github.com/Drobiazkin/ai-agent-architecture",
-    "stars": 21,
+    "stars": 23,
     "language": "HTML",
     "topics": [
       "a2a-protocol",
@@ -263,32 +313,33 @@
     "created_at": "2026-07-17T17:57:55Z"
   },
   {
-    "id": "gh-1300241319",
-    "name": "Moh4696/10-ai-careers-roadmap",
-    "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
-    "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
-    "stars": 17,
-    "language": null,
+    "id": "gh-1302030647",
+    "name": "holland202/Principia-Artificialis",
+    "description": "An open research program exploring the mathematics of artificial thought: information geometry, topology, dynamical systems, and thermodynamics applied to AI inference.",
+    "url": "https://github.com/holland202/Principia-Artificialis",
+    "stars": 14,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-engineering",
-      "awesome-list",
-      "careers",
-      "cybersecurity",
-      "data-engineering",
-      "free-resources",
-      "learning-resources",
+      "artificial-intelligence",
+      "deterministic-ai",
+      "edge-ai",
+      "embedded-systems",
       "machine-learning",
-      "roadmap"
+      "open-research",
+      "python",
+      "robotics",
+      "snapdragon",
+      "snapdragon-8-elite",
+      "sovereign-ai"
     ],
-    "created_at": "2026-07-14T08:53:27Z"
+    "created_at": "2026-07-15T20:54:54Z"
   },
   {
     "id": "gh-1305375036",
     "name": "MisterBooo/llm-interview-questions",
     "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
     "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "stars": 11,
+    "stars": 13,
     "language": null,
     "topics": [
       "ai-agents",
@@ -302,54 +353,5 @@
       "rag"
     ],
     "created_at": "2026-07-19T02:55:27Z"
-  },
-  {
-    "id": "gh-1303424682",
-    "name": "fahmidme/agentcore-agui-starter",
-    "description": "Streaming Strands agents from Amazon Bedrock AgentCore to a Next.js CopilotKit UI over AG-UI.",
-    "url": "https://github.com/fahmidme/agentcore-agui-starter",
-    "stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agentcore",
-      "ai-agents",
-      "amazon-bedrock",
-      "aws",
-      "copilotkit",
-      "generative-ai",
-      "nextjs",
-      "python",
-      "server-sent-events",
-      "strands-agents",
-      "typescript"
-    ],
-    "created_at": "2026-07-17T01:34:34Z"
-  },
-  {
-    "id": "gh-1303663929",
-    "name": "Hardik-369/ROADMAP",
-    "description": "Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech \u2014 AI Engineer, AI Governance Specialist, GTM Engineer, and more.",
-    "url": "https://github.com/Hardik-369/ROADMAP",
-    "stars": 9,
-    "language": null,
-    "topics": [
-      "ai-engineer",
-      "ai-governance",
-      "ai-roadmap",
-      "ai-safety",
-      "artificial-intelligence",
-      "career-change",
-      "career-roadmap",
-      "go-to-market",
-      "gtm",
-      "learn-to-code",
-      "llm",
-      "machine-learning",
-      "sales-engineering",
-      "self-taught",
-      "tech-career"
-    ],
-    "created_at": "2026-07-17T06:48:11Z"
   }
 ]
