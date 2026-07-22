@@ -1,10 +1,10 @@
 [
   {
     "id": "gh-1303829880",
-    "name": "MIgHTy-alIeN/Trading-Bot",
+    "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 467,
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "stars": 739,
     "language": "Solidity",
     "topics": [
       "ai",
@@ -20,31 +20,25 @@
     "created_at": "2026-07-17T09:45:22Z"
   },
   {
-    "id": "gh-1301672719",
-    "name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 359,
-    "language": "Python",
+    "id": "gh-1302448737",
+    "name": "thesysdev/appless",
+    "description": "What if your phone had no apps",
+    "url": "https://github.com/thesysdev/appless",
+    "stars": 318,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
-      "ai",
-      "chinese",
-      "claude",
-      "content-compliance",
-      "cursor",
-      "douyin",
-      "wechat-channels",
-      "xiaohongshu"
+      "generative-ui",
+      "llm",
+      "react-native"
     ],
-    "created_at": "2026-07-15T13:53:48Z"
+    "created_at": "2026-07-16T07:08:49Z"
   },
   {
     "id": "gh-1302709153",
     "name": "PromptPartner/agentsmith",
     "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
     "url": "https://github.com/PromptPartner/agentsmith",
-    "stars": 315,
+    "stars": 314,
     "language": "Shell",
     "topics": [
       "agentic-ai",
@@ -67,56 +61,53 @@
     "created_at": "2026-07-16T11:37:15Z"
   },
   {
-    "id": "gh-1302448737",
-    "name": "thesysdev/appless",
-    "description": "What if your phone had no apps",
-    "url": "https://github.com/thesysdev/appless",
-    "stars": 302,
-    "language": "TypeScript",
+    "id": "gh-1306989887",
+    "name": "Kritt-ai/open-kritt",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "stars": 275,
+    "language": "JavaScript",
     "topics": [
-      "generative-ui",
-      "llm",
-      "react-native"
+      "agent",
+      "agents",
+      "ai",
+      "bug-bounty",
+      "bugbounty",
+      "bugbounty-tools",
+      "security",
+      "security-research"
     ],
-    "created_at": "2026-07-16T07:08:49Z"
+    "created_at": "2026-07-20T20:26:24Z"
   },
   {
-    "id": "gh-1301372808",
-    "name": "CyberSunil/LLMVault",
-    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-    "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 218,
-    "language": "Python",
+    "id": "gh-1305283849",
+    "name": "livetennisapi/livetennisapi-mcp",
+    "description": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+    "stars": 249,
+    "language": "JavaScript",
     "topics": [
-      "agent-security",
-      "ai-security",
-      "ai-security-tool",
-      "artificial-intelligence",
-      "ctf",
-      "docker",
-      "genai",
-      "large-language-models",
+      "ai",
+      "claude",
+      "live-scores",
       "llm",
-      "llm-security",
-      "llm-security-testing",
-      "owasp",
-      "owasp-llm-top-10",
-      "penetration-testing",
-      "prompt-injection",
-      "prompt-injection-llm-security",
-      "python",
-      "rag",
-      "red-team",
-      "vulnerable-lab"
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "sports-api",
+      "sports-data",
+      "tennis",
+      "tennis-api",
+      "typescript"
     ],
-    "created_at": "2026-07-15T08:18:22Z"
+    "created_at": "2026-07-18T23:17:55Z"
   },
   {
     "id": "gh-1303929152",
     "name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 174,
+    "stars": 213,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -143,42 +134,33 @@
     "created_at": "2026-07-17T11:38:10Z"
   },
   {
-    "id": "gh-1301135370",
-    "name": "0xsline/OpenChatCut",
-    "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-    "url": "https://github.com/0xsline/OpenChatCut",
-    "stars": 153,
+    "id": "gh-1302409680",
+    "name": "bytedoger/awesome-OpenPrice",
+    "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
+    "url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "stars": 169,
     "language": "TypeScript",
     "topics": [
-      "agent-skills",
-      "agentic-ai",
-      "ai-agent",
-      "ai-video-editor",
-      "claude-code",
+      "ai",
+      "ai-subscription",
+      "chatgpt",
+      "claude",
       "codex",
-      "electron",
-      "ffmpeg",
-      "generative-ai",
-      "glsl",
-      "local-first",
-      "mcp",
-      "model-context-protocol",
-      "react",
-      "remotion",
-      "timeline-editor",
-      "typescript",
-      "video-editing",
-      "video-editor",
-      "webgl"
+      "cursor",
+      "gemini",
+      "grok",
+      "ldxp",
+      "price-comparison",
+      "sd2"
     ],
-    "created_at": "2026-07-15T02:49:42Z"
+    "created_at": "2026-07-16T06:28:46Z"
   },
   {
     "id": "gh-1305115824",
     "name": "Saivineeth147/lora-speedrun",
     "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
     "url": "https://github.com/Saivineeth147/lora-speedrun",
-    "stars": 123,
+    "stars": 134,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -193,80 +175,11 @@
     "created_at": "2026-07-18T17:53:03Z"
   },
   {
-    "id": "gh-1302375379",
-    "name": "lofty14/restaurant-digitalization-blueprint",
-    "description": "\u9910\u996e\u8fde\u9501\u6570\u5b57\u5316 + AI \u5168\u666f\u84dd\u56fe:\u539f\u4e32(\u5e73\u4ef7\u70e4\u4e32\u8fde\u9501)\u7684\u67b6\u6784\u51b3\u7b56\u3001\u4e1a\u52a1\u53e3\u5f84\u3001\u8e29\u5751\u5b9e\u5f55\u4e0e\u53ef\u76f4\u63a5\u5582\u7ed9 AI \u7684\u590d\u523b\u6307\u4ee4\u3002\u7eaf\u81ea\u7136\u8bed\u8a00\u65b9\u6848,\u4e0d\u542b\u4ee3\u7801\u4e0e\u4efb\u4f55\u771f\u5b9e\u7ecf\u8425\u6570\u636e\u3002",
-    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 119,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "blueprint",
-      "chinese",
-      "claude",
-      "digitalization",
-      "django",
-      "erp",
-      "food-and-beverage",
-      "llm",
-      "prompts",
-      "restaurant",
-      "saas",
-      "supply-chain"
-    ],
-    "created_at": "2026-07-16T05:53:33Z"
-  },
-  {
-    "id": "gh-1306989887",
-    "name": "Kritt-ai/open-kritt",
-    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-    "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 98,
-    "language": "JavaScript",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "bug-bounty",
-      "bugbounty",
-      "bugbounty-tools",
-      "security",
-      "security-research"
-    ],
-    "created_at": "2026-07-20T20:26:24Z"
-  },
-  {
-    "id": "gh-1305058794",
-    "name": "worldwonderer/novel-to-game",
-    "description": "\u628a\u4efb\u4f55\u5c0f\u8bf4\u53d8\u6210\u53ef\u73a9\u7684\u6e38\u620f \u00b7 Turn any novel into a playable game \u2014 a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
-    "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 83,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-game-development",
-      "claude-code",
-      "game-design",
-      "generative-ai",
-      "interactive-fiction",
-      "kimi-code",
-      "narrative-design",
-      "novel-to-game",
-      "open-source",
-      "openai-codex",
-      "story-to-game",
-      "text-to-game",
-      "web-game"
-    ],
-    "created_at": "2026-07-18T16:29:56Z"
-  },
-  {
     "id": "gh-1306607268",
     "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "description": "The comprehensive bilingual (EN/\u4e2d\u6587) hub for Spiking Neural Networks \u2014 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
     "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 24,
+    "stars": 44,
     "language": "Python",
     "topics": [
       "awesome",
@@ -291,7 +204,7 @@
     "name": "Drobiazkin/ai-agent-architecture",
     "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
     "url": "https://github.com/Drobiazkin/ai-agent-architecture",
-    "stars": 23,
+    "stars": 24,
     "language": "HTML",
     "topics": [
       "a2a-protocol",
@@ -313,26 +226,23 @@
     "created_at": "2026-07-17T17:57:55Z"
   },
   {
-    "id": "gh-1302030647",
-    "name": "holland202/Principia-Artificialis",
-    "description": "An open research program exploring the mathematics of artificial thought: information geometry, topology, dynamical systems, and thermodynamics applied to AI inference.",
-    "url": "https://github.com/holland202/Principia-Artificialis",
-    "stars": 14,
-    "language": "Python",
+    "id": "gh-1303516931",
+    "name": "flatkey-ai/flatkey-cli",
+    "description": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
+    "url": "https://github.com/flatkey-ai/flatkey-cli",
+    "stars": 15,
+    "language": "JavaScript",
     "topics": [
-      "artificial-intelligence",
-      "deterministic-ai",
-      "edge-ai",
-      "embedded-systems",
-      "machine-learning",
-      "open-research",
-      "python",
-      "robotics",
-      "snapdragon",
-      "snapdragon-8-elite",
-      "sovereign-ai"
+      "ai",
+      "audio-generation",
+      "cli",
+      "generative-ai",
+      "image-generation",
+      "media-generation",
+      "npm",
+      "video-generation"
     ],
-    "created_at": "2026-07-15T20:54:54Z"
+    "created_at": "2026-07-17T03:35:56Z"
   },
   {
     "id": "gh-1305375036",
@@ -353,5 +263,60 @@
       "rag"
     ],
     "created_at": "2026-07-19T02:55:27Z"
+  },
+  {
+    "id": "gh-1302677727",
+    "name": "kieranmrhunt/teaching-notebooks",
+    "description": "Teaching notebooks for meteorology, machine learning, and data science.",
+    "url": "https://github.com/kieranmrhunt/teaching-notebooks",
+    "stars": 12,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "jupyter-notebook",
+      "machine-learning",
+      "meteorology",
+      "teaching",
+      "xgboost"
+    ],
+    "created_at": "2026-07-16T11:05:06Z"
+  },
+  {
+    "id": "gh-1305773751",
+    "name": "DonFungible/awesome-generative-ui",
+    "description": "Developer resources for building with and learning about generative UI",
+    "url": "https://github.com/DonFungible/awesome-generative-ui",
+    "stars": 11,
+    "language": null,
+    "topics": [
+      "ai",
+      "frontend",
+      "generative-ai",
+      "generative-ui",
+      "ui"
+    ],
+    "created_at": "2026-07-19T14:28:04Z"
+  },
+  {
+    "id": "gh-1303424682",
+    "name": "fahmidme/agentcore-agui-starter",
+    "description": "Streaming Strands agents from Amazon Bedrock AgentCore to a Next.js CopilotKit UI over AG-UI.",
+    "url": "https://github.com/fahmidme/agentcore-agui-starter",
+    "stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agentcore",
+      "ai-agents",
+      "amazon-bedrock",
+      "aws",
+      "copilotkit",
+      "generative-ai",
+      "nextjs",
+      "python",
+      "server-sent-events",
+      "strands-agents",
+      "typescript"
+    ],
+    "created_at": "2026-07-17T01:34:34Z"
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-48979269",
-    "title": "China\u2019s open-weights AI strategy is winning",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "points": 1089,
-    "comments": 831,
+    "id": "hn-48993414",
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "points": 675,
+    "comments": 517,
     "source": "Hacker News",
-    "published_date": "2026-07-20T14:21:47Z"
+    "published_date": "2026-07-21T15:17:16Z"
   },
   {
-    "id": "hn-48976846",
-    "title": "Airport Simulator",
-    "url": "https://airport.apunen.com/",
-    "points": 783,
-    "comments": 153,
+    "id": "hn-48996652",
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "points": 323,
+    "comments": 236,
     "source": "Hacker News",
-    "published_date": "2026-07-20T10:30:40Z"
+    "published_date": "2026-07-21T19:04:39Z"
   },
   {
-    "id": "hn-48975665",
-    "title": "I found a WordPress RCEs with GPT5.6 and $25",
-    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "points": 391,
-    "comments": 214,
+    "id": "hn-48995213",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "points": 307,
+    "comments": 259,
     "source": "Hacker News",
-    "published_date": "2026-07-20T08:13:36Z"
+    "published_date": "2026-07-21T17:14:06Z"
   },
   {
-    "id": "hn-48982681",
-    "title": "Nativ: Run frontier open models locally on your Mac",
-    "url": "https://blaizzy.github.io/nativ/",
-    "points": 261,
-    "comments": 86,
+    "id": "hn-48998404",
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "points": 185,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-07-20T18:16:08Z"
+    "published_date": "2026-07-21T21:13:20Z"
   },
   {
-    "id": "hn-48987863",
-    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "points": 241,
-    "comments": 112,
+    "id": "hn-48993059",
+    "title": "Claude Is Not a Compiler",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "points": 150,
+    "comments": 159,
     "source": "Hacker News",
-    "published_date": "2026-07-21T03:56:03Z"
+    "published_date": "2026-07-21T14:49:18Z"
   },
   {
-    "id": "hn-48981206",
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "points": 219,
-    "comments": 152,
+    "id": "hn-48996197",
+    "title": "AI makes programming differently difficult",
+    "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+    "points": 147,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-07-20T16:36:36Z"
+    "published_date": "2026-07-21T18:30:21Z"
   },
   {
-    "id": "hn-48976682",
-    "title": "Airbus Takes Flight from AWS",
-    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "points": 204,
-    "comments": 160,
+    "id": "hn-48996187",
+    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+    "url": "https://github.com/Kalcode/spaceprojectsim",
+    "points": 100,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-07-20T10:12:22Z"
+    "published_date": "2026-07-21T18:29:57Z"
   },
   {
-    "id": "hn-48981136",
-    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "points": 85,
-    "comments": 86,
+    "id": "hn-48995074",
+    "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "points": 95,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-07-20T16:32:10Z"
+    "published_date": "2026-07-21T17:03:18Z"
   },
   {
-    "id": "hn-48980506",
-    "title": "Ziggity \u2013 A terminal UI for Git, written in Zig",
-    "url": "https://github.com/simoarpe/ziggity",
-    "points": 73,
-    "comments": 54,
+    "id": "hn-48996760",
+    "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+    "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+    "points": 84,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-07-20T15:46:18Z"
+    "published_date": "2026-07-21T19:11:27Z"
   },
   {
-    "id": "hn-48980238",
-    "title": "Mythologizing AI makes it more likely that we\u2019ll fail to operate it well (2023)",
-    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-    "points": 70,
-    "comments": 108,
+    "id": "hn-48998606",
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "points": 75,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-07-20T15:28:32Z"
+    "published_date": "2026-07-21T21:27:54Z"
   },
   {
-    "id": "hn-48979475",
-    "title": "Controlling Reasoning Effort in LLMs",
-    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-    "points": 68,
-    "comments": 6,
+    "id": "hn-48993130",
+    "title": "Gemini 3.6 Flash",
+    "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
+    "points": 69,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-07-20T14:35:19Z"
+    "published_date": "2026-07-21T14:56:15Z"
   },
   {
-    "id": "hn-48986003",
-    "title": "Americans hate AI so much that politicians are losing their jobs over it",
-    "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
-    "points": 54,
-    "comments": 35,
+    "id": "hn-48995181",
+    "title": "Show HN: CodeAlmanac \u2013 Karpathy-style codebase wiki from your conversations",
+    "url": "https://github.com/AlmanacCode/codealmanac/",
+    "points": 50,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-07-20T23:06:09Z"
+    "published_date": "2026-07-21T17:12:01Z"
   },
   {
-    "id": "hn-48982411",
-    "title": "AI, Vim, and the Illusion of Flow",
-    "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
-    "points": 37,
-    "comments": 5,
+    "id": "hn-48996236",
+    "title": "AI Agent \u2013 TRMNL",
+    "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+    "points": 48,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-07-20T17:59:42Z"
+    "published_date": "2026-07-21T18:32:21Z"
   },
   {
-    "id": "hn-48981857",
-    "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
-    "url": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
-    "points": 34,
-    "comments": 10,
+    "id": "hn-48998828",
+    "title": "Show HN: Computable \u2013 Buy, sell, and redeem GPU for the exact weeks you want",
+    "url": "https://www.getcomputable.com/",
+    "points": 40,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-07-20T17:22:13Z"
+    "published_date": "2026-07-21T21:48:19Z"
   },
   {
-    "id": "hn-48978545",
-    "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-    "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-    "points": 30,
-    "comments": 6,
+    "id": "hn-48995134",
+    "title": "I built a page that tells you what AI model your laptop can run",
+    "url": "https://localsotabenchmark.engineersf.dev/",
+    "points": 32,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-07-20T13:23:38Z"
+    "published_date": "2026-07-21T17:08:40Z"
   },
   {
-    "id": "hn-48981789",
-    "title": "Fable is now included on Max plans (up to 50% of weekly limit)",
-    "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
+    "id": "hn-49000429",
+    "title": "How an AI Anime Is Created",
+    "url": "https://www.aventos.dev/our-process?view=blog",
     "points": 29,
-    "comments": 27,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-07-20T17:18:46Z"
+    "published_date": "2026-07-22T00:53:00Z"
   },
   {
-    "id": "hn-48988158",
-    "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
-    "url": "https://exsitu.app/map",
-    "points": 25,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-07-21T04:48:32Z"
-  },
-  {
-    "id": "hn-48984932",
-    "title": "Trump to hit Canada with new 50% tariff",
-    "url": "https://www.cbc.ca/news/world/trump-canada-us-trade-tariffs-cusma-usmca-9.7276973",
-    "points": 18,
+    "id": "hn-48999357",
+    "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
+    "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+    "points": 28,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-07-20T21:11:03Z"
+    "published_date": "2026-07-21T22:43:07Z"
   },
   {
-    "id": "hn-48978961",
-    "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
-    "url": "https://github.com/dawndrain/movie-gen",
-    "points": 18,
-    "comments": 4,
+    "id": "hn-49002276",
+    "title": "Show HN: A new kind of FPS aim trainer",
+    "url": "https://openaim.pramit.gg/",
+    "points": 26,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-07-20T13:57:44Z"
+    "published_date": "2026-07-22T05:39:31Z"
   },
   {
-    "id": "hn-48980930",
-    "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
-    "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
-    "points": 18,
-    "comments": 3,
+    "id": "hn-48990929",
+    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?)",
+    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+    "points": 26,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-07-20T16:17:17Z"
+    "published_date": "2026-07-21T11:39:02Z"
+  },
+  {
+    "id": "hn-48995030",
+    "title": "Yubikey 5.8: Verified Authorization for the New Era of Identity and AI",
+    "url": "https://www.yubico.com/resource/whats-new-yubikey-5-8/",
+    "points": 21,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-07-21T17:00:03Z"
   }
 ]
