@@ -720,6 +720,161 @@
     "image": null
   },
   {
+    "id": "rss-97d59894",
+    "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+    "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 22 Jul 2026 23:47:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-42dd8f74",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 22 Jul 2026 22:01:52 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-eb195570",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+    "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 22 Jul 2026 20:49:03 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-298db90f",
+    "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-86074338",
+    "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4eb37512",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7c576931",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-bf18d69a",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b030bc34",
+    "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 22 Jul 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1de86603",
+    "title": "Advancing the next era of national science",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-def4f0c1",
+    "title": "Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own",
+    "summary": "When NASA\u2019s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy\u2019s most precise disappearing acts to date.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 22 Jul 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-27421537",
     "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
     "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
@@ -730,6 +885,22 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Wed, 22 Jul 2026 08:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1f5d786b",
+    "title": "Introducing OpenAI Presence",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 22 Jul 2026 05:30:00 GMT",
     "image": null
   },
   {
@@ -746,6 +917,22 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 22 Jul 2026 03:20:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0723f553",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ntt-data",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 22 Jul 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4146,190 +4333,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Tue, 24 Mar 2026 02:01:52 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-41e29831",
-    "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
-    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 23 Jun 2026 23:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9ab4e89c",
-    "title": "Heads in the game",
-    "summary": "The Argentina v. France final of the 2022 Men\u2019s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make\u2014and fast. Lionel Messi,&#8230;",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 23 Jun 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cab8cc49",
-    "title": "Super Mario is mathier than you think",
-    "summary": "Here\u2019s a problem you probably didn\u2019t solve in school: You\u2019re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 23 Jun 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-251d7d3c",
-    "title": "A man of many words",
-    "summary": "Brian Sietsema has a favorite word. It\u2019s somewhat surprising that he can choose just one. He\u2019s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they\u2019re given at the Scripps National Spelling Bee\u2014arguably the world\u2019s most prestigious competition...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 23 Jun 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d5c7b562",
-    "title": "Sharing a love for calculus",
-    "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you\u2019ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 23 Jun 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-22a3e516",
-    "title": "Stand Up for Research, Innovation, and Education",
-    "summary": "Right now, MIT alumni and friends are voicing their support for: America\u2019s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 23 Jun 2026 21:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1948945e",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "tags": [
-      "GPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 23 Jun 2026 17:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-492604e8",
-    "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
-    "summary": "Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 23 Jun 2026 17:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-aca01865",
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 \u2014 the ultimate founder bootcamp \u2014 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 23 Jun 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1b1b1aa4",
-    "title": "Helping build shared standards for advanced AI",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "tags": [
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Tue, 23 Jun 2026 13:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-6ad2703e",
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "tags": [
-      "agents",
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 23 Jun 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-237e7c87",
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 23 Jun 2026 12:51:55 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-44208f99",
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 23 Jun 2026 01:27:55 +0000",
     "image": null
   }
 ]
