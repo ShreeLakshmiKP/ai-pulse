@@ -1,30 +1,10 @@
 [
   {
-    "id": "gh-1303829880",
-    "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 920,
-    "language": "Solidity",
-    "topics": [
-      "ai",
-      "aitradingbot",
-      "bot",
-      "btc",
-      "claude",
-      "eth",
-      "etherlab",
-      "mev",
-      "mevbots"
-    ],
-    "created_at": "2026-07-17T09:45:22Z"
-  },
-  {
     "id": "gh-1306989887",
     "name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 339,
+    "stars": 366,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -37,37 +17,6 @@
       "security-research"
     ],
     "created_at": "2026-07-20T20:26:24Z"
-  },
-  {
-    "id": "gh-1303929152",
-    "name": "KlaatAI/klaatcode",
-    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-    "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 251,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "ai-model",
-      "ai-tools",
-      "artificial-intelligence",
-      "calude-code",
-      "claude",
-      "cli",
-      "code-generation",
-      "coding-agent",
-      "deepseek",
-      "klaatai",
-      "llm",
-      "open-source",
-      "openai",
-      "openclaw",
-      "pair-programming",
-      "terminal"
-    ],
-    "created_at": "2026-07-17T11:38:10Z"
   },
   {
     "id": "gh-1305283849",
@@ -93,11 +42,42 @@
     "created_at": "2026-07-18T23:17:55Z"
   },
   {
+    "id": "gh-1306503677",
+    "name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 190,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-agents",
+      "communication",
+      "crewai",
+      "discord",
+      "email",
+      "imessage",
+      "langchain",
+      "llm",
+      "mcp",
+      "messaging",
+      "python",
+      "sdk",
+      "slack",
+      "sms",
+      "telegram",
+      "typescript",
+      "whatsapp",
+      "whatsapp-api"
+    ],
+    "created_at": "2026-07-20T10:47:56Z"
+  },
+  {
     "id": "gh-1307136587",
     "name": "risa-labs-inc/BossConsole",
     "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
     "url": "https://github.com/risa-labs-inc/BossConsole",
-    "stars": 158,
+    "stars": 172,
     "language": "Kotlin",
     "topics": [
       "agent-harness",
@@ -127,7 +107,7 @@
     "name": "hahhforest/pi-textbook",
     "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
     "url": "https://github.com/hahhforest/pi-textbook",
-    "stars": 142,
+    "stars": 162,
     "language": "TypeScript",
     "topics": [
       "agent-engineering",
@@ -140,37 +120,20 @@
     "created_at": "2026-07-21T04:17:35Z"
   },
   {
-    "id": "gh-1305115824",
-    "name": "Saivineeth147/lora-speedrun",
-    "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
-    "url": "https://github.com/Saivineeth147/lora-speedrun",
-    "stars": 138,
-    "language": "Python",
-    "topics": [
-      "benchmark",
-      "fine-tuning",
-      "leaderboard",
-      "llm",
-      "lora",
-      "peft",
-      "qlora",
-      "speedrun"
-    ],
-    "created_at": "2026-07-18T17:53:03Z"
-  },
-  {
     "id": "gh-1305383508",
     "name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+    "description": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 134,
+    "stars": 143,
     "language": "TypeScript",
     "topics": [
       "agent",
       "agentic-ai",
       "ai",
       "ai-product",
+      "build-tool",
       "claude-code",
+      "desktop",
       "harness",
       "llm",
       "productivity",
@@ -178,6 +141,62 @@
       "workflow"
     ],
     "created_at": "2026-07-19T03:15:21Z"
+  },
+  {
+    "id": "gh-1306090134",
+    "name": "ailinone/collective-intelligence",
+    "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "stars": 79,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "collective",
+      "collective-intelligence",
+      "consensus",
+      "docker",
+      "gateway",
+      "genai",
+      "llm",
+      "multi-agent",
+      "open-source",
+      "openai-compatible",
+      "openapi",
+      "orchestration",
+      "orchestrator",
+      "orchestrator-engine",
+      "python",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-07-20T00:17:45Z"
+  },
+  {
+    "id": "gh-1305772131",
+    "name": "pazo01/awesome-cyber-ai-arsenal",
+    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
+    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
+    "stars": 73,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "blue-team",
+      "bug-bounty",
+      "cybersecurity",
+      "hacking-tools",
+      "infosec",
+      "llm-security",
+      "llm-tools",
+      "osint",
+      "pentesting",
+      "red-team",
+      "security"
+    ],
+    "created_at": "2026-07-19T14:25:45Z"
   },
   {
     "id": "gh-1306607268",
@@ -209,7 +228,7 @@
     "name": "itshamzabendelladj/AIGuardSIEM",
     "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
     "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-    "stars": 60,
+    "stars": 66,
     "language": "C++",
     "topics": [
       "anomaly-detection",
@@ -235,76 +254,11 @@
     "created_at": "2026-07-21T13:28:34Z"
   },
   {
-    "id": "gh-1303516931",
-    "name": "flatkey-ai/flatkey-cli",
-    "description": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
-    "url": "https://github.com/flatkey-ai/flatkey-cli",
-    "stars": 32,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "audio-generation",
-      "cli",
-      "generative-ai",
-      "image-generation",
-      "media-generation",
-      "npm",
-      "video-generation"
-    ],
-    "created_at": "2026-07-17T03:35:56Z"
-  },
-  {
-    "id": "gh-1304260727",
-    "name": "Drobiazkin/ai-agent-architecture",
-    "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
-    "url": "https://github.com/Drobiazkin/ai-agent-architecture",
-    "stars": 25,
-    "language": "HTML",
-    "topics": [
-      "a2a-protocol",
-      "ai",
-      "ai-agents",
-      "context-engineering",
-      "distributed-systems",
-      "harness-engineering",
-      "llm",
-      "loop-engineering",
-      "machine-learning",
-      "mcp",
-      "opensource",
-      "prompt-engineering",
-      "rag",
-      "self-hosted",
-      "transformers"
-    ],
-    "created_at": "2026-07-17T17:57:55Z"
-  },
-  {
-    "id": "gh-1305375036",
-    "name": "MisterBooo/llm-interview-questions",
-    "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
-    "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "stars": 15,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "artificial-intelligence",
-      "chinese",
-      "deep-learning",
-      "interview-questions",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "rag"
-    ],
-    "created_at": "2026-07-19T02:55:27Z"
-  },
-  {
     "id": "gh-1307096111",
     "name": "awslabs/unified-kg-rag-on-aws",
     "description": "AWS-native knowledge graph RAG framework unifying two graph-retrieval methodologies \u2014 Microsoft GraphRAG community summarization and LightRAG dual-level keyword search \u2014 on Amazon Bedrock, Neptune, and OpenSearch. Multi-hop QA over document corpora, with incremental indexing and multilingual support.",
     "url": "https://github.com/awslabs/unified-kg-rag-on-aws",
-    "stars": 14,
+    "stars": 17,
     "language": "Python",
     "topics": [
       "amazon-bedrock",
@@ -324,6 +278,42 @@
       "retrieval-augmented-generation"
     ],
     "created_at": "2026-07-20T23:39:01Z"
+  },
+  {
+    "id": "gh-1305375036",
+    "name": "MisterBooo/llm-interview-questions",
+    "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
+    "url": "https://github.com/MisterBooo/llm-interview-questions",
+    "stars": 16,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "artificial-intelligence",
+      "chinese",
+      "deep-learning",
+      "interview-questions",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "rag"
+    ],
+    "created_at": "2026-07-19T02:55:27Z"
+  },
+  {
+    "id": "gh-1305773751",
+    "name": "DonFungible/awesome-generative-ui",
+    "description": "Developer resources for building with and learning about generative UI",
+    "url": "https://github.com/DonFungible/awesome-generative-ui",
+    "stars": 14,
+    "language": null,
+    "topics": [
+      "ai",
+      "frontend",
+      "generative-ai",
+      "generative-ui",
+      "ui"
+    ],
+    "created_at": "2026-07-19T14:28:04Z"
   },
   {
     "id": "gh-1307934389",
@@ -352,5 +342,21 @@
       "typescript"
     ],
     "created_at": "2026-07-21T16:58:26Z"
+  },
+  {
+    "id": "gh-1307024852",
+    "name": "felixrieseberg/language-model-builder",
+    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+    "url": "https://github.com/felixrieseberg/language-model-builder",
+    "stars": 12,
+    "language": null,
+    "topics": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "machine-learning",
+      "mlx"
+    ],
+    "created_at": "2026-07-20T21:20:56Z"
   }
 ]
