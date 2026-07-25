@@ -4,7 +4,7 @@
     "name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 366,
+    "stars": 378,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -19,34 +19,11 @@
     "created_at": "2026-07-20T20:26:24Z"
   },
   {
-    "id": "gh-1305283849",
-    "name": "livetennisapi/livetennisapi-mcp",
-    "description": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-    "stars": 205,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "claude",
-      "live-scores",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "sports-api",
-      "sports-data",
-      "tennis",
-      "tennis-api",
-      "typescript"
-    ],
-    "created_at": "2026-07-18T23:17:55Z"
-  },
-  {
     "id": "gh-1306503677",
     "name": "TryCaspian/caspian-sdk",
     "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
     "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 190,
+    "stars": 221,
     "language": "Python",
     "topics": [
       "agent",
@@ -77,7 +54,7 @@
     "name": "risa-labs-inc/BossConsole",
     "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
     "url": "https://github.com/risa-labs-inc/BossConsole",
-    "stars": 172,
+    "stars": 176,
     "language": "Kotlin",
     "topics": [
       "agent-harness",
@@ -107,7 +84,7 @@
     "name": "hahhforest/pi-textbook",
     "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
     "url": "https://github.com/hahhforest/pi-textbook",
-    "stars": 162,
+    "stars": 170,
     "language": "TypeScript",
     "topics": [
       "agent-engineering",
@@ -122,9 +99,9 @@
   {
     "id": "gh-1305383508",
     "name": "Prism-Shadow/penguin-harness",
-    "description": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop",
+    "description": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 143,
+    "stars": 153,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -147,7 +124,7 @@
     "name": "ailinone/collective-intelligence",
     "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 79,
+    "stars": 115,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -178,7 +155,7 @@
     "name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 73,
+    "stars": 105,
     "language": null,
     "topics": [
       "ai",
@@ -203,7 +180,7 @@
     "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "description": "The comprehensive bilingual (EN/\u4e2d\u6587) hub for Spiking Neural Networks \u2014 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
     "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 66,
+    "stars": 91,
     "language": "Python",
     "topics": [
       "awesome",
@@ -228,7 +205,7 @@
     "name": "itshamzabendelladj/AIGuardSIEM",
     "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
     "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-    "stars": 66,
+    "stars": 70,
     "language": "C++",
     "topics": [
       "anomaly-detection",
@@ -254,11 +231,54 @@
     "created_at": "2026-07-21T13:28:34Z"
   },
   {
+    "id": "gh-1307203323",
+    "name": "surya-koritala/sigbound",
+    "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work \u2014 only changes that build and pass tests land. On top of plain git; bring your own model.",
+    "url": "https://github.com/surya-koritala/sigbound",
+    "stars": 45,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "coding-agents",
+      "developer-tools",
+      "git",
+      "git-worktree",
+      "golang",
+      "llm",
+      "merge",
+      "optimistic-concurrency",
+      "parallel"
+    ],
+    "created_at": "2026-07-21T02:55:48Z"
+  },
+  {
+    "id": "gh-1310687669",
+    "name": "sunyifeng11111/sun-felt-wechat-illustrator",
+    "description": "\u4e3a\u4e2d\u6587\u516c\u4f17\u53f7\u6587\u7ae0\u751f\u6210\u771f\u5b9e 3D \u6bdb\u6be1\u8d28\u611f\u7684\u5c01\u9762\u3001\u6b63\u6587\u914d\u56fe\u4e0e\u7cbe\u786e\u63d2\u5165\u6307\u5357\u7684 Codex Skill\u3002",
+    "url": "https://github.com/sunyifeng11111/sun-felt-wechat-illustrator",
+    "stars": 20,
+    "language": null,
+    "topics": [
+      "agent-skill",
+      "chinese-content",
+      "codex",
+      "content-creation",
+      "generative-ai",
+      "illustration",
+      "image-generation",
+      "wechat",
+      "wechat-articles"
+    ],
+    "created_at": "2026-07-24T06:02:43Z"
+  },
+  {
     "id": "gh-1307096111",
     "name": "awslabs/unified-kg-rag-on-aws",
     "description": "AWS-native knowledge graph RAG framework unifying two graph-retrieval methodologies \u2014 Microsoft GraphRAG community summarization and LightRAG dual-level keyword search \u2014 on Amazon Bedrock, Neptune, and OpenSearch. Multi-hop QA over document corpora, with incremental indexing and multilingual support.",
     "url": "https://github.com/awslabs/unified-kg-rag-on-aws",
-    "stars": 17,
+    "stars": 18,
     "language": "Python",
     "topics": [
       "amazon-bedrock",
@@ -300,6 +320,22 @@
     "created_at": "2026-07-19T02:55:27Z"
   },
   {
+    "id": "gh-1307024852",
+    "name": "felixrieseberg/language-model-builder",
+    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+    "url": "https://github.com/felixrieseberg/language-model-builder",
+    "stars": 14,
+    "language": null,
+    "topics": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "machine-learning",
+      "mlx"
+    ],
+    "created_at": "2026-07-20T21:20:56Z"
+  },
+  {
     "id": "gh-1305773751",
     "name": "DonFungible/awesome-generative-ui",
     "description": "Developer resources for building with and learning about generative UI",
@@ -314,49 +350,5 @@
       "ui"
     ],
     "created_at": "2026-07-19T14:28:04Z"
-  },
-  {
-    "id": "gh-1307934389",
-    "name": "taovietducofficial/ITLR-Fullstack-Recommender-RAG",
-    "description": "Hybrid recommender system + RAG chatbot for IT courses (FastAPI + Express/TS + PostgreSQL), with an independent Data Lakehouse module (Spark/Kafka/dbt/Trino) and full CI/CD",
-    "url": "https://github.com/taovietducofficial/ITLR-Fullstack-Recommender-RAG",
-    "stars": 13,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ci-cd",
-      "collaborative-filtering",
-      "data-lakehouse",
-      "dbt",
-      "docker",
-      "express",
-      "faiss",
-      "fastapi",
-      "kafka",
-      "learning-to-rank",
-      "machine-learning",
-      "nlp",
-      "postgresql",
-      "rag-chatbot",
-      "recommender-system",
-      "spark",
-      "typescript"
-    ],
-    "created_at": "2026-07-21T16:58:26Z"
-  },
-  {
-    "id": "gh-1307024852",
-    "name": "felixrieseberg/language-model-builder",
-    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
-    "url": "https://github.com/felixrieseberg/language-model-builder",
-    "stars": 12,
-    "language": null,
-    "topics": [
-      "ai",
-      "llm",
-      "llm-tools",
-      "machine-learning",
-      "mlx"
-    ],
-    "created_at": "2026-07-20T21:20:56Z"
   }
 ]
