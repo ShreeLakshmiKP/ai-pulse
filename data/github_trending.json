@@ -4,7 +4,7 @@
     "name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 378,
+    "stars": 395,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -19,11 +19,28 @@
     "created_at": "2026-07-20T20:26:24Z"
   },
   {
+    "id": "gh-1307252454",
+    "name": "hahhforest/pi-textbook",
+    "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
+    "url": "https://github.com/hahhforest/pi-textbook",
+    "stars": 259,
+    "language": "TypeScript",
+    "topics": [
+      "agent-engineering",
+      "ai-agent",
+      "chinese",
+      "llm",
+      "textbook",
+      "typescript"
+    ],
+    "created_at": "2026-07-21T04:17:35Z"
+  },
+  {
     "id": "gh-1306503677",
     "name": "TryCaspian/caspian-sdk",
     "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
     "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 221,
+    "stars": 242,
     "language": "Python",
     "topics": [
       "agent",
@@ -54,7 +71,7 @@
     "name": "risa-labs-inc/BossConsole",
     "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
     "url": "https://github.com/risa-labs-inc/BossConsole",
-    "stars": 176,
+    "stars": 194,
     "language": "Kotlin",
     "topics": [
       "agent-harness",
@@ -80,51 +97,35 @@
     "created_at": "2026-07-21T01:01:05Z"
   },
   {
-    "id": "gh-1307252454",
-    "name": "hahhforest/pi-textbook",
-    "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
-    "url": "https://github.com/hahhforest/pi-textbook",
-    "stars": 170,
-    "language": "TypeScript",
-    "topics": [
-      "agent-engineering",
-      "ai-agent",
-      "chinese",
-      "llm",
-      "textbook",
-      "typescript"
-    ],
-    "created_at": "2026-07-21T04:17:35Z"
-  },
-  {
-    "id": "gh-1305383508",
-    "name": "Prism-Shadow/penguin-harness",
-    "description": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 153,
+    "id": "gh-1309102418",
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+    "url": "https://github.com/makecindy/cindy",
+    "stars": 134,
     "language": "TypeScript",
     "topics": [
       "agent",
-      "agentic-ai",
-      "ai",
-      "ai-product",
-      "build-tool",
+      "ai-agent",
+      "ai-assistant",
+      "android",
       "claude-code",
-      "desktop",
-      "harness",
+      "codex",
+      "electron",
+      "ios",
       "llm",
-      "productivity",
-      "skills",
-      "workflow"
+      "macos",
+      "react-native",
+      "typescript",
+      "windows"
     ],
-    "created_at": "2026-07-19T03:15:21Z"
+    "created_at": "2026-07-22T17:49:34Z"
   },
   {
     "id": "gh-1306090134",
     "name": "ailinone/collective-intelligence",
     "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 115,
+    "stars": 120,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -151,36 +152,11 @@
     "created_at": "2026-07-20T00:17:45Z"
   },
   {
-    "id": "gh-1305772131",
-    "name": "pazo01/awesome-cyber-ai-arsenal",
-    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
-    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 105,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "blue-team",
-      "bug-bounty",
-      "cybersecurity",
-      "hacking-tools",
-      "infosec",
-      "llm-security",
-      "llm-tools",
-      "osint",
-      "pentesting",
-      "red-team",
-      "security"
-    ],
-    "created_at": "2026-07-19T14:25:45Z"
-  },
-  {
     "id": "gh-1306607268",
     "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "description": "The comprehensive bilingual (EN/\u4e2d\u6587) hub for Spiking Neural Networks \u2014 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
     "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 91,
+    "stars": 106,
     "language": "Python",
     "topics": [
       "awesome",
@@ -205,7 +181,7 @@
     "name": "itshamzabendelladj/AIGuardSIEM",
     "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
     "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-    "stars": 70,
+    "stars": 73,
     "language": "C++",
     "topics": [
       "anomaly-detection",
@@ -231,11 +207,36 @@
     "created_at": "2026-07-21T13:28:34Z"
   },
   {
+    "id": "gh-1311174165",
+    "name": "cocofhu/approving",
+    "description": "Compose coding agents into workflows you can trust",
+    "url": "https://github.com/cocofhu/approving",
+    "stars": 71,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "browser-automation",
+      "harness",
+      "harness-ai",
+      "harness-ci",
+      "harness-design",
+      "harness-engineering",
+      "harness-execution-layer",
+      "harness-framework",
+      "llm",
+      "mutli-agent",
+      "workflow",
+      "workflow-automation"
+    ],
+    "created_at": "2026-07-24T15:27:02Z"
+  },
+  {
     "id": "gh-1307203323",
     "name": "surya-koritala/sigbound",
     "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work \u2014 only changes that build and pass tests land. On top of plain git; bring your own model.",
     "url": "https://github.com/surya-koritala/sigbound",
-    "stars": 45,
+    "stars": 50,
     "language": "Go",
     "topics": [
       "ai",
@@ -254,11 +255,28 @@
     "created_at": "2026-07-21T02:55:48Z"
   },
   {
+    "id": "gh-1307567870",
+    "name": "xinwithyu/moonlit-myriad",
+    "description": "\u4e13\u4e3a AI \u73a9\u5bb6\u8bbe\u8ba1\u7684\u5355\u6587\u4ef6\u5361\u724c\u8089\u9e3d \ud83c\udf19",
+    "url": "https://github.com/xinwithyu/moonlit-myriad",
+    "stars": 40,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "balatro",
+      "card-game",
+      "llm",
+      "python",
+      "roguelike"
+    ],
+    "created_at": "2026-07-21T10:19:35Z"
+  },
+  {
     "id": "gh-1310687669",
     "name": "sunyifeng11111/sun-felt-wechat-illustrator",
     "description": "\u4e3a\u4e2d\u6587\u516c\u4f17\u53f7\u6587\u7ae0\u751f\u6210\u771f\u5b9e 3D \u6bdb\u6be1\u8d28\u611f\u7684\u5c01\u9762\u3001\u6b63\u6587\u914d\u56fe\u4e0e\u7cbe\u786e\u63d2\u5165\u6307\u5357\u7684 Codex Skill\u3002",
     "url": "https://github.com/sunyifeng11111/sun-felt-wechat-illustrator",
-    "stars": 20,
+    "stars": 32,
     "language": null,
     "topics": [
       "agent-skill",
@@ -300,31 +318,39 @@
     "created_at": "2026-07-20T23:39:01Z"
   },
   {
-    "id": "gh-1305375036",
-    "name": "MisterBooo/llm-interview-questions",
-    "description": "100 \u9053\u5927\u6a21\u578b\u9762\u8bd5\u9898\u4e0e 100 \u5f20 SVG \u56fe\u89e3\uff0c\u8986\u76d6 LLM\u3001RAG\u3001Agent\u3001\u5fae\u8c03\u3001\u63a8\u7406\u4f18\u5316\u548c\u8bc4\u4f30\u3002",
-    "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "stars": 16,
-    "language": null,
+    "id": "gh-1307934389",
+    "name": "taovietducofficial/ITLR-Fullstack-Recommender-RAG",
+    "description": "Hybrid recommender system + RAG chatbot for IT courses (FastAPI + Express/TS + PostgreSQL), with an independent Data Lakehouse module (Spark/Kafka/dbt/Trino) and full CI/CD",
+    "url": "https://github.com/taovietducofficial/ITLR-Fullstack-Recommender-RAG",
+    "stars": 15,
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents",
-      "artificial-intelligence",
-      "chinese",
-      "deep-learning",
-      "interview-questions",
-      "large-language-models",
-      "llm",
+      "ci-cd",
+      "collaborative-filtering",
+      "data-lakehouse",
+      "dbt",
+      "docker",
+      "express",
+      "faiss",
+      "fastapi",
+      "kafka",
+      "learning-to-rank",
       "machine-learning",
-      "rag"
+      "nlp",
+      "postgresql",
+      "rag-chatbot",
+      "recommender-system",
+      "spark",
+      "typescript"
     ],
-    "created_at": "2026-07-19T02:55:27Z"
+    "created_at": "2026-07-21T16:58:26Z"
   },
   {
     "id": "gh-1307024852",
     "name": "felixrieseberg/language-model-builder",
     "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
     "url": "https://github.com/felixrieseberg/language-model-builder",
-    "stars": 14,
+    "stars": 15,
     "language": null,
     "topics": [
       "ai",
@@ -334,21 +360,5 @@
       "mlx"
     ],
     "created_at": "2026-07-20T21:20:56Z"
-  },
-  {
-    "id": "gh-1305773751",
-    "name": "DonFungible/awesome-generative-ui",
-    "description": "Developer resources for building with and learning about generative UI",
-    "url": "https://github.com/DonFungible/awesome-generative-ui",
-    "stars": 14,
-    "language": null,
-    "topics": [
-      "ai",
-      "frontend",
-      "generative-ai",
-      "generative-ui",
-      "ui"
-    ],
-    "created_at": "2026-07-19T14:28:04Z"
   }
 ]

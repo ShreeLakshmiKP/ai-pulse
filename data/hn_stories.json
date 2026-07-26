@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49038433",
-    "title": "Claude Opus 5",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "points": 1503,
-    "comments": 836,
+    "id": "hn-49048034",
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "points": 371,
+    "comments": 287,
     "source": "Hacker News",
-    "published_date": "2026-07-24T16:57:41Z"
+    "published_date": "2026-07-25T14:49:49Z"
   },
   {
-    "id": "hn-49033004",
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "points": 730,
-    "comments": 553,
+    "id": "hn-49051361",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "points": 300,
+    "comments": 187,
     "source": "Hacker News",
-    "published_date": "2026-07-24T09:08:17Z"
+    "published_date": "2026-07-25T20:42:35Z"
   },
   {
-    "id": "hn-49032660",
-    "title": "It's getting harder to focus every day",
-    "url": "https://glyphack.com/attention/",
-    "points": 721,
-    "comments": 396,
+    "id": "hn-49050512",
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "points": 165,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-07-24T08:18:30Z"
+    "published_date": "2026-07-25T18:59:50Z"
   },
   {
-    "id": "hn-49034292",
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "url": "https://hhh.hn/hanwha-github-token/",
-    "points": 573,
-    "comments": 188,
+    "id": "hn-49050859",
+    "title": "LLM Usage in Debian: Three Proposals",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "points": 140,
+    "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-07-24T11:54:41Z"
+    "published_date": "2026-07-25T19:44:39Z"
   },
   {
-    "id": "hn-49036433",
-    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-    "points": 455,
-    "comments": 334,
+    "id": "hn-49054010",
+    "title": "Show HN: I mapped every US golf course",
+    "url": "https://golfcoursebrowser.com/",
+    "points": 109,
+    "comments": 57,
     "source": "Hacker News",
-    "published_date": "2026-07-24T14:41:59Z"
+    "published_date": "2026-07-26T02:22:26Z"
   },
   {
-    "id": "hn-49033087",
-    "title": "Hetzner is working on LLM Inference",
-    "url": "https://sliplane.io/blog/hetzner-inference",
-    "points": 148,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-07-24T09:24:44Z"
-  },
-  {
-    "id": "hn-49035751",
-    "title": "Open Weights and American AI Leadership [pdf]",
-    "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-    "points": 111,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-07-24T13:58:12Z"
-  },
-  {
-    "id": "hn-49039448",
-    "title": "I got into YC Startup School by hacking it",
-    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+    "id": "hn-49052564",
+    "title": "Cloudflare's new AI traffic options for customers",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "points": 103,
-    "comments": 67,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-07-24T18:03:22Z"
+    "published_date": "2026-07-25T22:50:49Z"
   },
   {
-    "id": "hn-49034342",
-    "title": "I Tried Building a Real App with AI. It Took a Year",
-    "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-    "points": 96,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-07-24T12:00:17Z"
-  },
-  {
-    "id": "hn-49037031",
-    "title": "The front end framework for correctness: built on Effect, architected like Elm",
-    "url": "https://foldkit.dev/",
-    "points": 85,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-07-24T15:24:00Z"
-  },
-  {
-    "id": "hn-49042354",
-    "title": "AIs don't do what you want. This is bad",
-    "url": "https://rewardhacking.org",
+    "id": "hn-49052570",
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
     "points": 74,
-    "comments": 68,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-07-24T22:24:08Z"
+    "published_date": "2026-07-25T22:51:10Z"
   },
   {
-    "id": "hn-49035314",
-    "title": "Oracle fires 21,000 employees to fund AI spending",
-    "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-    "points": 73,
-    "comments": 13,
+    "id": "hn-49048689",
+    "title": "Bringing PyTorch Monarch to AMD GPUs",
+    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+    "points": 74,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-07-24T13:33:12Z"
+    "published_date": "2026-07-25T15:55:27Z"
   },
   {
-    "id": "hn-49038393",
-    "title": "Claude Opus 5",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "points": 73,
-    "comments": 3,
+    "id": "hn-49048996",
+    "title": "Politician reads AI prompt during assembly",
+    "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+    "points": 67,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-07-24T16:55:26Z"
+    "published_date": "2026-07-25T16:31:15Z"
   },
   {
-    "id": "hn-49033412",
-    "title": "Game of Trees \u2013 Git-based version control from OpenBSD folks",
-    "url": "https://www.gameoftrees.org/",
+    "id": "hn-49047448",
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+    "points": 62,
+    "comments": 82,
+    "source": "Hacker News",
+    "published_date": "2026-07-25T13:33:03Z"
+  },
+  {
+    "id": "hn-49048645",
+    "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+    "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
     "points": 59,
-    "comments": 12,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-07-24T10:15:29Z"
+    "published_date": "2026-07-25T15:51:26Z"
   },
   {
-    "id": "hn-49044492",
-    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "points": 43,
+    "id": "hn-49051692",
+    "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+    "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+    "points": 57,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-07-25T21:18:06Z"
+  },
+  {
+    "id": "hn-49053385",
+    "title": "Git rebase -I is not that scary",
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "points": 52,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-07-26T00:37:54Z"
+  },
+  {
+    "id": "hn-49047969",
+    "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+    "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+    "points": 46,
+    "comments": 81,
+    "source": "Hacker News",
+    "published_date": "2026-07-25T14:41:06Z"
+  },
+  {
+    "id": "hn-49047526",
+    "title": "The AI Productivity Illusion",
+    "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+    "points": 45,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-07-25T13:43:33Z"
+  },
+  {
+    "id": "hn-49051130",
+    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+    "url": "https://news.ycombinator.com/item?id=49051130",
+    "points": 41,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-07-25T04:20:21Z"
+    "published_date": "2026-07-25T20:18:54Z"
   },
   {
-    "id": "hn-49039831",
-    "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-    "points": 31,
-    "comments": 27,
+    "id": "hn-49046917",
+    "title": "What if the RAM/GPU shortage is deliberate?",
+    "url": "https://xn--vk5b17r.online/posts/ram-gpu-consp/",
+    "points": 38,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-07-24T18:34:16Z"
+    "published_date": "2026-07-25T12:11:25Z"
   },
   {
-    "id": "hn-49037127",
-    "title": "You need to let the AI cook",
-    "url": "https://www.ivan.codes/blog/let-it-cook",
-    "points": 24,
-    "comments": 5,
+    "id": "hn-49053255",
+    "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+    "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+    "points": 37,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-07-24T15:30:18Z"
+    "published_date": "2026-07-26T00:19:13Z"
   },
   {
-    "id": "hn-49041347",
-    "title": "AMD and Cerebras Launch AI Inference Solution",
-    "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
-    "points": 21,
-    "comments": 5,
+    "id": "hn-49049304",
+    "title": "A system prompt to get AI to stop pretending to be human",
+    "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
+    "points": 33,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-07-24T20:44:05Z"
+    "published_date": "2026-07-25T17:01:05Z"
   },
   {
-    "id": "hn-49037452",
-    "title": "Turn And Face The Strange: Fly.io is betting on computers for AI agents",
-    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-    "points": 19,
-    "comments": 2,
+    "id": "hn-49051707",
+    "title": "Becoming a Research Engineer at a Big LLM Lab",
+    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+    "points": 28,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-07-24T15:50:52Z"
-  },
-  {
-    "id": "hn-49034589",
-    "title": "Indian govt orders GitHub to block Bitchat",
-    "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/indian-govt-orders-github-to-block-jack-dorsey-s-bitchat-app-amid-cjp-protest-crackdown-article-13982731.html",
-    "points": 17,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-07-24T12:26:00Z"
+    "published_date": "2026-07-25T21:19:42Z"
   }
 ]
