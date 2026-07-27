@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49048034",
-    "title": "Open-weight AI is having its Kubernetes moment",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "points": 371,
-    "comments": 287,
+    "id": "hn-49063022",
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "points": 735,
+    "comments": 537,
     "source": "Hacker News",
-    "published_date": "2026-07-25T14:49:49Z"
+    "published_date": "2026-07-26T22:21:41Z"
   },
   {
-    "id": "hn-49051361",
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "points": 300,
-    "comments": 187,
-    "source": "Hacker News",
-    "published_date": "2026-07-25T20:42:35Z"
-  },
-  {
-    "id": "hn-49050512",
-    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "points": 165,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-07-25T18:59:50Z"
-  },
-  {
-    "id": "hn-49050859",
-    "title": "LLM Usage in Debian: Three Proposals",
-    "url": "https://www.debian.org/vote/2026/vote_002",
-    "points": 140,
-    "comments": 119,
-    "source": "Hacker News",
-    "published_date": "2026-07-25T19:44:39Z"
-  },
-  {
-    "id": "hn-49054010",
-    "title": "Show HN: I mapped every US golf course",
-    "url": "https://golfcoursebrowser.com/",
-    "points": 109,
+    "id": "hn-49063754",
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "points": 570,
     "comments": 57,
     "source": "Hacker News",
-    "published_date": "2026-07-26T02:22:26Z"
+    "published_date": "2026-07-27T00:19:04Z"
   },
   {
-    "id": "hn-49052564",
-    "title": "Cloudflare's new AI traffic options for customers",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "points": 103,
-    "comments": 73,
+    "id": "hn-49058669",
+    "title": "London Gatwick has launched a robotic airport parking service",
+    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "points": 278,
+    "comments": 242,
     "source": "Hacker News",
-    "published_date": "2026-07-25T22:50:49Z"
+    "published_date": "2026-07-26T14:40:27Z"
   },
   {
-    "id": "hn-49052570",
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "points": 74,
-    "comments": 80,
+    "id": "hn-49057877",
+    "title": "The New AI Superpowers: Focus and Followthrough",
+    "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "points": 199,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-07-25T22:51:10Z"
+    "published_date": "2026-07-26T13:13:03Z"
   },
   {
-    "id": "hn-49048689",
-    "title": "Bringing PyTorch Monarch to AMD GPUs",
-    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-    "points": 74,
-    "comments": 6,
+    "id": "hn-49063175",
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "points": 171,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-07-25T15:55:27Z"
+    "published_date": "2026-07-26T22:46:10Z"
   },
   {
-    "id": "hn-49048996",
-    "title": "Politician reads AI prompt during assembly",
-    "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-    "points": 67,
-    "comments": 43,
+    "id": "hn-49061887",
+    "title": "Simulate cassette tape audio profiles using FFmpeg",
+    "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "points": 131,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-07-25T16:31:15Z"
+    "published_date": "2026-07-26T20:02:15Z"
   },
   {
-    "id": "hn-49047448",
-    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-    "points": 62,
-    "comments": 82,
+    "id": "hn-49059398",
+    "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "url": "https://github.com/gmrandazzo/CheapSecurity",
+    "points": 129,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-07-25T13:33:03Z"
+    "published_date": "2026-07-26T15:53:55Z"
   },
   {
-    "id": "hn-49048645",
-    "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-    "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-    "points": 59,
+    "id": "hn-49056620",
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "points": 124,
     "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-07-25T15:51:26Z"
+    "published_date": "2026-07-26T10:32:35Z"
   },
   {
-    "id": "hn-49051692",
-    "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-    "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-    "points": 57,
-    "comments": 19,
+    "id": "hn-49061769",
+    "title": "What does GitHub's security team even do?",
+    "url": "https://orchidfiles.com/github-security-team/",
+    "points": 107,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-07-25T21:18:06Z"
+    "published_date": "2026-07-26T19:51:05Z"
   },
   {
-    "id": "hn-49053385",
-    "title": "Git rebase -I is not that scary",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "id": "hn-49059587",
+    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+    "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
     "points": 52,
-    "comments": 51,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-07-26T00:37:54Z"
+    "published_date": "2026-07-26T16:14:46Z"
   },
   {
-    "id": "hn-49047969",
-    "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-    "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-    "points": 46,
-    "comments": 81,
+    "id": "hn-49063454",
+    "title": "Show HN: Distill and serve models with frontier quality for half the cost",
+    "url": "https://github.com/experientiallabs/world-model-optimizer",
+    "points": 42,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-07-25T14:41:06Z"
+    "published_date": "2026-07-26T23:35:15Z"
   },
   {
-    "id": "hn-49047526",
-    "title": "The AI Productivity Illusion",
-    "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
-    "points": 45,
-    "comments": 16,
+    "id": "hn-49059660",
+    "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+    "url": "https://www.agrillo.it/EvasionEn.html",
+    "points": 32,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-07-25T13:43:33Z"
+    "published_date": "2026-07-26T16:23:56Z"
   },
   {
-    "id": "hn-49051130",
-    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-    "url": "https://news.ycombinator.com/item?id=49051130",
-    "points": 41,
-    "comments": 15,
+    "id": "hn-49061879",
+    "title": "Show HN: Infinite Jigsaw Game",
+    "url": "https://infinitejigsaw.com",
+    "points": 24,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-07-25T20:18:54Z"
+    "published_date": "2026-07-26T20:01:27Z"
   },
   {
-    "id": "hn-49046917",
-    "title": "What if the RAM/GPU shortage is deliberate?",
-    "url": "https://xn--vk5b17r.online/posts/ram-gpu-consp/",
-    "points": 38,
-    "comments": 16,
+    "id": "hn-49062259",
+    "title": "Multiway Turing Machines (2021 pre-ai)",
+    "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+    "points": 21,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-07-25T12:11:25Z"
+    "published_date": "2026-07-26T20:49:43Z"
   },
   {
-    "id": "hn-49053255",
-    "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
-    "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
-    "points": 37,
-    "comments": 10,
+    "id": "hn-49057767",
+    "title": "Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload",
+    "url": "https://github.com/openlake-project/openlake",
+    "points": 21,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-07-26T00:19:13Z"
+    "published_date": "2026-07-26T13:02:21Z"
   },
   {
-    "id": "hn-49049304",
-    "title": "A system prompt to get AI to stop pretending to be human",
-    "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-    "points": 33,
-    "comments": 13,
+    "id": "hn-49063186",
+    "title": "Cursor Bridge \u2013 Run Unlimited Claude Code on Your Cursor Subscription",
+    "url": "https://github.com/hkc5/cursor-bridge",
+    "points": 19,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-07-25T17:01:05Z"
+    "published_date": "2026-07-26T22:48:09Z"
   },
   {
-    "id": "hn-49051707",
-    "title": "Becoming a Research Engineer at a Big LLM Lab",
-    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-    "points": 28,
-    "comments": 12,
+    "id": "hn-49061015",
+    "title": "Show HN: HART OS \u2013 an open-source AI OS built so frontier AI needs no datacenter",
+    "url": "https://github.com/hertz-ai/HARTOS",
+    "points": 18,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-07-25T21:19:42Z"
+    "published_date": "2026-07-26T18:40:08Z"
+  },
+  {
+    "id": "hn-49056689",
+    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "url": "https://code.claude.com/docs/en/data-usage",
+    "points": 14,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-07-26T10:42:00Z"
+  },
+  {
+    "id": "hn-49066519",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "points": 13,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-07-27T08:09:32Z"
+  },
+  {
+    "id": "hn-49057082",
+    "title": "AI Tokenomics: What AI tokens cost and where they're wasted",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+    "points": 12,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-07-26T11:39:19Z"
   }
 ]

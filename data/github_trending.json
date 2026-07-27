@@ -1,29 +1,34 @@
 [
   {
-    "id": "gh-1306989887",
-    "name": "Kritt-ai/open-kritt",
-    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-    "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 395,
-    "language": "JavaScript",
+    "id": "gh-1309102418",
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+    "url": "https://github.com/makecindy/cindy",
+    "stars": 741,
+    "language": "TypeScript",
     "topics": [
       "agent",
-      "agents",
-      "ai",
-      "bug-bounty",
-      "bugbounty",
-      "bugbounty-tools",
-      "security",
-      "security-research"
+      "ai-agent",
+      "ai-assistant",
+      "android",
+      "claude-code",
+      "codex",
+      "electron",
+      "ios",
+      "llm",
+      "macos",
+      "react-native",
+      "typescript",
+      "windows"
     ],
-    "created_at": "2026-07-20T20:26:24Z"
+    "created_at": "2026-07-22T17:49:34Z"
   },
   {
     "id": "gh-1307252454",
     "name": "hahhforest/pi-textbook",
     "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
     "url": "https://github.com/hahhforest/pi-textbook",
-    "stars": 259,
+    "stars": 541,
     "language": "TypeScript",
     "topics": [
       "agent-engineering",
@@ -36,42 +41,11 @@
     "created_at": "2026-07-21T04:17:35Z"
   },
   {
-    "id": "gh-1306503677",
-    "name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 242,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agent",
-      "ai-agents",
-      "communication",
-      "crewai",
-      "discord",
-      "email",
-      "imessage",
-      "langchain",
-      "llm",
-      "mcp",
-      "messaging",
-      "python",
-      "sdk",
-      "slack",
-      "sms",
-      "telegram",
-      "typescript",
-      "whatsapp",
-      "whatsapp-api"
-    ],
-    "created_at": "2026-07-20T10:47:56Z"
-  },
-  {
     "id": "gh-1307136587",
     "name": "risa-labs-inc/BossConsole",
     "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
     "url": "https://github.com/risa-labs-inc/BossConsole",
-    "stars": 194,
+    "stars": 199,
     "language": "Kotlin",
     "topics": [
       "agent-harness",
@@ -97,91 +71,62 @@
     "created_at": "2026-07-21T01:01:05Z"
   },
   {
-    "id": "gh-1309102418",
-    "name": "makecindy/cindy",
-    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-    "url": "https://github.com/makecindy/cindy",
-    "stars": 134,
+    "id": "gh-1313191574",
+    "name": "0xwilliamortiz/openclaude-improved",
+    "description": "runs anywhere. uses anything",
+    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "stars": 175,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "ai-coding-agent",
+      "ai-coding-agents",
+      "ai-coding-assistant",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "coding-agent",
+      "gemini",
+      "gemini-ai",
+      "gemini-cli",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openrouter"
+    ],
+    "created_at": "2026-07-26T21:58:28Z"
+  },
+  {
+    "id": "gh-1312488824",
+    "name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 154,
     "language": "TypeScript",
     "topics": [
       "agent",
-      "ai-agent",
-      "ai-assistant",
-      "android",
-      "claude-code",
-      "codex",
-      "electron",
-      "ios",
-      "llm",
-      "macos",
-      "react-native",
-      "typescript",
-      "windows"
-    ],
-    "created_at": "2026-07-22T17:49:34Z"
-  },
-  {
-    "id": "gh-1306090134",
-    "name": "ailinone/collective-intelligence",
-    "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-    "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 120,
-    "language": "TypeScript",
-    "topics": [
       "ai",
+      "ai-agent",
       "ai-agents",
-      "artificial-intelligence",
-      "collective",
-      "collective-intelligence",
-      "consensus",
-      "docker",
-      "gateway",
-      "genai",
+      "ai-coding",
+      "bun",
+      "dynamic-workflow",
+      "dynamic-workflows",
       "llm",
-      "multi-agent",
-      "open-source",
-      "openai-compatible",
-      "openapi",
-      "orchestration",
-      "orchestrator",
-      "orchestrator-engine",
-      "python",
-      "self-hosted",
-      "typescript"
+      "workflow"
     ],
-    "created_at": "2026-07-20T00:17:45Z"
-  },
-  {
-    "id": "gh-1306607268",
-    "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "description": "The comprehensive bilingual (EN/\u4e2d\u6587) hub for Spiking Neural Networks \u2014 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 106,
-    "language": "Python",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "brain-inspired-computing",
-      "deep-learning",
-      "event-camera",
-      "machine-learning",
-      "neural-networks",
-      "neuromorphic-computing",
-      "neuromorphic-hardware",
-      "paper-list",
-      "snn",
-      "spiking-neural-networks",
-      "spiking-transformer",
-      "surrogate-gradient"
-    ],
-    "created_at": "2026-07-20T12:55:19Z"
+    "created_at": "2026-07-26T04:20:50Z"
   },
   {
     "id": "gh-1307733763",
     "name": "itshamzabendelladj/AIGuardSIEM",
     "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
     "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-    "stars": 73,
+    "stars": 75,
     "language": "C++",
     "topics": [
       "anomaly-detection",
@@ -211,7 +156,7 @@
     "name": "cocofhu/approving",
     "description": "Compose coding agents into workflows you can trust",
     "url": "https://github.com/cocofhu/approving",
-    "stars": 71,
+    "stars": 73,
     "language": "Go",
     "topics": [
       "agent",
@@ -236,7 +181,7 @@
     "name": "surya-koritala/sigbound",
     "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work \u2014 only changes that build and pass tests land. On top of plain git; bring your own model.",
     "url": "https://github.com/surya-koritala/sigbound",
-    "stars": 50,
+    "stars": 51,
     "language": "Go",
     "topics": [
       "ai",
@@ -255,28 +200,29 @@
     "created_at": "2026-07-21T02:55:48Z"
   },
   {
-    "id": "gh-1307567870",
-    "name": "xinwithyu/moonlit-myriad",
-    "description": "\u4e13\u4e3a AI \u73a9\u5bb6\u8bbe\u8ba1\u7684\u5355\u6587\u4ef6\u5361\u724c\u8089\u9e3d \ud83c\udf19",
-    "url": "https://github.com/xinwithyu/moonlit-myriad",
-    "stars": 40,
-    "language": "Python",
+    "id": "gh-1312446183",
+    "name": "yaoleifly/ai-stock-pool",
+    "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
+    "url": "https://github.com/yaoleifly/ai-stock-pool",
+    "stars": 50,
+    "language": "JavaScript",
     "topics": [
+      "a-shares",
       "ai",
-      "balatro",
-      "card-game",
-      "llm",
-      "python",
-      "roguelike"
+      "arxiv",
+      "cloudflare-workers",
+      "investment-research",
+      "stock-market",
+      "vercel"
     ],
-    "created_at": "2026-07-21T10:19:35Z"
+    "created_at": "2026-07-26T02:42:29Z"
   },
   {
     "id": "gh-1310687669",
     "name": "sunyifeng11111/sun-felt-wechat-illustrator",
     "description": "\u4e3a\u4e2d\u6587\u516c\u4f17\u53f7\u6587\u7ae0\u751f\u6210\u771f\u5b9e 3D \u6bdb\u6be1\u8d28\u611f\u7684\u5c01\u9762\u3001\u6b63\u6587\u914d\u56fe\u4e0e\u7cbe\u786e\u63d2\u5165\u6307\u5357\u7684 Codex Skill\u3002",
     "url": "https://github.com/sunyifeng11111/sun-felt-wechat-illustrator",
-    "stars": 32,
+    "stars": 33,
     "language": null,
     "topics": [
       "agent-skill",
@@ -290,32 +236,6 @@
       "wechat-articles"
     ],
     "created_at": "2026-07-24T06:02:43Z"
-  },
-  {
-    "id": "gh-1307096111",
-    "name": "awslabs/unified-kg-rag-on-aws",
-    "description": "AWS-native knowledge graph RAG framework unifying two graph-retrieval methodologies \u2014 Microsoft GraphRAG community summarization and LightRAG dual-level keyword search \u2014 on Amazon Bedrock, Neptune, and OpenSearch. Multi-hop QA over document corpora, with incremental indexing and multilingual support.",
-    "url": "https://github.com/awslabs/unified-kg-rag-on-aws",
-    "stars": 18,
-    "language": "Python",
-    "topics": [
-      "amazon-bedrock",
-      "amazon-neptune",
-      "amazon-opensearch",
-      "aws",
-      "generative-ai",
-      "graphrag",
-      "hexagonal-architecture",
-      "incremental-indexing",
-      "knowledge-graph",
-      "lightrag",
-      "llm",
-      "multilingual",
-      "python",
-      "rag",
-      "retrieval-augmented-generation"
-    ],
-    "created_at": "2026-07-20T23:39:01Z"
   },
   {
     "id": "gh-1307934389",
@@ -346,19 +266,87 @@
     "created_at": "2026-07-21T16:58:26Z"
   },
   {
-    "id": "gh-1307024852",
-    "name": "felixrieseberg/language-model-builder",
-    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
-    "url": "https://github.com/felixrieseberg/language-model-builder",
-    "stars": 15,
+    "id": "gh-1307119235",
+    "name": "riponcm/Jharu",
+    "description": "Free open source disk cleaner for developers. Clean Hugging Face, Ollama, npm, pip, conda, Docker caches, app leftovers, and junk files on macOS and Windows. Built with Tauri.",
+    "url": "https://github.com/riponcm/Jharu",
+    "stars": 10,
+    "language": "Rust",
+    "topics": [
+      "cleaner",
+      "cleanmymac-alternative",
+      "developer-tools",
+      "disk-cleaner",
+      "disk-space-analyzer",
+      "disk-usage",
+      "huggingface",
+      "machine-learning",
+      "macos",
+      "react",
+      "rust",
+      "tauri",
+      "uninstaller",
+      "windows"
+    ],
+    "created_at": "2026-07-21T00:26:32Z"
+  },
+  {
+    "id": "gh-1308738904",
+    "name": "theohmwoa/coral-rs",
+    "description": "Rust stack for the Coral USB Accelerator (Edge TPU): FFI wrapper today, pure-Rust nusb driver as the endgame",
+    "url": "https://github.com/theohmwoa/coral-rs",
+    "stars": 7,
+    "language": "Rust",
+    "topics": [
+      "coral",
+      "edge-tpu",
+      "embedded",
+      "inference",
+      "machine-learning",
+      "rust",
+      "tpu",
+      "usb-driver"
+    ],
+    "created_at": "2026-07-22T11:29:18Z"
+  },
+  {
+    "id": "gh-1307457585",
+    "name": "adamghaida/ai-hall-of-fame",
+    "description": "A curated, well-sourced collection of documented cases where AI did something genuinely remarkable \u2014 across math, physics, chemistry, biology, medicine, and more.",
+    "url": "https://github.com/adamghaida/ai-hall-of-fame",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai-research",
+      "alphafold",
+      "artificial-intelligence",
+      "awesome-list",
+      "deep-learning",
+      "deepmind",
+      "machine-learning",
+      "science"
+    ],
+    "created_at": "2026-07-21T08:24:24Z"
+  },
+  {
+    "id": "gh-1309088427",
+    "name": "febbhav/signs-of-ai-design",
+    "description": "A field guide to the visual tells of AI-generated design. Like Wikipedia's Signs of AI writing, but for visuals.",
+    "url": "https://github.com/febbhav/signs-of-ai-design",
+    "stars": 7,
     "language": null,
     "topics": [
       "ai",
-      "llm",
-      "llm-tools",
-      "machine-learning",
-      "mlx"
+      "ai-slop",
+      "ai-slop-detection",
+      "ai-slop-fixer",
+      "awesome-list",
+      "design",
+      "design-patterns",
+      "generative-ai",
+      "ux",
+      "ux-design"
     ],
-    "created_at": "2026-07-20T21:20:56Z"
+    "created_at": "2026-07-22T17:33:35Z"
   }
 ]
