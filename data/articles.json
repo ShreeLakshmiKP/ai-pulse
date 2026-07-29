@@ -1,5 +1,20 @@
 [
   {
+    "id": "rss-992c30af",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "summary": "The deal is Cyera's third acquisition this year.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "image": null
+  },
+  {
     "id": "rss-2fd0f913",
     "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
     "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
@@ -3899,6 +3914,177 @@
     "image": null
   },
   {
+    "id": "rss-2853fe7b",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 28 Jul 2026 21:29:34 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ab5715c2",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Tue, 28 Jul 2026 20:45:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-cbe29efd",
+    "title": "Sam Altman is ready to decelerate",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 28 Jul 2026 20:17:08 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8cc1ba4a",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-f57b088c",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "tags": [
+      "inference"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-85f9e223",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "tags": [
+      "Gemini",
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Jul 2026 16:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-57b9aa43",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Tue, 28 Jul 2026 15:42:26 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9a40059e",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "tags": [
+      "inference"
+    ],
+    "category": "AI Tools",
+    "published_date": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-ed733c91",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-cd8e20ce",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c57d8e18",
+    "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Tue, 28 Jul 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e9c7d242",
+    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
+    "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Tue, 28 Jul 2026 09:18:57 +0000",
+    "image": null
+  },
+  {
     "id": "rss-470d3cc5",
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
     "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
@@ -4144,191 +4330,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Tue, 26 May 2026 14:54:10 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-bd0bc3af",
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-    "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 26 May 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-25ecfa04",
-    "title": "The Download: puncturing the AI jobs panic",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 26 May 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7400dc01",
-    "title": "A reality check on the AI jobs hysteria",
-    "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 26 May 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e49dc2a6",
-    "title": "It\u2019s time to address the looming crisis in entry-level work.",
-    "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 26 May 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9b9139cc",
-    "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
-    "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 24 Mar 2026 23:57:55 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4a3f9e7e",
-    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-    "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 24 Mar 2026 22:22:57 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e10571cb",
-    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-    "summary": "Anthropic\u2019s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-    "tags": [
-      "Claude",
-      "safety",
-      "Anthropic"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 24 Mar 2026 21:00:30 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fa092ffb",
-    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-    "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 24 Mar 2026 20:56:25 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d8230d80",
-    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-    "summary": "We\u2019re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as \u201cIf we continue on the current path \u2026 we are basically playing Russian roulette with humanity.\u201d by Grace Huckins June 12, 2025 Rel...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 24 Mar 2026 18:17:13 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5cf89d15",
-    "title": "This scientist rewarmed and studied pieces of his friend\u2019s cryopreserved brain",
-    "summary": "L. Stephen Coles\u2019s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around \u2212146 degrees \u00b0C for over a decade, largely undisturbed.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 24 Mar 2026 16:43:36 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1cab419c",
-    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 24 Mar 2026 12:28:27 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-8da73ea9",
-    "title": "Helping developers build safer AI experiences for teens",
-    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "tags": [
-      "GPT",
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-20bbe053",
-    "title": "Update on the OpenAI Foundation",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 24 Mar 2026 09:00:00 GMT",
     "image": null
   }
 ]

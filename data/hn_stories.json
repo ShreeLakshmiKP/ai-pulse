@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49068738",
-    "title": "AI companies are shredding rare books",
-    "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-    "points": 767,
-    "comments": 481,
+    "id": "hn-49090607",
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "url": "https://github.com/twalichiewicz/HNewhere",
+    "points": 287,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-07-27T12:32:12Z"
+    "published_date": "2026-07-28T22:09:06Z"
   },
   {
-    "id": "hn-49070985",
-    "title": "Kimi-K3 Technical Report [pdf]",
-    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-    "points": 383,
-    "comments": 169,
+    "id": "hn-49087091",
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "points": 212,
+    "comments": 151,
     "source": "Hacker News",
-    "published_date": "2026-07-27T15:23:45Z"
+    "published_date": "2026-07-28T17:22:16Z"
   },
   {
-    "id": "hn-49069939",
-    "title": "AI companies spend record sums on Washington lobbying",
-    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-    "points": 266,
-    "comments": 141,
+    "id": "hn-49084813",
+    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
+    "url": "https://unawatch.com/",
+    "points": 195,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-07-27T14:07:48Z"
+    "published_date": "2026-07-28T14:48:13Z"
   },
   {
-    "id": "hn-49076391",
-    "title": "Benchmarking Opus 5 on SlopCodeBench",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-    "points": 262,
-    "comments": 58,
+    "id": "hn-49092499",
+    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+    "url": "https://learnvector.ai/",
+    "points": 167,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-07-27T22:37:52Z"
+    "published_date": "2026-07-29T01:49:19Z"
   },
   {
-    "id": "hn-49070427",
-    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "points": 240,
-    "comments": 318,
+    "id": "hn-49084987",
+    "title": "Now is the time to give LLMs access to the ACM digital library",
+    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "points": 150,
+    "comments": 121,
     "source": "Hacker News",
-    "published_date": "2026-07-27T14:42:41Z"
+    "published_date": "2026-07-28T15:01:12Z"
   },
   {
-    "id": "hn-49072462",
-    "title": "Show HN: FeyNoBg \u2013 Automatic background removal model and training library",
-    "url": "https://usefeyn.com/blog/feynobg/",
-    "points": 103,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T16:59:08Z"
-  },
-  {
-    "id": "hn-49068029",
-    "title": "Elevated errors on Claude Opus 5",
-    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-    "points": 99,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T11:32:32Z"
-  },
-  {
-    "id": "hn-49074680",
-    "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-    "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-    "points": 97,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T19:46:05Z"
-  },
-  {
-    "id": "hn-49071365",
-    "title": "Show HN: Let's Seal \u2013 Let's Encrypt for document signing, free and self-hosted",
-    "url": "https://github.com/letsseal/letsseal",
-    "points": 85,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T15:52:13Z"
-  },
-  {
-    "id": "hn-49071512",
-    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-    "points": 81,
-    "comments": 74,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T16:02:00Z"
-  },
-  {
-    "id": "hn-49076505",
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
-    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "points": 72,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T22:46:28Z"
-  },
-  {
-    "id": "hn-49074817",
-    "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-    "url": "https://www.rise-reforming.com",
-    "points": 71,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T19:58:22Z"
-  },
-  {
-    "id": "hn-49073834",
-    "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
-    "url": "https://github.com/FrigadeHQ/yap",
-    "points": 62,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T18:36:02Z"
-  },
-  {
-    "id": "hn-49066591",
-    "title": "Elevated errors on Claude Opus 5",
-    "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-    "points": 50,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T08:20:06Z"
-  },
-  {
-    "id": "hn-49073267",
-    "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
-    "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
-    "points": 49,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-07-27T17:56:20Z"
-  },
-  {
-    "id": "hn-49071441",
-    "title": "All major LLMs are lib-left. Even Grok, half the time",
-    "url": "https://unslop.run/blog/political-compass-of-llms",
-    "points": 41,
+    "id": "hn-49081644",
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "points": 149,
     "comments": 76,
     "source": "Hacker News",
-    "published_date": "2026-07-27T15:57:15Z"
+    "published_date": "2026-07-28T09:59:13Z"
   },
   {
-    "id": "hn-49078318",
-    "title": "Internet is no longer accessible?",
-    "url": "https://news.ycombinator.com/item?id=49078318",
-    "points": 28,
-    "comments": 14,
+    "id": "hn-49085798",
+    "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
+    "url": "https://github.com/reflex-dev/xy",
+    "points": 122,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-07-28T01:59:55Z"
+    "published_date": "2026-07-28T15:54:55Z"
   },
   {
-    "id": "hn-49067602",
-    "title": "Ask HN: Why is every company encorporating AI everywhere?",
-    "url": "https://news.ycombinator.com/item?id=49067602",
-    "points": 23,
+    "id": "hn-49083239",
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "points": 109,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T13:07:14Z"
+  },
+  {
+    "id": "hn-49083132",
+    "title": "What AI developers could learn from Charles Bukowski?",
+    "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "points": 68,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T13:00:12Z"
+  },
+  {
+    "id": "hn-49092549",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "points": 55,
     "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-07-27T10:39:49Z"
+    "published_date": "2026-07-29T01:56:00Z"
   },
   {
-    "id": "hn-49075115",
-    "title": "Claude shared chats and Artifacts may have ended up on Google",
-    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "points": 22,
-    "comments": 7,
+    "id": "hn-49083364",
+    "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
+    "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+    "points": 54,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-07-27T20:28:07Z"
+    "published_date": "2026-07-28T13:15:19Z"
   },
   {
-    "id": "hn-49077443",
-    "title": "Don't ask an LLM for a confidence score",
-    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "points": 21,
-    "comments": 1,
+    "id": "hn-49082706",
+    "title": "AI revenues are growing fast, but not fast enough",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "points": 49,
+    "comments": 84,
     "source": "Hacker News",
-    "published_date": "2026-07-28T00:06:53Z"
+    "published_date": "2026-07-28T12:19:54Z"
+  },
+  {
+    "id": "hn-49083336",
+    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+    "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+    "points": 49,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T13:13:35Z"
+  },
+  {
+    "id": "hn-49091703",
+    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "url": "https://studio.academa.ai/",
+    "points": 48,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T00:07:43Z"
+  },
+  {
+    "id": "hn-49084404",
+    "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
+    "url": "https://news.ycombinator.com/item?id=49084404",
+    "points": 42,
+    "comments": 45,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T14:25:36Z"
+  },
+  {
+    "id": "hn-49081300",
+    "title": "The AI risk is inside the labs",
+    "url": "https://antirez.com/news/172",
+    "points": 41,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T09:10:12Z"
+  },
+  {
+    "id": "hn-49086041",
+    "title": "\"Uncensored\" open LLMs are measurably more optimistic than their base models",
+    "url": "https://arxiv.org/abs/2607.17427",
+    "points": 37,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T16:09:27Z"
+  },
+  {
+    "id": "hn-49087537",
+    "title": "Chip stocks tumble as AI sell-off deepens",
+    "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae",
+    "points": 36,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T17:54:01Z"
+  },
+  {
+    "id": "hn-49090057",
+    "title": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
+    "url": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
+    "points": 34,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T21:20:31Z"
+  },
+  {
+    "id": "hn-49089045",
+    "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+    "url": "https://github.com/ghaziwali/Hulios",
+    "points": 31,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-07-28T19:54:38Z"
   }
 ]
