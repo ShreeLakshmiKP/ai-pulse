@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49090607",
-    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "url": "https://github.com/twalichiewicz/HNewhere",
-    "points": 287,
-    "comments": 73,
+    "id": "hn-49098510",
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "points": 766,
+    "comments": 266,
     "source": "Hacker News",
-    "published_date": "2026-07-28T22:09:06Z"
+    "published_date": "2026-07-29T15:05:43Z"
   },
   {
-    "id": "hn-49087091",
-    "title": "Discovering Cryptographic Weaknesses with Claude",
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "points": 212,
-    "comments": 151,
+    "id": "hn-49103285",
+    "title": "AI's top startups are barely publishing their research",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "points": 410,
+    "comments": 217,
     "source": "Hacker News",
-    "published_date": "2026-07-28T17:22:16Z"
+    "published_date": "2026-07-29T21:25:40Z"
   },
   {
-    "id": "hn-49084813",
-    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
-    "url": "https://unawatch.com/",
-    "points": 195,
-    "comments": 126,
+    "id": "hn-49096188",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "points": 363,
+    "comments": 282,
     "source": "Hacker News",
-    "published_date": "2026-07-28T14:48:13Z"
+    "published_date": "2026-07-29T11:44:33Z"
   },
   {
-    "id": "hn-49092499",
-    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-    "url": "https://learnvector.ai/",
-    "points": 167,
-    "comments": 95,
+    "id": "hn-49102150",
+    "title": "Claude: Elevated errors across all models \u2013 Resolved",
+    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "points": 262,
+    "comments": 243,
     "source": "Hacker News",
-    "published_date": "2026-07-29T01:49:19Z"
+    "published_date": "2026-07-29T19:50:42Z"
   },
   {
-    "id": "hn-49084987",
-    "title": "Now is the time to give LLMs access to the ACM digital library",
-    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "points": 150,
-    "comments": 121,
+    "id": "hn-49104117",
+    "title": "LLM Honeypot",
+    "url": "https://llm2human.pages.dev/",
+    "points": 216,
+    "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-07-28T15:01:12Z"
+    "published_date": "2026-07-29T22:51:03Z"
   },
   {
-    "id": "hn-49081644",
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "points": 149,
-    "comments": 76,
+    "id": "hn-49096953",
+    "title": "After the AI Crash",
+    "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "points": 120,
+    "comments": 205,
     "source": "Hacker News",
-    "published_date": "2026-07-28T09:59:13Z"
+    "published_date": "2026-07-29T13:00:39Z"
   },
   {
-    "id": "hn-49085798",
-    "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
-    "url": "https://github.com/reflex-dev/xy",
-    "points": 122,
+    "id": "hn-49098388",
+    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "points": 95,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T14:56:28Z"
+  },
+  {
+    "id": "hn-49096427",
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "points": 87,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T12:11:18Z"
+  },
+  {
+    "id": "hn-49101529",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "points": 81,
     "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-07-28T15:54:55Z"
+    "published_date": "2026-07-29T18:57:10Z"
   },
   {
-    "id": "hn-49083239",
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "points": 109,
-    "comments": 48,
+    "id": "hn-49097003",
+    "title": "TokenTown: A visual way to understand how LLMs work",
+    "url": "https://laurentiugabriel.github.io/token-town/",
+    "points": 72,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-07-28T13:07:14Z"
+    "published_date": "2026-07-29T13:05:17Z"
   },
   {
-    "id": "hn-49083132",
-    "title": "What AI developers could learn from Charles Bukowski?",
-    "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-    "points": 68,
-    "comments": 49,
+    "id": "hn-49099143",
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "url": "https://usetokenless.com/",
+    "points": 60,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-07-28T13:00:12Z"
+    "published_date": "2026-07-29T15:55:27Z"
   },
   {
-    "id": "hn-49092549",
-    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-    "points": 55,
-    "comments": 36,
+    "id": "hn-49099434",
+    "title": "Show HN: Kedge \u2013 Full-stack cloud with forkable VM snapshots and global SQLite",
+    "url": "https://kedge.dev/",
+    "points": 60,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-07-29T01:56:00Z"
+    "published_date": "2026-07-29T16:15:57Z"
   },
   {
-    "id": "hn-49083364",
-    "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-    "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-    "points": 54,
-    "comments": 99,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T13:15:19Z"
-  },
-  {
-    "id": "hn-49082706",
-    "title": "AI revenues are growing fast, but not fast enough",
-    "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-    "points": 49,
-    "comments": 84,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T12:19:54Z"
-  },
-  {
-    "id": "hn-49083336",
-    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-    "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-    "points": 49,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T13:13:35Z"
-  },
-  {
-    "id": "hn-49091703",
-    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-    "url": "https://studio.academa.ai/",
-    "points": 48,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-07-29T00:07:43Z"
-  },
-  {
-    "id": "hn-49084404",
-    "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
-    "url": "https://news.ycombinator.com/item?id=49084404",
-    "points": 42,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T14:25:36Z"
-  },
-  {
-    "id": "hn-49081300",
-    "title": "The AI risk is inside the labs",
-    "url": "https://antirez.com/news/172",
-    "points": 41,
+    "id": "hn-49097990",
+    "title": "Teacher arrested for clapping in opposition at an AI data center meeting",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
+    "points": 57,
     "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-07-28T09:10:12Z"
+    "published_date": "2026-07-29T14:28:22Z"
   },
   {
-    "id": "hn-49086041",
-    "title": "\"Uncensored\" open LLMs are measurably more optimistic than their base models",
-    "url": "https://arxiv.org/abs/2607.17427",
+    "id": "hn-49103910",
+    "title": "GitHub is the wrong shape for this new world",
+    "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+    "points": 53,
+    "comments": 43,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T22:27:09Z"
+  },
+  {
+    "id": "hn-49097649",
+    "title": "AI in Linux",
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "points": 50,
+    "comments": 93,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T14:00:03Z"
+  },
+  {
+    "id": "hn-49094996",
+    "title": "ChatGPT claims rogue AI attacked more companies",
+    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "points": 47,
+    "comments": 82,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T09:03:17Z"
+  },
+  {
+    "id": "hn-49096742",
+    "title": "A Texture Lookup Approach to B\u00e9zier Curve Evaluation on the GPU (JCGT)",
+    "url": "https://jcgt.org/published/0015/02/01/",
     "points": 37,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T16:09:27Z"
-  },
-  {
-    "id": "hn-49087537",
-    "title": "Chip stocks tumble as AI sell-off deepens",
-    "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae",
-    "points": 36,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-07-28T17:54:01Z"
-  },
-  {
-    "id": "hn-49090057",
-    "title": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
-    "url": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
-    "points": 34,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-07-28T21:20:31Z"
+    "published_date": "2026-07-29T12:40:13Z"
   },
   {
-    "id": "hn-49089045",
-    "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-    "url": "https://github.com/ghaziwali/Hulios",
-    "points": 31,
-    "comments": 6,
+    "id": "hn-49105190",
+    "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+    "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+    "points": 35,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-07-28T19:54:38Z"
+    "published_date": "2026-07-30T01:35:10Z"
+  },
+  {
+    "id": "hn-49095143",
+    "title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
+    "url": "https://vimgolf.ai",
+    "points": 34,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-07-29T09:26:52Z"
+  },
+  {
+    "id": "hn-49104747",
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "points": 33,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-07-30T00:20:16Z"
   }
 ]

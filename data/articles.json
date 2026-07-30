@@ -1,5 +1,152 @@
 [
   {
+    "id": "rss-1929c185",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Jul 2026 23:00:11 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-feca2ec5",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Jul 2026 22:46:03 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c9945336",
+    "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+    "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 29 Jul 2026 22:23:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0e31e349",
+    "title": "Discover what\u2019s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 29 Jul 2026 21:16:39 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2ef3d49a",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 29 Jul 2026 17:58:44 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a700ee8f",
+    "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 29 Jul 2026 16:02:10 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-232de1e5",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "tags": [
+      "GPT",
+      "benchmark"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b43ed6d2",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung\u2019s semiconductor division, used to work late.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 29 Jul 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e787c3a2",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-b4d3a90f",
+    "title": "The AI Hype Index: Unsexy AI",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 29 Jul 2026 08:42:57 +0000",
+    "image": null
+  },
+  {
     "id": "rss-992c30af",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "summary": "The deal is Cyera's third acquisition this year.",
@@ -12,6 +159,23 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2c718aee",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "tags": [
+      "GPT",
+      "agents",
+      "inference"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 29 Jul 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4167,169 +4331,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Tue, 28 Apr 2026 16:09:30 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-6d3470cf",
-    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-    "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3fabcf99",
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "tags": [
-      "agents",
-      "multimodal",
-      "NVIDIA"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Apr 2026 15:58:57 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-22a88b7f",
-    "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 28 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c1219940",
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Apr 2026 00:28:13 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-d0682fe0",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/openai-on-aws",
-    "tags": [
-      "GPT",
-      "agents",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-1dc472c1",
-    "title": "Our commitment to community safety",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-1e2ebecf",
-    "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
-    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 26 May 2026 22:32:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1ab37a27",
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 26 May 2026 18:33:01 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-96f157c6",
-    "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
-    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "tags": [
-      "robotics",
-      "startups"
-    ],
-    "category": "Robotics",
-    "published_date": "Tue, 26 May 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f2c5d9ca",
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 26 May 2026 14:55:05 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b920d871",
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 26 May 2026 14:54:10 +0000",
     "image": null
   }
 ]
