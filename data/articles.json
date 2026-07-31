@@ -4195,6 +4195,22 @@
     "image": null
   },
   {
+    "id": "rss-294161fc",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "tags": [
+      "Gemini",
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Tue, 28 Jul 2026 13:21:37 +0000",
+    "image": null
+  },
+  {
     "id": "rss-ed733c91",
     "title": "5 ways AI Mode in Search helps you enjoy the real world",
     "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
@@ -4318,19 +4334,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 28 Apr 2026 18:15:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-8a69f67e",
-    "title": "Lovable launches its vibe-coding app on iOS and Android",
-    "summary": "The app allows developers to vibe code web apps and websites on the go.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Apr 2026 16:09:30 +0000",
     "image": null
   }
 ]
