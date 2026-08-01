@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49112232",
-    "title": "Stacked PRs are now live on GitHub",
-    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "points": 624,
-    "comments": 211,
+    "id": "hn-49125034",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "points": 183,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-07-30T16:26:16Z"
+    "published_date": "2026-07-31T16:15:31Z"
   },
   {
-    "id": "hn-49112867",
-    "title": "Advancing the price-performance frontier with GPT\u20115.6",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "points": 569,
-    "comments": 369,
+    "id": "hn-49124358",
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "points": 156,
+    "comments": 181,
     "source": "Hacker News",
-    "published_date": "2026-07-30T17:15:51Z"
+    "published_date": "2026-07-31T15:29:39Z"
   },
   {
-    "id": "hn-49111237",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "points": 550,
-    "comments": 438,
+    "id": "hn-49121868",
+    "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "url": "https://arxiv.org/abs/2607.27197",
+    "points": 147,
+    "comments": 138,
     "source": "Hacker News",
-    "published_date": "2026-07-30T15:15:48Z"
+    "published_date": "2026-07-31T11:37:12Z"
   },
   {
-    "id": "hn-49113059",
-    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "points": 360,
-    "comments": 208,
+    "id": "hn-49122994",
+    "title": "Situational Awareness down 67% in July in AI stock rout",
+    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "points": 146,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-07-30T17:31:07Z"
+    "published_date": "2026-07-31T13:37:36Z"
   },
   {
-    "id": "hn-49117099",
-    "title": "The AI Aesthetic",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "points": 296,
-    "comments": 126,
+    "id": "hn-49121196",
+    "title": "Progressive Web Components",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "points": 145,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-07-30T23:22:16Z"
+    "published_date": "2026-07-31T10:04:40Z"
   },
   {
-    "id": "hn-49108685",
-    "title": "GCC steering committee announces AI policy",
-    "url": "https://lwn.net/Articles/1086041/",
-    "points": 285,
-    "comments": 314,
+    "id": "hn-49126630",
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "points": 117,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-07-30T11:45:44Z"
+    "published_date": "2026-07-31T18:06:39Z"
   },
   {
-    "id": "hn-49118933",
-    "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-    "url": "https://greyswansignals.com/?theme=dark",
-    "points": 130,
-    "comments": 119,
-    "source": "Hacker News",
-    "published_date": "2026-07-31T04:15:04Z"
-  },
-  {
-    "id": "hn-49113599",
-    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "points": 123,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-07-30T18:13:06Z"
-  },
-  {
-    "id": "hn-49108048",
-    "title": "Gpiozero Flow",
-    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-    "points": 121,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-07-30T10:32:41Z"
-  },
-  {
-    "id": "hn-49107749",
-    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-    "url": "https://github.com/YoanWai/agent-manager",
+    "id": "hn-49130604",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
     "points": 95,
-    "comments": 76,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-07-30T09:34:27Z"
+    "published_date": "2026-08-01T02:45:09Z"
   },
   {
-    "id": "hn-49108571",
-    "title": "Show HN: I made a game where you build a CPU from logic gates",
-    "url": "https://select.supply/game/chipbuilder",
-    "points": 83,
-    "comments": 67,
+    "id": "hn-49124496",
+    "title": "A GTK4 SSH-askpass in Zig",
+    "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+    "points": 66,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-07-30T11:33:02Z"
+    "published_date": "2026-07-31T15:40:13Z"
   },
   {
-    "id": "hn-49109165",
-    "title": "OpenJDK Interim Policy on Generative AI",
-    "url": "https://openjdk.org/legal/ai",
-    "points": 70,
-    "comments": 82,
+    "id": "hn-49131367",
+    "title": "Ten Ways NAS Is Getting Enshitified",
+    "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+    "points": 49,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-07-30T12:36:38Z"
+    "published_date": "2026-08-01T05:38:16Z"
   },
   {
-    "id": "hn-49109721",
-    "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
-    "url": "https://prized.dev",
-    "points": 70,
-    "comments": 52,
+    "id": "hn-49127284",
+    "title": "AI companies destroy rare and non recoverable physical books",
+    "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+    "points": 44,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-07-30T13:29:03Z"
+    "published_date": "2026-07-31T19:01:52Z"
   },
   {
-    "id": "hn-49110655",
-    "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-    "url": "https://github.com/n67094/sdl_gp",
-    "points": 60,
-    "comments": 20,
+    "id": "hn-49126209",
+    "title": "AI Is Getting Way Too Expensive",
+    "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
+    "points": 43,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-07-30T14:36:59Z"
+    "published_date": "2026-07-31T17:34:04Z"
   },
   {
-    "id": "hn-49108778",
-    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-    "url": "https://github.com/grafana/ai-sdk",
-    "points": 57,
+    "id": "hn-49128539",
+    "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+    "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+    "points": 42,
+    "comments": 71,
+    "source": "Hacker News",
+    "published_date": "2026-07-31T21:08:05Z"
+  },
+  {
+    "id": "hn-49124898",
+    "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
+    "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+    "points": 38,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-07-31T16:06:51Z"
+  },
+  {
+    "id": "hn-49121220",
+    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
+    "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "points": 36,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-07-31T10:06:43Z"
+  },
+  {
+    "id": "hn-49127874",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "points": 35,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-07-31T19:55:41Z"
+  },
+  {
+    "id": "hn-49125922",
+    "title": "Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
+    "url": "https://hurtle.site/",
+    "points": 34,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-07-31T17:11:53Z"
+  },
+  {
+    "id": "hn-49121597",
+    "title": "AI Firms Are Buying Up Old Books, Then Scanning and Destroying Them",
+    "url": "https://novaramedia.com/2026/07/29/ai-firms-are-buying-up-old-books-then-scanning-and-destroying-them/",
+    "points": 29,
     "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-07-30T11:55:39Z"
+    "published_date": "2026-07-31T11:00:37Z"
   },
   {
-    "id": "hn-49108480",
-    "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-    "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
-    "points": 55,
-    "comments": 44,
+    "id": "hn-49128177",
+    "title": "Show HN: How to build and self-host a code review agent",
+    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "points": 26,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-07-30T11:22:19Z"
+    "published_date": "2026-07-31T20:27:28Z"
   },
   {
-    "id": "hn-49111879",
-    "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
-    "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
-    "points": 51,
-    "comments": 10,
+    "id": "hn-49129678",
+    "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+    "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+    "points": 19,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-07-30T16:00:33Z"
+    "published_date": "2026-07-31T23:31:39Z"
   },
   {
-    "id": "hn-49111019",
-    "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
-    "url": "https://github.com/hamzarehmandeveloper/claude-account",
-    "points": 49,
-    "comments": 23,
+    "id": "hn-49125918",
+    "title": "Show HN: The Goal is simple, there should be an actual free editor",
+    "url": "https://sylixide.com",
+    "points": 17,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-07-30T14:58:59Z"
-  },
-  {
-    "id": "hn-49119274",
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "url": "https://marbleos.com/demo",
-    "points": 37,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-07-31T05:17:29Z"
-  },
-  {
-    "id": "hn-49113774",
-    "title": "AI productivity gains are closer to 10% than 10x",
-    "url": "https://leaddev.com/reporting/ai-productivity-gains-are-closer-to-10-than-10x",
-    "points": 34,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-07-30T18:28:09Z"
+    "published_date": "2026-07-31T17:11:44Z"
   }
 ]
