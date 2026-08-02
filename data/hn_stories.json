@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49125034",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "points": 183,
-    "comments": 95,
+    "id": "hn-49139102",
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "points": 289,
+    "comments": 255,
     "source": "Hacker News",
-    "published_date": "2026-07-31T16:15:31Z"
+    "published_date": "2026-08-01T22:25:12Z"
   },
   {
-    "id": "hn-49124358",
-    "title": "Is AI reasoning right for the wrong reasons?",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "points": 156,
+    "id": "hn-49133889",
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+    "points": 268,
     "comments": 181,
     "source": "Hacker News",
-    "published_date": "2026-07-31T15:29:39Z"
+    "published_date": "2026-08-01T12:34:25Z"
   },
   {
-    "id": "hn-49121868",
-    "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-    "url": "https://arxiv.org/abs/2607.27197",
-    "points": 147,
-    "comments": 138,
+    "id": "hn-49137060",
+    "title": "Postmortem for Kernel Soundness Bug #14576",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "points": 143,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-07-31T11:37:12Z"
+    "published_date": "2026-08-01T18:32:20Z"
   },
   {
-    "id": "hn-49122994",
-    "title": "Situational Awareness down 67% in July in AI stock rout",
-    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-    "points": 146,
-    "comments": 156,
+    "id": "hn-49134038",
+    "title": "On the non-use of AI in my writing process",
+    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "points": 130,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-07-31T13:37:36Z"
+    "published_date": "2026-08-01T12:56:54Z"
   },
   {
-    "id": "hn-49121196",
-    "title": "Progressive Web Components",
-    "url": "https://arielsalminen.com/2026/progressive-web-components/",
-    "points": 145,
-    "comments": 25,
+    "id": "hn-49140396",
+    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "points": 121,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-07-31T10:04:40Z"
+    "published_date": "2026-08-02T02:07:09Z"
   },
   {
-    "id": "hn-49126630",
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "points": 117,
-    "comments": 72,
+    "id": "hn-49138443",
+    "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+    "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
+    "points": 105,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-07-31T18:06:39Z"
+    "published_date": "2026-08-01T21:02:07Z"
   },
   {
-    "id": "hn-49130604",
-    "title": "Flint: A Visualization Language for the AI Era",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "points": 95,
-    "comments": 31,
+    "id": "hn-49135365",
+    "title": "GitHub has alternatives, but no replacement",
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "points": 86,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-08-01T02:45:09Z"
+    "published_date": "2026-08-01T15:39:31Z"
   },
   {
-    "id": "hn-49124496",
-    "title": "A GTK4 SSH-askpass in Zig",
-    "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-    "points": 66,
-    "comments": 21,
+    "id": "hn-49132341",
+    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+    "points": 73,
+    "comments": 104,
     "source": "Hacker News",
-    "published_date": "2026-07-31T15:40:13Z"
+    "published_date": "2026-08-01T08:26:55Z"
   },
   {
-    "id": "hn-49131367",
-    "title": "Ten Ways NAS Is Getting Enshitified",
-    "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-    "points": 49,
-    "comments": 38,
+    "id": "hn-49134079",
+    "title": "Google kills Earth AI generator after one day",
+    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "points": 62,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-08-01T05:38:16Z"
+    "published_date": "2026-08-01T13:02:44Z"
   },
   {
-    "id": "hn-49127284",
-    "title": "AI companies destroy rare and non recoverable physical books",
-    "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+    "id": "hn-49139325",
+    "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+    "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+    "points": 50,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-08-01T22:50:30Z"
+  },
+  {
+    "id": "hn-49137904",
+    "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "points": 50,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-08-01T20:07:39Z"
+  },
+  {
+    "id": "hn-49137268",
+    "title": "Google cancels AI Studio app after 800k preorders",
+    "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+    "points": 47,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-08-01T18:55:13Z"
+  },
+  {
+    "id": "hn-49138483",
+    "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+    "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
     "points": 44,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-07-31T19:01:52Z"
-  },
-  {
-    "id": "hn-49126209",
-    "title": "AI Is Getting Way Too Expensive",
-    "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
-    "points": 43,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-07-31T17:34:04Z"
-  },
-  {
-    "id": "hn-49128539",
-    "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-    "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
-    "points": 42,
-    "comments": 71,
-    "source": "Hacker News",
-    "published_date": "2026-07-31T21:08:05Z"
-  },
-  {
-    "id": "hn-49124898",
-    "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
-    "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-    "points": 38,
     "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-07-31T16:06:51Z"
+    "published_date": "2026-08-01T21:05:00Z"
   },
   {
-    "id": "hn-49121220",
-    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
-    "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "id": "hn-49134310",
+    "title": "How to Spot AI Writing",
+    "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
     "points": 36,
-    "comments": 19,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-07-31T10:06:43Z"
+    "published_date": "2026-08-01T13:35:26Z"
   },
   {
-    "id": "hn-49127874",
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "points": 35,
-    "comments": 4,
+    "id": "hn-49136787",
+    "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+    "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+    "points": 28,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-07-31T19:55:41Z"
+    "published_date": "2026-08-01T18:03:08Z"
   },
   {
-    "id": "hn-49125922",
-    "title": "Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
-    "url": "https://hurtle.site/",
-    "points": 34,
-    "comments": 19,
+    "id": "hn-49141008",
+    "title": "Don't credit the LLM",
+    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+    "points": 28,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-07-31T17:11:53Z"
+    "published_date": "2026-08-02T04:07:46Z"
   },
   {
-    "id": "hn-49121597",
-    "title": "AI Firms Are Buying Up Old Books, Then Scanning and Destroying Them",
-    "url": "https://novaramedia.com/2026/07/29/ai-firms-are-buying-up-old-books-then-scanning-and-destroying-them/",
-    "points": 29,
-    "comments": 16,
+    "id": "hn-49137503",
+    "title": "Get ready to flee, Americans in ten countries warned",
+    "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
+    "points": 27,
+    "comments": 27,
     "source": "Hacker News",
-    "published_date": "2026-07-31T11:00:37Z"
+    "published_date": "2026-08-01T19:18:46Z"
   },
   {
-    "id": "hn-49128177",
-    "title": "Show HN: How to build and self-host a code review agent",
-    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-    "points": 26,
-    "comments": 4,
+    "id": "hn-49135914",
+    "title": "I Fired My AI Assitant",
+    "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "points": 23,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-07-31T20:27:28Z"
+    "published_date": "2026-08-01T16:38:28Z"
   },
   {
-    "id": "hn-49129678",
-    "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-    "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-    "points": 19,
-    "comments": 5,
+    "id": "hn-49133851",
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "points": 21,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-07-31T23:31:39Z"
+    "published_date": "2026-08-01T12:30:32Z"
   },
   {
-    "id": "hn-49125918",
-    "title": "Show HN: The Goal is simple, there should be an actual free editor",
-    "url": "https://sylixide.com",
+    "id": "hn-49137359",
+    "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+    "url": "https://news.ycombinator.com/item?id=49137359",
     "points": 17,
-    "comments": 7,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-07-31T17:11:44Z"
+    "published_date": "2026-08-01T19:04:43Z"
   }
 ]
