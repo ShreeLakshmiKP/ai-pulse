@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49139102",
-    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "points": 289,
-    "comments": 255,
+    "id": "hn-49145937",
+    "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "url": "https://github.com/wie-project/kakehashi",
+    "points": 216,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-08-01T22:25:12Z"
+    "published_date": "2026-08-02T16:26:40Z"
   },
   {
-    "id": "hn-49133889",
-    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-    "points": 268,
-    "comments": 181,
+    "id": "hn-49150561",
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "points": 178,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-08-01T12:34:25Z"
+    "published_date": "2026-08-03T02:30:30Z"
   },
   {
-    "id": "hn-49137060",
-    "title": "Postmortem for Kernel Soundness Bug #14576",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "points": 143,
-    "comments": 53,
+    "id": "hn-49149326",
+    "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
+    "url": "https://github.com/pg83/shitty",
+    "points": 141,
+    "comments": 128,
     "source": "Hacker News",
-    "published_date": "2026-08-01T18:32:20Z"
+    "published_date": "2026-08-02T23:05:41Z"
   },
   {
-    "id": "hn-49134038",
-    "title": "On the non-use of AI in my writing process",
-    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "id": "hn-49147622",
+    "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
+    "url": "https://frogs.vaguespac.es/",
+    "points": 140,
+    "comments": 75,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T19:42:08Z"
+  },
+  {
+    "id": "hn-49149188",
+    "title": "AI poster wins Ohio State Fair contest",
+    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
     "points": 130,
-    "comments": 122,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-08-01T12:56:54Z"
+    "published_date": "2026-08-02T22:43:47Z"
   },
   {
-    "id": "hn-49140396",
-    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "points": 121,
-    "comments": 22,
+    "id": "hn-49145934",
+    "title": "Show HN: Sprocket \u2013 The Best AI Agent for Hardware and Software Development",
+    "url": "https://sprocket-demo.spikonado.com",
+    "points": 123,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-08-02T02:07:09Z"
+    "published_date": "2026-08-02T16:26:19Z"
   },
   {
-    "id": "hn-49138443",
-    "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
-    "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
-    "points": 105,
-    "comments": 62,
+    "id": "hn-49143412",
+    "title": "Show HN: Fuse \u2013 statically typed functional programming language",
+    "url": "https://fuselang.org",
+    "points": 110,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-08-01T21:02:07Z"
+    "published_date": "2026-08-02T11:23:56Z"
   },
   {
-    "id": "hn-49135365",
-    "title": "GitHub has alternatives, but no replacement",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "points": 86,
-    "comments": 122,
+    "id": "hn-49148048",
+    "title": "Show HN: Make your Framework 12 sound like a creaky door",
+    "url": "https://github.com/ArcaEge/creakwork12",
+    "points": 84,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-08-01T15:39:31Z"
+    "published_date": "2026-08-02T20:33:01Z"
   },
   {
-    "id": "hn-49132341",
-    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-    "points": 73,
-    "comments": 104,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T08:26:55Z"
-  },
-  {
-    "id": "hn-49134079",
-    "title": "Google kills Earth AI generator after one day",
-    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "id": "hn-49150773",
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "url": "https://arxiv.org/abs/2607.28271",
     "points": 62,
-    "comments": 100,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T13:02:44Z"
-  },
-  {
-    "id": "hn-49139325",
-    "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-    "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-    "points": 50,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T22:50:30Z"
-  },
-  {
-    "id": "hn-49137904",
-    "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "points": 50,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T20:07:39Z"
-  },
-  {
-    "id": "hn-49137268",
-    "title": "Google cancels AI Studio app after 800k preorders",
-    "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-    "points": 47,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T18:55:13Z"
-  },
-  {
-    "id": "hn-49138483",
-    "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
-    "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-    "points": 44,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T21:05:00Z"
-  },
-  {
-    "id": "hn-49134310",
-    "title": "How to Spot AI Writing",
-    "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-    "points": 36,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T13:35:26Z"
-  },
-  {
-    "id": "hn-49136787",
-    "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-    "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-    "points": 28,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T18:03:08Z"
-  },
-  {
-    "id": "hn-49141008",
-    "title": "Don't credit the LLM",
-    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-    "points": 28,
-    "comments": 38,
-    "source": "Hacker News",
-    "published_date": "2026-08-02T04:07:46Z"
-  },
-  {
-    "id": "hn-49137503",
-    "title": "Get ready to flee, Americans in ten countries warned",
-    "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-    "points": 27,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-08-01T19:18:46Z"
-  },
-  {
-    "id": "hn-49135914",
-    "title": "I Fired My AI Assitant",
-    "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-    "points": 23,
     "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-08-01T16:38:28Z"
+    "published_date": "2026-08-03T03:06:12Z"
   },
   {
-    "id": "hn-49133851",
-    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
-    "url": "https://github.com/pochenai/nano-llm-posttraining",
-    "points": 21,
-    "comments": 0,
+    "id": "hn-49149800",
+    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+    "points": 61,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-01T12:30:32Z"
+    "published_date": "2026-08-03T00:22:55Z"
   },
   {
-    "id": "hn-49137359",
-    "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
-    "url": "https://news.ycombinator.com/item?id=49137359",
-    "points": 17,
-    "comments": 10,
+    "id": "hn-49148541",
+    "title": "Flock \u2013 Chilling Effects: Long Island's Emerging Open-Air Prison",
+    "url": "https://www.11971.com/",
+    "points": 59,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-08-01T19:04:43Z"
+    "published_date": "2026-08-02T21:30:04Z"
+  },
+  {
+    "id": "hn-49147606",
+    "title": "EU rules on AI models become enforceable. What's going to change?",
+    "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+    "points": 51,
+    "comments": 70,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T19:40:19Z"
+  },
+  {
+    "id": "hn-49148159",
+    "title": "AI Mania: From Tulips to Tokens",
+    "url": "https://seanhelvey.com/tools-and-their-tools/",
+    "points": 49,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T20:48:28Z"
+  },
+  {
+    "id": "hn-49143630",
+    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+    "url": "https://website-auditor.io/ai-visibility-index",
+    "points": 40,
+    "comments": 59,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T11:53:52Z"
+  },
+  {
+    "id": "hn-49143289",
+    "title": "Generative AI floods and dilutes the market for books",
+    "url": "https://arxiv.org/abs/2607.20349",
+    "points": 36,
+    "comments": 102,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T11:06:07Z"
+  },
+  {
+    "id": "hn-49143719",
+    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
+    "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
+    "points": 34,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T12:06:23Z"
+  },
+  {
+    "id": "hn-49146372",
+    "title": "The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
+    "url": "https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594",
+    "points": 33,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T17:19:47Z"
+  },
+  {
+    "id": "hn-49147890",
+    "title": "Let the machines in",
+    "url": "https://blog.semenzin.com/let-the-machines-in/",
+    "points": 29,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T20:17:16Z"
+  },
+  {
+    "id": "hn-49145463",
+    "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+    "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/",
+    "points": 19,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T15:23:59Z"
+  },
+  {
+    "id": "hn-49149185",
+    "title": "Negative social ties as risks for faster aging, inflammation, and multimorbidity",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933095/",
+    "points": 15,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-08-02T22:43:24Z"
   }
 ]
