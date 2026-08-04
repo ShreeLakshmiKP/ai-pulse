@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49145937",
-    "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-    "url": "https://github.com/wie-project/kakehashi",
-    "points": 216,
-    "comments": 55,
+    "id": "hn-49161518",
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "points": 859,
+    "comments": 353,
     "source": "Hacker News",
-    "published_date": "2026-08-02T16:26:40Z"
+    "published_date": "2026-08-03T21:13:53Z"
   },
   {
-    "id": "hn-49150561",
-    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-    "points": 178,
-    "comments": 80,
+    "id": "hn-49154332",
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "points": 708,
+    "comments": 360,
     "source": "Hacker News",
-    "published_date": "2026-08-03T02:30:30Z"
+    "published_date": "2026-08-03T11:28:54Z"
   },
   {
-    "id": "hn-49149326",
-    "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
-    "url": "https://github.com/pg83/shitty",
-    "points": 141,
-    "comments": 128,
+    "id": "hn-49153374",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "points": 471,
+    "comments": 380,
     "source": "Hacker News",
-    "published_date": "2026-08-02T23:05:41Z"
+    "published_date": "2026-08-03T09:32:07Z"
   },
   {
-    "id": "hn-49147622",
-    "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
-    "url": "https://frogs.vaguespac.es/",
-    "points": 140,
-    "comments": 75,
+    "id": "hn-49152842",
+    "title": "Bonsai: Janestreet's UI Library",
+    "url": "https://github.com/janestreet/bonsai",
+    "points": 344,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-08-02T19:42:08Z"
+    "published_date": "2026-08-03T08:29:57Z"
   },
   {
-    "id": "hn-49149188",
-    "title": "AI poster wins Ohio State Fair contest",
-    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-    "points": 130,
-    "comments": 156,
+    "id": "hn-49154228",
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "points": 217,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-08-02T22:43:47Z"
+    "published_date": "2026-08-03T11:15:48Z"
   },
   {
-    "id": "hn-49145934",
-    "title": "Show HN: Sprocket \u2013 The Best AI Agent for Hardware and Software Development",
-    "url": "https://sprocket-demo.spikonado.com",
-    "points": 123,
-    "comments": 12,
+    "id": "hn-49158581",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "points": 209,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-08-02T16:26:19Z"
+    "published_date": "2026-08-03T17:08:46Z"
   },
   {
-    "id": "hn-49143412",
-    "title": "Show HN: Fuse \u2013 statically typed functional programming language",
-    "url": "https://fuselang.org",
+    "id": "hn-49156683",
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "url": "https://news.ycombinator.com/item?id=49156683",
+    "points": 166,
+    "comments": 149,
+    "source": "Hacker News",
+    "published_date": "2026-08-03T15:00:54Z"
+  },
+  {
+    "id": "hn-49164649",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+    "points": 152,
+    "comments": 147,
+    "source": "Hacker News",
+    "published_date": "2026-08-04T05:32:13Z"
+  },
+  {
+    "id": "hn-49158333",
+    "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "points": 151,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-08-03T16:54:15Z"
+  },
+  {
+    "id": "hn-49160699",
+    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "points": 127,
+    "comments": 154,
+    "source": "Hacker News",
+    "published_date": "2026-08-03T20:02:21Z"
+  },
+  {
+    "id": "hn-49154127",
+    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "url": "https://github.com/garagehq/nightcrawler/",
     "points": 110,
-    "comments": 36,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-08-02T11:23:56Z"
+    "published_date": "2026-08-03T11:06:15Z"
   },
   {
-    "id": "hn-49148048",
-    "title": "Show HN: Make your Framework 12 sound like a creaky door",
-    "url": "https://github.com/ArcaEge/creakwork12",
-    "points": 84,
-    "comments": 16,
+    "id": "hn-49157786",
+    "title": "What's the largest software project AI can complete on its own?",
+    "url": "https://epoch.ai/MirrorCode",
+    "points": 83,
+    "comments": 84,
     "source": "Hacker News",
-    "published_date": "2026-08-02T20:33:01Z"
+    "published_date": "2026-08-03T16:16:40Z"
   },
   {
-    "id": "hn-49150773",
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "points": 62,
-    "comments": 47,
+    "id": "hn-49154601",
+    "title": "The AI bubble is popping; we just don't know it yet",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+    "points": 77,
+    "comments": 138,
     "source": "Hacker News",
-    "published_date": "2026-08-03T03:06:12Z"
+    "published_date": "2026-08-03T11:59:10Z"
   },
   {
-    "id": "hn-49149800",
-    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-    "points": 61,
-    "comments": 13,
+    "id": "hn-49157997",
+    "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
+    "url": "https://hoplite.sh",
+    "points": 69,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-08-03T00:22:55Z"
+    "published_date": "2026-08-03T16:32:06Z"
   },
   {
-    "id": "hn-49148541",
-    "title": "Flock \u2013 Chilling Effects: Long Island's Emerging Open-Air Prison",
-    "url": "https://www.11971.com/",
-    "points": 59,
-    "comments": 23,
+    "id": "hn-49153481",
+    "title": "EU enforces labeling AI generated content",
+    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "points": 50,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-08-02T21:30:04Z"
+    "published_date": "2026-08-03T09:46:26Z"
   },
   {
-    "id": "hn-49147606",
-    "title": "EU rules on AI models become enforceable. What's going to change?",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-    "points": 51,
-    "comments": 70,
-    "source": "Hacker News",
-    "published_date": "2026-08-02T19:40:19Z"
-  },
-  {
-    "id": "hn-49148159",
-    "title": "AI Mania: From Tulips to Tokens",
-    "url": "https://seanhelvey.com/tools-and-their-tools/",
-    "points": 49,
-    "comments": 55,
-    "source": "Hacker News",
-    "published_date": "2026-08-02T20:48:28Z"
-  },
-  {
-    "id": "hn-49143630",
-    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-    "url": "https://website-auditor.io/ai-visibility-index",
-    "points": 40,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-08-02T11:53:52Z"
-  },
-  {
-    "id": "hn-49143289",
-    "title": "Generative AI floods and dilutes the market for books",
-    "url": "https://arxiv.org/abs/2607.20349",
-    "points": 36,
-    "comments": 102,
-    "source": "Hacker News",
-    "published_date": "2026-08-02T11:06:07Z"
-  },
-  {
-    "id": "hn-49143719",
-    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
-    "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
-    "points": 34,
+    "id": "hn-49159018",
+    "title": "Show HN: Hacker News with AI stories filtered out",
+    "url": "https://hcker.news/?view=frontpage&ai=exclude",
+    "points": 47,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-08-02T12:06:23Z"
+    "published_date": "2026-08-03T17:39:56Z"
   },
   {
-    "id": "hn-49146372",
-    "title": "The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
-    "url": "https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594",
-    "points": 33,
-    "comments": 34,
+    "id": "hn-49157807",
+    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "url": "https://armature.tech/",
+    "points": 40,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-02T17:19:47Z"
+    "published_date": "2026-08-03T16:17:59Z"
   },
   {
-    "id": "hn-49147890",
-    "title": "Let the machines in",
-    "url": "https://blog.semenzin.com/let-the-machines-in/",
-    "points": 29,
-    "comments": 15,
+    "id": "hn-49159902",
+    "title": "The AI Bailout Could Be Baked into the AI Bubble",
+    "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
+    "points": 34,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-08-02T20:17:16Z"
+    "published_date": "2026-08-03T18:51:23Z"
   },
   {
-    "id": "hn-49145463",
-    "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-    "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/",
-    "points": 19,
-    "comments": 7,
+    "id": "hn-49153029",
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "points": 20,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-08-02T15:23:59Z"
+    "published_date": "2026-08-03T08:54:00Z"
   },
   {
-    "id": "hn-49149185",
-    "title": "Negative social ties as risks for faster aging, inflammation, and multimorbidity",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933095/",
-    "points": 15,
-    "comments": 1,
+    "id": "hn-49162105",
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "points": 20,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-08-02T22:43:24Z"
+    "published_date": "2026-08-03T22:07:07Z"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 560,
+    "stars": 1445,
     "language": "C",
     "topics": [
       "avx2",
@@ -31,11 +31,29 @@
     "created_at": "2026-08-01T09:29:38Z"
   },
   {
+    "id": "gh-1318187016",
+    "name": "genspark-ai/genoffice",
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "stars": 913,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "docx",
+      "electron",
+      "office-suite",
+      "pdf",
+      "pptx",
+      "xlsx"
+    ],
+    "created_at": "2026-07-31T09:40:58Z"
+  },
+  {
     "id": "gh-1318616860",
     "name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 414,
+    "stars": 427,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -54,57 +72,11 @@
     "created_at": "2026-07-31T17:54:30Z"
   },
   {
-    "id": "gh-1314535038",
-    "name": "starling-build/starling",
-    "description": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-    "url": "https://github.com/starling-build/starling",
-    "stars": 265,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "compositor",
-      "desktop",
-      "desktop-environment",
-      "drm",
-      "flutter",
-      "gpu",
-      "kms",
-      "linux",
-      "swift",
-      "ubuntu",
-      "wayland",
-      "wayland-compositor",
-      "window-manager",
-      "x11"
-    ],
-    "created_at": "2026-07-28T04:31:38Z"
-  },
-  {
-    "id": "gh-1319174653",
-    "name": "Anionex/codex-vision-proxy",
-    "description": "\u8ba9\u7eaf\u6587\u672c\u6a21\u578b\u5728 Codex \u4e2d\u65e0\u969c\u788d\u8c03\u7528\u5185\u7f6e\u770b\u56fe\u5de5\u5177\uff08view_image\uff09\u7684\u65b9\u6848\uff0c\u9644\u4e3a\u7eaf\u6587\u672c LLM \u8bbe\u8ba1\u7684\u89c6\u89c9\u5de5\u5177\u5305&skill \uff5c  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-    "url": "https://github.com/Anionex/codex-vision-proxy",
-    "stars": 228,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "codex",
-      "deepseek",
-      "glm",
-      "kimi",
-      "llm",
-      "multimodal",
-      "text-only-llm",
-      "vision"
-    ],
-    "created_at": "2026-08-01T10:00:13Z"
-  },
-  {
     "id": "gh-1315850048",
     "name": "aigclink/geolook",
     "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
     "url": "https://github.com/aigclink/geolook",
-    "stars": 193,
+    "stars": 299,
     "language": "Python",
     "topics": [
       "aeo",
@@ -121,36 +93,49 @@
     "created_at": "2026-07-29T07:51:43Z"
   },
   {
-    "id": "gh-1314553634",
-    "name": "arcships/aimux",
-    "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
-    "url": "https://github.com/arcships/aimux",
-    "stars": 150,
-    "language": "Rust",
+    "id": "gh-1319174653",
+    "name": "Anionex/codex-vision-proxy",
+    "description": "\u8ba9\u7eaf\u6587\u672c\u6a21\u578b\u5728 Codex \u4e2d\u65e0\u969c\u788d\u8c03\u7528\u5185\u7f6e\u770b\u56fe\u5de5\u5177\uff08view_image\uff09\u7684\u65b9\u6848\uff0c\u9644\u4e3a\u7eaf\u6587\u672c LLM \u8bbe\u8ba1\u7684\u89c6\u89c9\u5de5\u5177\u5305&skill \uff5c  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+    "url": "https://github.com/Anionex/codex-vision-proxy",
+    "stars": 267,
+    "language": "Python",
     "topics": [
-      "ai",
-      "c",
-      "flutter",
-      "go",
-      "java",
-      "kotlin",
+      "agent",
+      "codex",
+      "deepseek",
+      "glm",
+      "kimi",
       "llm",
-      "llm-api",
-      "llm-providers",
-      "nodejs",
-      "openai-compatible",
-      "python",
-      "rust",
-      "swift"
+      "multimodal",
+      "text-only-llm",
+      "vision"
     ],
-    "created_at": "2026-07-28T04:58:46Z"
+    "created_at": "2026-08-01T10:00:13Z"
+  },
+  {
+    "id": "gh-1320191889",
+    "name": "patchy631/time-to-first-token",
+    "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+    "url": "https://github.com/patchy631/time-to-first-token",
+    "stars": 245,
+    "language": "HTML",
+    "topics": [
+      "learning-resources",
+      "llm",
+      "llm-inference",
+      "mlops",
+      "roadmap",
+      "sglang",
+      "vllm"
+    ],
+    "created_at": "2026-08-02T13:02:26Z"
   },
   {
     "id": "gh-1319290417",
     "name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 138,
+    "stars": 141,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -165,22 +150,60 @@
     "created_at": "2026-08-01T12:50:09Z"
   },
   {
-    "id": "gh-1318187016",
-    "name": "genspark-ai/genoffice",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 74,
-    "language": "TypeScript",
+    "id": "gh-1321050149",
+    "name": "Mr-funny/hbg-classical-poem-silk-video",
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+    "stars": 98,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "chinese-poetry",
+      "codex",
+      "docker",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video"
+    ],
+    "created_at": "2026-08-03T01:04:46Z"
+  },
+  {
+    "id": "gh-1319630301",
+    "name": "AFan4724/clone-chat",
+    "description": "\u7528 AI \u5927\u6a21\u578b\u590d\u523b\u804a\u5929\u5bf9\u8c61\u7684\u672c\u5730\u5bf9\u8bdd Agent\uff1a\u5bfc\u5165\u771f\u5b9e\u804a\u5929\u8bb0\u5f55\uff0cLLM \u5b66\u4e60 TA \u7684\u8bed\u6c14\u3001\u8868\u60c5\u548c\u56de\u590d\u8282\u594f\u5e76\u4ee5\u4eba\u7269\u8eab\u4efd\u5ef6\u7eed\u5bf9\u8bdd\uff0c\u652f\u6301\u8bed\u97f3\u3001\u4e3b\u52a8\u8054\u7cfb\u4e0e\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5728\u672c\u5730\u3002 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them \u2014 voice, proactive messages, long-term memory, fully private.",
+    "url": "https://github.com/AFan4724/clone-chat",
+    "stars": 61,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "docx",
-      "electron",
-      "office-suite",
-      "pdf",
-      "pptx",
-      "xlsx"
+      "chat-history",
+      "chatbot",
+      "conversation-agent",
+      "llm",
+      "local-llm",
+      "openai-agents",
+      "persona",
+      "persona-clone"
     ],
-    "created_at": "2026-07-31T09:40:58Z"
+    "created_at": "2026-08-01T21:19:13Z"
+  },
+  {
+    "id": "gh-1318801695",
+    "name": "xbsheng/atguigu-note",
+    "description": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
+    "url": "https://github.com/xbsheng/atguigu-note",
+    "stars": 54,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "atguigu",
+      "langchain",
+      "langgraph",
+      "python"
+    ],
+    "created_at": "2026-07-31T22:44:26Z"
   },
   {
     "id": "gh-1317902880",
@@ -208,7 +231,7 @@
     "name": "harrrshall/barunlm-35m",
     "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
     "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 46,
+    "stars": 49,
     "language": "Python",
     "topics": [
       "language-model",
@@ -220,29 +243,66 @@
     "created_at": "2026-07-31T12:52:36Z"
   },
   {
-    "id": "gh-1318801695",
-    "name": "xbsheng/atguigu-note",
-    "description": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
-    "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 42,
-    "language": "Jupyter Notebook",
+    "id": "gh-1318832652",
+    "name": "artbyjazi/autoclip",
+    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "stars": 33,
+    "language": "Python",
     "topics": [
-      "agent",
-      "agents",
       "ai",
-      "atguigu",
-      "langchain",
-      "langgraph",
-      "python"
+      "fastapi",
+      "ffmpeg",
+      "llm",
+      "local-first",
+      "mediapipe",
+      "opusclip-alternative",
+      "python",
+      "react",
+      "reels",
+      "shorts",
+      "tiktok",
+      "video",
+      "video-editing",
+      "whisper"
     ],
-    "created_at": "2026-07-31T22:44:26Z"
+    "created_at": "2026-07-31T23:52:46Z"
+  },
+  {
+    "id": "gh-1319827487",
+    "name": "openwarehq/websiteprompts",
+    "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website \u2014 exact colours, easing and z-index, plus a background video that is already hosted.",
+    "url": "https://github.com/openwarehq/websiteprompts",
+    "stars": 30,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "cursor",
+      "frontend",
+      "generative-ai",
+      "landing-page",
+      "llm",
+      "prompt-engineering",
+      "prompts",
+      "react",
+      "tailwindcss",
+      "typescript",
+      "ui-design",
+      "v0",
+      "vibe-coding",
+      "web-design"
+    ],
+    "created_at": "2026-08-02T04:49:19Z"
   },
   {
     "id": "gh-1320472884",
     "name": "sadekxD/cardstock-diorama-myth",
     "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style \u2014 three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.",
     "url": "https://github.com/sadekxD/cardstock-diorama-myth",
-    "stars": 23,
+    "stars": 28,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -261,70 +321,5 @@
       "video-generation"
     ],
     "created_at": "2026-08-02T18:17:40Z"
-  },
-  {
-    "id": "gh-1318232785",
-    "name": "melonmath/microkimi",
-    "description": "The Kimi K3 and DeepSeek-V4-Flash-0731 architectures, reimplemented from scratch in pure Rust (zero dependencies) and verified 1:1 against the official code.",
-    "url": "https://github.com/melonmath/microkimi",
-    "stars": 16,
-    "language": "Rust",
-    "topics": [
-      "apple-silicon",
-      "deepseek",
-      "deepseek-v4",
-      "from-scratch",
-      "inference-engine",
-      "kimi",
-      "linear-attention",
-      "llm",
-      "machine-learning",
-      "metal",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "rust",
-      "tiktoken",
-      "zero-dependency"
-    ],
-    "created_at": "2026-07-31T10:34:48Z"
-  },
-  {
-    "id": "gh-1318289843",
-    "name": "BeatAPI/awesome-minimax-h3-prompts",
-    "description": "\ud83c\udfac Curated MiniMax H3 video generation prompts \u2014 cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
-    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
-    "stars": 13,
-    "language": "JavaScript",
-    "topics": [
-      "ai-video",
-      "awesome-list",
-      "generative-ai",
-      "image-to-video",
-      "minimax-h3",
-      "multimodal-ai",
-      "prompt-gallery",
-      "text-to-video",
-      "video-prompts",
-      "webm"
-    ],
-    "created_at": "2026-07-31T11:45:07Z"
-  },
-  {
-    "id": "gh-1320658226",
-    "name": "TimRots/kimi3",
-    "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
-    "url": "https://github.com/TimRots/kimi3",
-    "stars": 9,
-    "language": "Python",
-    "topics": [
-      "language-model",
-      "linear-attention",
-      "machine-learning",
-      "mixture-of-experts",
-      "pytorch",
-      "transformers"
-    ],
-    "created_at": "2026-08-02T20:16:08Z"
   }
 ]
