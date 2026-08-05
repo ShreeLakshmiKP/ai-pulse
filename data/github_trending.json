@@ -4,7 +4,7 @@
     "name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 1445,
+    "stars": 2198,
     "language": "C",
     "topics": [
       "avx2",
@@ -35,7 +35,7 @@
     "name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 913,
+    "stars": 1514,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -53,7 +53,7 @@
     "name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 427,
+    "stars": 430,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -72,52 +72,11 @@
     "created_at": "2026-07-31T17:54:30Z"
   },
   {
-    "id": "gh-1315850048",
-    "name": "aigclink/geolook",
-    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-    "url": "https://github.com/aigclink/geolook",
-    "stars": 299,
-    "language": "Python",
-    "topics": [
-      "aeo",
-      "ai-search",
-      "ai-visibility",
-      "answer-engine-optimization",
-      "generative-engine-optimization",
-      "geo",
-      "llm",
-      "self-hosted",
-      "seo",
-      "seo-tools"
-    ],
-    "created_at": "2026-07-29T07:51:43Z"
-  },
-  {
-    "id": "gh-1319174653",
-    "name": "Anionex/codex-vision-proxy",
-    "description": "\u8ba9\u7eaf\u6587\u672c\u6a21\u578b\u5728 Codex \u4e2d\u65e0\u969c\u788d\u8c03\u7528\u5185\u7f6e\u770b\u56fe\u5de5\u5177\uff08view_image\uff09\u7684\u65b9\u6848\uff0c\u9644\u4e3a\u7eaf\u6587\u672c LLM \u8bbe\u8ba1\u7684\u89c6\u89c9\u5de5\u5177\u5305&skill \uff5c  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-    "url": "https://github.com/Anionex/codex-vision-proxy",
-    "stars": 267,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "codex",
-      "deepseek",
-      "glm",
-      "kimi",
-      "llm",
-      "multimodal",
-      "text-only-llm",
-      "vision"
-    ],
-    "created_at": "2026-08-01T10:00:13Z"
-  },
-  {
     "id": "gh-1320191889",
     "name": "patchy631/time-to-first-token",
     "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
     "url": "https://github.com/patchy631/time-to-first-token",
-    "stars": 245,
+    "stars": 304,
     "language": "HTML",
     "topics": [
       "learning-resources",
@@ -131,11 +90,78 @@
     "created_at": "2026-08-02T13:02:26Z"
   },
   {
+    "id": "gh-1319174653",
+    "name": "Anionex/agent-vision-toolkit",
+    "description": "\u7ed9\u7eaf\u6587\u672c LLM agent \u88c5\u4e0a\u773c\u775b\uff1a\u56fe\u7247\u95ee\u7b54\u3001OCR\u3001\u622a\u56fe\u5206\u6790\u3001\u89c6\u89c9\u5b9a\u4f4d\u3001\u56fe\u8f6c SVG\u2014\u2014\u4e00\u5957\u89c6\u89c9\u5de5\u5177\u7bb1 + skill\uff0c\u5e76\u53ef\u65e0\u7f1d\u63a5\u5165 Codex\u3001Claude Code\u3001OpenCode\u3001Pi \uff5c Give text-only LLM coding agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG \u2014 a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+    "url": "https://github.com/Anionex/agent-vision-toolkit",
+    "stars": 281,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "codex",
+      "computer-use",
+      "deepseek",
+      "deepseek-v4",
+      "glm",
+      "harness-engineering",
+      "kimi",
+      "llm",
+      "multimodal",
+      "ocr",
+      "opencode",
+      "vision",
+      "vision-language-model"
+    ],
+    "created_at": "2026-08-01T10:00:13Z"
+  },
+  {
+    "id": "gh-1319927892",
+    "name": "alikon-art/DeterminFlow",
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "stars": 194,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-workflow",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "python",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-runtime"
+    ],
+    "created_at": "2026-08-02T07:40:51Z"
+  },
+  {
+    "id": "gh-1321050149",
+    "name": "Mr-funny/hbg-classical-poem-silk-video",
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+    "stars": 164,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "chinese-poetry",
+      "codex",
+      "docker",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video"
+    ],
+    "created_at": "2026-08-03T01:04:46Z"
+  },
+  {
     "id": "gh-1319290417",
     "name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 141,
+    "stars": 143,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -150,29 +176,11 @@
     "created_at": "2026-08-01T12:50:09Z"
   },
   {
-    "id": "gh-1321050149",
-    "name": "Mr-funny/hbg-classical-poem-silk-video",
-    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
-    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stars": 98,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "chinese-poetry",
-      "codex",
-      "docker",
-      "ffmpeg",
-      "generative-ai",
-      "image-to-video"
-    ],
-    "created_at": "2026-08-03T01:04:46Z"
-  },
-  {
     "id": "gh-1319630301",
     "name": "AFan4724/clone-chat",
     "description": "\u7528 AI \u5927\u6a21\u578b\u590d\u523b\u804a\u5929\u5bf9\u8c61\u7684\u672c\u5730\u5bf9\u8bdd Agent\uff1a\u5bfc\u5165\u771f\u5b9e\u804a\u5929\u8bb0\u5f55\uff0cLLM \u5b66\u4e60 TA \u7684\u8bed\u6c14\u3001\u8868\u60c5\u548c\u56de\u590d\u8282\u594f\u5e76\u4ee5\u4eba\u7269\u8eab\u4efd\u5ef6\u7eed\u5bf9\u8bdd\uff0c\u652f\u6301\u8bed\u97f3\u3001\u4e3b\u52a8\u8054\u7cfb\u4e0e\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5728\u672c\u5730\u3002 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them \u2014 voice, proactive messages, long-term memory, fully private.",
     "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 61,
+    "stars": 111,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -188,11 +196,34 @@
     "created_at": "2026-08-01T21:19:13Z"
   },
   {
+    "id": "gh-1322098015",
+    "name": "Hermes-brasil/hermes-brasil",
+    "description": "Comunidade brasileira de Hermes Agent (Nous Research) \u2014 skills, guias e integra\u00e7\u00f5es em portugu\u00eas.",
+    "url": "https://github.com/Hermes-brasil/hermes-brasil",
+    "stars": 87,
+    "language": null,
+    "topics": [
+      "agentes",
+      "agentskills",
+      "ai",
+      "automacao",
+      "brasil",
+      "brazil",
+      "comunidade",
+      "hermes",
+      "hermes-agent",
+      "ia",
+      "portugues",
+      "skills"
+    ],
+    "created_at": "2026-08-03T18:03:18Z"
+  },
+  {
     "id": "gh-1318801695",
     "name": "xbsheng/atguigu-note",
     "description": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 54,
+    "stars": 66,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -204,6 +235,22 @@
       "python"
     ],
     "created_at": "2026-07-31T22:44:26Z"
+  },
+  {
+    "id": "gh-1318348313",
+    "name": "harrrshall/barunlm-35m",
+    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
+    "url": "https://github.com/harrrshall/barunlm-35m",
+    "stars": 51,
+    "language": "Python",
+    "topics": [
+      "language-model",
+      "machine-learning",
+      "pytorch",
+      "small-language-model",
+      "text-generation"
+    ],
+    "created_at": "2026-07-31T12:52:36Z"
   },
   {
     "id": "gh-1317902880",
@@ -227,53 +274,11 @@
     "created_at": "2026-07-31T03:48:42Z"
   },
   {
-    "id": "gh-1318348313",
-    "name": "harrrshall/barunlm-35m",
-    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-    "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 49,
-    "language": "Python",
-    "topics": [
-      "language-model",
-      "machine-learning",
-      "pytorch",
-      "small-language-model",
-      "text-generation"
-    ],
-    "created_at": "2026-07-31T12:52:36Z"
-  },
-  {
-    "id": "gh-1318832652",
-    "name": "artbyjazi/autoclip",
-    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
-    "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 33,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "fastapi",
-      "ffmpeg",
-      "llm",
-      "local-first",
-      "mediapipe",
-      "opusclip-alternative",
-      "python",
-      "react",
-      "reels",
-      "shorts",
-      "tiktok",
-      "video",
-      "video-editing",
-      "whisper"
-    ],
-    "created_at": "2026-07-31T23:52:46Z"
-  },
-  {
     "id": "gh-1319827487",
     "name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website \u2014 exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 30,
+    "stars": 47,
     "language": null,
     "topics": [
       "ai",
@@ -302,7 +307,7 @@
     "name": "sadekxD/cardstock-diorama-myth",
     "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style \u2014 three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.",
     "url": "https://github.com/sadekxD/cardstock-diorama-myth",
-    "stars": 28,
+    "stars": 31,
     "language": "Python",
     "topics": [
       "ai-video",
