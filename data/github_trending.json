@@ -4,7 +4,7 @@
     "name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2198,
+    "stars": 2661,
     "language": "C",
     "topics": [
       "avx2",
@@ -35,7 +35,7 @@
     "name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1514,
+    "stars": 1897,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -53,7 +53,7 @@
     "name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 430,
+    "stars": 433,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -76,7 +76,7 @@
     "name": "patchy631/time-to-first-token",
     "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
     "url": "https://github.com/patchy631/time-to-first-token",
-    "stars": 304,
+    "stars": 331,
     "language": "HTML",
     "topics": [
       "learning-resources",
@@ -92,9 +92,9 @@
   {
     "id": "gh-1319174653",
     "name": "Anionex/agent-vision-toolkit",
-    "description": "\u7ed9\u7eaf\u6587\u672c LLM agent \u88c5\u4e0a\u773c\u775b\uff1a\u56fe\u7247\u95ee\u7b54\u3001OCR\u3001\u622a\u56fe\u5206\u6790\u3001\u89c6\u89c9\u5b9a\u4f4d\u3001\u56fe\u8f6c SVG\u2014\u2014\u4e00\u5957\u89c6\u89c9\u5de5\u5177\u7bb1 + skill\uff0c\u5e76\u53ef\u65e0\u7f1d\u63a5\u5165 Codex\u3001Claude Code\u3001OpenCode\u3001Pi \uff5c Give text-only LLM coding agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG \u2014 a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+    "description": "\u7ed9\u7eaf\u6587\u672c LLM agent \u88c5\u4e0a\u773c\u775b\uff1a\u56fe\u7247\u95ee\u7b54\u3001OCR\u3001\u622a\u56fe\u5206\u6790\u3001\u89c6\u89c9\u5b9a\u4f4d\u7b49\u4e00\u5957\u89c6\u89c9\u5de5\u5177\u7bb1 + skill\uff0c\u5e76\u53ef\u65e0\u7f1d\u63a5\u5165 Codex\u3001Claude Code\u3001OpenCode\u3001Pi \uff5c Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
     "url": "https://github.com/Anionex/agent-vision-toolkit",
-    "stars": 281,
+    "stars": 312,
     "language": "Python",
     "topics": [
       "agent",
@@ -122,7 +122,7 @@
     "name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 194,
+    "stars": 202,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -143,7 +143,7 @@
     "name": "Mr-funny/hbg-classical-poem-silk-video",
     "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
     "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stars": 164,
+    "stars": 175,
     "language": "Shell",
     "topics": [
       "agent-skill",
@@ -157,11 +157,30 @@
     "created_at": "2026-08-03T01:04:46Z"
   },
   {
+    "id": "gh-1322187842",
+    "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "description": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "stars": 133,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "lgplv3",
+      "minimax",
+      "minimax-h3",
+      "pytroch",
+      "video",
+      "video-generation",
+      "video-generator"
+    ],
+    "created_at": "2026-08-03T19:56:28Z"
+  },
+  {
     "id": "gh-1319290417",
     "name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 143,
+    "stars": 128,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -200,7 +219,7 @@
     "name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) \u2014 skills, guias e integra\u00e7\u00f5es em portugu\u00eas.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 87,
+    "stars": 105,
     "language": null,
     "topics": [
       "agentes",
@@ -219,67 +238,12 @@
     "created_at": "2026-08-03T18:03:18Z"
   },
   {
-    "id": "gh-1318801695",
-    "name": "xbsheng/atguigu-note",
-    "description": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
-    "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 66,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "atguigu",
-      "langchain",
-      "langgraph",
-      "python"
-    ],
-    "created_at": "2026-07-31T22:44:26Z"
-  },
-  {
-    "id": "gh-1318348313",
-    "name": "harrrshall/barunlm-35m",
-    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-    "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 51,
-    "language": "Python",
-    "topics": [
-      "language-model",
-      "machine-learning",
-      "pytorch",
-      "small-language-model",
-      "text-generation"
-    ],
-    "created_at": "2026-07-31T12:52:36Z"
-  },
-  {
-    "id": "gh-1317902880",
-    "name": "Indhu27-pixel/Labour-Law-Violation-System",
-    "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
-    "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "explainable-ai",
-      "flask",
-      "gnn",
-      "graph-neural-networks",
-      "labour-law",
-      "machine-learning",
-      "python",
-      "pytorch"
-    ],
-    "created_at": "2026-07-31T03:48:42Z"
-  },
-  {
     "id": "gh-1319827487",
     "name": "openwarehq/websiteprompts",
-    "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website \u2014 exact colours, easing and z-index, plus a background video that is already hosted.",
+    "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 47,
-    "language": null,
+    "stars": 59,
+    "language": "JavaScript",
     "topics": [
       "ai",
       "ai-tools",
@@ -303,28 +267,61 @@
     "created_at": "2026-08-02T04:49:19Z"
   },
   {
-    "id": "gh-1320472884",
-    "name": "sadekxD/cardstock-diorama-myth",
-    "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style \u2014 three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.",
-    "url": "https://github.com/sadekxD/cardstock-diorama-myth",
-    "stars": 31,
+    "id": "gh-1318348313",
+    "name": "harrrshall/barunlm-35m",
+    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
+    "url": "https://github.com/harrrshall/barunlm-35m",
+    "stars": 54,
     "language": "Python",
     "topics": [
-      "ai-video",
-      "animation",
-      "claude",
-      "claude-code",
-      "claude-skill",
-      "claude-skills",
-      "generative-ai",
-      "mcp",
-      "papercraft",
-      "storytelling",
-      "text-to-video",
-      "unsora",
-      "unsora-mcp",
-      "video-generation"
+      "language-model",
+      "machine-learning",
+      "pytorch",
+      "small-language-model",
+      "text-generation"
     ],
-    "created_at": "2026-08-02T18:17:40Z"
+    "created_at": "2026-07-31T12:52:36Z"
+  },
+  {
+    "id": "gh-1318289843",
+    "name": "BeatAPI/awesome-minimax-h3-prompts",
+    "description": "\ud83c\udfac Curated MiniMax H3 video generation prompts \u2014 cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
+    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
+    "stars": 54,
+    "language": "JavaScript",
+    "topics": [
+      "ai-video",
+      "awesome-list",
+      "generative-ai",
+      "image-to-video",
+      "minimax-h3",
+      "multimodal-ai",
+      "prompt-gallery",
+      "text-to-video",
+      "video-prompts",
+      "webm"
+    ],
+    "created_at": "2026-07-31T11:45:07Z"
+  },
+  {
+    "id": "gh-1317902880",
+    "name": "Indhu27-pixel/Labour-Law-Violation-System",
+    "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
+    "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
+    "stars": 50,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "explainable-ai",
+      "flask",
+      "gnn",
+      "graph-neural-networks",
+      "labour-law",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "created_at": "2026-07-31T03:48:42Z"
   }
 ]

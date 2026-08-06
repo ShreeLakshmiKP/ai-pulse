@@ -3088,6 +3088,105 @@
     "image": null
   },
   {
+    "id": "rss-f4b59bdf",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 05 Aug 2026 21:21:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1619858f",
+    "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 05 Aug 2026 20:05:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-41dee0fb",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "tags": [
+      "startups"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 05 Aug 2026 19:30:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-01083001",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "summary": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 05 Aug 2026 15:56:14 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-844e872c",
+    "title": "Hark previews its browser use agent for completing tasks",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 05 Aug 2026 15:46:27 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ab78e492",
+    "title": "Puzzle Corner",
+    "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u201903, MEng \u201904, and Abe Kunin \u201903.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 05 Aug 2026 14:56:29 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ff71d16d",
+    "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 05 Aug 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-ec86245c",
     "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
     "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida.",
@@ -4234,104 +4333,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cd8e20ce",
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c57d8e18",
-    "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 28 Jul 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e9c7d242",
-    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
-    "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 28 Jul 2026 09:18:57 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-470d3cc5",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 04:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-063a78a6",
-    "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 00:13:33 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9ac17987",
-    "title": "Amazon is already offering new OpenAI products on AWS",
-    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "tags": [
-      "agents",
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Apr 2026 19:48:02 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a1231f5b",
-    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Apr 2026 18:49:54 +0000",
     "image": null
   }
 ]
