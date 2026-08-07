@@ -4,7 +4,7 @@
     "name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2661,
+    "stars": 2936,
     "language": "C",
     "topics": [
       "avx2",
@@ -31,52 +31,11 @@
     "created_at": "2026-08-01T09:29:38Z"
   },
   {
-    "id": "gh-1318187016",
-    "name": "genspark-ai/genoffice",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1897,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "docx",
-      "electron",
-      "office-suite",
-      "pdf",
-      "pptx",
-      "xlsx"
-    ],
-    "created_at": "2026-07-31T09:40:58Z"
-  },
-  {
-    "id": "gh-1318616860",
-    "name": "0xwilliamortiz/ratchet",
-    "description": "Your agent reads the rules. This checks whether it followed them.",
-    "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 433,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "code-quality",
-      "developer-tools",
-      "hooks",
-      "llm",
-      "ratchet",
-      "rate-limiting",
-      "static-analysis",
-      "yagni"
-    ],
-    "created_at": "2026-07-31T17:54:30Z"
-  },
-  {
     "id": "gh-1320191889",
     "name": "patchy631/time-to-first-token",
     "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
     "url": "https://github.com/patchy631/time-to-first-token",
-    "stars": 331,
+    "stars": 338,
     "language": "HTML",
     "topics": [
       "learning-resources",
@@ -92,9 +51,9 @@
   {
     "id": "gh-1319174653",
     "name": "Anionex/agent-vision-toolkit",
-    "description": "\u7ed9\u7eaf\u6587\u672c LLM agent \u88c5\u4e0a\u773c\u775b\uff1a\u56fe\u7247\u95ee\u7b54\u3001OCR\u3001\u622a\u56fe\u5206\u6790\u3001\u89c6\u89c9\u5b9a\u4f4d\u7b49\u4e00\u5957\u89c6\u89c9\u5de5\u5177\u7bb1 + skill\uff0c\u5e76\u53ef\u65e0\u7f1d\u63a5\u5165 Codex\u3001Claude Code\u3001OpenCode\u3001Pi \uff5c Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+    "description": "\u4e3a\u7eaf\u6587\u672c\u6a21\u578b\"\u770b\u56fe\u201c\u8bbe\u8ba1\u7684\u89c6\u89c9\u5de5\u5177\u7bb1\u548c\u6280\u80fd\u2014\u2014\u591a\u56fe\u7406\u89e3\u3001\u56fe\u7247\u95ee\u7b54\u3001\u957f\u56fe\u8bc6\u522b\u3001\u524d\u7aef UI \u8fd8\u539f\u3001GUI \u81ea\u52a8\u5316\uff0c\u5e76\u53ef\u9009\u65e0\u7f1d\u63a5\u5165 Codex\u3001Claude Code\u3001Pi\u3001Oh My Pi\u3001OpenCode \uff5c A vision toolkit and skill designed for text-only llms \u2014 image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
     "url": "https://github.com/Anionex/agent-vision-toolkit",
-    "stars": 312,
+    "stars": 336,
     "language": "Python",
     "topics": [
       "agent",
@@ -104,14 +63,13 @@
       "codex",
       "computer-use",
       "deepseek",
-      "deepseek-v4",
       "glm",
       "harness-engineering",
       "kimi",
       "llm",
       "multimodal",
-      "ocr",
       "opencode",
+      "text-only-llm",
       "vision",
       "vision-language-model"
     ],
@@ -122,7 +80,7 @@
     "name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 202,
+    "stars": 225,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -143,7 +101,7 @@
     "name": "Mr-funny/hbg-classical-poem-silk-video",
     "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
     "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stars": 175,
+    "stars": 182,
     "language": "Shell",
     "topics": [
       "agent-skill",
@@ -161,7 +119,7 @@
     "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 133,
+    "stars": 164,
     "language": "Python",
     "topics": [
       "ai",
@@ -174,6 +132,27 @@
       "video-generator"
     ],
     "created_at": "2026-08-03T19:56:28Z"
+  },
+  {
+    "id": "gh-1325322542",
+    "name": "oliverb-io1902e8/agent-skills-collection",
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stars": 152,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "claude",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "created_at": "2026-08-06T14:07:02Z"
   },
   {
     "id": "gh-1319290417",
@@ -193,6 +172,22 @@
       "tco"
     ],
     "created_at": "2026-08-01T12:50:09Z"
+  },
+  {
+    "id": "gh-1322640431",
+    "name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 128,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "game",
+      "game-testing",
+      "python"
+    ],
+    "created_at": "2026-08-04T07:20:22Z"
   },
   {
     "id": "gh-1319630301",
@@ -219,7 +214,7 @@
     "name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) \u2014 skills, guias e integra\u00e7\u00f5es em portugu\u00eas.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 105,
+    "stars": 107,
     "language": null,
     "topics": [
       "agentes",
@@ -242,13 +237,15 @@
     "name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 59,
+    "stars": 65,
     "language": "JavaScript",
     "topics": [
+      "agent-skills",
       "ai",
       "ai-tools",
       "claude",
       "claude-code",
+      "claude-skills",
       "cursor",
       "frontend",
       "generative-ai",
@@ -267,61 +264,68 @@
     "created_at": "2026-08-02T04:49:19Z"
   },
   {
-    "id": "gh-1318348313",
-    "name": "harrrshall/barunlm-35m",
-    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-    "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 54,
+    "id": "gh-1321397116",
+    "name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+    "stars": 46,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-agents"
+    ],
+    "created_at": "2026-08-03T07:36:22Z"
+  },
+  {
+    "id": "gh-1319705178",
+    "name": "worldbench/awesome-agentic-world-model",
+    "description": "\ud83d\udd25 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents",
+    "url": "https://github.com/worldbench/awesome-agentic-world-model",
+    "stars": 33,
+    "language": "HTML",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-world-model",
+      "agents",
+      "aigc",
+      "closed-loop",
+      "closed-loop-control",
+      "closed-loop-experiments",
+      "closed-loop-simulation",
+      "generation",
+      "generative-ai",
+      "image-generation",
+      "video-generation",
+      "world-model",
+      "world-modeling",
+      "world-models",
+      "world-models-rl"
+    ],
+    "created_at": "2026-08-02T00:18:26Z"
+  },
+  {
+    "id": "gh-1320658226",
+    "name": "TimRots/kimi3",
+    "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
+    "url": "https://github.com/TimRots/kimi3",
+    "stars": 32,
     "language": "Python",
     "topics": [
       "language-model",
+      "linear-attention",
       "machine-learning",
+      "mixture-of-experts",
       "pytorch",
-      "small-language-model",
-      "text-generation"
+      "transformers"
     ],
-    "created_at": "2026-07-31T12:52:36Z"
-  },
-  {
-    "id": "gh-1318289843",
-    "name": "BeatAPI/awesome-minimax-h3-prompts",
-    "description": "\ud83c\udfac Curated MiniMax H3 video generation prompts \u2014 cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
-    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
-    "stars": 54,
-    "language": "JavaScript",
-    "topics": [
-      "ai-video",
-      "awesome-list",
-      "generative-ai",
-      "image-to-video",
-      "minimax-h3",
-      "multimodal-ai",
-      "prompt-gallery",
-      "text-to-video",
-      "video-prompts",
-      "webm"
-    ],
-    "created_at": "2026-07-31T11:45:07Z"
-  },
-  {
-    "id": "gh-1317902880",
-    "name": "Indhu27-pixel/Labour-Law-Violation-System",
-    "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
-    "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "explainable-ai",
-      "flask",
-      "gnn",
-      "graph-neural-networks",
-      "labour-law",
-      "machine-learning",
-      "python",
-      "pytorch"
-    ],
-    "created_at": "2026-07-31T03:48:42Z"
+    "created_at": "2026-08-02T20:16:08Z"
   }
 ]
