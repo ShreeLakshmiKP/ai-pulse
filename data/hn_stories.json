@@ -1,182 +1,146 @@
 [
   {
-    "id": "hn-49213754",
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "points": 442,
-    "comments": 305,
+    "id": "hn-49220126",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "points": 409,
+    "comments": 123,
     "source": "Hacker News",
-    "published_date": "2026-08-07T17:36:30Z"
+    "published_date": "2026-08-08T09:18:50Z"
   },
   {
-    "id": "hn-49214098",
-    "title": "Assembly Hall of Shame",
-    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-    "points": 306,
-    "comments": 71,
+    "id": "hn-49219508",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "points": 357,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-08-07T18:01:30Z"
+    "published_date": "2026-08-08T07:04:51Z"
   },
   {
-    "id": "hn-49214468",
-    "title": "Managing AI Coding Costs at Scale",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "points": 211,
-    "comments": 194,
+    "id": "hn-49223079",
+    "title": "Can Intel finally beat ARM on performance per Watt?",
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "points": 184,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-08-07T18:25:17Z"
+    "published_date": "2026-08-08T16:04:36Z"
   },
   {
-    "id": "hn-49209385",
-    "title": "Show HN: Wyzer Programming Language",
-    "url": "https://github.com/Wyzer-Lang/wyzer",
-    "points": 188,
-    "comments": 105,
+    "id": "hn-49223475",
+    "title": "LinkedIn Feed Blocker",
+    "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+    "points": 172,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-08-07T12:28:55Z"
+    "published_date": "2026-08-08T16:49:07Z"
   },
   {
-    "id": "hn-49210077",
-    "title": "AI psychosis is the new leadership blind spot",
-    "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-    "points": 167,
-    "comments": 103,
+    "id": "hn-49221711",
+    "title": "Triton: DirectX 11 Driver for QEMU",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "points": 163,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-08-07T13:27:30Z"
+    "published_date": "2026-08-08T13:33:06Z"
   },
   {
-    "id": "hn-49207146",
-    "title": "I won't read LLM authored fiction",
-    "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-    "points": 71,
-    "comments": 112,
+    "id": "hn-49221864",
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "points": 159,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-08-07T07:45:56Z"
+    "published_date": "2026-08-08T13:55:42Z"
   },
   {
-    "id": "hn-49208341",
-    "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
-    "url": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
-    "points": 70,
-    "comments": 28,
+    "id": "hn-49221220",
+    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "points": 110,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-08-07T10:33:00Z"
+    "published_date": "2026-08-08T12:31:11Z"
   },
   {
-    "id": "hn-49211660",
-    "title": "M\u00f6bius-Strip Crosswords",
-    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-    "points": 66,
-    "comments": 10,
+    "id": "hn-49222824",
+    "title": "Message your other Claude Code sessions",
+    "url": "https://code.claude.com/docs/en/cross-session-messaging",
+    "points": 105,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-08-07T15:10:34Z"
+    "published_date": "2026-08-08T15:34:49Z"
   },
   {
-    "id": "hn-49214775",
-    "title": "Psychological Warfare in Reverse Engineering (2015)",
-    "url": "https://github.com/xoreaxeaxeax/repsych",
-    "points": 62,
-    "comments": 3,
+    "id": "hn-49221679",
+    "title": "Voyager 1 FDS Computer Emulator",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "points": 81,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-07T18:51:45Z"
+    "published_date": "2026-08-08T13:28:38Z"
   },
   {
-    "id": "hn-49218707",
-    "title": "Mythos social engineering AISI INC-2026-07-28-01",
-    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-    "points": 43,
-    "comments": 15,
+    "id": "hn-49220378",
+    "title": "Making an AI bid writer refuse to lie",
+    "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+    "points": 50,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-08-08T03:41:56Z"
+    "published_date": "2026-08-08T10:13:31Z"
   },
   {
-    "id": "hn-49217629",
-    "title": "Should AI labs be treated like the owners of dangerous animals?",
-    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-    "points": 42,
-    "comments": 53,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T00:03:31Z"
-  },
-  {
-    "id": "hn-49213985",
-    "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-    "url": "https://theclaudyssey.com/",
-    "points": 41,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T17:55:14Z"
-  },
-  {
-    "id": "hn-49215786",
-    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-    "points": 37,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T20:25:04Z"
-  },
-  {
-    "id": "hn-49207770",
-    "title": "Generative \"AI\": The Guitar Hero of Creativity",
-    "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-    "points": 34,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T09:07:36Z"
-  },
-  {
-    "id": "hn-49212928",
-    "title": "The AI Billboards Are Killing SF",
-    "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
-    "points": 32,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T16:32:16Z"
-  },
-  {
-    "id": "hn-49213016",
-    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-    "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-    "points": 22,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T16:38:57Z"
-  },
-  {
-    "id": "hn-49216075",
-    "title": "YouTube's AI Detection Kicked Us in the Face",
-    "url": "https://twitter.com/Kurz_Gesagt/status/2083191397981561232",
-    "points": 19,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T20:50:09Z"
-  },
-  {
-    "id": "hn-49212726",
-    "title": "U.S. Intel Finds Putin Could Test NATO's Resolve with Limited Incursion",
-    "url": "https://www.wsj.com/world/europe/u-s-intel-finds-putin-could-test-natos-resolve-with-limited-incursion-e3b02e2c",
-    "points": 19,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-07T16:16:53Z"
-  },
-  {
-    "id": "hn-49214994",
-    "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
-    "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-    "points": 19,
+    "id": "hn-49227718",
+    "title": "ChatGPT starts blocking direct requests to copy an author's style",
+    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "points": 40,
     "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-08-07T19:11:00Z"
+    "published_date": "2026-08-09T02:01:38Z"
   },
   {
-    "id": "hn-49207786",
-    "title": "Meta's Ray-Bans are getting banned from UK pubs, and the EU is circling",
-    "url": "https://thenextweb.com/news/meta-ray-ban-smart-glasses-eu-uk-venue-bans-privacy",
-    "points": 16,
-    "comments": 7,
+    "id": "hn-49227521",
+    "title": "The AI Apocalypse Is Here",
+    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+    "points": 39,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-08-07T09:09:34Z"
+    "published_date": "2026-08-09T01:28:36Z"
+  },
+  {
+    "id": "hn-49226827",
+    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
+    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+    "points": 29,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-08-08T23:19:44Z"
+  },
+  {
+    "id": "hn-49225764",
+    "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
+    "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+    "points": 23,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-08T20:47:57Z"
+  },
+  {
+    "id": "hn-49220827",
+    "title": "Auto Mode will be the default in Claude Code \u2013 because humans can't be trusted",
+    "url": "https://thenewstack.io/claude-code-auto-mode/",
+    "points": 18,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-08T11:35:06Z"
+  },
+  {
+    "id": "hn-49226444",
+    "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+    "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
+    "points": 17,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-08T22:22:24Z"
   }
 ]

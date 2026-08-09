@@ -1,67 +1,26 @@
 [
   {
-    "id": "gh-1320191889",
-    "name": "patchy631/time-to-first-token",
-    "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-    "url": "https://github.com/patchy631/time-to-first-token",
-    "stars": 343,
-    "language": "HTML",
-    "topics": [
-      "learning-resources",
-      "llm",
-      "llm-inference",
-      "mlops",
-      "roadmap",
-      "sglang",
-      "vllm"
-    ],
-    "created_at": "2026-08-02T13:02:26Z"
-  },
-  {
-    "id": "gh-1319927892",
-    "name": "alikon-art/DeterminFlow",
-    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
-    "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 256,
+    "id": "gh-1322640431",
+    "name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 205,
     "language": "Python",
     "topics": [
-      "agent-orchestration",
+      "ai",
       "ai-agents",
-      "ai-workflow",
-      "fastapi",
-      "llm",
-      "multi-agent",
-      "python",
-      "workflow-automation",
-      "workflow-engine",
-      "workflow-runtime"
+      "game",
+      "game-testing",
+      "python"
     ],
-    "created_at": "2026-08-02T07:40:51Z"
-  },
-  {
-    "id": "gh-1321050149",
-    "name": "Mr-funny/hbg-classical-poem-silk-video",
-    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
-    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stars": 187,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "chinese-poetry",
-      "codex",
-      "docker",
-      "ffmpeg",
-      "generative-ai",
-      "image-to-video"
-    ],
-    "created_at": "2026-08-03T01:04:46Z"
+    "created_at": "2026-08-04T07:20:22Z"
   },
   {
     "id": "gh-1322187842",
     "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 181,
+    "stars": 191,
     "language": "Python",
     "topics": [
       "ai",
@@ -76,20 +35,50 @@
     "created_at": "2026-08-03T19:56:28Z"
   },
   {
-    "id": "gh-1322640431",
-    "name": "waiterve/wai-play",
-    "description": "WAI Play - AI web game testing and quality evaluation platform",
-    "url": "https://github.com/waiterve/wai-play",
-    "stars": 168,
+    "id": "gh-1321050149",
+    "name": "Mr-funny/hbg-classical-poem-silk-video",
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+    "stars": 190,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "chinese-poetry",
+      "codex",
+      "docker",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video"
+    ],
+    "created_at": "2026-08-03T01:04:46Z"
+  },
+  {
+    "id": "gh-1327912711",
+    "name": "i3T4AN/KADATH",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "stars": 165,
     "language": "Python",
     "topics": [
+      "agent-evaluation-tools",
+      "agent-framework",
+      "agent-swarms",
+      "agentic-ai",
+      "agents",
       "ai",
       "ai-agents",
-      "game",
-      "game-testing",
-      "python"
+      "autonomous-agents",
+      "evolutionary-algorithms",
+      "generative-ai",
+      "genetic-algorithm",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "multi-agent",
+      "multi-agent-systems",
+      "self-evolving-agents"
     ],
-    "created_at": "2026-08-04T07:20:22Z"
+    "created_at": "2026-08-08T15:49:55Z"
   },
   {
     "id": "gh-1325322542",
@@ -101,7 +90,10 @@
     "topics": [
       "agent-skills",
       "agentic-workflow",
+      "ai",
+      "ai-agent",
       "ai-agents",
+      "ai-tools",
       "automation",
       "chatgpt",
       "claude",
@@ -113,34 +105,48 @@
     "created_at": "2026-08-06T14:07:02Z"
   },
   {
-    "id": "gh-1322098015",
-    "name": "Hermes-brasil/hermes-brasil",
-    "description": "Comunidade brasileira de Hermes Agent (Nous Research) \u2014 skills, guias e integra\u00e7\u00f5es em portugu\u00eas.",
-    "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 108,
-    "language": null,
+    "id": "gh-1327327043",
+    "name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 107,
+    "language": "C++",
     "topics": [
-      "agentes",
-      "agentskills",
       "ai",
-      "automacao",
-      "brasil",
-      "brazil",
-      "comunidade",
-      "hermes",
-      "hermes-agent",
-      "ia",
-      "portugues",
-      "skills"
+      "ble-hid",
+      "esp32-s3",
+      "m5stack",
+      "m5stack-stopwatch",
+      "platformio",
+      "vibe-coding"
     ],
-    "created_at": "2026-08-03T18:03:18Z"
+    "created_at": "2026-08-08T01:51:11Z"
+  },
+  {
+    "id": "gh-1323919094",
+    "name": "UditAkhourii/neuroarxiv",
+    "description": "A skill to kill from-scratch coding \u2014 Claude checks real arXiv prior art before it designs a new architecture.",
+    "url": "https://github.com/UditAkhourii/neuroarxiv",
+    "stars": 102,
+    "language": "TypeScript",
+    "topics": [
+      "arxiv",
+      "arxiv-api",
+      "llm",
+      "planning",
+      "reasoning",
+      "reasoning-language-models",
+      "reasoning-models",
+      "workflow"
+    ],
+    "created_at": "2026-08-05T10:26:26Z"
   },
   {
     "id": "gh-1321397116",
     "name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 93,
+    "stars": 95,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -155,149 +161,61 @@
     "created_at": "2026-08-03T07:36:22Z"
   },
   {
-    "id": "gh-1319827487",
-    "name": "openwarehq/websiteprompts",
-    "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
-    "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 73,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "ai-tools",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "cursor",
-      "frontend",
-      "generative-ai",
-      "landing-page",
-      "llm",
-      "prompt-engineering",
-      "prompts",
-      "react",
-      "tailwindcss",
-      "typescript",
-      "ui-design",
-      "v0",
-      "vibe-coding",
-      "web-design"
-    ],
-    "created_at": "2026-08-02T04:49:19Z"
-  },
-  {
-    "id": "gh-1319705178",
-    "name": "worldbench/awesome-agentic-world-model",
-    "description": "\ud83d\udd25 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents",
-    "url": "https://github.com/worldbench/awesome-agentic-world-model",
-    "stars": 33,
-    "language": "HTML",
+    "id": "gh-1325434588",
+    "name": "wanmol/goal-flow",
+    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+    "url": "https://github.com/wanmol/goal-flow",
+    "stars": 72,
+    "language": "Python",
     "topics": [
       "agent",
       "agentic",
       "agentic-ai",
-      "agentic-world-model",
-      "agents",
-      "aigc",
-      "closed-loop",
-      "closed-loop-control",
-      "closed-loop-experiments",
-      "closed-loop-simulation",
-      "generation",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "deepage",
+      "dify",
+      "dify2langgraph",
+      "harness",
+      "human-in-the-loop",
+      "langchain",
+      "langgraph",
+      "llm",
+      "llmops",
+      "mulit-agent",
+      "python"
+    ],
+    "created_at": "2026-08-06T15:43:24Z"
+  },
+  {
+    "id": "gh-1321878142",
+    "name": "astropuzzo/ComfyUI-MiniMax-H3-Image-Studio",
+    "description": "Experimental, entirely AI-coded ComfyUI nodes for MiniMax H3 T2I, I2I, reference editing, arbitrary frames, and optimized still selection.",
+    "url": "https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio",
+    "stars": 29,
+    "language": "Python",
+    "topics": [
+      "ai-assisted",
+      "comfyui",
+      "experimental",
       "generative-ai",
-      "image-generation",
-      "video-generation",
-      "world-model",
-      "world-modeling",
-      "world-models",
-      "world-models-rl"
+      "image-editing",
+      "image-to-image",
+      "minimax",
+      "minimax-h3",
+      "text-to-image"
     ],
-    "created_at": "2026-08-02T00:18:26Z"
-  },
-  {
-    "id": "gh-1320658226",
-    "name": "TimRots/kimi3",
-    "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
-    "url": "https://github.com/TimRots/kimi3",
-    "stars": 31,
-    "language": "Python",
-    "topics": [
-      "language-model",
-      "linear-attention",
-      "machine-learning",
-      "mixture-of-experts",
-      "pytorch",
-      "transformers"
-    ],
-    "created_at": "2026-08-02T20:16:08Z"
-  },
-  {
-    "id": "gh-1320472884",
-    "name": "sadekxD/cardstock-diorama-myth",
-    "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style \u2014 three-colour cardstock worlds, paper wipes, Unsora MCP + local ffmpeg, one assembled MP4.",
-    "url": "https://github.com/sadekxD/cardstock-diorama-myth",
-    "stars": 31,
-    "language": "Python",
-    "topics": [
-      "ai-video",
-      "animation",
-      "claude",
-      "claude-code",
-      "claude-skill",
-      "claude-skills",
-      "generative-ai",
-      "mcp",
-      "papercraft",
-      "storytelling",
-      "text-to-video",
-      "unsora",
-      "unsora-mcp",
-      "video-generation"
-    ],
-    "created_at": "2026-08-02T18:17:40Z"
-  },
-  {
-    "id": "gh-1320644063",
-    "name": "gauravxsuvo/Hueclid",
-    "description": "Hueclid turns any screenshot or photo into an accessible UI color palette. It creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast.",
-    "url": "https://github.com/gauravxsuvo/Hueclid",
-    "stars": 7,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "color-palette",
-      "k-means-clustering",
-      "machine-learning",
-      "neural-network"
-    ],
-    "created_at": "2026-08-02T20:09:40Z"
-  },
-  {
-    "id": "gh-1319760792",
-    "name": "EimanTahir027/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence",
-    "description": "Probability and statistics form the mathematical foundation of machine learning, helping quantify uncertainty in data and models. They support key tasks like inference, estimation, hypothesis testing, and Bayesian learning. Together, they enable more reliable predictions by turning randomness into measurable confidence.",
-    "url": "https://github.com/EimanTahir027/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence",
-    "stars": 6,
-    "language": "Python",
-    "topics": [
-      "machine-learning",
-      "machine-learning-algorithms",
-      "machinelearning-python",
-      "probabilistic-graphical-models",
-      "probabilistic-models",
-      "probability",
-      "statistical-analysis",
-      "statistical-models",
-      "statistics"
-    ],
-    "created_at": "2026-08-02T02:42:04Z"
+    "created_at": "2026-08-03T14:28:46Z"
   },
   {
     "id": "gh-1327212140",
     "name": "QianGroupPage/PARSEC.py",
     "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
     "url": "https://github.com/QianGroupPage/PARSEC.py",
-    "stars": 5,
+    "stars": 10,
     "language": "Python",
     "topics": [
       "charge-density",
@@ -312,5 +230,92 @@
       "real-space-dft"
     ],
     "created_at": "2026-08-07T22:24:35Z"
+  },
+  {
+    "id": "gh-1321895537",
+    "name": "Kreuzhofen/snapdragon-ai-studio",
+    "description": "Native AI image generation for Windows 11 ARM64 powered by Qualcomm Snapdragon, ONNX Runtime and the Phoenix Engine.",
+    "url": "https://github.com/Kreuzhofen/snapdragon-ai-studio",
+    "stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "generative-ai",
+      "image-generation",
+      "local-ai",
+      "npu",
+      "onnx",
+      "onnx-runtime",
+      "qnn",
+      "qualcomm",
+      "sdxl",
+      "snapdragon",
+      "stable-diffusion",
+      "windows-arm64"
+    ],
+    "created_at": "2026-08-03T14:45:00Z"
+  },
+  {
+    "id": "gh-1325336965",
+    "name": "Joaopdiasventura/EigenForge",
+    "description": "Linear algebra and machine learning from scratch in Go, with core algorithms implemented directly to make the mathematics visible.",
+    "url": "https://github.com/Joaopdiasventura/EigenForge",
+    "stars": 5,
+    "language": "Go",
+    "topics": [
+      "golang",
+      "linear-algebra",
+      "machine-learning"
+    ],
+    "created_at": "2026-08-06T14:19:34Z"
+  },
+  {
+    "id": "gh-1324892623",
+    "name": "nanofatdog/train-studio",
+    "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
+    "url": "https://github.com/nanofatdog/train-studio",
+    "stars": 5,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "fine-tuning",
+      "gguf",
+      "gpu",
+      "gradio",
+      "huggingface",
+      "llm",
+      "llm-finetuning",
+      "lora",
+      "machine-learning",
+      "sft",
+      "sft-training",
+      "training",
+      "web-ui"
+    ],
+    "created_at": "2026-08-06T07:31:34Z"
+  },
+  {
+    "id": "gh-1321835093",
+    "name": "Scanvidence/Scanvidence",
+    "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.\ud83e\udde0\ud83d\udd2c",
+    "url": "https://github.com/Scanvidence/Scanvidence",
+    "stars": 4,
+    "language": "Python",
+    "topics": [
+      "alzheimers-disease",
+      "brain-tumor",
+      "deep-learning",
+      "explainable-ai",
+      "machine-learning",
+      "medical-imaging",
+      "mri",
+      "quantum-computing",
+      "radiomics",
+      "uncertainty-aware",
+      "uncertainty-estimation",
+      "vision-transformer",
+      "xai"
+    ],
+    "created_at": "2026-08-03T13:48:04Z"
   }
 ]
