@@ -4,7 +4,7 @@
     "name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 205,
+    "stars": 251,
     "language": "Python",
     "topics": [
       "ai",
@@ -16,48 +16,32 @@
     "created_at": "2026-08-04T07:20:22Z"
   },
   {
-    "id": "gh-1322187842",
-    "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "description": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
-    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 191,
-    "language": "Python",
+    "id": "gh-1326963742",
+    "name": "antinomie-lab/pi-book",
+    "description": "Source-backed architecture notes on building an agent",
+    "url": "https://github.com/antinomie-lab/pi-book",
+    "stars": 205,
+    "language": "Vue",
     "topics": [
-      "ai",
-      "lgplv3",
-      "minimax",
-      "minimax-h3",
-      "pytroch",
-      "video",
-      "video-generation",
-      "video-generator"
+      "agent-loop",
+      "ai-agent",
+      "book",
+      "chinese",
+      "code-reading",
+      "llm",
+      "pi-agent",
+      "pi-agent-core",
+      "software-architecture",
+      "typescript"
     ],
-    "created_at": "2026-08-03T19:56:28Z"
-  },
-  {
-    "id": "gh-1321050149",
-    "name": "Mr-funny/hbg-classical-poem-silk-video",
-    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
-    "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-    "stars": 190,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "chinese-poetry",
-      "codex",
-      "docker",
-      "ffmpeg",
-      "generative-ai",
-      "image-to-video"
-    ],
-    "created_at": "2026-08-03T01:04:46Z"
+    "created_at": "2026-08-07T17:14:43Z"
   },
   {
     "id": "gh-1327912711",
     "name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 165,
+    "stars": 169,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -81,11 +65,51 @@
     "created_at": "2026-08-08T15:49:55Z"
   },
   {
+    "id": "gh-1328769721",
+    "name": "SaladDay/pi-from-scratch",
+    "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
+    "url": "https://github.com/SaladDay/pi-from-scratch",
+    "stars": 150,
+    "language": "TypeScript",
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "coding-agent",
+      "llm",
+      "llm-agent",
+      "pi",
+      "pi-agent",
+      "tool-calling",
+      "typescript",
+      "typescript-tutorial"
+    ],
+    "created_at": "2026-08-09T12:15:30Z"
+  },
+  {
+    "id": "gh-1323919094",
+    "name": "UditAkhourii/neuroarxiv",
+    "description": "A skill to kill from-scratch coding \u2014 Claude checks real arXiv prior art before it designs a new architecture.",
+    "url": "https://github.com/UditAkhourii/neuroarxiv",
+    "stars": 136,
+    "language": "TypeScript",
+    "topics": [
+      "arxiv",
+      "arxiv-api",
+      "llm",
+      "planning",
+      "reasoning",
+      "reasoning-language-models",
+      "reasoning-models",
+      "workflow"
+    ],
+    "created_at": "2026-08-05T10:26:26Z"
+  },
+  {
     "id": "gh-1325322542",
     "name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 146,
+    "stars": 134,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -109,7 +133,7 @@
     "name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 107,
+    "stars": 115,
     "language": "C++",
     "topics": [
       "ai",
@@ -123,99 +147,53 @@
     "created_at": "2026-08-08T01:51:11Z"
   },
   {
-    "id": "gh-1323919094",
-    "name": "UditAkhourii/neuroarxiv",
-    "description": "A skill to kill from-scratch coding \u2014 Claude checks real arXiv prior art before it designs a new architecture.",
-    "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 102,
-    "language": "TypeScript",
+    "id": "gh-1329279646",
+    "name": "kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+    "description": "The bot detects a large swap in the mempool \u2192 buys earlier with priority gas \u2192 price rises \u2192 the user pays more \u2192 the bot sells and locks in 0.6\u20132.8% per cycle.",
+    "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+    "stars": 86,
+    "language": "Solidity",
     "topics": [
-      "arxiv",
-      "arxiv-api",
-      "llm",
-      "planning",
-      "reasoning",
-      "reasoning-language-models",
-      "reasoning-models",
-      "workflow"
+      "ai",
+      "binance",
+      "bitcoin",
+      "bot",
+      "btc",
+      "claude",
+      "deepseek",
+      "eth",
+      "gpt",
+      "uniswap"
     ],
-    "created_at": "2026-08-05T10:26:26Z"
+    "created_at": "2026-08-09T23:57:14Z"
   },
   {
-    "id": "gh-1321397116",
-    "name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 95,
+    "id": "gh-1324744292",
+    "name": "antonio-gaskin/avocado-price-prediction",
+    "description": "Avocado price forecasting using Facebook Prophet on retail avocado sales data, with analysis, visualization, and 2019 price prediction.",
+    "url": "https://github.com/antonio-gaskin/avocado-price-prediction",
+    "stars": 12,
     "language": "Jupyter Notebook",
     "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-agents"
+      "avocado",
+      "data-science",
+      "data-visualization",
+      "fbprophet",
+      "forecasting",
+      "machine-learning",
+      "prophet",
+      "python",
+      "retail-analytics",
+      "time-series"
     ],
-    "created_at": "2026-08-03T07:36:22Z"
-  },
-  {
-    "id": "gh-1325434588",
-    "name": "wanmol/goal-flow",
-    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
-    "url": "https://github.com/wanmol/goal-flow",
-    "stars": 72,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "agentic-engineering",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "ai-agent",
-      "deepage",
-      "dify",
-      "dify2langgraph",
-      "harness",
-      "human-in-the-loop",
-      "langchain",
-      "langgraph",
-      "llm",
-      "llmops",
-      "mulit-agent",
-      "python"
-    ],
-    "created_at": "2026-08-06T15:43:24Z"
-  },
-  {
-    "id": "gh-1321878142",
-    "name": "astropuzzo/ComfyUI-MiniMax-H3-Image-Studio",
-    "description": "Experimental, entirely AI-coded ComfyUI nodes for MiniMax H3 T2I, I2I, reference editing, arbitrary frames, and optimized still selection.",
-    "url": "https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio",
-    "stars": 29,
-    "language": "Python",
-    "topics": [
-      "ai-assisted",
-      "comfyui",
-      "experimental",
-      "generative-ai",
-      "image-editing",
-      "image-to-image",
-      "minimax",
-      "minimax-h3",
-      "text-to-image"
-    ],
-    "created_at": "2026-08-03T14:28:46Z"
+    "created_at": "2026-08-06T04:43:31Z"
   },
   {
     "id": "gh-1327212140",
     "name": "QianGroupPage/PARSEC.py",
     "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
     "url": "https://github.com/QianGroupPage/PARSEC.py",
-    "stars": 10,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "charge-density",
@@ -232,90 +210,101 @@
     "created_at": "2026-08-07T22:24:35Z"
   },
   {
-    "id": "gh-1321895537",
-    "name": "Kreuzhofen/snapdragon-ai-studio",
-    "description": "Native AI image generation for Windows 11 ARM64 powered by Qualcomm Snapdragon, ONNX Runtime and the Phoenix Engine.",
-    "url": "https://github.com/Kreuzhofen/snapdragon-ai-studio",
-    "stars": 6,
+    "id": "gh-1324741372",
+    "name": "antonio-gaskin/airbnb-price-prediction",
+    "description": "Airbnb price prediction for Berlin using an end-to-end ML pipeline with data cleaning, scikit-learn model training, and a FastAPI prediction service packaged for Docker.",
+    "url": "https://github.com/antonio-gaskin/airbnb-price-prediction",
+    "stars": 11,
     "language": "Python",
+    "topics": [
+      "airbnb",
+      "data-cleaning",
+      "data-science",
+      "docker",
+      "fastapi",
+      "machine-learning",
+      "mlops",
+      "price-prediction",
+      "regression",
+      "scikit-learn"
+    ],
+    "created_at": "2026-08-06T04:38:51Z"
+  },
+  {
+    "id": "gh-1325219090",
+    "name": "antonio-gaskin/mobile-price-prediction",
+    "description": "A mobile price prediction project using the Mobile Price Classification dataset to train and evaluate machine learning models for classifying smartphone prices.",
+    "url": "https://github.com/antonio-gaskin/mobile-price-prediction",
+    "stars": 9,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai",
+      "classification",
+      "data-science",
+      "exploratory-data-analysis",
+      "kaggle",
+      "machine-learning",
+      "mobile-price-prediction",
+      "python",
+      "smartphone",
+      "supervised-learning"
+    ],
+    "created_at": "2026-08-06T12:36:22Z"
+  },
+  {
+    "id": "gh-1326274350",
+    "name": "antonio-gaskin/Selection-and-Improvement-of-Supervised-Learning-Models-using-Scikit-learn",
+    "description": "A Scikit-learn project for selecting, tuning, and evaluating supervised learning models on CharityML donor data.",
+    "url": "https://github.com/antonio-gaskin/Selection-and-Improvement-of-Supervised-Learning-Models-using-Scikit-learn",
+    "stars": 9,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "charityml",
+      "classification",
+      "data-analysis",
+      "donor-prediction",
+      "hyperparameter-tuning",
+      "machine-learning",
+      "model-selection",
+      "python",
+      "scikit-learn",
+      "supervised-learning"
+    ],
+    "created_at": "2026-08-07T06:02:12Z"
+  },
+  {
+    "id": "gh-1323419458",
+    "name": "appautomaton/mlx-h3",
+    "description": "Pure MLX MiniMax-H3 text-to-video-and-audio inference for Apple Silicon.",
+    "url": "https://github.com/appautomaton/mlx-h3",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "audio-generation",
       "generative-ai",
-      "image-generation",
-      "local-ai",
-      "npu",
-      "onnx",
-      "onnx-runtime",
-      "qnn",
-      "qualcomm",
-      "sdxl",
-      "snapdragon",
-      "stable-diffusion",
-      "windows-arm64"
+      "macos",
+      "minimax-h3",
+      "mlx",
+      "text-to-video",
+      "video-generation"
     ],
-    "created_at": "2026-08-03T14:45:00Z"
+    "created_at": "2026-08-04T22:15:04Z"
   },
   {
-    "id": "gh-1325336965",
-    "name": "Joaopdiasventura/EigenForge",
-    "description": "Linear algebra and machine learning from scratch in Go, with core algorithms implemented directly to make the mathematics visible.",
-    "url": "https://github.com/Joaopdiasventura/EigenForge",
-    "stars": 5,
-    "language": "Go",
-    "topics": [
-      "golang",
-      "linear-algebra",
-      "machine-learning"
-    ],
-    "created_at": "2026-08-06T14:19:34Z"
-  },
-  {
-    "id": "gh-1324892623",
-    "name": "nanofatdog/train-studio",
-    "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
-    "url": "https://github.com/nanofatdog/train-studio",
+    "id": "gh-1328830359",
+    "name": "Hao0321/ai-short-drama",
+    "description": "AI short-drama story architecture, series continuity, production packs and resumable generation workflows for Codex and Claude Code.",
+    "url": "https://github.com/Hao0321/ai-short-drama",
     "stars": 5,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "fine-tuning",
-      "gguf",
-      "gpu",
-      "gradio",
-      "huggingface",
-      "llm",
-      "llm-finetuning",
-      "lora",
-      "machine-learning",
-      "sft",
-      "sft-training",
-      "training",
-      "web-ui"
+      "ai-short-drama",
+      "codex-skills",
+      "generative-ai",
+      "prompt-engineering",
+      "storytelling"
     ],
-    "created_at": "2026-08-06T07:31:34Z"
-  },
-  {
-    "id": "gh-1321835093",
-    "name": "Scanvidence/Scanvidence",
-    "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.\ud83e\udde0\ud83d\udd2c",
-    "url": "https://github.com/Scanvidence/Scanvidence",
-    "stars": 4,
-    "language": "Python",
-    "topics": [
-      "alzheimers-disease",
-      "brain-tumor",
-      "deep-learning",
-      "explainable-ai",
-      "machine-learning",
-      "medical-imaging",
-      "mri",
-      "quantum-computing",
-      "radiomics",
-      "uncertainty-aware",
-      "uncertainty-estimation",
-      "vision-transformer",
-      "xai"
-    ],
-    "created_at": "2026-08-03T13:48:04Z"
+    "created_at": "2026-08-09T13:28:48Z"
   }
 ]

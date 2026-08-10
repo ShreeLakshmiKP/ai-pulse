@@ -1,146 +1,182 @@
 [
   {
-    "id": "hn-49220126",
-    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "points": 409,
-    "comments": 123,
+    "id": "hn-49234675",
+    "title": "How I use LLMs to learn complex topics",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "points": 588,
+    "comments": 335,
     "source": "Hacker News",
-    "published_date": "2026-08-08T09:18:50Z"
+    "published_date": "2026-08-09T19:16:49Z"
   },
   {
-    "id": "hn-49219508",
-    "title": "Hardware backdoors in some x86 CPUs",
-    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-    "points": 357,
-    "comments": 100,
+    "id": "hn-49239021",
+    "title": "Auto mode is now the default in Claude Code",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "points": 151,
+    "comments": 127,
     "source": "Hacker News",
-    "published_date": "2026-08-08T07:04:51Z"
+    "published_date": "2026-08-10T03:50:00Z"
   },
   {
-    "id": "hn-49223079",
-    "title": "Can Intel finally beat ARM on performance per Watt?",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "points": 184,
-    "comments": 143,
+    "id": "hn-49230514",
+    "title": "Reviving a four year old reMarkable 2",
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "points": 140,
+    "comments": 95,
     "source": "Hacker News",
-    "published_date": "2026-08-08T16:04:36Z"
+    "published_date": "2026-08-09T11:39:25Z"
   },
   {
-    "id": "hn-49223475",
-    "title": "LinkedIn Feed Blocker",
-    "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-    "points": 172,
-    "comments": 99,
+    "id": "hn-49230891",
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "points": 113,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-08-08T16:49:07Z"
+    "published_date": "2026-08-09T12:43:16Z"
   },
   {
-    "id": "hn-49221711",
-    "title": "Triton: DirectX 11 Driver for QEMU",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "points": 163,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T13:33:06Z"
-  },
-  {
-    "id": "hn-49221864",
-    "title": "Gentoo bugzilla closed due AI bot scraper overload",
-    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-    "points": 159,
-    "comments": 106,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T13:55:42Z"
-  },
-  {
-    "id": "hn-49221220",
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "id": "hn-49235011",
+    "title": "The tragedy of the commons, AI edition",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
     "points": 110,
-    "comments": 93,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-08-08T12:31:11Z"
+    "published_date": "2026-08-09T19:43:52Z"
   },
   {
-    "id": "hn-49222824",
-    "title": "Message your other Claude Code sessions",
-    "url": "https://code.claude.com/docs/en/cross-session-messaging",
-    "points": 105,
-    "comments": 44,
+    "id": "hn-49229412",
+    "title": "SAP stops most travel and hiring because of AI's soaring cost",
+    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+    "points": 97,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-08-08T15:34:49Z"
+    "published_date": "2026-08-09T08:00:51Z"
   },
   {
-    "id": "hn-49221679",
-    "title": "Voyager 1 FDS Computer Emulator",
-    "url": "https://zaneham.github.io/voyager-fds-emulator/",
-    "points": 81,
+    "id": "hn-49230022",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "points": 94,
+    "comments": 75,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T10:06:37Z"
+  },
+  {
+    "id": "hn-49230605",
+    "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "points": 72,
+    "comments": 92,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T11:56:16Z"
+  },
+  {
+    "id": "hn-49230424",
+    "title": "Switching to electric stoves can dramatically cut indoor air pollution (2025)",
+    "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+    "points": 64,
+    "comments": 107,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T11:19:31Z"
+  },
+  {
+    "id": "hn-49236439",
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "points": 62,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T21:52:23Z"
+  },
+  {
+    "id": "hn-49239751",
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "points": 61,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T06:02:38Z"
+  },
+  {
+    "id": "hn-49235242",
+    "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+    "url": "https://github.com/yegors/deGDID",
+    "points": 61,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T20:06:51Z"
+  },
+  {
+    "id": "hn-49232778",
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "points": 60,
+    "comments": 68,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T16:18:39Z"
+  },
+  {
+    "id": "hn-49230954",
+    "title": "Amazon circumvents Gilroy community vote for AI data center",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+    "points": 60,
+    "comments": 66,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T12:52:10Z"
+  },
+  {
+    "id": "hn-49238851",
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "url": "https://www.whodunnitai.com/",
+    "points": 53,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T03:18:40Z"
+  },
+  {
+    "id": "hn-49231022",
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "points": 51,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-08-09T13:03:49Z"
+  },
+  {
+    "id": "hn-49232300",
+    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "points": 51,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-08T13:28:38Z"
+    "published_date": "2026-08-09T15:25:29Z"
   },
   {
-    "id": "hn-49220378",
-    "title": "Making an AI bid writer refuse to lie",
-    "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
-    "points": 50,
-    "comments": 0,
+    "id": "hn-49232942",
+    "title": "Banksy works cost public almost \u00a3150k",
+    "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
+    "points": 24,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-08-08T10:13:31Z"
+    "published_date": "2026-08-09T16:33:05Z"
   },
   {
-    "id": "hn-49227718",
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "points": 40,
-    "comments": 22,
+    "id": "hn-49232548",
+    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "url": "https://unyolo.io/",
+    "points": 18,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-08-09T02:01:38Z"
+    "published_date": "2026-08-09T15:53:03Z"
   },
   {
-    "id": "hn-49227521",
-    "title": "The AI Apocalypse Is Here",
-    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-    "points": 39,
-    "comments": 33,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T01:28:36Z"
-  },
-  {
-    "id": "hn-49226827",
-    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-    "points": 29,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T23:19:44Z"
-  },
-  {
-    "id": "hn-49225764",
-    "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
-    "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-    "points": 23,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T20:47:57Z"
-  },
-  {
-    "id": "hn-49220827",
-    "title": "Auto Mode will be the default in Claude Code \u2013 because humans can't be trusted",
-    "url": "https://thenewstack.io/claude-code-auto-mode/",
+    "id": "hn-49238028",
+    "title": "Blender MCP maintainer GitHub account hacked",
+    "url": "https://twitter.com/sidahuj/status/2086445625147793503",
     "points": 18,
     "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-08-08T11:35:06Z"
-  },
-  {
-    "id": "hn-49226444",
-    "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-    "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
-    "points": 17,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-08-08T22:22:24Z"
+    "published_date": "2026-08-10T00:58:29Z"
   }
 ]
