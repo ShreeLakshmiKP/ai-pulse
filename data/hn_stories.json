@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49234675",
-    "title": "How I use LLMs to learn complex topics",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "points": 588,
-    "comments": 335,
+    "id": "hn-49243880",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "points": 469,
+    "comments": 433,
     "source": "Hacker News",
-    "published_date": "2026-08-09T19:16:49Z"
+    "published_date": "2026-08-10T14:06:22Z"
   },
   {
-    "id": "hn-49239021",
-    "title": "Auto mode is now the default in Claude Code",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "points": 151,
-    "comments": 127,
+    "id": "hn-49246804",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "url": "https://cactuscompute.com/needle",
+    "points": 282,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-08-10T03:50:00Z"
+    "published_date": "2026-08-10T17:22:07Z"
   },
   {
-    "id": "hn-49230514",
-    "title": "Reviving a four year old reMarkable 2",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "points": 140,
-    "comments": 95,
+    "id": "hn-49243474",
+    "title": "Humanising LLM Outputs Is Dumb",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "points": 191,
+    "comments": 123,
     "source": "Hacker News",
-    "published_date": "2026-08-09T11:39:25Z"
+    "published_date": "2026-08-10T13:35:40Z"
   },
   {
-    "id": "hn-49230891",
-    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-    "points": 113,
+    "id": "hn-49247070",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "points": 180,
+    "comments": 122,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T17:41:13Z"
+  },
+  {
+    "id": "hn-49247477",
+    "title": "Rust SIMD on the GPU",
+    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "points": 167,
+    "comments": 79,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T18:12:49Z"
+  },
+  {
+    "id": "hn-49244569",
+    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "points": 149,
+    "comments": 162,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T14:56:32Z"
+  },
+  {
+    "id": "hn-49244085",
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "points": 139,
+    "comments": 19,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T14:20:41Z"
+  },
+  {
+    "id": "hn-49244308",
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "points": 106,
+    "comments": 194,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T14:38:20Z"
+  },
+  {
+    "id": "hn-49246704",
+    "title": "GPT 5.6 Cyber",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "points": 104,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T17:14:00Z"
+  },
+  {
+    "id": "hn-49250109",
+    "title": "How Claude marks AI-generated content",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "points": 103,
+    "comments": 85,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T21:36:56Z"
+  },
+  {
+    "id": "hn-49246057",
+    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "url": "https://www.stoaexchange.com",
+    "points": 75,
+    "comments": 47,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T16:35:27Z"
+  },
+  {
+    "id": "hn-49241559",
+    "title": "Tech leaders say AI means less work \u2013 staff say they work up to 90 hours a week",
+    "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+    "points": 71,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-08-10T09:53:37Z"
+  },
+  {
+    "id": "hn-49242475",
+    "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+    "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+    "points": 49,
     "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-08-09T12:43:16Z"
+    "published_date": "2026-08-10T11:52:07Z"
   },
   {
-    "id": "hn-49235011",
-    "title": "The tragedy of the commons, AI edition",
-    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "points": 110,
-    "comments": 62,
+    "id": "hn-49247362",
+    "title": "Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%",
+    "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
+    "points": 49,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-09T19:43:52Z"
+    "published_date": "2026-08-10T18:04:17Z"
   },
   {
-    "id": "hn-49229412",
-    "title": "SAP stops most travel and hiring because of AI's soaring cost",
-    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-    "points": 97,
-    "comments": 69,
+    "id": "hn-49243485",
+    "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
+    "url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
+    "points": 44,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-08-09T08:00:51Z"
+    "published_date": "2026-08-10T13:36:47Z"
   },
   {
-    "id": "hn-49230022",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "points": 94,
-    "comments": 75,
+    "id": "hn-49241728",
+    "title": "The Future Is for Everyone \u2013 The Path to a Positive AI Future",
+    "url": "https://www.meta.com/thefutureisforeveryone/",
+    "points": 43,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-08-09T10:06:37Z"
+    "published_date": "2026-08-10T10:15:55Z"
   },
   {
-    "id": "hn-49230605",
-    "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-    "points": 72,
-    "comments": 92,
+    "id": "hn-49242038",
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "url": "https://twitter.com/finkd/status/2086754845218726027",
+    "points": 40,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-08-09T11:56:16Z"
+    "published_date": "2026-08-10T10:55:03Z"
   },
   {
-    "id": "hn-49230424",
-    "title": "Switching to electric stoves can dramatically cut indoor air pollution (2025)",
-    "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
-    "points": 64,
-    "comments": 107,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T11:19:31Z"
-  },
-  {
-    "id": "hn-49236439",
-    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-    "points": 62,
-    "comments": 51,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T21:52:23Z"
-  },
-  {
-    "id": "hn-49239751",
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "points": 61,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-08-10T06:02:38Z"
-  },
-  {
-    "id": "hn-49235242",
-    "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-    "url": "https://github.com/yegors/deGDID",
-    "points": 61,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T20:06:51Z"
-  },
-  {
-    "id": "hn-49232778",
-    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-    "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-    "points": 60,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T16:18:39Z"
-  },
-  {
-    "id": "hn-49230954",
-    "title": "Amazon circumvents Gilroy community vote for AI data center",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-    "points": 60,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T12:52:10Z"
-  },
-  {
-    "id": "hn-49238851",
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "url": "https://www.whodunnitai.com/",
-    "points": 53,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-08-10T03:18:40Z"
-  },
-  {
-    "id": "hn-49231022",
-    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-    "points": 51,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-08-09T13:03:49Z"
-  },
-  {
-    "id": "hn-49232300",
-    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
-    "url": "https://github.com/eighttrigrams/us-vs-them",
-    "points": 51,
+    "id": "hn-49243628",
+    "title": "AI's profits are 'being funded by investors rather than earned from customers",
+    "url": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
+    "points": 35,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-09T15:25:29Z"
+    "published_date": "2026-08-10T13:49:06Z"
   },
   {
-    "id": "hn-49232942",
-    "title": "Banksy works cost public almost \u00a3150k",
-    "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
-    "points": 24,
-    "comments": 72,
+    "id": "hn-49245275",
+    "title": "We Got Better at Keeping You Alive. Not at Keeping You Healthy",
+    "url": "https://julienreszka.com/blog/we-got-better-at-keeping-you-alive-not-at-keeping-healthy/",
+    "points": 35,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-09T16:33:05Z"
+    "published_date": "2026-08-10T15:50:45Z"
   },
   {
-    "id": "hn-49232548",
-    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-    "url": "https://unyolo.io/",
-    "points": 18,
-    "comments": 5,
+    "id": "hn-49253250",
+    "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+    "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
+    "points": 30,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-08-09T15:53:03Z"
-  },
-  {
-    "id": "hn-49238028",
-    "title": "Blender MCP maintainer GitHub account hacked",
-    "url": "https://twitter.com/sidahuj/status/2086445625147793503",
-    "points": 18,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-10T00:58:29Z"
+    "published_date": "2026-08-11T04:04:36Z"
   }
 ]
