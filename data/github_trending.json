@@ -1,50 +1,25 @@
 [
   {
-    "id": "gh-1323919094",
-    "name": "UditAkhourii/neuroarxiv",
-    "description": "A skill to kill from-scratch coding \u2014 Claude checks real arXiv prior art before it designs a new architecture.",
-    "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 264,
-    "language": "TypeScript",
+    "id": "gh-1327214801",
+    "name": "ShawnPana/phone-harness",
+    "description": "let your agent control your phone",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "stars": 1552,
+    "language": "Python",
     "topics": [
-      "arxiv",
-      "arxiv-api",
-      "llm",
-      "planning",
-      "reasoning",
-      "reasoning-language-models",
-      "reasoning-models",
-      "workflow"
+      "agent",
+      "ai",
+      "automation",
+      "developer-tools"
     ],
-    "created_at": "2026-08-05T10:26:26Z"
-  },
-  {
-    "id": "gh-1326963742",
-    "name": "antinomie-lab/pi-book",
-    "description": "Source-backed architecture notes on building an agent",
-    "url": "https://github.com/antinomie-lab/pi-book",
-    "stars": 240,
-    "language": "Vue",
-    "topics": [
-      "agent-loop",
-      "ai-agent",
-      "book",
-      "chinese",
-      "code-reading",
-      "llm",
-      "pi-agent",
-      "pi-agent-core",
-      "software-architecture",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T17:14:43Z"
+    "created_at": "2026-08-07T22:28:53Z"
   },
   {
     "id": "gh-1328769721",
     "name": "SaladDay/pi-from-scratch",
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
     "url": "https://github.com/SaladDay/pi-from-scratch",
-    "stars": 237,
+    "stars": 631,
     "language": "TypeScript",
     "topics": [
       "agent-loop",
@@ -61,11 +36,61 @@
     "created_at": "2026-08-09T12:15:30Z"
   },
   {
+    "id": "gh-1326963742",
+    "name": "antinomie-lab/pi-book",
+    "description": "Source-backed architecture notes on building an agent",
+    "url": "https://github.com/antinomie-lab/pi-book",
+    "stars": 260,
+    "language": "Vue",
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "book",
+      "chinese",
+      "code-reading",
+      "llm",
+      "pi-agent",
+      "pi-agent-core",
+      "software-architecture",
+      "typescript"
+    ],
+    "created_at": "2026-08-07T17:14:43Z"
+  },
+  {
+    "id": "gh-1325322542",
+    "name": "oliverb-io1902e8/agent-skills-collection",
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stars": 204,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-model",
+      "ai-tools",
+      "automation",
+      "chatgpt",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "python"
+    ],
+    "created_at": "2026-08-06T14:07:02Z"
+  },
+  {
     "id": "gh-1327912711",
     "name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 175,
+    "stars": 190,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -89,38 +114,11 @@
     "created_at": "2026-08-08T15:49:55Z"
   },
   {
-    "id": "gh-1325322542",
-    "name": "oliverb-io1902e8/agent-skills-collection",
-    "description": "Curated collection of modular agent skills for LLM-based agents",
-    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 134,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "agentic-workflow",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "automation",
-      "chatgpt",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "developer-tools",
-      "llm",
-      "open-source",
-      "python"
-    ],
-    "created_at": "2026-08-06T14:07:02Z"
-  },
-  {
     "id": "gh-1328389467",
     "name": "swping999/scene-card-studio",
     "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
     "url": "https://github.com/swping999/scene-card-studio",
-    "stars": 127,
+    "stars": 148,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -137,7 +135,7 @@
     "name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 117,
+    "stars": 123,
     "language": "C++",
     "topics": [
       "ai",
@@ -151,11 +149,29 @@
     "created_at": "2026-08-08T01:51:11Z"
   },
   {
+    "id": "gh-1326915228",
+    "name": "jundizhou/easy-stock",
+    "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53--\u57fa\u4e8e\u5927\u6a21\u578b",
+    "url": "https://github.com/jundizhou/easy-stock",
+    "stars": 112,
+    "language": "Go",
+    "topics": [
+      "a-share",
+      "ai-agent",
+      "china-stock",
+      "llm",
+      "stock",
+      "stock-analysis",
+      "trade"
+    ],
+    "created_at": "2026-08-07T16:25:36Z"
+  },
+  {
     "id": "gh-1327360831",
     "name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 99,
+    "stars": 102,
     "language": "TypeScript",
     "topics": [
       "accessibility",
@@ -170,30 +186,11 @@
     "created_at": "2026-08-08T02:50:22Z"
   },
   {
-    "id": "gh-1329688801",
-    "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-    "description": "I\u2019ve just created my own bot and I\u2019m excited to share my work with you!",
-    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-    "stars": 83,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "bot",
-      "code",
-      "evm",
-      "html",
-      "index",
-      "js",
-      "trand"
-    ],
-    "created_at": "2026-08-10T10:16:41Z"
-  },
-  {
     "id": "gh-1328830359",
     "name": "Hao0321/ai-short-drama",
     "description": "AI short-drama story architecture, series continuity, production packs and resumable generation workflows for Codex and Claude Code.",
     "url": "https://github.com/Hao0321/ai-short-drama",
-    "stars": 38,
+    "stars": 42,
     "language": "Python",
     "topics": [
       "ai-short-drama",
@@ -203,6 +200,50 @@
       "storytelling"
     ],
     "created_at": "2026-08-09T13:28:48Z"
+  },
+  {
+    "id": "gh-1330347036",
+    "name": "0toshigami/orbis-pictus",
+    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
+    "url": "https://github.com/0toshigami/orbis-pictus",
+    "stars": 25,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "creative",
+      "creative-coding",
+      "generative-ai",
+      "image-generation",
+      "llm",
+      "text-to-image"
+    ],
+    "created_at": "2026-08-11T00:16:54Z"
+  },
+  {
+    "id": "gh-1329719848",
+    "name": "DiegoBermud65/polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
+    "description": "Polymarket AI model trading bot for BTC Up/Down 5m 15m 1h prediction markets. Dual LightGBM Sentinel + Pulse architecture with CLOB execution, edge detection, Kelly sizing, paper & live modes.",
+    "url": "https://github.com/DiegoBermud65/polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
+    "stars": 16,
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "automated-trading",
+      "btc-trading-bot",
+      "crypto-prediction-markets",
+      "lightgbm",
+      "machine-learning",
+      "open-source-trading-bot",
+      "polymarket-ai-trading-bot",
+      "polymarket-api",
+      "polymarket-bot",
+      "polymarket-clob-bot",
+      "polymarket-python",
+      "polymarket-trading-bot",
+      "prediction-markets",
+      "python-trading-bot"
+    ],
+    "created_at": "2026-08-10T10:53:40Z"
   },
   {
     "id": "gh-1327212140",
@@ -247,24 +288,6 @@
     "created_at": "2026-08-06T04:43:31Z"
   },
   {
-    "id": "gh-1330347036",
-    "name": "0toshigami/orbis-pictus",
-    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
-    "url": "https://github.com/0toshigami/orbis-pictus",
-    "stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "creative",
-      "creative-coding",
-      "generative-ai",
-      "image-generation",
-      "llm",
-      "text-to-image"
-    ],
-    "created_at": "2026-08-11T00:16:54Z"
-  },
-  {
     "id": "gh-1324741372",
     "name": "antonio-gaskin/airbnb-price-prediction",
     "description": "Airbnb price prediction for Berlin using an end-to-end ML pipeline with data cleaning, scikit-learn model training, and a FastAPI prediction service packaged for Docker.",
@@ -284,26 +307,5 @@
       "scikit-learn"
     ],
     "created_at": "2026-08-06T04:38:51Z"
-  },
-  {
-    "id": "gh-1325219090",
-    "name": "antonio-gaskin/mobile-price-prediction",
-    "description": "A mobile price prediction project using the Mobile Price Classification dataset to train and evaluate machine learning models for classifying smartphone prices.",
-    "url": "https://github.com/antonio-gaskin/mobile-price-prediction",
-    "stars": 9,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "classification",
-      "data-science",
-      "exploratory-data-analysis",
-      "kaggle",
-      "machine-learning",
-      "mobile-price-prediction",
-      "python",
-      "smartphone",
-      "supervised-learning"
-    ],
-    "created_at": "2026-08-06T12:36:22Z"
   }
 ]
