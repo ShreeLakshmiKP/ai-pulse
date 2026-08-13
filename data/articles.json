@@ -2370,6 +2370,209 @@
     "image": null
   },
   {
+    "id": "rss-79ba0d5b",
+    "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "tags": [
+      "Claude",
+      "Anthropic"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 12 Aug 2026 22:26:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0e1a9761",
+    "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 12 Aug 2026 20:10:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0b5cc6d9",
+    "title": "Scientists just created female clones of male mice",
+    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; \u201cNo one has done this before,\u201d says Monika Ward, a reproductive biologist...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 12 Aug 2026 18:59:48 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-fedb51cc",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 12 Aug 2026 18:19:12 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b77f0ff8",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "tags": [
+      "regulation",
+      "safety"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2fd40c91",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "tags": [
+      "funding",
+      "OpenAI"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 12 Aug 2026 17:41:29 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-afc23a12",
+    "title": "Scaling AI agents with trustworthy data",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 12 Aug 2026 16:51:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1110b810",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-618d4dfa",
+    "title": "Putting sign language AI into users\u2019 hands",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9fea4b35",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 12 Aug 2026 14:00:51 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-aa04d9fe",
+    "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 12 Aug 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2c99e5ba",
+    "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
+    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 12 Aug 2026 09:08:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-143a56c3",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-dc35058b",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ringcentral",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-7edc0652",
     "title": "Rakuten fixes issues twice as fast with Codex",
     "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
@@ -4131,208 +4334,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 30 Jun 2026 02:28:41 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fce36a9d",
-    "title": "Introducing GeneBench-Pro",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "tags": [
-      "benchmark"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-3abd2cd2",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e2556323",
-    "title": "Inside Genebench-Pro",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-0f13ff90",
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/eee-community-evals",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-2853fe7b",
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 21:29:34 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ab5715c2",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 20:45:12 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cbe29efd",
-    "title": "Sam Altman is ready to decelerate",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 20:17:08 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-8cc1ba4a",
-    "title": "Scientific computing in the age of agentic AI",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Jul 2026 17:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-f57b088c",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "tags": [
-      "inference"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Jul 2026 16:27:42 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-85f9e223",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "tags": [
-      "Gemini",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Jul 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-57b9aa43",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 28 Jul 2026 15:42:26 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9a40059e",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "tags": [
-      "inference"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 28 Jul 2026 15:01:45 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-294161fc",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "tags": [
-      "Gemini",
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Tue, 28 Jul 2026 13:21:37 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ed733c91",
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
     "image": null
   }
 ]

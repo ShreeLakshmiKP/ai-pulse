@@ -1,10 +1,28 @@
 [
   {
+    "id": "gh-1331135699",
+    "name": "guillaumemeyer/watermarks-remover",
+    "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "stars": 3175,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "ai",
+      "c2pa",
+      "claude",
+      "provenance",
+      "synthid",
+      "watermark"
+    ],
+    "created_at": "2026-08-11T16:32:38Z"
+  },
+  {
     "id": "gh-1327214801",
     "name": "ShawnPana/phone-harness",
     "description": "let your agent control your phone",
     "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1552,
+    "stars": 1674,
     "language": "Python",
     "topics": [
       "agent",
@@ -19,7 +37,7 @@
     "name": "SaladDay/pi-from-scratch",
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
     "url": "https://github.com/SaladDay/pi-from-scratch",
-    "stars": 631,
+    "stars": 820,
     "language": "TypeScript",
     "topics": [
       "agent-loop",
@@ -36,61 +54,11 @@
     "created_at": "2026-08-09T12:15:30Z"
   },
   {
-    "id": "gh-1326963742",
-    "name": "antinomie-lab/pi-book",
-    "description": "Source-backed architecture notes on building an agent",
-    "url": "https://github.com/antinomie-lab/pi-book",
-    "stars": 260,
-    "language": "Vue",
-    "topics": [
-      "agent-loop",
-      "ai-agent",
-      "book",
-      "chinese",
-      "code-reading",
-      "llm",
-      "pi-agent",
-      "pi-agent-core",
-      "software-architecture",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T17:14:43Z"
-  },
-  {
-    "id": "gh-1325322542",
-    "name": "oliverb-io1902e8/agent-skills-collection",
-    "description": "Curated collection of modular agent skills for LLM-based agents",
-    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 204,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflow",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-model",
-      "ai-tools",
-      "automation",
-      "chatgpt",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "developer-tools",
-      "llm",
-      "open-source",
-      "python"
-    ],
-    "created_at": "2026-08-06T14:07:02Z"
-  },
-  {
     "id": "gh-1327912711",
     "name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 190,
+    "stars": 304,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -114,11 +82,32 @@
     "created_at": "2026-08-08T15:49:55Z"
   },
   {
+    "id": "gh-1326963742",
+    "name": "antinomie-lab/pi-book",
+    "description": "Source-backed architecture notes on building an agent",
+    "url": "https://github.com/antinomie-lab/pi-book",
+    "stars": 282,
+    "language": "Vue",
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "book",
+      "chinese",
+      "code-reading",
+      "llm",
+      "pi-agent",
+      "pi-agent-core",
+      "software-architecture",
+      "typescript"
+    ],
+    "created_at": "2026-08-07T17:14:43Z"
+  },
+  {
     "id": "gh-1328389467",
     "name": "swping999/scene-card-studio",
     "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
     "url": "https://github.com/swping999/scene-card-studio",
-    "stars": 148,
+    "stars": 162,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -131,29 +120,11 @@
     "created_at": "2026-08-09T03:25:19Z"
   },
   {
-    "id": "gh-1327327043",
-    "name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 123,
-    "language": "C++",
-    "topics": [
-      "ai",
-      "ble-hid",
-      "esp32-s3",
-      "m5stack",
-      "m5stack-stopwatch",
-      "platformio",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-08T01:51:11Z"
-  },
-  {
     "id": "gh-1326915228",
     "name": "jundizhou/easy-stock",
     "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53--\u57fa\u4e8e\u5927\u6a21\u578b",
     "url": "https://github.com/jundizhou/easy-stock",
-    "stars": 112,
+    "stars": 147,
     "language": "Go",
     "topics": [
       "a-share",
@@ -167,30 +138,88 @@
     "created_at": "2026-08-07T16:25:36Z"
   },
   {
-    "id": "gh-1327360831",
-    "name": "kasturikhanke/generative-loaders",
-    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-    "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 102,
-    "language": "TypeScript",
+    "id": "gh-1327327043",
+    "name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 126,
+    "language": "C++",
     "topics": [
-      "accessibility",
       "ai",
-      "animation",
-      "framer-motion",
-      "generative-ui",
-      "loader",
-      "react",
-      "typescript"
+      "ble-hid",
+      "esp32-s3",
+      "m5stack",
+      "m5stack-stopwatch",
+      "platformio",
+      "vibe-coding"
     ],
-    "created_at": "2026-08-08T02:50:22Z"
+    "created_at": "2026-08-08T01:51:11Z"
+  },
+  {
+    "id": "gh-1330516937",
+    "name": "wanshuiyin/HERO-Anti-OverDefense",
+    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+    "stars": 123,
+    "language": "Markdown",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "claude-md",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "llm",
+      "prompt-engineering",
+      "windsurf"
+    ],
+    "created_at": "2026-08-11T05:08:30Z"
+  },
+  {
+    "id": "gh-1330473381",
+    "name": "dengzi008/DramaLens",
+    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+    "url": "https://github.com/dengzi008/DramaLens",
+    "stars": 122,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "chinese",
+      "chrome-extension",
+      "faster-whisper",
+      "local-first",
+      "speech-to-text"
+    ],
+    "created_at": "2026-08-11T03:58:26Z"
+  },
+  {
+    "id": "gh-1331679891",
+    "name": "Yixuan-Wu39/bandminton",
+    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+    "url": "https://github.com/Yixuan-Wu39/bandminton",
+    "stars": 103,
+    "language": "JavaScript",
+    "topics": [
+      "accelerometer",
+      "badminton",
+      "fitness-tracking",
+      "machine-learning",
+      "motion-analysis",
+      "wearable",
+      "xiaomi"
+    ],
+    "created_at": "2026-08-12T06:14:49Z"
   },
   {
     "id": "gh-1328830359",
     "name": "Hao0321/ai-short-drama",
     "description": "AI short-drama story architecture, series continuity, production packs and resumable generation workflows for Codex and Claude Code.",
     "url": "https://github.com/Hao0321/ai-short-drama",
-    "stars": 42,
+    "stars": 47,
     "language": "Python",
     "topics": [
       "ai-short-drama",
@@ -206,7 +235,7 @@
     "name": "0toshigami/orbis-pictus",
     "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
     "url": "https://github.com/0toshigami/orbis-pictus",
-    "stars": 25,
+    "stars": 26,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -220,37 +249,11 @@
     "created_at": "2026-08-11T00:16:54Z"
   },
   {
-    "id": "gh-1329719848",
-    "name": "DiegoBermud65/polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
-    "description": "Polymarket AI model trading bot for BTC Up/Down 5m 15m 1h prediction markets. Dual LightGBM Sentinel + Pulse architecture with CLOB execution, edge detection, Kelly sizing, paper & live modes.",
-    "url": "https://github.com/DiegoBermud65/polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
-    "stars": 16,
-    "language": "Python",
-    "topics": [
-      "algorithmic-trading",
-      "automated-trading",
-      "btc-trading-bot",
-      "crypto-prediction-markets",
-      "lightgbm",
-      "machine-learning",
-      "open-source-trading-bot",
-      "polymarket-ai-trading-bot",
-      "polymarket-api",
-      "polymarket-bot",
-      "polymarket-clob-bot",
-      "polymarket-python",
-      "polymarket-trading-bot",
-      "prediction-markets",
-      "python-trading-bot"
-    ],
-    "created_at": "2026-08-10T10:53:40Z"
-  },
-  {
     "id": "gh-1327212140",
     "name": "QianGroupPage/PARSEC.py",
     "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
     "url": "https://github.com/QianGroupPage/PARSEC.py",
-    "stars": 15,
+    "stars": 16,
     "language": "Python",
     "topics": [
       "charge-density",
@@ -267,45 +270,32 @@
     "created_at": "2026-08-07T22:24:35Z"
   },
   {
-    "id": "gh-1324744292",
-    "name": "antonio-gaskin/avocado-price-prediction",
-    "description": "Avocado price forecasting using Facebook Prophet on retail avocado sales data, with analysis, visualization, and 2019 price prediction.",
-    "url": "https://github.com/antonio-gaskin/avocado-price-prediction",
-    "stars": 12,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "avocado",
-      "data-science",
-      "data-visualization",
-      "fbprophet",
-      "forecasting",
-      "machine-learning",
-      "prophet",
-      "python",
-      "retail-analytics",
-      "time-series"
-    ],
-    "created_at": "2026-08-06T04:43:31Z"
-  },
-  {
-    "id": "gh-1324741372",
-    "name": "antonio-gaskin/airbnb-price-prediction",
-    "description": "Airbnb price prediction for Berlin using an end-to-end ML pipeline with data cleaning, scikit-learn model training, and a FastAPI prediction service packaged for Docker.",
-    "url": "https://github.com/antonio-gaskin/airbnb-price-prediction",
-    "stars": 11,
+    "id": "gh-1331941733",
+    "name": "Carasibana/ComfyUI-H3-FaceRefine",
+    "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
+    "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
+    "stars": 16,
     "language": "Python",
     "topics": [
-      "airbnb",
-      "data-cleaning",
-      "data-science",
-      "docker",
-      "fastapi",
-      "machine-learning",
-      "mlops",
-      "price-prediction",
-      "regression",
-      "scikit-learn"
+      "ai-video",
+      "comfyui",
+      "comfyui-custom-node",
+      "comfyui-custom-nodes",
+      "comfyui-nodes",
+      "comfyui-video",
+      "diffusion-models",
+      "face-detection",
+      "face-enhancement",
+      "face-restoration",
+      "generative-ai",
+      "insightface",
+      "lipsync",
+      "minimax-h3",
+      "segment-anything",
+      "video-generation",
+      "video-processing",
+      "yolov8"
     ],
-    "created_at": "2026-08-06T04:38:51Z"
+    "created_at": "2026-08-12T11:18:15Z"
   }
 ]
