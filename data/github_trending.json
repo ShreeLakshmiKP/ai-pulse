@@ -4,7 +4,7 @@
     "name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 3175,
+    "stars": 5980,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -18,26 +18,11 @@
     "created_at": "2026-08-11T16:32:38Z"
   },
   {
-    "id": "gh-1327214801",
-    "name": "ShawnPana/phone-harness",
-    "description": "let your agent control your phone",
-    "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1674,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "automation",
-      "developer-tools"
-    ],
-    "created_at": "2026-08-07T22:28:53Z"
-  },
-  {
     "id": "gh-1328769721",
     "name": "SaladDay/pi-from-scratch",
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
     "url": "https://github.com/SaladDay/pi-from-scratch",
-    "stars": 820,
+    "stars": 925,
     "language": "TypeScript",
     "topics": [
       "agent-loop",
@@ -58,7 +43,7 @@
     "name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 304,
+    "stars": 349,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -82,32 +67,93 @@
     "created_at": "2026-08-08T15:49:55Z"
   },
   {
-    "id": "gh-1326963742",
-    "name": "antinomie-lab/pi-book",
-    "description": "Source-backed architecture notes on building an agent",
-    "url": "https://github.com/antinomie-lab/pi-book",
-    "stars": 282,
-    "language": "Vue",
+    "id": "gh-1332781509",
+    "name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 308,
+    "language": "TypeScript",
     "topics": [
-      "agent-loop",
-      "ai-agent",
-      "book",
-      "chinese",
-      "code-reading",
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
       "llm",
-      "pi-agent",
-      "pi-agent-core",
-      "software-architecture",
+      "self-hosted",
       "typescript"
     ],
-    "created_at": "2026-08-07T17:14:43Z"
+    "created_at": "2026-08-13T06:28:56Z"
+  },
+  {
+    "id": "gh-1330942675",
+    "name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 265,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "coding-assistant",
+      "curated-list",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness",
+      "llm",
+      "mcp",
+      "plugins"
+    ],
+    "created_at": "2026-08-11T13:14:49Z"
+  },
+  {
+    "id": "gh-1332216413",
+    "name": "wzchav/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/wzchav/tokentab",
+    "stars": 212,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "api",
+      "claude",
+      "claude-code",
+      "claude-tool",
+      "gemini",
+      "token-usage"
+    ],
+    "created_at": "2026-08-12T16:09:39Z"
+  },
+  {
+    "id": "gh-1332009127",
+    "name": "vercel-labs/eve-software-factory-template",
+    "description": "Meet Foreman, an eve Software Factory.",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "stars": 201,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "eve",
+      "vercel"
+    ],
+    "created_at": "2026-08-12T12:34:43Z"
   },
   {
     "id": "gh-1328389467",
     "name": "swping999/scene-card-studio",
     "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
     "url": "https://github.com/swping999/scene-card-studio",
-    "stars": 162,
+    "stars": 165,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -120,161 +166,11 @@
     "created_at": "2026-08-09T03:25:19Z"
   },
   {
-    "id": "gh-1326915228",
-    "name": "jundizhou/easy-stock",
-    "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53--\u57fa\u4e8e\u5927\u6a21\u578b",
-    "url": "https://github.com/jundizhou/easy-stock",
-    "stars": 147,
-    "language": "Go",
-    "topics": [
-      "a-share",
-      "ai-agent",
-      "china-stock",
-      "llm",
-      "stock",
-      "stock-analysis",
-      "trade"
-    ],
-    "created_at": "2026-08-07T16:25:36Z"
-  },
-  {
-    "id": "gh-1327327043",
-    "name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 126,
-    "language": "C++",
-    "topics": [
-      "ai",
-      "ble-hid",
-      "esp32-s3",
-      "m5stack",
-      "m5stack-stopwatch",
-      "platformio",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-08T01:51:11Z"
-  },
-  {
-    "id": "gh-1330516937",
-    "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 123,
-    "language": "Markdown",
-    "topics": [
-      "agents-md",
-      "ai-agents",
-      "antigravity",
-      "claude-code",
-      "claude-md",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "gemini-cli",
-      "github-copilot",
-      "llm",
-      "prompt-engineering",
-      "windsurf"
-    ],
-    "created_at": "2026-08-11T05:08:30Z"
-  },
-  {
-    "id": "gh-1330473381",
-    "name": "dengzi008/DramaLens",
-    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-    "url": "https://github.com/dengzi008/DramaLens",
-    "stars": 122,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "chinese",
-      "chrome-extension",
-      "faster-whisper",
-      "local-first",
-      "speech-to-text"
-    ],
-    "created_at": "2026-08-11T03:58:26Z"
-  },
-  {
-    "id": "gh-1331679891",
-    "name": "Yixuan-Wu39/bandminton",
-    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-    "url": "https://github.com/Yixuan-Wu39/bandminton",
-    "stars": 103,
-    "language": "JavaScript",
-    "topics": [
-      "accelerometer",
-      "badminton",
-      "fitness-tracking",
-      "machine-learning",
-      "motion-analysis",
-      "wearable",
-      "xiaomi"
-    ],
-    "created_at": "2026-08-12T06:14:49Z"
-  },
-  {
-    "id": "gh-1328830359",
-    "name": "Hao0321/ai-short-drama",
-    "description": "AI short-drama story architecture, series continuity, production packs and resumable generation workflows for Codex and Claude Code.",
-    "url": "https://github.com/Hao0321/ai-short-drama",
-    "stars": 47,
-    "language": "Python",
-    "topics": [
-      "ai-short-drama",
-      "codex-skills",
-      "generative-ai",
-      "prompt-engineering",
-      "storytelling"
-    ],
-    "created_at": "2026-08-09T13:28:48Z"
-  },
-  {
-    "id": "gh-1330347036",
-    "name": "0toshigami/orbis-pictus",
-    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
-    "url": "https://github.com/0toshigami/orbis-pictus",
-    "stars": 26,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "creative",
-      "creative-coding",
-      "generative-ai",
-      "image-generation",
-      "llm",
-      "text-to-image"
-    ],
-    "created_at": "2026-08-11T00:16:54Z"
-  },
-  {
-    "id": "gh-1327212140",
-    "name": "QianGroupPage/PARSEC.py",
-    "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
-    "url": "https://github.com/QianGroupPage/PARSEC.py",
-    "stars": 16,
-    "language": "Python",
-    "topics": [
-      "charge-density",
-      "computational-chemistry",
-      "density-functional-theory",
-      "electronic-structure",
-      "gpu",
-      "kohn-sham",
-      "machine-learning",
-      "parsec",
-      "python",
-      "real-space-dft"
-    ],
-    "created_at": "2026-08-07T22:24:35Z"
-  },
-  {
     "id": "gh-1331941733",
     "name": "Carasibana/ComfyUI-H3-FaceRefine",
     "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
     "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
-    "stars": 16,
+    "stars": 161,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -297,5 +193,113 @@
       "yolov8"
     ],
     "created_at": "2026-08-12T11:18:15Z"
+  },
+  {
+    "id": "gh-1330516937",
+    "name": "wanshuiyin/HERO-Anti-OverDefense",
+    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+    "stars": 132,
+    "language": "Markdown",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "claude-md",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "llm",
+      "prompt-engineering",
+      "windsurf"
+    ],
+    "created_at": "2026-08-11T05:08:30Z"
+  },
+  {
+    "id": "gh-1331679891",
+    "name": "Yixuan-Wu39/bandminton",
+    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+    "url": "https://github.com/Yixuan-Wu39/bandminton",
+    "stars": 103,
+    "language": "JavaScript",
+    "topics": [
+      "accelerometer",
+      "badminton",
+      "fitness-tracking",
+      "machine-learning",
+      "motion-analysis",
+      "wearable",
+      "xiaomi"
+    ],
+    "created_at": "2026-08-12T06:14:49Z"
+  },
+  {
+    "id": "gh-1328830359",
+    "name": "Hao0321/ai-short-drama",
+    "description": "AI short-drama story architecture, Studio routing, model-aware shot timelines, continuity, validation, and resumable workflows for Codex and Claude Code.",
+    "url": "https://github.com/Hao0321/ai-short-drama",
+    "stars": 48,
+    "language": "Python",
+    "topics": [
+      "ai-short-drama",
+      "codex-skills",
+      "generative-ai",
+      "prompt-engineering",
+      "storytelling"
+    ],
+    "created_at": "2026-08-09T13:28:48Z"
+  },
+  {
+    "id": "gh-1330347036",
+    "name": "0toshigami/orbis-pictus",
+    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
+    "url": "https://github.com/0toshigami/orbis-pictus",
+    "stars": 27,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "creative",
+      "creative-coding",
+      "generative-ai",
+      "image-generation",
+      "llm",
+      "text-to-image"
+    ],
+    "created_at": "2026-08-11T00:16:54Z"
+  },
+  {
+    "id": "gh-1332736816",
+    "name": "MaincodeHQ/from-tin-to-tokens",
+    "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
+    "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
+    "stars": 20,
+    "language": null,
+    "topics": [
+      "book",
+      "gpu",
+      "inference",
+      "llm",
+      "machine-learning",
+      "rust",
+      "systems-programming"
+    ],
+    "created_at": "2026-08-13T05:28:10Z"
+  },
+  {
+    "id": "gh-1327951254",
+    "name": "BalSob107/KLQ",
+    "description": "Geometry-aware LLM quantization, per-direction bit allocation priced by measured KL divergence given injected perturbation.",
+    "url": "https://github.com/BalSob107/KLQ",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "machine-learning",
+      "quantization-algorithms"
+    ],
+    "created_at": "2026-08-08T16:32:31Z"
   }
 ]
