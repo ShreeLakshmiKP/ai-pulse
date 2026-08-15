@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49289112",
-    "title": "Gemini 3.7 Flash",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "points": 775,
-    "comments": 405,
+    "id": "hn-49296740",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "points": 831,
+    "comments": 757,
     "source": "Hacker News",
-    "published_date": "2026-08-13T17:23:22Z"
+    "published_date": "2026-08-14T10:12:48Z"
   },
   {
-    "id": "hn-49285244",
-    "title": "DeepSeek Harness developer preview",
-    "url": "https://deepseek.com/harness/en/",
-    "points": 627,
-    "comments": 263,
+    "id": "hn-49299222",
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "points": 774,
+    "comments": 453,
     "source": "Hacker News",
-    "published_date": "2026-08-13T12:58:02Z"
+    "published_date": "2026-08-14T14:31:08Z"
   },
   {
-    "id": "hn-49289844",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "points": 544,
-    "comments": 228,
+    "id": "hn-49300314",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "points": 344,
+    "comments": 204,
     "source": "Hacker News",
-    "published_date": "2026-08-13T18:10:02Z"
+    "published_date": "2026-08-14T15:43:10Z"
   },
   {
-    "id": "hn-49294997",
-    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-    "url": "https://z.ai/blog/glm-5.3",
-    "points": 234,
-    "comments": 79,
+    "id": "hn-49300568",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "points": 263,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-08-14T05:19:59Z"
+    "published_date": "2026-08-14T15:58:59Z"
   },
   {
-    "id": "hn-49285327",
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "id": "hn-49297801",
+    "title": "Dear people who work at the airport",
+    "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
     "points": 197,
-    "comments": 80,
+    "comments": 248,
     "source": "Hacker News",
-    "published_date": "2026-08-13T13:05:29Z"
+    "published_date": "2026-08-14T12:23:22Z"
   },
   {
-    "id": "hn-49285604",
-    "title": "AI agents lie, cheat and steal. That is putting off users",
-    "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-    "points": 158,
-    "comments": 197,
+    "id": "hn-49300800",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "points": 173,
+    "comments": 110,
     "source": "Hacker News",
-    "published_date": "2026-08-13T13:28:45Z"
+    "published_date": "2026-08-14T16:15:21Z"
   },
   {
-    "id": "hn-49286270",
-    "title": "Heart aerospace completes first flight of largest electric aircraft",
-    "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-    "points": 126,
-    "comments": 128,
+    "id": "hn-49299282",
+    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "points": 171,
+    "comments": 192,
     "source": "Hacker News",
-    "published_date": "2026-08-13T14:11:51Z"
+    "published_date": "2026-08-14T14:34:49Z"
   },
   {
-    "id": "hn-49287153",
-    "title": "Text AI watermarks will always be trivial to remove",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "points": 117,
-    "comments": 124,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T15:07:10Z"
-  },
-  {
-    "id": "hn-49288293",
-    "title": "AI At Home Part 1: A Box Of Scraps",
-    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "points": 115,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T16:22:05Z"
-  },
-  {
-    "id": "hn-49292932",
-    "title": "How AI text watermarking works",
-    "url": "https://declaude.org/watermarking/",
+    "id": "hn-49305558",
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
     "points": 107,
-    "comments": 82,
+    "comments": 78,
     "source": "Hacker News",
-    "published_date": "2026-08-13T23:16:55Z"
+    "published_date": "2026-08-14T22:48:15Z"
   },
   {
-    "id": "hn-49290768",
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "points": 96,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T19:25:38Z"
-  },
-  {
-    "id": "hn-49283063",
-    "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
-    "url": "https://www.codewithbullet.com",
-    "points": 95,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T08:14:30Z"
-  },
-  {
-    "id": "hn-49283563",
-    "title": "Can I use my Outputs to train an AI model?",
-    "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+    "id": "hn-49301215",
+    "title": "Show HN: LuaCAD \u2013 Parametric CAD Scripted in Lua",
+    "url": "https://luacad.ad-si.com",
     "points": 89,
-    "comments": 81,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-08-13T09:34:13Z"
+    "published_date": "2026-08-14T16:43:22Z"
   },
   {
-    "id": "hn-49283891",
-    "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "points": 62,
-    "comments": 88,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T10:23:51Z"
-  },
-  {
-    "id": "hn-49290062",
-    "title": "AI Is Threatening Natural Resources for Billions",
-    "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-    "points": 54,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T18:28:20Z"
-  },
-  {
-    "id": "hn-49290521",
-    "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-    "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-    "points": 51,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T19:04:52Z"
-  },
-  {
-    "id": "hn-49288847",
-    "title": "Gemini 3.7 Flash",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "points": 48,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T17:02:10Z"
-  },
-  {
-    "id": "hn-49288051",
-    "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
-    "url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
-    "points": 37,
+    "id": "hn-49303046",
+    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+    "url": "https://github.com/lajosdeme/mole",
+    "points": 64,
     "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-08-13T16:05:58Z"
+    "published_date": "2026-08-14T18:52:48Z"
   },
   {
-    "id": "hn-49293984",
-    "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
-    "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
-    "points": 35,
+    "id": "hn-49299102",
+    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "points": 58,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T14:22:39Z"
+  },
+  {
+    "id": "hn-49298088",
+    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+    "url": "https://hashagent.pages.dev/",
+    "points": 49,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T12:57:02Z"
+  },
+  {
+    "id": "hn-49303350",
+    "title": "How Claude's text watermarking works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "points": 46,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T19:15:51Z"
+  },
+  {
+    "id": "hn-49301417",
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "points": 40,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T16:57:14Z"
+  },
+  {
+    "id": "hn-49296939",
+    "title": "For the love of god stop using CPU limits in Kubernetes",
+    "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+    "points": 40,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T10:41:21Z"
+  },
+  {
+    "id": "hn-49299985",
+    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
+    "url": "https://github.com/NanoNets/Graft",
+    "points": 39,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T15:22:02Z"
+  },
+  {
+    "id": "hn-49303237",
+    "title": "Open WireGuard Endpoints",
+    "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+    "points": 34,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T19:05:46Z"
+  },
+  {
+    "id": "hn-49303433",
+    "title": "Z.ai Security Disclosure",
+    "url": "https://cvd.z.ai",
+    "points": 32,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-14T19:22:00Z"
+  },
+  {
+    "id": "hn-49307099",
+    "title": "Show HN: Deltix \u2013\u00a0AI Driven Testing",
+    "url": "https://app.deltix.ai",
+    "points": 21,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T02:42:14Z"
+  },
+  {
+    "id": "hn-49300129",
+    "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+    "url": "https://mininote.ink/",
+    "points": 21,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-08-14T02:01:59Z"
-  },
-  {
-    "id": "hn-49286057",
-    "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
-    "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-    "points": 34,
-    "comments": 39,
-    "source": "Hacker News",
-    "published_date": "2026-08-13T13:57:01Z"
+    "published_date": "2026-08-14T15:30:29Z"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 5980,
+    "stars": 8624,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -22,7 +22,7 @@
     "name": "SaladDay/pi-from-scratch",
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
     "url": "https://github.com/SaladDay/pi-from-scratch",
-    "stars": 925,
+    "stars": 986,
     "language": "TypeScript",
     "topics": [
       "agent-loop",
@@ -39,39 +39,57 @@
     "created_at": "2026-08-09T12:15:30Z"
   },
   {
-    "id": "gh-1327912711",
-    "name": "i3T4AN/KADATH",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-    "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 349,
-    "language": "Python",
+    "id": "gh-1332009127",
+    "name": "vercel-labs/eve-software-factory-template",
+    "description": "Meet Foreman, an eve Software Factory.",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "stars": 629,
+    "language": "TypeScript",
     "topics": [
-      "agent-evaluation-tools",
-      "agent-framework",
-      "agent-swarms",
-      "agentic-ai",
-      "agents",
+      "agent",
       "ai",
-      "ai-agents",
-      "autonomous-agents",
-      "evolutionary-algorithms",
-      "generative-ai",
-      "genetic-algorithm",
-      "llm",
-      "llm-agents",
-      "llm-evaluation",
-      "multi-agent",
-      "multi-agent-systems",
-      "self-evolving-agents"
+      "eve",
+      "vercel"
     ],
-    "created_at": "2026-08-08T15:49:55Z"
+    "created_at": "2026-08-12T12:34:43Z"
+  },
+  {
+    "id": "gh-1331592455",
+    "name": "DrHazemAli/enterprise-system-design",
+    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "stars": 442,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-governance",
+      "ai-security",
+      "ai-systems",
+      "cloud-architecture",
+      "cloud-infrastructure",
+      "cybersecurity",
+      "distributed-computing",
+      "distributed-systems",
+      "engineering",
+      "enterprise-architecture",
+      "enterprise-systems",
+      "hpc",
+      "mission-critical",
+      "realibility",
+      "sovereign-systems",
+      "system-design",
+      "well-architected",
+      "well-architected-framework",
+      "zero-trust"
+    ],
+    "created_at": "2026-08-12T04:03:15Z"
   },
   {
     "id": "gh-1332781509",
     "name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 308,
+    "stars": 439,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -91,7 +109,7 @@
     "name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 265,
+    "stars": 428,
     "language": "Python",
     "topics": [
       "agent",
@@ -116,11 +134,55 @@
     "created_at": "2026-08-11T13:14:49Z"
   },
   {
+    "id": "gh-1330144990",
+    "name": "OpenSparX/MasterAgent",
+    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+    "url": "https://github.com/OpenSparX/MasterAgent",
+    "stars": 317,
+    "language": "C++",
+    "topics": [
+      "agent-framework",
+      "ai-agent",
+      "automotive",
+      "edge-ai",
+      "embedded",
+      "iot",
+      "llm",
+      "npu",
+      "on-device",
+      "qualcomm"
+    ],
+    "created_at": "2026-08-10T18:43:36Z"
+  },
+  {
+    "id": "gh-1333258936",
+    "name": "Electricitysheep/dsh-handbook",
+    "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
+    "url": "https://github.com/Electricitysheep/dsh-handbook",
+    "stars": 239,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agents",
+      "beginners",
+      "deepseek",
+      "deepseek-ai",
+      "dsh-plugin",
+      "getting-started",
+      "guide",
+      "harness",
+      "llm",
+      "tutorial"
+    ],
+    "created_at": "2026-08-13T15:22:29Z"
+  },
+  {
     "id": "gh-1332216413",
     "name": "wzchav/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/wzchav/tokentab",
-    "stars": 212,
+    "stars": 213,
     "language": "Python",
     "topics": [
       "ai",
@@ -134,43 +196,11 @@
     "created_at": "2026-08-12T16:09:39Z"
   },
   {
-    "id": "gh-1332009127",
-    "name": "vercel-labs/eve-software-factory-template",
-    "description": "Meet Foreman, an eve Software Factory.",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 201,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "eve",
-      "vercel"
-    ],
-    "created_at": "2026-08-12T12:34:43Z"
-  },
-  {
-    "id": "gh-1328389467",
-    "name": "swping999/scene-card-studio",
-    "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
-    "url": "https://github.com/swping999/scene-card-studio",
-    "stars": 165,
-    "language": "Python",
-    "topics": [
-      "ai-tools",
-      "codex-skill",
-      "generative-ai",
-      "image-generation",
-      "photo-narrative",
-      "visual-storytelling"
-    ],
-    "created_at": "2026-08-09T03:25:19Z"
-  },
-  {
     "id": "gh-1331941733",
     "name": "Carasibana/ComfyUI-H3-FaceRefine",
     "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
     "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
-    "stars": 161,
+    "stars": 204,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -195,28 +225,21 @@
     "created_at": "2026-08-12T11:18:15Z"
   },
   {
-    "id": "gh-1330516937",
-    "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 132,
-    "language": "Markdown",
+    "id": "gh-1328389467",
+    "name": "swping999/scene-card-studio",
+    "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+    "url": "https://github.com/swping999/scene-card-studio",
+    "stars": 110,
+    "language": "Python",
     "topics": [
-      "agents-md",
-      "ai-agents",
-      "antigravity",
-      "claude-code",
-      "claude-md",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "gemini-cli",
-      "github-copilot",
-      "llm",
-      "prompt-engineering",
-      "windsurf"
+      "ai-tools",
+      "codex-skill",
+      "generative-ai",
+      "image-generation",
+      "photo-narrative",
+      "visual-storytelling"
     ],
-    "created_at": "2026-08-11T05:08:30Z"
+    "created_at": "2026-08-09T03:25:19Z"
   },
   {
     "id": "gh-1331679891",
@@ -275,7 +298,7 @@
     "name": "MaincodeHQ/from-tin-to-tokens",
     "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
     "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
-    "stars": 20,
+    "stars": 21,
     "language": null,
     "topics": [
       "book",
@@ -287,19 +310,5 @@
       "systems-programming"
     ],
     "created_at": "2026-08-13T05:28:10Z"
-  },
-  {
-    "id": "gh-1327951254",
-    "name": "BalSob107/KLQ",
-    "description": "Geometry-aware LLM quantization, per-direction bit allocation priced by measured KL divergence given injected perturbation.",
-    "url": "https://github.com/BalSob107/KLQ",
-    "stars": 7,
-    "language": "Python",
-    "topics": [
-      "llm",
-      "machine-learning",
-      "quantization-algorithms"
-    ],
-    "created_at": "2026-08-08T16:32:31Z"
   }
 ]
