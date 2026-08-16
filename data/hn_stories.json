@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49296740",
-    "title": "Why does Opus 5 feel worse to work with?",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "points": 831,
-    "comments": 757,
+    "id": "hn-49312845",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "points": 463,
+    "comments": 401,
     "source": "Hacker News",
-    "published_date": "2026-08-14T10:12:48Z"
+    "published_date": "2026-08-15T18:13:02Z"
   },
   {
-    "id": "hn-49299222",
-    "title": "Every Fucking Website (2020)",
-    "url": "https://lxe.github.io/everywebsite/",
-    "points": 774,
-    "comments": 453,
+    "id": "hn-49309451",
+    "title": "Working with AI feels more like leadership than coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "points": 294,
+    "comments": 188,
     "source": "Hacker News",
-    "published_date": "2026-08-14T14:31:08Z"
+    "published_date": "2026-08-15T10:39:41Z"
   },
   {
-    "id": "hn-49300314",
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "points": 344,
-    "comments": 204,
+    "id": "hn-49310682",
+    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "points": 245,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-08-14T15:43:10Z"
+    "published_date": "2026-08-15T14:04:49Z"
   },
   {
-    "id": "hn-49300568",
-    "title": "AI by Hand",
-    "url": "https://www.byhand.ai/",
-    "points": 263,
-    "comments": 20,
+    "id": "hn-49313367",
+    "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "points": 125,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-08-14T15:58:59Z"
+    "published_date": "2026-08-15T19:12:53Z"
   },
   {
-    "id": "hn-49297801",
-    "title": "Dear people who work at the airport",
-    "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-    "points": 197,
-    "comments": 248,
-    "source": "Hacker News",
-    "published_date": "2026-08-14T12:23:22Z"
-  },
-  {
-    "id": "hn-49300800",
-    "title": "Maximizing the value of your Claude Code sessions",
-    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "points": 173,
-    "comments": 110,
-    "source": "Hacker News",
-    "published_date": "2026-08-14T16:15:21Z"
-  },
-  {
-    "id": "hn-49299282",
-    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-    "points": 171,
-    "comments": 192,
-    "source": "Hacker News",
-    "published_date": "2026-08-14T14:34:49Z"
-  },
-  {
-    "id": "hn-49305558",
-    "title": "Stop sending me huge PRs; a rant",
-    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "id": "hn-49310719",
+    "title": "Cloudflare's AI Psychosis",
+    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
     "points": 107,
-    "comments": 78,
+    "comments": 89,
     "source": "Hacker News",
-    "published_date": "2026-08-14T22:48:15Z"
+    "published_date": "2026-08-15T14:08:40Z"
   },
   {
-    "id": "hn-49301215",
-    "title": "Show HN: LuaCAD \u2013 Parametric CAD Scripted in Lua",
-    "url": "https://luacad.ad-si.com",
-    "points": 89,
-    "comments": 17,
+    "id": "hn-49310362",
+    "title": "Could a computer scientist build a brain?",
+    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "points": 83,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-08-14T16:43:22Z"
+    "published_date": "2026-08-15T13:26:28Z"
   },
   {
-    "id": "hn-49303046",
-    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
-    "url": "https://github.com/lajosdeme/mole",
-    "points": 64,
-    "comments": 10,
+    "id": "hn-49310829",
+    "title": "Printytron \u2013 Describe a part, get a printable STL",
+    "url": "https://printytron.com",
+    "points": 80,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-08-14T18:52:48Z"
+    "published_date": "2026-08-15T14:22:20Z"
   },
   {
-    "id": "hn-49299102",
-    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "points": 58,
-    "comments": 8,
+    "id": "hn-49308553",
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "points": 76,
+    "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-08-14T14:22:39Z"
+    "published_date": "2026-08-15T07:31:46Z"
   },
   {
-    "id": "hn-49298088",
-    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
-    "url": "https://hashagent.pages.dev/",
-    "points": 49,
+    "id": "hn-49310725",
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+    "points": 67,
+    "comments": 70,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T14:08:55Z"
+  },
+  {
+    "id": "hn-49309050",
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "points": 66,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T09:20:07Z"
+  },
+  {
+    "id": "hn-49311445",
+    "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+    "url": "https://spectrum.ieee.org/ai-designed-virus",
+    "points": 60,
+    "comments": 124,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T15:32:25Z"
+  },
+  {
+    "id": "hn-49310495",
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "points": 60,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T13:43:46Z"
+  },
+  {
+    "id": "hn-49313068",
+    "title": "Tess's Android Wayland Compositor",
+    "url": "https://github.com/wmww/tawc",
+    "points": 60,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-08-14T12:57:02Z"
+    "published_date": "2026-08-15T18:34:26Z"
   },
   {
-    "id": "hn-49303350",
-    "title": "How Claude's text watermarking works",
-    "url": "https://www.anthropic.com/news/claude-text-watermark",
-    "points": 46,
+    "id": "hn-49315232",
+    "title": "Credit card debt rises to $1.26T, nearing all-time record",
+    "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+    "points": 53,
+    "comments": 72,
+    "source": "Hacker News",
+    "published_date": "2026-08-15T23:22:59Z"
+  },
+  {
+    "id": "hn-49316888",
+    "title": "The quirky personal homepages of programming language creators",
+    "url": "https://breck.lol/plMakers.html",
+    "points": 51,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T04:24:00Z"
+  },
+  {
+    "id": "hn-49310291",
+    "title": "Brazilian election filter in X For You timeline",
+    "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+    "points": 48,
     "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-08-14T19:15:51Z"
+    "published_date": "2026-08-15T13:18:27Z"
   },
   {
-    "id": "hn-49301417",
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "points": 40,
-    "comments": 0,
+    "id": "hn-49312707",
+    "title": "BriskDB",
+    "url": "https://github.com/schapman1974/briskdb",
+    "points": 46,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-14T16:57:14Z"
+    "published_date": "2026-08-15T17:56:57Z"
   },
   {
-    "id": "hn-49296939",
-    "title": "For the love of god stop using CPU limits in Kubernetes",
-    "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-    "points": 40,
-    "comments": 42,
+    "id": "hn-49310755",
+    "title": "The AI Situation in Software Development",
+    "url": "https://srikanth.ch/posts/the-ai-situation/",
+    "points": 41,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-08-14T10:41:21Z"
+    "published_date": "2026-08-15T14:12:27Z"
   },
   {
-    "id": "hn-49299985",
-    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
-    "url": "https://github.com/NanoNets/Graft",
-    "points": 39,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-08-14T15:22:02Z"
-  },
-  {
-    "id": "hn-49303237",
-    "title": "Open WireGuard Endpoints",
-    "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-    "points": 34,
+    "id": "hn-49310533",
+    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+    "url": "https://hypnagogic-quasicrystals.github.io/",
+    "points": 37,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-08-14T19:05:46Z"
+    "published_date": "2026-08-15T13:48:43Z"
   },
   {
-    "id": "hn-49303433",
-    "title": "Z.ai Security Disclosure",
-    "url": "https://cvd.z.ai",
-    "points": 32,
-    "comments": 4,
+    "id": "hn-49315456",
+    "title": "Tea5767-Radio-Tuner",
+    "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+    "points": 35,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-14T19:22:00Z"
-  },
-  {
-    "id": "hn-49307099",
-    "title": "Show HN: Deltix \u2013\u00a0AI Driven Testing",
-    "url": "https://app.deltix.ai",
-    "points": 21,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T02:42:14Z"
-  },
-  {
-    "id": "hn-49300129",
-    "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
-    "url": "https://mininote.ink/",
-    "points": 21,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-14T15:30:29Z"
+    "published_date": "2026-08-15T23:54:35Z"
   }
 ]
