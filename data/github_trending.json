@@ -4,7 +4,7 @@
     "name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 10017,
+    "stars": 12201,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -22,7 +22,7 @@
     "name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 797,
+    "stars": 842,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -37,7 +37,7 @@
     "name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 525,
+    "stars": 647,
     "language": "Python",
     "topics": [
       "agent",
@@ -62,11 +62,31 @@
     "created_at": "2026-08-11T13:14:49Z"
   },
   {
+    "id": "gh-1332781509",
+    "name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 580,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56Z"
+  },
+  {
     "id": "gh-1331592455",
     "name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 499,
+    "stars": 534,
     "language": null,
     "topics": [
       "ai",
@@ -93,52 +113,11 @@
     "created_at": "2026-08-12T04:03:15Z"
   },
   {
-    "id": "gh-1332781509",
-    "name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 499,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56Z"
-  },
-  {
-    "id": "gh-1330144990",
-    "name": "OpenSparX/MasterAgent",
-    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-    "url": "https://github.com/OpenSparX/MasterAgent",
-    "stars": 344,
-    "language": "C++",
-    "topics": [
-      "agent-framework",
-      "ai-agent",
-      "automotive",
-      "edge-ai",
-      "embedded",
-      "iot",
-      "llm",
-      "npu",
-      "on-device",
-      "qualcomm"
-    ],
-    "created_at": "2026-08-10T18:43:36Z"
-  },
-  {
     "id": "gh-1333258936",
     "name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 311,
+    "stars": 403,
     "language": "HTML",
     "topics": [
       "agent",
@@ -161,7 +140,7 @@
     "name": "Carasibana/ComfyUI-H3-FaceRefine",
     "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
     "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
-    "stars": 218,
+    "stars": 228,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -190,7 +169,7 @@
     "name": "wzchav/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/wzchav/tokentab",
-    "stars": 217,
+    "stars": 220,
     "language": "Python",
     "topics": [
       "ai",
@@ -208,7 +187,7 @@
     "name": "wanshuiyin/HERO-Anti-OverDefense",
     "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 156,
+    "stars": 173,
     "language": "Markdown",
     "topics": [
       "agents-md",
@@ -226,6 +205,37 @@
       "windsurf"
     ],
     "created_at": "2026-08-11T05:08:30Z"
+  },
+  {
+    "id": "gh-1332866061",
+    "name": "seyedehsanhadi/sloptrim",
+    "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+    "url": "https://github.com/seyedehsanhadi/sloptrim",
+    "stars": 150,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-slop",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins-marketplace",
+      "claude-code-skills",
+      "de-slop",
+      "developer-tools",
+      "docx",
+      "humanizer",
+      "linter",
+      "llm",
+      "markdown",
+      "prose-linter",
+      "python",
+      "stylometry",
+      "text-analysis",
+      "writing-quality",
+      "writing-tools",
+      "zero-dependency"
+    ],
+    "created_at": "2026-08-13T08:09:10Z"
   },
   {
     "id": "gh-1331679891",
@@ -246,47 +256,11 @@
     "created_at": "2026-08-12T06:14:49Z"
   },
   {
-    "id": "gh-1330347036",
-    "name": "0toshigami/orbis-pictus",
-    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
-    "url": "https://github.com/0toshigami/orbis-pictus",
-    "stars": 27,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "creative",
-      "creative-coding",
-      "generative-ai",
-      "image-generation",
-      "llm",
-      "text-to-image"
-    ],
-    "created_at": "2026-08-11T00:16:54Z"
-  },
-  {
-    "id": "gh-1332736816",
-    "name": "MaincodeHQ/from-tin-to-tokens",
-    "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
-    "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
-    "stars": 22,
-    "language": null,
-    "topics": [
-      "book",
-      "gpu",
-      "inference",
-      "llm",
-      "machine-learning",
-      "rust",
-      "systems-programming"
-    ],
-    "created_at": "2026-08-13T05:28:10Z"
-  },
-  {
     "id": "gh-1335460253",
     "name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 20,
+    "stars": 34,
     "language": "Swift",
     "topics": [
       "ai",
@@ -313,22 +287,70 @@
     "created_at": "2026-08-15T22:16:40Z"
   },
   {
-    "id": "gh-1333646789",
-    "name": "rocsgh/ppt-zen",
-    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
-    "url": "https://github.com/rocsgh/ppt-zen",
-    "stars": 15,
-    "language": "Python",
+    "id": "gh-1330347036",
+    "name": "0toshigami/orbis-pictus",
+    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
+    "url": "https://github.com/0toshigami/orbis-pictus",
+    "stars": 27,
+    "language": "TypeScript",
     "topics": [
-      "agent-skill",
       "ai",
-      "claude",
+      "creative",
+      "creative-coding",
       "generative-ai",
-      "powerpoint",
-      "presentation",
-      "prompt-engineering",
-      "slides"
+      "image-generation",
+      "llm",
+      "text-to-image"
     ],
-    "created_at": "2026-08-14T00:28:56Z"
+    "created_at": "2026-08-11T00:16:54Z"
+  },
+  {
+    "id": "gh-1332736816",
+    "name": "MaincodeHQ/from-tin-to-tokens",
+    "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
+    "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
+    "stars": 24,
+    "language": null,
+    "topics": [
+      "book",
+      "gpu",
+      "inference",
+      "llm",
+      "machine-learning",
+      "rust",
+      "systems-programming"
+    ],
+    "created_at": "2026-08-13T05:28:10Z"
+  },
+  {
+    "id": "gh-1335501129",
+    "name": "ruvnet/ai-text-watermark",
+    "description": "Invisible, key-verifiable watermarks for AI/LLM-generated text \u2014 SynthID-Text-style, in Rust + WebAssembly (Node + browser). Live playground included.",
+    "url": "https://github.com/ruvnet/ai-text-watermark",
+    "stars": 14,
+    "language": "Rust",
+    "topics": [
+      "ai-content-detection",
+      "ai-provenance",
+      "ai-watermark",
+      "content-credentials",
+      "distortion-free",
+      "eu-ai-act",
+      "generative-ai",
+      "gumbel-watermark",
+      "llm",
+      "llm-watermark",
+      "provenance",
+      "responsible-ai",
+      "rust",
+      "synthid",
+      "synthid-text",
+      "text-watermark",
+      "typescript",
+      "wasm",
+      "watermarking",
+      "webassembly"
+    ],
+    "created_at": "2026-08-15T23:43:35Z"
   }
 ]

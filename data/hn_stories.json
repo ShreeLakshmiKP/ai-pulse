@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49312845",
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "points": 463,
-    "comments": 401,
+    "id": "hn-49319556",
+    "title": "Claude: System Prompts",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "points": 613,
+    "comments": 247,
     "source": "Hacker News",
-    "published_date": "2026-08-15T18:13:02Z"
+    "published_date": "2026-08-16T12:48:21Z"
   },
   {
-    "id": "hn-49309451",
-    "title": "Working with AI feels more like leadership than coding",
-    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "points": 294,
-    "comments": 188,
+    "id": "hn-49322695",
+    "title": "Models Are Getting Dumber on Purpose",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "points": 302,
+    "comments": 167,
     "source": "Hacker News",
-    "published_date": "2026-08-15T10:39:41Z"
+    "published_date": "2026-08-16T19:04:26Z"
   },
   {
-    "id": "hn-49310682",
-    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-    "points": 245,
-    "comments": 85,
+    "id": "hn-49323381",
+    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "points": 284,
+    "comments": 194,
     "source": "Hacker News",
-    "published_date": "2026-08-15T14:04:49Z"
+    "published_date": "2026-08-16T20:31:16Z"
   },
   {
-    "id": "hn-49313367",
-    "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "points": 125,
-    "comments": 62,
+    "id": "hn-49320611",
+    "title": "The AI Credit Resale Economy",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "points": 264,
+    "comments": 108,
     "source": "Hacker News",
-    "published_date": "2026-08-15T19:12:53Z"
+    "published_date": "2026-08-16T14:44:55Z"
   },
   {
-    "id": "hn-49310719",
-    "title": "Cloudflare's AI Psychosis",
-    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
-    "points": 107,
-    "comments": 89,
+    "id": "hn-49317760",
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "url": "https://littlelearner-ll.github.io/",
+    "points": 239,
+    "comments": 206,
     "source": "Hacker News",
-    "published_date": "2026-08-15T14:08:40Z"
+    "published_date": "2026-08-16T07:37:53Z"
   },
   {
-    "id": "hn-49310362",
-    "title": "Could a computer scientist build a brain?",
-    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "id": "hn-49324087",
+    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "points": 175,
+    "comments": 174,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T21:53:43Z"
+  },
+  {
+    "id": "hn-49323932",
+    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "points": 108,
+    "comments": 112,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T21:34:06Z"
+  },
+  {
+    "id": "hn-49318906",
+    "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+    "url": "https://news.ycombinator.com/item?id=49318906",
+    "points": 99,
+    "comments": 116,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T11:05:47Z"
+  },
+  {
+    "id": "hn-49323459",
+    "title": "The Case Against Formal Verification, 50 Years Later",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "points": 88,
+    "comments": 100,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T20:38:58Z"
+  },
+  {
+    "id": "hn-49322330",
+    "title": "MathCode, Mathematical Coding Agent",
+    "url": "https://math-ai-org.github.io/mathcode/",
     "points": 83,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T18:17:10Z"
+  },
+  {
+    "id": "hn-49318735",
+    "title": "AI Coding Without the Vibes",
+    "url": "https://peterbloem.nl/blog/craft-coding",
+    "points": 82,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T10:31:36Z"
+  },
+  {
+    "id": "hn-49320673",
+    "title": "GPS and the Lost Art of Getting Lost",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "points": 77,
     "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-08-15T13:26:28Z"
+    "published_date": "2026-08-16T14:53:14Z"
   },
   {
-    "id": "hn-49310829",
-    "title": "Printytron \u2013 Describe a part, get a printable STL",
-    "url": "https://printytron.com",
-    "points": 80,
-    "comments": 36,
+    "id": "hn-49319814",
+    "title": "Show HN: A public AI whose memory is shared across all users",
+    "url": "https://wildstatic.com/",
+    "points": 70,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-08-15T14:22:20Z"
+    "published_date": "2026-08-16T13:21:45Z"
   },
   {
-    "id": "hn-49308553",
-    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "points": 76,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T07:31:46Z"
-  },
-  {
-    "id": "hn-49310725",
-    "title": "Secondhand book sales are booming. Is it because of AI?",
-    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-    "points": 67,
-    "comments": 70,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T14:08:55Z"
-  },
-  {
-    "id": "hn-49309050",
-    "title": "Debian has begun voting on the future of AI/LLM contributions",
-    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-    "points": 66,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T09:20:07Z"
-  },
-  {
-    "id": "hn-49311445",
-    "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-    "url": "https://spectrum.ieee.org/ai-designed-virus",
-    "points": 60,
-    "comments": 124,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T15:32:25Z"
-  },
-  {
-    "id": "hn-49310495",
-    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "points": 60,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T13:43:46Z"
-  },
-  {
-    "id": "hn-49313068",
-    "title": "Tess's Android Wayland Compositor",
-    "url": "https://github.com/wmww/tawc",
-    "points": 60,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T18:34:26Z"
-  },
-  {
-    "id": "hn-49315232",
-    "title": "Credit card debt rises to $1.26T, nearing all-time record",
-    "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
-    "points": 53,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-08-15T23:22:59Z"
-  },
-  {
-    "id": "hn-49316888",
-    "title": "The quirky personal homepages of programming language creators",
-    "url": "https://breck.lol/plMakers.html",
+    "id": "hn-49317546",
+    "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+    "url": "https://github.com/jitpass/jit",
     "points": 51,
-    "comments": 16,
+    "comments": 79,
     "source": "Hacker News",
-    "published_date": "2026-08-16T04:24:00Z"
+    "published_date": "2026-08-16T06:55:04Z"
   },
   {
-    "id": "hn-49310291",
-    "title": "Brazilian election filter in X For You timeline",
-    "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-    "points": 48,
-    "comments": 55,
+    "id": "hn-49324078",
+    "title": "Claude Seems Down",
+    "url": "https://news.ycombinator.com/item?id=49324078",
+    "points": 49,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-08-15T13:18:27Z"
+    "published_date": "2026-08-16T21:52:59Z"
   },
   {
-    "id": "hn-49312707",
-    "title": "BriskDB",
-    "url": "https://github.com/schapman1974/briskdb",
-    "points": 46,
-    "comments": 13,
+    "id": "hn-49322979",
+    "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+    "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+    "points": 47,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-08-15T17:56:57Z"
+    "published_date": "2026-08-16T19:41:18Z"
   },
   {
-    "id": "hn-49310755",
-    "title": "The AI Situation in Software Development",
-    "url": "https://srikanth.ch/posts/the-ai-situation/",
-    "points": 41,
-    "comments": 69,
+    "id": "hn-49323136",
+    "title": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
+    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "points": 38,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-08-15T14:12:27Z"
+    "published_date": "2026-08-16T20:01:13Z"
   },
   {
-    "id": "hn-49310533",
-    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
-    "url": "https://hypnagogic-quasicrystals.github.io/",
-    "points": 37,
-    "comments": 9,
+    "id": "hn-49324068",
+    "title": "Claude Is Down",
+    "url": "https://claude.ai/new",
+    "points": 29,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-08-15T13:48:43Z"
+    "published_date": "2026-08-16T21:51:25Z"
   },
   {
-    "id": "hn-49315456",
-    "title": "Tea5767-Radio-Tuner",
-    "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-    "points": 35,
+    "id": "hn-49324572",
+    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+    "points": 26,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-08-16T22:50:38Z"
+  },
+  {
+    "id": "hn-49321813",
+    "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+    "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+    "points": 17,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-15T23:54:35Z"
+    "published_date": "2026-08-16T17:13:22Z"
   }
 ]
