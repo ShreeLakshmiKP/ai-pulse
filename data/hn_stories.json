@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49319556",
-    "title": "Claude: System Prompts",
-    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "points": 613,
-    "comments": 247,
+    "id": "hn-49336573",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "points": 754,
+    "comments": 486,
     "source": "Hacker News",
-    "published_date": "2026-08-16T12:48:21Z"
+    "published_date": "2026-08-17T19:47:15Z"
   },
   {
-    "id": "hn-49322695",
-    "title": "Models Are Getting Dumber on Purpose",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "points": 302,
-    "comments": 167,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T19:04:26Z"
-  },
-  {
-    "id": "hn-49323381",
-    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "points": 284,
-    "comments": 194,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T20:31:16Z"
-  },
-  {
-    "id": "hn-49320611",
-    "title": "The AI Credit Resale Economy",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "points": 264,
-    "comments": 108,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T14:44:55Z"
-  },
-  {
-    "id": "hn-49317760",
-    "title": "What happens when an LLM never sees material beyond fifth grade?",
-    "url": "https://littlelearner-ll.github.io/",
-    "points": 239,
-    "comments": 206,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T07:37:53Z"
-  },
-  {
-    "id": "hn-49324087",
-    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "points": 175,
-    "comments": 174,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T21:53:43Z"
-  },
-  {
-    "id": "hn-49323932",
-    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-    "points": 108,
-    "comments": 112,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T21:34:06Z"
-  },
-  {
-    "id": "hn-49318906",
-    "title": "Ask HN: Do you know of any company that went back to hand-written code?",
-    "url": "https://news.ycombinator.com/item?id=49318906",
-    "points": 99,
-    "comments": 116,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T11:05:47Z"
-  },
-  {
-    "id": "hn-49323459",
-    "title": "The Case Against Formal Verification, 50 Years Later",
-    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-    "points": 88,
-    "comments": 100,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T20:38:58Z"
-  },
-  {
-    "id": "hn-49322330",
-    "title": "MathCode, Mathematical Coding Agent",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "points": 83,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T18:17:10Z"
-  },
-  {
-    "id": "hn-49318735",
-    "title": "AI Coding Without the Vibes",
-    "url": "https://peterbloem.nl/blog/craft-coding",
-    "points": 82,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T10:31:36Z"
-  },
-  {
-    "id": "hn-49320673",
-    "title": "GPS and the Lost Art of Getting Lost",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "points": 77,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T14:53:14Z"
-  },
-  {
-    "id": "hn-49319814",
-    "title": "Show HN: A public AI whose memory is shared across all users",
-    "url": "https://wildstatic.com/",
-    "points": 70,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T13:21:45Z"
-  },
-  {
-    "id": "hn-49317546",
-    "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-    "url": "https://github.com/jitpass/jit",
-    "points": 51,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T06:55:04Z"
-  },
-  {
-    "id": "hn-49324078",
-    "title": "Claude Seems Down",
-    "url": "https://news.ycombinator.com/item?id=49324078",
-    "points": 49,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T21:52:59Z"
-  },
-  {
-    "id": "hn-49322979",
-    "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
-    "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
-    "points": 47,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T19:41:18Z"
-  },
-  {
-    "id": "hn-49323136",
-    "title": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
-    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "points": 38,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T20:01:13Z"
-  },
-  {
-    "id": "hn-49324068",
-    "title": "Claude Is Down",
-    "url": "https://claude.ai/new",
-    "points": 29,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T21:51:25Z"
-  },
-  {
-    "id": "hn-49324572",
-    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-    "points": 26,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-08-16T22:50:38Z"
-  },
-  {
-    "id": "hn-49321813",
-    "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
-    "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-    "points": 17,
+    "id": "hn-49330684",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "points": 698,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-16T17:13:22Z"
+    "published_date": "2026-08-17T13:40:55Z"
+  },
+  {
+    "id": "hn-49331033",
+    "title": "Ask HN: Alternatives to GitHub",
+    "url": "https://news.ycombinator.com/item?id=49331033",
+    "points": 557,
+    "comments": 355,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T13:59:17Z"
+  },
+  {
+    "id": "hn-49330597",
+    "title": "Incident with Github.com [resolved]",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "points": 537,
+    "comments": 926,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T13:35:06Z"
+  },
+  {
+    "id": "hn-49331423",
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "points": 351,
+    "comments": 137,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T14:18:38Z"
+  },
+  {
+    "id": "hn-49329575",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "points": 326,
+    "comments": 158,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T12:09:42Z"
+  },
+  {
+    "id": "hn-49337392",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "points": 324,
+    "comments": 201,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T20:46:10Z"
+  },
+  {
+    "id": "hn-49337602",
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "points": 321,
+    "comments": 168,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T21:03:18Z"
+  },
+  {
+    "id": "hn-49330632",
+    "title": "GitHub down again? no PR access",
+    "url": "https://news.ycombinator.com/item?id=49330632",
+    "points": 288,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T13:37:28Z"
+  },
+  {
+    "id": "hn-49331220",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "points": 280,
+    "comments": 165,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T14:07:56Z"
+  },
+  {
+    "id": "hn-49334991",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "points": 189,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T17:54:59Z"
+  },
+  {
+    "id": "hn-49332564",
+    "title": "Anthropic's War on open source AI",
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "points": 141,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T15:24:34Z"
+  },
+  {
+    "id": "hn-49330742",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "points": 137,
+    "comments": 293,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T13:44:23Z"
+  },
+  {
+    "id": "hn-49336050",
+    "title": "AirTag reveals Amazon is trashing rare books to train AI",
+    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "points": 127,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T19:06:11Z"
+  },
+  {
+    "id": "hn-49334209",
+    "title": "Cursor launches Origin, GitHub alternative",
+    "url": "https://cursor.com/changelog/origin-code-hosting",
+    "points": 119,
+    "comments": 77,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T17:02:44Z"
+  },
+  {
+    "id": "hn-49332495",
+    "title": "Ask HN: GitHub employees what's going on? Why?",
+    "url": "https://news.ycombinator.com/item?id=49332495",
+    "points": 102,
+    "comments": 79,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T15:19:31Z"
+  },
+  {
+    "id": "hn-49332751",
+    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "points": 99,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T15:36:18Z"
+  },
+  {
+    "id": "hn-49335216",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "points": 91,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T18:10:16Z"
+  },
+  {
+    "id": "hn-49330215",
+    "title": "Show HN: Sokoban AI Solver",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "points": 68,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T13:07:00Z"
+  },
+  {
+    "id": "hn-49335017",
+    "title": "Llama.cpp v0.1.0",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+    "points": 42,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-08-17T17:56:06Z"
   }
 ]

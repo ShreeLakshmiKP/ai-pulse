@@ -1,28 +1,10 @@
 [
   {
-    "id": "gh-1331135699",
-    "name": "guillaumemeyer/watermarks-remover",
-    "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 12201,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "ai",
-      "c2pa",
-      "claude",
-      "provenance",
-      "synthid",
-      "watermark"
-    ],
-    "created_at": "2026-08-11T16:32:38Z"
-  },
-  {
     "id": "gh-1332009127",
     "name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 842,
+    "stars": 887,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -33,40 +15,11 @@
     "created_at": "2026-08-12T12:34:43Z"
   },
   {
-    "id": "gh-1330942675",
-    "name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 647,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "coding-assistant",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "harness",
-      "llm",
-      "mcp",
-      "plugins"
-    ],
-    "created_at": "2026-08-11T13:14:49Z"
-  },
-  {
     "id": "gh-1332781509",
     "name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 580,
+    "stars": 804,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -86,7 +39,7 @@
     "name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 534,
+    "stars": 544,
     "language": null,
     "topics": [
       "ai",
@@ -117,7 +70,7 @@
     "name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 403,
+    "stars": 467,
     "language": "HTML",
     "topics": [
       "agent",
@@ -140,7 +93,7 @@
     "name": "Carasibana/ComfyUI-H3-FaceRefine",
     "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
     "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
-    "stars": 228,
+    "stars": 238,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -169,7 +122,7 @@
     "name": "wzchav/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/wzchav/tokentab",
-    "stars": 220,
+    "stars": 222,
     "language": "Python",
     "topics": [
       "ai",
@@ -183,35 +136,11 @@
     "created_at": "2026-08-12T16:09:39Z"
   },
   {
-    "id": "gh-1330516937",
-    "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 173,
-    "language": "Markdown",
-    "topics": [
-      "agents-md",
-      "ai-agents",
-      "antigravity",
-      "claude-code",
-      "claude-md",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "gemini-cli",
-      "github-copilot",
-      "llm",
-      "prompt-engineering",
-      "windsurf"
-    ],
-    "created_at": "2026-08-11T05:08:30Z"
-  },
-  {
     "id": "gh-1332866061",
     "name": "seyedehsanhadi/sloptrim",
     "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
     "url": "https://github.com/seyedehsanhadi/sloptrim",
-    "stars": 150,
+    "stars": 154,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -238,6 +167,99 @@
     "created_at": "2026-08-13T08:09:10Z"
   },
   {
+    "id": "gh-1336248697",
+    "name": "bawadou/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "stars": 151,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-data-extractor",
+      "claude",
+      "cursor",
+      "cursor-ai",
+      "data-extraction",
+      "gemini"
+    ],
+    "created_at": "2026-08-16T18:35:58Z"
+  },
+  {
+    "id": "gh-1333173677",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Coding \u00b7 Agents \u00b7 Loops (auto-research) and more. #dsh",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+    "stars": 134,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "coding-agent",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-patch",
+      "dsh-plugin",
+      "dsh-plugins",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "plugins"
+    ],
+    "created_at": "2026-08-13T13:54:05Z"
+  },
+  {
+    "id": "gh-1333295863",
+    "name": "bradeGithub/DSH-Plugins-Marketplace",
+    "description": "DSH\u63d2\u4ef6\u5e02\u573a / DSH Plugin Marketplace: \u5728 DeepSeek Harness Web GUI \u4e2d\u4e00\u952e\u6d4f\u89c8\u3001\u5b89\u88c5\u4e0e\u66f4\u65b0 GitHub topic:dsh-plugin \u7684\u5168\u90e8\u63d2\u4ef6 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+    "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+    "stars": 119,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "javascript",
+      "llm",
+      "marketplace",
+      "nodejs",
+      "plugin",
+      "plugin-marketplace"
+    ],
+    "created_at": "2026-08-13T16:01:59Z"
+  },
+  {
+    "id": "gh-1332604484",
+    "name": "vuphongle/oss-pr-reviewer",
+    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+    "url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "stars": 111,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "github",
+      "llm",
+      "maintainer-tools",
+      "open-source",
+      "pull-request",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T01:59:03Z"
+  },
+  {
     "id": "gh-1331679891",
     "name": "Yixuan-Wu39/bandminton",
     "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
@@ -260,7 +282,7 @@
     "name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 34,
+    "stars": 42,
     "language": "Swift",
     "topics": [
       "ai",
@@ -287,29 +309,11 @@
     "created_at": "2026-08-15T22:16:40Z"
   },
   {
-    "id": "gh-1330347036",
-    "name": "0toshigami/orbis-pictus",
-    "description": "A tap-to-explore picture book where an AI draws every page in real time \u2014 type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.",
-    "url": "https://github.com/0toshigami/orbis-pictus",
-    "stars": 27,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "creative",
-      "creative-coding",
-      "generative-ai",
-      "image-generation",
-      "llm",
-      "text-to-image"
-    ],
-    "created_at": "2026-08-11T00:16:54Z"
-  },
-  {
     "id": "gh-1332736816",
     "name": "MaincodeHQ/from-tin-to-tokens",
     "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
     "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
-    "stars": 24,
+    "stars": 25,
     "language": null,
     "topics": [
       "book",
@@ -327,7 +331,7 @@
     "name": "ruvnet/ai-text-watermark",
     "description": "Invisible, key-verifiable watermarks for AI/LLM-generated text \u2014 SynthID-Text-style, in Rust + WebAssembly (Node + browser). Live playground included.",
     "url": "https://github.com/ruvnet/ai-text-watermark",
-    "stars": 14,
+    "stars": 18,
     "language": "Rust",
     "topics": [
       "ai-content-detection",
