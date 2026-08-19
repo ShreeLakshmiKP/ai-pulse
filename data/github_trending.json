@@ -1,25 +1,10 @@
 [
   {
-    "id": "gh-1332009127",
-    "name": "vercel-labs/eve-software-factory-template",
-    "description": "Meet Foreman, an eve Software Factory.",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 887,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "eve",
-      "vercel"
-    ],
-    "created_at": "2026-08-12T12:34:43Z"
-  },
-  {
     "id": "gh-1332781509",
     "name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 804,
+    "stars": 863,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -35,42 +20,11 @@
     "created_at": "2026-08-13T06:28:56Z"
   },
   {
-    "id": "gh-1331592455",
-    "name": "DrHazemAli/enterprise-system-design",
-    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-    "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 544,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-governance",
-      "ai-security",
-      "ai-systems",
-      "cloud-architecture",
-      "cloud-infrastructure",
-      "cybersecurity",
-      "distributed-computing",
-      "distributed-systems",
-      "engineering",
-      "enterprise-architecture",
-      "enterprise-systems",
-      "hpc",
-      "mission-critical",
-      "realibility",
-      "sovereign-systems",
-      "system-design",
-      "well-architected",
-      "well-architected-framework",
-      "zero-trust"
-    ],
-    "created_at": "2026-08-12T04:03:15Z"
-  },
-  {
     "id": "gh-1333258936",
     "name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 467,
+    "stars": 509,
     "language": "HTML",
     "topics": [
       "agent",
@@ -89,58 +43,29 @@
     "created_at": "2026-08-13T15:22:29Z"
   },
   {
-    "id": "gh-1331941733",
-    "name": "Carasibana/ComfyUI-H3-FaceRefine",
-    "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
-    "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
-    "stars": 238,
-    "language": "Python",
-    "topics": [
-      "ai-video",
-      "comfyui",
-      "comfyui-custom-node",
-      "comfyui-custom-nodes",
-      "comfyui-nodes",
-      "comfyui-video",
-      "diffusion-models",
-      "face-detection",
-      "face-enhancement",
-      "face-restoration",
-      "generative-ai",
-      "insightface",
-      "lipsync",
-      "minimax-h3",
-      "segment-anything",
-      "video-generation",
-      "video-processing",
-      "yolov8"
-    ],
-    "created_at": "2026-08-12T11:18:15Z"
-  },
-  {
-    "id": "gh-1332216413",
-    "name": "wzchav/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/wzchav/tokentab",
-    "stars": 222,
+    "id": "gh-1336248697",
+    "name": "bawadou/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "stars": 225,
     "language": "Python",
     "topics": [
       "ai",
-      "api",
+      "ai-data-extractor",
       "claude",
-      "claude-code",
-      "claude-tool",
-      "gemini",
-      "token-usage"
+      "cursor",
+      "cursor-ai",
+      "data-extraction",
+      "gemini"
     ],
-    "created_at": "2026-08-12T16:09:39Z"
+    "created_at": "2026-08-16T18:35:58Z"
   },
   {
     "id": "gh-1332866061",
     "name": "seyedehsanhadi/sloptrim",
     "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
     "url": "https://github.com/seyedehsanhadi/sloptrim",
-    "stars": 154,
+    "stars": 161,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -167,29 +92,11 @@
     "created_at": "2026-08-13T08:09:10Z"
   },
   {
-    "id": "gh-1336248697",
-    "name": "bawadou/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 151,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-data-extractor",
-      "claude",
-      "cursor",
-      "cursor-ai",
-      "data-extraction",
-      "gemini"
-    ],
-    "created_at": "2026-08-16T18:35:58Z"
-  },
-  {
     "id": "gh-1333173677",
     "name": "Dominic789654/awesome-deepseek-harness",
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Coding \u00b7 Agents \u00b7 Loops (auto-research) and more. #dsh",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
-    "stars": 134,
+    "stars": 154,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -216,27 +123,25 @@
     "created_at": "2026-08-13T13:54:05Z"
   },
   {
-    "id": "gh-1333295863",
-    "name": "bradeGithub/DSH-Plugins-Marketplace",
-    "description": "DSH\u63d2\u4ef6\u5e02\u573a / DSH Plugin Marketplace: \u5728 DeepSeek Harness Web GUI \u4e2d\u4e00\u952e\u6d4f\u89c8\u3001\u5b89\u88c5\u4e0e\u66f4\u65b0 GitHub topic:dsh-plugin \u7684\u5168\u90e8\u63d2\u4ef6 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-    "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
-    "stars": 119,
-    "language": "JavaScript",
+    "id": "gh-1333964468",
+    "name": "V1ki/dsh-plugin-subscriptions",
+    "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers \u2014 OAuth login in the web UI, no API keys",
+    "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+    "stars": 137,
+    "language": "TypeScript",
     "topics": [
-      "agent",
-      "ai-agents",
-      "cordis",
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "codex",
       "deepseek-harness",
-      "dsh",
       "dsh-plugin",
-      "javascript",
+      "grok",
       "llm",
-      "marketplace",
-      "nodejs",
-      "plugin",
-      "plugin-marketplace"
+      "oauth",
+      "typescript"
     ],
-    "created_at": "2026-08-13T16:01:59Z"
+    "created_at": "2026-08-14T08:27:11Z"
   },
   {
     "id": "gh-1332604484",
@@ -260,29 +165,33 @@
     "created_at": "2026-08-13T01:59:03Z"
   },
   {
-    "id": "gh-1331679891",
-    "name": "Yixuan-Wu39/bandminton",
-    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-    "url": "https://github.com/Yixuan-Wu39/bandminton",
-    "stars": 103,
-    "language": "JavaScript",
+    "id": "gh-1332868730",
+    "name": "idavidov13/agentic-playwright",
+    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "url": "https://github.com/idavidov13/agentic-playwright",
+    "stars": 107,
+    "language": "Python",
     "topics": [
-      "accelerometer",
-      "badminton",
-      "fitness-tracking",
-      "machine-learning",
-      "motion-analysis",
-      "wearable",
-      "xiaomi"
+      "agentic",
+      "ai",
+      "api-testing",
+      "claude-code",
+      "cursor",
+      "e2e",
+      "github-copilot",
+      "playwright",
+      "test-automation",
+      "testing",
+      "typescript"
     ],
-    "created_at": "2026-08-12T06:14:49Z"
+    "created_at": "2026-08-13T08:12:20Z"
   },
   {
     "id": "gh-1335460253",
     "name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 42,
+    "stars": 50,
     "language": "Swift",
     "topics": [
       "ai",
@@ -309,11 +218,31 @@
     "created_at": "2026-08-15T22:16:40Z"
   },
   {
+    "id": "gh-1333211388",
+    "name": "diegosouzapw/OmniCopilot",
+    "description": "1200+ AI models in your GitHub Copilot Chat \u2014 free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen \u2014 with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
+    "url": "https://github.com/diegosouzapw/OmniCopilot",
+    "stars": 40,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "byok",
+      "copilot-chat",
+      "github-copilot",
+      "language-models",
+      "llm",
+      "omniroute",
+      "openai-compatible",
+      "vscode-extension"
+    ],
+    "created_at": "2026-08-13T14:33:05Z"
+  },
+  {
     "id": "gh-1332736816",
     "name": "MaincodeHQ/from-tin-to-tokens",
     "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
     "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
-    "stars": 25,
+    "stars": 26,
     "language": null,
     "topics": [
       "book",
@@ -331,7 +260,7 @@
     "name": "ruvnet/ai-text-watermark",
     "description": "Invisible, key-verifiable watermarks for AI/LLM-generated text \u2014 SynthID-Text-style, in Rust + WebAssembly (Node + browser). Live playground included.",
     "url": "https://github.com/ruvnet/ai-text-watermark",
-    "stars": 18,
+    "stars": 22,
     "language": "Rust",
     "topics": [
       "ai-content-detection",
@@ -356,5 +285,92 @@
       "webassembly"
     ],
     "created_at": "2026-08-15T23:43:35Z"
+  },
+  {
+    "id": "gh-1333408069",
+    "name": "snpsnp21/Polymarket-Trading-Bot-AI-Model-BTC-5m-15m-1h-UpDown-Prediction-Market-Arbitrage-CLOB-Crypto-Bot",
+    "description": "Polymarket Trading Bot \u2013 AI Model Trading Bot for BTC 5m 15m 1h UpDown | Prediction Market Arbitrage & CLOB Crypto Bot. ML + Bayesian anchor, paper/live modes, fractional Kelly risk.",
+    "url": "https://github.com/snpsnp21/Polymarket-Trading-Bot-AI-Model-BTC-5m-15m-1h-UpDown-Prediction-Market-Arbitrage-CLOB-Crypto-Bot",
+    "stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "bayesian-inference",
+      "bitcoin",
+      "build-polymarket-bot-with-ai",
+      "clob",
+      "machine-learning",
+      "nodejs",
+      "polymarket-ai-agent",
+      "polymarket-ai-bot",
+      "polymarket-ai-trading-bot",
+      "polymarket-algo-trading",
+      "polymarket-automated-trading",
+      "polymarket-bot",
+      "polymarket-btc-5-minute-bot",
+      "polymarket-clob-bot",
+      "polymarket-trading-bot",
+      "polymarket-trading-bot-nodejs",
+      "polymarket-trading-bot-typescript",
+      "polymarket-up-down-bot",
+      "prediction-market-trading-bot",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T18:09:59Z"
+  },
+  {
+    "id": "gh-1333418910",
+    "name": "snpsnp21/polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
+    "description": "Regime-gated ML arbitrage bot for Polymarket BTC Up/Down 5m, 15m, 1h markets. LightGBM probability model, calibrated edges, paper/live modes. polymarket AI model trading bot.",
+    "url": "https://github.com/snpsnp21/polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
+    "stars": 15,
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "btc-trading-bot",
+      "machine-learning",
+      "open-source-trading-bot",
+      "paper-trading",
+      "polygon",
+      "polymarket",
+      "polymarket-ai-trading-bot",
+      "polymarket-arbitrage-bot",
+      "polymarket-bot",
+      "polymarket-bot-2026",
+      "polymarket-btc-5-minute-bot",
+      "polymarket-clob-bot",
+      "polymarket-trading-bot",
+      "polymarket-up-down-bot",
+      "prediction-market",
+      "python-trading-bot",
+      "regime-detection"
+    ],
+    "created_at": "2026-08-13T18:23:16Z"
+  },
+  {
+    "id": "gh-1336278719",
+    "name": "jochi2018/Soup",
+    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
+    "url": "https://github.com/jochi2018/Soup",
+    "stars": 9,
+    "language": "Python",
+    "topics": [
+      "api",
+      "extract",
+      "go",
+      "html",
+      "llmops",
+      "local-ai",
+      "low-vram",
+      "machine-learning",
+      "ollama",
+      "qlora",
+      "selector",
+      "sft",
+      "swift",
+      "swiftsoup",
+      "twilio",
+      "webscraping"
+    ],
+    "created_at": "2026-08-16T19:15:11Z"
   }
 ]
