@@ -1517,6 +1517,179 @@
     "image": null
   },
   {
+    "id": "rss-42bbaa08",
+    "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 19 Aug 2026 23:32:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d306eafa",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 19 Aug 2026 22:10:46 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-6aba2536",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "tags": [
+      "startups",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 19 Aug 2026 21:51:23 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-88cde311",
+    "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 19 Aug 2026 19:11:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7e1debc1",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "tags": [
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-8656b8f7",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "tags": [
+      "Gemini",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ffa128c0",
+    "title": "5 new ways to level up your learning with Search",
+    "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f8a8e90f",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 19 Aug 2026 14:18:12 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-34372b36",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 19 Aug 2026 13:48:49 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c4c7cdc8",
+    "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 19 Aug 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2fd4207b",
+    "title": "Child-monitoring apps might need a reboot",
+    "summary": "Pam Wisniewski\u2019s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she\u2019d been isolated in a fifth-wheel trailer at the end of a seven-\u00admile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-09f9dc1b",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/replit",
+    "tags": [
+      "GPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-402e28f8",
     "title": "Meta is having trouble with rogue AI agents",
     "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
@@ -4161,179 +4334,6 @@
     ],
     "category": "AI Models",
     "published_date": "Tue, 30 Jun 2026 21:50:04 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-db04ba7c",
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 20:33:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9d697f00",
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "tags": [
-      "benchmark",
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 18:32:50 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-790e3857",
-    "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
-    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 17:36:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d866a21b",
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 30 Jun 2026 16:02:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4a099067",
-    "title": "Why Specialization Is Inevitable",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 30 Jun 2026 14:39:11 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-ecf57bff",
-    "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your \u201ccoworkers\u201d Imagine coming in to work to learn that a new underling will report to you.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-    "tags": [
-      "agents"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-76712e6d",
-    "title": "Agriculture is ready for AI, but its data isn\u2019t",
-    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cdfa1091",
-    "title": "Building tech in the world\u2019s secret R&D hub",
-    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people\u2014roughly half the size of San Francisco.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "NVIDIA"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 30 Jun 2026 10:23:30 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a0bd493d",
-    "title": "How ChatGPT adoption has expanded",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-bcdfc8c6",
-    "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
-    "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Tue, 30 Jun 2026 06:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e2142c8f",
-    "title": "The AI jobs debate just got messier",
-    "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 30 Jun 2026 04:01:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0c981188",
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 30 Jun 2026 02:28:41 +0000",
     "image": null
   }
 ]

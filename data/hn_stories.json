@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49343559",
-    "title": "Google has acquired the data of failed US airline Spirit",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "points": 572,
-    "comments": 395,
+    "id": "hn-49360545",
+    "title": "Geolocating a random island using geometry and CUDA programming",
+    "url": "https://yassa9.github.io/osint/gralhix-004/",
+    "points": 452,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-08-18T10:13:28Z"
+    "published_date": "2026-08-19T12:19:52Z"
   },
   {
-    "id": "hn-49349147",
-    "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-    "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-    "points": 296,
-    "comments": 446,
+    "id": "hn-49364745",
+    "title": "Google has stopped pushing Git tags for some Android source code",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "points": 423,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-08-18T17:24:53Z"
+    "published_date": "2026-08-19T17:47:29Z"
   },
   {
-    "id": "hn-49348751",
-    "title": "Claude Code May\u2013August 2026 weekly limits promotion",
-    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "id": "hn-49359425",
+    "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
+    "url": "https://theremin.bizibah.com/",
     "points": 267,
-    "comments": 244,
+    "comments": 90,
     "source": "Hacker News",
-    "published_date": "2026-08-18T17:02:15Z"
+    "published_date": "2026-08-19T10:15:00Z"
   },
   {
-    "id": "hn-49353221",
-    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "points": 230,
-    "comments": 76,
+    "id": "hn-49367350",
+    "title": "Feature Request: Support AGENTS.md",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "points": 201,
+    "comments": 112,
     "source": "Hacker News",
-    "published_date": "2026-08-18T21:50:33Z"
+    "published_date": "2026-08-19T21:19:50Z"
   },
   {
-    "id": "hn-49349898",
-    "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "points": 227,
-    "comments": 31,
+    "id": "hn-49364658",
+    "title": "Opus 5.0 drives incoherence into the stratosphere",
+    "url": "https://github.com/anthropics/claude-code/issues/77136",
+    "points": 177,
+    "comments": 160,
     "source": "Hacker News",
-    "published_date": "2026-08-18T18:07:21Z"
+    "published_date": "2026-08-19T17:40:06Z"
   },
   {
-    "id": "hn-49344643",
-    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-    "points": 169,
-    "comments": 142,
+    "id": "hn-49362728",
+    "title": "Mathematics in the age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "points": 149,
+    "comments": 182,
     "source": "Hacker News",
-    "published_date": "2026-08-18T12:22:58Z"
+    "published_date": "2026-08-19T15:14:25Z"
   },
   {
-    "id": "hn-49348163",
-    "title": "Degraded performance for multiple models",
-    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "points": 147,
-    "comments": 129,
+    "id": "hn-49363668",
+    "title": "Extensible Software in the age of LLMs",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "points": 140,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-08-18T16:28:20Z"
+    "published_date": "2026-08-19T16:26:05Z"
   },
   {
-    "id": "hn-49352806",
-    "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
-    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "points": 126,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T21:14:21Z"
-  },
-  {
-    "id": "hn-49353407",
-    "title": "GLM-5.3 Artificial Analysis Benchmarks",
-    "url": "https://artificialanalysis.ai/models/glm-5-3",
-    "points": 115,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T22:06:10Z"
-  },
-  {
-    "id": "hn-49353432",
-    "title": "AI usage patterns in software teams",
-    "url": "https://linear.app/data",
-    "points": 102,
-    "comments": 55,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T22:08:07Z"
-  },
-  {
-    "id": "hn-49348136",
-    "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
-    "url": "https://machine0.io",
-    "points": 70,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T16:26:42Z"
-  },
-  {
-    "id": "hn-49352794",
-    "title": "Companies promote incompetent employees to management to limit damage they do",
-    "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-    "points": 65,
-    "comments": 67,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T21:13:30Z"
-  },
-  {
-    "id": "hn-49342601",
-    "title": "git git git git git",
-    "url": "https://caiustheory.com/git-git-git-git-git/",
-    "points": 41,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T07:35:30Z"
-  },
-  {
-    "id": "hn-49346135",
-    "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "points": 40,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T14:29:20Z"
-  },
-  {
-    "id": "hn-49345364",
-    "title": "ChatGPT has almost stopped citing Reddit",
-    "url": "https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt",
-    "points": 32,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T13:29:27Z"
-  },
-  {
-    "id": "hn-49348141",
-    "title": "Git at Any Scale",
-    "url": "https://cursor.com/blog/git-at-any-scale",
-    "points": 30,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T16:26:56Z"
-  },
-  {
-    "id": "hn-49347015",
-    "title": "AI won't solve the work-theater problem",
-    "url": "https://think-twice.me/?p=102",
-    "points": 28,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T15:21:29Z"
-  },
-  {
-    "id": "hn-49355607",
-    "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-    "url": "https://github.com/katiahayati/lucasartsifier/",
-    "points": 27,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-08-19T01:58:33Z"
-  },
-  {
-    "id": "hn-49349159",
-    "title": "Show HN: macOS data protection keychain for Electron apps",
-    "url": "https://github.com/biw/keychain-store",
-    "points": 23,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-18T17:25:19Z"
-  },
-  {
-    "id": "hn-49345154",
-    "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-    "url": "https://github.com/mukundzha/avouch",
-    "points": 22,
+    "id": "hn-49363710",
+    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+    "url": "https://github.com/onecli/onecli",
+    "points": 73,
     "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-08-18T13:13:17Z"
+    "published_date": "2026-08-19T16:29:02Z"
+  },
+  {
+    "id": "hn-49368193",
+    "title": "Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat",
+    "url": "https://www.uncensoredobjection.com/p/senator-rick-scott-walked-away-from",
+    "points": 44,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T22:52:03Z"
+  },
+  {
+    "id": "hn-49364223",
+    "title": "Show HN: Frugal Tokens \u2013 explore costs and usage across coding agents",
+    "url": "https://demo.frugaltokens.com/",
+    "points": 31,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T17:07:35Z"
+  },
+  {
+    "id": "hn-49367836",
+    "title": "Collaborative Human Agent Protocol (CHAP)",
+    "url": "https://github.com/BrightbeamAI/chap",
+    "points": 25,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T22:09:16Z"
+  },
+  {
+    "id": "hn-49361352",
+    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "points": 21,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T13:28:44Z"
+  },
+  {
+    "id": "hn-49368911",
+    "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+    "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+    "points": 19,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-08-20T00:18:16Z"
+  },
+  {
+    "id": "hn-49367870",
+    "title": "Japan to require AI firms to disclose training data",
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+    "points": 16,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T22:12:52Z"
+  },
+  {
+    "id": "hn-49367929",
+    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+    "points": 14,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T22:20:14Z"
+  },
+  {
+    "id": "hn-49365570",
+    "title": "What the $20 Burrito Debate Gets Wrong About Affordability",
+    "url": "https://newsletter.platypuseconomics.com/p/burrito-gate-and-the-affordability",
+    "points": 12,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T18:45:32Z"
+  },
+  {
+    "id": "hn-49362305",
+    "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+    "url": "https://news.ycombinator.com/item?id=49362305",
+    "points": 11,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T14:40:45Z"
+  },
+  {
+    "id": "hn-49367576",
+    "title": "New AirPods leak reveals built-in cameras and Visual Intelligence",
+    "url": "https://www.dexerto.com/entertainment/new-airpods-leak-reveals-built-in-cameras-and-visual-intelligence-3400062/",
+    "points": 11,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T21:42:32Z"
+  },
+  {
+    "id": "hn-49366075",
+    "title": "Daily Reminder to Not Listen to Google's AI Overview",
+    "url": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+    "points": 11,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T19:26:46Z"
+  },
+  {
+    "id": "hn-49359914",
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "points": 11,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-19T11:10:40Z"
   }
 ]
