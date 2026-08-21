@@ -4,7 +4,7 @@
     "name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 448,
+    "stars": 531,
     "language": "Python",
     "topics": [
       "ai",
@@ -22,7 +22,7 @@
     "name": "amitshekhariitbhu/llm-inference-engineering",
     "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
     "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-    "stars": 189,
+    "stars": 209,
     "language": "Markdown",
     "topics": [
       "inference-engineering",
@@ -36,32 +36,11 @@
     "created_at": "2026-08-18T03:10:26Z"
   },
   {
-    "id": "gh-1333964468",
-    "name": "V1ki/dsh-plugin-subscriptions",
-    "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers \u2014 OAuth login in the web UI, no API keys",
-    "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
-    "stars": 182,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "chatgpt",
-      "claude",
-      "codex",
-      "deepseek-harness",
-      "dsh-plugin",
-      "grok",
-      "llm",
-      "oauth",
-      "typescript"
-    ],
-    "created_at": "2026-08-14T08:27:11Z"
-  },
-  {
     "id": "gh-1338220660",
     "name": "sam70361/emotion-ball",
     "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 120,
+    "stars": 201,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -85,7 +64,7 @@
     "name": "Vistyy/nopus",
     "description": "Deterministic prose checks for clearer coding-agent responses",
     "url": "https://github.com/Vistyy/nopus",
-    "stars": 120,
+    "stars": 154,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -104,7 +83,7 @@
     "name": "squall01337/mixamo-llm-mocap",
     "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
     "url": "https://github.com/squall01337/mixamo-llm-mocap",
-    "stars": 99,
+    "stars": 127,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -121,60 +100,11 @@
     "created_at": "2026-08-17T21:05:02Z"
   },
   {
-    "id": "gh-1334392318",
-    "name": "qiannianhuanxiang/DSHA",
-    "description": "DeepSeek Harness \u5b89\u5353\u542f\u52a8\u5668\uff1a\u5185\u7f6e proot+Ubuntu\uff0c\u514d ROOT \u514d Termux \u4e00\u952e\u8fd0\u884c deepseek-harness\uff0c\u591a\u6e90\u6d4b\u901f/\u5206\u6b65\u5b89\u88c5/WebUI \u9884\u89c8/\u8bbe\u5907 Shell \u6865\u63a5",
-    "url": "https://github.com/qiannianhuanxiang/DSHA",
-    "stars": 99,
-    "language": "Java",
-    "topics": [
-      "android",
-      "deepseek",
-      "launcher",
-      "llm",
-      "proot",
-      "shizuku",
-      "webui"
-    ],
-    "created_at": "2026-08-14T16:52:02Z"
-  },
-  {
-    "id": "gh-1335460253",
-    "name": "Greninja9257/LabLLM",
-    "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-    "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 56,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "apple-silicon",
-      "artificial-intelligence",
-      "deep-learning",
-      "fine-tuning",
-      "generative-ai",
-      "gpt",
-      "large-language-model",
-      "llm",
-      "local-ai",
-      "lora",
-      "machine-learning",
-      "macos",
-      "mlx",
-      "on-device-ai",
-      "open-source-llm",
-      "quantization",
-      "swift",
-      "swiftui",
-      "transformers"
-    ],
-    "created_at": "2026-08-15T22:16:40Z"
-  },
-  {
     "id": "gh-1337390717",
     "name": "zorost/AI-Engineering-Lab",
     "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
     "url": "https://github.com/zorost/AI-Engineering-Lab",
-    "stars": 45,
+    "stars": 98,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -201,52 +131,120 @@
     "created_at": "2026-08-17T16:34:05Z"
   },
   {
-    "id": "gh-1334938665",
-    "name": "tt-11-dd/tether-ai",
-    "description": "Tether Agent ",
-    "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 39,
+    "id": "gh-1337506732",
+    "name": "elie222/botdirectory.ai",
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "url": "https://github.com/elie222/botdirectory.ai",
+    "stars": 94,
+    "language": "Astro",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "astro",
+      "automation",
+      "bots",
+      "directory",
+      "grok",
+      "grokbot",
+      "llm",
+      "prompt-engineering",
+      "prompts",
+      "rakazo"
+    ],
+    "created_at": "2026-08-17T18:23:44Z"
+  },
+  {
+    "id": "gh-1334824785",
+    "name": "zachahn/vomit",
+    "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+    "url": "https://github.com/zachahn/vomit",
+    "stars": 78,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "claude-code"
+    ],
+    "created_at": "2026-08-15T05:43:59Z"
+  },
+  {
+    "id": "gh-1335460253",
+    "name": "Greninja9257/LabLLM",
+    "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+    "url": "https://github.com/Greninja9257/LabLLM",
+    "stars": 59,
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "apple-silicon",
+      "artificial-intelligence",
+      "deep-learning",
+      "fine-tuning",
+      "generative-ai",
+      "gpt",
+      "large-language-model",
+      "llm",
+      "local-ai",
+      "lora",
+      "machine-learning",
+      "macos",
+      "mlx",
+      "on-device-ai",
+      "open-source-llm",
+      "quantization",
+      "swift",
+      "swiftui",
+      "transformers"
+    ],
+    "created_at": "2026-08-15T22:16:40Z"
+  },
+  {
+    "id": "gh-1337788143",
+    "name": "ihsan-ramadhan/bansos-router",
+    "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+    "url": "https://github.com/ihsan-ramadhan/bansos-router",
+    "stars": 52,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "claude-code",
-      "codex",
-      "harness"
+      "bansos",
+      "free-ai",
+      "proxy",
+      "router"
     ],
-    "created_at": "2026-08-15T08:57:35Z"
+    "created_at": "2026-08-17T23:53:59Z"
   },
   {
-    "id": "gh-1334912034",
-    "name": "zimodzh/dsh-plugin-dev-skills",
-    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6\u3002Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
-    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-    "stars": 35,
-    "language": null,
+    "id": "gh-1341129518",
+    "name": "stems-arraign-48/neurocursor-ai",
+    "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device \u2014 built for gaming, perfect for everyday use and accessibility.",
+    "url": "https://github.com/stems-arraign-48/neurocursor-ai",
+    "stars": 50,
+    "language": "C++",
     "topics": [
-      "agent",
-      "agent-skill",
-      "agent-skills",
       "ai",
-      "ai-agent",
-      "awesome-dsh-plugin",
-      "claude-code",
-      "codex",
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "llm-agent",
-      "skill",
-      "skills"
+      "computer-vision",
+      "cplusplus",
+      "cpp",
+      "cursor-control",
+      "eye-tracking",
+      "face-tracking",
+      "gamedev",
+      "gaming",
+      "gaze-tracking",
+      "head-tracking",
+      "machine-learning",
+      "mouse-control",
+      "neural-network"
     ],
-    "created_at": "2026-08-15T08:14:49Z"
+    "created_at": "2026-08-20T20:42:28Z"
   },
   {
     "id": "gh-1335501129",
     "name": "ruvnet/ai-text-watermark",
     "description": "Invisible, key-verifiable watermarks for AI/LLM-generated text \u2014 SynthID-Text-style, in Rust + WebAssembly (Node + browser). Live playground included.",
     "url": "https://github.com/ruvnet/ai-text-watermark",
-    "stars": 22,
+    "stars": 24,
     "language": "Rust",
     "topics": [
       "ai-content-detection",
@@ -277,7 +275,7 @@
     "name": "chilly23/RP2040-and-ESP32-AI",
     "description": "Run a 28.9M-parameter TinyLM on ESP32-S3 with an RP2040 OLED display node for fully local embedded AI inference.",
     "url": "https://github.com/chilly23/RP2040-and-ESP32-AI",
-    "stars": 12,
+    "stars": 17,
     "language": "Python",
     "topics": [
       "arduino",
@@ -302,6 +300,25 @@
       "tinyml"
     ],
     "created_at": "2026-08-17T17:13:41Z"
+  },
+  {
+    "id": "gh-1340901473",
+    "name": "tainguyen07/agent-workflow-mcp",
+    "description": "Multi-agent workflow orchestrator with MCP tool servers: planner/executor agents, tool-use loop, MCP client/server, tracing and durable runs.",
+    "url": "https://github.com/tainguyen07/agent-workflow-mcp",
+    "stars": 15,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent",
+      "orchestration",
+      "tool-use"
+    ],
+    "created_at": "2026-08-20T16:22:18Z"
   },
   {
     "id": "gh-1336278719",
@@ -329,36 +346,5 @@
       "webscraping"
     ],
     "created_at": "2026-08-16T19:15:11Z"
-  },
-  {
-    "id": "gh-1336103704",
-    "name": "K-Dense-AI/drug-discovery-agent-skills",
-    "description": "Agent Skills for small-molecule and protein therapeutics: cheminformatics, molecular ML, docking and dynamics, protein design platforms, and target-discovery knowledge graphs.",
-    "url": "https://github.com/K-Dense-AI/drug-discovery-agent-skills",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "agent-plugins",
-      "agent-skills",
-      "ai-agents",
-      "bioinformatics",
-      "cheminformatics",
-      "claude-code",
-      "computational-chemistry",
-      "deep-learning",
-      "deepchem",
-      "drug-discovery",
-      "knowledge-graph",
-      "llm",
-      "machine-learning",
-      "molecular-docking",
-      "molecular-dynamics",
-      "protein-design",
-      "python",
-      "rdkit",
-      "skills",
-      "structural-biology"
-    ],
-    "created_at": "2026-08-16T15:53:48Z"
   }
 ]
