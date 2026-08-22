@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49371857",
-    "title": "Don't paste the AI, please",
-    "url": "https://dontpastetheai.com/",
-    "points": 1005,
-    "comments": 554,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T08:20:44Z"
-  },
-  {
-    "id": "hn-49373456",
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "points": 540,
-    "comments": 113,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T12:04:38Z"
-  },
-  {
-    "id": "hn-49374269",
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "points": 458,
-    "comments": 394,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T13:23:12Z"
-  },
-  {
-    "id": "hn-49378768",
-    "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "points": 274,
-    "comments": 146,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T19:05:36Z"
-  },
-  {
-    "id": "hn-49383026",
+    "id": "hn-49385994",
     "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "points": 247,
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "points": 703,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T10:05:46Z"
+  },
+  {
+    "id": "hn-49386699",
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "points": 327,
+    "comments": 336,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T11:48:05Z"
+  },
+  {
+    "id": "hn-49388752",
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "points": 241,
     "comments": 169,
     "source": "Hacker News",
-    "published_date": "2026-08-21T02:37:47Z"
+    "published_date": "2026-08-21T14:31:52Z"
   },
   {
-    "id": "hn-49375996",
-    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-    "url": "https://github.com/zachahn/vomit",
-    "points": 228,
-    "comments": 232,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T15:26:02Z"
-  },
-  {
-    "id": "hn-49382041",
-    "title": "Copyright does not protect AI-generated content in EU",
-    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "id": "hn-49389565",
+    "title": "AI boosted homework scores, then exam scores dropped: Study",
+    "url": "https://canews24.online/?p=71",
     "points": 165,
-    "comments": 177,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-08-21T00:15:12Z"
+    "published_date": "2026-08-21T15:25:42Z"
   },
   {
-    "id": "hn-49375719",
-    "title": "Anti-AI fonts are useless and harmful",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "points": 144,
-    "comments": 100,
+    "id": "hn-49393052",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "points": 108,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-08-20T15:06:53Z"
+    "published_date": "2026-08-21T19:51:54Z"
   },
   {
-    "id": "hn-49382200",
-    "title": "It is a sign of the times that Amazon gets to call this fair use",
-    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+    "id": "hn-49390308",
+    "title": "What happens when a GPU reads memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
     "points": 105,
-    "comments": 79,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-08-21T00:34:32Z"
+    "published_date": "2026-08-21T16:16:42Z"
   },
   {
-    "id": "hn-49374772",
-    "title": "Hacking with Claude on a $27 smart watch",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "points": 92,
-    "comments": 48,
+    "id": "hn-49390463",
+    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "points": 96,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-08-20T14:08:09Z"
+    "published_date": "2026-08-21T16:27:52Z"
   },
   {
-    "id": "hn-49373269",
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "points": 81,
-    "comments": 138,
+    "id": "hn-49393051",
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "points": 87,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-08-20T11:42:20Z"
+    "published_date": "2026-08-21T19:51:48Z"
   },
   {
-    "id": "hn-49375244",
-    "title": "Show HN: Open-source Stripe Connect alternative",
-    "url": "https://zoneless.com",
-    "points": 69,
-    "comments": 29,
+    "id": "hn-49394373",
+    "title": "'Ghost job' ads are getting so bad that lawmakers want to ban them",
+    "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+    "points": 82,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-08-20T14:38:45Z"
+    "published_date": "2026-08-21T22:15:46Z"
   },
   {
-    "id": "hn-49376287",
-    "title": "I am morally opposed to updating my Claude.md",
-    "url": "https://alex-jacobs.com/posts/claudemd/",
-    "points": 29,
-    "comments": 27,
+    "id": "hn-49394827",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "url": "https://ozbrain.com",
+    "points": 61,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-08-20T15:47:48Z"
+    "published_date": "2026-08-21T23:09:06Z"
   },
   {
-    "id": "hn-49376100",
-    "title": "Epic Games Store to get an official Linux version",
-    "url": "https://www.pcguide.com/news/epic-games-store-to-get-an-official-linux-version-which-could-mean-a-native-app-for-steam-deck-and-machine/",
-    "points": 28,
-    "comments": 0,
+    "id": "hn-49388963",
+    "title": "How I came to write that paper with Leslie Lamport",
+    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+    "points": 47,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-08-20T15:34:18Z"
+    "published_date": "2026-08-21T14:46:01Z"
   },
   {
-    "id": "hn-49371195",
-    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
-    "points": 27,
+    "id": "hn-49392331",
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "points": 45,
+    "comments": 51,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T18:48:28Z"
+  },
+  {
+    "id": "hn-49390066",
+    "title": "LLMs are proof that Unix won",
+    "url": "https://bastian.rieck.me/blog/2026/unix/",
+    "points": 40,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T15:59:16Z"
+  },
+  {
+    "id": "hn-49390739",
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "points": 38,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T16:47:15Z"
+  },
+  {
+    "id": "hn-49395638",
+    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+    "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+    "points": 31,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T01:09:21Z"
+  },
+  {
+    "id": "hn-49389339",
+    "title": "Code Obfuscation via Local Mixing",
+    "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+    "points": 30,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-08-20T06:40:14Z"
+    "published_date": "2026-08-21T15:11:10Z"
   },
   {
-    "id": "hn-49379261",
-    "title": "Introducing AI Futures",
-    "url": "https://openai.com/index/introducing-ai-futures/",
+    "id": "hn-49384642",
+    "title": "Young Americans increasingly fear AI will take their jobs",
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "points": 28,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T06:49:46Z"
+  },
+  {
+    "id": "hn-49387915",
+    "title": "Getting silly with C, part and((int*)-8)[3]",
+    "url": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
     "points": 26,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T13:40:22Z"
+  },
+  {
+    "id": "hn-49389466",
+    "title": "Show HN: A desktop fly drawn to the scent of vibecode",
+    "url": "https://github.com/kulikov0/desktop-vibe-fly",
+    "points": 19,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-21T15:19:00Z"
+  },
+  {
+    "id": "hn-49387059",
+    "title": "AI;DR or Don't be a meat proxy",
+    "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
+    "points": 17,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-08-20T19:46:49Z"
-  },
-  {
-    "id": "hn-49375390",
-    "title": "Could AIs Become Conscious?",
-    "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
-    "points": 25,
-    "comments": 84,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T14:47:12Z"
-  },
-  {
-    "id": "hn-49377155",
-    "title": "AI at Home Part 2: Multi-GPU Drifting",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "points": 24,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T16:53:55Z"
-  },
-  {
-    "id": "hn-49378994",
-    "title": "As founding CEO of GitLab, I went \"founder mode\" on my cancer",
-    "url": "https://cancerletter.com/guest-editorial/20260814_2/",
-    "points": 23,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T19:25:33Z"
-  },
-  {
-    "id": "hn-49376197",
-    "title": "Autolith: A programming agent with a live runtime",
-    "url": "https://www.lambda-symbolics.com/autolith",
-    "points": 20,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-08-20T15:40:57Z"
+    "published_date": "2026-08-21T12:25:45Z"
   }
 ]

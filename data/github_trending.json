@@ -4,7 +4,7 @@
     "name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 531,
+    "stars": 537,
     "language": "Python",
     "topics": [
       "ai",
@@ -18,29 +18,11 @@
     "created_at": "2026-08-16T18:35:58Z"
   },
   {
-    "id": "gh-1337918481",
-    "name": "amitshekhariitbhu/llm-inference-engineering",
-    "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-    "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-    "stars": 209,
-    "language": "Markdown",
-    "topics": [
-      "inference-engineering",
-      "inference-optimization",
-      "large-language-models",
-      "llm",
-      "llm-engineering",
-      "llm-inference",
-      "llms"
-    ],
-    "created_at": "2026-08-18T03:10:26Z"
-  },
-  {
     "id": "gh-1338220660",
     "name": "sam70361/emotion-ball",
     "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 201,
+    "stars": 226,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -60,30 +42,29 @@
     "created_at": "2026-08-18T09:28:02Z"
   },
   {
-    "id": "gh-1335085754",
-    "name": "Vistyy/nopus",
-    "description": "Deterministic prose checks for clearer coding-agent responses",
-    "url": "https://github.com/Vistyy/nopus",
-    "stars": 154,
-    "language": "TypeScript",
+    "id": "gh-1337918481",
+    "name": "amitshekhariitbhu/llm-inference-engineering",
+    "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+    "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+    "stars": 213,
+    "language": "Markdown",
     "topics": [
-      "agent-skills",
-      "claude-code",
-      "coding-agents",
-      "developer-tools",
+      "inference-engineering",
+      "inference-optimization",
+      "large-language-models",
       "llm",
-      "openai-codex",
-      "pi-coding-agent",
-      "readability"
+      "llm-engineering",
+      "llm-inference",
+      "llms"
     ],
-    "created_at": "2026-08-15T12:53:20Z"
+    "created_at": "2026-08-18T03:10:26Z"
   },
   {
     "id": "gh-1337657531",
     "name": "squall01337/mixamo-llm-mocap",
     "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
     "url": "https://github.com/squall01337/mixamo-llm-mocap",
-    "stars": 127,
+    "stars": 136,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -98,6 +79,60 @@
       "smpl-x"
     ],
     "created_at": "2026-08-17T21:05:02Z"
+  },
+  {
+    "id": "gh-1337506732",
+    "name": "elie222/botdirectory.ai",
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "url": "https://github.com/elie222/botdirectory.ai",
+    "stars": 104,
+    "language": "Astro",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "astro",
+      "automation",
+      "bots",
+      "directory",
+      "grok",
+      "grokbot",
+      "llm",
+      "prompt-engineering",
+      "prompts",
+      "rakazo"
+    ],
+    "created_at": "2026-08-17T18:23:44Z"
+  },
+  {
+    "id": "gh-1340492162",
+    "name": "Jordanwei1/jiaojie-skill",
+    "description": "\u4ea4\u63a5 Skill\uff08Jiaojie\uff09\uff1a\u8de8\u7a97\u53e3\u3001\u8de8\u6a21\u578b\u3001\u8de8\u8bbe\u5907\u3001\u8de8\u8bed\u8a00\u7684 AI \u4e0a\u4e0b\u6587\u4ea4\u63a5\u5de5\u5177\u3002\u6362\u7a97\u53e3\uff0c\u4e0d\u5931\u5fc6\uff1b\u6362\u6a21\u578b\uff0c\u4e0d\u91cd\u6765\u3002Open-source AI context handoff.",
+    "url": "https://github.com/Jordanwei1/jiaojie-skill",
+    "stars": 102,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "ai-memory",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "codex-skill",
+      "context-engineering",
+      "context-handoff",
+      "cross-model",
+      "cursor",
+      "cursor-skills",
+      "gemini-cli",
+      "gemini-cli-skills",
+      "handoff",
+      "llm",
+      "open-source",
+      "openclaw",
+      "openclaw-skill"
+    ],
+    "created_at": "2026-08-20T08:57:52Z"
   },
   {
     "id": "gh-1337390717",
@@ -131,79 +166,11 @@
     "created_at": "2026-08-17T16:34:05Z"
   },
   {
-    "id": "gh-1337506732",
-    "name": "elie222/botdirectory.ai",
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "url": "https://github.com/elie222/botdirectory.ai",
-    "stars": 94,
-    "language": "Astro",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "astro",
-      "automation",
-      "bots",
-      "directory",
-      "grok",
-      "grokbot",
-      "llm",
-      "prompt-engineering",
-      "prompts",
-      "rakazo"
-    ],
-    "created_at": "2026-08-17T18:23:44Z"
-  },
-  {
-    "id": "gh-1334824785",
-    "name": "zachahn/vomit",
-    "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-    "url": "https://github.com/zachahn/vomit",
-    "stars": 78,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-tools",
-      "claude-code"
-    ],
-    "created_at": "2026-08-15T05:43:59Z"
-  },
-  {
-    "id": "gh-1335460253",
-    "name": "Greninja9257/LabLLM",
-    "description": "A native macOS lab for teaching tiny language models to think \u2014 build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-    "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 59,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "apple-silicon",
-      "artificial-intelligence",
-      "deep-learning",
-      "fine-tuning",
-      "generative-ai",
-      "gpt",
-      "large-language-model",
-      "llm",
-      "local-ai",
-      "lora",
-      "machine-learning",
-      "macos",
-      "mlx",
-      "on-device-ai",
-      "open-source-llm",
-      "quantization",
-      "swift",
-      "swiftui",
-      "transformers"
-    ],
-    "created_at": "2026-08-15T22:16:40Z"
-  },
-  {
     "id": "gh-1337788143",
     "name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 52,
+    "stars": 68,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -240,42 +207,30 @@
     "created_at": "2026-08-20T20:42:28Z"
   },
   {
-    "id": "gh-1335501129",
-    "name": "ruvnet/ai-text-watermark",
-    "description": "Invisible, key-verifiable watermarks for AI/LLM-generated text \u2014 SynthID-Text-style, in Rust + WebAssembly (Node + browser). Live playground included.",
-    "url": "https://github.com/ruvnet/ai-text-watermark",
-    "stars": 24,
-    "language": "Rust",
+    "id": "gh-1338745917",
+    "name": "yellow13441/nodeseek-ai-profile",
+    "description": "NodeSeek \u7528\u6237 AI \u753b\u50cf Userscript\uff1a\u5feb\u901f\u753b\u50cf\u3001\u6df1\u5ea6\u4ea4\u6613\u5206\u6790\u3001\u591a\u7528\u6237\u5e76\u53d1\u3001\u7ba1\u7406\u8bb0\u5f55\u3001\u591a AI Provider\u3001Token \u5c55\u793a\u4e0e\u56fe\u7247\u5206\u4eab\u3002",
+    "url": "https://github.com/yellow13441/nodeseek-ai-profile",
+    "stars": 34,
+    "language": "JavaScript",
     "topics": [
-      "ai-content-detection",
-      "ai-provenance",
-      "ai-watermark",
-      "content-credentials",
-      "distortion-free",
-      "eu-ai-act",
-      "generative-ai",
-      "gumbel-watermark",
-      "llm",
-      "llm-watermark",
-      "provenance",
-      "responsible-ai",
-      "rust",
-      "synthid",
-      "synthid-text",
-      "text-watermark",
-      "typescript",
-      "wasm",
-      "watermarking",
-      "webassembly"
+      "ai",
+      "deepseek",
+      "javascript",
+      "nodeseek",
+      "openai",
+      "tampermonkey",
+      "userscript",
+      "violentmonkey"
     ],
-    "created_at": "2026-08-15T23:43:35Z"
+    "created_at": "2026-08-18T18:58:46Z"
   },
   {
     "id": "gh-1337435011",
     "name": "chilly23/RP2040-and-ESP32-AI",
     "description": "Run a 28.9M-parameter TinyLM on ESP32-S3 with an RP2040 OLED display node for fully local embedded AI inference.",
     "url": "https://github.com/chilly23/RP2040-and-ESP32-AI",
-    "stars": 17,
+    "stars": 24,
     "language": "Python",
     "topics": [
       "arduino",
@@ -325,7 +280,7 @@
     "name": "jochi2018/Soup",
     "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
     "url": "https://github.com/jochi2018/Soup",
-    "stars": 10,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "api",
@@ -346,5 +301,43 @@
       "webscraping"
     ],
     "created_at": "2026-08-16T19:15:11Z"
+  },
+  {
+    "id": "gh-1340901244",
+    "name": "tainguyen07/rag-doc-qa",
+    "description": "Production-style Retrieval-Augmented Generation document Q&A: LangChain ingestion, Chroma/pgvector store, hybrid retrieval, citation-grounded answers and a streaming chat API.",
+    "url": "https://github.com/tainguyen07/rag-doc-qa",
+    "stars": 10,
+    "language": "Python",
+    "topics": [
+      "chromadb",
+      "generative-ai",
+      "langchain",
+      "llm",
+      "openai",
+      "rag",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "created_at": "2026-08-20T16:22:02Z"
+  },
+  {
+    "id": "gh-1340901362",
+    "name": "tainguyen07/llm-structured-extract",
+    "description": "Reliable structured extraction from LLMs: Pydantic schemas, function/tool calling, ret/repair loop, JSON-schema validation and batch pipelines with cost tracking.",
+    "url": "https://github.com/tainguyen07/llm-structured-extract",
+    "stars": 10,
+    "language": "Python",
+    "topics": [
+      "data-extraction",
+      "function-calling",
+      "generative-ai",
+      "json-schema",
+      "llm",
+      "openai",
+      "pydantic",
+      "structured-output"
+    ],
+    "created_at": "2026-08-20T16:22:10Z"
   }
 ]
