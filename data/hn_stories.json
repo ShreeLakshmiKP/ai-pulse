@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-49385994",
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "url": "https://annas-archive.pk/blog/physical-destruction.html",
-    "points": 703,
-    "comments": 2,
+    "id": "hn-49402232",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "points": 271,
+    "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-08-21T10:05:46Z"
+    "published_date": "2026-08-22T18:14:16Z"
   },
   {
-    "id": "hn-49386699",
-    "title": "I'm becoming AI-blind",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "points": 327,
-    "comments": 336,
+    "id": "hn-49402741",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "points": 179,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-08-21T11:48:05Z"
+    "published_date": "2026-08-22T19:04:41Z"
   },
   {
-    "id": "hn-49388752",
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "points": 241,
-    "comments": 169,
+    "id": "hn-49401549",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "points": 179,
+    "comments": 164,
     "source": "Hacker News",
-    "published_date": "2026-08-21T14:31:52Z"
+    "published_date": "2026-08-22T16:58:49Z"
   },
   {
-    "id": "hn-49389565",
-    "title": "AI boosted homework scores, then exam scores dropped: Study",
-    "url": "https://canews24.online/?p=71",
-    "points": 165,
-    "comments": 9,
+    "id": "hn-49404380",
+    "title": "NanoGPT Speedrun Frontier",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "points": 84,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-08-21T15:25:42Z"
+    "published_date": "2026-08-22T22:14:27Z"
   },
   {
-    "id": "hn-49393052",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "points": 108,
-    "comments": 31,
+    "id": "hn-49402521",
+    "title": "Show HN: Make your logo extra bright on HDR screens",
+    "url": "https://www.soverybright.com/",
+    "points": 56,
+    "comments": 66,
     "source": "Hacker News",
-    "published_date": "2026-08-21T19:51:54Z"
+    "published_date": "2026-08-22T18:43:03Z"
   },
   {
-    "id": "hn-49390308",
-    "title": "What happens when a GPU reads memory",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "points": 105,
-    "comments": 18,
+    "id": "hn-49399941",
+    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "points": 54,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-08-21T16:16:42Z"
+    "published_date": "2026-08-22T14:13:05Z"
   },
   {
-    "id": "hn-49390463",
-    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "points": 96,
-    "comments": 53,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T16:27:52Z"
-  },
-  {
-    "id": "hn-49393051",
-    "title": "Quick impressions: A week of using Codex more than Claude",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "points": 87,
-    "comments": 93,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T19:51:48Z"
-  },
-  {
-    "id": "hn-49394373",
-    "title": "'Ghost job' ads are getting so bad that lawmakers want to ban them",
-    "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-    "points": 82,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T22:15:46Z"
-  },
-  {
-    "id": "hn-49394827",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "url": "https://ozbrain.com",
-    "points": 61,
+    "id": "hn-49402907",
+    "title": "English \u2194 Claudish Translator",
+    "url": "https://programasweights.com/claudish",
+    "points": 50,
     "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-08-21T23:09:06Z"
+    "published_date": "2026-08-22T19:19:15Z"
   },
   {
-    "id": "hn-49388963",
-    "title": "How I came to write that paper with Leslie Lamport",
-    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-    "points": 47,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T14:46:01Z"
-  },
-  {
-    "id": "hn-49392331",
-    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "points": 45,
-    "comments": 51,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T18:48:28Z"
-  },
-  {
-    "id": "hn-49390066",
-    "title": "LLMs are proof that Unix won",
-    "url": "https://bastian.rieck.me/blog/2026/unix/",
-    "points": 40,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T15:59:16Z"
-  },
-  {
-    "id": "hn-49390739",
-    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-    "url": "https://github.com/proliferate-ai/proliferate",
+    "id": "hn-49400729",
+    "title": "Song (server of Nostr-powered Git) is a simple personal Git server",
+    "url": "https://gitworkshop.dev/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6/song",
     "points": 38,
-    "comments": 15,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-08-21T16:47:15Z"
+    "published_date": "2026-08-22T15:26:01Z"
   },
   {
-    "id": "hn-49395638",
-    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-    "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
-    "points": 31,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T01:09:21Z"
-  },
-  {
-    "id": "hn-49389339",
-    "title": "Code Obfuscation via Local Mixing",
-    "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-    "points": 30,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T15:11:10Z"
-  },
-  {
-    "id": "hn-49384642",
-    "title": "Young Americans increasingly fear AI will take their jobs",
-    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-    "points": 28,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T06:49:46Z"
-  },
-  {
-    "id": "hn-49387915",
-    "title": "Getting silly with C, part and((int*)-8)[3]",
-    "url": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
-    "points": 26,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-08-21T13:40:22Z"
-  },
-  {
-    "id": "hn-49389466",
-    "title": "Show HN: A desktop fly drawn to the scent of vibecode",
-    "url": "https://github.com/kulikov0/desktop-vibe-fly",
-    "points": 19,
+    "id": "hn-49397947",
+    "title": "Embedded AI",
+    "url": "https://nostarch.com/embedded-ai",
+    "points": 36,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-08-21T15:19:00Z"
+    "published_date": "2026-08-22T09:07:26Z"
   },
   {
-    "id": "hn-49387059",
-    "title": "AI;DR or Don't be a meat proxy",
-    "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
+    "id": "hn-49401229",
+    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+    "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+    "points": 35,
+    "comments": 77,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T16:23:09Z"
+  },
+  {
+    "id": "hn-49404869",
+    "title": "AI has failed to win people's trust. Its makers? less trusted",
+    "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+    "points": 26,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T23:30:20Z"
+  },
+  {
+    "id": "hn-49398609",
+    "title": "Dutch regulator fines Uber \u20ac825M for letting AI deactivate driver accounts",
+    "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+    "points": 21,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T11:27:29Z"
+  },
+  {
+    "id": "hn-49403228",
+    "title": "Fast and Hard Code",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "points": 17,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T19:56:38Z"
+  },
+  {
+    "id": "hn-49399954",
+    "title": "80% of developers find AI coding more addictive than helpful",
+    "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+    "points": 13,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T14:14:30Z"
+  },
+  {
+    "id": "hn-49401216",
+    "title": "Show HN: Structural code grep across public GitHub repositories",
+    "url": "https://grep.codemod.com/",
+    "points": 12,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T16:21:21Z"
+  },
+  {
+    "id": "hn-49405520",
+    "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+    "url": "https://news.ycombinator.com/item?id=49405520",
+    "points": 11,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-08-21T12:25:45Z"
+    "published_date": "2026-08-23T01:45:17Z"
+  },
+  {
+    "id": "hn-49405966",
+    "title": "Palantir's Karp \u2013 frontier AI labs that are 'trying to drug addict us'",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "points": 11,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-23T04:03:46Z"
+  },
+  {
+    "id": "hn-49402816",
+    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "points": 11,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T19:11:34Z"
+  },
+  {
+    "id": "hn-49400077",
+    "title": "Delivery drivers will get minimum wage in Australia's 'world-first' deal",
+    "url": "https://www.theguardian.com/business/2026/aug/16/delivery-drivers-will-get-a-minimum-wage-in-australias-world-first-deal-but-is-it-fair-and-will-your-uber-eats-cost-more",
+    "points": 11,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-08-22T14:24:55Z"
   }
 ]
