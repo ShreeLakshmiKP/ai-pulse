@@ -1,173 +1,20 @@
 [
   {
-    "id": "hn-49402232",
-    "title": "Why your local LLM feels dumber than it is",
-    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "points": 271,
-    "comments": 88,
+    "id": "hn-49407785",
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "points": 34,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-08-22T18:14:16Z"
+    "published_date": "2026-08-23T10:54:35Z"
   },
   {
-    "id": "hn-49402741",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "points": 179,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T19:04:41Z"
-  },
-  {
-    "id": "hn-49401549",
-    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-    "url": "https://twitter.com/argofowl/status/2091150597374537729",
-    "points": 179,
-    "comments": 164,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T16:58:49Z"
-  },
-  {
-    "id": "hn-49404380",
-    "title": "NanoGPT Speedrun Frontier",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "points": 84,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T22:14:27Z"
-  },
-  {
-    "id": "hn-49402521",
-    "title": "Show HN: Make your logo extra bright on HDR screens",
-    "url": "https://www.soverybright.com/",
-    "points": 56,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T18:43:03Z"
-  },
-  {
-    "id": "hn-49399941",
-    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-    "points": 54,
-    "comments": 67,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T14:13:05Z"
-  },
-  {
-    "id": "hn-49402907",
-    "title": "English \u2194 Claudish Translator",
-    "url": "https://programasweights.com/claudish",
-    "points": 50,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T19:19:15Z"
-  },
-  {
-    "id": "hn-49400729",
-    "title": "Song (server of Nostr-powered Git) is a simple personal Git server",
-    "url": "https://gitworkshop.dev/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6/song",
-    "points": 38,
+    "id": "hn-49407944",
+    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+    "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+    "points": 15,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-08-22T15:26:01Z"
-  },
-  {
-    "id": "hn-49397947",
-    "title": "Embedded AI",
-    "url": "https://nostarch.com/embedded-ai",
-    "points": 36,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T09:07:26Z"
-  },
-  {
-    "id": "hn-49401229",
-    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-    "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-    "points": 35,
-    "comments": 77,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T16:23:09Z"
-  },
-  {
-    "id": "hn-49404869",
-    "title": "AI has failed to win people's trust. Its makers? less trusted",
-    "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-    "points": 26,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T23:30:20Z"
-  },
-  {
-    "id": "hn-49398609",
-    "title": "Dutch regulator fines Uber \u20ac825M for letting AI deactivate driver accounts",
-    "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-    "points": 21,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T11:27:29Z"
-  },
-  {
-    "id": "hn-49403228",
-    "title": "Fast and Hard Code",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "points": 17,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T19:56:38Z"
-  },
-  {
-    "id": "hn-49399954",
-    "title": "80% of developers find AI coding more addictive than helpful",
-    "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-    "points": 13,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T14:14:30Z"
-  },
-  {
-    "id": "hn-49401216",
-    "title": "Show HN: Structural code grep across public GitHub repositories",
-    "url": "https://grep.codemod.com/",
-    "points": 12,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T16:21:21Z"
-  },
-  {
-    "id": "hn-49405520",
-    "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-    "url": "https://news.ycombinator.com/item?id=49405520",
-    "points": 11,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-23T01:45:17Z"
-  },
-  {
-    "id": "hn-49405966",
-    "title": "Palantir's Karp \u2013 frontier AI labs that are 'trying to drug addict us'",
-    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
-    "points": 11,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-23T04:03:46Z"
-  },
-  {
-    "id": "hn-49402816",
-    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-    "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-    "points": 11,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T19:11:34Z"
-  },
-  {
-    "id": "hn-49400077",
-    "title": "Delivery drivers will get minimum wage in Australia's 'world-first' deal",
-    "url": "https://www.theguardian.com/business/2026/aug/16/delivery-drivers-will-get-a-minimum-wage-in-australias-world-first-deal-but-is-it-fair-and-will-your-uber-eats-cost-more",
-    "points": 11,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-08-22T14:24:55Z"
+    "published_date": "2026-08-23T11:28:08Z"
   }
 ]
