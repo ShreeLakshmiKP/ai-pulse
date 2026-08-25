@@ -1,20 +1,182 @@
 [
   {
-    "id": "hn-49407785",
-    "title": "'AI refuser' quit her dream job, and hopes others follow",
-    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-    "points": 34,
-    "comments": 39,
+    "id": "hn-49420873",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "points": 806,
+    "comments": 565,
     "source": "Hacker News",
-    "published_date": "2026-08-23T10:54:35Z"
+    "published_date": "2026-08-24T15:08:17Z"
   },
   {
-    "id": "hn-49407944",
-    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-    "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-    "points": 15,
+    "id": "hn-49421554",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "points": 506,
+    "comments": 496,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T15:52:33Z"
+  },
+  {
+    "id": "hn-49421074",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "points": 318,
+    "comments": 294,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T15:22:43Z"
+  },
+  {
+    "id": "hn-49415893",
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "points": 184,
+    "comments": 102,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T06:30:07Z"
+  },
+  {
+    "id": "hn-49424387",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "points": 121,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T19:03:06Z"
+  },
+  {
+    "id": "hn-49418675",
+    "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+    "url": "https://news.ycombinator.com/item?id=49418675",
+    "points": 116,
+    "comments": 114,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T12:18:56Z"
+  },
+  {
+    "id": "hn-49424082",
+    "title": "Anger, Anxiety and Agency",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "points": 112,
+    "comments": 118,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T18:37:24Z"
+  },
+  {
+    "id": "hn-49422548",
+    "title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "points": 85,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T16:52:01Z"
+  },
+  {
+    "id": "hn-49417313",
+    "title": "We never use AI. For anything",
+    "url": "https://corkmac.app/our-ai-stance/",
+    "points": 81,
+    "comments": 96,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T09:32:32Z"
+  },
+  {
+    "id": "hn-49425800",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "points": 77,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T21:01:38Z"
+  },
+  {
+    "id": "hn-49415907",
+    "title": "Anthropic Claude and API service outages",
+    "url": "https://status.claude.com/uptime",
+    "points": 76,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T06:32:28Z"
+  },
+  {
+    "id": "hn-49422226",
+    "title": "Ox-Alpha Is GLM?",
+    "url": "https://dejan.ai/blog/ox-alpha/",
+    "points": 62,
+    "comments": 34,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T16:30:16Z"
+  },
+  {
+    "id": "hn-49420598",
+    "title": "Walgit \u2013 a Git server that is one binary in front of an object store",
+    "url": "https://github.com/tobi/walgit",
+    "points": 62,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T14:49:49Z"
+  },
+  {
+    "id": "hn-49417766",
+    "title": "Ask HN: Those making $500/month on side projects in 2026 \u2013 Show and tell",
+    "url": "https://news.ycombinator.com/item?id=49417766",
+    "points": 58,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T10:28:56Z"
+  },
+  {
+    "id": "hn-49423927",
+    "title": "Show HN: Kern \u2013 container and resource runtime in a 1.5 MB binary, no daemon",
+    "url": "https://github.com/getkern/kern",
+    "points": 57,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T18:24:59Z"
+  },
+  {
+    "id": "hn-49420556",
+    "title": "Codefloe Is a Professionally Hosted Public Git Forge",
+    "url": "https://codefloe.com/",
+    "points": 57,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T14:46:09Z"
+  },
+  {
+    "id": "hn-49424758",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "url": "https://github.com/l3a0/claude-plugins",
+    "points": 45,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-08-24T19:32:18Z"
+  },
+  {
+    "id": "hn-49416553",
+    "title": "Most AI Work Can Wait",
+    "url": "https://tomtunguz.com/ai-execution-routing/",
+    "points": 29,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-08-23T11:28:08Z"
+    "published_date": "2026-08-24T08:03:27Z"
+  },
+  {
+    "id": "hn-49428882",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "points": 29,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-25T03:54:19Z"
+  },
+  {
+    "id": "hn-49429095",
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "url": "https://github.com/dragthelake/ambient-context",
+    "points": 20,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-25T04:33:24Z"
   }
 ]
