@@ -498,6 +498,96 @@
     "image": null
   },
   {
+    "id": "rss-db5b8f42",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 26 Aug 2026 19:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2609610f",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7a6b849c",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 26 Aug 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7e008cb7",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-6d0a5932",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/learning-never-stops",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-606181c5",
+    "title": "Raised on AI",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-3171b8e2",
     "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -539,6 +629,37 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 26 Aug 2026 00:06:20 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1c454c14",
+    "title": "The Hugging Face incident and the road ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we\u2019re taking to strengthen AI model security, monitoring, and alignment.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "tags": [
+      "alignment",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-cea6b0e8",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "tags": [
+      "transformers"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 26 Aug 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4211,129 +4332,6 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Tue, 31 Mar 2026 22:46:25 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-410d594c",
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "tags": [
-      "funding",
-      "OpenAI",
-      "NVIDIA"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 31 Mar 2026 21:25:04 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-aae866a3",
-    "title": "Yupp shuts down after raising $33M from a16z crypto\u2019s Chris Dixon",
-    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 31 Mar 2026 20:01:07 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-32a41f63",
-    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-    "summary": "Build with Veo 3.1 Lite",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Tue, 31 Mar 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c93509b5",
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-    "tags": [
-      "multimodal"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 31 Mar 2026 15:10:41 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-5f5935fe",
-    "title": "Shifting to AI model customization is an architectural imperative",
-    "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-    "tags": [
-      "LLM"
-    ],
-    "category": "AI Models",
-    "published_date": "Tue, 31 Mar 2026 14:12:50 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d2261147",
-    "title": "Accelerating the next phase of AI",
-    "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "funding",
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-ec4368ae",
-    "title": "The Download: AI health tools and the Pentagon\u2019s Anthropic culture war",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Tools",
-    "published_date": "Tue, 31 Mar 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-72ab2e10",
-    "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
-    "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-    "tags": [
-      "benchmark"
-    ],
-    "category": "Research",
-    "published_date": "Tue, 31 Mar 2026 12:01:08 +0000",
     "image": null
   }
 ]
