@@ -4,7 +4,7 @@
     "name": "rome-os/rome",
     "description": "Rome is the agentic OS.",
     "url": "https://github.com/rome-os/rome",
-    "stars": 370,
+    "stars": 382,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -16,11 +16,106 @@
     "created_at": "2026-08-23T06:15:15Z"
   },
   {
+    "id": "gh-1348572094",
+    "name": "damejan80/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "stars": 213,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "created_at": "2026-08-27T14:16:09Z"
+  },
+  {
+    "id": "gh-1346252450",
+    "name": "Merit-Systems/OpenInstinct",
+    "description": "iMessage personal assistant + password vault",
+    "url": "https://github.com/Merit-Systems/OpenInstinct",
+    "stars": 183,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "imessage"
+    ],
+    "created_at": "2026-08-25T14:42:47Z"
+  },
+  {
+    "id": "gh-1346917581",
+    "name": "S1N6H/pentest-harness",
+    "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+    "url": "https://github.com/S1N6H/pentest-harness",
+    "stars": 179,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "anthropic-api",
+      "bug-bounty",
+      "infosec",
+      "llm",
+      "offensive-security",
+      "open-source",
+      "openai-api",
+      "pentesting",
+      "red-team",
+      "security-tools"
+    ],
+    "created_at": "2026-08-26T04:57:19Z"
+  },
+  {
+    "id": "gh-1348826110",
+    "name": "OnlyTerp/opengrok",
+    "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "stars": 161,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
+    ],
+    "created_at": "2026-08-27T18:30:44Z"
+  },
+  {
+    "id": "gh-1349253750",
+    "name": "Nanako0129/sepia",
+    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "url": "https://github.com/Nanako0129/sepia",
+    "stars": 141,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "created_at": "2026-08-28T05:56:49Z"
+  },
+  {
     "id": "gh-1343320043",
     "name": "itshen/source-reading-methodology",
     "description": "\u5e26 AI \u7cbe\u8bfb\u5927\u578b\u5f00\u6e90\u4ed3\u5e93\u7684\u65b9\u6cd5\u8bba\uff1a\u56db\u9636\u6bb5\u6d41\u7a0b\u3001\u53ef\u590d\u7528\u6a21\u677f\u300128 \u6761\u8e29\u5751\u6e05\u5355\uff0c\u6838\u5fc3\u662f\u8ba9\u6bcf\u4e2a\u6280\u672f\u8bba\u65ad\u90fd\u53ef\u56de\u6eaf\u5230\u6e90\u7801\u5177\u4f53\u884c",
     "url": "https://github.com/itshen/source-reading-methodology",
-    "stars": 125,
+    "stars": 127,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -37,47 +132,11 @@
     "created_at": "2026-08-23T02:51:45Z"
   },
   {
-    "id": "gh-1341777694",
-    "name": "unclecode/modelprint",
-    "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
-    "url": "https://github.com/unclecode/modelprint",
-    "stars": 99,
-    "language": "JavaScript",
-    "topics": [
-      "ai-tools",
-      "fingerprinting",
-      "llm",
-      "openrouter"
-    ],
-    "created_at": "2026-08-21T12:16:56Z"
-  },
-  {
-    "id": "gh-1347130943",
-    "name": "UditAkhourii/cdaf",
-    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
-    "url": "https://github.com/UditAkhourii/cdaf",
-    "stars": 91,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "file-format",
-      "gemini",
-      "llm",
-      "remotion",
-      "sidecar",
-      "token-optimization",
-      "video",
-      "video-understanding"
-    ],
-    "created_at": "2026-08-26T09:12:41Z"
-  },
-  {
     "id": "gh-1343018048",
     "name": "singula-ai/alego",
     "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
     "url": "https://github.com/singula-ai/alego",
-    "stars": 76,
+    "stars": 79,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -90,45 +149,69 @@
     "created_at": "2026-08-22T17:19:45Z"
   },
   {
-    "id": "gh-1344110151",
-    "name": "forcewake/hermes-conductor",
-    "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks \u2014 from 18 kanban boards and every incident that tried to ruin them.",
-    "url": "https://github.com/forcewake/hermes-conductor",
-    "stars": 68,
-    "language": null,
+    "id": "gh-1343974697",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 75,
+    "language": "Python",
     "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "codex-cli",
-      "hermes-agent",
-      "kanban",
-      "llm",
-      "multi-agent",
-      "nousresearch",
-      "opencode",
-      "orchestration",
-      "worktrees"
+      "ai-video",
+      "blip",
+      "comfyui",
+      "director-tools",
+      "ffmpeg",
+      "generative-ai",
+      "lm-studio",
+      "minimax-h3",
+      "prompt-engineering",
+      "pyside6",
+      "reference-to-video",
+      "timeline-editor",
+      "video-generation",
+      "whisper",
+      "windows-11"
     ],
-    "created_at": "2026-08-23T18:49:46Z"
+    "created_at": "2026-08-23T16:29:36Z"
   },
   {
-    "id": "gh-1348572094",
-    "name": "damejan80/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/damejan80/tokentab",
-    "stars": 65,
+    "id": "gh-1346881798",
+    "name": "Vincent-Xi08/IntentRoute-AI",
+    "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+    "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
+    "stars": 59,
+    "language": "C#",
+    "topics": [
+      "ai",
+      "dotnet",
+      "network-routing",
+      "ollama",
+      "open-source",
+      "openai",
+      "proxy",
+      "sing-box",
+      "split-tunneling",
+      "tun",
+      "windows",
+      "wpf"
+    ],
+    "created_at": "2026-08-26T04:02:31Z"
+  },
+  {
+    "id": "gh-1348793218",
+    "name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "url": "https://github.com/hkqr/my-free-code",
+    "stars": 59,
     "language": "Python",
     "topics": [
       "ai",
-      "claude",
       "claude-code",
-      "cursor",
-      "python",
-      "token-optimization",
-      "token-usage"
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
     ],
-    "created_at": "2026-08-27T14:16:09Z"
+    "created_at": "2026-08-27T17:59:23Z"
   },
   {
     "id": "gh-1343245394",
@@ -161,119 +244,11 @@
     "created_at": "2026-08-22T23:49:10Z"
   },
   {
-    "id": "gh-1343974697",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 49,
-    "language": "Python",
-    "topics": [
-      "ai-video",
-      "blip",
-      "comfyui",
-      "director-tools",
-      "ffmpeg",
-      "generative-ai",
-      "lm-studio",
-      "minimax-h3",
-      "prompt-engineering",
-      "pyside6",
-      "reference-to-video",
-      "timeline-editor",
-      "video-generation",
-      "whisper",
-      "windows-11"
-    ],
-    "created_at": "2026-08-23T16:29:36Z"
-  },
-  {
-    "id": "gh-1346881798",
-    "name": "Lucas-Xi/IntentRoute-AI",
-    "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
-    "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
-    "stars": 37,
-    "language": "C#",
-    "topics": [
-      "ai",
-      "dotnet",
-      "network-routing",
-      "ollama",
-      "open-source",
-      "openai",
-      "proxy",
-      "sing-box",
-      "split-tunneling",
-      "tun",
-      "windows",
-      "wpf"
-    ],
-    "created_at": "2026-08-26T04:02:31Z"
-  },
-  {
-    "id": "gh-1344030503",
-    "name": "kangarooking/Ta",
-    "description": "\u62d3\uff08Ta\uff09\u2014 AI \u539f\u751f\u622a\u56fe\u5de5\u5177\uff1a\u622a\u56fe\u3001OCR\u3001AI \u8bc6\u56fe\u3001\u7ffb\u8bd1\u3001\u957f\u622a\u56fe\u3001\u9489\u56fe\u4e0e\u6807\u6ce8\uff1bAI \u7f8e\u5316\u6301\u7eed\u5f00\u53d1\u4e2d\u3002\u73b0\u652f\u6301 macOS\uff0cWindows \u5236\u4f5c\u4e2d\u3002\uff08AI-native screenshot tool; Windows in progress.\uff09",
-    "url": "https://github.com/kangarooking/Ta",
-    "stars": 30,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "appkit",
-      "long-screenshot",
-      "macos",
-      "ocr",
-      "paddleocr",
-      "productivity",
-      "screen-capture",
-      "screenshot",
-      "swift",
-      "swiftui",
-      "translation"
-    ],
-    "created_at": "2026-08-23T17:25:24Z"
-  },
-  {
-    "id": "gh-1341596888",
-    "name": "tester-army/unbox-ai",
-    "description": "Visualize AI context & traces.",
-    "url": "https://github.com/tester-army/unbox-ai",
-    "stars": 26,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "ai-traces",
-      "traces"
-    ],
-    "created_at": "2026-08-21T08:53:20Z"
-  },
-  {
-    "id": "gh-1343701672",
-    "name": "CALISKAN-EMRE/NSOSYAL",
-    "description": "TEKNOFEST 2026 NSosyal \u0130novasyon \u2014 Explainable recommendations, semantic context cards and Turkish AI moderation.",
-    "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
-    "stars": 26,
-    "language": "Python",
-    "topics": [
-      "content-moderation",
-      "explainable-ai",
-      "fastapi",
-      "machine-learning",
-      "nextjs",
-      "nlp",
-      "teknofest",
-      "teknofest2026",
-      "turkish-nlp"
-    ],
-    "created_at": "2026-08-23T11:38:15Z"
-  },
-  {
     "id": "gh-1345052184",
     "name": "zidniryi/unbagrnd",
     "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
     "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 19,
+    "stars": 39,
     "language": "Rust",
     "topics": [
       "ai",
@@ -296,27 +271,46 @@
     "created_at": "2026-08-24T14:30:32Z"
   },
   {
-    "id": "gh-1346919628",
-    "name": "zidniryi/open-source-ai-models",
-    "description": "A curated directory of open-source & open-weight AI models \u2014 compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
-    "url": "https://github.com/zidniryi/open-source-ai-models",
-    "stars": 13,
-    "language": null,
+    "id": "gh-1343701672",
+    "name": "CALISKAN-EMRE/NSOSYAL",
+    "description": "TEKNOFEST 2026 NSosyal \u0130novasyon \u2014 Explainable recommendations, semantic context cards and Turkish AI moderation.",
+    "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
+    "stars": 29,
+    "language": "Python",
     "topics": [
-      "ai-models",
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "awesome-list",
-      "background-removal",
-      "huggingface",
-      "llm",
-      "llms",
-      "local-llm",
+      "content-moderation",
+      "explainable-ai",
+      "fastapi",
       "machine-learning",
-      "model-directory",
-      "ocr",
-      "open-source-ai"
+      "nextjs",
+      "nlp",
+      "teknofest",
+      "teknofest2026",
+      "turkish-nlp"
     ],
-    "created_at": "2026-08-26T05:00:24Z"
+    "created_at": "2026-08-23T11:38:15Z"
+  },
+  {
+    "id": "gh-1342901504",
+    "name": "shanliuling/meme-sticker",
+    "description": "Turn pets, selfies, characters, or anything into a full set of AI chat stickers.",
+    "url": "https://github.com/shanliuling/meme-sticker",
+    "stars": 18,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "generative-ai",
+      "image-generation",
+      "image-processing",
+      "meme",
+      "meme-generator",
+      "python",
+      "sticker",
+      "sticker-generator",
+      "stickers"
+    ],
+    "created_at": "2026-08-22T14:47:57Z"
   }
 ]

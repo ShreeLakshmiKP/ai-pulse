@@ -529,6 +529,21 @@
     "image": null
   },
   {
+    "id": "rss-c6f5e02f",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 26 Aug 2026 14:30:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-7a6b849c",
     "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood.",
@@ -4319,19 +4334,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Tue, 31 Mar 2026 23:58:26 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0355fee7",
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "summary": "Slack just got a whole lot more useful.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Tue, 31 Mar 2026 22:46:25 +0000",
     "image": null
   }
 ]
