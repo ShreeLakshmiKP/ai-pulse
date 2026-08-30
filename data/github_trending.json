@@ -4,8 +4,8 @@
     "name": "Nanako0129/sepia",
     "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "url": "https://github.com/Nanako0129/sepia",
-    "stars": 551,
-    "language": "Shell",
+    "stars": 803,
+    "language": null,
     "topics": [
       "agent-skills",
       "ai-writing",
@@ -23,28 +23,12 @@
     "created_at": "2026-08-28T05:56:49Z"
   },
   {
-    "id": "gh-1343438200",
-    "name": "rome-os/rome",
-    "description": "Rome is the agentic OS.",
-    "url": "https://github.com/rome-os/rome",
-    "stars": 384,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agent-os",
-      "claude-code",
-      "codex",
-      "llm"
-    ],
-    "created_at": "2026-08-23T06:15:15Z"
-  },
-  {
     "id": "gh-1348826110",
     "name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 326,
-    "language": "Python",
+    "stars": 376,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
       "grok",
@@ -56,11 +40,27 @@
     "created_at": "2026-08-27T18:30:44Z"
   },
   {
+    "id": "gh-1348793218",
+    "name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "url": "https://github.com/hkqr/my-free-code",
+    "stars": 299,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
+    ],
+    "created_at": "2026-08-27T17:59:23Z"
+  },
+  {
     "id": "gh-1346917581",
     "name": "S1N6H/pentest-harness",
     "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
     "url": "https://github.com/S1N6H/pentest-harness",
-    "stars": 254,
+    "stars": 295,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -82,7 +82,7 @@
     "name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 213,
+    "stars": 281,
     "language": "Python",
     "topics": [
       "ai",
@@ -100,7 +100,7 @@
     "name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 199,
+    "stars": 206,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -111,74 +111,55 @@
     "created_at": "2026-08-25T14:42:47Z"
   },
   {
-    "id": "gh-1348793218",
-    "name": "hkqr/my-free-code",
-    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "url": "https://github.com/hkqr/my-free-code",
-    "stars": 185,
-    "language": "Python",
+    "id": "gh-1348178527",
+    "name": "JordyZomer/lemmalog",
+    "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+    "url": "https://github.com/JordyZomer/lemmalog",
+    "stars": 170,
+    "language": "Rust",
+    "topics": [
+      "agent-memory",
+      "datalog",
+      "knowledge-graph",
+      "llm",
+      "llm-agents",
+      "mcp",
+      "neurosymbolic"
+    ],
+    "created_at": "2026-08-27T07:06:55Z"
+  },
+  {
+    "id": "gh-1350040660",
+    "name": "meharabPigeon/remove-windows-ai",
+    "description": "'remove windows ai script' \u2014 A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
+    "url": "https://github.com/meharabPigeon/remove-windows-ai",
+    "stars": 150,
+    "language": null,
     "topics": [
       "ai",
-      "claude-code",
-      "free-claude-api",
-      "multi-provider",
-      "multi-provider-llm"
+      "ai-script",
+      "copilot-remover",
+      "debloat",
+      "free-download",
+      "github-project",
+      "open-source",
+      "privacy-tools",
+      "remove",
+      "remove-windows",
+      "script",
+      "windows",
+      "windows-11",
+      "windows-ai",
+      "windows-optimizer"
     ],
-    "created_at": "2026-08-27T17:59:23Z"
-  },
-  {
-    "id": "gh-1343320043",
-    "name": "itshen/source-reading-methodology",
-    "description": "\u5e26 AI \u7cbe\u8bfb\u5927\u578b\u5f00\u6e90\u4ed3\u5e93\u7684\u65b9\u6cd5\u8bba\uff1a\u56db\u9636\u6bb5\u6d41\u7a0b\u3001\u53ef\u590d\u7528\u6a21\u677f\u300128 \u6761\u8e29\u5751\u6e05\u5355\uff0c\u6838\u5fc3\u662f\u8ba9\u6bcf\u4e2a\u6280\u672f\u8bba\u65ad\u90fd\u53ef\u56de\u6eaf\u5230\u6e90\u7801\u5177\u4f53\u884c",
-    "url": "https://github.com/itshen/source-reading-methodology",
-    "stars": 127,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "code-review",
-      "documentation",
-      "llm",
-      "methodology",
-      "source-code-reading",
-      "technical-writing"
-    ],
-    "created_at": "2026-08-23T02:51:45Z"
-  },
-  {
-    "id": "gh-1343974697",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 80,
-    "language": "Python",
-    "topics": [
-      "ai-video",
-      "blip",
-      "comfyui",
-      "director-tools",
-      "ffmpeg",
-      "generative-ai",
-      "lm-studio",
-      "minimax-h3",
-      "prompt-engineering",
-      "pyside6",
-      "reference-to-video",
-      "timeline-editor",
-      "video-generation",
-      "whisper",
-      "windows-11"
-    ],
-    "created_at": "2026-08-23T16:29:36Z"
+    "created_at": "2026-08-28T21:14:53Z"
   },
   {
     "id": "gh-1346881798",
     "name": "Vincent-Xi08/IntentRoute-AI",
     "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
     "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
-    "stars": 59,
+    "stars": 101,
     "language": "C#",
     "topics": [
       "ai",
@@ -197,11 +178,32 @@
     "created_at": "2026-08-26T04:02:31Z"
   },
   {
+    "id": "gh-1347130943",
+    "name": "UditAkhourii/cdaf",
+    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+    "url": "https://github.com/UditAkhourii/cdaf",
+    "stars": 99,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "file-format",
+      "gemini",
+      "llm",
+      "remotion",
+      "sidecar",
+      "token-optimization",
+      "video",
+      "video-understanding"
+    ],
+    "created_at": "2026-08-26T09:12:41Z"
+  },
+  {
     "id": "gh-1345052184",
     "name": "zidniryi/unbagrnd",
     "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
     "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 42,
+    "stars": 61,
     "language": "Rust",
     "topics": [
       "ai",
@@ -224,95 +226,88 @@
     "created_at": "2026-08-24T14:30:32Z"
   },
   {
-    "id": "gh-1343701672",
-    "name": "CALISKAN-EMRE/NSOSYAL",
-    "description": "TEKNOFEST 2026 NSosyal \u0130novasyon \u2014 Explainable recommendations, semantic context cards and Turkish AI moderation.",
-    "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
-    "stars": 32,
-    "language": "Python",
+    "id": "gh-1345931063",
+    "name": "njgymb/diffusers-sculptor",
+    "description": "Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline",
+    "url": "https://github.com/njgymb/diffusers-sculptor",
+    "stars": 56,
+    "language": "HTML",
     "topics": [
-      "content-moderation",
-      "explainable-ai",
-      "fastapi",
+      "adapter",
+      "diffusers",
+      "diffusion-models",
+      "fine-tuning",
+      "flow-matching",
+      "lora",
       "machine-learning",
-      "nextjs",
-      "nlp",
-      "teknofest",
-      "teknofest2026",
-      "turkish-nlp"
+      "stable-diffusion",
+      "trainer",
+      "tuner"
     ],
-    "created_at": "2026-08-23T11:38:15Z"
+    "created_at": "2026-08-25T09:30:13Z"
   },
   {
-    "id": "gh-1346919628",
-    "name": "zidniryi/open-source-ai-models",
-    "description": "A curated directory of open-source & open-weight AI models \u2014 compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
-    "url": "https://github.com/zidniryi/open-source-ai-models",
-    "stars": 14,
-    "language": null,
+    "id": "gh-1345901466",
+    "name": "Harshitdewangann/Model-Vault-Forge",
+    "description": "AI Studio Trainer Hub 2026: Open Source Installer & Auto-Updater Suite",
+    "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
+    "stars": 55,
+    "language": "HTML",
     "topics": [
+      "ai",
       "ai-models",
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "awesome-list",
-      "background-removal",
-      "huggingface",
-      "llm",
-      "llms",
-      "local-llm",
+      "deep-learning",
+      "deep-neural-networks",
+      "installer",
+      "lithicsoft",
       "machine-learning",
-      "model-directory",
-      "ocr",
-      "open-source-ai"
+      "trainer",
+      "trainer-studio",
+      "training",
+      "transfer-learning",
+      "updater"
     ],
-    "created_at": "2026-08-26T05:00:24Z"
+    "created_at": "2026-08-25T08:57:21Z"
   },
   {
-    "id": "gh-1344611274",
-    "name": "Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine",
-    "description": "Evaan \u2014 a fully local, offline-capable AI companion chatbot built with Python & Hugging Face Transformers, running on Qwen2.5-0.5B-Instruct (CPU-only, no fine-tuning). Features a persona-driven system prompt, rule-based mood/tone detection, and persistent JSON memory across sessions \u2014 no API key or internet needed after setup.",
-    "url": "https://github.com/Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine",
-    "stars": 11,
-    "language": "Python",
+    "id": "gh-1345954486",
+    "name": "s88cj-stack/Lithicsoft-Trainer-Forge",
+    "description": "Professional Trainer Studio Generator Suite 2026 \u2013 Open Source AI Coaching Toolkit",
+    "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
+    "stars": 55,
+    "language": "HTML",
     "topics": [
-      "ai-assistant-builder",
-      "ai-assistants",
-      "artificial-intelligence",
-      "conversational-ai",
-      "cpu-inference",
-      "generative-ai",
-      "huggingface",
-      "large-language-models",
-      "llm",
-      "local-ai",
-      "local-llm",
-      "memory-system",
-      "personal-ai",
-      "python",
+      "ai",
+      "ai-models",
+      "automl",
+      "deep-learning",
+      "deep-nueral-networks",
+      "lithicsoft",
+      "machine-learning",
+      "trainer",
+      "trainer-studio",
+      "training",
+      "transfer-learning"
+    ],
+    "created_at": "2026-08-25T09:55:55Z"
+  },
+  {
+    "id": "gh-1345975126",
+    "name": "Sanane001/torch-hydra-starter",
+    "description": "PyTorch AI Template 2026: Hydra-Powered Deep Learning Boilerplate Starter Kit",
+    "url": "https://github.com/Sanane001/torch-hydra-starter",
+    "stars": 55,
+    "language": "HTML",
+    "topics": [
+      "boilerplate",
+      "boilerplate-template",
+      "deep-learning",
+      "hydra",
+      "machine-learning",
       "pytorch",
-      "qwen",
-      "transformers"
+      "trainer",
+      "yaml"
     ],
-    "created_at": "2026-08-24T06:21:04Z"
-  },
-  {
-    "id": "gh-1346834544",
-    "name": "MartinDelophy/Awesome-AIGC-Creative-Contests",
-    "description": "A curated, continuously updated list of AIGC creative contests for video, image, audio, writing and AI apps.",
-    "url": "https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests",
-    "stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai-art",
-      "ai-competitions",
-      "ai-film",
-      "ai-music",
-      "aigc",
-      "awesome-list",
-      "competitions",
-      "generative-ai",
-      "rss"
-    ],
-    "created_at": "2026-08-26T02:49:31Z"
+    "created_at": "2026-08-25T10:17:59Z"
   }
 ]

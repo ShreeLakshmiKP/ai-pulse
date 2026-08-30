@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49479878",
-    "title": "GLM-5.3 is now open-weight",
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "points": 715,
-    "comments": 238,
+    "id": "hn-49489982",
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "points": 489,
+    "comments": 453,
     "source": "Hacker News",
-    "published_date": "2026-08-28T15:20:13Z"
+    "published_date": "2026-08-29T14:02:10Z"
   },
   {
-    "id": "hn-49478340",
-    "title": "Get your Windows license refund",
-    "url": "https://en.refund4freedom.org/",
-    "points": 689,
-    "comments": 290,
+    "id": "hn-49491568",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "points": 398,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-08-28T13:42:40Z"
+    "published_date": "2026-08-29T17:19:47Z"
   },
   {
-    "id": "hn-49485267",
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "points": 294,
-    "comments": 82,
+    "id": "hn-49495372",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "points": 315,
+    "comments": 137,
     "source": "Hacker News",
-    "published_date": "2026-08-28T23:02:21Z"
+    "published_date": "2026-08-30T03:15:36Z"
   },
   {
-    "id": "hn-49485416",
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "points": 172,
-    "comments": 40,
+    "id": "hn-49492067",
+    "title": "vLLM v0.28.0",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "points": 106,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-08-28T23:27:45Z"
+    "published_date": "2026-08-29T18:22:00Z"
   },
   {
-    "id": "hn-49486081",
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "points": 116,
-    "comments": 26,
+    "id": "hn-49493244",
+    "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)",
+    "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+    "points": 72,
+    "comments": 79,
     "source": "Hacker News",
-    "published_date": "2026-08-29T01:24:13Z"
+    "published_date": "2026-08-29T20:53:56Z"
   },
   {
-    "id": "hn-49486334",
-    "title": "TurboKV: Insanely fast Rust key-value store",
-    "url": "https://github.com/kingroryg/turbokv",
-    "points": 116,
-    "comments": 53,
+    "id": "hn-49491113",
+    "title": "The growing divide between AI hype and software engineering reality",
+    "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+    "points": 62,
+    "comments": 81,
     "source": "Hacker News",
-    "published_date": "2026-08-29T02:23:37Z"
+    "published_date": "2026-08-29T16:16:32Z"
   },
   {
-    "id": "hn-49483020",
-    "title": "Bye, Bye GitHub",
-    "url": "https://log.ozgur.works/bye-bye-github.html",
-    "points": 67,
-    "comments": 60,
+    "id": "hn-49492184",
+    "title": "LLMs are making me lose my savviness",
+    "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+    "points": 59,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-08-28T19:12:11Z"
+    "published_date": "2026-08-29T18:38:52Z"
   },
   {
-    "id": "hn-49484925",
-    "title": "Identifying fake cosmetics using AI",
-    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "points": 55,
-    "comments": 21,
+    "id": "hn-49492432",
+    "title": "Warp builds self-improving agents on Claude",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "points": 58,
+    "comments": 57,
     "source": "Hacker News",
-    "published_date": "2026-08-28T22:18:27Z"
+    "published_date": "2026-08-29T19:09:33Z"
   },
   {
-    "id": "hn-49482925",
-    "title": "The Analytical AI Handbook",
-    "url": "https://handbook.sutro.sh",
-    "points": 47,
-    "comments": 2,
+    "id": "hn-49494571",
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "url": "https://github.com/mk6i/open-oscar-server",
+    "points": 41,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-08-28T19:01:47Z"
+    "published_date": "2026-08-30T00:33:35Z"
   },
   {
-    "id": "hn-49480449",
-    "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-    "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-    "points": 45,
-    "comments": 46,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T15:57:40Z"
-  },
-  {
-    "id": "hn-49477311",
-    "title": "AI Agent Has Root",
-    "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
-    "points": 40,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T12:03:09Z"
-  },
-  {
-    "id": "hn-49477302",
-    "title": "ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface",
-    "url": "https://www.almaobservatory.org/en/audiences/alma-reveals-long-lived-hotspots-on-betelgeuses-bubbling-surface/",
-    "points": 39,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T12:02:40Z"
-  },
-  {
-    "id": "hn-49481451",
-    "title": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
-    "url": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
-    "points": 31,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T17:01:02Z"
-  },
-  {
-    "id": "hn-49486494",
-    "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
-    "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-    "points": 30,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T02:58:12Z"
-  },
-  {
-    "id": "hn-49477925",
-    "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
-    "url": "https://github.com/HexLasso/FF-16-TUI",
-    "points": 29,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T13:05:49Z"
-  },
-  {
-    "id": "hn-49487506",
-    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-    "url": "https://github.com/paveluv/e",
+    "id": "hn-49491282",
+    "title": "Claude permanently raising weekly limits by 25%",
+    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
     "points": 26,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-08-29T16:37:05Z"
+  },
+  {
+    "id": "hn-49491631",
+    "title": "Claude Code is going reduce limits by 25% from September 14",
+    "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+    "points": 25,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-08-29T17:27:31Z"
+  },
+  {
+    "id": "hn-49492554",
+    "title": "The elementary school pickup incident and the road ahead",
+    "url": "https://shitposting.ai/pickup-incident/",
+    "points": 23,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-08-29T19:25:01Z"
+  },
+  {
+    "id": "hn-49488905",
+    "title": "Neovim Removes DHH Quote",
+    "url": "https://github.com/neovim/neovim.github.io/pull/504/files",
+    "points": 20,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-08-29T11:07:34Z"
+  },
+  {
+    "id": "hn-49495845",
+    "title": "The Internet Archive's Vintage AI Collection",
+    "url": "https://archive.org/details/vintageai",
+    "points": 15,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T05:00:51Z"
+  },
+  {
+    "id": "hn-49494853",
+    "title": "China is fueling America's data center rage",
+    "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+    "points": 14,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-08-29T06:35:28Z"
+    "published_date": "2026-08-30T01:31:23Z"
   },
   {
-    "id": "hn-49481868",
-    "title": "LibreOffice 26.8 is out \u2013 local first, and with no AI",
-    "url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
-    "points": 22,
-    "comments": 2,
+    "id": "hn-49496292",
+    "title": "Smartphone LED Detects Hidden Cameras with AI",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "points": 13,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-08-28T17:33:39Z"
+    "published_date": "2026-08-30T06:52:04Z"
   },
   {
-    "id": "hn-49483173",
-    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-    "url": "https://github.com/sseshachala/conductai",
-    "points": 22,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-28T19:29:20Z"
-  },
-  {
-    "id": "hn-49481689",
-    "title": "How I Design with AI",
-    "url": "https://ref.tools/blog/how-i-design-with-ai",
-    "points": 21,
+    "id": "hn-49491745",
+    "title": "Ask HN: How to break Claude Code addiction?",
+    "url": "https://news.ycombinator.com/item?id=49491745",
+    "points": 13,
     "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-08-28T17:18:32Z"
+    "published_date": "2026-08-29T17:43:13Z"
   },
   {
-    "id": "hn-49479872",
-    "title": "Army Awards $2.2B for 'Microreactors' On U.S. Bases",
-    "url": "https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html",
-    "points": 18,
-    "comments": 3,
+    "id": "hn-49497265",
+    "title": "Spark: Sparklines in your shell",
+    "url": "https://git.zx2c4.com/spark/about/",
+    "points": 13,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-08-28T15:19:46Z"
+    "published_date": "2026-08-30T10:02:16Z"
+  },
+  {
+    "id": "hn-49495009",
+    "title": "Meta Project OT plan to replace employees with AI agents",
+    "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+    "points": 12,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T02:01:08Z"
+  },
+  {
+    "id": "hn-49493881",
+    "title": "Show HN: Delete yourself from data brokers without a subscription",
+    "url": "https://github.com/k7cfo/remove-your-data",
+    "points": 12,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-08-29T22:31:56Z"
   }
 ]
