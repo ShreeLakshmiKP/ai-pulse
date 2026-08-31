@@ -2,9 +2,9 @@
   {
     "id": "gh-1349253750",
     "name": "Nanako0129/sepia",
-    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "url": "https://github.com/Nanako0129/sepia",
-    "stars": 803,
+    "stars": 1117,
     "language": null,
     "topics": [
       "agent-skills",
@@ -23,11 +23,45 @@
     "created_at": "2026-08-28T05:56:49Z"
   },
   {
+    "id": "gh-1348572094",
+    "name": "damejan80/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "stars": 508,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "token-usage"
+    ],
+    "created_at": "2026-08-27T14:16:09Z"
+  },
+  {
+    "id": "gh-1348793218",
+    "name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "url": "https://github.com/hkqr/my-free-code",
+    "stars": 478,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm"
+    ],
+    "created_at": "2026-08-27T17:59:23Z"
+  },
+  {
     "id": "gh-1348826110",
     "name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 376,
+    "stars": 389,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -40,27 +74,11 @@
     "created_at": "2026-08-27T18:30:44Z"
   },
   {
-    "id": "gh-1348793218",
-    "name": "hkqr/my-free-code",
-    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "url": "https://github.com/hkqr/my-free-code",
-    "stars": 299,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude-code",
-      "free-claude-api",
-      "multi-provider",
-      "multi-provider-llm"
-    ],
-    "created_at": "2026-08-27T17:59:23Z"
-  },
-  {
     "id": "gh-1346917581",
     "name": "S1N6H/pentest-harness",
     "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
     "url": "https://github.com/S1N6H/pentest-harness",
-    "stars": 295,
+    "stars": 306,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -78,44 +96,11 @@
     "created_at": "2026-08-26T04:57:19Z"
   },
   {
-    "id": "gh-1348572094",
-    "name": "damejan80/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/damejan80/tokentab",
-    "stars": 281,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude",
-      "claude-code",
-      "cursor",
-      "python",
-      "token-optimization",
-      "token-usage"
-    ],
-    "created_at": "2026-08-27T14:16:09Z"
-  },
-  {
-    "id": "gh-1346252450",
-    "name": "Merit-Systems/OpenInstinct",
-    "description": "iMessage personal assistant + password vault",
-    "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 206,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "imessage"
-    ],
-    "created_at": "2026-08-25T14:42:47Z"
-  },
-  {
     "id": "gh-1348178527",
     "name": "JordyZomer/lemmalog",
     "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
     "url": "https://github.com/JordyZomer/lemmalog",
-    "stars": 170,
+    "stars": 222,
     "language": "Rust",
     "topics": [
       "agent-memory",
@@ -129,30 +114,75 @@
     "created_at": "2026-08-27T07:06:55Z"
   },
   {
-    "id": "gh-1350040660",
-    "name": "meharabPigeon/remove-windows-ai",
-    "description": "'remove windows ai script' \u2014 A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
-    "url": "https://github.com/meharabPigeon/remove-windows-ai",
-    "stars": 150,
-    "language": null,
+    "id": "gh-1346252450",
+    "name": "Merit-Systems/OpenInstinct",
+    "description": "iMessage personal assistant + password vault",
+    "url": "https://github.com/Merit-Systems/OpenInstinct",
+    "stars": 219,
+    "language": "TypeScript",
     "topics": [
+      "agent",
       "ai",
-      "ai-script",
-      "copilot-remover",
-      "debloat",
-      "free-download",
-      "github-project",
-      "open-source",
-      "privacy-tools",
-      "remove",
-      "remove-windows",
-      "script",
-      "windows",
-      "windows-11",
-      "windows-ai",
-      "windows-optimizer"
+      "ai-agents",
+      "imessage"
     ],
-    "created_at": "2026-08-28T21:14:53Z"
+    "created_at": "2026-08-25T14:42:47Z"
+  },
+  {
+    "id": "gh-1350970233",
+    "name": "Vuk97/forward-implementation-first",
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "url": "https://github.com/Vuk97/forward-implementation-first",
+    "stars": 148,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-08-29T23:16:12Z"
+  },
+  {
+    "id": "gh-1350914890",
+    "name": "useagenthq/useagent",
+    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "url": "https://github.com/useagenthq/useagent",
+    "stars": 129,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "codex",
+      "coding-agent",
+      "computer-use",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "opencode",
+      "postgres",
+      "sandbox",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "created_at": "2026-08-29T21:14:31Z"
   },
   {
     "id": "gh-1346881798",
@@ -176,54 +206,6 @@
       "wpf"
     ],
     "created_at": "2026-08-26T04:02:31Z"
-  },
-  {
-    "id": "gh-1347130943",
-    "name": "UditAkhourii/cdaf",
-    "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
-    "url": "https://github.com/UditAkhourii/cdaf",
-    "stars": 99,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "file-format",
-      "gemini",
-      "llm",
-      "remotion",
-      "sidecar",
-      "token-optimization",
-      "video",
-      "video-understanding"
-    ],
-    "created_at": "2026-08-26T09:12:41Z"
-  },
-  {
-    "id": "gh-1345052184",
-    "name": "zidniryi/unbagrnd",
-    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-    "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 61,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-tools",
-      "background-removal",
-      "computer-vision",
-      "cross-platform",
-      "free-software",
-      "image-editing",
-      "image-processing",
-      "linux",
-      "machine-learning",
-      "macos",
-      "onnx",
-      "onnxruntime",
-      "open-source",
-      "u2net",
-      "windows"
-    ],
-    "created_at": "2026-08-24T14:30:32Z"
   },
   {
     "id": "gh-1345931063",
@@ -270,28 +252,6 @@
     "created_at": "2026-08-25T08:57:21Z"
   },
   {
-    "id": "gh-1345954486",
-    "name": "s88cj-stack/Lithicsoft-Trainer-Forge",
-    "description": "Professional Trainer Studio Generator Suite 2026 \u2013 Open Source AI Coaching Toolkit",
-    "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
-    "stars": 55,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "ai-models",
-      "automl",
-      "deep-learning",
-      "deep-nueral-networks",
-      "lithicsoft",
-      "machine-learning",
-      "trainer",
-      "trainer-studio",
-      "training",
-      "transfer-learning"
-    ],
-    "created_at": "2026-08-25T09:55:55Z"
-  },
-  {
     "id": "gh-1345975126",
     "name": "Sanane001/torch-hydra-starter",
     "description": "PyTorch AI Template 2026: Hydra-Powered Deep Learning Boilerplate Starter Kit",
@@ -309,5 +269,46 @@
       "yaml"
     ],
     "created_at": "2026-08-25T10:17:59Z"
+  },
+  {
+    "id": "gh-1345932899",
+    "name": "godtiza/nebula-forge-studio",
+    "description": "AI Ecosystem Platform 2026: Train Models & Generate Images Seamlessly",
+    "url": "https://github.com/godtiza/nebula-forge-studio",
+    "stars": 55,
+    "language": "HTML",
+    "topics": [
+      "civitai-integration",
+      "huggingface-hub",
+      "machine-learning",
+      "nextjs",
+      "nodejs",
+      "sd-scripts",
+      "shadcn-ui",
+      "stable-diffusion-webui",
+      "trainer",
+      "training"
+    ],
+    "created_at": "2026-08-25T09:32:25Z"
+  },
+  {
+    "id": "gh-1345979051",
+    "name": "DiamondpixelStudio/resume-forge-lab",
+    "description": "Aniruddhha\u2019s 2026 Career Growth Accelerator: Resume & Skill Build Hub",
+    "url": "https://github.com/DiamondpixelStudio/resume-forge-lab",
+    "stars": 55,
+    "language": "HTML",
+    "topics": [
+      "deep-learning",
+      "development",
+      "fullstack",
+      "fullstack-developer",
+      "fullstack-development",
+      "machine-learning",
+      "resume",
+      "trainer",
+      "training"
+    ],
+    "created_at": "2026-08-25T10:21:59Z"
   }
 ]

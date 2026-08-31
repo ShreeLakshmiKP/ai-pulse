@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49489982",
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "url": "https://lwn.net/Articles/1091231/",
-    "points": 489,
-    "comments": 453,
+    "id": "hn-49498095",
+    "title": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "points": 275,
+    "comments": 192,
     "source": "Hacker News",
-    "published_date": "2026-08-29T14:02:10Z"
+    "published_date": "2026-08-30T12:31:05Z"
   },
   {
-    "id": "hn-49491568",
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "points": 398,
-    "comments": 99,
+    "id": "hn-49498201",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "points": 203,
+    "comments": 224,
     "source": "Hacker News",
-    "published_date": "2026-08-29T17:19:47Z"
+    "published_date": "2026-08-30T12:50:54Z"
   },
   {
-    "id": "hn-49495372",
-    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-    "points": 315,
-    "comments": 137,
+    "id": "hn-49506819",
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "points": 119,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-08-30T03:15:36Z"
+    "published_date": "2026-08-31T07:49:18Z"
   },
   {
-    "id": "hn-49492067",
-    "title": "vLLM v0.28.0",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "points": 106,
-    "comments": 36,
+    "id": "hn-49503956",
+    "title": "How to build a diffusion language model",
+    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "points": 117,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-08-29T18:22:00Z"
+    "published_date": "2026-08-30T23:41:32Z"
   },
   {
-    "id": "hn-49493244",
-    "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)",
-    "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+    "id": "hn-49502611",
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "points": 116,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T20:46:53Z"
+  },
+  {
+    "id": "hn-49501611",
+    "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "points": 115,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T18:49:08Z"
+  },
+  {
+    "id": "hn-49505310",
+    "title": "OpenClaw 2.0, Accidentally",
+    "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+    "points": 114,
+    "comments": 127,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T03:38:02Z"
+  },
+  {
+    "id": "hn-49505014",
+    "title": "Why do I lose my passion and want to do nothing?",
+    "url": "https://news.ycombinator.com/item?id=49505014",
+    "points": 81,
+    "comments": 67,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T02:40:37Z"
+  },
+  {
+    "id": "hn-49506142",
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "url": "https://github.com/astral-sh/uv/pull/21327",
     "points": 72,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T20:53:56Z"
-  },
-  {
-    "id": "hn-49491113",
-    "title": "The growing divide between AI hype and software engineering reality",
-    "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-    "points": 62,
-    "comments": 81,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T16:16:32Z"
-  },
-  {
-    "id": "hn-49492184",
-    "title": "LLMs are making me lose my savviness",
-    "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
-    "points": 59,
-    "comments": 75,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T18:38:52Z"
-  },
-  {
-    "id": "hn-49492432",
-    "title": "Warp builds self-improving agents on Claude",
-    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-    "points": 58,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T19:09:33Z"
-  },
-  {
-    "id": "hn-49494571",
-    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-    "url": "https://github.com/mk6i/open-oscar-server",
-    "points": 41,
     "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-08-30T00:33:35Z"
+    "published_date": "2026-08-31T06:03:02Z"
   },
   {
-    "id": "hn-49491282",
-    "title": "Claude permanently raising weekly limits by 25%",
-    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
-    "points": 26,
-    "comments": 14,
+    "id": "hn-49505040",
+    "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
+    "url": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
+    "points": 69,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-08-29T16:37:05Z"
+    "published_date": "2026-08-31T02:44:30Z"
   },
   {
-    "id": "hn-49491631",
-    "title": "Claude Code is going reduce limits by 25% from September 14",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-    "points": 25,
-    "comments": 13,
+    "id": "hn-49506655",
+    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+    "points": 51,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-08-29T17:27:31Z"
+    "published_date": "2026-08-31T07:23:47Z"
   },
   {
-    "id": "hn-49492554",
-    "title": "The elementary school pickup incident and the road ahead",
-    "url": "https://shitposting.ai/pickup-incident/",
-    "points": 23,
-    "comments": 9,
+    "id": "hn-49505351",
+    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+    "points": 41,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-08-29T19:25:01Z"
+    "published_date": "2026-08-31T03:45:57Z"
   },
   {
-    "id": "hn-49488905",
-    "title": "Neovim Removes DHH Quote",
-    "url": "https://github.com/neovim/neovim.github.io/pull/504/files",
-    "points": 20,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T11:07:34Z"
-  },
-  {
-    "id": "hn-49495845",
-    "title": "The Internet Archive's Vintage AI Collection",
-    "url": "https://archive.org/details/vintageai",
-    "points": 15,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T05:00:51Z"
-  },
-  {
-    "id": "hn-49494853",
-    "title": "China is fueling America's data center rage",
-    "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
-    "points": 14,
+    "id": "hn-49506519",
+    "title": "Claude Code reduces it's weekly limit by 17% \u2013 compared to today",
+    "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+    "points": 39,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-08-30T01:31:23Z"
+    "published_date": "2026-08-31T07:02:05Z"
   },
   {
-    "id": "hn-49496292",
-    "title": "Smartphone LED Detects Hidden Cameras with AI",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "id": "hn-49503421",
+    "title": "Show HN: Academa \u2013 Long-form STEM lecture videos generated by LLMs",
+    "url": "https://academa.ai/",
+    "points": 30,
+    "comments": 25,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T22:22:23Z"
+  },
+  {
+    "id": "hn-49503003",
+    "title": "Why your boss doesn't seem to care about your tech career anymore",
+    "url": "https://www.businessinsider.com/tech-managers-career-development-ai-great-flattening-2026-8",
+    "points": 21,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T21:26:58Z"
+  },
+  {
+    "id": "hn-49502101",
+    "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+    "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
+    "points": 20,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T19:47:53Z"
+  },
+  {
+    "id": "hn-49497996",
+    "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+    "url": "https://www.nature.com/articles/s41562-026-02550-0",
+    "points": 19,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-08-30T12:12:56Z"
+  },
+  {
+    "id": "hn-49505033",
+    "title": "Ask HN: What do your job interviews look like? (August 2026)",
+    "url": "https://news.ycombinator.com/item?id=49505033",
+    "points": 18,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T02:43:53Z"
+  },
+  {
+    "id": "hn-49500504",
+    "title": "Cheap GPS Jammers Are Filling the World with Navigation Dead Zones",
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
     "points": 13,
-    "comments": 1,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-08-30T06:52:04Z"
+    "published_date": "2026-08-30T17:05:32Z"
   },
   {
-    "id": "hn-49491745",
-    "title": "Ask HN: How to break Claude Code addiction?",
-    "url": "https://news.ycombinator.com/item?id=49491745",
+    "id": "hn-49504922",
+    "title": "CobaltC \u2013 The Successor to C?",
+    "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
     "points": 13,
-    "comments": 12,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-08-29T17:43:13Z"
-  },
-  {
-    "id": "hn-49497265",
-    "title": "Spark: Sparklines in your shell",
-    "url": "https://git.zx2c4.com/spark/about/",
-    "points": 13,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T10:02:16Z"
-  },
-  {
-    "id": "hn-49495009",
-    "title": "Meta Project OT plan to replace employees with AI agents",
-    "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
-    "points": 12,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T02:01:08Z"
-  },
-  {
-    "id": "hn-49493881",
-    "title": "Show HN: Delete yourself from data brokers without a subscription",
-    "url": "https://github.com/k7cfo/remove-your-data",
-    "points": 12,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-08-29T22:31:56Z"
+    "published_date": "2026-08-31T02:26:09Z"
   }
 ]
