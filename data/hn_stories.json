@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49498095",
-    "title": "No AI Fridays",
-    "url": "https://noaifridays.com/",
-    "points": 275,
-    "comments": 192,
+    "id": "hn-49508982",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "points": 417,
+    "comments": 459,
     "source": "Hacker News",
-    "published_date": "2026-08-30T12:31:05Z"
+    "published_date": "2026-08-31T12:41:22Z"
   },
   {
-    "id": "hn-49498201",
-    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-    "url": "https://github.com/anthropics/claude-code/issues/66504",
-    "points": 203,
-    "comments": 224,
+    "id": "hn-49517584",
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "points": 254,
+    "comments": 133,
     "source": "Hacker News",
-    "published_date": "2026-08-30T12:50:54Z"
+    "published_date": "2026-09-01T03:16:36Z"
   },
   {
-    "id": "hn-49506819",
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "points": 119,
-    "comments": 30,
+    "id": "hn-49512856",
+    "title": "The safest job from AI may be writing",
+    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "points": 131,
+    "comments": 179,
     "source": "Hacker News",
-    "published_date": "2026-08-31T07:49:18Z"
+    "published_date": "2026-08-31T18:12:20Z"
   },
   {
-    "id": "hn-49503956",
-    "title": "How to build a diffusion language model",
-    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-    "points": 117,
-    "comments": 11,
+    "id": "hn-49518316",
+    "title": "AI Can Make You Suck Faster Too",
+    "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+    "points": 96,
+    "comments": 108,
     "source": "Hacker News",
-    "published_date": "2026-08-30T23:41:32Z"
+    "published_date": "2026-09-01T05:32:56Z"
   },
   {
-    "id": "hn-49502611",
-    "title": "Continuous Diffusion Language Models (CDLM's)",
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "points": 116,
-    "comments": 39,
+    "id": "hn-49508664",
+    "title": "AI-written code is still your code",
+    "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+    "points": 55,
+    "comments": 91,
     "source": "Hacker News",
-    "published_date": "2026-08-30T20:46:53Z"
+    "published_date": "2026-08-31T12:08:25Z"
   },
   {
-    "id": "hn-49501611",
-    "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
-    "url": "https://github.com/KodeMunkie/sm750hdmifb",
-    "points": 115,
-    "comments": 40,
+    "id": "hn-49510302",
+    "title": "Marx, Keynes, and AI",
+    "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
+    "points": 55,
+    "comments": 82,
     "source": "Hacker News",
-    "published_date": "2026-08-30T18:49:08Z"
+    "published_date": "2026-08-31T14:36:03Z"
   },
   {
-    "id": "hn-49505310",
-    "title": "OpenClaw 2.0, Accidentally",
-    "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-    "points": 114,
-    "comments": 127,
+    "id": "hn-49511007",
+    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+    "url": "https://usealmanac.com/",
+    "points": 53,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-08-31T03:38:02Z"
+    "published_date": "2026-08-31T15:34:34Z"
   },
   {
-    "id": "hn-49505014",
-    "title": "Why do I lose my passion and want to do nothing?",
-    "url": "https://news.ycombinator.com/item?id=49505014",
-    "points": 81,
-    "comments": 67,
+    "id": "hn-49516848",
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+    "points": 48,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-08-31T02:40:37Z"
+    "published_date": "2026-09-01T01:25:40Z"
   },
   {
-    "id": "hn-49506142",
-    "title": "uv: Deduplicate all files in the wheel cache",
-    "url": "https://github.com/astral-sh/uv/pull/21327",
-    "points": 72,
-    "comments": 15,
+    "id": "hn-49511400",
+    "title": "Show HN: Corporate Mind Games \u2013 logic puzzles with a sarcastic corporate theme",
+    "url": "https://corporatemindgames.com/",
+    "points": 46,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-08-31T06:03:02Z"
+    "published_date": "2026-08-31T16:08:08Z"
   },
   {
-    "id": "hn-49505040",
-    "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
-    "url": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
-    "points": 69,
-    "comments": 46,
+    "id": "hn-49510632",
+    "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "points": 44,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-08-31T02:44:30Z"
+    "published_date": "2026-08-31T15:02:41Z"
   },
   {
-    "id": "hn-49506655",
-    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-    "points": 51,
-    "comments": 43,
+    "id": "hn-49511824",
+    "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+    "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+    "points": 37,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-08-31T07:23:47Z"
+    "published_date": "2026-08-31T16:44:15Z"
   },
   {
-    "id": "hn-49505351",
-    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-    "points": 41,
-    "comments": 87,
+    "id": "hn-49514471",
+    "title": "Dropbox Got Hacked",
+    "url": "https://twitter.com/yonilevy/status/2094521566826541248",
+    "points": 35,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-08-31T03:45:57Z"
+    "published_date": "2026-08-31T20:26:07Z"
   },
   {
-    "id": "hn-49506519",
-    "title": "Claude Code reduces it's weekly limit by 17% \u2013 compared to today",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
-    "points": 39,
-    "comments": 17,
+    "id": "hn-49510066",
+    "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+    "url": "https://news.ycombinator.com/item?id=49510066",
+    "points": 33,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-08-31T07:02:05Z"
+    "published_date": "2026-08-31T14:14:25Z"
   },
   {
-    "id": "hn-49503421",
-    "title": "Show HN: Academa \u2013 Long-form STEM lecture videos generated by LLMs",
-    "url": "https://academa.ai/",
-    "points": 30,
-    "comments": 25,
+    "id": "hn-49517492",
+    "title": "California Lawmakers Pass Plug-In Solar Bill",
+    "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
+    "points": 29,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-08-30T22:22:23Z"
+    "published_date": "2026-09-01T02:57:26Z"
   },
   {
-    "id": "hn-49503003",
-    "title": "Why your boss doesn't seem to care about your tech career anymore",
-    "url": "https://www.businessinsider.com/tech-managers-career-development-ai-great-flattening-2026-8",
-    "points": 21,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T21:26:58Z"
-  },
-  {
-    "id": "hn-49502101",
-    "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
-    "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
-    "points": 20,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T19:47:53Z"
-  },
-  {
-    "id": "hn-49497996",
-    "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-    "url": "https://www.nature.com/articles/s41562-026-02550-0",
-    "points": 19,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-08-30T12:12:56Z"
-  },
-  {
-    "id": "hn-49505033",
-    "title": "Ask HN: What do your job interviews look like? (August 2026)",
-    "url": "https://news.ycombinator.com/item?id=49505033",
-    "points": 18,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T02:43:53Z"
-  },
-  {
-    "id": "hn-49500504",
-    "title": "Cheap GPS Jammers Are Filling the World with Navigation Dead Zones",
-    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-    "points": 13,
+    "id": "hn-49514427",
+    "title": "Dropbox Data Breach",
+    "url": "https://news.ycombinator.com/item?id=49514427",
+    "points": 28,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-08-30T17:05:32Z"
+    "published_date": "2026-08-31T20:20:18Z"
   },
   {
-    "id": "hn-49504922",
-    "title": "CobaltC \u2013 The Successor to C?",
-    "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
-    "points": 13,
+    "id": "hn-49514729",
+    "title": "Show HN: Markdown Viewer and Editor",
+    "url": "https://kingsbridge-consultancy.com/md-viewer/",
+    "points": 27,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T20:55:03Z"
+  },
+  {
+    "id": "hn-49508443",
+    "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+    "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+    "points": 25,
     "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-08-31T02:26:09Z"
+    "published_date": "2026-08-31T11:34:28Z"
+  },
+  {
+    "id": "hn-49517928",
+    "title": "ArXiv has almost 600 submissions today and most are AI slop",
+    "url": "https://arxiv.org/list/math/new",
+    "points": 21,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T04:24:01Z"
+  },
+  {
+    "id": "hn-49508735",
+    "title": "Show HN: SlideOps \u2013 slides from a repo that flag when they drift from the code",
+    "url": "https://github.com/glukicov/slideops",
+    "points": 21,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T12:15:10Z"
+  },
+  {
+    "id": "hn-49515558",
+    "title": "How to get a free .arpa domain",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "points": 16,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-08-31T22:21:58Z"
   }
 ]

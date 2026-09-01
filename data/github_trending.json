@@ -4,7 +4,7 @@
     "name": "Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "url": "https://github.com/Nanako0129/sepia",
-    "stars": 1117,
+    "stars": 1311,
     "language": null,
     "topics": [
       "agent-skills",
@@ -27,7 +27,7 @@
     "name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 508,
+    "stars": 851,
     "language": "Python",
     "topics": [
       "ai",
@@ -45,7 +45,7 @@
     "name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 478,
+    "stars": 617,
     "language": "Python",
     "topics": [
       "ai",
@@ -61,7 +61,7 @@
     "name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 389,
+    "stars": 398,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -78,7 +78,7 @@
     "name": "S1N6H/pentest-harness",
     "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
     "url": "https://github.com/S1N6H/pentest-harness",
-    "stars": 306,
+    "stars": 316,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -96,69 +96,11 @@
     "created_at": "2026-08-26T04:57:19Z"
   },
   {
-    "id": "gh-1348178527",
-    "name": "JordyZomer/lemmalog",
-    "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-    "url": "https://github.com/JordyZomer/lemmalog",
-    "stars": 222,
-    "language": "Rust",
-    "topics": [
-      "agent-memory",
-      "datalog",
-      "knowledge-graph",
-      "llm",
-      "llm-agents",
-      "mcp",
-      "neurosymbolic"
-    ],
-    "created_at": "2026-08-27T07:06:55Z"
-  },
-  {
-    "id": "gh-1346252450",
-    "name": "Merit-Systems/OpenInstinct",
-    "description": "iMessage personal assistant + password vault",
-    "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 219,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "imessage"
-    ],
-    "created_at": "2026-08-25T14:42:47Z"
-  },
-  {
-    "id": "gh-1350970233",
-    "name": "Vuk97/forward-implementation-first",
-    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-    "url": "https://github.com/Vuk97/forward-implementation-first",
-    "stars": 148,
-    "language": "Shell",
-    "topics": [
-      "agent-skills",
-      "agents",
-      "agentskills",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-cli",
-      "developer-tools",
-      "llm",
-      "llm-agents",
-      "openai",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-08-29T23:16:12Z"
-  },
-  {
     "id": "gh-1350914890",
     "name": "useagenthq/useagent",
-    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 129,
+    "stars": 265,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -185,6 +127,24 @@
     "created_at": "2026-08-29T21:14:31Z"
   },
   {
+    "id": "gh-1348178527",
+    "name": "JordyZomer/lemmalog",
+    "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+    "url": "https://github.com/JordyZomer/lemmalog",
+    "stars": 242,
+    "language": "Rust",
+    "topics": [
+      "agent-memory",
+      "datalog",
+      "knowledge-graph",
+      "llm",
+      "llm-agents",
+      "mcp",
+      "neurosymbolic"
+    ],
+    "created_at": "2026-08-27T07:06:55Z"
+  },
+  {
     "id": "gh-1346881798",
     "name": "Vincent-Xi08/IntentRoute-AI",
     "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
@@ -208,107 +168,155 @@
     "created_at": "2026-08-26T04:02:31Z"
   },
   {
-    "id": "gh-1345931063",
-    "name": "njgymb/diffusers-sculptor",
-    "description": "Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline",
-    "url": "https://github.com/njgymb/diffusers-sculptor",
-    "stars": 56,
-    "language": "HTML",
+    "id": "gh-1351204776",
+    "name": "aadithyanr/yname",
+    "description": "Generate a YC startup name before someone else does.",
+    "url": "https://github.com/aadithyanr/yname",
+    "stars": 51,
+    "language": "Python",
     "topics": [
-      "adapter",
-      "diffusers",
-      "diffusion-models",
-      "fine-tuning",
-      "flow-matching",
-      "lora",
       "machine-learning",
-      "stable-diffusion",
-      "trainer",
-      "tuner"
+      "name-generator",
+      "react",
+      "vite",
+      "y-combinator"
     ],
-    "created_at": "2026-08-25T09:30:13Z"
+    "created_at": "2026-08-30T07:45:52Z"
   },
   {
-    "id": "gh-1345901466",
-    "name": "Harshitdewangann/Model-Vault-Forge",
-    "description": "AI Studio Trainer Hub 2026: Open Source Installer & Auto-Updater Suite",
-    "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
-    "stars": 55,
-    "language": "HTML",
+    "id": "gh-1352660626",
+    "name": "ara-mkr/Wonder-Pill",
+    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
+    "url": "https://github.com/ara-mkr/Wonder-Pill",
+    "stars": 33,
+    "language": null,
     "topics": [
       "ai",
+      "ai-tools",
+      "claude",
+      "claude-ai",
+      "claude-code-skill",
+      "claude-desktop",
+      "claude-skills",
+      "codex-skill",
+      "skill-md",
+      "skills",
+      "skills-sh"
+    ],
+    "created_at": "2026-08-31T17:04:57Z"
+  },
+  {
+    "id": "gh-1350322497",
+    "name": "waddadelmehdi/ml-classification-iris",
+    "description": "Iris classification: 7 ML models compared end-to-end with scikit-learn",
+    "url": "https://github.com/waddadelmehdi/ml-classification-iris",
+    "stars": 16,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "classification",
+      "data-analysis",
+      "data-science",
+      "decision-trees",
+      "iris-dataset",
+      "jupyter-notebook",
+      "k-nearest-neighbors",
+      "logistic-regression",
+      "machine-learning",
+      "matplotlib",
+      "mlp",
+      "model-evaluation",
+      "nueral-networks",
+      "pandas",
+      "pca",
+      "python",
+      "random-forest",
+      "seaborn",
+      "sklearn",
+      "svm"
+    ],
+    "created_at": "2026-08-29T06:03:22Z"
+  },
+  {
+    "id": "gh-1346919628",
+    "name": "zidniryi/open-source-ai-models",
+    "description": "A curated directory of open-source & open-weight AI models \u2014 compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
+    "url": "https://github.com/zidniryi/open-source-ai-models",
+    "stars": 14,
+    "language": null,
+    "topics": [
       "ai-models",
-      "deep-learning",
-      "deep-neural-networks",
-      "installer",
-      "lithicsoft",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "awesome-list",
+      "background-removal",
+      "huggingface",
+      "llm",
+      "llms",
+      "local-llm",
       "machine-learning",
-      "trainer",
-      "trainer-studio",
-      "training",
-      "transfer-learning",
-      "updater"
+      "model-directory",
+      "ocr",
+      "open-source-ai"
     ],
-    "created_at": "2026-08-25T08:57:21Z"
+    "created_at": "2026-08-26T05:00:24Z"
   },
   {
-    "id": "gh-1345975126",
-    "name": "Sanane001/torch-hydra-starter",
-    "description": "PyTorch AI Template 2026: Hydra-Powered Deep Learning Boilerplate Starter Kit",
-    "url": "https://github.com/Sanane001/torch-hydra-starter",
-    "stars": 55,
-    "language": "HTML",
+    "id": "gh-1346834544",
+    "name": "MartinDelophy/Awesome-AIGC-Creative-Contests",
+    "description": "A curated, continuously updated list of AIGC creative contests for video, image, audio, writing and AI apps.",
+    "url": "https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests",
+    "stars": 12,
+    "language": "Python",
     "topics": [
-      "boilerplate",
-      "boilerplate-template",
-      "deep-learning",
-      "hydra",
-      "machine-learning",
-      "pytorch",
-      "trainer",
-      "yaml"
+      "ai-art",
+      "ai-competitions",
+      "ai-film",
+      "ai-music",
+      "aigc",
+      "awesome-list",
+      "competitions",
+      "generative-ai",
+      "rss"
     ],
-    "created_at": "2026-08-25T10:17:59Z"
+    "created_at": "2026-08-26T02:49:31Z"
   },
   {
-    "id": "gh-1345932899",
-    "name": "godtiza/nebula-forge-studio",
-    "description": "AI Ecosystem Platform 2026: Train Models & Generate Images Seamlessly",
-    "url": "https://github.com/godtiza/nebula-forge-studio",
-    "stars": 55,
-    "language": "HTML",
+    "id": "gh-1348859674",
+    "name": "mem-audit/memaudit",
+    "description": "Training-data memorization auditor for fine-tuned LLMs \u2014 Trainer/TRL plugin, canary MIA + regurgitation audit, Apache-2.0",
+    "url": "https://github.com/mem-audit/memaudit",
+    "stars": 11,
+    "language": "Python",
     "topics": [
-      "civitai-integration",
-      "huggingface-hub",
+      "auditing",
+      "gdpr",
+      "huggingface",
+      "llm",
+      "lora",
       "machine-learning",
-      "nextjs",
-      "nodejs",
-      "sd-scripts",
-      "shadcn-ui",
-      "stable-diffusion-webui",
-      "trainer",
-      "training"
+      "membership-inference",
+      "memorization",
+      "peft",
+      "privacy",
+      "security",
+      "trl"
     ],
-    "created_at": "2026-08-25T09:32:25Z"
+    "created_at": "2026-08-27T19:12:41Z"
   },
   {
-    "id": "gh-1345979051",
-    "name": "DiamondpixelStudio/resume-forge-lab",
-    "description": "Aniruddhha\u2019s 2026 Career Growth Accelerator: Resume & Skill Build Hub",
-    "url": "https://github.com/DiamondpixelStudio/resume-forge-lab",
-    "stars": 55,
-    "language": "HTML",
+    "id": "gh-1351894347",
+    "name": "ismailntl/multiverse-cable",
+    "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
+    "url": "https://github.com/ismailntl/multiverse-cable",
+    "stars": 10,
+    "language": "JavaScript",
     "topics": [
-      "deep-learning",
-      "development",
-      "fullstack",
-      "fullstack-developer",
-      "fullstack-development",
-      "machine-learning",
-      "resume",
-      "trainer",
-      "training"
+      "ai-video",
+      "bedrock",
+      "generative-ai",
+      "live-streaming",
+      "nodejs"
     ],
-    "created_at": "2026-08-25T10:21:59Z"
+    "created_at": "2026-08-31T02:05:30Z"
   }
 ]
