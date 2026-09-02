@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49508982",
-    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "points": 417,
-    "comments": 459,
+    "id": "hn-49525378",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "points": 1253,
+    "comments": 1172,
     "source": "Hacker News",
-    "published_date": "2026-08-31T12:41:22Z"
+    "published_date": "2026-09-01T17:53:53Z"
   },
   {
-    "id": "hn-49517584",
-    "title": "GPU World",
-    "url": "https://www.gpuworld.org/",
-    "points": 254,
-    "comments": 133,
+    "id": "hn-49520022",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "points": 884,
+    "comments": 260,
     "source": "Hacker News",
-    "published_date": "2026-09-01T03:16:36Z"
+    "published_date": "2026-09-01T10:11:02Z"
   },
   {
-    "id": "hn-49512856",
-    "title": "The safest job from AI may be writing",
-    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "points": 131,
-    "comments": 179,
+    "id": "hn-49526069",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "points": 712,
+    "comments": 778,
     "source": "Hacker News",
-    "published_date": "2026-08-31T18:12:20Z"
+    "published_date": "2026-09-01T18:35:15Z"
   },
   {
-    "id": "hn-49518316",
-    "title": "AI Can Make You Suck Faster Too",
-    "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+    "id": "hn-49523754",
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "points": 527,
+    "comments": 227,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T15:55:53Z"
+  },
+  {
+    "id": "hn-49523720",
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "points": 227,
+    "comments": 227,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T15:53:42Z"
+  },
+  {
+    "id": "hn-49522897",
+    "title": "Ask HN: Who is hiring? (September 2026)",
+    "url": "https://news.ycombinator.com/item?id=49522897",
+    "points": 217,
+    "comments": 243,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T15:01:17Z"
+  },
+  {
+    "id": "hn-49525153",
+    "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+    "url": "https://www.norirobotics.com/",
+    "points": 173,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T17:35:10Z"
+  },
+  {
+    "id": "hn-49521315",
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "points": 163,
+    "comments": 185,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T12:53:51Z"
+  },
+  {
+    "id": "hn-49528895",
+    "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+    "url": "https://masteranza.github.io/weedout/",
+    "points": 143,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T22:06:57Z"
+  },
+  {
+    "id": "hn-49529898",
+    "title": "The efficient frontier of LLM inference",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "points": 123,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T23:48:05Z"
+  },
+  {
+    "id": "hn-49522374",
+    "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
     "points": 96,
-    "comments": 108,
+    "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-09-01T05:32:56Z"
+    "published_date": "2026-09-01T14:19:30Z"
   },
   {
-    "id": "hn-49508664",
-    "title": "AI-written code is still your code",
-    "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-    "points": 55,
-    "comments": 91,
+    "id": "hn-49528057",
+    "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "url": "https://hnmatchmaker.com/",
+    "points": 90,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-08-31T12:08:25Z"
+    "published_date": "2026-09-01T20:53:35Z"
   },
   {
-    "id": "hn-49510302",
-    "title": "Marx, Keynes, and AI",
-    "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
-    "points": 55,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T14:36:03Z"
-  },
-  {
-    "id": "hn-49511007",
-    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-    "url": "https://usealmanac.com/",
-    "points": 53,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T15:34:34Z"
-  },
-  {
-    "id": "hn-49516848",
-    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-    "points": 48,
-    "comments": 33,
-    "source": "Hacker News",
-    "published_date": "2026-09-01T01:25:40Z"
-  },
-  {
-    "id": "hn-49511400",
-    "title": "Show HN: Corporate Mind Games \u2013 logic puzzles with a sarcastic corporate theme",
-    "url": "https://corporatemindgames.com/",
-    "points": 46,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T16:08:08Z"
-  },
-  {
-    "id": "hn-49510632",
-    "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "points": 44,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T15:02:41Z"
-  },
-  {
-    "id": "hn-49511824",
-    "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
-    "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
-    "points": 37,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T16:44:15Z"
-  },
-  {
-    "id": "hn-49514471",
-    "title": "Dropbox Got Hacked",
-    "url": "https://twitter.com/yonilevy/status/2094521566826541248",
-    "points": 35,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T20:26:07Z"
-  },
-  {
-    "id": "hn-49510066",
-    "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
-    "url": "https://news.ycombinator.com/item?id=49510066",
-    "points": 33,
-    "comments": 65,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T14:14:25Z"
-  },
-  {
-    "id": "hn-49517492",
-    "title": "California Lawmakers Pass Plug-In Solar Bill",
-    "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
-    "points": 29,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-09-01T02:57:26Z"
-  },
-  {
-    "id": "hn-49514427",
-    "title": "Dropbox Data Breach",
-    "url": "https://news.ycombinator.com/item?id=49514427",
-    "points": 28,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T20:20:18Z"
-  },
-  {
-    "id": "hn-49514729",
-    "title": "Show HN: Markdown Viewer and Editor",
-    "url": "https://kingsbridge-consultancy.com/md-viewer/",
-    "points": 27,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T20:55:03Z"
-  },
-  {
-    "id": "hn-49508443",
-    "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
-    "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
-    "points": 25,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T11:34:28Z"
-  },
-  {
-    "id": "hn-49517928",
-    "title": "ArXiv has almost 600 submissions today and most are AI slop",
-    "url": "https://arxiv.org/list/math/new",
-    "points": 21,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-09-01T04:24:01Z"
-  },
-  {
-    "id": "hn-49508735",
-    "title": "Show HN: SlideOps \u2013 slides from a repo that flag when they drift from the code",
-    "url": "https://github.com/glukicov/slideops",
-    "points": 21,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-08-31T12:15:10Z"
-  },
-  {
-    "id": "hn-49515558",
-    "title": "How to get a free .arpa domain",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "points": 16,
+    "id": "hn-49525496",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "points": 70,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-08-31T22:21:58Z"
+    "published_date": "2026-09-01T18:01:24Z"
+  },
+  {
+    "id": "hn-49530472",
+    "title": "Claude Fable 5.1 made me a nice animated pelican",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "points": 59,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-09-02T01:05:52Z"
+  },
+  {
+    "id": "hn-49528366",
+    "title": "Fluorescent lamps (don't) have ears",
+    "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+    "points": 40,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T21:19:10Z"
+  },
+  {
+    "id": "hn-49533073",
+    "title": "Ask HN: How do you survive a job you hate which is slowly making you sick?",
+    "url": "https://news.ycombinator.com/item?id=49533073",
+    "points": 32,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-09-02T07:43:49Z"
+  },
+  {
+    "id": "hn-49529329",
+    "title": "AI Coding Agent Skills for Real Engineers",
+    "url": "https://github.com/mattpocock/skills",
+    "points": 29,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T22:48:47Z"
+  },
+  {
+    "id": "hn-49528663",
+    "title": "AI is making back-office work extinct",
+    "url": "https://www.whitecollardream.com/",
+    "points": 29,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T21:43:31Z"
+  },
+  {
+    "id": "hn-49524469",
+    "title": "Show HN: Newton's Orchard \u2013 Browser-based space/gravity playground",
+    "url": "https://newtonsorchard.app",
+    "points": 24,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T16:43:40Z"
+  },
+  {
+    "id": "hn-49524886",
+    "title": "The war with Iran will not be won through airstrikes, so what's left?",
+    "url": "https://www.jpost.com/defense-and-tech/article-906985",
+    "points": 23,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-09-01T17:13:30Z"
   }
 ]

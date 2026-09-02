@@ -4,8 +4,8 @@
     "name": "Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "url": "https://github.com/Nanako0129/sepia",
-    "stars": 1311,
-    "language": null,
+    "stars": 1415,
+    "language": "Python",
     "topics": [
       "agent-skills",
       "ai-writing",
@@ -27,7 +27,7 @@
     "name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 851,
+    "stars": 1142,
     "language": "Python",
     "topics": [
       "ai",
@@ -45,7 +45,7 @@
     "name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 617,
+    "stars": 620,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,11 +57,30 @@
     "created_at": "2026-08-27T17:59:23Z"
   },
   {
+    "id": "gh-1349507889",
+    "name": "Player-YN/PawWork_ZhuaZhua",
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+    "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "stars": 431,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "byok",
+      "chrome-extension",
+      "llm",
+      "pptx",
+      "tldraw",
+      "univer"
+    ],
+    "created_at": "2026-08-28T10:56:56Z"
+  },
+  {
     "id": "gh-1348826110",
     "name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 398,
+    "stars": 410,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -74,33 +93,11 @@
     "created_at": "2026-08-27T18:30:44Z"
   },
   {
-    "id": "gh-1346917581",
-    "name": "S1N6H/pentest-harness",
-    "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-    "url": "https://github.com/S1N6H/pentest-harness",
-    "stars": 316,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "anthropic-api",
-      "bug-bounty",
-      "infosec",
-      "llm",
-      "offensive-security",
-      "open-source",
-      "openai-api",
-      "pentesting",
-      "red-team",
-      "security-tools"
-    ],
-    "created_at": "2026-08-26T04:57:19Z"
-  },
-  {
     "id": "gh-1350914890",
     "name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 265,
+    "stars": 272,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -131,7 +128,7 @@
     "name": "JordyZomer/lemmalog",
     "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
     "url": "https://github.com/JordyZomer/lemmalog",
-    "stars": 242,
+    "stars": 256,
     "language": "Rust",
     "topics": [
       "agent-memory",
@@ -145,27 +142,26 @@
     "created_at": "2026-08-27T07:06:55Z"
   },
   {
-    "id": "gh-1346881798",
-    "name": "Vincent-Xi08/IntentRoute-AI",
-    "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
-    "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
-    "stars": 101,
-    "language": "C#",
+    "id": "gh-1352660626",
+    "name": "ara-mkr/Wonder-Pill",
+    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
+    "url": "https://github.com/ara-mkr/Wonder-Pill",
+    "stars": 67,
+    "language": null,
     "topics": [
       "ai",
-      "dotnet",
-      "network-routing",
-      "ollama",
-      "open-source",
-      "openai",
-      "proxy",
-      "sing-box",
-      "split-tunneling",
-      "tun",
-      "windows",
-      "wpf"
+      "ai-tools",
+      "claude",
+      "claude-ai",
+      "claude-code-skill",
+      "claude-desktop",
+      "claude-skills",
+      "codex-skill",
+      "skill-md",
+      "skills",
+      "skills-sh"
     ],
-    "created_at": "2026-08-26T04:02:31Z"
+    "created_at": "2026-08-31T17:04:57Z"
   },
   {
     "id": "gh-1351204776",
@@ -184,26 +180,46 @@
     "created_at": "2026-08-30T07:45:52Z"
   },
   {
-    "id": "gh-1352660626",
-    "name": "ara-mkr/Wonder-Pill",
-    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
-    "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 33,
-    "language": null,
+    "id": "gh-1351509581",
+    "name": "justadityaraj/shim-mcp",
+    "description": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-contained, no cloud.",
+    "url": "https://github.com/justadityaraj/shim-mcp",
+    "stars": 48,
+    "language": "PHP",
     "topics": [
       "ai",
-      "ai-tools",
+      "anthropic",
       "claude",
-      "claude-ai",
-      "claude-code-skill",
-      "claude-desktop",
-      "claude-skills",
-      "codex-skill",
-      "skill-md",
-      "skills",
-      "skills-sh"
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "wordpress",
+      "wordpress-plugin",
+      "wp-cli"
     ],
-    "created_at": "2026-08-31T17:04:57Z"
+    "created_at": "2026-08-30T15:26:23Z"
+  },
+  {
+    "id": "gh-1353960300",
+    "name": "hbofz/NeSLE",
+    "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO agents on Super Mario Bros.",
+    "url": "https://github.com/hbofz/NeSLE",
+    "stars": 19,
+    "language": "Python",
+    "topics": [
+      "cuda",
+      "emulator",
+      "gpu",
+      "gymnasium",
+      "machine-learning",
+      "nes",
+      "ppo",
+      "pybind11",
+      "reinforcement-learning",
+      "super-mario-bros"
+    ],
+    "created_at": "2026-09-01T19:38:21Z"
   },
   {
     "id": "gh-1350322497",
@@ -237,48 +253,34 @@
     "created_at": "2026-08-29T06:03:22Z"
   },
   {
-    "id": "gh-1346919628",
-    "name": "zidniryi/open-source-ai-models",
-    "description": "A curated directory of open-source & open-weight AI models \u2014 compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
-    "url": "https://github.com/zidniryi/open-source-ai-models",
-    "stars": 14,
-    "language": null,
+    "id": "gh-1351894347",
+    "name": "ismailntl/multiverse-cable",
+    "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
+    "url": "https://github.com/ismailntl/multiverse-cable",
+    "stars": 12,
+    "language": "JavaScript",
     "topics": [
-      "ai-models",
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "awesome-list",
-      "background-removal",
-      "huggingface",
-      "llm",
-      "llms",
-      "local-llm",
-      "machine-learning",
-      "model-directory",
-      "ocr",
-      "open-source-ai"
+      "ai-video",
+      "bedrock",
+      "generative-ai",
+      "live-streaming",
+      "nodejs"
     ],
-    "created_at": "2026-08-26T05:00:24Z"
+    "created_at": "2026-08-31T02:05:30Z"
   },
   {
-    "id": "gh-1346834544",
-    "name": "MartinDelophy/Awesome-AIGC-Creative-Contests",
-    "description": "A curated, continuously updated list of AIGC creative contests for video, image, audio, writing and AI apps.",
-    "url": "https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests",
-    "stars": 12,
-    "language": "Python",
+    "id": "gh-1353199358",
+    "name": "keke-star19/forecasting-crude-oil-option-prices",
+    "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
+    "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
+    "stars": 11,
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-art",
-      "ai-competitions",
-      "ai-film",
-      "ai-music",
-      "aigc",
-      "awesome-list",
-      "competitions",
-      "generative-ai",
-      "rss"
+      "deep-learning",
+      "machine-learning",
+      "option-pricing"
     ],
-    "created_at": "2026-08-26T02:49:31Z"
+    "created_at": "2026-09-01T06:08:27Z"
   },
   {
     "id": "gh-1348859674",
@@ -302,21 +304,5 @@
       "trl"
     ],
     "created_at": "2026-08-27T19:12:41Z"
-  },
-  {
-    "id": "gh-1351894347",
-    "name": "ismailntl/multiverse-cable",
-    "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
-    "url": "https://github.com/ismailntl/multiverse-cable",
-    "stars": 10,
-    "language": "JavaScript",
-    "topics": [
-      "ai-video",
-      "bedrock",
-      "generative-ai",
-      "live-streaming",
-      "nodejs"
-    ],
-    "created_at": "2026-08-31T02:05:30Z"
   }
 ]
