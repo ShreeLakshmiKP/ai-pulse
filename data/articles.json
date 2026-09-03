@@ -3968,6 +3968,177 @@
     "image": null
   },
   {
+    "id": "rss-7bd6a782",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ef03c3a5",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7ae55826",
+    "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "summary": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "tags": [
+      "robotics",
+      "NVIDIA"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-373be540",
+    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+    "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "tags": [
+      "safety",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b567a13a",
+    "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+    "summary": "The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e2a8d267",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-43c527ed",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9fef7b06",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "Introducing Fairwind Program",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 02 Sep 2026 15:40:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c0e30f01",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 02 Sep 2026 14:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d23fc469",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 02 Sep 2026 13:49:14 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-fdfd47cb",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 02 Sep 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-21f8b896",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-cba85e1b",
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
     "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
@@ -4165,175 +4336,6 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Wed, 01 Apr 2026 18:35:36 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-93167e0c",
-    "title": "Holo3: Breaking the Computer Use Frontier",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/Hcompany/holo3",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 01 Apr 2026 16:36:15 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-94140c71",
-    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 01 Apr 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9dce3146",
-    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-    "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 01 Apr 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b242e73e",
-    "title": "We\u2019re creating a new satellite imagery map to help protect Brazil\u2019s forests.",
-    "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country\u2019s forests.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 01 Apr 2026 13:30:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c10527d0",
-    "title": "The latest AI news we announced in March 2026",
-    "summary": "March 2026 AI Recap showing new updates",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 01 Apr 2026 13:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1677d36c",
-    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-    "tags": [
-      "benchmark"
-    ],
-    "category": "Research",
-    "published_date": "Wed, 01 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-afbb3709",
-    "title": "The gig workers who are training humanoid robots at home",
-    "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Wed, 01 Apr 2026 11:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-a6e2823e",
-    "title": "Falcon Perception",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 01 Apr 2026 07:13:20 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-0f9835b1",
-    "title": "Gradient Labs gives every bank customer an AI account manager",
-    "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/gradient-labs",
-    "tags": [
-      "GPT",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 01 Apr 2026 02:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-08ac6ed6",
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "tags": [
-      "LLM",
-      "open-source",
-      "startups"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 01 Apr 2026 01:42:59 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7c794031",
-    "title": "Any Custom Frontend with Gradio's Backend",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/introducing-gradio-server",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 01 Apr 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-433b289a",
-    "title": "Anthropic is having a month",
-    "summary": "A human really borks things at Anthropic for the second time this week.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Tue, 31 Mar 2026 23:58:26 +0000",
     "image": null
   }
 ]

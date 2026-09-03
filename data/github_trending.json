@@ -4,7 +4,7 @@
     "name": "Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "url": "https://github.com/Nanako0129/sepia",
-    "stars": 1415,
+    "stars": 1740,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -23,45 +23,11 @@
     "created_at": "2026-08-28T05:56:49Z"
   },
   {
-    "id": "gh-1348572094",
-    "name": "damejan80/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/damejan80/tokentab",
-    "stars": 1142,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude",
-      "claude-code",
-      "cursor",
-      "python",
-      "token-optimization",
-      "token-usage"
-    ],
-    "created_at": "2026-08-27T14:16:09Z"
-  },
-  {
-    "id": "gh-1348793218",
-    "name": "hkqr/my-free-code",
-    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "url": "https://github.com/hkqr/my-free-code",
-    "stars": 620,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude-code",
-      "free-claude-api",
-      "multi-provider",
-      "multi-provider-llm"
-    ],
-    "created_at": "2026-08-27T17:59:23Z"
-  },
-  {
     "id": "gh-1349507889",
     "name": "Player-YN/PawWork_ZhuaZhua",
     "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
     "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-    "stars": 431,
+    "stars": 663,
     "language": "JavaScript",
     "topics": [
       "ai-agent",
@@ -76,28 +42,11 @@
     "created_at": "2026-08-28T10:56:56Z"
   },
   {
-    "id": "gh-1348826110",
-    "name": "OnlyTerp/opengrok",
-    "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-    "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 410,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "grok",
-      "llm",
-      "model-router",
-      "openai-compatible",
-      "windows"
-    ],
-    "created_at": "2026-08-27T18:30:44Z"
-  },
-  {
     "id": "gh-1350914890",
     "name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 272,
+    "stars": 277,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -124,29 +73,51 @@
     "created_at": "2026-08-29T21:14:31Z"
   },
   {
-    "id": "gh-1348178527",
-    "name": "JordyZomer/lemmalog",
-    "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-    "url": "https://github.com/JordyZomer/lemmalog",
-    "stars": 256,
-    "language": "Rust",
+    "id": "gh-1349285058",
+    "name": "carloslfu/slotstream",
+    "description": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+    "url": "https://github.com/carloslfu/slotstream",
+    "stars": 264,
+    "language": "Swift",
     "topics": [
-      "agent-memory",
-      "datalog",
-      "knowledge-graph",
+      "apple-silicon",
       "llm",
-      "llm-agents",
-      "mcp",
-      "neurosymbolic"
+      "llm-inference",
+      "local-llm",
+      "macos",
+      "mixture-of-experts",
+      "mlx",
+      "ollama",
+      "qwen",
+      "swift"
     ],
-    "created_at": "2026-08-27T07:06:55Z"
+    "created_at": "2026-08-28T06:42:21Z"
+  },
+  {
+    "id": "gh-1351879111",
+    "name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 223,
+    "language": "Python",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "created_at": "2026-08-31T01:39:18Z"
   },
   {
     "id": "gh-1352660626",
     "name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 67,
+    "stars": 85,
     "language": null,
     "topics": [
       "ai",
@@ -201,11 +172,44 @@
     "created_at": "2026-08-30T15:26:23Z"
   },
   {
+    "id": "gh-1349656169",
+    "name": "HowProgrammingWorks/Agent",
+    "description": "Small, modular coding-agent harness for Node.js",
+    "url": "https://github.com/HowProgrammingWorks/Agent",
+    "stars": 37,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "ai",
+      "harness",
+      "llm"
+    ],
+    "created_at": "2026-08-28T13:50:08Z"
+  },
+  {
+    "id": "gh-1351167897",
+    "name": "AbuZar-Ansarii/Needle",
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "url": "https://github.com/AbuZar-Ansarii/Needle",
+    "stars": 36,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "cactus-needle",
+      "llm",
+      "llm-agents",
+      "llm-tools"
+    ],
+    "created_at": "2026-08-30T06:43:48Z"
+  },
+  {
     "id": "gh-1353960300",
     "name": "hbofz/NeSLE",
-    "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO agents on Super Mario Bros.",
+    "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
     "url": "https://github.com/hbofz/NeSLE",
-    "stars": 19,
+    "stars": 24,
     "language": "Python",
     "topics": [
       "cuda",
@@ -222,42 +226,25 @@
     "created_at": "2026-09-01T19:38:21Z"
   },
   {
-    "id": "gh-1350322497",
-    "name": "waddadelmehdi/ml-classification-iris",
-    "description": "Iris classification: 7 ML models compared end-to-end with scikit-learn",
-    "url": "https://github.com/waddadelmehdi/ml-classification-iris",
+    "id": "gh-1353199358",
+    "name": "keke-star19/forecasting-crude-oil-option-prices",
+    "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
+    "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
     "stars": 16,
     "language": "Jupyter Notebook",
     "topics": [
-      "classification",
-      "data-analysis",
-      "data-science",
-      "decision-trees",
-      "iris-dataset",
-      "jupyter-notebook",
-      "k-nearest-neighbors",
-      "logistic-regression",
+      "deep-learning",
       "machine-learning",
-      "matplotlib",
-      "mlp",
-      "model-evaluation",
-      "nueral-networks",
-      "pandas",
-      "pca",
-      "python",
-      "random-forest",
-      "seaborn",
-      "sklearn",
-      "svm"
+      "option-pricing"
     ],
-    "created_at": "2026-08-29T06:03:22Z"
+    "created_at": "2026-09-01T06:08:27Z"
   },
   {
     "id": "gh-1351894347",
     "name": "ismailntl/multiverse-cable",
     "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
     "url": "https://github.com/ismailntl/multiverse-cable",
-    "stars": 12,
+    "stars": 13,
     "language": "JavaScript",
     "topics": [
       "ai-video",
@@ -269,40 +256,55 @@
     "created_at": "2026-08-31T02:05:30Z"
   },
   {
-    "id": "gh-1353199358",
-    "name": "keke-star19/forecasting-crude-oil-option-prices",
-    "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
-    "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
+    "id": "gh-1352030743",
+    "name": "MohammadAsheel/Ball-On",
+    "description": "Football transfer intelligence platform that combines player performance, historical transfer data, and machine learning to estimate transfer values.",
+    "url": "https://github.com/MohammadAsheel/Ball-On",
     "stars": 11,
-    "language": "Jupyter Notebook",
+    "language": "TypeScript",
     "topics": [
-      "deep-learning",
+      "football",
+      "football-analysis",
+      "football-analytics",
+      "football-api",
+      "football-data",
+      "football-prediction",
+      "football-scores",
       "machine-learning",
-      "option-pricing"
+      "nextjs",
+      "player",
+      "playertracking",
+      "postgresql",
+      "python",
+      "scikit-learn",
+      "supabase",
+      "transfermanager",
+      "transfermark-api",
+      "transfermarket",
+      "transfermarkt",
+      "typescript"
     ],
-    "created_at": "2026-09-01T06:08:27Z"
+    "created_at": "2026-08-31T05:28:29Z"
   },
   {
-    "id": "gh-1348859674",
-    "name": "mem-audit/memaudit",
-    "description": "Training-data memorization auditor for fine-tuned LLMs \u2014 Trainer/TRL plugin, canary MIA + regurgitation audit, Apache-2.0",
-    "url": "https://github.com/mem-audit/memaudit",
-    "stars": 11,
+    "id": "gh-1353758318",
+    "name": "Laleeth/The-AI-Engineer-s-Playbook",
+    "description": "Practical engineering knowledge for building and operating production AI systems \u2014 LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
+    "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
+    "stars": 10,
     "language": "Python",
     "topics": [
-      "auditing",
-      "gdpr",
-      "huggingface",
+      "agents",
+      "ai-agents",
+      "ai-engineering",
+      "ai-governance",
+      "ai-security",
+      "interview-preparation",
       "llm",
-      "lora",
       "machine-learning",
-      "membership-inference",
-      "memorization",
-      "peft",
-      "privacy",
-      "security",
-      "trl"
+      "rag",
+      "system-design"
     ],
-    "created_at": "2026-08-27T19:12:41Z"
+    "created_at": "2026-09-01T15:57:00Z"
   }
 ]
