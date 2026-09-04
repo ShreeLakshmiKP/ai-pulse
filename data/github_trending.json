@@ -1,52 +1,60 @@
 [
   {
-    "id": "gh-1349253750",
-    "name": "Nanako0129/sepia",
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-    "url": "https://github.com/Nanako0129/sepia",
-    "stars": 1740,
+    "id": "gh-1351859098",
+    "name": "2akouwu/reverify",
+    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+    "url": "https://github.com/2akouwu/reverify",
+    "stars": 841,
     "language": "Python",
     "topics": [
-      "agent-skills",
-      "ai-writing",
-      "antigravity",
-      "claude-code",
-      "codex",
+      "ai",
+      "ai-agents",
+      "anti-hallucination",
+      "binary-analysis",
+      "context-engineering",
+      "ctf",
       "developer-tools",
-      "fiction",
-      "grok",
-      "humanizer",
+      "disassembler",
+      "frida",
+      "grounding",
+      "hallucination",
+      "hallucination-detection",
       "llm",
-      "prompt-engineering",
-      "writing-tools"
+      "malware-analysis",
+      "mcp",
+      "mcp-server",
+      "python",
+      "reverse-engineering",
+      "security-tools",
+      "verification"
     ],
-    "created_at": "2026-08-28T05:56:49Z"
+    "created_at": "2026-08-31T01:02:18Z"
   },
   {
-    "id": "gh-1349507889",
-    "name": "Player-YN/PawWork_ZhuaZhua",
-    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-    "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-    "stars": 663,
-    "language": "JavaScript",
+    "id": "gh-1351879111",
+    "name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 347,
+    "language": "Python",
     "topics": [
-      "ai-agent",
-      "browser-agent",
-      "byok",
-      "chrome-extension",
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
       "llm",
-      "pptx",
-      "tldraw",
-      "univer"
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
     ],
-    "created_at": "2026-08-28T10:56:56Z"
+    "created_at": "2026-08-31T01:39:18Z"
   },
   {
     "id": "gh-1350914890",
     "name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 277,
+    "stars": 284,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -73,51 +81,62 @@
     "created_at": "2026-08-29T21:14:31Z"
   },
   {
-    "id": "gh-1349285058",
-    "name": "carloslfu/slotstream",
-    "description": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
-    "url": "https://github.com/carloslfu/slotstream",
-    "stars": 264,
-    "language": "Swift",
-    "topics": [
-      "apple-silicon",
-      "llm",
-      "llm-inference",
-      "local-llm",
-      "macos",
-      "mixture-of-experts",
-      "mlx",
-      "ollama",
-      "qwen",
-      "swift"
-    ],
-    "created_at": "2026-08-28T06:42:21Z"
-  },
-  {
-    "id": "gh-1351879111",
-    "name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 223,
+    "id": "gh-1353051646",
+    "name": "kydlikebtc/awesome-grokbot",
+    "description": "440 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "stars": 171,
     "language": "Python",
     "topics": [
-      "agent-infrastructure",
+      "agents",
       "ai-agents",
-      "continual-learning",
-      "inference",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "bot-templates",
+      "catalog",
+      "cursor",
+      "directory",
+      "grok",
+      "grok-bot",
+      "grokbot",
       "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
+      "prompt-engineering",
+      "xai"
     ],
-    "created_at": "2026-08-31T01:39:18Z"
+    "created_at": "2026-09-01T02:30:25Z"
+  },
+  {
+    "id": "gh-1350970233",
+    "name": "Vuk97/forward-implementation-first",
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "url": "https://github.com/Vuk97/forward-implementation-first",
+    "stars": 161,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-08-29T23:16:12Z"
   },
   {
     "id": "gh-1352660626",
     "name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 85,
+    "stars": 102,
     "language": null,
     "topics": [
       "ai",
@@ -133,6 +152,39 @@
       "skills-sh"
     ],
     "created_at": "2026-08-31T17:04:57Z"
+  },
+  {
+    "id": "gh-1354645252",
+    "name": "icodesign/remote-installer",
+    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+    "url": "https://github.com/icodesign/remote-installer",
+    "stars": 69,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "android",
+      "ios",
+      "vibecoding"
+    ],
+    "created_at": "2026-09-02T10:47:41Z"
+  },
+  {
+    "id": "gh-1351167897",
+    "name": "AbuZar-Ansarii/Needle",
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "url": "https://github.com/AbuZar-Ansarii/Needle",
+    "stars": 69,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "cactus-needle",
+      "llm",
+      "llm-agents",
+      "llm-tools"
+    ],
+    "created_at": "2026-08-30T06:43:48Z"
   },
   {
     "id": "gh-1351204776",
@@ -151,65 +203,37 @@
     "created_at": "2026-08-30T07:45:52Z"
   },
   {
-    "id": "gh-1351509581",
-    "name": "justadityaraj/shim-mcp",
-    "description": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-contained, no cloud.",
-    "url": "https://github.com/justadityaraj/shim-mcp",
-    "stars": 48,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "claude",
-      "cursor",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "wordpress",
-      "wordpress-plugin",
-      "wp-cli"
-    ],
-    "created_at": "2026-08-30T15:26:23Z"
-  },
-  {
-    "id": "gh-1349656169",
-    "name": "HowProgrammingWorks/Agent",
-    "description": "Small, modular coding-agent harness for Node.js",
-    "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 37,
-    "language": "JavaScript",
-    "topics": [
-      "agent",
-      "ai",
-      "harness",
-      "llm"
-    ],
-    "created_at": "2026-08-28T13:50:08Z"
-  },
-  {
-    "id": "gh-1351167897",
-    "name": "AbuZar-Ansarii/Needle",
-    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-    "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 36,
+    "id": "gh-1355507861",
+    "name": "cyptnpassira/PromptLedger",
+    "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
+    "url": "https://github.com/cyptnpassira/PromptLedger",
+    "stars": 42,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "cactus-needle",
+      "benchmark",
+      "diff",
+      "evaluation",
+      "experiments",
+      "go",
       "llm",
-      "llm-agents",
-      "llm-tools"
+      "machine-learning",
+      "prompt-engineering",
+      "promptledger",
+      "python",
+      "reporting",
+      "reproducibility",
+      "snapshots",
+      "templates",
+      "versioning"
     ],
-    "created_at": "2026-08-30T06:43:48Z"
+    "created_at": "2026-09-03T04:26:04Z"
   },
   {
     "id": "gh-1353960300",
     "name": "hbofz/NeSLE",
     "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
     "url": "https://github.com/hbofz/NeSLE",
-    "stars": 24,
+    "stars": 27,
     "language": "Python",
     "topics": [
       "cuda",
@@ -230,7 +254,7 @@
     "name": "keke-star19/forecasting-crude-oil-option-prices",
     "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
     "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
-    "stars": 16,
+    "stars": 21,
     "language": "Jupyter Notebook",
     "topics": [
       "deep-learning",
@@ -254,6 +278,37 @@
       "nodejs"
     ],
     "created_at": "2026-08-31T02:05:30Z"
+  },
+  {
+    "id": "gh-1353965369",
+    "name": "AlekseiUL/humanlike",
+    "description": "Humanlike \u2014 deterministic persona, context, memory and privacy controls for conversational AI agents \u00b7 \u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "url": "https://github.com/AlekseiUL/humanlike",
+    "stars": 12,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-memory",
+      "agent-personality",
+      "ai-agent",
+      "ai-agents",
+      "ai-safety",
+      "artificial-intelligence",
+      "context-management",
+      "conversational-ai",
+      "deterministic",
+      "developer-tools",
+      "generative-ai",
+      "hermes-agent",
+      "llm",
+      "local-first",
+      "offline-first",
+      "open-source",
+      "persona",
+      "privacy-first",
+      "python"
+    ],
+    "created_at": "2026-09-01T19:44:23Z"
   },
   {
     "id": "gh-1352030743",
@@ -285,26 +340,5 @@
       "typescript"
     ],
     "created_at": "2026-08-31T05:28:29Z"
-  },
-  {
-    "id": "gh-1353758318",
-    "name": "Laleeth/The-AI-Engineer-s-Playbook",
-    "description": "Practical engineering knowledge for building and operating production AI systems \u2014 LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
-    "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
-    "stars": 10,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-engineering",
-      "ai-governance",
-      "ai-security",
-      "interview-preparation",
-      "llm",
-      "machine-learning",
-      "rag",
-      "system-design"
-    ],
-    "created_at": "2026-09-01T15:57:00Z"
   }
 ]
