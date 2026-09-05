@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49554643",
-    "title": "GPT-6 Astra",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "points": 1820,
-    "comments": 1600,
+    "id": "hn-49563386",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "points": 382,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-09-03T18:41:05Z"
+    "published_date": "2026-09-04T11:59:15Z"
   },
   {
-    "id": "hn-49551096",
-    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-    "url": "https://news.ycombinator.com/item?id=49551096",
-    "points": 373,
-    "comments": 535,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T15:07:01Z"
-  },
-  {
-    "id": "hn-49548452",
-    "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-    "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-    "points": 316,
-    "comments": 210,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T11:01:04Z"
-  },
-  {
-    "id": "hn-49548952",
-    "title": "Nvidia to acquire Hugging Face",
-    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-    "points": 313,
-    "comments": 98,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T12:10:33Z"
-  },
-  {
-    "id": "hn-49550375",
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "id": "hn-49566137",
+    "title": "Corporate America is getting hooked on open-source AI",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
     "points": 297,
-    "comments": 95,
+    "comments": 270,
     "source": "Hacker News",
-    "published_date": "2026-09-03T14:28:18Z"
+    "published_date": "2026-09-04T15:33:45Z"
   },
   {
-    "id": "hn-49554273",
-    "title": "OpenAI begins rolling out GPT-6 Astra",
-    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    "points": 266,
-    "comments": 246,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T18:18:22Z"
-  },
-  {
-    "id": "hn-49550174",
-    "title": "Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond",
-    "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
-    "points": 259,
-    "comments": 263,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T14:12:19Z"
-  },
-  {
-    "id": "hn-49557206",
-    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "points": 223,
+    "id": "hn-49567437",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "points": 286,
     "comments": 102,
     "source": "Hacker News",
-    "published_date": "2026-09-03T21:20:34Z"
+    "published_date": "2026-09-04T17:18:08Z"
   },
   {
-    "id": "hn-49555691",
-    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-    "url": "https://arcprize.org/blog/astra",
-    "points": 210,
-    "comments": 125,
+    "id": "hn-49569366",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "points": 260,
+    "comments": 153,
     "source": "Hacker News",
-    "published_date": "2026-09-03T19:45:00Z"
+    "published_date": "2026-09-04T19:48:29Z"
   },
   {
-    "id": "hn-49549676",
-    "title": "Claude outage \u2013 Resolved",
-    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-    "points": 205,
-    "comments": 151,
+    "id": "hn-49570545",
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "points": 223,
+    "comments": 131,
     "source": "Hacker News",
-    "published_date": "2026-09-03T13:29:12Z"
+    "published_date": "2026-09-04T21:39:19Z"
   },
   {
-    "id": "hn-49548256",
-    "title": "Gloria Steinem has died",
-    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-    "points": 148,
-    "comments": 59,
+    "id": "hn-49571465",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "points": 132,
+    "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-09-03T10:31:18Z"
+    "published_date": "2026-09-04T23:38:50Z"
   },
   {
-    "id": "hn-49551658",
-    "title": "ChatGPT, Claude, and Grok Are Down",
-    "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+    "id": "hn-49571632",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "points": 118,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T00:04:14Z"
+  },
+  {
+    "id": "hn-49567310",
+    "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "points": 113,
+    "comments": 242,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T17:09:24Z"
+  },
+  {
+    "id": "hn-49564397",
+    "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+    "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+    "points": 102,
+    "comments": 191,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T13:33:01Z"
+  },
+  {
+    "id": "hn-49562744",
+    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+    "points": 93,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T10:30:57Z"
+  },
+  {
+    "id": "hn-49567357",
+    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+    "url": "https://twitter.com/ggerganov/status/2095897173376618881",
     "points": 75,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T17:12:22Z"
+  },
+  {
+    "id": "hn-49573680",
+    "title": "Git hosting that never leaves Europe",
+    "url": "https://pushin.eu",
+    "points": 72,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T06:31:49Z"
+  },
+  {
+    "id": "hn-49574167",
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "points": 68,
+    "comments": 41,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T07:52:50Z"
+  },
+  {
+    "id": "hn-49566788",
+    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "points": 67,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T16:24:50Z"
+  },
+  {
+    "id": "hn-49564112",
+    "title": "Scientists Find Worms in Almost Every Fish in a Tuna Haul \u2013 96% Were Infected",
+    "url": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
+    "points": 43,
+    "comments": 33,
+    "source": "Hacker News",
+    "published_date": "2026-09-04T13:08:18Z"
+  },
+  {
+    "id": "hn-49572875",
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "points": 40,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T03:38:56Z"
+  },
+  {
+    "id": "hn-49570802",
+    "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
+    "url": "https://domainincite.com/31912-dropcatch-acquires-300-more-registrars",
+    "points": 38,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-09-03T15:30:10Z"
+    "published_date": "2026-09-04T22:06:54Z"
   },
   {
-    "id": "hn-49553463",
-    "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-    "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-    "points": 60,
-    "comments": 66,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T17:20:29Z"
-  },
-  {
-    "id": "hn-49548530",
-    "title": "A dark horse enters China's AI race: StartLux",
-    "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-    "points": 54,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T11:12:57Z"
-  },
-  {
-    "id": "hn-49558433",
-    "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
-    "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-    "points": 40,
+    "id": "hn-49571537",
+    "title": "Show HN: Moadim.io \u2013 A scheduler for agents",
+    "url": "https://moadim.io/",
+    "points": 25,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-09-03T23:14:00Z"
+    "published_date": "2026-09-04T23:50:29Z"
   },
   {
-    "id": "hn-49552395",
-    "title": "OpenAI's new reasoning technique alarms AI safety experts",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "points": 39,
-    "comments": 19,
+    "id": "hn-49565243",
+    "title": "Show HN: MeScript, music programming language inspired by Lisp",
+    "url": "https://quadracollision.com/mescript/",
+    "points": 25,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-09-03T16:11:24Z"
+    "published_date": "2026-09-04T14:32:24Z"
   },
   {
-    "id": "hn-49553841",
-    "title": "Microsoft Announces Change to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
-    "url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
-    "points": 38,
-    "comments": 14,
+    "id": "hn-49563441",
+    "title": "Meta new layoff goal of 60% to AI after moving 30% engineers to labelers",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
+    "points": 23,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-09-03T17:45:59Z"
-  },
-  {
-    "id": "hn-49558302",
-    "title": "Protecting Engineers' Skills in the AI Era",
-    "url": "https://spectrum.ieee.org/ai-engineer-skills",
-    "points": 35,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T23:00:04Z"
-  },
-  {
-    "id": "hn-49554048",
-    "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-    "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-    "points": 35,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T18:01:56Z"
-  },
-  {
-    "id": "hn-49554469",
-    "title": "GoPro acquired, getting into 'defense, government, robotics and aerospace'",
-    "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-    "points": 34,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-09-03T18:29:35Z"
+    "published_date": "2026-09-04T12:03:27Z"
   }
 ]

@@ -2,20 +2,20 @@
   {
     "id": "gh-1351859098",
     "name": "2akouwu/reverify",
-    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+    "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 841,
+    "stars": 910,
     "language": "Python",
     "topics": [
       "ai",
       "ai-agents",
+      "ai-coding",
       "anti-hallucination",
       "binary-analysis",
       "context-engineering",
       "ctf",
       "developer-tools",
       "disassembler",
-      "frida",
       "grounding",
       "hallucination",
       "hallucination-detection",
@@ -35,7 +35,7 @@
     "name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 347,
+    "stars": 465,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -50,42 +50,11 @@
     "created_at": "2026-08-31T01:39:18Z"
   },
   {
-    "id": "gh-1350914890",
-    "name": "useagenthq/useagent",
-    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-    "url": "https://github.com/useagenthq/useagent",
-    "stars": 284,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-coworker",
-      "automation",
-      "autonomous-agents",
-      "bun",
-      "claude",
-      "codex",
-      "coding-agent",
-      "computer-use",
-      "developer-tools",
-      "llm",
-      "open-source",
-      "opencode",
-      "postgres",
-      "sandbox",
-      "self-hosted",
-      "slack-bot",
-      "typescript"
-    ],
-    "created_at": "2026-08-29T21:14:31Z"
-  },
-  {
     "id": "gh-1353051646",
     "name": "kydlikebtc/awesome-grokbot",
-    "description": "440 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+    "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
     "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 171,
+    "stars": 307,
     "language": "Python",
     "topics": [
       "agents",
@@ -107,36 +76,51 @@
     "created_at": "2026-09-01T02:30:25Z"
   },
   {
-    "id": "gh-1350970233",
-    "name": "Vuk97/forward-implementation-first",
-    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-    "url": "https://github.com/Vuk97/forward-implementation-first",
-    "stars": 161,
-    "language": "Shell",
+    "id": "gh-1354991682",
+    "name": "Agenta-AI/awesome-ai-agent-platforms",
+    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+    "stars": 179,
+    "language": "Astro",
     "topics": [
-      "agent-skills",
-      "agents",
-      "agentskills",
+      "agent-frameworks",
+      "ai-agent-platforms",
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-cli",
-      "developer-tools",
+      "ai-coworker",
+      "awesome",
+      "awesome-list",
+      "browser-agents",
+      "coding-agents",
       "llm",
-      "llm-agents",
-      "openai",
-      "prompt-engineering"
+      "open-source",
+      "self-hosted",
+      "workflow-automation"
     ],
-    "created_at": "2026-08-29T23:16:12Z"
+    "created_at": "2026-09-02T16:32:59Z"
+  },
+  {
+    "id": "gh-1352547997",
+    "name": "fitchmultz/pi-posthorse",
+    "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
+    "url": "https://github.com/fitchmultz/pi-posthorse",
+    "stars": 113,
+    "language": "TypeScript",
+    "topics": [
+      "coding-agent",
+      "context-window",
+      "llm",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "created_at": "2026-08-31T15:06:23Z"
   },
   {
     "id": "gh-1352660626",
     "name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 102,
+    "stars": 106,
     "language": null,
     "topics": [
       "ai",
@@ -154,26 +138,11 @@
     "created_at": "2026-08-31T17:04:57Z"
   },
   {
-    "id": "gh-1354645252",
-    "name": "icodesign/remote-installer",
-    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-    "url": "https://github.com/icodesign/remote-installer",
-    "stars": 69,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "android",
-      "ios",
-      "vibecoding"
-    ],
-    "created_at": "2026-09-02T10:47:41Z"
-  },
-  {
     "id": "gh-1351167897",
     "name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 69,
+    "stars": 83,
     "language": "Python",
     "topics": [
       "ai",
@@ -187,11 +156,45 @@
     "created_at": "2026-08-30T06:43:48Z"
   },
   {
+    "id": "gh-1354645252",
+    "name": "icodesign/remote-installer",
+    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+    "url": "https://github.com/icodesign/remote-installer",
+    "stars": 81,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "android",
+      "ios",
+      "vibecoding"
+    ],
+    "created_at": "2026-09-02T10:47:41Z"
+  },
+  {
+    "id": "gh-1354518773",
+    "name": "gesta-run/subpool",
+    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "url": "https://github.com/gesta-run/subpool",
+    "stars": 60,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gateway",
+      "pooling"
+    ],
+    "created_at": "2026-09-02T08:27:21Z"
+  },
+  {
     "id": "gh-1351204776",
     "name": "aadithyanr/yname",
     "description": "Generate a YC startup name before someone else does.",
     "url": "https://github.com/aadithyanr/yname",
-    "stars": 51,
+    "stars": 50,
     "language": "Python",
     "topics": [
       "machine-learning",
@@ -233,7 +236,7 @@
     "name": "hbofz/NeSLE",
     "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
     "url": "https://github.com/hbofz/NeSLE",
-    "stars": 27,
+    "stars": 29,
     "language": "Python",
     "topics": [
       "cuda",
@@ -250,11 +253,40 @@
     "created_at": "2026-09-01T19:38:21Z"
   },
   {
+    "id": "gh-1357390407",
+    "name": "michailfragkiskos/EdgeMosaic",
+    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
+    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
+    "stars": 26,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "android",
+      "benchmark",
+      "devtools",
+      "edge",
+      "evaluation",
+      "inference",
+      "jvm",
+      "kotlin",
+      "latency",
+      "machine-learning",
+      "manifest",
+      "on-device",
+      "performance",
+      "python",
+      "reporting",
+      "tflite",
+      "thermal"
+    ],
+    "created_at": "2026-09-04T16:55:00Z"
+  },
+  {
     "id": "gh-1353199358",
     "name": "keke-star19/forecasting-crude-oil-option-prices",
     "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
     "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
-    "stars": 21,
+    "stars": 22,
     "language": "Jupyter Notebook",
     "topics": [
       "deep-learning",
@@ -268,7 +300,7 @@
     "name": "ismailntl/multiverse-cable",
     "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
     "url": "https://github.com/ismailntl/multiverse-cable",
-    "stars": 13,
+    "stars": 14,
     "language": "JavaScript",
     "topics": [
       "ai-video",
@@ -278,67 +310,5 @@
       "nodejs"
     ],
     "created_at": "2026-08-31T02:05:30Z"
-  },
-  {
-    "id": "gh-1353965369",
-    "name": "AlekseiUL/humanlike",
-    "description": "Humanlike \u2014 deterministic persona, context, memory and privacy controls for conversational AI agents \u00b7 \u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
-    "url": "https://github.com/AlekseiUL/humanlike",
-    "stars": 12,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agent-memory",
-      "agent-personality",
-      "ai-agent",
-      "ai-agents",
-      "ai-safety",
-      "artificial-intelligence",
-      "context-management",
-      "conversational-ai",
-      "deterministic",
-      "developer-tools",
-      "generative-ai",
-      "hermes-agent",
-      "llm",
-      "local-first",
-      "offline-first",
-      "open-source",
-      "persona",
-      "privacy-first",
-      "python"
-    ],
-    "created_at": "2026-09-01T19:44:23Z"
-  },
-  {
-    "id": "gh-1352030743",
-    "name": "MohammadAsheel/Ball-On",
-    "description": "Football transfer intelligence platform that combines player performance, historical transfer data, and machine learning to estimate transfer values.",
-    "url": "https://github.com/MohammadAsheel/Ball-On",
-    "stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "football",
-      "football-analysis",
-      "football-analytics",
-      "football-api",
-      "football-data",
-      "football-prediction",
-      "football-scores",
-      "machine-learning",
-      "nextjs",
-      "player",
-      "playertracking",
-      "postgresql",
-      "python",
-      "scikit-learn",
-      "supabase",
-      "transfermanager",
-      "transfermark-api",
-      "transfermarket",
-      "transfermarkt",
-      "typescript"
-    ],
-    "created_at": "2026-08-31T05:28:29Z"
   }
 ]
