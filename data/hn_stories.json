@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-49563386",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "points": 382,
-    "comments": 72,
+    "id": "hn-49576124",
+    "title": "Global warming will exceed 1.5-degree limit, UN says",
+    "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+    "points": 322,
+    "comments": 368,
     "source": "Hacker News",
-    "published_date": "2026-09-04T11:59:15Z"
+    "published_date": "2026-09-05T13:02:14Z"
   },
   {
-    "id": "hn-49566137",
-    "title": "Corporate America is getting hooked on open-source AI",
-    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "points": 297,
-    "comments": 270,
+    "id": "hn-49580164",
+    "title": "LLMs as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "points": 271,
+    "comments": 198,
     "source": "Hacker News",
-    "published_date": "2026-09-04T15:33:45Z"
+    "published_date": "2026-09-05T20:02:35Z"
   },
   {
-    "id": "hn-49567437",
-    "title": "Show HN: Open-Source eInk Bike Computer",
-    "url": "https://opentrailpaper.com",
-    "points": 286,
-    "comments": 102,
+    "id": "hn-49578280",
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "points": 255,
+    "comments": 93,
     "source": "Hacker News",
-    "published_date": "2026-09-04T17:18:08Z"
+    "published_date": "2026-09-05T16:45:02Z"
   },
   {
-    "id": "hn-49569366",
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "points": 260,
-    "comments": 153,
+    "id": "hn-49582582",
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "points": 180,
+    "comments": 136,
     "source": "Hacker News",
-    "published_date": "2026-09-04T19:48:29Z"
+    "published_date": "2026-09-06T01:52:45Z"
   },
   {
-    "id": "hn-49570545",
-    "title": "GPT-6 Astra on OpenRouter",
-    "url": "https://openrouter.ai/openai/gpt-6-astra",
-    "points": 223,
-    "comments": 131,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T21:39:19Z"
-  },
-  {
-    "id": "hn-49571465",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "points": 132,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T23:38:50Z"
-  },
-  {
-    "id": "hn-49571632",
-    "title": "Artificial Analysis Intelligence Index v4.2",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "points": 118,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-09-05T00:04:14Z"
-  },
-  {
-    "id": "hn-49567310",
-    "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "points": 113,
-    "comments": 242,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T17:09:24Z"
-  },
-  {
-    "id": "hn-49564397",
-    "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
-    "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
-    "points": 102,
-    "comments": 191,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T13:33:01Z"
-  },
-  {
-    "id": "hn-49562744",
-    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-    "points": 93,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T10:30:57Z"
-  },
-  {
-    "id": "hn-49567357",
-    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-    "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-    "points": 75,
-    "comments": 26,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T17:12:22Z"
-  },
-  {
-    "id": "hn-49573680",
-    "title": "Git hosting that never leaves Europe",
-    "url": "https://pushin.eu",
-    "points": 72,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-09-05T06:31:49Z"
-  },
-  {
-    "id": "hn-49574167",
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "points": 68,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-09-05T07:52:50Z"
-  },
-  {
-    "id": "hn-49566788",
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "points": 67,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-09-04T16:24:50Z"
-  },
-  {
-    "id": "hn-49564112",
-    "title": "Scientists Find Worms in Almost Every Fish in a Tuna Haul \u2013 96% Were Infected",
-    "url": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
-    "points": 43,
+    "id": "hn-49576343",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "points": 173,
     "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-09-04T13:08:18Z"
+    "published_date": "2026-09-05T13:31:05Z"
   },
   {
-    "id": "hn-49572875",
-    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-    "points": 40,
-    "comments": 22,
+    "id": "hn-49576258",
+    "title": ".gitignore Everything by Default",
+    "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+    "points": 172,
+    "comments": 168,
     "source": "Hacker News",
-    "published_date": "2026-09-05T03:38:56Z"
+    "published_date": "2026-09-05T13:19:42Z"
   },
   {
-    "id": "hn-49570802",
-    "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
-    "url": "https://domainincite.com/31912-dropcatch-acquires-300-more-registrars",
-    "points": 38,
+    "id": "hn-49576704",
+    "title": "There's No Limit to How Bad Code Can Get",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "points": 101,
+    "comments": 81,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T14:13:22Z"
+  },
+  {
+    "id": "hn-49575143",
+    "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "points": 68,
+    "comments": 91,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T10:32:09Z"
+  },
+  {
+    "id": "hn-49581240",
+    "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "points": 66,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T22:15:52Z"
+  },
+  {
+    "id": "hn-49580980",
+    "title": "America's two largest school districts impose AI moratoriums",
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "points": 59,
+    "comments": 71,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T21:43:22Z"
+  },
+  {
+    "id": "hn-49582656",
+    "title": "AI, Tools and Transformation",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "points": 58,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-09-06T02:12:46Z"
+  },
+  {
+    "id": "hn-49584123",
+    "title": "Play GTA Vice City in the Browser",
+    "url": "https://quenq.com/apps/vice-city-online/",
+    "points": 41,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-09-06T07:33:17Z"
+  },
+  {
+    "id": "hn-49578727",
+    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+    "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+    "points": 35,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-09-04T22:06:54Z"
+    "published_date": "2026-09-05T17:32:20Z"
   },
   {
-    "id": "hn-49571537",
-    "title": "Show HN: Moadim.io \u2013 A scheduler for agents",
-    "url": "https://moadim.io/",
+    "id": "hn-49580687",
+    "title": "How AI is breaking the British state",
+    "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+    "points": 33,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T21:05:35Z"
+  },
+  {
+    "id": "hn-49576187",
+    "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+    "points": 29,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T13:09:53Z"
+  },
+  {
+    "id": "hn-49582410",
+    "title": "Gateside by TSA Precheck",
+    "url": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
     "points": 25,
-    "comments": 11,
+    "comments": 55,
     "source": "Hacker News",
-    "published_date": "2026-09-04T23:50:29Z"
+    "published_date": "2026-09-06T01:12:43Z"
   },
   {
-    "id": "hn-49565243",
-    "title": "Show HN: MeScript, music programming language inspired by Lisp",
-    "url": "https://quadracollision.com/mescript/",
-    "points": 25,
-    "comments": 1,
+    "id": "hn-49577670",
+    "title": "Show HN: Getting to the top of Show HN is getting harder",
+    "url": "https://artifactbin.dev/@vivek/6bXsx3-vol-2-show-hn-hall-of-fames",
+    "points": 13,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-09-04T14:32:24Z"
+    "published_date": "2026-09-05T15:46:13Z"
   },
   {
-    "id": "hn-49563441",
-    "title": "Meta new layoff goal of 60% to AI after moving 30% engineers to labelers",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
-    "points": 23,
-    "comments": 12,
+    "id": "hn-49577422",
+    "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+    "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
+    "points": 12,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-09-04T12:03:27Z"
+    "published_date": "2026-09-05T15:22:02Z"
+  },
+  {
+    "id": "hn-49579812",
+    "title": "Show HN: Claude Skill \u2013 Interns must review (your agent's design choices)",
+    "url": "https://github.com/alpbahadur/interns-review-plugin",
+    "points": 12,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-09-05T19:27:47Z"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "2akouwu/reverify",
     "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 910,
+    "stars": 933,
     "language": "Python",
     "topics": [
       "ai",
@@ -35,7 +35,7 @@
     "name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 465,
+    "stars": 536,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -50,11 +50,27 @@
     "created_at": "2026-08-31T01:39:18Z"
   },
   {
+    "id": "gh-1358140812",
+    "name": "pierrenade/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "url": "https://github.com/pierrenade/short-video-generator-AI",
+    "stars": 431,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-video",
+      "python",
+      "short-video-maker",
+      "video-generation"
+    ],
+    "created_at": "2026-09-05T11:55:18Z"
+  },
+  {
     "id": "gh-1353051646",
     "name": "kydlikebtc/awesome-grokbot",
     "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
     "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 307,
+    "stars": 326,
     "language": "Python",
     "topics": [
       "agents",
@@ -80,7 +96,7 @@
     "name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 179,
+    "stars": 215,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -103,7 +119,7 @@
     "name": "fitchmultz/pi-posthorse",
     "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
     "url": "https://github.com/fitchmultz/pi-posthorse",
-    "stars": 113,
+    "stars": 198,
     "language": "TypeScript",
     "topics": [
       "coding-agent",
@@ -120,7 +136,7 @@
     "name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 106,
+    "stars": 109,
     "language": null,
     "topics": [
       "ai",
@@ -138,29 +154,11 @@
     "created_at": "2026-08-31T17:04:57Z"
   },
   {
-    "id": "gh-1351167897",
-    "name": "AbuZar-Ansarii/Needle",
-    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-    "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 83,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "cactus-needle",
-      "llm",
-      "llm-agents",
-      "llm-tools"
-    ],
-    "created_at": "2026-08-30T06:43:48Z"
-  },
-  {
     "id": "gh-1354645252",
     "name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 81,
+    "stars": 93,
     "language": "Rust",
     "topics": [
       "ai",
@@ -175,7 +173,7 @@
     "name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 60,
+    "stars": 65,
     "language": "Go",
     "topics": [
       "agent",
@@ -188,22 +186,6 @@
       "pooling"
     ],
     "created_at": "2026-09-02T08:27:21Z"
-  },
-  {
-    "id": "gh-1351204776",
-    "name": "aadithyanr/yname",
-    "description": "Generate a YC startup name before someone else does.",
-    "url": "https://github.com/aadithyanr/yname",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "machine-learning",
-      "name-generator",
-      "react",
-      "vite",
-      "y-combinator"
-    ],
-    "created_at": "2026-08-30T07:45:52Z"
   },
   {
     "id": "gh-1355507861",
@@ -236,7 +218,7 @@
     "name": "hbofz/NeSLE",
     "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
     "url": "https://github.com/hbofz/NeSLE",
-    "stars": 29,
+    "stars": 30,
     "language": "Python",
     "topics": [
       "cuda",
@@ -257,7 +239,7 @@
     "name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
     "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 26,
+    "stars": 28,
     "language": "Python",
     "topics": [
       "ai",
@@ -294,6 +276,20 @@
       "option-pricing"
     ],
     "created_at": "2026-09-01T06:08:27Z"
+  },
+  {
+    "id": "gh-1352880998",
+    "name": "extropic-ai/sparse-transformers",
+    "description": "Sparse Transformers in JAX",
+    "url": "https://github.com/extropic-ai/sparse-transformers",
+    "stars": 21,
+    "language": "Python",
+    "topics": [
+      "jax",
+      "machine-learning",
+      "transformers"
+    ],
+    "created_at": "2026-08-31T21:36:36Z"
   },
   {
     "id": "gh-1351894347",
