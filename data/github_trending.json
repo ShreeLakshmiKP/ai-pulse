@@ -1,60 +1,10 @@
 [
   {
-    "id": "gh-1351859098",
-    "name": "2akouwu/reverify",
-    "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-    "url": "https://github.com/2akouwu/reverify",
-    "stars": 933,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "anti-hallucination",
-      "binary-analysis",
-      "context-engineering",
-      "ctf",
-      "developer-tools",
-      "disassembler",
-      "grounding",
-      "hallucination",
-      "hallucination-detection",
-      "llm",
-      "malware-analysis",
-      "mcp",
-      "mcp-server",
-      "python",
-      "reverse-engineering",
-      "security-tools",
-      "verification"
-    ],
-    "created_at": "2026-08-31T01:02:18Z"
-  },
-  {
-    "id": "gh-1351879111",
-    "name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 536,
-    "language": "Python",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
-    ],
-    "created_at": "2026-08-31T01:39:18Z"
-  },
-  {
     "id": "gh-1358140812",
     "name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 431,
+    "stars": 1139,
     "language": "Python",
     "topics": [
       "ai",
@@ -68,9 +18,9 @@
   {
     "id": "gh-1353051646",
     "name": "kydlikebtc/awesome-grokbot",
-    "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+    "description": "598 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
     "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 326,
+    "stars": 331,
     "language": "Python",
     "topics": [
       "agents",
@@ -96,7 +46,7 @@
     "name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 215,
+    "stars": 242,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -115,55 +65,18 @@
     "created_at": "2026-09-02T16:32:59Z"
   },
   {
-    "id": "gh-1352547997",
-    "name": "fitchmultz/pi-posthorse",
-    "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
-    "url": "https://github.com/fitchmultz/pi-posthorse",
-    "stars": 198,
-    "language": "TypeScript",
-    "topics": [
-      "coding-agent",
-      "context-window",
-      "llm",
-      "pi",
-      "pi-extension",
-      "pi-package"
-    ],
-    "created_at": "2026-08-31T15:06:23Z"
-  },
-  {
-    "id": "gh-1352660626",
-    "name": "ara-mkr/Wonder-Pill",
-    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
-    "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 109,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-tools",
-      "claude",
-      "claude-ai",
-      "claude-code-skill",
-      "claude-desktop",
-      "claude-skills",
-      "codex-skill",
-      "skill-md",
-      "skills",
-      "skills-sh"
-    ],
-    "created_at": "2026-08-31T17:04:57Z"
-  },
-  {
     "id": "gh-1354645252",
     "name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 93,
+    "stars": 95,
     "language": "Rust",
     "topics": [
       "ai",
       "android",
+      "cloudflare",
       "ios",
+      "tailscale",
       "vibecoding"
     ],
     "created_at": "2026-09-02T10:47:41Z"
@@ -173,7 +86,7 @@
     "name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 65,
+    "stars": 68,
     "language": "Go",
     "topics": [
       "agent",
@@ -186,6 +99,92 @@
       "pooling"
     ],
     "created_at": "2026-09-02T08:27:21Z"
+  },
+  {
+    "id": "gh-1354165808",
+    "name": "zeroa234/ryza-ai-revive",
+    "description": "Ryza AI companion. Bring your own LLM/TTS. \u83b1\u838e AI \u966a\u4f34\uff0c\u81ea\u586b\u5927\u6a21\u578b\u4e0e\u8bed\u97f3\u3002",
+    "url": "https://github.com/zeroa234/ryza-ai-revive",
+    "stars": 62,
+    "language": "JavaScript",
+    "topics": [
+      "android",
+      "chatbot",
+      "electron",
+      "html",
+      "javascript",
+      "llm",
+      "spine",
+      "tts",
+      "webgl"
+    ],
+    "created_at": "2026-09-02T00:52:18Z"
+  },
+  {
+    "id": "gh-1355421445",
+    "name": "vaelkeep/hermes-paper-agent",
+    "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+    "url": "https://github.com/vaelkeep/hermes-paper-agent",
+    "stars": 57,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "cron",
+      "daily-briefing",
+      "hermes",
+      "llm",
+      "local-llm",
+      "newspaper",
+      "personal-dashboard",
+      "python",
+      "self-hosted",
+      "static-site",
+      "typography"
+    ],
+    "created_at": "2026-09-03T02:15:43Z"
+  },
+  {
+    "id": "gh-1356375344",
+    "name": "truespar/paddock",
+    "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+    "url": "https://github.com/truespar/paddock",
+    "stars": 51,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "aimodels",
+      "blackwell",
+      "cuda",
+      "inference",
+      "inference-engine",
+      "inference-optimization",
+      "model-serving",
+      "nvidia",
+      "rust"
+    ],
+    "created_at": "2026-09-03T19:52:35Z"
+  },
+  {
+    "id": "gh-1357257622",
+    "name": "dengyie/cnb2api",
+    "description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
+    "url": "https://github.com/dengyie/cnb2api",
+    "stars": 44,
+    "language": "JavaScript",
+    "topics": [
+      "api-gateway",
+      "cli",
+      "cnb",
+      "llm",
+      "openai",
+      "openai-compatible",
+      "proxy",
+      "quota",
+      "self-healing",
+      "sse",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-09-04T14:47:11Z"
   },
   {
     "id": "gh-1355507861",
@@ -212,6 +211,27 @@
       "versioning"
     ],
     "created_at": "2026-09-03T04:26:04Z"
+  },
+  {
+    "id": "gh-1358948316",
+    "name": "aimeoa/hanshuang-codex",
+    "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 34,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "openai-codex",
+      "prompt-injection",
+      "pyside6",
+      "python"
+    ],
+    "created_at": "2026-09-06T08:42:57Z"
   },
   {
     "id": "gh-1353960300",
@@ -278,33 +298,34 @@
     "created_at": "2026-09-01T06:08:27Z"
   },
   {
-    "id": "gh-1352880998",
-    "name": "extropic-ai/sparse-transformers",
-    "description": "Sparse Transformers in JAX",
-    "url": "https://github.com/extropic-ai/sparse-transformers",
-    "stars": 21,
+    "id": "gh-1353965369",
+    "name": "AlekseiUL/humanlike",
+    "description": "Humanlike \u2014 deterministic persona, context, memory and privacy controls for conversational AI agents \u00b7 \u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "url": "https://github.com/AlekseiUL/humanlike",
+    "stars": 15,
     "language": "Python",
     "topics": [
-      "jax",
-      "machine-learning",
-      "transformers"
-    ],
-    "created_at": "2026-08-31T21:36:36Z"
-  },
-  {
-    "id": "gh-1351894347",
-    "name": "ismailntl/multiverse-cable",
-    "description": "A 24/7 AI-generated television channel. Bid credits to program the next slot, and call every clip REAL or AI.",
-    "url": "https://github.com/ismailntl/multiverse-cable",
-    "stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "ai-video",
-      "bedrock",
+      "agent-framework",
+      "agent-memory",
+      "agent-personality",
+      "ai-agent",
+      "ai-agents",
+      "ai-safety",
+      "artificial-intelligence",
+      "context-management",
+      "conversational-ai",
+      "deterministic",
+      "developer-tools",
       "generative-ai",
-      "live-streaming",
-      "nodejs"
+      "hermes-agent",
+      "llm",
+      "local-first",
+      "offline-first",
+      "open-source",
+      "persona",
+      "privacy-first",
+      "python"
     ],
-    "created_at": "2026-08-31T02:05:30Z"
+    "created_at": "2026-09-01T19:44:23Z"
   }
 ]
