@@ -4,7 +4,7 @@
     "name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 1139,
+    "stars": 1211,
     "language": "Python",
     "topics": [
       "ai",
@@ -16,37 +16,11 @@
     "created_at": "2026-09-05T11:55:18Z"
   },
   {
-    "id": "gh-1353051646",
-    "name": "kydlikebtc/awesome-grokbot",
-    "description": "598 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
-    "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 331,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "bot-templates",
-      "catalog",
-      "cursor",
-      "directory",
-      "grok",
-      "grok-bot",
-      "grokbot",
-      "llm",
-      "prompt-engineering",
-      "xai"
-    ],
-    "created_at": "2026-09-01T02:30:25Z"
-  },
-  {
     "id": "gh-1354991682",
     "name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 242,
+    "stars": 231,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -65,11 +39,40 @@
     "created_at": "2026-09-02T16:32:59Z"
   },
   {
+    "id": "gh-1359835005",
+    "name": "Albertchamberlain/Awesome-OKF",
+    "description": "OKF (Open Knowledge Format) \u2014 curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+    "url": "https://github.com/Albertchamberlain/Awesome-OKF",
+    "stars": 102,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-memory",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-management",
+      "llm",
+      "llm-wiki",
+      "markdown",
+      "mcp",
+      "okf",
+      "open-knowledge-format",
+      "structured-knowledge",
+      "yaml"
+    ],
+    "created_at": "2026-09-07T06:12:39Z"
+  },
+  {
     "id": "gh-1354645252",
     "name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 95,
+    "stars": 98,
     "language": "Rust",
     "topics": [
       "ai",
@@ -86,7 +89,7 @@
     "name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 68,
+    "stars": 70,
     "language": "Go",
     "topics": [
       "agent",
@@ -101,11 +104,32 @@
     "created_at": "2026-09-02T08:27:21Z"
   },
   {
+    "id": "gh-1356375344",
+    "name": "truespar/paddock",
+    "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+    "url": "https://github.com/truespar/paddock",
+    "stars": 68,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "aimodels",
+      "blackwell",
+      "cuda",
+      "inference",
+      "inference-engine",
+      "inference-optimization",
+      "model-serving",
+      "nvidia",
+      "rust"
+    ],
+    "created_at": "2026-09-03T19:52:35Z"
+  },
+  {
     "id": "gh-1354165808",
     "name": "zeroa234/ryza-ai-revive",
     "description": "Ryza AI companion. Bring your own LLM/TTS. \u83b1\u838e AI \u966a\u4f34\uff0c\u81ea\u586b\u5927\u6a21\u578b\u4e0e\u8bed\u97f3\u3002",
     "url": "https://github.com/zeroa234/ryza-ai-revive",
-    "stars": 62,
+    "stars": 64,
     "language": "JavaScript",
     "topics": [
       "android",
@@ -125,7 +149,7 @@
     "name": "vaelkeep/hermes-paper-agent",
     "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
     "url": "https://github.com/vaelkeep/hermes-paper-agent",
-    "stars": 57,
+    "stars": 59,
     "language": "Python",
     "topics": [
       "agent",
@@ -144,32 +168,11 @@
     "created_at": "2026-09-03T02:15:43Z"
   },
   {
-    "id": "gh-1356375344",
-    "name": "truespar/paddock",
-    "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-    "url": "https://github.com/truespar/paddock",
-    "stars": 51,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "aimodels",
-      "blackwell",
-      "cuda",
-      "inference",
-      "inference-engine",
-      "inference-optimization",
-      "model-serving",
-      "nvidia",
-      "rust"
-    ],
-    "created_at": "2026-09-03T19:52:35Z"
-  },
-  {
     "id": "gh-1357257622",
     "name": "dengyie/cnb2api",
     "description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
     "url": "https://github.com/dengyie/cnb2api",
-    "stars": 44,
+    "stars": 49,
     "language": "JavaScript",
     "topics": [
       "api-gateway",
@@ -217,7 +220,7 @@
     "name": "aimeoa/hanshuang-codex",
     "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 34,
+    "stars": 40,
     "language": "Python",
     "topics": [
       "ai",
@@ -234,32 +237,11 @@
     "created_at": "2026-09-06T08:42:57Z"
   },
   {
-    "id": "gh-1353960300",
-    "name": "hbofz/NeSLE",
-    "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
-    "url": "https://github.com/hbofz/NeSLE",
-    "stars": 30,
-    "language": "Python",
-    "topics": [
-      "cuda",
-      "emulator",
-      "gpu",
-      "gymnasium",
-      "machine-learning",
-      "nes",
-      "ppo",
-      "pybind11",
-      "reinforcement-learning",
-      "super-mario-bros"
-    ],
-    "created_at": "2026-09-01T19:38:21Z"
-  },
-  {
     "id": "gh-1357390407",
     "name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
     "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 28,
+    "stars": 27,
     "language": "Python",
     "topics": [
       "ai",
@@ -284,48 +266,58 @@
     "created_at": "2026-09-04T16:55:00Z"
   },
   {
-    "id": "gh-1353199358",
-    "name": "keke-star19/forecasting-crude-oil-option-prices",
-    "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
-    "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
-    "stars": 22,
-    "language": "Jupyter Notebook",
+    "id": "gh-1355456846",
+    "name": "Flood-Lab/HydroTuring",
+    "description": "Does your AI hydrologic model conserve mass, energy and momentum?",
+    "url": "https://github.com/Flood-Lab/HydroTuring",
+    "stars": 17,
+    "language": "Python",
     "topics": [
-      "deep-learning",
+      "benchmark",
+      "earth-science",
+      "hydrology",
       "machine-learning",
-      "option-pricing"
+      "physics-informed",
+      "water-balance"
     ],
-    "created_at": "2026-09-01T06:08:27Z"
+    "created_at": "2026-09-03T03:10:00Z"
   },
   {
-    "id": "gh-1353965369",
-    "name": "AlekseiUL/humanlike",
-    "description": "Humanlike \u2014 deterministic persona, context, memory and privacy controls for conversational AI agents \u00b7 \u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
-    "url": "https://github.com/AlekseiUL/humanlike",
+    "id": "gh-1360627135",
+    "name": "arnsri33/embedflow",
+    "description": "Zero downtime embedding upgrades",
+    "url": "https://github.com/arnsri33/embedflow",
     "stars": 15,
     "language": "Python",
     "topics": [
-      "agent-framework",
-      "agent-memory",
-      "agent-personality",
-      "ai-agent",
-      "ai-agents",
-      "ai-safety",
-      "artificial-intelligence",
-      "context-management",
-      "conversational-ai",
-      "deterministic",
-      "developer-tools",
-      "generative-ai",
-      "hermes-agent",
-      "llm",
-      "local-first",
-      "offline-first",
-      "open-source",
-      "persona",
-      "privacy-first",
-      "python"
+      "embedding",
+      "embedding-models",
+      "embedding-vectors",
+      "embeddings-similarity",
+      "faiss",
+      "information-retrieval",
+      "machine-learning",
+      "qdrant",
+      "rag",
+      "rag-pipeline",
+      "semantic-search",
+      "vector-database",
+      "vector-search"
     ],
-    "created_at": "2026-09-01T19:44:23Z"
+    "created_at": "2026-09-07T20:10:13Z"
+  },
+  {
+    "id": "gh-1354501642",
+    "name": "yuxiangh383/option-return-prediction",
+    "description": "Companion code for predicting returns of delta-neutral portfolio.",
+    "url": "https://github.com/yuxiangh383/option-return-prediction",
+    "stars": 14,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "machine-learning",
+      "option-pricing",
+      "quantitative-finance"
+    ],
+    "created_at": "2026-09-02T08:07:44Z"
   }
 ]

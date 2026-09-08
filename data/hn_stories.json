@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49588988",
-    "title": "Nitter and XCancel resume service after legal advice",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "points": 760,
-    "comments": 334,
+    "id": "hn-49598291",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "points": 408,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-09-06T17:49:47Z"
+    "published_date": "2026-09-07T13:35:13Z"
   },
   {
-    "id": "hn-49585644",
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "points": 656,
-    "comments": 408,
+    "id": "hn-49599481",
+    "title": "Bill Gates tries to install MovieMaker (2003)",
+    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "points": 397,
+    "comments": 268,
     "source": "Hacker News",
-    "published_date": "2026-09-06T11:56:43Z"
+    "published_date": "2026-09-07T15:27:03Z"
   },
   {
-    "id": "hn-49589003",
-    "title": "Following legal advice, the Nitter project will continue",
-    "url": "https://github.com/zedeus/nitter",
-    "points": 266,
+    "id": "hn-49601655",
+    "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "points": 294,
+    "comments": 145,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T18:52:06Z"
+  },
+  {
+    "id": "hn-49602699",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "points": 201,
+    "comments": 83,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T20:32:55Z"
+  },
+  {
+    "id": "hn-49603546",
+    "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "points": 155,
+    "comments": 46,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T22:12:38Z"
+  },
+  {
+    "id": "hn-49600233",
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "url": "https://news.ycombinator.com/item?id=49600233",
+    "points": 125,
+    "comments": 140,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T16:40:32Z"
+  },
+  {
+    "id": "hn-49602490",
+    "title": "Emacs Bedrock 2.0",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "points": 121,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T20:12:12Z"
+  },
+  {
+    "id": "hn-49596976",
+    "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+    "url": "https://news.ycombinator.com/item?id=49596976",
+    "points": 111,
+    "comments": 56,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T11:22:40Z"
+  },
+  {
+    "id": "hn-49601338",
+    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+    "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+    "points": 100,
+    "comments": 117,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T18:24:32Z"
+  },
+  {
+    "id": "hn-49596610",
+    "title": "Initial effects of AI technology on employment look positive",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "points": 87,
+    "comments": 131,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T10:38:32Z"
+  },
+  {
+    "id": "hn-49605433",
+    "title": "I tested 10 model/harness combinations on the same Three.js task",
+    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "points": 81,
+    "comments": 50,
+    "source": "Hacker News",
+    "published_date": "2026-09-08T03:42:25Z"
+  },
+  {
+    "id": "hn-49601810",
+    "title": "AI Cold Showers",
+    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+    "points": 74,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T19:05:39Z"
+  },
+  {
+    "id": "hn-49605822",
+    "title": "Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "points": 50,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-09-08T05:20:23Z"
+  },
+  {
+    "id": "hn-49605511",
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "points": 43,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-09-08T04:06:20Z"
+  },
+  {
+    "id": "hn-49602258",
+    "title": "El Yayster \u2013 a resident LLM that inhabits Emacs",
+    "url": "https://github.com/yayster/yayster.el",
+    "points": 35,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-09-07T19:50:21Z"
+  },
+  {
+    "id": "hn-49604405",
+    "title": "Githack: A Persistent Object Store for Lisp Based on Git",
+    "url": "http://funcall.blogspot.com/2026/09/githack-persistent-object-store-for.html",
+    "points": 31,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-09-06T17:51:23Z"
+    "published_date": "2026-09-08T00:40:29Z"
   },
   {
-    "id": "hn-49587128",
-    "title": "How I feel about AI",
-    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-    "points": 158,
-    "comments": 253,
+    "id": "hn-49605644",
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "points": 30,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-09-06T15:00:19Z"
+    "published_date": "2026-09-08T04:36:26Z"
   },
   {
-    "id": "hn-49590738",
-    "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "url": "https://github.com/marsbos/mador",
-    "points": 91,
-    "comments": 31,
+    "id": "hn-49603011",
+    "title": "The smallest edge AI device for local LLMs",
+    "url": "https://tiiny.ai/",
+    "points": 22,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-09-06T20:45:13Z"
+    "published_date": "2026-09-07T21:09:12Z"
   },
   {
-    "id": "hn-49593959",
-    "title": "I refused to train the AI that could replace me",
-    "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-    "points": 86,
-    "comments": 95,
+    "id": "hn-49606339",
+    "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+    "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+    "points": 21,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-09-07T04:38:22Z"
+    "published_date": "2026-09-08T06:39:20Z"
   },
   {
-    "id": "hn-49586902",
-    "title": "Show HN: Kad\u014d \u2013 open-source habit tracker, with non-binary habit score, for iOS",
-    "url": "https://github.com/scastiel/kado",
-    "points": 74,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-09-06T14:34:46Z"
-  },
-  {
-    "id": "hn-49592840",
-    "title": "Show HN: GET Together \u2013 A social network where you don't need POST to Post",
-    "url": "https://gettogether.dev",
-    "points": 67,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T01:41:11Z"
-  },
-  {
-    "id": "hn-49594008",
-    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
-    "url": "https://github.com/timgordontg/engrim",
-    "points": 41,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T04:49:36Z"
-  },
-  {
-    "id": "hn-49590354",
-    "title": "Show HN: VODForge \u2013 a free local desktop UI for YouTube video/playlist downloads",
-    "url": "https://getvodforge.com/",
-    "points": 37,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-09-06T20:07:30Z"
-  },
-  {
-    "id": "hn-49592366",
-    "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-    "url": "https://github.com/Staatsgeheim/MathKernel",
-    "points": 31,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T00:21:01Z"
-  },
-  {
-    "id": "hn-49593842",
-    "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
-    "url": "https://github.com/trailofbits/coop",
-    "points": 29,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T04:18:28Z"
-  },
-  {
-    "id": "hn-49593776",
-    "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-    "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-    "points": 25,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T04:07:07Z"
-  },
-  {
-    "id": "hn-49591782",
-    "title": "GOP issues stark warning to AI companies",
-    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-    "points": 24,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-09-06T22:59:40Z"
-  },
-  {
-    "id": "hn-49596054",
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "points": 19,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T09:26:41Z"
-  },
-  {
-    "id": "hn-49593778",
-    "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-    "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-    "points": 18,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T04:07:19Z"
-  },
-  {
-    "id": "hn-49591747",
-    "title": "Gotham Silicon: 1\u03bc CMOS process that will ship custom chips for \u2013$100 in <24hrs",
-    "url": "https://gothamsilicon.com/",
-    "points": 17,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-09-06T22:53:23Z"
-  },
-  {
-    "id": "hn-49586011",
-    "title": "AI Slop",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
-    "points": 15,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-09-06T12:42:17Z"
-  },
-  {
-    "id": "hn-49592508",
-    "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-    "points": 15,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T00:46:01Z"
-  },
-  {
-    "id": "hn-49590289",
-    "title": "Amazon cargo plane crashes at Miami airport after it overshoots runway",
-    "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+    "id": "hn-49604956",
+    "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+    "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
     "points": 14,
-    "comments": 0,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-09-06T20:00:24Z"
+    "published_date": "2026-09-08T02:12:13Z"
   }
 ]
