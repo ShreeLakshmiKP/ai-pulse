@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49598291",
-    "title": "bzip3",
-    "url": "https://github.com/iczelia/bzip3",
-    "points": 408,
-    "comments": 117,
+    "id": "hn-49610538",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "points": 681,
+    "comments": 231,
     "source": "Hacker News",
-    "published_date": "2026-09-07T13:35:13Z"
+    "published_date": "2026-09-08T14:05:57Z"
   },
   {
-    "id": "hn-49599481",
-    "title": "Bill Gates tries to install MovieMaker (2003)",
-    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-    "points": 397,
-    "comments": 268,
+    "id": "hn-49615537",
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "points": 516,
+    "comments": 555,
     "source": "Hacker News",
-    "published_date": "2026-09-07T15:27:03Z"
+    "published_date": "2026-09-08T19:25:00Z"
   },
   {
-    "id": "hn-49601655",
-    "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-    "url": "https://lax-skyline.parcelscope.net/",
-    "points": 294,
-    "comments": 145,
+    "id": "hn-49610631",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "points": 456,
+    "comments": 311,
     "source": "Hacker News",
-    "published_date": "2026-09-07T18:52:06Z"
+    "published_date": "2026-09-08T14:13:26Z"
   },
   {
-    "id": "hn-49602699",
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "points": 201,
-    "comments": 83,
+    "id": "hn-49610229",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "points": 378,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-09-07T20:32:55Z"
+    "published_date": "2026-09-08T13:41:25Z"
   },
   {
-    "id": "hn-49603546",
-    "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-    "url": "https://github.com/Sadpainy/Stuxnet",
-    "points": 155,
-    "comments": 46,
+    "id": "hn-49616968",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "points": 371,
+    "comments": 325,
     "source": "Hacker News",
-    "published_date": "2026-09-07T22:12:38Z"
+    "published_date": "2026-09-08T21:00:52Z"
   },
   {
-    "id": "hn-49600233",
-    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-    "url": "https://news.ycombinator.com/item?id=49600233",
-    "points": 125,
-    "comments": 140,
+    "id": "hn-49613068",
+    "title": "Show HN: LLM Attention Visualization",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "points": 156,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-09-07T16:40:32Z"
+    "published_date": "2026-09-08T16:59:41Z"
   },
   {
-    "id": "hn-49602490",
-    "title": "Emacs Bedrock 2.0",
-    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "points": 121,
-    "comments": 27,
+    "id": "hn-49614557",
+    "title": "Flights cancelled at UK airports due to ATC issue",
+    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "points": 123,
+    "comments": 116,
     "source": "Hacker News",
-    "published_date": "2026-09-07T20:12:12Z"
+    "published_date": "2026-09-08T18:26:27Z"
   },
   {
-    "id": "hn-49596976",
-    "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-    "url": "https://news.ycombinator.com/item?id=49596976",
-    "points": 111,
-    "comments": 56,
+    "id": "hn-49619639",
+    "title": "AI Responsibility \u2013 OpenAI and Anthropic",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+    "points": 77,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-09-07T11:22:40Z"
+    "published_date": "2026-09-09T01:32:49Z"
   },
   {
-    "id": "hn-49601338",
-    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-    "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-    "points": 100,
-    "comments": 117,
+    "id": "hn-49622561",
+    "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "points": 63,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-09-07T18:24:32Z"
+    "published_date": "2026-09-09T07:22:46Z"
   },
   {
-    "id": "hn-49596610",
-    "title": "Initial effects of AI technology on employment look positive",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-    "points": 87,
-    "comments": 131,
+    "id": "hn-49621223",
+    "title": "AI Has a Discovery Problem",
+    "url": "https://mhacevedo.com/posts/the-discovery-problem",
+    "points": 56,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-09-07T10:38:32Z"
+    "published_date": "2026-09-09T04:59:26Z"
   },
   {
-    "id": "hn-49605433",
-    "title": "I tested 10 model/harness combinations on the same Three.js task",
-    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-    "points": 81,
-    "comments": 50,
+    "id": "hn-49623306",
+    "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+    "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+    "points": 55,
+    "comments": 57,
     "source": "Hacker News",
-    "published_date": "2026-09-08T03:42:25Z"
+    "published_date": "2026-09-09T08:43:27Z"
   },
   {
-    "id": "hn-49601810",
-    "title": "AI Cold Showers",
-    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-    "points": 74,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-09-07T19:05:39Z"
-  },
-  {
-    "id": "hn-49605822",
-    "title": "Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "points": 50,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T05:20:23Z"
-  },
-  {
-    "id": "hn-49605511",
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "id": "hn-49614101",
+    "title": "GrapheneOS on AI Usage",
+    "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
     "points": 43,
-    "comments": 26,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-09-08T04:06:20Z"
+    "published_date": "2026-09-08T18:00:58Z"
   },
   {
-    "id": "hn-49602258",
-    "title": "El Yayster \u2013 a resident LLM that inhabits Emacs",
-    "url": "https://github.com/yayster/yayster.el",
-    "points": 35,
-    "comments": 6,
+    "id": "hn-49615888",
+    "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
+    "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+    "points": 41,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-09-07T19:50:21Z"
+    "published_date": "2026-09-08T19:43:54Z"
   },
   {
-    "id": "hn-49604405",
-    "title": "Githack: A Persistent Object Store for Lisp Based on Git",
-    "url": "http://funcall.blogspot.com/2026/09/githack-persistent-object-store-for.html",
-    "points": 31,
-    "comments": 1,
+    "id": "hn-49613200",
+    "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
+    "url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/",
+    "points": 29,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-09-08T00:40:29Z"
+    "published_date": "2026-09-08T17:08:51Z"
   },
   {
-    "id": "hn-49605644",
-    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-    "url": "https://rohanadwankar.github.io/posts/platforms.html",
-    "points": 30,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T04:36:26Z"
-  },
-  {
-    "id": "hn-49603011",
-    "title": "The smallest edge AI device for local LLMs",
-    "url": "https://tiiny.ai/",
-    "points": 22,
+    "id": "hn-49612772",
+    "title": "Our GitHub Actions bill kept climbing, so we moved CI to one box",
+    "url": "https://github.com/senoff/self-hosted-ci-runner",
+    "points": 28,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-09-07T21:09:12Z"
+    "published_date": "2026-09-08T16:40:40Z"
   },
   {
-    "id": "hn-49606339",
-    "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-    "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-    "points": 21,
-    "comments": 20,
+    "id": "hn-49608875",
+    "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
+    "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket/",
+    "points": 26,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-09-08T06:39:20Z"
+    "published_date": "2026-09-08T11:35:08Z"
   },
   {
-    "id": "hn-49604956",
-    "title": "AI cancer cures slowed by chip shortage, says Arm boss",
-    "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
-    "points": 14,
+    "id": "hn-49616238",
+    "title": "After Work, We'll Have Each Other",
+    "url": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
+    "points": 20,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-09-08T20:06:24Z"
+  },
+  {
+    "id": "hn-49609784",
+    "title": "Show HN: DriveSync \u2013 fast Git-styled Google Drive sync CLI",
+    "url": "https://github.com/scaleninja/drivesync",
+    "points": 19,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-09-08T02:12:13Z"
+    "published_date": "2026-09-08T13:01:23Z"
+  },
+  {
+    "id": "hn-49622554",
+    "title": "I'm going back to coding by hand",
+    "url": "https://news.ycombinator.com/item?id=49622554",
+    "points": 18,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T07:22:28Z"
+  },
+  {
+    "id": "hn-49614817",
+    "title": "When Mothers Get Arrested for Mothering",
+    "url": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
+    "points": 18,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-09-08T18:43:30Z"
   }
 ]

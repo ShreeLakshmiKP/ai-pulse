@@ -3160,6 +3160,48 @@
     "image": null
   },
   {
+    "id": "rss-deb34805",
+    "title": "Batteries just broke another record in the US",
+    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of about 700,000 homes.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 09 Sep 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-44bcee21",
+    "title": "Understanding the thermal ceiling in portable power",
+    "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 09 Sep 2026 08:18:13 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-388663d3",
+    "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
+    "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 09 Sep 2026 03:10:08 +0000",
+    "image": null
+  },
+  {
     "id": "rss-dad44939",
     "title": "Data for Agents",
     "summary": "",
@@ -4295,47 +4337,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 01 Jul 2026 02:04:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-11d5ccf1",
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 01 Jul 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-c38b9a20",
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
-    "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "tags": [
-      "Anthropic"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 01 Apr 2026 22:12:13 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-104602a7",
-    "title": "Meta\u2019s natural gas binge could power South Dakota",
-    "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 01 Apr 2026 18:35:36 +0000",
     "image": null
   }
 ]

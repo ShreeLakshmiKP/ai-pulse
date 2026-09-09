@@ -1,44 +1,5 @@
 [
   {
-    "id": "gh-1358140812",
-    "name": "pierrenade/short-video-generator-AI",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 1211,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-video",
-      "python",
-      "short-video-maker",
-      "video-generation"
-    ],
-    "created_at": "2026-09-05T11:55:18Z"
-  },
-  {
-    "id": "gh-1354991682",
-    "name": "Agenta-AI/awesome-ai-agent-platforms",
-    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 231,
-    "language": "Astro",
-    "topics": [
-      "agent-frameworks",
-      "ai-agent-platforms",
-      "ai-agents",
-      "ai-coworker",
-      "awesome",
-      "awesome-list",
-      "browser-agents",
-      "coding-agents",
-      "llm",
-      "open-source",
-      "self-hosted",
-      "workflow-automation"
-    ],
-    "created_at": "2026-09-02T16:32:59Z"
-  },
-  {
     "id": "gh-1359835005",
     "name": "Albertchamberlain/Awesome-OKF",
     "description": "OKF (Open Knowledge Format) \u2014 curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
@@ -68,47 +29,11 @@
     "created_at": "2026-09-07T06:12:39Z"
   },
   {
-    "id": "gh-1354645252",
-    "name": "icodesign/remote-installer",
-    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-    "url": "https://github.com/icodesign/remote-installer",
-    "stars": 98,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "android",
-      "cloudflare",
-      "ios",
-      "tailscale",
-      "vibecoding"
-    ],
-    "created_at": "2026-09-02T10:47:41Z"
-  },
-  {
-    "id": "gh-1354518773",
-    "name": "gesta-run/subpool",
-    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-    "url": "https://github.com/gesta-run/subpool",
-    "stars": 70,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "gateway",
-      "pooling"
-    ],
-    "created_at": "2026-09-02T08:27:21Z"
-  },
-  {
     "id": "gh-1356375344",
     "name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 68,
+    "stars": 73,
     "language": "Rust",
     "topics": [
       "ai",
@@ -125,31 +50,30 @@
     "created_at": "2026-09-03T19:52:35Z"
   },
   {
-    "id": "gh-1354165808",
-    "name": "zeroa234/ryza-ai-revive",
-    "description": "Ryza AI companion. Bring your own LLM/TTS. \u83b1\u838e AI \u966a\u4f34\uff0c\u81ea\u586b\u5927\u6a21\u578b\u4e0e\u8bed\u97f3\u3002",
-    "url": "https://github.com/zeroa234/ryza-ai-revive",
-    "stars": 64,
-    "language": "JavaScript",
+    "id": "gh-1361228049",
+    "name": "paveldevyatov/refund-anything-ai-prompt",
+    "description": "AI prompt that gets your money back \u2014 subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "stars": 62,
+    "language": null,
     "topics": [
-      "android",
-      "chatbot",
-      "electron",
-      "html",
-      "javascript",
-      "llm",
-      "spine",
-      "tts",
-      "webgl"
+      "ai",
+      "chargeback",
+      "chatgpt",
+      "claude",
+      "consumer-rights",
+      "prompt",
+      "refund",
+      "subscription"
     ],
-    "created_at": "2026-09-02T00:52:18Z"
+    "created_at": "2026-09-08T10:20:24Z"
   },
   {
     "id": "gh-1355421445",
     "name": "vaelkeep/hermes-paper-agent",
     "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
     "url": "https://github.com/vaelkeep/hermes-paper-agent",
-    "stars": 59,
+    "stars": 61,
     "language": "Python",
     "topics": [
       "agent",
@@ -168,11 +92,43 @@
     "created_at": "2026-09-03T02:15:43Z"
   },
   {
+    "id": "gh-1356900025",
+    "name": "TokenRhythm/NeoHorse",
+    "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+    "url": "https://github.com/TokenRhythm/NeoHorse",
+    "stars": 59,
+    "language": null,
+    "topics": [
+      "agent",
+      "large-language-models",
+      "llm",
+      "post-training",
+      "recursive-self-improvement",
+      "rsi"
+    ],
+    "created_at": "2026-09-04T08:34:54Z"
+  },
+  {
+    "id": "gh-1361525882",
+    "name": "Colafornia/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "url": "https://github.com/Colafornia/short-video-generator-AI",
+    "stars": 58,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-generation",
+      "short-video",
+      "short-video-maker"
+    ],
+    "created_at": "2026-09-08T14:55:47Z"
+  },
+  {
     "id": "gh-1357257622",
     "name": "dengyie/cnb2api",
     "description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
     "url": "https://github.com/dengyie/cnb2api",
-    "stars": 49,
+    "stars": 51,
     "language": "JavaScript",
     "topics": [
       "api-gateway",
@@ -190,11 +146,32 @@
     "created_at": "2026-09-04T14:47:11Z"
   },
   {
+    "id": "gh-1358948316",
+    "name": "aimeoa/hanshuang-codex",
+    "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 48,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "openai-codex",
+      "prompt-injection",
+      "pyside6",
+      "python"
+    ],
+    "created_at": "2026-09-06T08:42:57Z"
+  },
+  {
     "id": "gh-1355507861",
     "name": "cyptnpassira/PromptLedger",
     "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
     "url": "https://github.com/cyptnpassira/PromptLedger",
-    "stars": 42,
+    "stars": 35,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -216,32 +193,66 @@
     "created_at": "2026-09-03T04:26:04Z"
   },
   {
-    "id": "gh-1358948316",
-    "name": "aimeoa/hanshuang-codex",
-    "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 40,
+    "id": "gh-1360627135",
+    "name": "arnsri33/embedflow",
+    "description": "Zero downtime embedding upgrades",
+    "url": "https://github.com/arnsri33/embedflow",
+    "stars": 34,
+    "language": "Python",
+    "topics": [
+      "embedding",
+      "embedding-models",
+      "embedding-vectors",
+      "embeddings-similarity",
+      "faiss",
+      "information-retrieval",
+      "machine-learning",
+      "qdrant",
+      "rag",
+      "rag-pipeline",
+      "semantic-search",
+      "vector-database",
+      "vector-search"
+    ],
+    "created_at": "2026-09-07T20:10:13Z"
+  },
+  {
+    "id": "gh-1358794688",
+    "name": "sreenidhbonagiri/remedi",
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "url": "https://github.com/sreenidhbonagiri/remedi",
+    "stars": 30,
     "language": "Python",
     "topics": [
       "ai",
-      "codex",
-      "codex-cli",
-      "desktop-app",
-      "jailbreak",
-      "llm",
-      "openai-codex",
-      "prompt-injection",
-      "pyside6",
-      "python"
+      "ai-agent",
+      "css",
+      "digital-health",
+      "fastapi",
+      "health",
+      "health-data",
+      "health-tech",
+      "healthcare",
+      "healthcare-ai",
+      "html",
+      "javascript",
+      "langgraph",
+      "medicine",
+      "open-source",
+      "openfda",
+      "pytest",
+      "python",
+      "python3",
+      "reportlab"
     ],
-    "created_at": "2026-09-06T08:42:57Z"
+    "created_at": "2026-09-06T04:46:45Z"
   },
   {
     "id": "gh-1357390407",
     "name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
     "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 27,
+    "stars": 25,
     "language": "Python",
     "topics": [
       "ai",
@@ -270,7 +281,7 @@
     "name": "Flood-Lab/HydroTuring",
     "description": "Does your AI hydrologic model conserve mass, energy and momentum?",
     "url": "https://github.com/Flood-Lab/HydroTuring",
-    "stars": 17,
+    "stars": 20,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -283,41 +294,50 @@
     "created_at": "2026-09-03T03:10:00Z"
   },
   {
-    "id": "gh-1360627135",
-    "name": "arnsri33/embedflow",
-    "description": "Zero downtime embedding upgrades",
-    "url": "https://github.com/arnsri33/embedflow",
-    "stars": 15,
+    "id": "gh-1355830075",
+    "name": "tg-mitra/prompt-injection-detector",
+    "description": "Lightweight prompt injection detector for LLM, RAG and AI agent applications using Sentence Transformers + scikit-learn.",
+    "url": "https://github.com/tg-mitra/prompt-injection-detector",
+    "stars": 6,
     "language": "Python",
     "topics": [
-      "embedding",
-      "embedding-models",
-      "embedding-vectors",
-      "embeddings-similarity",
-      "faiss",
-      "information-retrieval",
+      "agentic-ai",
+      "ai-agents",
+      "ai-security",
+      "cybersecurity",
+      "huggingface",
+      "llm",
+      "llm-security",
       "machine-learning",
-      "qdrant",
+      "nlp",
+      "prompt-injection",
+      "prompt-injection-detection",
       "rag",
-      "rag-pipeline",
-      "semantic-search",
-      "vector-database",
-      "vector-search"
+      "rag-security",
+      "scikit-learn",
+      "sentence-transformers"
     ],
-    "created_at": "2026-09-07T20:10:13Z"
+    "created_at": "2026-09-03T10:30:25Z"
   },
   {
-    "id": "gh-1354501642",
-    "name": "yuxiangh383/option-return-prediction",
-    "description": "Companion code for predicting returns of delta-neutral portfolio.",
-    "url": "https://github.com/yuxiangh383/option-return-prediction",
-    "stars": 14,
-    "language": "Jupyter Notebook",
+    "id": "gh-1361836913",
+    "name": "LaplaceYoung/awesome-gpt-image-2.5",
+    "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
+    "url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
+    "stars": 6,
+    "language": null,
     "topics": [
-      "machine-learning",
-      "option-pricing",
-      "quantitative-finance"
+      "ai-art",
+      "chatgpt-images",
+      "computer-vision",
+      "generative-ai",
+      "gpt-image",
+      "gpt-image-2-5",
+      "image-generation",
+      "openai",
+      "prompt-engineering",
+      "prompt-library"
     ],
-    "created_at": "2026-09-02T08:07:44Z"
+    "created_at": "2026-09-08T19:45:04Z"
   }
 ]
