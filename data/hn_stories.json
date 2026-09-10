@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49610538",
-    "title": "LibreOffice breaks download records after declaring it has no AI features",
-    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-    "points": 681,
-    "comments": 231,
+    "id": "hn-49630253",
+    "title": "AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "points": 457,
+    "comments": 386,
     "source": "Hacker News",
-    "published_date": "2026-09-08T14:05:57Z"
+    "published_date": "2026-09-09T17:39:24Z"
   },
   {
-    "id": "hn-49615537",
-    "title": "Muse \u2013 Meta\u2019s personal AI agent",
-    "url": "https://ai.meta.com/muse/",
-    "points": 516,
-    "comments": 555,
+    "id": "hn-49627370",
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "points": 435,
+    "comments": 142,
     "source": "Hacker News",
-    "published_date": "2026-09-08T19:25:00Z"
+    "published_date": "2026-09-09T14:37:47Z"
   },
   {
-    "id": "hn-49610631",
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "points": 456,
-    "comments": 311,
+    "id": "hn-49628493",
+    "title": "No Man's Sky Cosmos",
+    "url": "https://www.nomanssky.com/cosmos-update/",
+    "points": 391,
+    "comments": 400,
     "source": "Hacker News",
-    "published_date": "2026-09-08T14:13:26Z"
+    "published_date": "2026-09-09T15:47:42Z"
   },
   {
-    "id": "hn-49610229",
-    "title": "We Must Return to the Office to Use AI in Person",
-    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-    "points": 378,
-    "comments": 65,
+    "id": "hn-49624163",
+    "title": "How An AI math breakthrough ignited a controversy",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "points": 218,
+    "comments": 228,
     "source": "Hacker News",
-    "published_date": "2026-09-08T13:41:25Z"
+    "published_date": "2026-09-09T10:25:41Z"
   },
   {
-    "id": "hn-49616968",
-    "title": "Tao: Open math problems being non-renewably mined by AI",
-    "url": "https://mathstodon.xyz/@tao/117237320796901560",
-    "points": 371,
-    "comments": 325,
+    "id": "hn-49630026",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "points": 216,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-09-08T21:00:52Z"
+    "published_date": "2026-09-09T17:24:28Z"
   },
   {
-    "id": "hn-49613068",
-    "title": "Show HN: LLM Attention Visualization",
-    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "points": 156,
-    "comments": 24,
+    "id": "hn-49636345",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "points": 179,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-09-08T16:59:41Z"
+    "published_date": "2026-09-09T23:57:29Z"
   },
   {
-    "id": "hn-49614557",
-    "title": "Flights cancelled at UK airports due to ATC issue",
-    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "points": 123,
-    "comments": 116,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T18:26:27Z"
-  },
-  {
-    "id": "hn-49619639",
-    "title": "AI Responsibility \u2013 OpenAI and Anthropic",
-    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+    "id": "hn-49637395",
+    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
     "points": 77,
-    "comments": 22,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-09-09T01:32:49Z"
+    "published_date": "2026-09-10T01:59:51Z"
   },
   {
-    "id": "hn-49622561",
-    "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-    "points": 63,
-    "comments": 47,
-    "source": "Hacker News",
-    "published_date": "2026-09-09T07:22:46Z"
-  },
-  {
-    "id": "hn-49621223",
-    "title": "AI Has a Discovery Problem",
-    "url": "https://mhacevedo.com/posts/the-discovery-problem",
-    "points": 56,
-    "comments": 30,
-    "source": "Hacker News",
-    "published_date": "2026-09-09T04:59:26Z"
-  },
-  {
-    "id": "hn-49623306",
-    "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-    "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
-    "points": 55,
-    "comments": 57,
-    "source": "Hacker News",
-    "published_date": "2026-09-09T08:43:27Z"
-  },
-  {
-    "id": "hn-49614101",
-    "title": "GrapheneOS on AI Usage",
-    "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
-    "points": 43,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T18:00:58Z"
-  },
-  {
-    "id": "hn-49615888",
-    "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
-    "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
-    "points": 41,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T19:43:54Z"
-  },
-  {
-    "id": "hn-49613200",
-    "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
-    "url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/",
-    "points": 29,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T17:08:51Z"
-  },
-  {
-    "id": "hn-49612772",
-    "title": "Our GitHub Actions bill kept climbing, so we moved CI to one box",
-    "url": "https://github.com/senoff/self-hosted-ci-runner",
-    "points": 28,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T16:40:40Z"
-  },
-  {
-    "id": "hn-49608875",
-    "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
-    "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket/",
-    "points": 26,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T11:35:08Z"
-  },
-  {
-    "id": "hn-49616238",
-    "title": "After Work, We'll Have Each Other",
-    "url": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
-    "points": 20,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-09-08T20:06:24Z"
-  },
-  {
-    "id": "hn-49609784",
-    "title": "Show HN: DriveSync \u2013 fast Git-styled Google Drive sync CLI",
-    "url": "https://github.com/scaleninja/drivesync",
-    "points": 19,
+    "id": "hn-49637435",
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+    "points": 77,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-09-08T13:01:23Z"
+    "published_date": "2026-09-10T02:04:11Z"
   },
   {
-    "id": "hn-49622554",
-    "title": "I'm going back to coding by hand",
-    "url": "https://news.ycombinator.com/item?id=49622554",
-    "points": 18,
+    "id": "hn-49636906",
+    "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+    "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+    "points": 75,
+    "comments": 102,
+    "source": "Hacker News",
+    "published_date": "2026-09-10T01:02:44Z"
+  },
+  {
+    "id": "hn-49626431",
+    "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
+    "url": "https://news.ycombinator.com/item?id=49626431",
+    "points": 63,
+    "comments": 90,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T13:41:55Z"
+  },
+  {
+    "id": "hn-49628880",
+    "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+    "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
+    "points": 60,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T16:13:11Z"
+  },
+  {
+    "id": "hn-49629868",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.09153",
+    "points": 55,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T17:13:52Z"
+  },
+  {
+    "id": "hn-49629382",
+    "title": "Rock band Muse lose social media handles to Meta\u2019s new AI tool",
+    "url": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html",
+    "points": 46,
+    "comments": 92,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T16:43:35Z"
+  },
+  {
+    "id": "hn-49627887",
+    "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+    "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+    "points": 45,
+    "comments": 101,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T15:10:39Z"
+  },
+  {
+    "id": "hn-49624255",
+    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+    "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+    "points": 45,
+    "comments": 99,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T10:37:16Z"
+  },
+  {
+    "id": "hn-49627646",
+    "title": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
+    "url": "https://github.com/Atomburstofficial/geiger",
+    "points": 45,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T14:54:49Z"
+  },
+  {
+    "id": "hn-49630606",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "url": "https://github.com/OtoDock/oto-dock",
+    "points": 45,
     "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-09-09T07:22:28Z"
+    "published_date": "2026-09-09T17:57:55Z"
   },
   {
-    "id": "hn-49614817",
-    "title": "When Mothers Get Arrested for Mothering",
-    "url": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
-    "points": 18,
-    "comments": 10,
+    "id": "hn-49629747",
+    "title": "Show HN: Rdltr \u2013 Inbox zero for your reading list",
+    "url": "https://rdltr.app/",
+    "points": 23,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-09-08T18:43:30Z"
+    "published_date": "2026-09-09T17:06:21Z"
+  },
+  {
+    "id": "hn-49627872",
+    "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
+    "url": "https://news.ycombinator.com/item?id=49627872",
+    "points": 18,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T15:09:05Z"
+  },
+  {
+    "id": "hn-49628216",
+    "title": "Fashware",
+    "url": "https://git.sr.ht/~rabbits/fashware",
+    "points": 16,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-09-09T15:31:21Z"
   }
 ]

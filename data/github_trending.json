@@ -1,10 +1,79 @@
 [
   {
+    "id": "gh-1363388578",
+    "name": "yudaprasetya007/routeVSCODE",
+    "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+    "url": "https://github.com/yudaprasetya007/routeVSCODE",
+    "stars": 326,
+    "language": "JavaScript",
+    "topics": [
+      "9router",
+      "ai",
+      "chatgpt",
+      "claude",
+      "copilot",
+      "deepseek",
+      "local-proxy",
+      "model-switcher",
+      "vscode",
+      "vscode-extension"
+    ],
+    "created_at": "2026-09-10T01:25:00Z"
+  },
+  {
+    "id": "gh-1361525882",
+    "name": "Colafornia/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "url": "https://github.com/Colafornia/short-video-generator-AI",
+    "stars": 160,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-generation",
+      "short-video",
+      "short-video-maker"
+    ],
+    "created_at": "2026-09-08T14:55:47Z"
+  },
+  {
+    "id": "gh-1360488682",
+    "name": "crwdla/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/crwdla/tokentab",
+    "stars": 130,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-token-monitor",
+      "claude-code",
+      "token-optimization",
+      "token-usage"
+    ],
+    "created_at": "2026-09-07T17:18:31Z"
+  },
+  {
+    "id": "gh-1356900025",
+    "name": "TokenRhythm/NeoHorse",
+    "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+    "url": "https://github.com/TokenRhythm/NeoHorse",
+    "stars": 109,
+    "language": null,
+    "topics": [
+      "agent",
+      "large-language-models",
+      "llm",
+      "post-training",
+      "recursive-self-improvement",
+      "rsi"
+    ],
+    "created_at": "2026-09-04T08:34:54Z"
+  },
+  {
     "id": "gh-1359835005",
     "name": "Albertchamberlain/Awesome-OKF",
     "description": "OKF (Open Knowledge Format) \u2014 curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
     "url": "https://github.com/Albertchamberlain/Awesome-OKF",
-    "stars": 102,
+    "stars": 100,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -29,32 +98,11 @@
     "created_at": "2026-09-07T06:12:39Z"
   },
   {
-    "id": "gh-1356375344",
-    "name": "truespar/paddock",
-    "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-    "url": "https://github.com/truespar/paddock",
-    "stars": 73,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "aimodels",
-      "blackwell",
-      "cuda",
-      "inference",
-      "inference-engine",
-      "inference-optimization",
-      "model-serving",
-      "nvidia",
-      "rust"
-    ],
-    "created_at": "2026-09-03T19:52:35Z"
-  },
-  {
     "id": "gh-1361228049",
     "name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back \u2014 subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 62,
+    "stars": 68,
     "language": null,
     "topics": [
       "ai",
@@ -69,59 +117,43 @@
     "created_at": "2026-09-08T10:20:24Z"
   },
   {
-    "id": "gh-1355421445",
-    "name": "vaelkeep/hermes-paper-agent",
-    "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
-    "url": "https://github.com/vaelkeep/hermes-paper-agent",
-    "stars": 61,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "cron",
-      "daily-briefing",
-      "hermes",
-      "llm",
-      "local-llm",
-      "newspaper",
-      "personal-dashboard",
-      "python",
-      "self-hosted",
-      "static-site",
-      "typography"
-    ],
-    "created_at": "2026-09-03T02:15:43Z"
-  },
-  {
-    "id": "gh-1356900025",
-    "name": "TokenRhythm/NeoHorse",
-    "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-    "url": "https://github.com/TokenRhythm/NeoHorse",
-    "stars": 59,
-    "language": null,
-    "topics": [
-      "agent",
-      "large-language-models",
-      "llm",
-      "post-training",
-      "recursive-self-improvement",
-      "rsi"
-    ],
-    "created_at": "2026-09-04T08:34:54Z"
-  },
-  {
-    "id": "gh-1361525882",
-    "name": "Colafornia/short-video-generator-AI",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 58,
+    "id": "gh-1358948316",
+    "name": "aimeoa/hanshuang-codex",
+    "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 63,
     "language": "Python",
     "topics": [
       "ai",
-      "ai-generation",
-      "short-video",
-      "short-video-maker"
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "openai-codex",
+      "prompt-injection",
+      "pyside6",
+      "python"
     ],
-    "created_at": "2026-09-08T14:55:47Z"
+    "created_at": "2026-09-06T08:42:57Z"
+  },
+  {
+    "id": "gh-1357849254",
+    "name": "songs-aaa/shared-memory-vault",
+    "description": "A memory governance engine for multi-agent cloud knowledge bases \u2014 one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
+    "url": "https://github.com/songs-aaa/shared-memory-vault",
+    "stars": 55,
+    "language": null,
+    "topics": [
+      "agent-memory",
+      "knowledge-base",
+      "llm",
+      "memory",
+      "multi-agent",
+      "skills",
+      "vault"
+    ],
+    "created_at": "2026-09-05T05:15:51Z"
   },
   {
     "id": "gh-1357257622",
@@ -146,58 +178,11 @@
     "created_at": "2026-09-04T14:47:11Z"
   },
   {
-    "id": "gh-1358948316",
-    "name": "aimeoa/hanshuang-codex",
-    "description": "\u9488\u5bf9GPT 5.6,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 48,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "codex",
-      "codex-cli",
-      "desktop-app",
-      "jailbreak",
-      "llm",
-      "openai-codex",
-      "prompt-injection",
-      "pyside6",
-      "python"
-    ],
-    "created_at": "2026-09-06T08:42:57Z"
-  },
-  {
-    "id": "gh-1355507861",
-    "name": "cyptnpassira/PromptLedger",
-    "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
-    "url": "https://github.com/cyptnpassira/PromptLedger",
-    "stars": 35,
-    "language": "Python",
-    "topics": [
-      "benchmark",
-      "diff",
-      "evaluation",
-      "experiments",
-      "go",
-      "llm",
-      "machine-learning",
-      "prompt-engineering",
-      "promptledger",
-      "python",
-      "reporting",
-      "reproducibility",
-      "snapshots",
-      "templates",
-      "versioning"
-    ],
-    "created_at": "2026-09-03T04:26:04Z"
-  },
-  {
     "id": "gh-1360627135",
     "name": "arnsri33/embedflow",
     "description": "Zero downtime embedding upgrades",
     "url": "https://github.com/arnsri33/embedflow",
-    "stars": 34,
+    "stars": 43,
     "language": "Python",
     "topics": [
       "embedding",
@@ -207,6 +192,7 @@
       "faiss",
       "information-retrieval",
       "machine-learning",
+      "pgvector",
       "qdrant",
       "rag",
       "rag-pipeline",
@@ -217,42 +203,11 @@
     "created_at": "2026-09-07T20:10:13Z"
   },
   {
-    "id": "gh-1358794688",
-    "name": "sreenidhbonagiri/remedi",
-    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
-    "url": "https://github.com/sreenidhbonagiri/remedi",
-    "stars": 30,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "css",
-      "digital-health",
-      "fastapi",
-      "health",
-      "health-data",
-      "health-tech",
-      "healthcare",
-      "healthcare-ai",
-      "html",
-      "javascript",
-      "langgraph",
-      "medicine",
-      "open-source",
-      "openfda",
-      "pytest",
-      "python",
-      "python3",
-      "reportlab"
-    ],
-    "created_at": "2026-09-06T04:46:45Z"
-  },
-  {
     "id": "gh-1357390407",
-    "name": "michailfragkiskos/EdgeMosaic",
-    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
-    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 25,
+    "name": "tomiholtz/s3-files-ai-sdk",
+    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
+    "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
+    "stars": 28,
     "language": "Python",
     "topics": [
       "ai",
@@ -277,54 +232,58 @@
     "created_at": "2026-09-04T16:55:00Z"
   },
   {
-    "id": "gh-1355456846",
-    "name": "Flood-Lab/HydroTuring",
-    "description": "Does your AI hydrologic model conserve mass, energy and momentum?",
-    "url": "https://github.com/Flood-Lab/HydroTuring",
-    "stars": 20,
+    "id": "gh-1363640102",
+    "name": "FjgarciaMac/WhisperDeck",
+    "description": "On-device audio transcription toolkit - trim, tag, transcribe and export recordings locally, with a Python engine and an Android demo app.",
+    "url": "https://github.com/FjgarciaMac/WhisperDeck",
+    "stars": 17,
     "language": "Python",
     "topics": [
-      "benchmark",
-      "earth-science",
-      "hydrology",
+      "android",
+      "audio",
+      "cli",
+      "developer-tools",
+      "local-first",
       "machine-learning",
-      "physics-informed",
-      "water-balance"
+      "offline",
+      "privacy",
+      "python",
+      "speech-to-text",
+      "transcription",
+      "whisper"
     ],
-    "created_at": "2026-09-03T03:10:00Z"
+    "created_at": "2026-09-10T06:50:24Z"
   },
   {
-    "id": "gh-1355830075",
-    "name": "tg-mitra/prompt-injection-detector",
-    "description": "Lightweight prompt injection detector for LLM, RAG and AI agent applications using Sentence Transformers + scikit-learn.",
-    "url": "https://github.com/tg-mitra/prompt-injection-detector",
-    "stars": 6,
+    "id": "gh-1359669885",
+    "name": "zlxxlz1026/awesome-gpt-6-astra-casebook",
+    "description": "\ud83d\udcda Awesome GPT-6 Astra: curated use cases, prompt examples & demos for coding, websites, UI design, 3D, video, automation and games. GPT-6 Astra \u5b9e\u6218\u6848\u4f8b\u4e0e\u63d0\u793a\u8bcd\u5408\u96c6\uff0c\u4e2d\u82f1\u53cc\u8bed\uff0c\u9644\u4f5c\u8005\u539f\u5e16\u4e0e\u521b\u4f5c\u6d41\u7a0b\u3002",
+    "url": "https://github.com/zlxxlz1026/awesome-gpt-6-astra-casebook",
+    "stars": 8,
     "language": "Python",
     "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-security",
-      "cybersecurity",
-      "huggingface",
+      "ai-coding",
+      "ai-prompts",
+      "awesome",
+      "awesome-list",
+      "computer-use",
+      "game-development",
+      "generative-ai",
+      "gpt-6",
+      "gpt-6-astra",
       "llm",
-      "llm-security",
-      "machine-learning",
-      "nlp",
-      "prompt-injection",
-      "prompt-injection-detection",
-      "rag",
-      "rag-security",
-      "scikit-learn",
-      "sentence-transformers"
+      "prompt-engineering",
+      "use-cases",
+      "web-development"
     ],
-    "created_at": "2026-09-03T10:30:25Z"
+    "created_at": "2026-09-07T02:26:29Z"
   },
   {
     "id": "gh-1361836913",
     "name": "LaplaceYoung/awesome-gpt-image-2.5",
     "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
     "url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
-    "stars": 6,
+    "stars": 7,
     "language": null,
     "topics": [
       "ai-art",
@@ -339,5 +298,31 @@
       "prompt-library"
     ],
     "created_at": "2026-09-08T19:45:04Z"
+  },
+  {
+    "id": "gh-1358680959",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "description": "129 GPT-6 Astra 3D examples: Blender, Three.js, WebGL, CAD, VRM & games. 44 source projects, 55 demos, 58 full videos. AI 3D \u6848\u4f8b\u4e0e\u53ef\u7f16\u8f91\u5de5\u7a0b\u3002",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d",
+    "stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "3d",
+      "3d-modeling",
+      "architectural-visualization",
+      "awesome-list",
+      "blender",
+      "codex",
+      "game-development",
+      "generative-ai",
+      "gpt-6",
+      "gpt-6-astra",
+      "openai",
+      "prompt-engineering",
+      "showcase",
+      "threejs",
+      "webgl"
+    ],
+    "created_at": "2026-09-06T01:09:51Z"
   }
 ]
