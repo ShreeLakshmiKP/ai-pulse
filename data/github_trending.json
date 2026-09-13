@@ -4,7 +4,7 @@
     "name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 526,
+    "stars": 712,
     "language": "Python",
     "topics": [
       "ai",
@@ -19,7 +19,7 @@
     "name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 464,
+    "stars": 635,
     "language": "Python",
     "topics": [
       "ai",
@@ -31,32 +31,11 @@
     "created_at": "2026-09-07T17:18:31Z"
   },
   {
-    "id": "gh-1363388578",
-    "name": "yudaprasetya007/routeVSCODE",
-    "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-    "url": "https://github.com/yudaprasetya007/routeVSCODE",
-    "stars": 327,
-    "language": "JavaScript",
-    "topics": [
-      "9router",
-      "ai",
-      "chatgpt",
-      "claude",
-      "copilot",
-      "deepseek",
-      "local-proxy",
-      "model-switcher",
-      "vscode",
-      "vscode-extension"
-    ],
-    "created_at": "2026-09-10T01:25:00Z"
-  },
-  {
     "id": "gh-1363950922",
     "name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 282,
+    "stars": 416,
     "language": "Go",
     "topics": [
       "agent-orchestration",
@@ -78,11 +57,47 @@
     "created_at": "2026-09-10T10:50:03Z"
   },
   {
+    "id": "gh-1363388578",
+    "name": "yudaprasetya007/routeVSCODE",
+    "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+    "url": "https://github.com/yudaprasetya007/routeVSCODE",
+    "stars": 238,
+    "language": "JavaScript",
+    "topics": [
+      "9router",
+      "ai",
+      "chatgpt",
+      "claude",
+      "copilot",
+      "deepseek",
+      "local-proxy",
+      "model-switcher",
+      "vscode",
+      "vscode-extension"
+    ],
+    "created_at": "2026-09-10T01:25:00Z"
+  },
+  {
+    "id": "gh-1366546611",
+    "name": "kruzovic7/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "stars": 234,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-data-extraction",
+      "claude-code",
+      "cursor"
+    ],
+    "created_at": "2026-09-11T18:12:58Z"
+  },
+  {
     "id": "gh-1362658862",
     "name": "xiaYuTian11/maskit",
     "description": "\u6570\u636e\u9762\u5177 Data Maskit \u2014 \u4e13\u4e3a\u5927\u6a21\u578b\u6253\u9020\u7684\u672c\u5730\u9690\u79c1\u8131\u654f\u7f51\u5173\uff08\u8bf7\u6c42\u81ea\u52a8\u6253\u7801\uff0c\u56de\u590d\u6d41\u5f0f\u8fd8\u539f\uff1b\u652f\u6301 Cursor / Claude Code / Codex / Pi \u7b49\u4efb\u610f\u53ef\u914d Base URL \u5de5\u5177\uff09",
     "url": "https://github.com/xiaYuTian11/maskit",
-    "stars": 166,
+    "stars": 196,
     "language": "Python",
     "topics": [
       "anthropic",
@@ -99,27 +114,6 @@
       "tauri"
     ],
     "created_at": "2026-09-09T12:36:06Z"
-  },
-  {
-    "id": "gh-1358948316",
-    "name": "aimeoa/hanshuang-codex",
-    "description": "\u9488\u5bf9GPT 6.0,V4flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 113,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "codex",
-      "codex-cli",
-      "desktop-app",
-      "jailbreak",
-      "llm",
-      "openai-codex",
-      "prompt-injection",
-      "pyside6",
-      "python"
-    ],
-    "created_at": "2026-09-06T08:42:57Z"
   },
   {
     "id": "gh-1359835005",
@@ -151,47 +145,51 @@
     "created_at": "2026-09-07T06:12:39Z"
   },
   {
-    "id": "gh-1359179010",
-    "name": "Noisyxl/brier",
-    "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs \u2014 sealed before the answer exists, graded with proper scoring rules.",
-    "url": "https://github.com/Noisyxl/brier",
-    "stars": 83,
+    "id": "gh-1360367824",
+    "name": "undefined-ui/second-brain-os",
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+    "url": "https://github.com/undefined-ui/second-brain-os",
+    "stars": 59,
     "language": "HTML",
     "topics": [
-      "ai",
+      "agent-skills",
       "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "knowledge-graph",
+      "knowledge-management",
       "llm",
-      "robinhood-chain"
+      "mcp",
+      "obsidian",
+      "personal-knowledge-base",
+      "pkm",
+      "second-brain"
     ],
-    "created_at": "2026-09-06T13:42:25Z"
+    "created_at": "2026-09-07T15:08:13Z"
   },
   {
-    "id": "gh-1359523853",
-    "name": "tshemsedinov/reslop",
-    "description": "Interactive terminal code review git diff with intra-line highlighting",
-    "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 76,
-    "language": "JavaScript",
+    "id": "gh-1360946079",
+    "name": "tudoumashu/ai-memory-skillpack",
+    "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+    "url": "https://github.com/tudoumashu/ai-memory-skillpack",
+    "stars": 58,
+    "language": "Python",
     "topics": [
-      "agent",
-      "ai",
-      "code-review",
-      "diff",
+      "agent-memory",
+      "claude-code",
+      "codex",
       "llm",
-      "neuroslop",
-      "planning",
-      "refactoring",
-      "repair",
-      "sdd"
+      "skills"
     ],
-    "created_at": "2026-09-06T21:28:21Z"
+    "created_at": "2026-09-08T05:07:25Z"
   },
   {
     "id": "gh-1360627135",
     "name": "arnsri33/embedflow",
     "description": "Zero downtime embedding upgrades",
     "url": "https://github.com/arnsri33/embedflow",
-    "stars": 49,
+    "stars": 51,
     "language": "Python",
     "topics": [
       "embedding",
@@ -211,6 +209,58 @@
       "vector-search"
     ],
     "created_at": "2026-09-07T20:10:13Z"
+  },
+  {
+    "id": "gh-1362066755",
+    "name": "saihhold-zhao/polox_ai",
+    "description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
+    "url": "https://github.com/saihhold-zhao/polox_ai",
+    "stars": 46,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "creative-tools",
+      "deeepseek-harness-plugins",
+      "deepseek",
+      "generative-ai",
+      "image-editing",
+      "image-generation",
+      "image-to-image-translation",
+      "image-to-video",
+      "infinite-canvas",
+      "multimodal",
+      "nuxt",
+      "openrouter",
+      "text-to-image",
+      "text-to-video",
+      "typescript",
+      "video-editing",
+      "video-generation",
+      "vue"
+    ],
+    "created_at": "2026-09-09T01:16:40Z"
+  },
+  {
+    "id": "gh-1366785599",
+    "name": "oguzhankayan/turkish-native",
+    "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+    "url": "https://github.com/oguzhankayan/turkish-native",
+    "stars": 43,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "chatgpt",
+      "claude",
+      "codex",
+      "copywriting",
+      "llm",
+      "localization",
+      "translation",
+      "translationese",
+      "turkish",
+      "writing"
+    ],
+    "created_at": "2026-09-11T23:47:40Z"
   },
   {
     "id": "gh-1363640102",
@@ -236,56 +286,11 @@
     "created_at": "2026-09-10T06:50:24Z"
   },
   {
-    "id": "gh-1359669885",
-    "name": "zlxxlz1026/awesome-gpt-6-astra-casebook",
-    "description": "\ud83d\udcda Awesome GPT-6 Astra: curated use cases, prompt examples & demos for coding, websites, UI design, 3D, video, automation and games. GPT-6 Astra \u5b9e\u6218\u6848\u4f8b\u4e0e\u63d0\u793a\u8bcd\u5408\u96c6\uff0c\u4e2d\u82f1\u53cc\u8bed\uff0c\u9644\u4f5c\u8005\u539f\u5e16\u4e0e\u521b\u4f5c\u6d41\u7a0b\u3002",
-    "url": "https://github.com/zlxxlz1026/awesome-gpt-6-astra-casebook",
-    "stars": 8,
-    "language": "Python",
-    "topics": [
-      "ai-coding",
-      "ai-prompts",
-      "awesome",
-      "awesome-list",
-      "computer-use",
-      "game-development",
-      "generative-ai",
-      "gpt-6",
-      "gpt-6-astra",
-      "llm",
-      "prompt-engineering",
-      "use-cases",
-      "web-development"
-    ],
-    "created_at": "2026-09-07T02:26:29Z"
-  },
-  {
-    "id": "gh-1361836913",
-    "name": "LaplaceYoung/awesome-gpt-image-2.5",
-    "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
-    "url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
-    "stars": 7,
-    "language": null,
-    "topics": [
-      "ai-art",
-      "chatgpt-images",
-      "computer-vision",
-      "generative-ai",
-      "gpt-image",
-      "gpt-image-2-5",
-      "image-generation",
-      "openai",
-      "prompt-engineering",
-      "prompt-library"
-    ],
-    "created_at": "2026-09-08T19:45:04Z"
-  },
-  {
     "id": "gh-1364180444",
     "name": "eduardzamfir/RTI",
     "description": "[arXiv 2026] Code for \"Elastic Token Compression for Pixel-Space Diffusion Transformers\"",
     "url": "https://github.com/eduardzamfir/RTI",
-    "stars": 7,
+    "stars": 13,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -300,34 +305,26 @@
     "created_at": "2026-09-10T13:09:53Z"
   },
   {
-    "id": "gh-1358680959",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "description": "164 GPT-6 Astra 3D examples: Blender, Houdini, Rhino, Three.js, Godot & CAD. 51 source projects, 62 demos, 80 full videos. AI 3D \u6848\u4f8b\u4e0e\u53ef\u7f16\u8f91\u5de5\u7a0b\u3002",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d",
-    "stars": 7,
-    "language": "TypeScript",
+    "id": "gh-1360344248",
+    "name": "AhmadJeddi/LLM-VLM-Guide",
+    "description": "A beginner-first guide to how language and multimodal models work \u2014 from language models and Transformers to LLMs, VLMs, audio, video, and modern model families.",
+    "url": "https://github.com/AhmadJeddi/LLM-VLM-Guide",
+    "stars": 8,
+    "language": null,
     "topics": [
-      "3d",
-      "3d-modeling",
-      "architectural-visualization",
-      "awesome-list",
-      "blender",
-      "cad",
-      "codex",
-      "game-development",
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
       "generative-ai",
-      "godot",
-      "gpt-6",
-      "gpt-6-astra",
-      "houdini",
-      "mujoco",
-      "openai",
-      "prompt-engineering",
-      "rhino",
-      "showcase",
-      "threejs",
-      "webgl"
+      "guide",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "multimodal-ai",
+      "natural-language-processing",
+      "vision-language-models",
+      "vlm"
     ],
-    "created_at": "2026-09-06T01:09:51Z"
+    "created_at": "2026-09-07T14:44:38Z"
   }
 ]
