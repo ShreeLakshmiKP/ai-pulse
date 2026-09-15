@@ -1,25 +1,10 @@
 [
   {
-    "id": "gh-1361525882",
-    "name": "Colafornia/short-video-generator-AI",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 730,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-generation",
-      "short-video",
-      "short-video-maker"
-    ],
-    "created_at": "2026-09-08T14:55:47Z"
-  },
-  {
     "id": "gh-1366546611",
     "name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 516,
+    "stars": 813,
     "language": "Python",
     "topics": [
       "ai",
@@ -34,7 +19,7 @@
     "name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 494,
+    "stars": 552,
     "language": "Go",
     "topics": [
       "agent-orchestration",
@@ -54,6 +39,23 @@
       "workspace-manager"
     ],
     "created_at": "2026-09-10T10:50:03Z"
+  },
+  {
+    "id": "gh-1367068508",
+    "name": "youngyangyang04/llm-master",
+    "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
+    "url": "https://github.com/youngyangyang04/llm-master",
+    "stars": 388,
+    "language": null,
+    "topics": [
+      "agent",
+      "large-language-models",
+      "llm",
+      "llm-learning",
+      "llm-tutorial",
+      "rag"
+    ],
+    "created_at": "2026-09-12T07:33:31Z"
   },
   {
     "id": "gh-1363388578",
@@ -81,7 +83,7 @@
     "name": "xiaYuTian11/maskit",
     "description": "\u6570\u636e\u9762\u5177 Data Maskit \u2014 \u4e13\u4e3a\u5927\u6a21\u578b\u6253\u9020\u7684\u672c\u5730\u9690\u79c1\u8131\u654f\u7f51\u5173\uff08\u8bf7\u6c42\u81ea\u52a8\u6253\u7801\uff0c\u56de\u590d\u6d41\u5f0f\u8fd8\u539f\uff1b\u652f\u6301 Cursor / Claude Code / Codex / Pi \u7b49\u4efb\u610f\u53ef\u914d Base URL \u5de5\u5177\uff09",
     "url": "https://github.com/xiaYuTian11/maskit",
-    "stars": 211,
+    "stars": 219,
     "language": "Python",
     "topics": [
       "anthropic",
@@ -100,25 +102,46 @@
     "created_at": "2026-09-09T12:36:06Z"
   },
   {
-    "id": "gh-1361444420",
-    "name": "Loopera-ai/loopera",
-    "description": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-    "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 152,
+    "id": "gh-1367193650",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "description": null,
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "stars": 212,
     "language": null,
     "topics": [
-      "ai",
-      "ai-agent",
-      "quant"
+      "llm",
+      "llm-agent"
     ],
-    "created_at": "2026-09-08T13:46:05Z"
+    "created_at": "2026-09-12T10:32:29Z"
+  },
+  {
+    "id": "gh-1363827742",
+    "name": "FankChen/tracecrate",
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "url": "https://github.com/FankChen/tracecrate",
+    "stars": 127,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "observability",
+      "opentelemetry",
+      "privacy",
+      "react",
+      "typescript"
+    ],
+    "created_at": "2026-09-10T09:27:41Z"
   },
   {
     "id": "gh-1366785599",
     "name": "oguzhankayan/turkish-native",
     "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
     "url": "https://github.com/oguzhankayan/turkish-native",
-    "stars": 72,
+    "stars": 78,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -136,46 +159,57 @@
     "created_at": "2026-09-11T23:47:40Z"
   },
   {
-    "id": "gh-1360946079",
-    "name": "tudoumashu/ai-memory-skillpack",
-    "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-    "url": "https://github.com/tudoumashu/ai-memory-skillpack",
-    "stars": 69,
-    "language": "Python",
+    "id": "gh-1368857095",
+    "name": "pliablepixels/gap-trap",
+    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+    "url": "https://github.com/pliablepixels/gap-trap",
+    "stars": 71,
+    "language": "JavaScript",
     "topics": [
-      "agent-memory",
+      "agent-skills",
+      "agentic-coding",
+      "agents-md",
+      "ai-agents",
+      "ai-coding",
+      "ci-cd",
       "claude-code",
+      "claude-skills",
+      "code-quality",
       "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "github-actions",
       "llm",
-      "skills"
+      "mutation-testing",
+      "quality-gates",
+      "tdd",
+      "testing",
+      "vibe-coding"
     ],
-    "created_at": "2026-09-08T05:07:25Z"
+    "created_at": "2026-09-13T20:29:08Z"
   },
   {
-    "id": "gh-1367954971",
-    "name": "ivyfan-toowell/IvyClaw",
-    "description": "A production-oriented multi-agent AI Agent system for software engineering.  |   \u9762\u5411\u8f6f\u4ef6\u7814\u53d1\u4efb\u52a1\u7684\u591a\u667a\u80fd\u4f53 AI Agent \u5de5\u7a0b\u7cfb\u7edf",
-    "url": "https://github.com/ivyfan-toowell/IvyClaw",
-    "stars": 56,
-    "language": "Python",
+    "id": "gh-1366971725",
+    "name": "Xu123-Bob/Baize",
+    "description": "\u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002  \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
+    "url": "https://github.com/Xu123-Bob/Baize",
+    "stars": 70,
+    "language": "JavaScript",
     "topics": [
+      "ai",
+      "ai-agent",
       "ai-agents",
-      "deepagents",
-      "deepagents-langgraph",
-      "llm",
-      "llm-agent",
-      "llm-agents",
-      "multi-agent",
-      "multi-agent-systems"
+      "ai-coding"
     ],
-    "created_at": "2026-09-13T03:14:36Z"
+    "created_at": "2026-09-12T05:17:38Z"
   },
   {
     "id": "gh-1362066755",
     "name": "saihhold-zhao/polox_ai",
     "description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
     "url": "https://github.com/saihhold-zhao/polox_ai",
-    "stars": 46,
+    "stars": 49,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -201,28 +235,11 @@
     "created_at": "2026-09-09T01:16:40Z"
   },
   {
-    "id": "gh-1367068508",
-    "name": "youngyangyang04/llm-master",
-    "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
-    "url": "https://github.com/youngyangyang04/llm-master",
-    "stars": 42,
-    "language": null,
-    "topics": [
-      "agent",
-      "large-language-models",
-      "llm",
-      "llm-learning",
-      "llm-tutorial",
-      "rag"
-    ],
-    "created_at": "2026-09-12T07:33:31Z"
-  },
-  {
     "id": "gh-1366162507",
     "name": "xieyulai/steer",
     "description": "STEER \u2014 AI4R (AI for Research) experiment framework for auto-research and autonomous research. Connect existing research projects and let an agent edit code and train under governance: frozen task, scorer, and evidence.",
     "url": "https://github.com/xieyulai/steer",
-    "stars": 21,
+    "stars": 25,
     "language": "Python",
     "topics": [
       "agents",
@@ -282,24 +299,34 @@
     "created_at": "2026-09-10T13:09:53Z"
   },
   {
-    "id": "gh-1361836913",
-    "name": "LaplaceYoung/awesome-gpt-image-2.5",
-    "description": "Curated prompts, official samples, templates, and model notes for ChatGPT Images 2.5 / GPT-Image-2.5 Flare & Sunburst",
-    "url": "https://github.com/LaplaceYoung/awesome-gpt-image-2.5",
+    "id": "gh-1368134140",
+    "name": "00200200/repro-lens",
+    "description": "Static reproducibility checks, experiment replay and before/after evidence for ML code and coding agents \u2014 no ML dependencies for scans.",
+    "url": "https://github.com/00200200/repro-lens",
     "stars": 8,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "ai-art",
-      "chatgpt-images",
-      "computer-vision",
-      "generative-ai",
-      "gpt-image",
-      "gpt-image-2-5",
-      "image-generation",
-      "openai",
-      "prompt-engineering",
-      "prompt-library"
+      "agent-skills",
+      "code-analysis",
+      "coding-agents",
+      "data-science",
+      "lightgbm",
+      "machine-learning",
+      "ml-testing",
+      "mlops",
+      "pre-commit",
+      "python",
+      "pytorch",
+      "pytorch-lightning",
+      "randomness",
+      "reproducibility",
+      "reproducible-ml",
+      "reproducible-research",
+      "scikit-learn",
+      "static-analysis",
+      "tensorflow",
+      "xgboost"
     ],
-    "created_at": "2026-09-08T19:45:04Z"
+    "created_at": "2026-09-13T07:02:59Z"
   }
 ]

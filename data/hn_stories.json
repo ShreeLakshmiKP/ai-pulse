@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49685253",
-    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "points": 390,
-    "comments": 214,
+    "id": "hn-49695409",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "points": 222,
+    "comments": 157,
     "source": "Hacker News",
-    "published_date": "2026-09-13T15:44:38Z"
+    "published_date": "2026-09-14T12:01:32Z"
   },
   {
-    "id": "hn-49684356",
-    "title": "CUDA for AMD on Windows",
-    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-    "points": 169,
-    "comments": 91,
+    "id": "hn-49706223",
+    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "points": 172,
+    "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-09-13T14:25:13Z"
+    "published_date": "2026-09-15T00:40:14Z"
   },
   {
-    "id": "hn-49690260",
-    "title": "Open-source AI and open models reading list",
-    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "id": "hn-49703003",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "points": 147,
+    "comments": 134,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T19:56:20Z"
+  },
+  {
+    "id": "hn-49697014",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "points": 133,
+    "comments": 71,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T13:59:09Z"
+  },
+  {
+    "id": "hn-49699648",
+    "title": "Why don't machine learning research agents overfit?",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "points": 130,
+    "comments": 71,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T16:32:23Z"
+  },
+  {
+    "id": "hn-49699384",
+    "title": "For AI leaders Doom is a form of hype",
+    "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+    "points": 129,
+    "comments": 176,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T16:15:05Z"
+  },
+  {
+    "id": "hn-49699493",
+    "title": "Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",
+    "url": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
+    "points": 127,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T16:23:41Z"
+  },
+  {
+    "id": "hn-49699373",
+    "title": "Claude is a Contrarian",
+    "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+    "points": 124,
+    "comments": 146,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T16:14:24Z"
+  },
+  {
+    "id": "hn-49697477",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "points": 121,
+    "comments": 27,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T14:29:23Z"
+  },
+  {
+    "id": "hn-49696402",
+    "title": "Show HN: Pelican-bicycle alternatives",
+    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "points": 121,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T13:20:22Z"
+  },
+  {
+    "id": "hn-49695408",
+    "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
+    "url": "https://github.com/callbacked/kinesis",
     "points": 116,
-    "comments": 23,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-09-14T00:22:51Z"
+    "published_date": "2026-09-14T12:01:31Z"
   },
   {
-    "id": "hn-49684266",
-    "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
-    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-    "points": 100,
-    "comments": 88,
+    "id": "hn-49697094",
+    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+    "url": "https://spectrum.ieee.org/adversarial-fashion",
+    "points": 102,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-09-13T14:15:40Z"
+    "published_date": "2026-09-14T14:04:53Z"
   },
   {
-    "id": "hn-49687869",
-    "title": "There Is No AI (It's Just People) with Jaron Lanier",
-    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-    "points": 76,
-    "comments": 94,
+    "id": "hn-49701182",
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "points": 102,
+    "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-09-13T19:41:06Z"
+    "published_date": "2026-09-14T18:03:12Z"
   },
   {
-    "id": "hn-49687334",
-    "title": "AI recursive self-improvement might not come so quickly after all",
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "points": 73,
-    "comments": 74,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T18:49:44Z"
-  },
-  {
-    "id": "hn-49689706",
-    "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-    "url": "https://openai.com/index/better-language-models/",
-    "points": 72,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T23:11:17Z"
-  },
-  {
-    "id": "hn-49685037",
-    "title": "Libraries Run Rust Inside Python (With PyO3)",
-    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "points": 65,
-    "comments": 36,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T15:24:05Z"
-  },
-  {
-    "id": "hn-49690943",
-    "title": "Show HN: Is It Greg?",
-    "url": "https://github.com/antoineleclair/is-it-greg",
-    "points": 57,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T01:58:41Z"
-  },
-  {
-    "id": "hn-49684778",
-    "title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
-    "url": "https://cpak.it/",
-    "points": 51,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T15:02:56Z"
-  },
-  {
-    "id": "hn-49683834",
-    "title": "AI models don't kill people \u2013 people kill people",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
-    "points": 50,
-    "comments": 69,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T13:33:34Z"
-  },
-  {
-    "id": "hn-49692118",
-    "title": "Who gets to define the rules for AI?",
-    "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-    "points": 42,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T04:49:51Z"
-  },
-  {
-    "id": "hn-49683265",
-    "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
-    "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-    "points": 42,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-09-13T12:30:28Z"
-  },
-  {
-    "id": "hn-49690411",
-    "title": "AI Robots \u2013 When will they be in our homes",
-    "url": "https://spectrum.ieee.org/ai-robots",
-    "points": 38,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T00:44:23Z"
-  },
-  {
-    "id": "hn-49690529",
-    "title": "AI is not a normal technology",
-    "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
-    "points": 37,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T01:00:09Z"
-  },
-  {
-    "id": "hn-49692344",
-    "title": "Airbnb Preventing the Use of BnB",
-    "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
-    "points": 33,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T05:25:37Z"
-  },
-  {
-    "id": "hn-49690139",
-    "title": "\u201cChilling\u201d warning or overreaction? AI bioweapons report divides experts",
-    "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-    "points": 32,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T00:07:09Z"
-  },
-  {
-    "id": "hn-49693384",
-    "title": "OpenArch \u2013 PyTorch implementations of modern LLM architectures",
-    "url": "https://github.com/anuj0456/OpenArch",
-    "points": 28,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-09-14T07:55:19Z"
-  },
-  {
-    "id": "hn-49682920",
-    "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
-    "url": "https://news.ycombinator.com/item?id=49682920",
-    "points": 28,
+    "id": "hn-49699267",
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "points": 81,
     "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-09-13T11:47:23Z"
+    "published_date": "2026-09-14T16:07:58Z"
   },
   {
-    "id": "hn-49688761",
-    "title": "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
-    "url": "https://news.ycombinator.com/item?id=49688761",
-    "points": 26,
-    "comments": 20,
+    "id": "hn-49696867",
+    "title": "The AI job market in 2026",
+    "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+    "points": 65,
+    "comments": 71,
     "source": "Hacker News",
-    "published_date": "2026-09-13T21:13:13Z"
+    "published_date": "2026-09-14T13:49:57Z"
+  },
+  {
+    "id": "hn-49698664",
+    "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
+    "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+    "points": 55,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T15:30:56Z"
+  },
+  {
+    "id": "hn-49699590",
+    "title": "When LLM judges agree, should we believe them?",
+    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+    "points": 52,
+    "comments": 43,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T16:29:30Z"
+  },
+  {
+    "id": "hn-49702779",
+    "title": "NEO Emacs \u2013 GPU-Accelerated Emacs Powered by Rust",
+    "url": "https://neomacs.org/",
+    "points": 49,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T19:42:22Z"
+  },
+  {
+    "id": "hn-49706656",
+    "title": "Show HN: Sunk Cost \u2013 How long until a local LLM rig pays for itself?",
+    "url": "https://sunkcost.ai/",
+    "points": 44,
+    "comments": 84,
+    "source": "Hacker News",
+    "published_date": "2026-09-15T01:37:43Z"
+  },
+  {
+    "id": "hn-49697965",
+    "title": "One Gets Through \u2013 Missile Command, but you launch the missiles",
+    "url": "https://onegetsthrough.com/",
+    "points": 43,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-09-14T14:53:55Z"
   }
 ]
