@@ -2191,6 +2191,23 @@
     "image": null
   },
   {
+    "id": "rss-6a5d552d",
+    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "tags": [
+      "regulation",
+      "safety",
+      "NVIDIA"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 16 Sep 2026 00:20:39 +0000",
+    "image": null
+  },
+  {
     "id": "rss-86fc4744",
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -4319,22 +4336,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Wed, 02 Sep 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-21f8b896",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/atv-big-air-tour",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 02 Sep 2026 12:00:00 GMT",
     "image": null
   }
 ]

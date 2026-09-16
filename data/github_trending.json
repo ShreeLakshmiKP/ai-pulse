@@ -4,7 +4,7 @@
     "name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 813,
+    "stars": 824,
     "language": "Python",
     "topics": [
       "ai",
@@ -19,7 +19,7 @@
     "name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 552,
+    "stars": 687,
     "language": "Go",
     "topics": [
       "agent-orchestration",
@@ -45,7 +45,7 @@
     "name": "youngyangyang04/llm-master",
     "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
     "url": "https://github.com/youngyangyang04/llm-master",
-    "stars": 388,
+    "stars": 541,
     "language": null,
     "topics": [
       "agent",
@@ -56,6 +56,19 @@
       "rag"
     ],
     "created_at": "2026-09-12T07:33:31Z"
+  },
+  {
+    "id": "gh-1367193650",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "description": null,
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "stars": 386,
+    "language": null,
+    "topics": [
+      "llm",
+      "llm-agent"
+    ],
+    "created_at": "2026-09-12T10:32:29Z"
   },
   {
     "id": "gh-1363388578",
@@ -79,91 +92,11 @@
     "created_at": "2026-09-10T01:25:00Z"
   },
   {
-    "id": "gh-1362658862",
-    "name": "xiaYuTian11/maskit",
-    "description": "\u6570\u636e\u9762\u5177 Data Maskit \u2014 \u4e13\u4e3a\u5927\u6a21\u578b\u6253\u9020\u7684\u672c\u5730\u9690\u79c1\u8131\u654f\u7f51\u5173\uff08\u8bf7\u6c42\u81ea\u52a8\u6253\u7801\uff0c\u56de\u590d\u6d41\u5f0f\u8fd8\u539f\uff1b\u652f\u6301 Cursor / Claude Code / Codex / Pi \u7b49\u4efb\u610f\u53ef\u914d Base URL \u5de5\u5177\uff09",
-    "url": "https://github.com/xiaYuTian11/maskit",
-    "stars": 219,
-    "language": "Python",
-    "topics": [
-      "anthropic",
-      "claude-code",
-      "cursor",
-      "data-masking",
-      "llm",
-      "mitmproxy",
-      "openai",
-      "pii",
-      "privacy",
-      "proxy",
-      "security",
-      "tauri"
-    ],
-    "created_at": "2026-09-09T12:36:06Z"
-  },
-  {
-    "id": "gh-1367193650",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "description": null,
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-    "stars": 212,
-    "language": null,
-    "topics": [
-      "llm",
-      "llm-agent"
-    ],
-    "created_at": "2026-09-12T10:32:29Z"
-  },
-  {
-    "id": "gh-1363827742",
-    "name": "FankChen/tracecrate",
-    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-    "url": "https://github.com/FankChen/tracecrate",
-    "stars": 127,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "local-first",
-      "observability",
-      "opentelemetry",
-      "privacy",
-      "react",
-      "typescript"
-    ],
-    "created_at": "2026-09-10T09:27:41Z"
-  },
-  {
-    "id": "gh-1366785599",
-    "name": "oguzhankayan/turkish-native",
-    "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
-    "url": "https://github.com/oguzhankayan/turkish-native",
-    "stars": 78,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "chatgpt",
-      "claude",
-      "codex",
-      "copywriting",
-      "llm",
-      "localization",
-      "translation",
-      "translationese",
-      "turkish",
-      "writing"
-    ],
-    "created_at": "2026-09-11T23:47:40Z"
-  },
-  {
     "id": "gh-1368857095",
     "name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 71,
+    "stars": 153,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -190,6 +123,90 @@
     "created_at": "2026-09-13T20:29:08Z"
   },
   {
+    "id": "gh-1363827742",
+    "name": "FankChen/tracecrate",
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "url": "https://github.com/FankChen/tracecrate",
+    "stars": 131,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "observability",
+      "opentelemetry",
+      "privacy",
+      "react",
+      "typescript"
+    ],
+    "created_at": "2026-09-10T09:27:41Z"
+  },
+  {
+    "id": "gh-1366811090",
+    "name": "DataFabric-Academy/ms-fabric-data-science",
+    "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
+    "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
+    "stars": 96,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "churn-prediction",
+      "data-science",
+      "machine-learning",
+      "medallion-architecture",
+      "microsoft-fabric",
+      "microsoft-learn",
+      "mlflow",
+      "pyspark"
+    ],
+    "created_at": "2026-09-12T00:38:16Z"
+  },
+  {
+    "id": "gh-1366785599",
+    "name": "oguzhankayan/turkish-native",
+    "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+    "url": "https://github.com/oguzhankayan/turkish-native",
+    "stars": 82,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "chatgpt",
+      "claude",
+      "codex",
+      "copywriting",
+      "llm",
+      "localization",
+      "translation",
+      "translationese",
+      "turkish",
+      "writing"
+    ],
+    "created_at": "2026-09-11T23:47:40Z"
+  },
+  {
+    "id": "gh-1366280840",
+    "name": "modelscope/ms-cookbook",
+    "description": "\u9b54\u642d\u7d2b\u76ae\u4e66\uff5cModelScope Cookbook\uff1a\u9762\u5411\u5f00\u53d1\u8005\u7684\u5f00\u6e90\u6a21\u578b\u5e94\u7528\u5b9e\u6218\u6307\u5357\uff0c\u8986\u76d6\u6a21\u578b\u9009\u578b\u3001\u63a8\u7406\u3001\u5fae\u8c03\u3001\u8bc4\u6d4b\u3001RAG\u3001Agent \u4e0e AIGC\uff0c\u4ece\u8dd1\u901a\u7b2c\u4e00\u4e2a\u6a21\u578b\u5230\u6784\u5efa\u5b9e\u9645\u5e94\u7528\u3002",
+    "url": "https://github.com/modelscope/ms-cookbook",
+    "stars": 77,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "cookbook",
+      "diffusion-models",
+      "fine-tuning",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-evaluation",
+      "modelscope",
+      "rag"
+    ],
+    "created_at": "2026-09-11T14:27:35Z"
+  },
+  {
     "id": "gh-1366971725",
     "name": "Xu123-Bob/Baize",
     "description": "\u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002  \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
@@ -203,36 +220,6 @@
       "ai-coding"
     ],
     "created_at": "2026-09-12T05:17:38Z"
-  },
-  {
-    "id": "gh-1362066755",
-    "name": "saihhold-zhao/polox_ai",
-    "description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
-    "url": "https://github.com/saihhold-zhao/polox_ai",
-    "stars": 49,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "creative-tools",
-      "deeepseek-harness-plugins",
-      "deepseek",
-      "generative-ai",
-      "image-editing",
-      "image-generation",
-      "image-to-image-translation",
-      "image-to-video",
-      "infinite-canvas",
-      "multimodal",
-      "nuxt",
-      "openrouter",
-      "text-to-image",
-      "text-to-video",
-      "typescript",
-      "video-editing",
-      "video-generation",
-      "vue"
-    ],
-    "created_at": "2026-09-09T01:16:40Z"
   },
   {
     "id": "gh-1366162507",
@@ -303,7 +290,7 @@
     "name": "00200200/repro-lens",
     "description": "Static reproducibility checks, experiment replay and before/after evidence for ML code and coding agents \u2014 no ML dependencies for scans.",
     "url": "https://github.com/00200200/repro-lens",
-    "stars": 8,
+    "stars": 9,
     "language": "Python",
     "topics": [
       "agent-skills",
