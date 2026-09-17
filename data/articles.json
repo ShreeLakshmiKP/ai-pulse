@@ -2191,6 +2191,158 @@
     "image": null
   },
   {
+    "id": "rss-546ee7cd",
+    "title": "Al Gore says the real AI risk isn\u2019t data centers",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 16 Sep 2026 23:43:09 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a4f0cae5",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "tags": [
+      "regulation",
+      "safety",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1be7a085",
+    "title": "Our framework for reporting model misalignment",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "tags": [
+      "alignment",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-2c7667f6",
+    "title": "Helping older adults use AI in everyday life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-bb25cc83",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 16 Sep 2026 15:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d2e2a131",
+    "title": "Reimagining advertising with AI",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c81fa26a",
+    "title": "Building the materials foundation for AI",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 16 Sep 2026 12:47:34 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-49e7531b",
+    "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 16 Sep 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-ddf43229",
+    "title": "How to connect AI usage to business value",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-f8009176",
+    "title": "How workers are unlocking new ways of working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-6a5d552d",
     "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
@@ -4196,146 +4348,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 02 Sep 2026 23:01:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ef03c3a5",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 02 Sep 2026 22:44:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7ae55826",
-    "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "summary": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "tags": [
-      "robotics",
-      "NVIDIA"
-    ],
-    "category": "Robotics",
-    "published_date": "Wed, 02 Sep 2026 22:24:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-373be540",
-    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-    "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "tags": [
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Wed, 02 Sep 2026 20:19:14 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b567a13a",
-    "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
-    "summary": "The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 02 Sep 2026 17:18:13 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-e2a8d267",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 02 Sep 2026 16:24:24 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-43c527ed",
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "tags": [
-      "Gemini"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9fef7b06",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "summary": "Introducing Fairwind Program",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 02 Sep 2026 15:40:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c0e30f01",
-    "title": "Facilitating AI integration with simplicity at scale",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 02 Sep 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d23fc469",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 02 Sep 2026 13:49:14 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-fdfd47cb",
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 02 Sep 2026 12:10:00 +0000",
     "image": null
   }
 ]

@@ -4,7 +4,7 @@
     "name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 824,
+    "stars": 829,
     "language": "Python",
     "topics": [
       "ai",
@@ -15,37 +15,11 @@
     "created_at": "2026-09-11T18:12:58Z"
   },
   {
-    "id": "gh-1363950922",
-    "name": "unstablebuild/rune",
-    "description": "the development environment for pros",
-    "url": "https://github.com/unstablebuild/rune",
-    "stars": 687,
-    "language": "Go",
-    "topics": [
-      "agent-orchestration",
-      "ai",
-      "cli",
-      "coding-agents",
-      "developer-tool",
-      "devtools",
-      "go",
-      "golang",
-      "ide",
-      "rune",
-      "terminal-multiplexer",
-      "text-editor",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ],
-    "created_at": "2026-09-10T10:50:03Z"
-  },
-  {
     "id": "gh-1367068508",
     "name": "youngyangyang04/llm-master",
     "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
     "url": "https://github.com/youngyangyang04/llm-master",
-    "stars": 541,
+    "stars": 669,
     "language": null,
     "topics": [
       "agent",
@@ -62,7 +36,7 @@
     "name": "atria-asi/Atria-Dawn-Preview",
     "description": null,
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-    "stars": 386,
+    "stars": 429,
     "language": null,
     "topics": [
       "llm",
@@ -71,33 +45,33 @@
     "created_at": "2026-09-12T10:32:29Z"
   },
   {
-    "id": "gh-1363388578",
-    "name": "yudaprasetya007/routeVSCODE",
-    "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-    "url": "https://github.com/yudaprasetya007/routeVSCODE",
-    "stars": 239,
-    "language": "JavaScript",
+    "id": "gh-1366280840",
+    "name": "modelscope/ms-cookbook",
+    "description": "\u9b54\u642d\u7d2b\u76ae\u4e66\uff5cModelScope Cookbook\uff1a\u9762\u5411\u5f00\u53d1\u8005\u7684\u5f00\u6e90\u6a21\u578b\u5e94\u7528\u5b9e\u6218\u6307\u5357\uff0c\u8986\u76d6\u6a21\u578b\u9009\u578b\u3001\u63a8\u7406\u3001\u5fae\u8c03\u3001\u8bc4\u6d4b\u3001RAG\u3001Agent \u4e0e AIGC\uff0c\u4ece\u8dd1\u901a\u7b2c\u4e00\u4e2a\u6a21\u578b\u5230\u6784\u5efa\u5b9e\u9645\u5e94\u7528\u3002",
+    "url": "https://github.com/modelscope/ms-cookbook",
+    "stars": 247,
+    "language": "HTML",
     "topics": [
-      "9router",
-      "ai",
-      "chatgpt",
-      "claude",
-      "copilot",
-      "deepseek",
-      "local-proxy",
-      "model-switcher",
-      "vscode",
-      "vscode-extension"
+      "ai-agents",
+      "cookbook",
+      "diffusion-models",
+      "fine-tuning",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-evaluation",
+      "modelscope",
+      "rag"
     ],
-    "created_at": "2026-09-10T01:25:00Z"
+    "created_at": "2026-09-11T14:27:35Z"
   },
   {
     "id": "gh-1368857095",
     "name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 153,
-    "language": "JavaScript",
+    "stars": 161,
+    "language": "Shell",
     "topics": [
       "agent-skills",
       "agentic-coding",
@@ -123,28 +97,6 @@
     "created_at": "2026-09-13T20:29:08Z"
   },
   {
-    "id": "gh-1363827742",
-    "name": "FankChen/tracecrate",
-    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-    "url": "https://github.com/FankChen/tracecrate",
-    "stars": 131,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "local-first",
-      "observability",
-      "opentelemetry",
-      "privacy",
-      "react",
-      "typescript"
-    ],
-    "created_at": "2026-09-10T09:27:41Z"
-  },
-  {
     "id": "gh-1366811090",
     "name": "DataFabric-Academy/ms-fabric-data-science",
     "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
@@ -168,7 +120,7 @@
     "name": "oguzhankayan/turkish-native",
     "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
     "url": "https://github.com/oguzhankayan/turkish-native",
-    "stars": 82,
+    "stars": 84,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -186,32 +138,11 @@
     "created_at": "2026-09-11T23:47:40Z"
   },
   {
-    "id": "gh-1366280840",
-    "name": "modelscope/ms-cookbook",
-    "description": "\u9b54\u642d\u7d2b\u76ae\u4e66\uff5cModelScope Cookbook\uff1a\u9762\u5411\u5f00\u53d1\u8005\u7684\u5f00\u6e90\u6a21\u578b\u5e94\u7528\u5b9e\u6218\u6307\u5357\uff0c\u8986\u76d6\u6a21\u578b\u9009\u578b\u3001\u63a8\u7406\u3001\u5fae\u8c03\u3001\u8bc4\u6d4b\u3001RAG\u3001Agent \u4e0e AIGC\uff0c\u4ece\u8dd1\u901a\u7b2c\u4e00\u4e2a\u6a21\u578b\u5230\u6784\u5efa\u5b9e\u9645\u5e94\u7528\u3002",
-    "url": "https://github.com/modelscope/ms-cookbook",
-    "stars": 77,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "cookbook",
-      "diffusion-models",
-      "fine-tuning",
-      "generative-ai",
-      "llm",
-      "mcp",
-      "model-evaluation",
-      "modelscope",
-      "rag"
-    ],
-    "created_at": "2026-09-11T14:27:35Z"
-  },
-  {
     "id": "gh-1366971725",
     "name": "Xu123-Bob/Baize",
     "description": "\u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002  \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
     "url": "https://github.com/Xu123-Bob/Baize",
-    "stars": 70,
+    "stars": 71,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -220,6 +151,68 @@
       "ai-coding"
     ],
     "created_at": "2026-09-12T05:17:38Z"
+  },
+  {
+    "id": "gh-1373665161",
+    "name": "devagrawal09/jev-review",
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "stars": 49,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "code-review",
+      "jev",
+      "typesafe-ai",
+      "typescript"
+    ],
+    "created_at": "2026-09-16T21:45:36Z"
+  },
+  {
+    "id": "gh-1370212922",
+    "name": "ARahim3/cachebeat",
+    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+    "url": "https://github.com/ARahim3/cachebeat",
+    "stars": 36,
+    "language": null,
+    "topics": [
+      "ai",
+      "anthropic",
+      "caching",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "cli",
+      "cost-optimization",
+      "developer-tools",
+      "llm",
+      "llm-tools",
+      "productivity",
+      "prompt-caching",
+      "token-optimization"
+    ],
+    "created_at": "2026-09-14T16:22:40Z"
+  },
+  {
+    "id": "gh-1369766052",
+    "name": "agentscope-java/agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/agentscope-java/agentscope-java",
+    "stars": 32,
+    "language": "Java",
+    "topics": [
+      "adk",
+      "agent",
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agentscope",
+      "ai",
+      "harness",
+      "llm"
+    ],
+    "created_at": "2026-09-14T10:55:50Z"
   },
   {
     "id": "gh-1366162507",
@@ -244,76 +237,66 @@
     "created_at": "2026-09-11T13:24:04Z"
   },
   {
-    "id": "gh-1363640102",
-    "name": "FjgarciaMac/WhisperDeck",
-    "description": "On-device audio transcription toolkit - trim, tag, transcribe and export recordings locally, with a Python engine and an Android demo app.",
-    "url": "https://github.com/FjgarciaMac/WhisperDeck",
-    "stars": 18,
-    "language": "Python",
+    "id": "gh-1374058281",
+    "name": "AbdelStark/awesome-typesafe",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stars": 15,
+    "language": "CSS",
     "topics": [
-      "android",
-      "audio",
-      "cli",
-      "developer-tools",
-      "local-first",
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
       "machine-learning",
-      "offline",
-      "privacy",
-      "python",
-      "speech-to-text",
-      "transcription",
-      "whisper"
+      "structured-output",
+      "system-one-models",
+      "typesafe"
     ],
-    "created_at": "2026-09-10T06:50:24Z"
+    "created_at": "2026-09-17T06:56:37Z"
   },
   {
-    "id": "gh-1364180444",
-    "name": "eduardzamfir/RTI",
-    "description": "[arXiv 2026] Code for \"Elastic Token Compression for Pixel-Space Diffusion Transformers\"",
-    "url": "https://github.com/eduardzamfir/RTI",
-    "stars": 14,
+    "id": "gh-1372071122",
+    "name": "iamarxs/AnyWorld",
+    "description": "A multiplayer browser game implemented with Python, where an AI acts as the dungeon master and players type out their actions in their own words!",
+    "url": "https://github.com/iamarxs/AnyWorld",
+    "stars": 12,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "diffusion-models",
-      "efficiency",
+      "ai-dungeon",
+      "ai-game",
+      "ai-rpg",
+      "browser-game",
+      "collaborative",
+      "cooperative-game",
+      "dungeon-master",
+      "fastapi",
       "generative-ai",
-      "jit",
-      "minit2i",
-      "pixel-space",
-      "transformers"
+      "interactive-fiction",
+      "llm",
+      "local-ai",
+      "multiplayer",
+      "openai-compatible",
+      "python",
+      "rpg",
+      "self-hosted",
+      "text-adventure",
+      "websocket"
     ],
-    "created_at": "2026-09-10T13:09:53Z"
+    "created_at": "2026-09-15T20:20:52Z"
   },
   {
-    "id": "gh-1368134140",
-    "name": "00200200/repro-lens",
-    "description": "Static reproducibility checks, experiment replay and before/after evidence for ML code and coding agents \u2014 no ML dependencies for scans.",
-    "url": "https://github.com/00200200/repro-lens",
+    "id": "gh-1371462067",
+    "name": "AI4Science-WestlakeU/group-meeting-materials",
+    "description": "Group meeting materials for Tailin Wu's lab",
+    "url": "https://github.com/AI4Science-WestlakeU/group-meeting-materials",
     "stars": 9,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "agent-skills",
-      "code-analysis",
-      "coding-agents",
-      "data-science",
-      "lightgbm",
-      "machine-learning",
-      "ml-testing",
-      "mlops",
-      "pre-commit",
-      "python",
-      "pytorch",
-      "pytorch-lightning",
-      "randomness",
-      "reproducibility",
-      "reproducible-ml",
-      "reproducible-research",
-      "scikit-learn",
-      "static-analysis",
-      "tensorflow",
-      "xgboost"
+      "generative-model",
+      "group-meeting",
+      "machine-learning"
     ],
-    "created_at": "2026-09-13T07:02:59Z"
+    "created_at": "2026-09-15T12:49:13Z"
   }
 ]
