@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49724881",
-    "title": "Nvidia announces native GPU programming in Rust",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "points": 705,
-    "comments": 284,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T11:15:53Z"
-  },
-  {
-    "id": "hn-49726586",
-    "title": "Hackers Got Inside a Flock Camera",
-    "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "points": 528,
-    "comments": 241,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T13:18:47Z"
-  },
-  {
-    "id": "hn-49727627",
-    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-    "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-    "points": 317,
-    "comments": 217,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T14:30:36Z"
-  },
-  {
-    "id": "hn-49729412",
-    "title": "Claude Cowork and chat are now one Claude",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "points": 221,
+    "id": "hn-49746163",
+    "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "points": 471,
     "comments": 221,
     "source": "Hacker News",
-    "published_date": "2026-09-16T16:26:25Z"
+    "published_date": "2026-09-17T20:36:13Z"
   },
   {
-    "id": "hn-49732931",
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "url": "https://arxiv.org/abs/2609.16338",
-    "points": 209,
-    "comments": 33,
+    "id": "hn-49738879",
+    "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+    "url": "https://news.ycombinator.com/item?id=49738879",
+    "points": 305,
+    "comments": 244,
     "source": "Hacker News",
-    "published_date": "2026-09-16T20:59:24Z"
+    "published_date": "2026-09-17T10:44:49Z"
   },
   {
-    "id": "hn-49734264",
-    "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "url": "https://openspec.dev/",
-    "points": 139,
-    "comments": 63,
+    "id": "hn-49740834",
+    "title": "I Don't Like LLMs",
+    "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "points": 216,
+    "comments": 254,
     "source": "Hacker News",
-    "published_date": "2026-09-16T23:06:39Z"
+    "published_date": "2026-09-17T13:57:07Z"
   },
   {
-    "id": "hn-49732036",
-    "title": "macOS 27 Golden Gate \u2013 Review",
-    "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-    "points": 119,
-    "comments": 144,
+    "id": "hn-49740105",
+    "title": "Show HN: Share your AI Setup, Learn from others",
+    "url": "https://mysetup.ai/",
+    "points": 215,
+    "comments": 121,
     "source": "Hacker News",
-    "published_date": "2026-09-16T19:53:36Z"
+    "published_date": "2026-09-17T13:01:44Z"
   },
   {
-    "id": "hn-49735410",
-    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-    "points": 115,
-    "comments": 8,
+    "id": "hn-49746654",
+    "title": "Sex, AI, and the Apocalypse",
+    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "points": 210,
+    "comments": 207,
     "source": "Hacker News",
-    "published_date": "2026-09-17T01:39:47Z"
+    "published_date": "2026-09-17T21:15:52Z"
   },
   {
-    "id": "hn-49737985",
-    "title": "AI Safety Is Mostly a Sex Cult",
-    "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-    "points": 114,
-    "comments": 59,
+    "id": "hn-49747070",
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "points": 172,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-09-17T08:36:37Z"
+    "published_date": "2026-09-17T21:48:38Z"
   },
   {
-    "id": "hn-49730302",
-    "title": "GitHub is having trouble counting things",
-    "url": "https://chuckgreenman.com/2026/09/16/counting-at-github",
-    "points": 76,
-    "comments": 57,
+    "id": "hn-49742353",
+    "title": "Rate limits on GitLab.com are changing",
+    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+    "points": 166,
+    "comments": 118,
     "source": "Hacker News",
-    "published_date": "2026-09-16T17:31:19Z"
+    "published_date": "2026-09-17T15:33:54Z"
   },
   {
-    "id": "hn-49731395",
-    "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-    "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-    "points": 74,
-    "comments": 279,
+    "id": "hn-49743483",
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+    "url": "https://arxiv.org/abs/2609.18842",
+    "points": 147,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-09-16T18:59:42Z"
+    "published_date": "2026-09-17T16:55:14Z"
   },
   {
-    "id": "hn-49726343",
-    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "url": "https://stale.jock.pl/",
-    "points": 74,
-    "comments": 44,
+    "id": "hn-49742976",
+    "title": "Ask HN: How to recover Google auth after phone stolen?",
+    "url": "https://news.ycombinator.com/item?id=49742976",
+    "points": 104,
+    "comments": 107,
     "source": "Hacker News",
-    "published_date": "2026-09-16T13:01:52Z"
+    "published_date": "2026-09-17T16:17:28Z"
   },
   {
-    "id": "hn-49737922",
-    "title": "GLM Built Its Own Inference Infrastructure",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "points": 47,
+    "id": "hn-49742437",
+    "title": "LLM Classification Is Feature Engineering",
+    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+    "points": 102,
     "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-09-17T08:27:09Z"
+    "published_date": "2026-09-17T15:40:17Z"
   },
   {
-    "id": "hn-49727661",
-    "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-    "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+    "id": "hn-49740047",
+    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+    "url": "https://flat.social",
+    "points": 95,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T12:57:09Z"
+  },
+  {
+    "id": "hn-49740330",
+    "title": "I had Gemini train its own replacement for $9",
+    "url": "https://www.petervijeh.com/projects/reddit-ner",
+    "points": 87,
+    "comments": 43,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T13:17:16Z"
+  },
+  {
+    "id": "hn-49743049",
+    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
+    "url": "https://news.ycombinator.com/item?id=49743049",
+    "points": 56,
+    "comments": 53,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T16:22:15Z"
+  },
+  {
+    "id": "hn-49742233",
+    "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+    "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
     "points": 40,
+    "comments": 88,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T15:26:23Z"
+  },
+  {
+    "id": "hn-49743382",
+    "title": "Show HN: Aclif \u2013 Agent CLI framework: one grammar, canonical names across SaaS",
+    "url": "https://www.aclif.ai/",
+    "points": 32,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T16:48:17Z"
+  },
+  {
+    "id": "hn-49752056",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "points": 24,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-09-18T09:45:07Z"
+  },
+  {
+    "id": "hn-49748387",
+    "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "points": 22,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-09-17T23:49:35Z"
+  },
+  {
+    "id": "hn-49748529",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "points": 21,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-09-18T00:07:08Z"
+  },
+  {
+    "id": "hn-49743478",
+    "title": "Show HN: AutoBot \u2013 live voice control for long-running AI work",
+    "url": "https://github.com/demeyer1/Autobot",
+    "points": 18,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-09-16T14:32:15Z"
+    "published_date": "2026-09-17T16:54:57Z"
   },
   {
-    "id": "hn-49726329",
-    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-    "url": "https://github.com/officefloor/ImpactGate",
-    "points": 36,
-    "comments": 48,
+    "id": "hn-49749357",
+    "title": "AWS now supports spend limits",
+    "url": "https://docs.aws.amazon.com/accounts/latest/reference/create-spend-limit.html",
+    "points": 17,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-09-16T13:01:09Z"
-  },
-  {
-    "id": "hn-49731216",
-    "title": "Tell HN: An inside view of Montana's new biotech law",
-    "url": "https://news.ycombinator.com/item?id=49731216",
-    "points": 34,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T18:43:57Z"
-  },
-  {
-    "id": "hn-49729307",
-    "title": "Backflip: Apple now wants to train AI models with user data after all",
-    "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
-    "points": 31,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T16:18:39Z"
-  },
-  {
-    "id": "hn-49734970",
-    "title": "OpenAI discloses six new AI safety incidents",
-    "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-    "points": 30,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-09-17T00:33:03Z"
-  },
-  {
-    "id": "hn-49727511",
-    "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-    "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-    "points": 29,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T14:24:05Z"
-  },
-  {
-    "id": "hn-49729849",
-    "title": "Ask HN: AI Panic, you buying it?",
-    "url": "https://news.ycombinator.com/item?id=49729849",
-    "points": 28,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-09-16T17:00:49Z"
+    "published_date": "2026-09-18T01:59:16Z"
   }
 ]
