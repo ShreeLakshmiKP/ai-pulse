@@ -1,40 +1,10 @@
 [
   {
-    "id": "gh-1367068508",
-    "name": "youngyangyang04/llm-master",
-    "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
-    "url": "https://github.com/youngyangyang04/llm-master",
-    "stars": 750,
-    "language": null,
-    "topics": [
-      "agent",
-      "large-language-models",
-      "llm",
-      "llm-learning",
-      "llm-tutorial",
-      "rag"
-    ],
-    "created_at": "2026-09-12T07:33:31Z"
-  },
-  {
-    "id": "gh-1367193650",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "description": null,
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-    "stars": 479,
-    "language": null,
-    "topics": [
-      "llm",
-      "llm-agent"
-    ],
-    "created_at": "2026-09-12T10:32:29Z"
-  },
-  {
     "id": "gh-1373665161",
     "name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 212,
+    "stars": 294,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -46,11 +16,45 @@
     "created_at": "2026-09-16T21:45:36Z"
   },
   {
+    "id": "gh-1374058281",
+    "name": "AbdelStark/awesome-typesafe",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stars": 276,
+    "language": "CSS",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
+      "machine-learning",
+      "structured-output",
+      "system-one-models",
+      "typesafe"
+    ],
+    "created_at": "2026-09-17T06:56:37Z"
+  },
+  {
+    "id": "gh-1374561793",
+    "name": "yibie/awesome-jev",
+    "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+    "url": "https://github.com/yibie/awesome-jev",
+    "stars": 245,
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "jev",
+      "llm"
+    ],
+    "created_at": "2026-09-17T14:23:21Z"
+  },
+  {
     "id": "gh-1368857095",
     "name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 168,
+    "stars": 171,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -77,81 +81,138 @@
     "created_at": "2026-09-13T20:29:08Z"
   },
   {
-    "id": "gh-1374058281",
-    "name": "AbdelStark/awesome-typesafe",
-    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-    "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 139,
-    "language": "CSS",
-    "topics": [
-      "ai-agents",
-      "awesome-list",
-      "jev",
-      "llm",
-      "machine-learning",
-      "structured-output",
-      "system-one-models",
-      "typesafe"
-    ],
-    "created_at": "2026-09-17T06:56:37Z"
-  },
-  {
-    "id": "gh-1371263996",
-    "name": "kiyoakii/is-gpt-nerfed",
-    "description": "Shrinkflation detector for Codex",
-    "url": "https://github.com/kiyoakii/is-gpt-nerfed",
-    "stars": 118,
+    "id": "gh-1370752473",
+    "name": "ruc-datalab/EvoOntology",
+    "description": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents \u2699\ufe0f EvoOntology\u63d2\u4ef6\u4e3aClaude Code/Codex \u5efa\u7acb&\u8fdb\u5316\u672c\u4f53\u5c42",
+    "url": "https://github.com/ruc-datalab/EvoOntology",
+    "stars": 170,
     "language": "Python",
     "topics": [
+      "agent",
+      "agentic-ai",
+      "claude-code",
       "codex",
-      "degradation",
-      "gpt",
-      "llm",
-      "nerf",
-      "openai"
-    ],
-    "created_at": "2026-09-15T10:22:16Z"
-  },
-  {
-    "id": "gh-1366811090",
-    "name": "DataFabric-Academy/ms-fabric-data-science",
-    "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
-    "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
-    "stars": 96,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "churn-prediction",
+      "data-analysis",
       "data-science",
-      "machine-learning",
-      "medallion-architecture",
-      "microsoft-fabric",
-      "microsoft-learn",
-      "mlflow",
-      "pyspark"
+      "harness",
+      "llm",
+      "llm-agents",
+      "ontology",
+      "plugin",
+      "self-evolving"
     ],
-    "created_at": "2026-09-12T00:38:16Z"
+    "created_at": "2026-09-15T01:57:40Z"
   },
   {
-    "id": "gh-1366971725",
-    "name": "Xu123-Bob/Baize",
-    "description": "\u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002  \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
-    "url": "https://github.com/Xu123-Bob/Baize",
-    "stars": 71,
+    "id": "gh-1374869789",
+    "name": "ekzhang/openjev-sglang",
+    "description": "Jev-compatible API endpoint based on open models (prefill-only)",
+    "url": "https://github.com/ekzhang/openjev-sglang",
+    "stars": 166,
+    "language": "Python",
+    "topics": [
+      "jev",
+      "llm",
+      "structured-generation",
+      "systemone"
+    ],
+    "created_at": "2026-09-17T18:11:49Z"
+  },
+  {
+    "id": "gh-1372535054",
+    "name": "lakeday-org/perch",
+    "description": "Semantic code linting with Jev",
+    "url": "https://github.com/lakeday-org/perch",
+    "stars": 148,
     "language": "JavaScript",
+    "topics": [
+      "ai",
+      "cli",
+      "code-quality",
+      "code-review",
+      "devtools",
+      "linter",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "created_at": "2026-09-16T04:55:38Z"
+  },
+  {
+    "id": "gh-1369766052",
+    "name": "dashscope-sdk/agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/dashscope-sdk/agentscope-java",
+    "stars": 107,
+    "language": "Java",
+    "topics": [
+      "adk",
+      "agent",
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agentscope",
+      "ai",
+      "harness",
+      "llm"
+    ],
+    "created_at": "2026-09-14T10:55:50Z"
+  },
+  {
+    "id": "gh-1370509929",
+    "name": "RectangleStory/Superpowers_Multi_AI",
+    "description": "\u26a1 Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! \ud83d\ude80",
+    "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
+    "stars": 100,
+    "language": null,
     "topics": [
       "ai",
       "ai-agent",
       "ai-agents",
-      "ai-coding"
+      "ai-coding",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "cursor",
+      "subagent-driven-development",
+      "superpowers"
     ],
-    "created_at": "2026-09-12T05:17:38Z"
+    "created_at": "2026-09-14T20:11:30Z"
+  },
+  {
+    "id": "gh-1374457005",
+    "name": "inikolax/remiqora",
+    "description": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
+    "url": "https://github.com/inikolax/remiqora",
+    "stars": 94,
+    "language": "Vue",
+    "topics": [
+      "ace-step",
+      "ai-music",
+      "daw",
+      "fastapi",
+      "generative-ai",
+      "local-ai",
+      "lora",
+      "midi",
+      "music-generation",
+      "music-production",
+      "self-hosted",
+      "stem-separation",
+      "text-to-music",
+      "typescript",
+      "vue3",
+      "yue2",
+      "yue2-3b"
+    ],
+    "created_at": "2026-09-17T13:09:15Z"
   },
   {
     "id": "gh-1373869741",
     "name": "liyupi/ai-model-world",
     "description": "AI \u5927\u6a21\u578b\u4e16\u754c\uff0c\u628a 556 \u4e2a\u5927\u6a21\u578b\u62df\u4eba\u5316\u6210\u50cf\u7d20\u5c0f\u4eba\u7684\u53ef\u89c6\u5316\u7ad9\u70b9\u3002\u8fdb\u6765\u5c31\u80fd\u770b\u5230\u6b64\u523b\u8c01\u6700\u806a\u660e\u3001\u8c01\u6700\u4f1a\u5199\u4ee3\u7801\u3001\u8c01\u6700\u4fbf\u5b9c\u3001\u8c01\u521a\u53d1\u5e03\uff0c\u5f80\u4e0b\u662f\u56fd\u5185\u4e0e\u56fd\u5916\u5206\u533a\u7684\u5382\u5546\u5e7f\u573a\u3001\u5b8c\u6574\u7684\u53d1\u5e03\u65f6\u95f4\u7ebf\u548c\u591a\u7ef4\u6392\u884c\u699c\u3002\u641c\u7d22\u8ba4\u6a21\u578b\u540d\u3001\u5382\u5546\u548c\u80fd\u529b\uff0c\u8f93\u5165\u300c\u591a\u6a21\u6001\u300d\u4f1a\u76f4\u63a5\u5217\u51fa\u5168\u90e8\u591a\u6a21\u6001\u6a21\u578b\u3002\u6570\u636e\u53d6\u81ea Epoch AI\u3001models.dev\u3001LiveBench \u4e0e Hugging Face\uff0c\u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65\uff0c\u6240\u6709\u6587\u6848\u7531\u771f\u5b9e\u6570\u636e\u751f\u6210\uff0c\u4e0d\u8c03\u7528\u4efb\u4f55 LLM\u3002Next.js \u9759\u6001\u5bfc\u51fa\uff0c\u96f6\u540e\u7aef\u3002",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 70,
+    "stars": 91,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -176,93 +237,11 @@
     "created_at": "2026-09-17T03:12:17Z"
   },
   {
-    "id": "gh-1374457005",
-    "name": "inikolax/remiqora",
-    "description": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
-    "url": "https://github.com/inikolax/remiqora",
-    "stars": 58,
-    "language": "Vue",
-    "topics": [
-      "ace-step",
-      "ai-music",
-      "daw",
-      "fastapi",
-      "generative-ai",
-      "local-ai",
-      "lora",
-      "midi",
-      "music-generation",
-      "music-production",
-      "self-hosted",
-      "stem-separation",
-      "text-to-music",
-      "typescript",
-      "vue3",
-      "yue2",
-      "yue2-3b"
-    ],
-    "created_at": "2026-09-17T13:09:15Z"
-  },
-  {
-    "id": "gh-1374194303",
-    "name": "templatesgrokbot/templatesgrokbot.com",
-    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
-    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-    "stars": 50,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "artificial-intelligence",
-      "elon-musk",
-      "elonmusk",
-      "grok",
-      "grok-ai",
-      "grok-bot",
-      "grok-cli",
-      "grokbot",
-      "template",
-      "template-repository",
-      "templates",
-      "xai",
-      "xai-grok",
-      "xai-library"
-    ],
-    "created_at": "2026-09-17T09:14:16Z"
-  },
-  {
-    "id": "gh-1370212922",
-    "name": "ARahim3/cachebeat",
-    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
-    "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 48,
-    "language": null,
-    "topics": [
-      "ai",
-      "anthropic",
-      "caching",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "cli",
-      "cost-optimization",
-      "developer-tools",
-      "llm",
-      "llm-tools",
-      "productivity",
-      "prompt-caching",
-      "token-optimization"
-    ],
-    "created_at": "2026-09-14T16:22:40Z"
-  },
-  {
     "id": "gh-1372839573",
     "name": "agentsea/nautilo",
     "description": "AI goes multiplayer. A self-hosted workspace for people and machine people. Create, code, and work together across desktop, mobile, and web. Open source. MIT licensed.",
     "url": "https://github.com/agentsea/nautilo",
-    "stars": 31,
+    "stars": 36,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -307,17 +286,46 @@
     "created_at": "2026-09-15T20:20:52Z"
   },
   {
-    "id": "gh-1371462067",
-    "name": "AI4Science-WestlakeU/group-meeting-materials",
-    "description": "Group meeting materials for Tailin Wu's lab",
-    "url": "https://github.com/AI4Science-WestlakeU/group-meeting-materials",
+    "id": "gh-1376451596",
+    "name": "Zaious/jev-capability-atlas",
+    "description": "Independent, evidence-based map of when TypeSafe's Jev actually holds up vs. breaks down \u2014 real API-call receipts, not a leaderboard. \u4e2d\u6587\u70ba\u4e3b\u7684\u96d9\u8a9e repo\u3002",
+    "url": "https://github.com/Zaious/jev-capability-atlas",
+    "stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "calibration",
+      "jev",
+      "llm-evaluation",
+      "machine-learning",
+      "typesafe",
+      "zh-tw"
+    ],
+    "created_at": "2026-09-18T21:30:40Z"
+  },
+  {
+    "id": "gh-1373043882",
+    "name": "cporter202/ai-apis-you-can-ship-today",
+    "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products \u2014 from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
+    "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
     "stars": 10,
     "language": null,
     "topics": [
-      "generative-model",
-      "group-meeting",
-      "machine-learning"
+      "agents",
+      "ai",
+      "apify",
+      "apis",
+      "awesome-list",
+      "chatgpt",
+      "computer-vision",
+      "developers",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "openai"
     ],
-    "created_at": "2026-09-15T12:49:13Z"
+    "created_at": "2026-09-16T13:01:02Z"
   }
 ]
