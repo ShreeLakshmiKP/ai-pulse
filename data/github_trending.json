@@ -1,25 +1,10 @@
 [
   {
-    "id": "gh-1374561793",
-    "name": "yibie/awesome-jev",
-    "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
-    "url": "https://github.com/yibie/awesome-jev",
-    "stars": 475,
-    "language": "Python",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "jev",
-      "llm"
-    ],
-    "created_at": "2026-09-17T14:23:21Z"
-  },
-  {
     "id": "gh-1377211520",
     "name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 466,
+    "stars": 2483,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -36,11 +21,26 @@
     "created_at": "2026-09-19T13:50:26Z"
   },
   {
+    "id": "gh-1374561793",
+    "name": "yibie/awesome-jev",
+    "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+    "url": "https://github.com/yibie/awesome-jev",
+    "stars": 824,
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "jev",
+      "llm"
+    ],
+    "created_at": "2026-09-17T14:23:21Z"
+  },
+  {
     "id": "gh-1377399471",
     "name": "v-modal/awesome-jev-tools",
     "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
     "url": "https://github.com/v-modal/awesome-jev-tools",
-    "stars": 416,
+    "stars": 602,
     "language": null,
     "topics": [
       "awesome",
@@ -56,46 +56,11 @@
     "created_at": "2026-09-19T16:48:59Z"
   },
   {
-    "id": "gh-1373665161",
-    "name": "devagrawal09/jev-review",
-    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-    "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 379,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "code-review",
-      "jev",
-      "typesafe-ai",
-      "typescript"
-    ],
-    "created_at": "2026-09-16T21:45:36Z"
-  },
-  {
-    "id": "gh-1374058281",
-    "name": "AbdelStark/awesome-typesafe",
-    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-    "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 368,
-    "language": "CSS",
-    "topics": [
-      "ai-agents",
-      "awesome-list",
-      "jev",
-      "llm",
-      "machine-learning",
-      "structured-output",
-      "system-one-models",
-      "typesafe"
-    ],
-    "created_at": "2026-09-17T06:56:37Z"
-  },
-  {
     "id": "gh-1376713674",
     "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 298,
+    "stars": 584,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -112,11 +77,64 @@
     "created_at": "2026-09-19T04:14:43Z"
   },
   {
+    "id": "gh-1373665161",
+    "name": "devagrawal09/jev-review",
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "stars": 441,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "code-review",
+      "jev",
+      "typesafe-ai",
+      "typescript"
+    ],
+    "created_at": "2026-09-16T21:45:36Z"
+  },
+  {
+    "id": "gh-1374058281",
+    "name": "AbdelStark/awesome-typesafe",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stars": 416,
+    "language": "CSS",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
+      "machine-learning",
+      "structured-output",
+      "system-one-models",
+      "typesafe"
+    ],
+    "created_at": "2026-09-17T06:56:37Z"
+  },
+  {
+    "id": "gh-1375397100",
+    "name": "wfzyx/von",
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "url": "https://github.com/wfzyx/von",
+    "stars": 307,
+    "language": "Python",
+    "topics": [
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
+    ],
+    "created_at": "2026-09-18T05:03:47Z"
+  },
+  {
     "id": "gh-1374869789",
     "name": "ekzhang/openjev-sglang",
     "description": "Jev-compatible API endpoint based on open models (prefill-only)",
     "url": "https://github.com/ekzhang/openjev-sglang",
-    "stars": 207,
+    "stars": 246,
     "language": "Python",
     "topics": [
       "jev",
@@ -131,7 +149,7 @@
     "name": "ruc-datalab/EvoOntology",
     "description": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents \u2699\ufe0f EvoOntology\u63d2\u4ef6\u4e3aClaude Code/Codex \u5efa\u7acb&\u8fdb\u5316\u672c\u4f53\u5c42",
     "url": "https://github.com/ruc-datalab/EvoOntology",
-    "stars": 200,
+    "stars": 236,
     "language": "Python",
     "topics": [
       "agent",
@@ -150,59 +168,11 @@
     "created_at": "2026-09-15T01:57:40Z"
   },
   {
-    "id": "gh-1372535054",
-    "name": "lakeday-org/perch",
-    "description": "Semantic code linting with Jev",
-    "url": "https://github.com/lakeday-org/perch",
-    "stars": 162,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "cli",
-      "code-quality",
-      "code-review",
-      "devtools",
-      "linter",
-      "static-analysis",
-      "tree-sitter"
-    ],
-    "created_at": "2026-09-16T04:55:38Z"
-  },
-  {
-    "id": "gh-1373869741",
-    "name": "liyupi/ai-model-world",
-    "description": "AI \u5927\u6a21\u578b\u4e16\u754c\uff0c\u628a 556 \u4e2a\u5927\u6a21\u578b\u62df\u4eba\u5316\u6210\u50cf\u7d20\u5c0f\u4eba\u7684\u53ef\u89c6\u5316\u7ad9\u70b9\u3002\u8fdb\u6765\u5c31\u80fd\u770b\u5230\u6b64\u523b\u8c01\u6700\u806a\u660e\u3001\u8c01\u6700\u4f1a\u5199\u4ee3\u7801\u3001\u8c01\u6700\u4fbf\u5b9c\u3001\u8c01\u521a\u53d1\u5e03\uff0c\u5f80\u4e0b\u662f\u56fd\u5185\u4e0e\u56fd\u5916\u5206\u533a\u7684\u5382\u5546\u5e7f\u573a\u3001\u5b8c\u6574\u7684\u53d1\u5e03\u65f6\u95f4\u7ebf\u548c\u591a\u7ef4\u6392\u884c\u699c\u3002\u641c\u7d22\u8ba4\u6a21\u578b\u540d\u3001\u5382\u5546\u548c\u80fd\u529b\uff0c\u8f93\u5165\u300c\u591a\u6a21\u6001\u300d\u4f1a\u76f4\u63a5\u5217\u51fa\u5168\u90e8\u591a\u6a21\u6001\u6a21\u578b\u3002\u6570\u636e\u53d6\u81ea Epoch AI\u3001models.dev\u3001LiveBench \u4e0e Hugging Face\uff0c\u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65\uff0c\u6240\u6709\u6587\u6848\u7531\u771f\u5b9e\u6570\u636e\u751f\u6210\uff0c\u4e0d\u8c03\u7528\u4efb\u4f55 LLM\u3002Next.js \u9759\u6001\u5bfc\u51fa\uff0c\u96f6\u540e\u7aef\u3002",
-    "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 136,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-models",
-      "benchmark",
-      "chinese",
-      "data-visualization",
-      "deepseek",
-      "large-language-models",
-      "leaderboard",
-      "llm",
-      "llm-benchmarks",
-      "llm-leaderboard",
-      "model-comparison",
-      "nextjs",
-      "pixel-art",
-      "react",
-      "static-site",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2026-09-17T03:12:17Z"
-  },
-  {
     "id": "gh-1377115777",
     "name": "Heman10x-NGU/openJev-verdict-2.0",
     "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
     "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-    "stars": 117,
+    "stars": 225,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -229,56 +199,108 @@
     "created_at": "2026-09-19T12:14:46Z"
   },
   {
-    "id": "gh-1369766052",
-    "name": "agentscope-ai-java/agentscope-java",
-    "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/agentscope-ai-java/agentscope-java",
-    "stars": 108,
-    "language": "Java",
+    "id": "gh-1374667371",
+    "name": "qwdwqfwq/topconf-paper-figure-gallery",
+    "description": "A searchable gallery of well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025) \u2014 2,298 curated figures for paper-overview inspiration. Pure static site.",
+    "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+    "stars": 220,
+    "language": "Python",
     "topics": [
-      "adk",
-      "agent",
-      "agent-framework",
-      "agentic",
-      "agentic-ai",
-      "agentscope",
-      "ai",
-      "harness",
-      "llm"
+      "aaai",
+      "academic-writing",
+      "acl",
+      "awesome-list",
+      "computer-vision",
+      "cvpr",
+      "data-visualization",
+      "deep-learning",
+      "figure",
+      "gallery",
+      "iclr",
+      "icml",
+      "inspiration",
+      "machine-learning",
+      "neurips",
+      "nlp",
+      "paper-figures",
+      "paper-writing",
+      "research",
+      "scientific-figures"
     ],
-    "created_at": "2026-09-14T10:55:50Z"
+    "created_at": "2026-09-17T15:40:52Z"
   },
   {
-    "id": "gh-1369096078",
-    "name": "Shellishack/infinite-pokemon",
-    "description": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
-    "url": "https://github.com/Shellishack/infinite-pokemon",
-    "stars": 106,
+    "id": "gh-1372535054",
+    "name": "lakeday-org/perch",
+    "description": "Semantic code linting with Jev",
+    "url": "https://github.com/lakeday-org/perch",
+    "stars": 167,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "cli",
+      "code-quality",
+      "code-review",
+      "devtools",
+      "linter",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "created_at": "2026-09-16T04:55:38Z"
+  },
+  {
+    "id": "gh-1373869741",
+    "name": "liyupi/ai-model-world",
+    "description": "AI \u5927\u6a21\u578b\u4e16\u754c\uff0c\u628a 556 \u4e2a\u5927\u6a21\u578b\u62df\u4eba\u5316\u6210\u50cf\u7d20\u5c0f\u4eba\u7684\u53ef\u89c6\u5316\u7ad9\u70b9\u3002\u8fdb\u6765\u5c31\u80fd\u770b\u5230\u6b64\u523b\u8c01\u6700\u806a\u660e\u3001\u8c01\u6700\u4f1a\u5199\u4ee3\u7801\u3001\u8c01\u6700\u4fbf\u5b9c\u3001\u8c01\u521a\u53d1\u5e03\uff0c\u5f80\u4e0b\u662f\u56fd\u5185\u4e0e\u56fd\u5916\u5206\u533a\u7684\u5382\u5546\u5e7f\u573a\u3001\u5b8c\u6574\u7684\u53d1\u5e03\u65f6\u95f4\u7ebf\u548c\u591a\u7ef4\u6392\u884c\u699c\u3002\u641c\u7d22\u8ba4\u6a21\u578b\u540d\u3001\u5382\u5546\u548c\u80fd\u529b\uff0c\u8f93\u5165\u300c\u591a\u6a21\u6001\u300d\u4f1a\u76f4\u63a5\u5217\u51fa\u5168\u90e8\u591a\u6a21\u6001\u6a21\u578b\u3002\u6570\u636e\u53d6\u81ea Epoch AI\u3001models.dev\u3001LiveBench \u4e0e Hugging Face\uff0c\u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65\uff0c\u6240\u6709\u6587\u6848\u7531\u771f\u5b9e\u6570\u636e\u751f\u6210\uff0c\u4e0d\u8c03\u7528\u4efb\u4f55 LLM\u3002Next.js \u9759\u6001\u5bfc\u51fa\uff0c\u96f6\u540e\u7aef\u3002",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "stars": 159,
     "language": "TypeScript",
     "topics": [
-      "agent-skills",
-      "browser-game",
-      "creature-collector",
-      "electron",
-      "generative-ai",
-      "generative-gameplay",
-      "indie-game",
-      "multiplayer-game",
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
       "nextjs",
-      "phaser",
-      "procedural-generation",
-      "rpg",
-      "sqlite",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
       "typescript"
     ],
-    "created_at": "2026-09-14T01:06:12Z"
+    "created_at": "2026-09-17T03:12:17Z"
+  },
+  {
+    "id": "gh-1373914715",
+    "name": "0xNatoshi/jev-codex-router",
+    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "stars": 131,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "codex",
+      "jev",
+      "llm",
+      "macos",
+      "routing",
+      "typesafe"
+    ],
+    "created_at": "2026-09-17T04:14:19Z"
   },
   {
     "id": "gh-1374457005",
     "name": "inikolax/remiqora",
     "description": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
     "url": "https://github.com/inikolax/remiqora",
-    "stars": 104,
+    "stars": 109,
     "language": "Vue",
     "topics": [
       "ace-step",
@@ -303,23 +325,5 @@
       "yue2-3b"
     ],
     "created_at": "2026-09-17T13:09:15Z"
-  },
-  {
-    "id": "gh-1375397100",
-    "name": "wfzyx/von",
-    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-    "url": "https://github.com/wfzyx/von",
-    "stars": 61,
-    "language": "Python",
-    "topics": [
-      "decision-model",
-      "jev",
-      "machine-learning",
-      "python",
-      "rlcd",
-      "system-one",
-      "typesafe"
-    ],
-    "created_at": "2026-09-18T05:03:47Z"
   }
 ]
