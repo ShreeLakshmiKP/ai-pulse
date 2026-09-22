@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49776729",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "points": 722,
-    "comments": 385,
+    "id": "hn-49787436",
+    "title": "What Sun got wrong",
+    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "points": 596,
+    "comments": 344,
     "source": "Hacker News",
-    "published_date": "2026-09-20T15:18:44Z"
+    "published_date": "2026-09-21T14:03:18Z"
   },
   {
-    "id": "hn-49776699",
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "url": "https://pirateface.co/",
-    "points": 537,
-    "comments": 143,
+    "id": "hn-49792342",
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "points": 423,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-09-20T15:16:07Z"
+    "published_date": "2026-09-21T19:43:49Z"
   },
   {
-    "id": "hn-49777841",
-    "title": "US Revokes Limits on Power Plants' Climate Pollution",
-    "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
-    "points": 241,
-    "comments": 248,
+    "id": "hn-49792067",
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "points": 246,
+    "comments": 273,
     "source": "Hacker News",
-    "published_date": "2026-09-20T17:19:52Z"
+    "published_date": "2026-09-21T19:23:33Z"
   },
   {
-    "id": "hn-49775104",
-    "title": "The LLMentalist Effect (2023)",
-    "url": "https://softwarecrisis.dev/letters/llmentalist/",
-    "points": 196,
-    "comments": 272,
+    "id": "hn-49787535",
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "points": 227,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-09-20T12:20:13Z"
+    "published_date": "2026-09-21T14:10:49Z"
   },
   {
-    "id": "hn-49777106",
-    "title": "Laya on Mac M4 CoreML Offline",
-    "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-    "points": 156,
-    "comments": 30,
+    "id": "hn-49791509",
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "points": 222,
+    "comments": 131,
     "source": "Hacker News",
-    "published_date": "2026-09-20T15:58:52Z"
+    "published_date": "2026-09-21T18:41:59Z"
   },
   {
-    "id": "hn-49778162",
-    "title": "I turned Jev into a (lousy) chatbot",
-    "url": "https://github.com/kyle-pena-nlp/jevchat/",
-    "points": 148,
-    "comments": 43,
+    "id": "hn-49791647",
+    "title": "Frontier AI on Your Own Hardware",
+    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "points": 163,
+    "comments": 81,
     "source": "Hacker News",
-    "published_date": "2026-09-20T17:51:27Z"
+    "published_date": "2026-09-21T18:53:01Z"
   },
   {
-    "id": "hn-49777539",
-    "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
-    "url": "https://radius.to/",
-    "points": 145,
-    "comments": 64,
+    "id": "hn-49797323",
+    "title": "Can gzip be a language model?",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "points": 153,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-09-20T16:51:26Z"
+    "published_date": "2026-09-22T06:08:39Z"
   },
   {
-    "id": "hn-49783999",
-    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "url": "https://github.com/jaredpalmer/kev/tree/main",
-    "points": 141,
-    "comments": 60,
+    "id": "hn-49789982",
+    "title": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+    "points": 147,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-09-21T07:11:55Z"
+    "published_date": "2026-09-21T17:00:23Z"
   },
   {
-    "id": "hn-49778022",
-    "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
-    "url": "https://github.com/adonis-singh/re4",
-    "points": 125,
-    "comments": 75,
+    "id": "hn-49786609",
+    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+    "url": "https://news.ycombinator.com/item?id=49786609",
+    "points": 146,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-09-20T17:38:27Z"
+    "published_date": "2026-09-21T12:47:05Z"
   },
   {
-    "id": "hn-49783062",
-    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-    "points": 118,
-    "comments": 57,
+    "id": "hn-49794736",
+    "title": "Looking forward to Git 2.56 \u2013 and 3.0",
+    "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+    "points": 133,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-09-21T04:28:44Z"
+    "published_date": "2026-09-21T23:16:51Z"
   },
   {
-    "id": "hn-49783133",
-    "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-    "url": "https://github.com/volotat/mini-AGI/",
-    "points": 116,
-    "comments": 19,
+    "id": "hn-49795579",
+    "title": "Claude Status \u2013 Elevated errors for multiple models",
+    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "points": 117,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-09-21T04:42:37Z"
+    "published_date": "2026-09-22T01:05:19Z"
   },
   {
-    "id": "hn-49774795",
-    "title": "If AI coding is lowering your code quality, you're not managing quality right",
-    "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+    "id": "hn-49788773",
+    "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+    "url": "http://pdp1173.com/",
     "points": 96,
-    "comments": 144,
+    "comments": 41,
     "source": "Hacker News",
-    "published_date": "2026-09-20T11:37:10Z"
+    "published_date": "2026-09-21T15:45:06Z"
   },
   {
-    "id": "hn-49780022",
-    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-    "points": 90,
-    "comments": 31,
+    "id": "hn-49787765",
+    "title": "The Claude Delusion",
+    "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+    "points": 94,
+    "comments": 162,
     "source": "Hacker News",
-    "published_date": "2026-09-20T20:59:02Z"
+    "published_date": "2026-09-21T14:30:24Z"
   },
   {
-    "id": "hn-49780162",
-    "title": "I stopped drinking the AI Kool-Aid",
-    "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+    "id": "hn-49795718",
+    "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+    "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+    "points": 88,
+    "comments": 54,
+    "source": "Hacker News",
+    "published_date": "2026-09-22T01:24:49Z"
+  },
+  {
+    "id": "hn-49786419",
+    "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
+    "url": "https://github.com/aru-labs/lossless-memory",
     "points": 62,
-    "comments": 44,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-09-20T21:17:26Z"
+    "published_date": "2026-09-21T12:28:17Z"
   },
   {
-    "id": "hn-49774991",
-    "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-    "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-    "points": 38,
-    "comments": 67,
+    "id": "hn-49786210",
+    "title": "The End Of Upward Mobility \u2013 AI is coming for the meritocracy",
+    "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+    "points": 54,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-09-20T12:07:10Z"
+    "published_date": "2026-09-21T12:07:16Z"
   },
   {
-    "id": "hn-49782242",
-    "title": "Can I Let My AI Agent Run on Shabbat?",
-    "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
-    "points": 32,
-    "comments": 16,
+    "id": "hn-49798451",
+    "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+    "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+    "points": 43,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-09-21T02:05:45Z"
+    "published_date": "2026-09-22T09:18:54Z"
   },
   {
-    "id": "hn-49784366",
-    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-    "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-    "points": 28,
-    "comments": 55,
+    "id": "hn-49790322",
+    "title": "Big AI to humanity: drop dead",
+    "url": "https://matthewbutterick.com/chron/drop-dead.html",
+    "points": 42,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-09-21T07:59:18Z"
+    "published_date": "2026-09-21T17:23:19Z"
   },
   {
-    "id": "hn-49780704",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-    "points": 25,
-    "comments": 21,
+    "id": "hn-49789356",
+    "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "points": 42,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-09-20T22:22:16Z"
+    "published_date": "2026-09-21T16:22:06Z"
   },
   {
-    "id": "hn-49780849",
-    "title": "Show HN: jevals \u2013 replacing LLM judges with typed Jev decisions",
-    "url": "https://github.com/openlayer-ai/jevals",
-    "points": 25,
-    "comments": 1,
+    "id": "hn-49791468",
+    "title": "Gravity Linux Alpha Release: Linux on the M4 Mac Mini with GPU and DCP Support",
+    "url": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
+    "points": 37,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-09-20T22:39:47Z"
-  },
-  {
-    "id": "hn-49778367",
-    "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
-    "url": "https://www.youtube.com/watch?v=KnckQp-c388",
-    "points": 21,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-09-20T18:11:41Z"
+    "published_date": "2026-09-21T18:38:19Z"
   }
 ]
