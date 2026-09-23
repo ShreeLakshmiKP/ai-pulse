@@ -1079,6 +1079,32 @@
     "image": null
   },
   {
+    "id": "rss-195d2c23",
+    "title": "Smart glasses are already causing havoc in India",
+    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#823...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 23 Sep 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f47b4ba2",
+    "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 23 Sep 2026 04:59:08 +0000",
+    "image": null
+  },
+  {
     "id": "rss-97d59894",
     "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
     "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
@@ -4320,34 +4346,6 @@
     ],
     "category": "AI Policy",
     "published_date": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-951093dd",
-    "title": "Adding MCP Tools to Reachy Mini",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 03 Jun 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7bd6a782",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 02 Sep 2026 23:01:00 +0000",
     "image": null
   }
 ]

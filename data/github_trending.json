@@ -4,7 +4,7 @@
     "name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 4746,
+    "stars": 5723,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -25,7 +25,7 @@
     "name": "jev-chat/jev-chat-jarvis",
     "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
     "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "stars": 2743,
+    "stars": 4901,
     "language": "Kotlin",
     "topics": [
       "accessibility-service",
@@ -42,7 +42,7 @@
     "name": "yibie/awesome-jev",
     "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
     "url": "https://github.com/yibie/awesome-jev",
-    "stars": 1163,
+    "stars": 1395,
     "language": "Python",
     "topics": [
       "awesome",
@@ -57,7 +57,7 @@
     "name": "v-modal/awesome-jev-tools",
     "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
     "url": "https://github.com/v-modal/awesome-jev-tools",
-    "stars": 635,
+    "stars": 675,
     "language": null,
     "topics": [
       "awesome",
@@ -77,7 +77,7 @@
     "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 619,
+    "stars": 631,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -94,27 +94,29 @@
     "created_at": "2026-09-19T04:14:43Z"
   },
   {
-    "id": "gh-1373665161",
-    "name": "devagrawal09/jev-review",
-    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-    "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 526,
-    "language": "TypeScript",
+    "id": "gh-1375397100",
+    "name": "wfzyx/von",
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "url": "https://github.com/wfzyx/von",
+    "stars": 528,
+    "language": "Python",
     "topics": [
-      "ai",
-      "code-review",
+      "decision-model",
       "jev",
-      "typesafe-ai",
-      "typescript"
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
     ],
-    "created_at": "2026-09-16T21:45:36Z"
+    "created_at": "2026-09-18T05:03:47Z"
   },
   {
     "id": "gh-1374058281",
     "name": "AbdelStark/awesome-typesafe-jev",
     "description": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
     "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
-    "stars": 438,
+    "stars": 486,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -140,29 +142,32 @@
     "created_at": "2026-09-17T06:56:37Z"
   },
   {
-    "id": "gh-1375397100",
-    "name": "wfzyx/von",
-    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-    "url": "https://github.com/wfzyx/von",
-    "stars": 405,
+    "id": "gh-1379929433",
+    "name": "jev-chat/jev-chat-windows",
+    "description": "\u5fae\u4fe1\uff08Windows 4.x\uff09\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\uff1a\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
+    "url": "https://github.com/jev-chat/jev-chat-windows",
+    "stars": 399,
     "language": "Python",
     "topics": [
-      "decision-model",
+      "chat-assistant",
       "jev",
-      "machine-learning",
+      "llm",
+      "local-first",
+      "ocr",
+      "privacy",
+      "pyqt",
       "python",
-      "rlcd",
-      "system-one",
-      "typesafe"
+      "wechat",
+      "windows"
     ],
-    "created_at": "2026-09-18T05:03:47Z"
+    "created_at": "2026-09-21T14:37:14Z"
   },
   {
     "id": "gh-1374667371",
     "name": "qwdwqfwq/topconf-paper-figure-gallery",
     "description": "A searchable gallery of 2,730 well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025), tagged with Oral / Spotlight / Best-paper tiers.",
     "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
-    "stars": 323,
+    "stars": 369,
     "language": "Python",
     "topics": [
       "aaai",
@@ -189,26 +194,11 @@
     "created_at": "2026-09-17T15:40:52Z"
   },
   {
-    "id": "gh-1374869789",
-    "name": "ekzhang/openjev-sglang",
-    "description": "Jev-compatible API endpoint based on open models (prefill-only)",
-    "url": "https://github.com/ekzhang/openjev-sglang",
-    "stars": 262,
-    "language": "Python",
-    "topics": [
-      "jev",
-      "llm",
-      "structured-generation",
-      "systemone"
-    ],
-    "created_at": "2026-09-17T18:11:49Z"
-  },
-  {
     "id": "gh-1377115777",
     "name": "Heman10x-NGU/openJev-verdict-2.0",
     "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
     "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-    "stars": 255,
+    "stars": 273,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -239,7 +229,7 @@
     "name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 201,
+    "stars": 240,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -257,7 +247,7 @@
     "name": "haplollc/ThinkingOrbs",
     "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
     "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 174,
+    "stars": 189,
     "language": "Swift",
     "topics": [
       "ai",
@@ -272,30 +262,58 @@
     "created_at": "2026-09-19T06:15:54Z"
   },
   {
-    "id": "gh-1372535054",
-    "name": "lakeday-org/perch",
-    "description": "Semantic code linting with Jev",
-    "url": "https://github.com/lakeday-org/perch",
-    "stars": 169,
-    "language": "JavaScript",
+    "id": "gh-1373869741",
+    "name": "liyupi/ai-model-world",
+    "description": "AI \u5927\u6a21\u578b\u4e16\u754c\uff0c\u628a 556 \u4e2a\u5927\u6a21\u578b\u62df\u4eba\u5316\u6210\u50cf\u7d20\u5c0f\u4eba\u7684\u53ef\u89c6\u5316\u7ad9\u70b9\u3002\u8fdb\u6765\u5c31\u80fd\u770b\u5230\u6b64\u523b\u8c01\u6700\u806a\u660e\u3001\u8c01\u6700\u4f1a\u5199\u4ee3\u7801\u3001\u8c01\u6700\u4fbf\u5b9c\u3001\u8c01\u521a\u53d1\u5e03\uff0c\u5f80\u4e0b\u662f\u56fd\u5185\u4e0e\u56fd\u5916\u5206\u533a\u7684\u5382\u5546\u5e7f\u573a\u3001\u5b8c\u6574\u7684\u53d1\u5e03\u65f6\u95f4\u7ebf\u548c\u591a\u7ef4\u6392\u884c\u699c\u3002\u641c\u7d22\u8ba4\u6a21\u578b\u540d\u3001\u5382\u5546\u548c\u80fd\u529b\uff0c\u8f93\u5165\u300c\u591a\u6a21\u6001\u300d\u4f1a\u76f4\u63a5\u5217\u51fa\u5168\u90e8\u591a\u6a21\u6001\u6a21\u578b\u3002\u6570\u636e\u53d6\u81ea Epoch AI\u3001models.dev\u3001LiveBench \u4e0e Hugging Face\uff0c\u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65\uff0c\u6240\u6709\u6587\u6848\u7531\u771f\u5b9e\u6570\u636e\u751f\u6210\uff0c\u4e0d\u8c03\u7528\u4efb\u4f55 LLM\u3002Next.js \u9759\u6001\u5bfc\u51fa\uff0c\u96f6\u540e\u7aef\u3002",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "stars": 172,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "cli",
-      "code-quality",
-      "code-review",
-      "devtools",
-      "linter",
-      "static-analysis",
-      "tree-sitter"
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "large-language-models",
+      "leaderboard",
+      "llm",
+      "llm-benchmarks",
+      "llm-leaderboard",
+      "model-comparison",
+      "nextjs",
+      "pixel-art",
+      "react",
+      "static-site",
+      "tailwindcss",
+      "typescript"
     ],
-    "created_at": "2026-09-16T04:55:38Z"
+    "created_at": "2026-09-17T03:12:17Z"
+  },
+  {
+    "id": "gh-1377378103",
+    "name": "isas1/skills",
+    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
+    "url": "https://github.com/isas1/skills",
+    "stars": 156,
+    "language": null,
+    "topics": [
+      "ai",
+      "aisummarizer",
+      "summarization",
+      "summarizer",
+      "summary",
+      "summary-generator",
+      "summarytools"
+    ],
+    "created_at": "2026-09-19T16:26:26Z"
   },
   {
     "id": "gh-1374457005",
     "name": "inikolax/remiqora",
     "description": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
     "url": "https://github.com/inikolax/remiqora",
-    "stars": 112,
+    "stars": 119,
     "language": "Vue",
     "topics": [
       "ace-step",
