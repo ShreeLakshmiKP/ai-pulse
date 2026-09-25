@@ -1,10 +1,26 @@
 [
   {
+    "id": "gh-1379574728",
+    "name": "jev-chat/jev-chat-jarvis",
+    "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "stars": 6433,
+    "language": "Kotlin",
+    "topics": [
+      "accessibility-service",
+      "android",
+      "chat-assistant",
+      "llm",
+      "qq"
+    ],
+    "created_at": "2026-09-21T11:12:53Z"
+  },
+  {
     "id": "gh-1377211520",
     "name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 6117,
+    "stars": 6284,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -21,48 +37,11 @@
     "created_at": "2026-09-19T13:50:26Z"
   },
   {
-    "id": "gh-1379574728",
-    "name": "jev-chat/jev-chat-jarvis",
-    "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
-    "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "stars": 5575,
-    "language": "Kotlin",
-    "topics": [
-      "accessibility-service",
-      "android",
-      "chat-assistant",
-      "llm",
-      "qq",
-      "wechat"
-    ],
-    "created_at": "2026-09-21T11:12:53Z"
-  },
-  {
-    "id": "gh-1377399471",
-    "name": "v-modal/awesome-jev-tools",
-    "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
-    "url": "https://github.com/v-modal/awesome-jev-tools",
-    "stars": 704,
-    "language": null,
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "jev",
-      "llm",
-      "robotics",
-      "robotics-algorithms",
-      "robotics-control",
-      "robotics-simulation"
-    ],
-    "created_at": "2026-09-19T16:48:59Z"
-  },
-  {
     "id": "gh-1376713674",
     "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 645,
+    "stars": 833,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -79,29 +58,67 @@
     "created_at": "2026-09-19T04:14:43Z"
   },
   {
-    "id": "gh-1375397100",
-    "name": "wfzyx/von",
-    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-    "url": "https://github.com/wfzyx/von",
-    "stars": 613,
+    "id": "gh-1383809012",
+    "name": "yetone/magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "url": "https://github.com/yetone/magpie",
+    "stars": 741,
+    "language": "Go",
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek",
+      "gemini-cli",
+      "llm",
+      "macos"
+    ],
+    "created_at": "2026-09-23T16:22:35Z"
+  },
+  {
+    "id": "gh-1377399471",
+    "name": "v-modal/awesome-jev-tools",
+    "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+    "url": "https://github.com/v-modal/awesome-jev-tools",
+    "stars": 717,
+    "language": null,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "jev",
+      "llm",
+      "robotics",
+      "robotics-algorithms",
+      "robotics-control",
+      "robotics-simulation"
+    ],
+    "created_at": "2026-09-19T16:48:59Z"
+  },
+  {
+    "id": "gh-1379166549",
+    "name": "nokia-applied-research/AnyJev",
+    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "stars": 557,
     "language": "Python",
     "topics": [
+      "calibration",
       "decision-model",
       "jev",
-      "machine-learning",
-      "python",
-      "rlcd",
+      "jev-model",
+      "llm",
       "system-one",
-      "typesafe"
+      "transformers",
+      "vllm"
     ],
-    "created_at": "2026-09-18T05:03:47Z"
+    "created_at": "2026-09-21T05:55:40Z"
   },
   {
     "id": "gh-1379929433",
     "name": "jev-chat/jev-chat-windows",
-    "description": "\u5fae\u4fe1\uff08Windows 4.x\uff09\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\uff1a\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
+    "description": "JevChat-Windows\uff1a\u804a\u5929\u7a97\u53e3\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\u3002\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
     "url": "https://github.com/jev-chat/jev-chat-windows",
-    "stars": 507,
+    "stars": 549,
     "language": "Python",
     "topics": [
       "chat-assistant",
@@ -118,47 +135,31 @@
     "created_at": "2026-09-21T14:37:14Z"
   },
   {
-    "id": "gh-1383809012",
-    "name": "yetone/magpie",
-    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-    "url": "https://github.com/yetone/magpie",
-    "stars": 447,
-    "language": "Go",
-    "topics": [
-      "claude-code",
-      "codex",
-      "deepseek",
-      "gemini-cli",
-      "llm",
-      "macos"
-    ],
-    "created_at": "2026-09-23T16:22:35Z"
-  },
-  {
-    "id": "gh-1379166549",
-    "name": "nokia-applied-research/AnyJev",
-    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
-    "url": "https://github.com/nokia-applied-research/AnyJev",
-    "stars": 447,
+    "id": "gh-1383988294",
+    "name": "yukitorido/short-video-generator-AI",
+    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "stars": 366,
     "language": "Python",
     "topics": [
-      "calibration",
-      "decision-model",
-      "jev",
-      "jev-model",
+      "ai",
       "llm",
-      "system-one",
-      "transformers",
-      "vllm"
+      "llm-tools",
+      "opus-clip",
+      "opus-clip-alternative",
+      "short-video",
+      "short-video-automation",
+      "short-video-generator",
+      "short-video-maker"
     ],
-    "created_at": "2026-09-21T05:55:40Z"
+    "created_at": "2026-09-23T18:11:57Z"
   },
   {
     "id": "gh-1377115777",
     "name": "Heman10x-NGU/openJev-verdict-2.0",
     "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
     "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-    "stars": 283,
+    "stars": 285,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -189,7 +190,7 @@
     "name": "BinaryDeliverer/CodexDesk",
     "description": "Desktop companion for AI coding agents and Codex workflows",
     "url": "https://github.com/BinaryDeliverer/CodexDesk",
-    "stars": 222,
+    "stars": 223,
     "language": "Rust",
     "topics": [
       "agent",
@@ -208,7 +209,7 @@
     "name": "AvenueSnowStep/ClaudePanel",
     "description": "Desktop panel and toolkit for Claude and AI assistants",
     "url": "https://github.com/AvenueSnowStep/ClaudePanel",
-    "stars": 221,
+    "stars": 222,
     "language": "Rust",
     "topics": [
       "agent",
@@ -223,11 +224,28 @@
     "created_at": "2026-09-23T11:21:45Z"
   },
   {
+    "id": "gh-1378084143",
+    "name": "Inkloom-art/inkloom",
+    "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+    "url": "https://github.com/Inkloom-art/inkloom",
+    "stars": 218,
+    "language": "TypeScript",
+    "topics": [
+      "brand-identity",
+      "cloudflare-workers",
+      "design-systems",
+      "generative-ai",
+      "logo-design",
+      "typography"
+    ],
+    "created_at": "2026-09-20T07:54:30Z"
+  },
+  {
     "id": "gh-1376804059",
     "name": "haplollc/ThinkingOrbs",
     "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
     "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 192,
+    "stars": 217,
     "language": "Swift",
     "topics": [
       "ai",
@@ -242,60 +260,11 @@
     "created_at": "2026-09-19T06:15:54Z"
   },
   {
-    "id": "gh-1377378103",
-    "name": "isas1/skills",
-    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-    "url": "https://github.com/isas1/skills",
-    "stars": 168,
-    "language": null,
-    "topics": [
-      "ai",
-      "aisummarizer",
-      "summarization",
-      "summarizer",
-      "summary",
-      "summary-generator",
-      "summarytools"
-    ],
-    "created_at": "2026-09-19T16:26:26Z"
-  },
-  {
-    "id": "gh-1376081650",
-    "name": "kraayenjon/awesome-jev",
-    "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software \u2014 Choice, Score, and Noul with calibrated probabilities.",
-    "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 130,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "api",
-      "artificial-intelligence",
-      "automation",
-      "awesome",
-      "awesome-list",
-      "classification",
-      "curated-list",
-      "decision-making",
-      "developer-tools",
-      "jev",
-      "jev-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "system-one",
-      "typesafe",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-18T15:43:06Z"
-  },
-  {
     "id": "gh-1378562653",
     "name": "Rylaispirit/cinematic-video-prompt-skill",
     "description": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese explanations.",
     "url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
-    "stars": 83,
+    "stars": 92,
     "language": null,
     "topics": [
       "ai-video",
@@ -315,5 +284,30 @@
       "vietnamese"
     ],
     "created_at": "2026-09-20T16:44:06Z"
+  },
+  {
+    "id": "gh-1379601713",
+    "name": "Simreal-AI/Simreal-MLBench",
+    "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
+    "url": "https://github.com/Simreal-AI/Simreal-MLBench",
+    "stars": 63,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "ai-evaluation",
+      "benchmark",
+      "benchmarking",
+      "calibration",
+      "llm",
+      "llm-agents",
+      "llms",
+      "machine-learning",
+      "metacognition-in-llms",
+      "public-preview",
+      "rl-environment",
+      "rsi",
+      "simreal"
+    ],
+    "created_at": "2026-09-21T11:29:47Z"
   }
 ]
