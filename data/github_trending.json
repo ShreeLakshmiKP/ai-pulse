@@ -4,7 +4,7 @@
     "name": "jev-chat/jev-chat-jarvis",
     "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
     "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "stars": 6433,
+    "stars": 6596,
     "language": "Kotlin",
     "topics": [
       "accessibility-service",
@@ -16,53 +16,11 @@
     "created_at": "2026-09-21T11:12:53Z"
   },
   {
-    "id": "gh-1377211520",
-    "name": "mizorewww/laya-mlx",
-    "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-    "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 6284,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "decision-model",
-      "inference",
-      "laya",
-      "local-ai",
-      "machine-learning",
-      "mlx",
-      "modernbert",
-      "system-one",
-      "typed-decisions"
-    ],
-    "created_at": "2026-09-19T13:50:26Z"
-  },
-  {
-    "id": "gh-1376713674",
-    "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 833,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "ai-engineering",
-      "ai-engineering-interview",
-      "ai-interview",
-      "ai-interview-questions",
-      "company-wise-prep",
-      "company-wise-questions",
-      "interview-questions",
-      "llm-inference",
-      "questions-and-answers"
-    ],
-    "created_at": "2026-09-19T04:14:43Z"
-  },
-  {
     "id": "gh-1383809012",
     "name": "yetone/magpie",
     "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
     "url": "https://github.com/yetone/magpie",
-    "stars": 741,
+    "stars": 835,
     "language": "Go",
     "topics": [
       "claude-code",
@@ -75,31 +33,11 @@
     "created_at": "2026-09-23T16:22:35Z"
   },
   {
-    "id": "gh-1377399471",
-    "name": "v-modal/awesome-jev-tools",
-    "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
-    "url": "https://github.com/v-modal/awesome-jev-tools",
-    "stars": 717,
-    "language": null,
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "jev",
-      "llm",
-      "robotics",
-      "robotics-algorithms",
-      "robotics-control",
-      "robotics-simulation"
-    ],
-    "created_at": "2026-09-19T16:48:59Z"
-  },
-  {
     "id": "gh-1379166549",
     "name": "nokia-applied-research/AnyJev",
-    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
     "url": "https://github.com/nokia-applied-research/AnyJev",
-    "stars": 557,
+    "stars": 758,
     "language": "Python",
     "topics": [
       "calibration",
@@ -114,11 +52,31 @@
     "created_at": "2026-09-21T05:55:40Z"
   },
   {
+    "id": "gh-1383988294",
+    "name": "yukitorido/short-video-generator-AI",
+    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "stars": 714,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "opus-clip",
+      "opus-clip-alternative",
+      "short-video",
+      "short-video-automation",
+      "short-video-generator",
+      "short-video-maker"
+    ],
+    "created_at": "2026-09-23T18:11:57Z"
+  },
+  {
     "id": "gh-1379929433",
     "name": "jev-chat/jev-chat-windows",
     "description": "JevChat-Windows\uff1a\u804a\u5929\u7a97\u53e3\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\u3002\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
     "url": "https://github.com/jev-chat/jev-chat-windows",
-    "stars": 549,
+    "stars": 576,
     "language": "Python",
     "topics": [
       "chat-assistant",
@@ -135,100 +93,11 @@
     "created_at": "2026-09-21T14:37:14Z"
   },
   {
-    "id": "gh-1383988294",
-    "name": "yukitorido/short-video-generator-AI",
-    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-    "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 366,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "llm",
-      "llm-tools",
-      "opus-clip",
-      "opus-clip-alternative",
-      "short-video",
-      "short-video-automation",
-      "short-video-generator",
-      "short-video-maker"
-    ],
-    "created_at": "2026-09-23T18:11:57Z"
-  },
-  {
-    "id": "gh-1377115777",
-    "name": "Heman10x-NGU/openJev-verdict-2.0",
-    "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-    "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-    "stars": 285,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "brier-score",
-      "calibration",
-      "decision-engine",
-      "deep-learning",
-      "encoder",
-      "jev",
-      "machine-learning",
-      "modernbert",
-      "non-autoregressive",
-      "onnx",
-      "openjev",
-      "rlcd",
-      "selective-prediction",
-      "structured-outputs",
-      "system-one",
-      "text-classification",
-      "typesafe-ai",
-      "uncertainty-quantification",
-      "webgpu"
-    ],
-    "created_at": "2026-09-19T12:14:46Z"
-  },
-  {
-    "id": "gh-1383293267",
-    "name": "BinaryDeliverer/CodexDesk",
-    "description": "Desktop companion for AI coding agents and Codex workflows",
-    "url": "https://github.com/BinaryDeliverer/CodexDesk",
-    "stars": 223,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "ai",
-      "codex",
-      "desktop",
-      "developer-tools",
-      "gui",
-      "productivity",
-      "rust"
-    ],
-    "created_at": "2026-09-23T11:21:44Z"
-  },
-  {
-    "id": "gh-1383293279",
-    "name": "AvenueSnowStep/ClaudePanel",
-    "description": "Desktop panel and toolkit for Claude and AI assistants",
-    "url": "https://github.com/AvenueSnowStep/ClaudePanel",
-    "stars": 222,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "ai",
-      "assistant",
-      "claude",
-      "desktop",
-      "gui",
-      "productivity",
-      "rust"
-    ],
-    "created_at": "2026-09-23T11:21:45Z"
-  },
-  {
     "id": "gh-1378084143",
     "name": "Inkloom-art/inkloom",
     "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
     "url": "https://github.com/Inkloom-art/inkloom",
-    "stars": 218,
+    "stars": 328,
     "language": "TypeScript",
     "topics": [
       "brand-identity",
@@ -241,30 +110,32 @@
     "created_at": "2026-09-20T07:54:30Z"
   },
   {
-    "id": "gh-1376804059",
-    "name": "haplollc/ThinkingOrbs",
-    "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-    "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 217,
-    "language": "Swift",
+    "id": "gh-1386778170",
+    "name": "amitshekhariitbhu/ai-system-design",
+    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+    "stars": 261,
+    "language": "Markdown",
     "topics": [
       "ai",
-      "animation",
-      "ios",
-      "loading-indicator",
-      "spinner",
-      "swift",
-      "swift-package-manager",
-      "swiftui"
+      "ai-agents",
+      "ai-engineering",
+      "ai-system",
+      "ai-system-design",
+      "ai-systems",
+      "ai-systems-design",
+      "llm",
+      "system-design",
+      "system-design-interview"
     ],
-    "created_at": "2026-09-19T06:15:54Z"
+    "created_at": "2026-09-25T04:50:06Z"
   },
   {
     "id": "gh-1378562653",
     "name": "Rylaispirit/cinematic-video-prompt-skill",
     "description": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese explanations.",
     "url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
-    "stars": 92,
+    "stars": 97,
     "language": null,
     "topics": [
       "ai-video",
@@ -286,11 +157,25 @@
     "created_at": "2026-09-20T16:44:06Z"
   },
   {
+    "id": "gh-1382777337",
+    "name": "chelinho139/wow-ai",
+    "description": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
+    "url": "https://github.com/chelinho139/wow-ai",
+    "stars": 95,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "claude-code",
+      "wow"
+    ],
+    "created_at": "2026-09-23T04:57:34Z"
+  },
+  {
     "id": "gh-1379601713",
     "name": "Simreal-AI/Simreal-MLBench",
     "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
     "url": "https://github.com/Simreal-AI/Simreal-MLBench",
-    "stars": 63,
+    "stars": 92,
     "language": "Python",
     "topics": [
       "agentic",
@@ -309,5 +194,106 @@
       "simreal"
     ],
     "created_at": "2026-09-21T11:29:47Z"
+  },
+  {
+    "id": "gh-1385234557",
+    "name": "wildminder/awesome-qwen-image",
+    "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+    "url": "https://github.com/wildminder/awesome-qwen-image",
+    "stars": 74,
+    "language": null,
+    "topics": [
+      "ai",
+      "comfyui",
+      "comfyui-nodes",
+      "i2i",
+      "image",
+      "image-generation",
+      "t2i"
+    ],
+    "created_at": "2026-09-24T10:15:43Z"
+  },
+  {
+    "id": "gh-1379859926",
+    "name": "andududu/jeview",
+    "description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
+    "url": "https://github.com/andududu/jeview",
+    "stars": 56,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "debugging",
+      "developer-tools",
+      "jev",
+      "jev-ai",
+      "llm",
+      "local-first",
+      "observability",
+      "sqlite",
+      "typesafe",
+      "typesafe-ai",
+      "typesafe-jev",
+      "visualization",
+      "visualizer"
+    ],
+    "created_at": "2026-09-21T14:03:13Z"
+  },
+  {
+    "id": "gh-1382454774",
+    "name": "VictorButoi/FleXray",
+    "description": "FleXray: Universal Clinical X-ray Segmentation",
+    "url": "https://github.com/VictorButoi/FleXray",
+    "stars": 50,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "machine-learning",
+      "medical-imaging",
+      "segmentation"
+    ],
+    "created_at": "2026-09-22T23:12:51Z"
+  },
+  {
+    "id": "gh-1382519703",
+    "name": "janishar/qwen-image-2.1-studio",
+    "description": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
+    "url": "https://github.com/janishar/qwen-image-2.1-studio",
+    "stars": 49,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "diffusion",
+      "generative-ai",
+      "helmstudio",
+      "image-editing",
+      "local-ai",
+      "macos",
+      "mps",
+      "prompt-enhancement",
+      "pytorch",
+      "qwen-image",
+      "text-to-image",
+      "web-ui"
+    ],
+    "created_at": "2026-09-23T00:47:22Z"
+  },
+  {
+    "id": "gh-1381702970",
+    "name": "mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+    "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy \u2014 the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
+    "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+    "stars": 21,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "machine-learning",
+      "snake-game",
+      "system-design"
+    ],
+    "created_at": "2026-09-22T14:24:31Z"
   }
 ]
