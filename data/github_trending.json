@@ -4,7 +4,7 @@
     "name": "jev-chat/jev-chat-jarvis",
     "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
     "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "stars": 6596,
+    "stars": 6733,
     "language": "Kotlin",
     "topics": [
       "accessibility-service",
@@ -20,7 +20,7 @@
     "name": "yetone/magpie",
     "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
     "url": "https://github.com/yetone/magpie",
-    "stars": 835,
+    "stars": 1150,
     "language": "Go",
     "topics": [
       "claude-code",
@@ -37,7 +37,7 @@
     "name": "nokia-applied-research/AnyJev",
     "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
     "url": "https://github.com/nokia-applied-research/AnyJev",
-    "stars": 758,
+    "stars": 806,
     "language": "Python",
     "topics": [
       "calibration",
@@ -56,7 +56,7 @@
     "name": "yukitorido/short-video-generator-AI",
     "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
     "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 714,
+    "stars": 721,
     "language": "Python",
     "topics": [
       "ai",
@@ -76,7 +76,7 @@
     "name": "jev-chat/jev-chat-windows",
     "description": "JevChat-Windows\uff1a\u804a\u5929\u7a97\u53e3\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\u3002\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
     "url": "https://github.com/jev-chat/jev-chat-windows",
-    "stars": 576,
+    "stars": 603,
     "language": "Python",
     "topics": [
       "chat-assistant",
@@ -93,28 +93,11 @@
     "created_at": "2026-09-21T14:37:14Z"
   },
   {
-    "id": "gh-1378084143",
-    "name": "Inkloom-art/inkloom",
-    "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-    "url": "https://github.com/Inkloom-art/inkloom",
-    "stars": 328,
-    "language": "TypeScript",
-    "topics": [
-      "brand-identity",
-      "cloudflare-workers",
-      "design-systems",
-      "generative-ai",
-      "logo-design",
-      "typography"
-    ],
-    "created_at": "2026-09-20T07:54:30Z"
-  },
-  {
     "id": "gh-1386778170",
     "name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 261,
+    "stars": 438,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -131,51 +114,11 @@
     "created_at": "2026-09-25T04:50:06Z"
   },
   {
-    "id": "gh-1378562653",
-    "name": "Rylaispirit/cinematic-video-prompt-skill",
-    "description": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese explanations.",
-    "url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
-    "stars": 97,
-    "language": null,
-    "topics": [
-      "ai-video",
-      "camera-movement",
-      "cinematography",
-      "claude-skill",
-      "generative-ai",
-      "kling",
-      "lighting",
-      "midjourney",
-      "prompt-engineering",
-      "prompts",
-      "runway",
-      "sora",
-      "text-to-video",
-      "veo3",
-      "vietnamese"
-    ],
-    "created_at": "2026-09-20T16:44:06Z"
-  },
-  {
-    "id": "gh-1382777337",
-    "name": "chelinho139/wow-ai",
-    "description": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
-    "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 95,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "claude-code",
-      "wow"
-    ],
-    "created_at": "2026-09-23T04:57:34Z"
-  },
-  {
     "id": "gh-1379601713",
     "name": "Simreal-AI/Simreal-MLBench",
     "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
     "url": "https://github.com/Simreal-AI/Simreal-MLBench",
-    "stars": 92,
+    "stars": 116,
     "language": "Python",
     "topics": [
       "agentic",
@@ -196,11 +139,25 @@
     "created_at": "2026-09-21T11:29:47Z"
   },
   {
+    "id": "gh-1382777337",
+    "name": "chelinho139/wow-ai",
+    "description": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
+    "url": "https://github.com/chelinho139/wow-ai",
+    "stars": 100,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "claude-code",
+      "wow"
+    ],
+    "created_at": "2026-09-23T04:57:34Z"
+  },
+  {
     "id": "gh-1385234557",
     "name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 74,
+    "stars": 93,
     "language": null,
     "topics": [
       "ai",
@@ -214,38 +171,11 @@
     "created_at": "2026-09-24T10:15:43Z"
   },
   {
-    "id": "gh-1379859926",
-    "name": "andududu/jeview",
-    "description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
-    "url": "https://github.com/andududu/jeview",
-    "stars": 56,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "debugging",
-      "developer-tools",
-      "jev",
-      "jev-ai",
-      "llm",
-      "local-first",
-      "observability",
-      "sqlite",
-      "typesafe",
-      "typesafe-ai",
-      "typesafe-jev",
-      "visualization",
-      "visualizer"
-    ],
-    "created_at": "2026-09-21T14:03:13Z"
-  },
-  {
     "id": "gh-1382454774",
     "name": "VictorButoi/FleXray",
     "description": "FleXray: Universal Clinical X-ray Segmentation",
     "url": "https://github.com/VictorButoi/FleXray",
-    "stars": 50,
+    "stars": 60,
     "language": "Python",
     "topics": [
       "ai",
@@ -261,7 +191,7 @@
     "name": "janishar/qwen-image-2.1-studio",
     "description": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
     "url": "https://github.com/janishar/qwen-image-2.1-studio",
-    "stars": 49,
+    "stars": 55,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -285,7 +215,7 @@
     "name": "mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
     "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy \u2014 the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
     "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
-    "stars": 21,
+    "stars": 23,
     "language": "Python",
     "topics": [
       "ai",
@@ -295,5 +225,79 @@
       "system-design"
     ],
     "created_at": "2026-09-22T14:24:31Z"
+  },
+  {
+    "id": "gh-1387683906",
+    "name": "dev-luigi/neural-network-digits",
+    "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
+    "url": "https://github.com/dev-luigi/neural-network-digits",
+    "stars": 21,
+    "language": "Python",
+    "topics": [
+      "backpropagation",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "handwritten-digit-recognition",
+      "machine-learning",
+      "matplotlib",
+      "mnist",
+      "neural-network",
+      "numpy",
+      "python",
+      "tkinter"
+    ],
+    "created_at": "2026-09-25T14:40:10Z"
+  },
+  {
+    "id": "gh-1387002904",
+    "name": "zero2005x/ipasAI",
+    "description": "iPAS AI \u61c9\u7528\u898f\u5283\u5e2b\uff08\u4e2d\u7d1a\uff09\u8003\u7db1\u6559\u79d1\u66f8 v0.3 \u958b\u6e90\u7248\uff08\u542b\u4e09\u518a\u5b8c\u6574\u6559\u6750\u3001219 \u984c\u6a21\u64ec\u984c\u3001300 \u984c\u5b98\u65b9\u8a66\u984c\u89e3\u6790\u7d22\u5f15\u8207 PDF \u7de8\u8b6f\u5de5\u5177\uff09",
+    "url": "https://github.com/zero2005x/ipasAI",
+    "stars": 16,
+    "language": "Python",
+    "topics": [
+      "ai-application-planner",
+      "ai-governance",
+      "deep-learning",
+      "eu-ai-act",
+      "exam-preparation",
+      "generative-ai",
+      "intermediate-level",
+      "ipas",
+      "ipas-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "mock-exam",
+      "pdf-translation",
+      "question-bank",
+      "specialist-level",
+      "study-notes",
+      "taiwan",
+      "textbook",
+      "traditional-chinese"
+    ],
+    "created_at": "2026-09-25T07:24:15Z"
+  },
+  {
+    "id": "gh-1380658970",
+    "name": "scarletkc/Variora",
+    "description": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.",
+    "url": "https://github.com/scarletkc/Variora",
+    "stars": 14,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-generated",
+      "awesome",
+      "coding-agents",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "model-comparison",
+      "showcase"
+    ],
+    "created_at": "2026-09-21T23:53:27Z"
   }
 ]

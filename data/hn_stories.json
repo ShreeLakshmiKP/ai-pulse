@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-49843174",
-    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "url": "https://github.com/git-bug/git-bug",
-    "points": 336,
-    "comments": 108,
-    "source": "Hacker News",
-    "published_date": "2026-09-25T11:38:31Z"
-  },
-  {
-    "id": "hn-49845172",
-    "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-    "url": "https://jev-pokemon.vercel.app/",
-    "points": 203,
+    "id": "hn-49858513",
+    "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "url": "https://github.com/reladraw/reladraw",
+    "points": 317,
     "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-09-25T14:28:07Z"
+    "published_date": "2026-09-26T17:10:40Z"
   },
   {
-    "id": "hn-49845952",
-    "title": "Classified estimates show the NSA is paying billions to test AI models",
-    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-    "points": 171,
-    "comments": 101,
+    "id": "hn-49863864",
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "points": 234,
+    "comments": 201,
     "source": "Hacker News",
-    "published_date": "2026-09-25T15:27:35Z"
+    "published_date": "2026-09-27T06:19:33Z"
   },
   {
-    "id": "hn-49848295",
-    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-    "points": 139,
-    "comments": 25,
+    "id": "hn-49857656",
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "points": 97,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-09-25T18:37:05Z"
+    "published_date": "2026-09-26T15:49:04Z"
   },
   {
-    "id": "hn-49848955",
-    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-    "url": "https://news.ycombinator.com/item?id=49848955",
-    "points": 126,
-    "comments": 118,
+    "id": "hn-49856034",
+    "title": "CEO of Mistral: AI is software. It can be controlled",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+    "points": 93,
+    "comments": 162,
     "source": "Hacker News",
-    "published_date": "2026-09-25T19:37:55Z"
+    "published_date": "2026-09-26T12:52:04Z"
   },
   {
-    "id": "hn-49844896",
-    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-    "points": 125,
-    "comments": 118,
+    "id": "hn-49857528",
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "url": "https://github.com/brumar/chess-postmortem-skills",
+    "points": 73,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-09-25T14:07:08Z"
+    "published_date": "2026-09-26T15:34:53Z"
   },
   {
-    "id": "hn-49849625",
-    "title": "Too AI; Didn't Read",
-    "url": "https://www.tai-dr.com/",
-    "points": 108,
-    "comments": 108,
+    "id": "hn-49861047",
+    "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+    "url": "https://news.ycombinator.com/item?id=49861047",
+    "points": 69,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-09-25T20:37:56Z"
+    "published_date": "2026-09-26T22:15:32Z"
   },
   {
-    "id": "hn-49848033",
-    "title": "Yes, Claude can do nine loops",
-    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-    "points": 103,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-09-25T18:11:48Z"
-  },
-  {
-    "id": "hn-49853175",
-    "title": "A single function Jev-like wrapper for LLMs, including vision models",
-    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-    "points": 79,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T04:20:58Z"
-  },
-  {
-    "id": "hn-49848838",
-    "title": "Bug: Border radius has infected VSCode editor",
-    "url": "https://github.com/microsoft/vscode/issues/338035",
-    "points": 76,
-    "comments": 50,
-    "source": "Hacker News",
-    "published_date": "2026-09-25T19:27:37Z"
-  },
-  {
-    "id": "hn-49846391",
-    "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
-    "url": "https://github.com/Avinash-jetwani/jevmem",
-    "points": 61,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-09-25T16:04:04Z"
-  },
-  {
-    "id": "hn-49846953",
-    "title": "Show HN: Doom or Bloom, map your AI worldview",
-    "url": "https://www.doom-or-bloom.com",
+    "id": "hn-49856149",
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
     "points": 56,
-    "comments": 45,
+    "comments": 71,
     "source": "Hacker News",
-    "published_date": "2026-09-25T16:51:28Z"
+    "published_date": "2026-09-26T13:05:36Z"
   },
   {
-    "id": "hn-49850999",
-    "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-    "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-    "points": 48,
-    "comments": 16,
+    "id": "hn-49856193",
+    "title": "Improving site performance by shipping more CSS",
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "points": 51,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-09-25T22:49:41Z"
+    "published_date": "2026-09-26T13:10:05Z"
   },
   {
-    "id": "hn-49854875",
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "points": 41,
-    "comments": 31,
+    "id": "hn-49857805",
+    "title": "Neomacs: GPU rendered Rust hard fork of Emacs",
+    "url": "https://github.com/eval-exec/neomacs",
+    "points": 42,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-09-26T09:41:58Z"
+    "published_date": "2026-09-26T16:03:13Z"
   },
   {
-    "id": "hn-49842707",
-    "title": "Uproar in France over award-winning author accused of using AI",
-    "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-    "points": 35,
-    "comments": 82,
+    "id": "hn-49861356",
+    "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+    "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+    "points": 30,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-09-25T10:48:32Z"
+    "published_date": "2026-09-26T22:54:01Z"
   },
   {
-    "id": "hn-49842596",
-    "title": "Show HN: Agentic CUDA Kernel Optimizer",
-    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "points": 33,
-    "comments": 11,
+    "id": "hn-49860545",
+    "title": "OpenAI pauses training of its 'most capable models'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "points": 22,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-09-25T10:32:58Z"
+    "published_date": "2026-09-26T21:07:08Z"
   },
   {
-    "id": "hn-49848734",
-    "title": "Pope: AI must serve humans not become tool of domination",
-    "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-    "points": 29,
-    "comments": 8,
+    "id": "hn-49860011",
+    "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+    "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8",
+    "points": 22,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-09-25T19:18:05Z"
+    "published_date": "2026-09-26T20:00:36Z"
   },
   {
-    "id": "hn-49850042",
-    "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-    "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-    "points": 21,
-    "comments": 9,
+    "id": "hn-49865343",
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+    "url": "https://arxiv.org/abs/2609.25021",
+    "points": 18,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-09-25T21:15:55Z"
+    "published_date": "2026-09-27T10:26:25Z"
   },
   {
-    "id": "hn-49848500",
-    "title": "Trump administration gutted data collection on US education",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/25/student-math-reading-test-scores",
+    "id": "hn-49858409",
+    "title": "Show HN: Spivak's Calculus formalized in Lean 4 \u2013 every theorem, every problem",
+    "url": "https://github.com/stormj-UH/spivak-lean",
     "points": 16,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-09-25T18:56:58Z"
+    "published_date": "2026-09-26T17:00:23Z"
   },
   {
-    "id": "hn-49845109",
-    "title": "Israel weaponises AI for West Bank demolitions",
-    "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions",
-    "points": 15,
-    "comments": 6,
+    "id": "hn-49857723",
+    "title": "The AI Bubble Explained",
+    "url": "https://hughhowey.com/the-ai-bubble-explained/",
+    "points": 14,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-09-25T14:23:12Z"
+    "published_date": "2026-09-26T15:55:36Z"
+  },
+  {
+    "id": "hn-49861272",
+    "title": "God's Eye UAP \u2013 documented UFO cases on a 3D globe, with the evidence",
+    "url": "https://domw99.github.io/Gods-Eye-UAPs/",
+    "points": 14,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-09-26T22:41:13Z"
+  },
+  {
+    "id": "hn-49861804",
+    "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+    "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+    "points": 12,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-09-26T23:57:41Z"
+  },
+  {
+    "id": "hn-49856000",
+    "title": "How to Freelance Now?",
+    "url": "https://news.ycombinator.com/item?id=49856000",
+    "points": 12,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-09-26T12:46:34Z"
+  },
+  {
+    "id": "hn-49858297",
+    "title": "What Happens if the A.I. Bubble Bursts",
+    "url": "https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html",
+    "points": 12,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-09-26T16:50:11Z"
   }
 ]
