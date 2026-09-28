@@ -1,173 +1,173 @@
 [
   {
-    "id": "hn-49858513",
-    "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-    "url": "https://github.com/reladraw/reladraw",
-    "points": 317,
-    "comments": 85,
+    "id": "hn-49870367",
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "points": 1418,
+    "comments": 764,
     "source": "Hacker News",
-    "published_date": "2026-09-26T17:10:40Z"
+    "published_date": "2026-09-27T20:12:54Z"
   },
   {
-    "id": "hn-49863864",
-    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "points": 234,
-    "comments": 201,
+    "id": "hn-49868083",
+    "title": "There are no \"rogue\" AI agents",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "points": 370,
+    "comments": 253,
     "source": "Hacker News",
-    "published_date": "2026-09-27T06:19:33Z"
+    "published_date": "2026-09-27T16:19:46Z"
   },
   {
-    "id": "hn-49857656",
-    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "points": 97,
-    "comments": 39,
+    "id": "hn-49868404",
+    "title": "Don't couple your Go code to GitHub",
+    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "points": 268,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-09-26T15:49:04Z"
+    "published_date": "2026-09-27T16:50:58Z"
   },
   {
-    "id": "hn-49856034",
-    "title": "CEO of Mistral: AI is software. It can be controlled",
-    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
-    "points": 93,
-    "comments": 162,
+    "id": "hn-49874728",
+    "title": "Prompting Claude Opus 5.5",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+    "points": 137,
+    "comments": 131,
     "source": "Hacker News",
-    "published_date": "2026-09-26T12:52:04Z"
+    "published_date": "2026-09-28T07:33:29Z"
   },
   {
-    "id": "hn-49857528",
-    "title": "Show HN: A Claude Code skill to analyze your chess games",
-    "url": "https://github.com/brumar/chess-postmortem-skills",
-    "points": 73,
-    "comments": 53,
+    "id": "hn-49873241",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "url": "https://arxiv.org/abs/2110.01834",
+    "points": 123,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-09-26T15:34:53Z"
+    "published_date": "2026-09-28T03:23:53Z"
   },
   {
-    "id": "hn-49861047",
-    "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-    "url": "https://news.ycombinator.com/item?id=49861047",
-    "points": 69,
-    "comments": 29,
+    "id": "hn-49875148",
+    "title": "AI companies in race to demonstrate their model most threatening to humanity",
+    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+    "points": 120,
+    "comments": 66,
     "source": "Hacker News",
-    "published_date": "2026-09-26T22:15:32Z"
+    "published_date": "2026-09-28T08:35:40Z"
   },
   {
-    "id": "hn-49856149",
-    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-    "points": 56,
-    "comments": 71,
+    "id": "hn-49867775",
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "url": "https://tinyaiarena.com/",
+    "points": 110,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-09-26T13:05:36Z"
+    "published_date": "2026-09-27T15:51:28Z"
   },
   {
-    "id": "hn-49856193",
-    "title": "Improving site performance by shipping more CSS",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-    "points": 51,
-    "comments": 29,
+    "id": "hn-49875913",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "points": 86,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-09-26T13:10:05Z"
+    "published_date": "2026-09-28T10:30:54Z"
   },
   {
-    "id": "hn-49857805",
-    "title": "Neomacs: GPU rendered Rust hard fork of Emacs",
-    "url": "https://github.com/eval-exec/neomacs",
-    "points": 42,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T16:03:13Z"
-  },
-  {
-    "id": "hn-49861356",
-    "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
-    "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
-    "points": 30,
+    "id": "hn-49869995",
+    "title": "Imp is a full port of DSPy to the BEAM",
+    "url": "https://github.com/deepfates/imp",
+    "points": 83,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-09-26T22:54:01Z"
+    "published_date": "2026-09-27T19:28:23Z"
   },
   {
-    "id": "hn-49860545",
-    "title": "OpenAI pauses training of its 'most capable models'",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "points": 22,
-    "comments": 10,
+    "id": "hn-49866597",
+    "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+    "url": "https://www.markdown.beauty/",
+    "points": 68,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-09-26T21:07:08Z"
+    "published_date": "2026-09-27T13:44:45Z"
   },
   {
-    "id": "hn-49860011",
-    "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
-    "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8",
-    "points": 22,
-    "comments": 0,
+    "id": "hn-49870304",
+    "title": "Have an LLC",
+    "url": "https://zachholman.com/posts/you-should-have-an-llc",
+    "points": 62,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-09-26T20:00:36Z"
+    "published_date": "2026-09-27T20:04:37Z"
   },
   {
-    "id": "hn-49865343",
-    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-    "url": "https://arxiv.org/abs/2609.25021",
-    "points": 18,
-    "comments": 2,
+    "id": "hn-49868202",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+    "points": 57,
+    "comments": 115,
     "source": "Hacker News",
-    "published_date": "2026-09-27T10:26:25Z"
+    "published_date": "2026-09-27T16:29:38Z"
   },
   {
-    "id": "hn-49858409",
-    "title": "Show HN: Spivak's Calculus formalized in Lean 4 \u2013 every theorem, every problem",
-    "url": "https://github.com/stormj-UH/spivak-lean",
-    "points": 16,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T17:00:23Z"
-  },
-  {
-    "id": "hn-49857723",
-    "title": "The AI Bubble Explained",
-    "url": "https://hughhowey.com/the-ai-bubble-explained/",
-    "points": 14,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T15:55:36Z"
-  },
-  {
-    "id": "hn-49861272",
-    "title": "God's Eye UAP \u2013 documented UFO cases on a 3D globe, with the evidence",
-    "url": "https://domw99.github.io/Gods-Eye-UAPs/",
-    "points": 14,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T22:41:13Z"
-  },
-  {
-    "id": "hn-49861804",
-    "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-    "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
-    "points": 12,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-09-26T23:57:41Z"
-  },
-  {
-    "id": "hn-49856000",
-    "title": "How to Freelance Now?",
-    "url": "https://news.ycombinator.com/item?id=49856000",
-    "points": 12,
+    "id": "hn-49868753",
+    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+    "url": "https://earnanhonestdollar.com/bench",
+    "points": 57,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-09-26T12:46:34Z"
+    "published_date": "2026-09-27T17:24:17Z"
   },
   {
-    "id": "hn-49858297",
-    "title": "What Happens if the A.I. Bubble Bursts",
-    "url": "https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html",
-    "points": 12,
+    "id": "hn-49872365",
+    "title": "Every Household in This Rural Town Receives $10k If a Data Center Gets Built",
+    "url": "https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7",
+    "points": 26,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-09-28T01:00:45Z"
+  },
+  {
+    "id": "hn-49871139",
+    "title": "George Hotz\u2019s opinion on AI coding",
+    "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+    "points": 20,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-09-27T21:40:54Z"
+  },
+  {
+    "id": "hn-49869547",
+    "title": "Israeli Settlers Can Get Away with Murder [video]",
+    "url": "https://www.youtube.com/watch?v=62_JDWywvEI",
+    "points": 20,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-09-27T18:41:27Z"
+  },
+  {
+    "id": "hn-49867093",
+    "title": "Alternatives to GPS are around the corner",
+    "url": "https://www.economist.com/science-and-technology/2026/09/27/alternatives-to-gps-are-around-the-corner",
+    "points": 14,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-09-26T16:50:11Z"
+    "published_date": "2026-09-27T14:47:30Z"
+  },
+  {
+    "id": "hn-49872200",
+    "title": "Cambrian Explosion of AI",
+    "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+    "points": 12,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-09-28T00:25:57Z"
+  },
+  {
+    "id": "hn-49872507",
+    "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+    "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+    "points": 12,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-09-28T01:28:34Z"
   }
 ]
