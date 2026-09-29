@@ -1,10 +1,27 @@
 [
   {
+    "id": "gh-1393965829",
+    "name": "KKKKhazix/AIHOT",
+    "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "stars": 2373,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "llm",
+      "mcp",
+      "news-aggregator",
+      "rss",
+      "self-hosted"
+    ],
+    "created_at": "2026-09-28T23:40:05Z"
+  },
+  {
     "id": "gh-1383809012",
     "name": "yetone/magpie",
     "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
     "url": "https://github.com/yetone/magpie",
-    "stars": 1504,
+    "stars": 1858,
     "language": "Go",
     "topics": [
       "claude-code",
@@ -17,57 +34,11 @@
     "created_at": "2026-09-23T16:22:35Z"
   },
   {
-    "id": "gh-1383988294",
-    "name": "yukitorido/short-video-generator-AI",
-    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-    "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 729,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "llm",
-      "llm-tools",
-      "opus-clip",
-      "opus-clip-alternative",
-      "short-video",
-      "short-video-automation",
-      "short-video-generator",
-      "short-video-maker"
-    ],
-    "created_at": "2026-09-23T18:11:57Z"
-  },
-  {
-    "id": "gh-1380762959",
-    "name": "kydlikebtc/awesome-jev",
-    "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
-    "url": "https://github.com/kydlikebtc/awesome-jev",
-    "stars": 582,
-    "language": "Python",
-    "topics": [
-      "agent-tools",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "calibration",
-      "catalog",
-      "classification",
-      "context-compaction",
-      "decision-model",
-      "intent-routing",
-      "jev",
-      "llm",
-      "system-one",
-      "tool-selection",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-22T02:22:54Z"
-  },
-  {
     "id": "gh-1386778170",
     "name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 454,
+    "stars": 467,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -88,7 +59,7 @@
     "name": "zouyuxuan122/dsh-our-free-model",
     "description": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec Muse Spark 1.3\u3001MiMo V2.6 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 336,
+    "stars": 382,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -105,11 +76,65 @@
     "created_at": "2026-09-24T16:17:19Z"
   },
   {
+    "id": "gh-1383184578",
+    "name": "tswawa/WechatVibe",
+    "description": "\u5fae\u4fe1\u804a\u5929\u5206\u6790\u5de5\u5177\uff0c\u652f\u6301\u672c\u5730 Laya \u4e0e API \u6a21\u578b\uff0c\u63d0\u4f9b\u610f\u56fe\u8bc6\u522b\u3001\u60c5\u7eea\u611f\u77e5\u3001\u4eba\u7269\u753b\u50cf\u3001\u7fa4\u804a\u753b\u50cf\u3001\u597d\u611f\u5ea6\u5206\u6790\u548c MBTI \u804a\u5929\u63a8\u6d4b\u3002",
+    "url": "https://github.com/tswawa/WechatVibe",
+    "stars": 153,
+    "language": "Python",
+    "topics": [
+      "chat-analysis",
+      "electron",
+      "emotion-recognition",
+      "intent-recognition",
+      "laya",
+      "llm",
+      "local-ai",
+      "mbti",
+      "onnx",
+      "personality-analysis",
+      "wechat",
+      "windows"
+    ],
+    "created_at": "2026-09-23T09:59:24Z"
+  },
+  {
+    "id": "gh-1390878120",
+    "name": "scarletkc/seiso",
+    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+    "url": "https://github.com/scarletkc/seiso",
+    "stars": 138,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "commonmark",
+      "conventions",
+      "developer-tools",
+      "docs-as-code",
+      "documentation",
+      "documentation-tool",
+      "gfm",
+      "lint",
+      "linter",
+      "llm",
+      "markdown",
+      "markdown-linter",
+      "rust",
+      "static-analysis",
+      "technical-writing"
+    ],
+    "created_at": "2026-09-27T13:27:28Z"
+  },
+  {
     "id": "gh-1382777337",
     "name": "chelinho139/wow-ai",
     "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
     "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 112,
+    "stars": 117,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -123,7 +148,7 @@
     "name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 102,
+    "stars": 106,
     "language": null,
     "topics": [
       "ai",
@@ -135,52 +160,6 @@
       "t2i"
     ],
     "created_at": "2026-09-24T10:15:43Z"
-  },
-  {
-    "id": "gh-1380840810",
-    "name": "mrtinkz/ai-charter",
-    "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
-    "url": "https://github.com/mrtinkz/ai-charter",
-    "stars": 97,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "ai-data",
-      "ai-detection",
-      "ai-development",
-      "ai-directory",
-      "ai-discovery",
-      "ai-driven",
-      "ai-ethics",
-      "ai-evaluation",
-      "ai-governance",
-      "ai-model",
-      "ai-safety",
-      "ai-security",
-      "ai-tools",
-      "artificial-intelligence",
-      "certification"
-    ],
-    "created_at": "2026-09-22T03:47:52Z"
-  },
-  {
-    "id": "gh-1382454774",
-    "name": "VictorButoi/FleXray",
-    "description": "FleXray: Universal Clinical X-ray Segmentation",
-    "url": "https://github.com/VictorButoi/FleXray",
-    "stars": 66,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "computer-vision",
-      "machine-learning",
-      "medical-imaging",
-      "segmentation"
-    ],
-    "created_at": "2026-09-22T23:12:51Z"
   },
   {
     "id": "gh-1382519703",
@@ -211,7 +190,7 @@
     "name": "dev-luigi/neural-network-digits",
     "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
     "url": "https://github.com/dev-luigi/neural-network-digits",
-    "stars": 27,
+    "stars": 30,
     "language": "Python",
     "topics": [
       "backpropagation",
@@ -230,20 +209,27 @@
     "created_at": "2026-09-25T14:40:10Z"
   },
   {
-    "id": "gh-1381702970",
-    "name": "mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
-    "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy \u2014 the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
-    "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
-    "stars": 23,
+    "id": "gh-1387889135",
+    "name": "ceyyy427/financial-research-optimizer",
+    "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
+    "url": "https://github.com/ceyyy427/financial-research-optimizer",
+    "stars": 29,
     "language": "Python",
     "topics": [
-      "ai",
+      "backtesting",
+      "data-provenance",
       "deep-learning",
+      "finance",
+      "financial-data",
       "machine-learning",
-      "snake-game",
-      "system-design"
+      "point-in-time-data",
+      "portfolio-optimization",
+      "python",
+      "quantitative-finance",
+      "research-workflow",
+      "time-series"
     ],
-    "created_at": "2026-09-22T14:24:31Z"
+    "created_at": "2026-09-25T16:42:23Z"
   },
   {
     "id": "gh-1387002904",
@@ -277,34 +263,30 @@
     "created_at": "2026-09-25T07:24:15Z"
   },
   {
-    "id": "gh-1387889135",
-    "name": "ceyyy427/financial-research-optimizer",
-    "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
-    "url": "https://github.com/ceyyy427/financial-research-optimizer",
-    "stars": 15,
+    "id": "gh-1385329966",
+    "name": "DhanushNehru/tachyroute",
+    "description": "The blazing-fast, multimodal AI decision engine. Uses adaptive early-exit computing and attention rollout for sub-15ms explainable zero-shot classification",
+    "url": "https://github.com/DhanushNehru/tachyroute",
+    "stars": 13,
     "language": "Python",
     "topics": [
-      "backtesting",
-      "data-provenance",
-      "deep-learning",
-      "finance",
-      "financial-data",
+      "decision-engine",
+      "early-exit",
+      "explainable-ai",
       "machine-learning",
-      "point-in-time-data",
-      "portfolio-optimization",
-      "python",
-      "quantitative-finance",
-      "research-workflow",
-      "time-series"
+      "nlp",
+      "pytorch",
+      "transformers",
+      "zero-shot-classification"
     ],
-    "created_at": "2026-09-25T16:42:23Z"
+    "created_at": "2026-09-24T11:22:57Z"
   },
   {
     "id": "gh-1382973385",
     "name": "SilentFleetKK/qingming-bianjing",
     "description": "\u540c\u4e00\u4efd\u63d0\u793a\u8bcd\uff0c\u4e24\u5ea7\u6c74\u4eac\uff1aClaude Opus 5.5 \u4e0e GPT 6 Sol \u5404\u81ea\u4ece\u96f6\u5199\u51fa\u7684\u300a\u6e05\u660e\u4e0a\u6cb3\u56fe\u300b\u5b9e\u65f6 3D \u7f51\u9875 \u00b7 Same prompt, two cities \u2014 a real-time 3D Bianjing benchmark for LLMs",
     "url": "https://github.com/SilentFleetKK/qingming-bianjing",
-    "stars": 9,
+    "stars": 10,
     "language": "HTML",
     "topics": [
       "benchmark",
@@ -315,5 +297,31 @@
       "webgl"
     ],
     "created_at": "2026-09-23T07:31:28Z"
+  },
+  {
+    "id": "gh-1387773949",
+    "name": "neurono-ml/typed-lm",
+    "description": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle.",
+    "url": "https://github.com/neurono-ml/typed-lm",
+    "stars": 9,
+    "language": "Rust",
+    "topics": [
+      "actix-web",
+      "candle",
+      "classification",
+      "huggingface",
+      "inference",
+      "llm",
+      "lora",
+      "machine-learning",
+      "mlops",
+      "nlp",
+      "qlora",
+      "quantization",
+      "rust",
+      "semantic-routing",
+      "transformer"
+    ],
+    "created_at": "2026-09-25T15:27:03Z"
   }
 ]

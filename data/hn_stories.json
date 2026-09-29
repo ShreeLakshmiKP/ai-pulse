@@ -1,173 +1,182 @@
 [
   {
-    "id": "hn-49870367",
-    "title": "When did Google get so weird?",
-    "url": "https://sancho.bearblog.dev/google-weird/",
-    "points": 1418,
-    "comments": 764,
+    "id": "hn-49881850",
+    "title": "Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "points": 821,
+    "comments": 551,
     "source": "Hacker News",
-    "published_date": "2026-09-27T20:12:54Z"
+    "published_date": "2026-09-28T17:58:11Z"
   },
   {
-    "id": "hn-49868083",
-    "title": "There are no \"rogue\" AI agents",
-    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "id": "hn-49883471",
+    "title": "It's Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "points": 531,
+    "comments": 223,
+    "source": "Hacker News",
+    "published_date": "2026-09-28T19:53:35Z"
+  },
+  {
+    "id": "hn-49883844",
+    "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "url": "https://github.com/firelex/jeff",
+    "points": 514,
+    "comments": 196,
+    "source": "Hacker News",
+    "published_date": "2026-09-28T20:23:36Z"
+  },
+  {
+    "id": "hn-49880312",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
     "points": 370,
-    "comments": 253,
+    "comments": 234,
     "source": "Hacker News",
-    "published_date": "2026-09-27T16:19:46Z"
+    "published_date": "2026-09-28T16:11:42Z"
   },
   {
-    "id": "hn-49868404",
-    "title": "Don't couple your Go code to GitHub",
-    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "points": 268,
-    "comments": 126,
+    "id": "hn-49882781",
+    "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "points": 254,
+    "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-09-27T16:50:58Z"
+    "published_date": "2026-09-28T18:58:53Z"
   },
   {
-    "id": "hn-49874728",
-    "title": "Prompting Claude Opus 5.5",
-    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-    "points": 137,
-    "comments": 131,
+    "id": "hn-49879401",
+    "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
+    "url": "https://hn.watch/",
+    "points": 193,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-09-28T07:33:29Z"
+    "published_date": "2026-09-28T15:16:13Z"
   },
   {
-    "id": "hn-49873241",
-    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-    "url": "https://arxiv.org/abs/2110.01834",
-    "points": 123,
-    "comments": 40,
+    "id": "hn-49879883",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "points": 187,
+    "comments": 235,
     "source": "Hacker News",
-    "published_date": "2026-09-28T03:23:53Z"
+    "published_date": "2026-09-28T15:46:36Z"
   },
   {
-    "id": "hn-49875148",
-    "title": "AI companies in race to demonstrate their model most threatening to humanity",
-    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-    "points": 120,
-    "comments": 66,
+    "id": "hn-49890226",
+    "title": "AI companies leak data to advertisers [pdf]",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "points": 141,
+    "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-09-28T08:35:40Z"
+    "published_date": "2026-09-29T09:03:41Z"
   },
   {
-    "id": "hn-49867775",
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
-    "url": "https://tinyaiarena.com/",
+    "id": "hn-49876760",
+    "title": "Show HN: Hntui \u2013 A TUI for Hacker News",
+    "url": "https://github.com/ahmd-sh/hntui",
     "points": 110,
-    "comments": 44,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-09-27T15:51:28Z"
+    "published_date": "2026-09-28T12:11:20Z"
   },
   {
-    "id": "hn-49875913",
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-    "url": "https://git.mills.io/prologic/parley",
-    "points": 86,
-    "comments": 24,
+    "id": "hn-49886005",
+    "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+    "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+    "points": 108,
+    "comments": 105,
     "source": "Hacker News",
-    "published_date": "2026-09-28T10:30:54Z"
+    "published_date": "2026-09-28T23:40:59Z"
   },
   {
-    "id": "hn-49869995",
-    "title": "Imp is a full port of DSPy to the BEAM",
-    "url": "https://github.com/deepfates/imp",
-    "points": 83,
-    "comments": 7,
+    "id": "hn-49884625",
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "points": 108,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-09-27T19:28:23Z"
+    "published_date": "2026-09-28T21:26:41Z"
   },
   {
-    "id": "hn-49866597",
-    "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
-    "url": "https://www.markdown.beauty/",
-    "points": 68,
-    "comments": 49,
+    "id": "hn-49881484",
+    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "points": 106,
+    "comments": 109,
     "source": "Hacker News",
-    "published_date": "2026-09-27T13:44:45Z"
+    "published_date": "2026-09-28T17:33:34Z"
   },
   {
-    "id": "hn-49870304",
-    "title": "Have an LLC",
-    "url": "https://zachholman.com/posts/you-should-have-an-llc",
-    "points": 62,
-    "comments": 53,
+    "id": "hn-49884119",
+    "title": "Pacing the Frontier is not the actual goal for AI labs",
+    "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+    "points": 82,
+    "comments": 90,
     "source": "Hacker News",
-    "published_date": "2026-09-27T20:04:37Z"
+    "published_date": "2026-09-28T20:47:26Z"
   },
   {
-    "id": "hn-49868202",
-    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-    "points": 57,
-    "comments": 115,
+    "id": "hn-49879032",
+    "title": "Jensen Huang says AI distillation is 'competition.'",
+    "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+    "points": 72,
+    "comments": 79,
     "source": "Hacker News",
-    "published_date": "2026-09-27T16:29:38Z"
+    "published_date": "2026-09-28T14:55:34Z"
   },
   {
-    "id": "hn-49868753",
-    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-    "url": "https://earnanhonestdollar.com/bench",
-    "points": 57,
-    "comments": 14,
+    "id": "hn-49885493",
+    "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+    "url": "https://jonclegg.github.io/pacman-bakeoff/",
+    "points": 67,
+    "comments": 41,
     "source": "Hacker News",
-    "published_date": "2026-09-27T17:24:17Z"
+    "published_date": "2026-09-28T22:43:12Z"
   },
   {
-    "id": "hn-49872365",
-    "title": "Every Household in This Rural Town Receives $10k If a Data Center Gets Built",
-    "url": "https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7",
-    "points": 26,
-    "comments": 32,
+    "id": "hn-49880968",
+    "title": "We Can't Let Enormous Weirdos Regulate AI",
+    "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
+    "points": 45,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-09-28T01:00:45Z"
+    "published_date": "2026-09-28T16:55:50Z"
   },
   {
-    "id": "hn-49871139",
-    "title": "George Hotz\u2019s opinion on AI coding",
-    "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
-    "points": 20,
-    "comments": 10,
+    "id": "hn-49883345",
+    "title": "SB 923 is Law: CCPA deletion rights now reach third-party data",
+    "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+    "points": 41,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-09-27T21:40:54Z"
+    "published_date": "2026-09-28T19:44:49Z"
   },
   {
-    "id": "hn-49869547",
-    "title": "Israeli Settlers Can Get Away with Murder [video]",
-    "url": "https://www.youtube.com/watch?v=62_JDWywvEI",
-    "points": 20,
-    "comments": 26,
+    "id": "hn-49885109",
+    "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+    "url": "https://blog.greenpants.net/ai-accountability/",
+    "points": 35,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-09-27T18:41:27Z"
+    "published_date": "2026-09-28T22:05:46Z"
   },
   {
-    "id": "hn-49867093",
-    "title": "Alternatives to GPS are around the corner",
-    "url": "https://www.economist.com/science-and-technology/2026/09/27/alternatives-to-gps-are-around-the-corner",
-    "points": 14,
-    "comments": 1,
+    "id": "hn-49877515",
+    "title": "Show HN: OpenAPPA \u2013 open-source deterministic guardrails that don't break agents",
+    "url": "https://www.openappa.com/",
+    "points": 23,
+    "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-09-27T14:47:30Z"
+    "published_date": "2026-09-28T13:20:44Z"
   },
   {
-    "id": "hn-49872200",
-    "title": "Cambrian Explosion of AI",
-    "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
-    "points": 12,
-    "comments": 11,
+    "id": "hn-49886228",
+    "title": "GPT-6 Astra Is the Best Vision Model We Have Tested",
+    "url": "https://blog.roboflow.com/gpt-6-astra-vision/",
+    "points": 23,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-09-28T00:25:57Z"
-  },
-  {
-    "id": "hn-49872507",
-    "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
-    "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
-    "points": 12,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-09-28T01:28:34Z"
+    "published_date": "2026-09-29T00:10:30Z"
   }
 ]
