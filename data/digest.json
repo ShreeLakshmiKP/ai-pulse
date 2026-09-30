@@ -1,8 +1,12 @@
 {
-  "date": "2026-09-29",
-  "headline": "TechCrunch AI \u00b7 TechCrunch AI \u00b7 TechCrunch AI",
-  "top_story": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+  "date": "2026-09-30",
+  "headline": "MIT Tech Review \u00b7 TechCrunch AI \u00b7 TechCrunch AI",
+  "top_story": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
   "highlights": [
+    {
+      "type": "research",
+      "text": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says Open..."
+    },
     {
       "type": "tool",
       "text": "Mark Zuckerberg predicts that billions of people will have personal AI agents..."
@@ -14,10 +18,6 @@
     {
       "type": "tool",
       "text": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents"
-    },
-    {
-      "type": "research",
-      "text": "How an overlooked geothermal plant got a second chance"
     },
     {
       "type": "model",
@@ -32,8 +32,8 @@
     "tool-006"
   ],
   "top_articles": [
+    "rss-249c9190",
     "rss-1929c185",
-    "rss-feca2ec5",
-    "rss-c9945336"
+    "rss-feca2ec5"
   ]
 }

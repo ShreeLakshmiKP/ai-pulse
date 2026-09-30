@@ -1,5 +1,21 @@
 [
   {
+    "id": "rss-249c9190",
+    "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 30 Sep 2026 10:40:30 +0000",
+    "image": null
+  },
+  {
     "id": "rss-1929c185",
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
@@ -4338,19 +4354,6 @@
     "tags": [],
     "category": "Research",
     "published_date": "Wed, 05 Aug 2026 14:56:29 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ff71d16d",
-    "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 05 Aug 2026 12:10:00 +0000",
     "image": null
   }
 ]
