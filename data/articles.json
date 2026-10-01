@@ -1,5 +1,123 @@
 [
   {
+    "id": "rss-b0e8a6f4",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 30 Sep 2026 23:43:07 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1531fa60",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 30 Sep 2026 21:07:40 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-8d6a4fe5",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b8d72f36",
+    "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 30 Sep 2026 19:00:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7b98304d",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 30 Sep 2026 18:23:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5713af8d",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 30 Sep 2026 17:45:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-c5fa6221",
+    "title": "Introducing SynthID Bio",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a65fe8c4",
+    "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 30 Sep 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-249c9190",
     "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
     "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires.",
@@ -13,6 +131,49 @@
     ],
     "category": "Research",
     "published_date": "Wed, 30 Sep 2026 10:40:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-9c5854b8",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 30 Sep 2026 10:30:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-3cfffd6c",
+    "title": "Helping small businesses put AI to work",
+    "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-30ddd413",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 30 Sep 2026 00:00:00 GMT",
     "image": null
   },
   {
@@ -4192,168 +4353,6 @@
     ],
     "category": "Robotics",
     "published_date": "Wed, 06 May 2026 06:34:32 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2d7f3b66",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-49359060",
-    "title": "How frontier enterprises are building an AI advantage",
-    "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "tags": [
-      "agents",
-      "OpenAI"
-    ],
-    "category": "Research",
-    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-b18ba1c7",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/uber",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-54dff980",
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/singular-bank",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-6491f8c1",
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 06 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-f4b59bdf",
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 05 Aug 2026 21:21:28 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1619858f",
-    "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 05 Aug 2026 20:05:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-41dee0fb",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "tags": [
-      "startups"
-    ],
-    "category": "Research",
-    "published_date": "Wed, 05 Aug 2026 19:30:19 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-01083001",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "summary": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 05 Aug 2026 15:56:14 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-844e872c",
-    "title": "Hark previews its browser use agent for completing tasks",
-    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 05 Aug 2026 15:46:27 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ab78e492",
-    "title": "Puzzle Corner",
-    "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u201903, MEng \u201904, and Abe Kunin \u201903.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 05 Aug 2026 14:56:29 +0000",
     "image": null
   }
 ]
