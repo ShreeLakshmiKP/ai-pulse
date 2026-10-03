@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49924179",
-    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "url": "https://blog.gitbutler.com/git-3-sha-256",
-    "points": 402,
-    "comments": 372,
+    "id": "hn-49936575",
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "url": "https://dwarfstar.sh/",
+    "points": 248,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-10-01T16:57:03Z"
+    "published_date": "2026-10-02T18:01:16Z"
   },
   {
-    "id": "hn-49922278",
-    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
-    "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-    "points": 265,
-    "comments": 209,
+    "id": "hn-49933740",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "points": 221,
+    "comments": 109,
     "source": "Hacker News",
-    "published_date": "2026-10-01T14:38:35Z"
+    "published_date": "2026-10-02T14:11:24Z"
   },
   {
-    "id": "hn-49920896",
-    "title": "How to speed up the Rust compiler in September 2026",
-    "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-    "points": 260,
-    "comments": 143,
+    "id": "hn-49934487",
+    "title": "AI Makes Me Sad",
+    "url": "https://mondobe.com/ai-makes-me-sad",
+    "points": 187,
+    "comments": 225,
     "source": "Hacker News",
-    "published_date": "2026-10-01T12:44:38Z"
+    "published_date": "2026-10-02T15:18:00Z"
   },
   {
-    "id": "hn-49922569",
-    "title": "Ask HN: Who is hiring? (October 2026)",
-    "url": "https://news.ycombinator.com/item?id=49922569",
-    "points": 212,
-    "comments": 209,
+    "id": "hn-49934620",
+    "title": "One month coding with GLM 5.3 Flash",
+    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "points": 165,
+    "comments": 125,
     "source": "Hacker News",
-    "published_date": "2026-10-01T15:02:07Z"
+    "published_date": "2026-10-02T15:29:15Z"
   },
   {
-    "id": "hn-49921050",
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "points": 204,
-    "comments": 153,
+    "id": "hn-49937916",
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "points": 115,
+    "comments": 44,
     "source": "Hacker News",
-    "published_date": "2026-10-01T13:00:55Z"
+    "published_date": "2026-10-02T20:00:15Z"
   },
   {
-    "id": "hn-49924618",
-    "title": "Vote on which of Hacker News' challenges for AI have been met",
-    "url": "https://stoppels.ch/goalposts/",
-    "points": 154,
-    "comments": 182,
+    "id": "hn-49936725",
+    "title": "Crypto Capture of Foreign Aid",
+    "url": "https://www.nber.org/papers/w35655",
+    "points": 93,
+    "comments": 35,
     "source": "Hacker News",
-    "published_date": "2026-10-01T17:32:43Z"
+    "published_date": "2026-10-02T18:14:29Z"
   },
   {
-    "id": "hn-49926512",
-    "title": "ArXiv's Updated Rate Limit Policy",
-    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-    "points": 125,
-    "comments": 60,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T20:12:15Z"
-  },
-  {
-    "id": "hn-49921051",
-    "title": "An AI sovereign wealth fund isn't progressive \u2013 it's techno-imperialism",
-    "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-    "points": 90,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T13:01:02Z"
-  },
-  {
-    "id": "hn-49922736",
-    "title": "Identity Management for Agentic AI [pdf] (2025)",
-    "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-    "points": 72,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T15:11:10Z"
-  },
-  {
-    "id": "hn-49926726",
-    "title": "Show HN: Rhun, an open-source code editor written in assembly",
-    "url": "https://rhun.app/",
-    "points": 55,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T20:32:18Z"
-  },
-  {
-    "id": "hn-49927331",
-    "title": "Don't Be Fooled by this Summer of AI Hype",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "points": 40,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T21:34:19Z"
-  },
-  {
-    "id": "hn-49927587",
-    "title": "Aweb \u2013 Communication for AI Agents",
-    "url": "https://aweb.ai",
-    "points": 37,
-    "comments": 25,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T22:02:31Z"
-  },
-  {
-    "id": "hn-49927693",
-    "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-    "url": "https://neow.in/NGxhb3d6",
-    "points": 35,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T22:15:57Z"
-  },
-  {
-    "id": "hn-49924385",
-    "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
-    "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/",
-    "points": 31,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T17:15:02Z"
-  },
-  {
-    "id": "hn-49922075",
-    "title": "Amazon's delivery driver smart glasses will take photos 'almost constantly'",
-    "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
-    "points": 31,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T14:21:12Z"
-  },
-  {
-    "id": "hn-49924543",
-    "title": "The GPU Black Market That Washington Can't Shut Down",
-    "url": "https://www.amcompute.com/blog/gpu-black-market-washington-cant-shut-down",
-    "points": 30,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T17:27:48Z"
-  },
-  {
-    "id": "hn-49924943",
-    "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-    "url": "https://innerloop.works/breadcrumb",
-    "points": 20,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T17:58:37Z"
-  },
-  {
-    "id": "hn-49925606",
-    "title": "US judge dismisses Chegg, Penske antitrust suits over Google AI Overviews",
-    "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01",
-    "points": 20,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-10-01T18:53:51Z"
-  },
-  {
-    "id": "hn-49926294",
-    "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
-    "url": "https://github.com/LiterateDrivenDevelopment/kcc",
-    "points": 18,
+    "id": "hn-49941091",
+    "title": "Cloudflare OHTTP gateway",
+    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "points": 86,
     "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-10-01T19:53:34Z"
+    "published_date": "2026-10-03T03:15:05Z"
   },
   {
-    "id": "hn-49926792",
-    "title": "TurboNotes: Local-first Markdown notes, Turbo Pascal like looks, saves to GitHub",
-    "url": "https://turbonotes.net/",
-    "points": 18,
-    "comments": 1,
+    "id": "hn-49932340",
+    "title": "Blogging with Gleam, Org-Mode and Pandoc",
+    "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+    "points": 78,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-10-01T20:38:06Z"
+    "published_date": "2026-10-02T11:34:28Z"
+  },
+  {
+    "id": "hn-49933251",
+    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+    "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+    "points": 73,
+    "comments": 58,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T13:19:47Z"
+  },
+  {
+    "id": "hn-49933459",
+    "title": "Don't be fooled\u2013LLMs don't reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "points": 70,
+    "comments": 156,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T13:45:42Z"
+  },
+  {
+    "id": "hn-49934569",
+    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+    "points": 48,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T15:24:54Z"
+  },
+  {
+    "id": "hn-49932606",
+    "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+    "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
+    "points": 48,
+    "comments": 73,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T12:12:38Z"
+  },
+  {
+    "id": "hn-49932499",
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "points": 44,
+    "comments": 62,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T11:58:33Z"
+  },
+  {
+    "id": "hn-49936671",
+    "title": "What if we stopped using GPUs? [video]",
+    "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+    "points": 43,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T18:09:38Z"
+  },
+  {
+    "id": "hn-49940467",
+    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+    "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+    "points": 40,
+    "comments": 20,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T01:09:01Z"
+  },
+  {
+    "id": "hn-49936909",
+    "title": "Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",
+    "url": "https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128",
+    "points": 37,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T18:31:12Z"
+  },
+  {
+    "id": "hn-49942437",
+    "title": "U.S. may have overthrown Venezuela due to chat with Grok",
+    "url": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+    "points": 32,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T08:40:38Z"
+  },
+  {
+    "id": "hn-49934502",
+    "title": "Mozilla shutting down Solo AI website creator",
+    "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
+    "points": 30,
+    "comments": 64,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T15:19:22Z"
+  },
+  {
+    "id": "hn-49933386",
+    "title": "Claude-Shaped Science",
+    "url": "https://www.anthropic.com/research/claude-shaped-science",
+    "points": 28,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T13:38:03Z"
+  },
+  {
+    "id": "hn-49936964",
+    "title": "Be careful what you measure",
+    "url": "https://lambdaland.org/posts/2026-10-01-measure/",
+    "points": 27,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-10-02T18:36:10Z"
   }
 ]
