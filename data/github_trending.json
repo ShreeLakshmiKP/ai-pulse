@@ -4,14 +4,18 @@
     "name": "KKKKhazix/AIHOT",
     "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5074,
+    "stars": 5617,
     "language": "TypeScript",
     "topics": [
       "ai",
+      "chinese",
       "content-curation",
+      "daily-digest",
+      "docker-compose",
       "llm",
       "mcp",
       "news-aggregator",
+      "postgresql",
       "rss",
       "self-hosted",
       "typescript"
@@ -23,7 +27,7 @@
     "name": "nanaism/yomiyasu",
     "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
     "url": "https://github.com/nanaism/yomiyasu",
-    "stars": 1243,
+    "stars": 1354,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -44,11 +48,31 @@
     "created_at": "2026-09-30T11:49:32Z"
   },
   {
+    "id": "gh-1401476500",
+    "name": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "stars": 727,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "claude-code",
+      "cli",
+      "diagram",
+      "explainer",
+      "html",
+      "llm",
+      "ste100"
+    ],
+    "created_at": "2026-10-02T09:57:40Z"
+  },
+  {
     "id": "gh-1397939439",
     "name": "Edwardxlai/easyread",
     "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
     "url": "https://github.com/Edwardxlai/easyread",
-    "stars": 647,
+    "stars": 726,
     "language": "Python",
     "topics": [
       "academic",
@@ -67,11 +91,32 @@
     "created_at": "2026-09-30T12:52:24Z"
   },
   {
+    "id": "gh-1401821001",
+    "name": "whirlchat/whirl",
+    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+    "url": "https://github.com/whirlchat/whirl",
+    "stars": 388,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "convex",
+      "llm",
+      "nextjs",
+      "openrouter",
+      "react",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-10-02T13:50:42Z"
+  },
+  {
     "id": "gh-1395995350",
     "name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 244,
+    "stars": 315,
     "language": "Python",
     "topics": [
       "ai",
@@ -90,7 +135,7 @@
     "name": "blendi-remade/dioramas",
     "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
     "url": "https://github.com/blendi-remade/dioramas",
-    "stars": 208,
+    "stars": 214,
     "language": "JavaScript",
     "topics": [
       "3d",
@@ -105,42 +150,11 @@
     "created_at": "2026-09-30T00:07:56Z"
   },
   {
-    "id": "gh-1390878120",
-    "name": "scarletkc/seiso",
-    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
-    "url": "https://github.com/scarletkc/seiso",
-    "stars": 171,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "coding-agents",
-      "commonmark",
-      "conventions",
-      "developer-tools",
-      "docs-as-code",
-      "documentation",
-      "documentation-tool",
-      "gfm",
-      "lint",
-      "linter",
-      "llm",
-      "markdown",
-      "markdown-linter",
-      "rust",
-      "static-analysis",
-      "technical-writing"
-    ],
-    "created_at": "2026-09-27T13:27:28Z"
-  },
-  {
     "id": "gh-1397328056",
     "name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 160,
+    "stars": 185,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -154,49 +168,48 @@
     "created_at": "2026-09-30T07:55:06Z"
   },
   {
-    "id": "gh-1401476500",
-    "name": "QingYunA/answer-me-with-html",
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-    "url": "https://github.com/QingYunA/answer-me-with-html",
-    "stars": 129,
-    "language": "JavaScript",
+    "id": "gh-1394325899",
+    "name": "Yzmblog/DMAD",
+    "description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+    "url": "https://github.com/Yzmblog/DMAD",
+    "stars": 70,
+    "language": "Python",
     "topics": [
-      "agent-skill",
-      "ai-agent",
-      "claude-code",
-      "cli",
-      "diagram",
-      "explainer",
-      "html",
-      "llm",
-      "ste100"
+      "diffusion",
+      "diffusion-model",
+      "diffusion-models",
+      "distillation",
+      "generative-adversarial-network",
+      "generative-ai",
+      "generative-model",
+      "video",
+      "video-generation"
     ],
-    "created_at": "2026-10-02T09:57:40Z"
+    "created_at": "2026-09-29T04:47:19Z"
   },
   {
-    "id": "gh-1390373702",
-    "name": "ufo-ai/ufo-core",
-    "description": "Agent operating system",
-    "url": "https://github.com/ufo-ai/ufo-core",
-    "stars": 88,
-    "language": "Python",
+    "id": "gh-1401538687",
+    "name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 67,
+    "language": null,
     "topics": [
       "ai",
       "ai-agent",
       "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-safety",
       "ai-tools",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "openai",
-      "openclaw"
+      "guide",
+      "guidebook",
+      "guideline",
+      "guidelines",
+      "guides",
+      "usage"
     ],
-    "created_at": "2026-09-27T07:25:44Z"
+    "created_at": "2026-10-02T11:01:25Z"
   },
   {
     "id": "gh-1400419735",
@@ -222,31 +235,30 @@
     "created_at": "2026-10-01T17:01:57Z"
   },
   {
-    "id": "gh-1394325899",
-    "name": "Yzmblog/DMAD",
-    "description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-    "url": "https://github.com/Yzmblog/DMAD",
-    "stars": 41,
-    "language": "Python",
+    "id": "gh-1401496565",
+    "name": "fth1905-bot/ComfyUI-Civitai-Browser",
+    "description": "Browse Civitai workflows & models inside ComfyUI and get any workflow ready in one click: load it, find missing models and download them into the right folders.",
+    "url": "https://github.com/fth1905-bot/ComfyUI-Civitai-Browser",
+    "stars": 16,
+    "language": "JavaScript",
     "topics": [
-      "diffusion",
-      "diffusion-model",
-      "diffusion-models",
-      "distillation",
-      "generative-adversarial-network",
+      "civitai",
+      "comfyui",
+      "comfyui-custom-nodes",
+      "comfyui-extension",
       "generative-ai",
-      "generative-model",
-      "video",
-      "video-generation"
+      "model-downloader",
+      "stable-diffusion",
+      "workflow"
     ],
-    "created_at": "2026-09-29T04:47:19Z"
+    "created_at": "2026-10-02T10:19:17Z"
   },
   {
     "id": "gh-1397292246",
     "name": "e2sy/jailbreak-archives",
     "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models \u2014 for AI safety research, red-teaming, and defensive hardening.",
     "url": "https://github.com/e2sy/jailbreak-archives",
-    "stars": 10,
+    "stars": 13,
     "language": "Roff",
     "topics": [
       "adversarial-prompts",
@@ -273,39 +285,27 @@
     "created_at": "2026-09-30T07:34:14Z"
   },
   {
-    "id": "gh-1401496565",
-    "name": "fth1905-bot/ComfyUI-Civitai-Browser",
-    "description": "Browse Civitai workflows & models inside ComfyUI and get any workflow ready in one click: load it, find missing models and download them into the right folders.",
-    "url": "https://github.com/fth1905-bot/ComfyUI-Civitai-Browser",
-    "stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "civitai",
-      "comfyui",
-      "comfyui-custom-nodes",
-      "comfyui-extension",
-      "generative-ai",
-      "model-downloader",
-      "stable-diffusion",
-      "workflow"
-    ],
-    "created_at": "2026-10-02T10:19:17Z"
-  },
-  {
-    "id": "gh-1391232833",
-    "name": "aghaabdullah/ou-learning-analytics",
-    "description": "Machine learning pipeline analyzing Open University educational data to predict student outcomes and model VLE engagement.",
-    "url": "https://github.com/aghaabdullah/ou-learning-analytics",
-    "stars": 8,
+    "id": "gh-1402344315",
+    "name": "juanjo-barrientos/genaiguide",
+    "description": "Gu\u00eda gratuita de IA generativa avanzada en espa\u00f1ol (311 p\u00e1gs.): Transformer, post-entrenamiento, inferencia, GPU, difusi\u00f3n, agentes, seguridad. Free advanced generative AI guide in Spanish. CC0.",
+    "url": "https://github.com/juanjo-barrientos/genaiguide",
+    "stars": 12,
     "language": null,
     "topics": [
-      "data-science",
-      "educational-data",
+      "ai-agents",
+      "deep-learning",
+      "diffusion-models",
+      "espanol",
+      "free-book",
+      "generative-ai",
+      "inference",
+      "llm",
       "machine-learning",
-      "predictive-modeling",
-      "xgboost"
+      "reinforcement-learning",
+      "spanish",
+      "transformers"
     ],
-    "created_at": "2026-09-27T17:48:47Z"
+    "created_at": "2026-10-02T20:51:54Z"
   },
   {
     "id": "gh-1392362481",

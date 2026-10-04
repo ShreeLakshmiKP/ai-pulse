@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-49936575",
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "url": "https://dwarfstar.sh/",
-    "points": 248,
+    "id": "hn-49946895",
+    "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "points": 314,
+    "comments": 50,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T19:14:48Z"
+  },
+  {
+    "id": "hn-49948332",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "points": 263,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T22:18:13Z"
+  },
+  {
+    "id": "hn-49946567",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "points": 220,
+    "comments": 152,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T18:29:30Z"
+  },
+  {
+    "id": "hn-49944912",
+    "title": "FTL: A new operating system for clouds",
+    "url": "https://ftl-os.org/",
+    "points": 177,
     "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-10-02T18:01:16Z"
+    "published_date": "2026-10-03T15:02:36Z"
   },
   {
-    "id": "hn-49933740",
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "points": 221,
-    "comments": 109,
+    "id": "hn-49946228",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "points": 161,
+    "comments": 220,
     "source": "Hacker News",
-    "published_date": "2026-10-02T14:11:24Z"
+    "published_date": "2026-10-03T17:44:29Z"
   },
   {
-    "id": "hn-49934487",
-    "title": "AI Makes Me Sad",
-    "url": "https://mondobe.com/ai-makes-me-sad",
-    "points": 187,
-    "comments": 225,
+    "id": "hn-49947051",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "points": 139,
+    "comments": 124,
     "source": "Hacker News",
-    "published_date": "2026-10-02T15:18:00Z"
+    "published_date": "2026-10-03T19:33:16Z"
   },
   {
-    "id": "hn-49934620",
-    "title": "One month coding with GLM 5.3 Flash",
-    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-    "points": 165,
-    "comments": 125,
+    "id": "hn-49945323",
+    "title": "City building games have a Soul Problem pt.2",
+    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+    "points": 139,
+    "comments": 134,
     "source": "Hacker News",
-    "published_date": "2026-10-02T15:29:15Z"
+    "published_date": "2026-10-03T15:52:07Z"
   },
   {
-    "id": "hn-49937916",
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "url": "https://github.com/anteloc/ldraw-nova",
-    "points": 115,
-    "comments": 44,
-    "source": "Hacker News",
-    "published_date": "2026-10-02T20:00:15Z"
-  },
-  {
-    "id": "hn-49936725",
-    "title": "Crypto Capture of Foreign Aid",
-    "url": "https://www.nber.org/papers/w35655",
-    "points": 93,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-10-02T18:14:29Z"
-  },
-  {
-    "id": "hn-49941091",
-    "title": "Cloudflare OHTTP gateway",
-    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "points": 86,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-10-03T03:15:05Z"
-  },
-  {
-    "id": "hn-49932340",
-    "title": "Blogging with Gleam, Org-Mode and Pandoc",
-    "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-    "points": 78,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-10-02T11:34:28Z"
-  },
-  {
-    "id": "hn-49933251",
-    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-    "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-    "points": 73,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-10-02T13:19:47Z"
-  },
-  {
-    "id": "hn-49933459",
-    "title": "Don't be fooled\u2013LLMs don't reason",
-    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "points": 70,
+    "id": "hn-49946321",
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "points": 105,
     "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-10-02T13:45:42Z"
+    "published_date": "2026-10-03T17:57:03Z"
   },
   {
-    "id": "hn-49934569",
-    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-    "points": 48,
-    "comments": 23,
+    "id": "hn-49950052",
+    "title": "Religious scholars met with Anthropic",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "points": 87,
+    "comments": 199,
     "source": "Hacker News",
-    "published_date": "2026-10-02T15:24:54Z"
+    "published_date": "2026-10-04T02:34:22Z"
   },
   {
-    "id": "hn-49932606",
-    "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
-    "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
-    "points": 48,
-    "comments": 73,
+    "id": "hn-49944127",
+    "title": "US killer's sentence quashed because of AI video of victim shown in court",
+    "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+    "points": 71,
+    "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-10-02T12:12:38Z"
+    "published_date": "2026-10-03T13:34:18Z"
   },
   {
-    "id": "hn-49932499",
-    "title": "Memory executives expect RAM shortage to continue through 2028",
-    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-    "points": 44,
-    "comments": 62,
+    "id": "hn-49946873",
+    "title": "Our AI Midwife",
+    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+    "points": 63,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-10-02T11:58:33Z"
+    "published_date": "2026-10-03T19:12:27Z"
   },
   {
-    "id": "hn-49936671",
-    "title": "What if we stopped using GPUs? [video]",
-    "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-    "points": 43,
-    "comments": 16,
+    "id": "hn-49946827",
+    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+    "points": 60,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-10-02T18:09:38Z"
+    "published_date": "2026-10-03T19:07:18Z"
   },
   {
-    "id": "hn-49940467",
-    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-    "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-    "points": 40,
-    "comments": 20,
+    "id": "hn-49947050",
+    "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+    "points": 55,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-10-03T01:09:01Z"
+    "published_date": "2026-10-03T19:33:10Z"
   },
   {
-    "id": "hn-49936909",
-    "title": "Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",
-    "url": "https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128",
-    "points": 37,
-    "comments": 24,
+    "id": "hn-49946526",
+    "title": "What Meta got right with Muse",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "points": 54,
+    "comments": 76,
     "source": "Hacker News",
-    "published_date": "2026-10-02T18:31:12Z"
+    "published_date": "2026-10-03T18:23:48Z"
   },
   {
-    "id": "hn-49942437",
-    "title": "U.S. may have overthrown Venezuela due to chat with Grok",
-    "url": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
-    "points": 32,
-    "comments": 7,
+    "id": "hn-49951684",
+    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "points": 31,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-10-03T08:40:38Z"
+    "published_date": "2026-10-04T08:02:33Z"
   },
   {
-    "id": "hn-49934502",
-    "title": "Mozilla shutting down Solo AI website creator",
-    "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
+    "id": "hn-49944369",
+    "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+    "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
     "points": 30,
-    "comments": 64,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-10-02T15:19:22Z"
+    "published_date": "2026-10-03T14:04:27Z"
   },
   {
-    "id": "hn-49933386",
-    "title": "Claude-Shaped Science",
-    "url": "https://www.anthropic.com/research/claude-shaped-science",
-    "points": 28,
-    "comments": 12,
+    "id": "hn-49950288",
+    "title": "AI can clone your indie game, but not its soul",
+    "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+    "points": 17,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-10-02T13:38:03Z"
+    "published_date": "2026-10-04T03:18:55Z"
   },
   {
-    "id": "hn-49936964",
-    "title": "Be careful what you measure",
-    "url": "https://lambdaland.org/posts/2026-10-01-measure/",
-    "points": 27,
-    "comments": 10,
+    "id": "hn-49946110",
+    "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
+    "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
+    "points": 13,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-10-02T18:36:10Z"
+    "published_date": "2026-10-03T17:29:56Z"
+  },
+  {
+    "id": "hn-49945630",
+    "title": "Changes to Gemini model access and limits",
+    "url": "https://support.google.com/gemini/answer/17004136?hl=en",
+    "points": 13,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-10-03T16:29:12Z"
   }
 ]
