@@ -1,33 +1,10 @@
 [
   {
-    "id": "gh-1393965829",
-    "name": "KKKKhazix/AIHOT",
-    "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
-    "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5617,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "chinese",
-      "content-curation",
-      "daily-digest",
-      "docker-compose",
-      "llm",
-      "mcp",
-      "news-aggregator",
-      "postgresql",
-      "rss",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-09-28T23:40:05Z"
-  },
-  {
     "id": "gh-1397771878",
     "name": "nanaism/yomiyasu",
     "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
     "url": "https://github.com/nanaism/yomiyasu",
-    "stars": 1354,
+    "stars": 1477,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -52,7 +29,7 @@
     "name": "QingYunA/answer-me-with-html",
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
     "url": "https://github.com/QingYunA/answer-me-with-html",
-    "stars": 727,
+    "stars": 1337,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -72,7 +49,7 @@
     "name": "Edwardxlai/easyread",
     "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
     "url": "https://github.com/Edwardxlai/easyread",
-    "stars": 726,
+    "stars": 797,
     "language": "Python",
     "topics": [
       "academic",
@@ -95,7 +72,7 @@
     "name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 388,
+    "stars": 464,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -116,7 +93,7 @@
     "name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 315,
+    "stars": 360,
     "language": "Python",
     "topics": [
       "ai",
@@ -135,7 +112,7 @@
     "name": "blendi-remade/dioramas",
     "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
     "url": "https://github.com/blendi-remade/dioramas",
-    "stars": 214,
+    "stars": 226,
     "language": "JavaScript",
     "topics": [
       "3d",
@@ -154,7 +131,7 @@
     "name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 185,
+    "stars": 149,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -168,31 +145,11 @@
     "created_at": "2026-09-30T07:55:06Z"
   },
   {
-    "id": "gh-1394325899",
-    "name": "Yzmblog/DMAD",
-    "description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-    "url": "https://github.com/Yzmblog/DMAD",
-    "stars": 70,
-    "language": "Python",
-    "topics": [
-      "diffusion",
-      "diffusion-model",
-      "diffusion-models",
-      "distillation",
-      "generative-adversarial-network",
-      "generative-ai",
-      "generative-model",
-      "video",
-      "video-generation"
-    ],
-    "created_at": "2026-09-29T04:47:19Z"
-  },
-  {
     "id": "gh-1401538687",
     "name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 67,
+    "stars": 93,
     "language": null,
     "topics": [
       "ai",
@@ -210,6 +167,63 @@
       "usage"
     ],
     "created_at": "2026-10-02T11:01:25Z"
+  },
+  {
+    "id": "gh-1394325899",
+    "name": "Yzmblog/DMAD",
+    "description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+    "url": "https://github.com/Yzmblog/DMAD",
+    "stars": 87,
+    "language": "Python",
+    "topics": [
+      "diffusion",
+      "diffusion-model",
+      "diffusion-models",
+      "distillation",
+      "generative-adversarial-network",
+      "generative-ai",
+      "generative-model",
+      "video",
+      "video-generation"
+    ],
+    "created_at": "2026-09-29T04:47:19Z"
+  },
+  {
+    "id": "gh-1395906964",
+    "name": "Dreamer-Toby/STEPQuant",
+    "description": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "url": "https://github.com/Dreamer-Toby/STEPQuant",
+    "stars": 70,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "post-training-quantization",
+      "quantization"
+    ],
+    "created_at": "2026-09-29T16:10:41Z"
+  },
+  {
+    "id": "gh-1399145083",
+    "name": "facebookresearch/swe-sweep",
+    "description": "How many bugs can LMs find & fix in large codebases?",
+    "url": "https://github.com/facebookresearch/swe-sweep",
+    "stars": 54,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "benchmark",
+      "benchmarking",
+      "harbor",
+      "harbor-framework",
+      "llm",
+      "llm-benchmark",
+      "llm-benchmarking",
+      "llm-benchmarks",
+      "swe-bench"
+    ],
+    "created_at": "2026-10-01T04:59:29Z"
   },
   {
     "id": "gh-1400419735",
@@ -239,7 +253,7 @@
     "name": "fth1905-bot/ComfyUI-Civitai-Browser",
     "description": "Browse Civitai workflows & models inside ComfyUI and get any workflow ready in one click: load it, find missing models and download them into the right folders.",
     "url": "https://github.com/fth1905-bot/ComfyUI-Civitai-Browser",
-    "stars": 16,
+    "stars": 21,
     "language": "JavaScript",
     "topics": [
       "civitai",
@@ -258,7 +272,7 @@
     "name": "e2sy/jailbreak-archives",
     "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models \u2014 for AI safety research, red-teaming, and defensive hardening.",
     "url": "https://github.com/e2sy/jailbreak-archives",
-    "stars": 13,
+    "stars": 18,
     "language": "Roff",
     "topics": [
       "adversarial-prompts",
@@ -306,27 +320,5 @@
       "transformers"
     ],
     "created_at": "2026-10-02T20:51:54Z"
-  },
-  {
-    "id": "gh-1392362481",
-    "name": "alphaparkinc/genpark-scalar-autograd-computational-graph-skill",
-    "description": "Reverse-mode automatic differentiation engine with DAG tape and chain rule backpropagation",
-    "url": "https://github.com/alphaparkinc/genpark-scalar-autograd-computational-graph-skill",
-    "stars": 7,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "autograd",
-      "automatic-differentiation",
-      "backpropagation",
-      "computational-graph",
-      "deep-learning",
-      "machine-learning",
-      "mcp",
-      "micrograd",
-      "neural-networks",
-      "python-standard-library"
-    ],
-    "created_at": "2026-09-28T09:54:23Z"
   }
 ]
