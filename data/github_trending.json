@@ -4,7 +4,7 @@
     "name": "QingYunA/answer-me-with-html",
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
     "url": "https://github.com/QingYunA/answer-me-with-html",
-    "stars": 1613,
+    "stars": 1920,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -23,59 +23,11 @@
     "created_at": "2026-10-02T09:57:40Z"
   },
   {
-    "id": "gh-1397771878",
-    "name": "nanaism/yomiyasu",
-    "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "url": "https://github.com/nanaism/yomiyasu",
-    "stars": 1568,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-writing",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "gemini",
-      "japanese",
-      "linter",
-      "llm",
-      "nlp",
-      "writing",
-      "writing-assistant",
-      "writing-tool"
-    ],
-    "created_at": "2026-09-30T11:49:32Z"
-  },
-  {
-    "id": "gh-1397939439",
-    "name": "Edwardxlai/easyread",
-    "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
-    "url": "https://github.com/Edwardxlai/easyread",
-    "stars": 816,
-    "language": "Python",
-    "topics": [
-      "academic",
-      "arxiv",
-      "chinese",
-      "claude-code",
-      "codex",
-      "electron",
-      "llm",
-      "paper-reading",
-      "pdf-translator",
-      "reference-manager",
-      "research-tool",
-      "translation"
-    ],
-    "created_at": "2026-09-30T12:52:24Z"
-  },
-  {
     "id": "gh-1401821001",
     "name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 486,
+    "stars": 491,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -92,41 +44,53 @@
     "created_at": "2026-10-02T13:50:42Z"
   },
   {
-    "id": "gh-1396738941",
-    "name": "blendi-remade/dioramas",
-    "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-    "url": "https://github.com/blendi-remade/dioramas",
-    "stars": 229,
-    "language": "JavaScript",
+    "id": "gh-1403307052",
+    "name": "jiwoochris/artex-ko",
+    "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "url": "https://github.com/jiwoochris/artex-ko",
+    "stars": 198,
+    "language": "Go",
     "topics": [
-      "3d",
-      "creative-coding",
-      "fal",
-      "generative-ai",
-      "landing-page",
-      "meshy",
-      "threejs",
-      "webgl"
+      "ai-agent",
+      "autonomous-agents",
+      "blue-team",
+      "cybersecurity",
+      "detection-engineering",
+      "i18n",
+      "korean",
+      "llm",
+      "penetration-testing",
+      "security",
+      "security-research",
+      "security-tools",
+      "sigma-rules",
+      "threat-detection"
     ],
-    "created_at": "2026-09-30T00:07:56Z"
+    "created_at": "2026-10-03T14:49:48Z"
   },
   {
-    "id": "gh-1397328056",
-    "name": "NuvexNetwork/nuvex-services",
-    "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-    "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 160,
-    "language": "TypeScript",
+    "id": "gh-1401538687",
+    "name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 135,
+    "language": null,
     "topics": [
       "ai",
-      "api",
-      "indexer",
-      "infra",
-      "off-chai",
-      "postgresql",
-      "solana"
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-safety",
+      "ai-tools",
+      "guide",
+      "guidebook",
+      "guideline",
+      "guidelines",
+      "guides",
+      "usage"
     ],
-    "created_at": "2026-09-30T07:55:06Z"
+    "created_at": "2026-10-02T11:01:25Z"
   },
   {
     "id": "gh-1402655573",
@@ -159,28 +123,49 @@
     "created_at": "2026-10-03T04:26:57Z"
   },
   {
-    "id": "gh-1401538687",
-    "name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 109,
-    "language": null,
+    "id": "gh-1406053875",
+    "name": "longsurf-ai/openchart",
+    "description": "OSS Tradingview with your own AI, free and unlimited.",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "stars": 106,
+    "language": "TypeScript",
     "topics": [
+      "agent",
+      "agentic-trader",
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "ai-model",
-      "ai-safety",
-      "ai-tools",
-      "guide",
-      "guidebook",
-      "guideline",
-      "guidelines",
-      "guides",
-      "usage"
+      "charting",
+      "charts",
+      "charts-js",
+      "harness",
+      "llm",
+      "llm-agents",
+      "pinescript",
+      "pinescript-v6",
+      "quantitative",
+      "quantitative-finance",
+      "trader",
+      "trading-toolkits"
     ],
-    "created_at": "2026-10-02T11:01:25Z"
+    "created_at": "2026-10-05T16:16:41Z"
+  },
+  {
+    "id": "gh-1407754231",
+    "name": "Tejashmakwana/motionmaxxing",
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stars": 77,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "motionmaxxing",
+      "video"
+    ],
+    "created_at": "2026-10-06T18:18:49Z"
   },
   {
     "id": "gh-1399145083",
@@ -203,22 +188,6 @@
       "swe-bench"
     ],
     "created_at": "2026-10-01T04:59:29Z"
-  },
-  {
-    "id": "gh-1404192386",
-    "name": "rakesh0x/OpenCardboard",
-    "description": "OpenCardboard \u2014 local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-    "url": "https://github.com/rakesh0x/OpenCardboard",
-    "stars": 53,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "electron",
-      "local-first",
-      "mcp",
-      "video-editor"
-    ],
-    "created_at": "2026-10-04T09:23:43Z"
   },
   {
     "id": "gh-1400419735",
@@ -270,42 +239,11 @@
     "created_at": "2026-10-05T18:53:04Z"
   },
   {
-    "id": "gh-1397292246",
-    "name": "e2sy/jailbreak-archives",
-    "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models \u2014 for AI safety research, red-teaming, and defensive hardening.",
-    "url": "https://github.com/e2sy/jailbreak-archives",
-    "stars": 23,
-    "language": "Roff",
-    "topics": [
-      "adversarial-prompts",
-      "ai-alignment",
-      "ai-red-team",
-      "ai-safety",
-      "chatgpt",
-      "claude",
-      "cybersecurity",
-      "deepseek",
-      "jailbreak",
-      "llm",
-      "llm-jailbreak",
-      "llm-security",
-      "machine-learning",
-      "offensive-security",
-      "prompt-engineering",
-      "prompt-injection",
-      "qwen",
-      "red-teaming",
-      "responsible-disclosure",
-      "security-research"
-    ],
-    "created_at": "2026-09-30T07:34:14Z"
-  },
-  {
     "id": "gh-1401496565",
     "name": "fth1905-bot/ComfyUI-Civitai-Browser",
     "description": "Browse Civitai workflows & models inside ComfyUI and get any workflow ready in one click: load it, find missing models and download them into the right folders.",
     "url": "https://github.com/fth1905-bot/ComfyUI-Civitai-Browser",
-    "stars": 22,
+    "stars": 23,
     "language": "JavaScript",
     "topics": [
       "civitai",
@@ -341,5 +279,81 @@
       "transformers"
     ],
     "created_at": "2026-10-02T20:51:54Z"
+  },
+  {
+    "id": "gh-1405070384",
+    "name": "Takamatsu-Hikaru/AI-Research-Guide",
+    "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
+    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+    "stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "chinese",
+      "education",
+      "getting-started",
+      "machine-learning",
+      "research"
+    ],
+    "created_at": "2026-10-05T03:32:47Z"
+  },
+  {
+    "id": "gh-1405236282",
+    "name": "The-SEMQ-Group/semq",
+    "description": "Deterministic symbolic codes for embedding vectors. Byte-identical across CPUs and languages, content-addressed, diffable and verifiable. C core with Python, Rust, Go and TypeScript bindings.",
+    "url": "https://github.com/The-SEMQ-Group/semq",
+    "stars": 9,
+    "language": "Python",
+    "topics": [
+      "audit",
+      "c",
+      "content-addressable",
+      "determinism",
+      "embeddings",
+      "golang",
+      "machine-learning",
+      "python",
+      "quantization",
+      "rag",
+      "reproducibility",
+      "rust",
+      "sdk",
+      "simd",
+      "typescript",
+      "vector-search",
+      "webassembly"
+    ],
+    "created_at": "2026-10-05T06:13:01Z"
+  },
+  {
+    "id": "gh-1402116013",
+    "name": "DaragonTech/LibLayaX",
+    "description": "Fast local AI decisions inside your application. A shared library and C API built on laya.cpp that runs the Laya typed-decision model in-process: no server, no Python. Windows, Linux and macOS, x64 and ARM64, CPU or GPU. An open-source alternative to Jev",
+    "url": "https://github.com/DaragonTech/LibLayaX",
+    "stars": 8,
+    "language": "C++",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-decision-making",
+      "c-api",
+      "cpp",
+      "cross-platform",
+      "decision-making",
+      "generative-ai",
+      "ggml",
+      "inference",
+      "jev",
+      "jev-api",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "on-device-ai",
+      "on-premise-ai",
+      "shared-library",
+      "text-classification",
+      "vulkan"
+    ],
+    "created_at": "2026-10-02T17:13:19Z"
   }
 ]

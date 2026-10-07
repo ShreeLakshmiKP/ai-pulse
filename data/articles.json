@@ -4214,6 +4214,19 @@
     "image": null
   },
   {
+    "id": "rss-cf7f1b75",
+    "title": "Introducing Playground: Create and play custom games",
+    "summary": "Overview of Playground",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 07 Oct 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-f05f5c0e",
     "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
     "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
@@ -4338,21 +4351,6 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Wed, 06 May 2026 06:47:12 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-18521d41",
-    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-    "summary": "Wonder wants to turn its robotic kitchens into AI-powered \u201crestaurant factories,\u201d letting anyone spin up a virtual food brand with a prompt.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "tags": [
-      "robotics"
-    ],
-    "category": "Robotics",
-    "published_date": "Wed, 06 May 2026 06:34:32 +0000",
     "image": null
   }
 ]
