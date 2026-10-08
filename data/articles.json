@@ -4214,6 +4214,142 @@
     "image": null
   },
   {
+    "id": "rss-1d6dcd63",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 07 Oct 2026 20:48:45 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-eb599b08",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "tags": [
+      "agents",
+      "NVIDIA"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 07 Oct 2026 20:22:37 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7d49c27e",
+    "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+    "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 07 Oct 2026 18:30:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d15468da",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 07 Oct 2026 18:15:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-b81f72b7",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 07 Oct 2026 18:00:19 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-567ec19b",
+    "title": "Multimodal open d1 decision models for the edge",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "tags": [
+      "multimodal"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-16096794",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 07 Oct 2026 12:45:31 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-7353b6a4",
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 07 Oct 2026 12:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2283ab4e",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-cf7f1b75",
     "title": "Introducing Playground: Create and play custom games",
     "summary": "Overview of Playground",
@@ -4224,133 +4360,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Wed, 07 Oct 2026 12:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f05f5c0e",
-    "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
-    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 06 May 2026 21:57:56 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f863a8c5",
-    "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
-    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 06 May 2026 21:43:24 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-8b600010",
-    "title": "Is xAI a neocloud now?",
-    "summary": "xAI's real business may be more about building data centers than training AI models.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 06 May 2026 21:32:55 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-11e756df",
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "tags": [
-      "LLM"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 19:06:55 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-a1179bcb",
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "tags": [
-      "startups",
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 06 May 2026 18:23:54 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5329de4b",
-    "title": "5 gardening tips you can try right in Search",
-    "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5e162e5f",
-    "title": "The Download: seafloor science and military chatbots",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 06 May 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-c122dcde",
-    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "tags": [
-      "Gemini",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 06 May 2026 10:43:49 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-5ce2f9b9",
-    "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
-    "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million).",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 06 May 2026 06:47:12 +0000",
     "image": null
   }
 ]

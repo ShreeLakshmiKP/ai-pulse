@@ -4,7 +4,7 @@
     "name": "QingYunA/answer-me-with-html",
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
     "url": "https://github.com/QingYunA/answer-me-with-html",
-    "stars": 1920,
+    "stars": 2288,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -23,32 +23,11 @@
     "created_at": "2026-10-02T09:57:40Z"
   },
   {
-    "id": "gh-1401821001",
-    "name": "whirlchat/whirl",
-    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-    "url": "https://github.com/whirlchat/whirl",
-    "stars": 491,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-chat",
-      "chat",
-      "convex",
-      "llm",
-      "nextjs",
-      "openrouter",
-      "react",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-10-02T13:50:42Z"
-  },
-  {
     "id": "gh-1403307052",
     "name": "jiwoochris/artex-ko",
     "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
     "url": "https://github.com/jiwoochris/artex-ko",
-    "stars": 198,
+    "stars": 507,
     "language": "Go",
     "topics": [
       "ai-agent",
@@ -69,11 +48,85 @@
     "created_at": "2026-10-03T14:49:48Z"
   },
   {
+    "id": "gh-1401821001",
+    "name": "whirlchat/whirl",
+    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+    "url": "https://github.com/whirlchat/whirl",
+    "stars": 502,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "convex",
+      "llm",
+      "nextjs",
+      "openrouter",
+      "react",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-10-02T13:50:42Z"
+  },
+  {
+    "id": "gh-1407873347",
+    "name": "LosaLosSantos/aurelio-finance",
+    "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "stars": 351,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "fastapi",
+      "fintech",
+      "net-worth",
+      "personal-finance",
+      "portfolio-tracker",
+      "python",
+      "react",
+      "self-hosted",
+      "typescript",
+      "wealth-management"
+    ],
+    "created_at": "2026-10-06T20:14:19Z"
+  },
+  {
+    "id": "gh-1402328864",
+    "name": "strands-agents/box",
+    "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
+    "url": "https://github.com/strands-agents/box",
+    "stars": 169,
+    "language": "Rust",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "containment",
+      "egress",
+      "harness",
+      "linux",
+      "llm",
+      "macos",
+      "mcp",
+      "policy",
+      "rust",
+      "sandbox",
+      "sandboxing",
+      "seatbelt",
+      "security",
+      "strands-agents",
+      "zero-trust"
+    ],
+    "created_at": "2026-10-02T20:34:08Z"
+  },
+  {
     "id": "gh-1401538687",
     "name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 135,
+    "stars": 151,
     "language": null,
     "topics": [
       "ai",
@@ -93,11 +146,37 @@
     "created_at": "2026-10-02T11:01:25Z"
   },
   {
+    "id": "gh-1406053875",
+    "name": "longsurf-ai/openchart",
+    "description": "OSS Tradingview with your own AI, free and unlimited.",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "stars": 119,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-trader",
+      "ai",
+      "charting",
+      "charts",
+      "charts-js",
+      "harness",
+      "llm",
+      "llm-agents",
+      "pinescript",
+      "pinescript-v6",
+      "quantitative",
+      "quantitative-finance",
+      "trader",
+      "trading-toolkits"
+    ],
+    "created_at": "2026-10-05T16:16:41Z"
+  },
+  {
     "id": "gh-1402655573",
     "name": "Zhou-Yujing114514/deepseek-harness-linux",
     "description": "First-class Linux packaging for DeepSeek Harness desktop \u2014 AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
     "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux",
-    "stars": 116,
+    "stars": 119,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -121,96 +200,6 @@
       "x64"
     ],
     "created_at": "2026-10-03T04:26:57Z"
-  },
-  {
-    "id": "gh-1406053875",
-    "name": "longsurf-ai/openchart",
-    "description": "OSS Tradingview with your own AI, free and unlimited.",
-    "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 106,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic-trader",
-      "ai",
-      "charting",
-      "charts",
-      "charts-js",
-      "harness",
-      "llm",
-      "llm-agents",
-      "pinescript",
-      "pinescript-v6",
-      "quantitative",
-      "quantitative-finance",
-      "trader",
-      "trading-toolkits"
-    ],
-    "created_at": "2026-10-05T16:16:41Z"
-  },
-  {
-    "id": "gh-1407754231",
-    "name": "Tejashmakwana/motionmaxxing",
-    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-    "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 77,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "claude-code",
-      "gsap",
-      "hyperframes",
-      "motion-graphics",
-      "motionmaxxing",
-      "video"
-    ],
-    "created_at": "2026-10-06T18:18:49Z"
-  },
-  {
-    "id": "gh-1399145083",
-    "name": "facebookresearch/swe-sweep",
-    "description": "How many bugs can LMs find & fix in large codebases?",
-    "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 57,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "benchmark",
-      "benchmarking",
-      "harbor",
-      "harbor-framework",
-      "llm",
-      "llm-benchmark",
-      "llm-benchmarking",
-      "llm-benchmarks",
-      "swe-bench"
-    ],
-    "created_at": "2026-10-01T04:59:29Z"
-  },
-  {
-    "id": "gh-1400419735",
-    "name": "Stxqq/self-driving-car",
-    "description": "Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic",
-    "url": "https://github.com/Stxqq/self-driving-car",
-    "stars": 46,
-    "language": "JavaScript",
-    "topics": [
-      "autonomous-driving",
-      "canvas",
-      "evolutionary-algorithms",
-      "genetic-algorithm",
-      "javascript",
-      "machine-learning",
-      "neural-network",
-      "neuroevolution",
-      "reinforcement-learning",
-      "self-driving-car",
-      "simulation",
-      "vanilla-js"
-    ],
-    "created_at": "2026-10-01T17:01:57Z"
   },
   {
     "id": "gh-1406249610",
@@ -243,7 +232,7 @@
     "name": "fth1905-bot/ComfyUI-Civitai-Browser",
     "description": "Browse Civitai workflows & models inside ComfyUI and get any workflow ready in one click: load it, find missing models and download them into the right folders.",
     "url": "https://github.com/fth1905-bot/ComfyUI-Civitai-Browser",
-    "stars": 23,
+    "stars": 24,
     "language": "JavaScript",
     "topics": [
       "civitai",
@@ -256,6 +245,77 @@
       "workflow"
     ],
     "created_at": "2026-10-02T10:19:17Z"
+  },
+  {
+    "id": "gh-1404694821",
+    "name": "ronitgupta138/vectra-core",
+    "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
+    "url": "https://github.com/ronitgupta138/vectra-core",
+    "stars": 15,
+    "language": "Java",
+    "topics": [
+      "ai-search",
+      "approximate-nearest-neighbors",
+      "embeddings",
+      "high-throughput",
+      "hnsw",
+      "java-21",
+      "machine-learning",
+      "quantization",
+      "scalar-quantization",
+      "similarity-search",
+      "vector-database",
+      "virtual-threads"
+    ],
+    "created_at": "2026-10-04T17:54:41Z"
+  },
+  {
+    "id": "gh-1408152368",
+    "name": "PkLavc/Autotrader",
+    "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
+    "url": "https://github.com/PkLavc/Autotrader",
+    "stars": 15,
+    "language": "Python",
+    "topics": [
+      "ai-trading-system",
+      "algorithmic-trading-quantitative",
+      "artificial-intelligence",
+      "automated-trading-tool",
+      "deep-learning",
+      "finance",
+      "financial-machine-learning",
+      "github-actions",
+      "machine-learning",
+      "market-prediction",
+      "paper-trading-platform",
+      "portfolio-optimization",
+      "python",
+      "pytorch",
+      "quantitative-finance",
+      "quantitative-trading-tool",
+      "stock-market",
+      "stock-prediction",
+      "time-series-forecasting",
+      "trading-bot-ai-automated"
+    ],
+    "created_at": "2026-10-07T02:43:14Z"
+  },
+  {
+    "id": "gh-1405070384",
+    "name": "Takamatsu-Hikaru/AI-Research-Guide",
+    "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
+    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+    "stars": 13,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "chinese",
+      "education",
+      "getting-started",
+      "machine-learning",
+      "research"
+    ],
+    "created_at": "2026-10-05T03:32:47Z"
   },
   {
     "id": "gh-1402344315",
@@ -281,28 +341,11 @@
     "created_at": "2026-10-02T20:51:54Z"
   },
   {
-    "id": "gh-1405070384",
-    "name": "Takamatsu-Hikaru/AI-Research-Guide",
-    "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
-    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-    "stars": 11,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "chinese",
-      "education",
-      "getting-started",
-      "machine-learning",
-      "research"
-    ],
-    "created_at": "2026-10-05T03:32:47Z"
-  },
-  {
     "id": "gh-1405236282",
     "name": "The-SEMQ-Group/semq",
     "description": "Deterministic symbolic codes for embedding vectors. Byte-identical across CPUs and languages, content-addressed, diffable and verifiable. C core with Python, Rust, Go and TypeScript bindings.",
     "url": "https://github.com/The-SEMQ-Group/semq",
-    "stars": 9,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "audit",
@@ -324,36 +367,5 @@
       "webassembly"
     ],
     "created_at": "2026-10-05T06:13:01Z"
-  },
-  {
-    "id": "gh-1402116013",
-    "name": "DaragonTech/LibLayaX",
-    "description": "Fast local AI decisions inside your application. A shared library and C API built on laya.cpp that runs the Laya typed-decision model in-process: no server, no Python. Windows, Linux and macOS, x64 and ARM64, CPU or GPU. An open-source alternative to Jev",
-    "url": "https://github.com/DaragonTech/LibLayaX",
-    "stars": 8,
-    "language": "C++",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-decision-making",
-      "c-api",
-      "cpp",
-      "cross-platform",
-      "decision-making",
-      "generative-ai",
-      "ggml",
-      "inference",
-      "jev",
-      "jev-api",
-      "laya",
-      "local-ai",
-      "machine-learning",
-      "on-device-ai",
-      "on-premise-ai",
-      "shared-library",
-      "text-classification",
-      "vulkan"
-    ],
-    "created_at": "2026-10-02T17:13:19Z"
   }
 ]
