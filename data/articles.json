@@ -4308,6 +4308,19 @@
     "image": null
   },
   {
+    "id": "rss-6b0f9fee",
+    "title": "Introducing Falcon ASR",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "image": null
+  },
+  {
     "id": "rss-16096794",
     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
     "summary": "",
@@ -4347,19 +4360,6 @@
     ],
     "category": "AI Models",
     "published_date": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-cf7f1b75",
-    "title": "Introducing Playground: Create and play custom games",
-    "summary": "Overview of Playground",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 07 Oct 2026 12:00:00 +0000",
     "image": null
   }
 ]

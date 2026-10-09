@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-49996437",
-    "title": "Claude Haiku 5.5",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "points": 931,
-    "comments": 439,
+    "id": "hn-50006366",
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "url": "https://news.ycombinator.com/item?id=50006366",
+    "points": 709,
+    "comments": 220,
     "source": "Hacker News",
-    "published_date": "2026-10-07T18:01:32Z"
+    "published_date": "2026-10-08T14:39:47Z"
   },
   {
-    "id": "hn-49996425",
-    "title": "GPT\u20116 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "points": 672,
-    "comments": 390,
+    "id": "hn-50010470",
+    "title": "The value of not getting to the point (2015)",
+    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+    "points": 183,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-10-07T18:00:58Z"
+    "published_date": "2026-10-08T19:04:56Z"
   },
   {
-    "id": "hn-49997161",
-    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "points": 347,
-    "comments": 349,
+    "id": "hn-50011999",
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "points": 132,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-10-07T18:49:40Z"
+    "published_date": "2026-10-08T20:46:25Z"
   },
   {
-    "id": "hn-49994027",
-    "title": "Incident with Git Operations, Pull Requests and Actions \u2013 Resolved",
-    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-    "points": 226,
-    "comments": 180,
+    "id": "hn-50007353",
+    "title": "New gTLD Application for .lan",
+    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+    "points": 130,
+    "comments": 149,
     "source": "Hacker News",
-    "published_date": "2026-10-07T15:17:23Z"
+    "published_date": "2026-10-08T15:51:51Z"
   },
   {
-    "id": "hn-49997073",
-    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-    "points": 158,
-    "comments": 72,
+    "id": "hn-50005608",
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "url": "https://github.com/SamsungLabs/LittleBit",
+    "points": 86,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-10-07T18:43:18Z"
+    "published_date": "2026-10-08T13:29:46Z"
   },
   {
-    "id": "hn-49993121",
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-    "points": 116,
-    "comments": 53,
+    "id": "hn-50018817",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "points": 75,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-10-07T14:10:55Z"
+    "published_date": "2026-10-09T11:03:48Z"
   },
   {
-    "id": "hn-49994746",
-    "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-    "points": 96,
-    "comments": 36,
+    "id": "hn-50008565",
+    "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "points": 73,
+    "comments": 168,
     "source": "Hacker News",
-    "published_date": "2026-10-07T16:07:08Z"
+    "published_date": "2026-10-08T17:08:02Z"
   },
   {
-    "id": "hn-50000676",
-    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "points": 78,
-    "comments": 137,
+    "id": "hn-50007993",
+    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+    "url": "https://opper.ai/jevman-benchmark/",
+    "points": 65,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-10-08T00:46:00Z"
+    "published_date": "2026-10-08T16:34:13Z"
   },
   {
-    "id": "hn-49995539",
-    "title": "Show HN: Agent.reviews \u2013 Where AI agents read and write reviews on tools",
-    "url": "https://agent.reviews/",
+    "id": "hn-50010656",
+    "title": "Vitalik Buterin backs crypto \u2018bunker mode\u2019 amid rapid AI math advances",
+    "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
     "points": 62,
-    "comments": 45,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-10-07T16:59:11Z"
+    "published_date": "2026-10-08T19:17:51Z"
   },
   {
-    "id": "hn-50002665",
-    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-    "points": 49,
-    "comments": 14,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T07:07:34Z"
-  },
-  {
-    "id": "hn-49996713",
-    "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-    "points": 45,
-    "comments": 20,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T18:19:03Z"
-  },
-  {
-    "id": "hn-49997971",
-    "title": "Show HN: gtlds.fyi \u2013 All the proposed new gTLDs",
-    "url": "https://gtlds.fyi/",
-    "points": 39,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T19:53:17Z"
-  },
-  {
-    "id": "hn-49994206",
-    "title": "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots",
-    "url": "https://humxn.io/humxn-launches-free-home-service-program",
-    "points": 36,
-    "comments": 64,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T15:28:49Z"
-  },
-  {
-    "id": "hn-49993338",
-    "title": "Tell HN: Apple not letting removal of AI models on macOS 27 is outrageous",
-    "url": "https://news.ycombinator.com/item?id=49993338",
-    "points": 36,
-    "comments": 27,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T14:26:53Z"
-  },
-  {
-    "id": "hn-49996542",
-    "title": "AI Model Groupthink",
-    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-    "points": 27,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T18:08:38Z"
-  },
-  {
-    "id": "hn-49995809",
-    "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
-    "url": "https://github.com/lowenbjer/claude-terse",
-    "points": 20,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T17:16:48Z"
-  },
-  {
-    "id": "hn-49994376",
-    "title": "Thank You Indonesia for the Clean Air",
-    "url": "https://thankyouindoforthecleanair.web.app/",
-    "points": 19,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T15:39:26Z"
-  },
-  {
-    "id": "hn-49994020",
-    "title": "GitHub Is Down (Again)",
-    "url": "https://news.ycombinator.com/item?id=49994020",
-    "points": 18,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-10-07T15:17:07Z"
-  },
-  {
-    "id": "hn-49993231",
-    "title": "Device detection and occupancy monitoring for Airbnb hosts",
-    "url": "https://www.minut.com/features/occupancy-monitoring",
-    "points": 17,
+    "id": "hn-50012199",
+    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+    "url": "https://github.com/thesnarkitecht/rembrandt",
+    "points": 47,
     "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-10-07T14:19:12Z"
+    "published_date": "2026-10-08T21:00:55Z"
   },
   {
-    "id": "hn-49998960",
-    "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
-    "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
-    "points": 16,
+    "id": "hn-50010330",
+    "title": "LGTM (Looks Good to Me) \u2013 Claude Opus 5.5 Music Video",
+    "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+    "points": 47,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T18:55:18Z"
+  },
+  {
+    "id": "hn-50011028",
+    "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+    "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+    "points": 39,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T19:43:59Z"
+  },
+  {
+    "id": "hn-50014150",
+    "title": "Show HN: Edi Life OS \u2013 self-hosted life dashboard with an MCP server for AI",
+    "url": "https://github.com/edrisranjbar/lifeos",
+    "points": 38,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-10-09T00:02:19Z"
+  },
+  {
+    "id": "hn-50006114",
+    "title": "Show HN: I Put an AI Agent on a Nokia 110",
+    "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+    "points": 29,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T14:18:51Z"
+  },
+  {
+    "id": "hn-50008642",
+    "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+    "url": "https://github.com/edgedelta/project-arena",
+    "points": 22,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T17:13:08Z"
+  },
+  {
+    "id": "hn-50010569",
+    "title": "OpenAI cannot make AI safe on its own [pdf]",
+    "url": "https://mikitabalesni.com/letter/letter.pdf",
+    "points": 21,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T19:12:38Z"
+  },
+  {
+    "id": "hn-50005276",
+    "title": "Show HN: Wordminos \u2013 Crosswords Meet Dominos",
+    "url": "https://wordminos.com/play-en.html",
+    "points": 19,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T12:56:46Z"
+  },
+  {
+    "id": "hn-50012543",
+    "title": "The Gemini Agent",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "points": 17,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-10-07T21:22:14Z"
+    "published_date": "2026-10-08T21:26:28Z"
+  },
+  {
+    "id": "hn-50005566",
+    "title": "Gemini Agent Introduced",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "points": 14,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T13:25:27Z"
+  },
+  {
+    "id": "hn-50005127",
+    "title": "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude",
+    "url": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
+    "points": 13,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-10-08T12:39:26Z"
   }
 ]
