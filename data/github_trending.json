@@ -4,7 +4,7 @@
     "name": "LosaLosSantos/aurelio-finance",
     "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 825,
+    "stars": 1659,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,36 +25,11 @@
     "created_at": "2026-10-06T20:14:19Z"
   },
   {
-    "id": "gh-1403307052",
-    "name": "jiwoochris/artex-ko",
-    "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-    "url": "https://github.com/jiwoochris/artex-ko",
-    "stars": 824,
-    "language": "Go",
-    "topics": [
-      "ai-agent",
-      "autonomous-agents",
-      "blue-team",
-      "cybersecurity",
-      "detection-engineering",
-      "i18n",
-      "korean",
-      "llm",
-      "penetration-testing",
-      "security",
-      "security-research",
-      "security-tools",
-      "sigma-rules",
-      "threat-detection"
-    ],
-    "created_at": "2026-10-03T14:49:48Z"
-  },
-  {
     "id": "gh-1408967756",
     "name": "nachisama/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/nachisama/ai-data-extractor",
-    "stars": 148,
+    "stars": 150,
     "language": "Python",
     "topics": [
       "ai",
@@ -75,7 +50,7 @@
     "name": "longsurf-ai/openchart",
     "description": "OSS trading workspace with agents",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 141,
+    "stars": 147,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -97,41 +72,30 @@
     "created_at": "2026-10-05T16:16:41Z"
   },
   {
-    "id": "gh-1402655573",
-    "name": "Zhou-Yujing114514/deepseek-harness-linux",
-    "description": "First-class Linux packaging for DeepSeek Harness desktop \u2014 AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
-    "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux",
-    "stars": 120,
-    "language": "TypeScript",
+    "id": "gh-1404880073",
+    "name": "chenxiachan/paperfold",
+    "description": "Zoom any paper for your better understanding",
+    "url": "https://github.com/chenxiachan/paperfold",
+    "stars": 116,
+    "language": "Python",
     "topics": [
-      "agent",
-      "ai-agent",
-      "ai-assistant",
-      "appimage",
-      "arm64",
-      "chatbot",
-      "deb",
-      "deepseek",
-      "desktop",
-      "electron",
-      "electron-builder",
-      "linux",
+      "arxiv",
       "llm",
-      "local-llm",
-      "ollama",
-      "packaging",
-      "self-hosted",
-      "ubuntu",
-      "x64"
+      "local-first",
+      "open-source",
+      "paper-reader",
+      "research-papers",
+      "semantic-zoom",
+      "translation"
     ],
-    "created_at": "2026-10-03T04:26:57Z"
+    "created_at": "2026-10-04T22:19:52Z"
   },
   {
     "id": "gh-1405432060",
     "name": "THUROI0787/absent-author",
     "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
     "url": "https://github.com/THUROI0787/absent-author",
-    "stars": 108,
+    "stars": 114,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -145,30 +109,11 @@
     "created_at": "2026-10-05T08:41:20Z"
   },
   {
-    "id": "gh-1407754231",
-    "name": "Tejashmakwana/motionmaxxing",
-    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-    "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 89,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "claude-code",
-      "gsap",
-      "hyperframes",
-      "motion-graphics",
-      "motionmaxxing",
-      "video"
-    ],
-    "created_at": "2026-10-06T18:18:49Z"
-  },
-  {
     "id": "gh-1403809641",
     "name": "VinkyDev/vibestart",
     "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | \u81ea\u7531\u7ec4\u5408\u5168\u6808 TypeScript \u6280\u672f\u6808\uff0c\u5f97\u5230\u4e00\u4e2a\u524d\u6cbf\u3001\u7ecf\u8fc7\u9a8c\u8bc1\u3001\u4e3a AI \u7f16\u7801\u667a\u80fd\u4f53\u6253\u9020\u7684\u9879\u76ee\uff0c\u5185\u7f6e\u7c7b\u578b\u5b89\u5168\u3001lint \u4e0e\u6d4b\u8bd5\u3002",
     "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 84,
+    "stars": 95,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -189,11 +134,55 @@
     "created_at": "2026-10-04T02:36:55Z"
   },
   {
+    "id": "gh-1407754231",
+    "name": "Tejashmakwana/motionmaxxing",
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stars": 93,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "motionmaxxing",
+      "video"
+    ],
+    "created_at": "2026-10-06T18:18:49Z"
+  },
+  {
+    "id": "gh-1404377390",
+    "name": "Microqian2th/dsh-codex-effort-slider",
+    "description": "Codex \u98ce\u683c\u7684\u63a8\u7406\u7b49\u7ea7\u6ed1\u6761\uff08DeepSeek Harness \u63d2\u4ef6\uff09\uff1a\u53ef\u62d6\u52a8\u8fde\u7eed\u6ed1\u6761 + \u9ad8\u6863\u4f4d\u6e10\u53d8\u661f\u5c18\u7279\u6548",
+    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+    "stars": 66,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "codex",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "deepseek-plugin",
+      "deepseek-v4",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-desktop",
+      "effort-slider",
+      "llm",
+      "reasoning-effort"
+    ],
+    "created_at": "2026-10-04T12:33:41Z"
+  },
+  {
     "id": "gh-1404694821",
     "name": "ronitgupta138/vectra-core",
     "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
     "url": "https://github.com/ronitgupta138/vectra-core",
-    "stars": 40,
+    "stars": 41,
     "language": "Java",
     "topics": [
       "ai-search",
@@ -238,11 +227,28 @@
     "created_at": "2026-10-05T18:53:04Z"
   },
   {
+    "id": "gh-1405070384",
+    "name": "Takamatsu-Hikaru/AI-Research-Guide",
+    "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
+    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+    "stars": 21,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "chinese",
+      "education",
+      "getting-started",
+      "machine-learning",
+      "research"
+    ],
+    "created_at": "2026-10-05T03:32:47Z"
+  },
+  {
     "id": "gh-1408152368",
     "name": "PkLavc/Autotrader",
     "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
     "url": "https://github.com/PkLavc/Autotrader",
-    "stars": 23,
+    "stars": 19,
     "language": "Python",
     "topics": [
       "ai-trading-system",
@@ -269,28 +275,11 @@
     "created_at": "2026-10-07T02:43:14Z"
   },
   {
-    "id": "gh-1405070384",
-    "name": "Takamatsu-Hikaru/AI-Research-Guide",
-    "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
-    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-    "stars": 13,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "chinese",
-      "education",
-      "getting-started",
-      "machine-learning",
-      "research"
-    ],
-    "created_at": "2026-10-05T03:32:47Z"
-  },
-  {
     "id": "gh-1410128708",
     "name": "Spydonny/s6e8-lookup-transformer",
     "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
     "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
-    "stars": 11,
+    "stars": 12,
     "language": "Jupyter Notebook",
     "topics": [
       "classification",

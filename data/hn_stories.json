@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-50006366",
-    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-    "url": "https://news.ycombinator.com/item?id=50006366",
-    "points": 709,
-    "comments": 220,
+    "id": "hn-50023450",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "points": 379,
+    "comments": 284,
     "source": "Hacker News",
-    "published_date": "2026-10-08T14:39:47Z"
+    "published_date": "2026-10-09T17:02:31Z"
   },
   {
-    "id": "hn-50010470",
-    "title": "The value of not getting to the point (2015)",
-    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-    "points": 183,
-    "comments": 63,
+    "id": "hn-50021540",
+    "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+    "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+    "points": 203,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-10-08T19:04:56Z"
+    "published_date": "2026-10-09T15:05:24Z"
   },
   {
-    "id": "hn-50011999",
-    "title": "AI-ready biological data: $1.8B global commitment",
-    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "id": "hn-50029123",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "points": 202,
+    "comments": 96,
+    "source": "Hacker News",
+    "published_date": "2026-10-10T03:02:47Z"
+  },
+  {
+    "id": "hn-50027118",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "points": 170,
+    "comments": 125,
+    "source": "Hacker News",
+    "published_date": "2026-10-09T22:00:35Z"
+  },
+  {
+    "id": "hn-50029630",
+    "title": "Lobbying",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+    "points": 167,
+    "comments": 66,
+    "source": "Hacker News",
+    "published_date": "2026-10-10T04:40:36Z"
+  },
+  {
+    "id": "hn-50019056",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "points": 151,
+    "comments": 77,
+    "source": "Hacker News",
+    "published_date": "2026-10-09T11:36:20Z"
+  },
+  {
+    "id": "hn-50024571",
+    "title": "Ideas aren't getting harder to find (2022)",
+    "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
     "points": 132,
-    "comments": 19,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-10-08T20:46:25Z"
+    "published_date": "2026-10-09T18:16:03Z"
   },
   {
-    "id": "hn-50007353",
-    "title": "New gTLD Application for .lan",
-    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+    "id": "hn-50024090",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
     "points": 130,
-    "comments": 149,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-10-08T15:51:51Z"
+    "published_date": "2026-10-09T17:42:12Z"
   },
   {
-    "id": "hn-50005608",
-    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "url": "https://github.com/SamsungLabs/LittleBit",
-    "points": 86,
-    "comments": 23,
+    "id": "hn-50020856",
+    "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+    "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+    "points": 71,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-10-08T13:29:46Z"
+    "published_date": "2026-10-09T14:14:08Z"
   },
   {
-    "id": "hn-50018817",
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "points": 75,
-    "comments": 24,
+    "id": "hn-50019860",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+    "points": 34,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-10-09T11:03:48Z"
+    "published_date": "2026-10-09T13:00:21Z"
   },
   {
-    "id": "hn-50008565",
-    "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-    "points": 73,
-    "comments": 168,
+    "id": "hn-50019535",
+    "title": "Meadows \u2013 a small language for stock-and-flow diagrams that run",
+    "url": "https://lorezzed.github.io/meadows/",
+    "points": 31,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-10-08T17:08:02Z"
+    "published_date": "2026-10-09T12:29:40Z"
   },
   {
-    "id": "hn-50007993",
-    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
-    "url": "https://opper.ai/jevman-benchmark/",
-    "points": 65,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T16:34:13Z"
-  },
-  {
-    "id": "hn-50010656",
-    "title": "Vitalik Buterin backs crypto \u2018bunker mode\u2019 amid rapid AI math advances",
-    "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-    "points": 62,
-    "comments": 59,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T19:17:51Z"
-  },
-  {
-    "id": "hn-50012199",
-    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-    "url": "https://github.com/thesnarkitecht/rembrandt",
-    "points": 47,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T21:00:55Z"
-  },
-  {
-    "id": "hn-50010330",
-    "title": "LGTM (Looks Good to Me) \u2013 Claude Opus 5.5 Music Video",
-    "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
-    "points": 47,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T18:55:18Z"
-  },
-  {
-    "id": "hn-50011028",
-    "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
-    "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-    "points": 39,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T19:43:59Z"
-  },
-  {
-    "id": "hn-50014150",
-    "title": "Show HN: Edi Life OS \u2013 self-hosted life dashboard with an MCP server for AI",
-    "url": "https://github.com/edrisranjbar/lifeos",
-    "points": 38,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-10-09T00:02:19Z"
-  },
-  {
-    "id": "hn-50006114",
-    "title": "Show HN: I Put an AI Agent on a Nokia 110",
-    "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-    "points": 29,
+    "id": "hn-50025767",
+    "title": "open-slopware \u2013 Alternatives to FOSS projects choosing to use LLMs/AI",
+    "url": "https://codeberg.org/ethical-foss/open-slopware",
+    "points": 30,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-10-08T14:18:51Z"
+    "published_date": "2026-10-09T19:50:16Z"
   },
   {
-    "id": "hn-50008642",
-    "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-    "url": "https://github.com/edgedelta/project-arena",
-    "points": 22,
-    "comments": 9,
+    "id": "hn-50029681",
+    "title": "If AI is conscient, then we are making slaves",
+    "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+    "points": 27,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-10-08T17:13:08Z"
+    "published_date": "2026-10-10T04:51:26Z"
   },
   {
-    "id": "hn-50010569",
-    "title": "OpenAI cannot make AI safe on its own [pdf]",
-    "url": "https://mikitabalesni.com/letter/letter.pdf",
+    "id": "hn-50021586",
+    "title": "US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
+    "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP",
+    "points": 24,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-10-09T15:08:28Z"
+  },
+  {
+    "id": "hn-50027884",
+    "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+    "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
     "points": 21,
-    "comments": 8,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-10-08T19:12:38Z"
+    "published_date": "2026-10-09T23:32:04Z"
   },
   {
-    "id": "hn-50005276",
-    "title": "Show HN: Wordminos \u2013 Crosswords Meet Dominos",
-    "url": "https://wordminos.com/play-en.html",
+    "id": "hn-50025713",
+    "title": "An Anthropic AI model sent a false homicide tip to the police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "points": 19,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-10-08T12:56:46Z"
-  },
-  {
-    "id": "hn-50012543",
-    "title": "The Gemini Agent",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-    "points": 17,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-10-08T21:26:28Z"
+    "published_date": "2026-10-09T19:44:59Z"
   },
   {
-    "id": "hn-50005566",
-    "title": "Gemini Agent Introduced",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-    "points": 14,
-    "comments": 2,
+    "id": "hn-50020901",
+    "title": "Getting old Macromedia Director Games to run on modern Hardware",
+    "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+    "points": 19,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-10-08T13:25:27Z"
+    "published_date": "2026-10-09T14:18:03Z"
   },
   {
-    "id": "hn-50005127",
-    "title": "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude",
-    "url": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
+    "id": "hn-50020096",
+    "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
+    "url": "https://news.ycombinator.com/item?id=50020096",
     "points": 13,
-    "comments": 9,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-10-08T12:39:26Z"
+    "published_date": "2026-10-09T13:18:05Z"
+  },
+  {
+    "id": "hn-50026819",
+    "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
+    "url": "https://github.com/tlack/babytalk",
+    "points": 11,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-10-09T21:33:56Z"
   }
 ]
