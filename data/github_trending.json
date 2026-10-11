@@ -4,7 +4,7 @@
     "name": "LosaLosSantos/aurelio-finance",
     "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 1659,
+    "stars": 2100,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,32 +25,11 @@
     "created_at": "2026-10-06T20:14:19Z"
   },
   {
-    "id": "gh-1408967756",
-    "name": "nachisama/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/nachisama/ai-data-extractor",
-    "stars": 150,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-data",
-      "ai-data-analysis",
-      "claude-code",
-      "cursor",
-      "data-extraction",
-      "data-extraction-tool",
-      "data-extractor",
-      "windsurf",
-      "windsurf-ai"
-    ],
-    "created_at": "2026-10-07T14:57:39Z"
-  },
-  {
     "id": "gh-1406053875",
     "name": "longsurf-ai/openchart",
     "description": "OSS trading workspace with agents",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 147,
+    "stars": 157,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -72,30 +51,32 @@
     "created_at": "2026-10-05T16:16:41Z"
   },
   {
-    "id": "gh-1404880073",
-    "name": "chenxiachan/paperfold",
-    "description": "Zoom any paper for your better understanding",
-    "url": "https://github.com/chenxiachan/paperfold",
-    "stars": 116,
+    "id": "gh-1408967756",
+    "name": "nachisama/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/nachisama/ai-data-extractor",
+    "stars": 153,
     "language": "Python",
     "topics": [
-      "arxiv",
-      "llm",
-      "local-first",
-      "open-source",
-      "paper-reader",
-      "research-papers",
-      "semantic-zoom",
-      "translation"
+      "ai",
+      "ai-data",
+      "ai-data-analysis",
+      "claude-code",
+      "cursor",
+      "data-extraction",
+      "data-extraction-tool",
+      "data-extractor",
+      "windsurf",
+      "windsurf-ai"
     ],
-    "created_at": "2026-10-04T22:19:52Z"
+    "created_at": "2026-10-07T14:57:39Z"
   },
   {
     "id": "gh-1405432060",
     "name": "THUROI0787/absent-author",
     "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
     "url": "https://github.com/THUROI0787/absent-author",
-    "stars": 114,
+    "stars": 127,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -109,36 +90,37 @@
     "created_at": "2026-10-05T08:41:20Z"
   },
   {
-    "id": "gh-1403809641",
-    "name": "VinkyDev/vibestart",
-    "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | \u81ea\u7531\u7ec4\u5408\u5168\u6808 TypeScript \u6280\u672f\u6808\uff0c\u5f97\u5230\u4e00\u4e2a\u524d\u6cbf\u3001\u7ecf\u8fc7\u9a8c\u8bc1\u3001\u4e3a AI \u7f16\u7801\u667a\u80fd\u4f53\u6253\u9020\u7684\u9879\u76ee\uff0c\u5185\u7f6e\u7c7b\u578b\u5b89\u5168\u3001lint \u4e0e\u6d4b\u8bd5\u3002",
-    "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 95,
-    "language": "TypeScript",
+    "id": "gh-1414021078",
+    "name": "liliy886/workbuddy-google-account",
+    "description": "2 \u6bdb\u6ce8\u518c\u4e00\u4e2a WorkBuddy \u8d26\u53f7\u2014\u2014\u7528\u8c37\u6b4c\u4f01\u4e1a\u90ae\u7bb1\uff08Google Workspace\uff09\u767b\u5f55\uff0c\u6bd4\u9999\u6e2f\u624b\u673a\u53f7\u63a5\u7801\u4fbf\u5b9c 60-75%\u3002workbuddy\u6279\u91cf\u6ce8\u518c\u3001workbuddy\u4e2d\u8f6c\u7ad9\u4f9b\u8d27\u3001\u817e\u8bafAI\u5ba2\u6237\u7aef\u8d26\u53f7\u3001\u63a5\u7801\u66ff\u4ee3\u65b9\u6848\u3002\u6bcf\u65e5\u4e0a\u65b0 1 \u4e07+\uff0c24 \u5c0f\u65f6\u81ea\u52a9\u53d1\u8d27\uff0c\u4e00\u4e2a\u8d77\u5356\uff0c8 \u5e74\u8001\u7ad9\u5305\u552e\u540e\u3002",
+    "url": "https://github.com/liliy886/workbuddy-google-account",
+    "stars": 109,
+    "language": "HTML",
     "topics": [
       "ai",
-      "ai-coding",
-      "cli",
-      "fullstack",
-      "lint",
-      "react",
-      "shadcn-ui",
-      "skills",
-      "tailwindcss",
-      "tanstack",
-      "typescript",
-      "vibe-coding",
-      "vite",
-      "vite-plus"
+      "ai-tools",
+      "bulk-email",
+      "email-accounts",
+      "gmail",
+      "gmail-account",
+      "google-account",
+      "google-email",
+      "google-workspace",
+      "tencent",
+      "tencent-ai",
+      "workbuddy",
+      "workbuddy-account",
+      "workbuddy-register",
+      "workspace"
     ],
-    "created_at": "2026-10-04T02:36:55Z"
+    "created_at": "2026-10-11T06:42:43Z"
   },
   {
     "id": "gh-1407754231",
     "name": "Tejashmakwana/motionmaxxing",
     "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
     "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 93,
+    "stars": 108,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -153,52 +135,47 @@
     "created_at": "2026-10-06T18:18:49Z"
   },
   {
-    "id": "gh-1404377390",
-    "name": "Microqian2th/dsh-codex-effort-slider",
-    "description": "Codex \u98ce\u683c\u7684\u63a8\u7406\u7b49\u7ea7\u6ed1\u6761\uff08DeepSeek Harness \u63d2\u4ef6\uff09\uff1a\u53ef\u62d6\u52a8\u8fde\u7eed\u6ed1\u6761 + \u9ad8\u6863\u4f4d\u6e10\u53d8\u661f\u5c18\u7279\u6548",
-    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
-    "stars": 66,
-    "language": "JavaScript",
+    "id": "gh-1413190537",
+    "name": "Ayzzz123/mcd-coupon-strategist",
+    "description": "\u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u70b9\u9910\u6210\u672c\u4f18\u5316 Skill\u3002\u7b97\u51fa\u5f53\u524d\u95e8\u5e97\u6700\u7701\u94b1\u7684\u70b9\u9910\u65b9\u6848\uff0c\u5e76\u4e3b\u52a8\u63d0\u793a\u51d1\u5355\u9677\u9631\u3002",
+    "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+    "stars": 93,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "codex",
-      "deepseek",
-      "deepseek-ai",
-      "deepseek-harness",
-      "deepseek-plugin",
-      "deepseek-v4",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugin-desktop",
-      "effort-slider",
+      "agent",
+      "cost-optimization",
+      "coupon",
       "llm",
-      "reasoning-effort"
+      "mcd-mcp",
+      "mcdonalds",
+      "mcp",
+      "python",
+      "skill",
+      "workbuddy"
     ],
-    "created_at": "2026-10-04T12:33:41Z"
+    "created_at": "2026-10-10T12:59:19Z"
   },
   {
-    "id": "gh-1404694821",
-    "name": "ronitgupta138/vectra-core",
-    "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
-    "url": "https://github.com/ronitgupta138/vectra-core",
-    "stars": 41,
-    "language": "Java",
+    "id": "gh-1413653643",
+    "name": "NousResearch/hermes-official-plugins",
+    "description": "\u2624 The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+    "url": "https://github.com/NousResearch/hermes-official-plugins",
+    "stars": 76,
+    "language": "Python",
     "topics": [
-      "ai-search",
-      "approximate-nearest-neighbors",
-      "embeddings",
-      "high-throughput",
-      "hnsw",
-      "java-21",
-      "machine-learning",
-      "quantization",
-      "scalar-quantization",
-      "similarity-search",
-      "vector-database",
-      "virtual-threads"
+      "agent-plugins",
+      "ai-agents",
+      "claude",
+      "hermes",
+      "hermes-agent",
+      "home-assistant",
+      "llm",
+      "model-provider",
+      "nous-research",
+      "plugins",
+      "spotify"
     ],
-    "created_at": "2026-10-04T17:54:41Z"
+    "created_at": "2026-10-10T20:51:25Z"
   },
   {
     "id": "gh-1406249610",
@@ -231,7 +208,7 @@
     "name": "Takamatsu-Hikaru/AI-Research-Guide",
     "description": "AI \u79d1\u7814\u5165\u95e8\u6307\u5357\uff1a\u5927\u5b66\u9009\u62e9\u3001\u79d1\u7814 60 \u95ee\u3001\u5165\u95e8\u9879\u76ee\u3001\u5b66\u4e60\u8def\u7ebf\u4e0e\u8bba\u6587\u5361\u7247\u3002A bilingual guide to getting started in AI research.",
     "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-    "stars": 21,
+    "stars": 25,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -248,7 +225,7 @@
     "name": "PkLavc/Autotrader",
     "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
     "url": "https://github.com/PkLavc/Autotrader",
-    "stars": 19,
+    "stars": 23,
     "language": "Python",
     "topics": [
       "ai-trading-system",
@@ -279,7 +256,7 @@
     "name": "Spydonny/s6e8-lookup-transformer",
     "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
     "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
-    "stars": 12,
+    "stars": 11,
     "language": "Jupyter Notebook",
     "topics": [
       "classification",
@@ -325,7 +302,7 @@
     "name": "MegaTroll222/edit-drift",
     "description": "How much does an image model change what you told it to leave alone? Chained-edit benchmark for image models + installable scorer and Claude Code plugin.",
     "url": "https://github.com/MegaTroll222/edit-drift",
-    "stars": 9,
+    "stars": 11,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -338,5 +315,28 @@
       "nano-banana"
     ],
     "created_at": "2026-10-07T17:01:02Z"
+  },
+  {
+    "id": "gh-1410385445",
+    "name": "worldbench/Orbia",
+    "description": "\ud83d\udd25 Orbia: Do Generated Videos Form a Consistent 3D World?",
+    "url": "https://github.com/worldbench/Orbia",
+    "stars": 11,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "3d-world-model",
+      "4d",
+      "aigc",
+      "aigc-3d",
+      "benchmark",
+      "generation",
+      "generative-ai",
+      "generative-model",
+      "video-generation",
+      "world-model",
+      "world-modeling"
+    ],
+    "created_at": "2026-10-08T13:27:11Z"
   }
 ]
