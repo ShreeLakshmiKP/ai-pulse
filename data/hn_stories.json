@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50038634",
-    "title": "Show HN: WallHop \u2013 12ft.io is gone, so I built a replacement",
-    "url": "https://wallhop.io/",
-    "points": 253,
-    "comments": 104,
+    "id": "hn-50047422",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "points": 538,
+    "comments": 783,
     "source": "Hacker News",
-    "published_date": "2026-10-11T00:46:48Z"
+    "published_date": "2026-10-11T20:20:52Z"
   },
   {
-    "id": "hn-50035886",
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "points": 165,
-    "comments": 105,
+    "id": "hn-50054751",
+    "title": "QGIS bans AI assisted contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "points": 208,
+    "comments": 183,
     "source": "Hacker News",
-    "published_date": "2026-10-10T18:48:35Z"
+    "published_date": "2026-10-12T11:22:24Z"
   },
   {
-    "id": "hn-50039092",
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "points": 106,
-    "comments": 76,
+    "id": "hn-50052814",
+    "title": "Zod 4.6.6 compromised by malware?",
+    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+    "points": 158,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-10-11T02:02:38Z"
+    "published_date": "2026-10-12T07:47:29Z"
   },
   {
-    "id": "hn-50038623",
-    "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
-    "url": "https://github.com/othermod/PSPi-Version-6",
-    "points": 99,
-    "comments": 9,
+    "id": "hn-50049872",
+    "title": "Doory \u2013 Open-Source Canva",
+    "url": "https://github.com/shaongitbd/doory",
+    "points": 155,
+    "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-10-11T00:45:49Z"
+    "published_date": "2026-10-12T00:48:27Z"
   },
   {
-    "id": "hn-50035561",
-    "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-    "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-    "points": 97,
-    "comments": 77,
+    "id": "hn-50048522",
+    "title": "Recursive self-improvement through collective intelligence",
+    "url": "https://pub.sakana.ai/mass/",
+    "points": 120,
+    "comments": 71,
     "source": "Hacker News",
-    "published_date": "2026-10-10T18:11:58Z"
+    "published_date": "2026-10-11T22:22:10Z"
   },
   {
-    "id": "hn-50038383",
-    "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-    "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-    "points": 62,
-    "comments": 124,
+    "id": "hn-50052251",
+    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+    "url": "https://github.com/snuri00/ps2-web-recomp",
+    "points": 110,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-10-11T00:08:31Z"
+    "published_date": "2026-10-12T06:46:53Z"
   },
   {
-    "id": "hn-50033517",
-    "title": "My personal AI agent posted my bank details on company Slack",
-    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-    "points": 61,
-    "comments": 66,
+    "id": "hn-50050370",
+    "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "url": "https://github.com/storytold/wordcraft",
+    "points": 98,
+    "comments": 92,
     "source": "Hacker News",
-    "published_date": "2026-10-10T14:46:16Z"
+    "published_date": "2026-10-12T01:57:39Z"
   },
   {
-    "id": "hn-50038865",
-    "title": "Anthropic asks users to stop being mean to Claude",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-    "points": 50,
-    "comments": 50,
+    "id": "hn-50045735",
+    "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+    "points": 83,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-10-11T01:17:22Z"
+    "published_date": "2026-10-11T17:40:42Z"
   },
   {
-    "id": "hn-50034363",
-    "title": "AI Is Throwing a Roadside Picnic",
-    "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-    "points": 47,
-    "comments": 48,
+    "id": "hn-50045273",
+    "title": "apsw: Another Python SQLite Wrapper",
+    "url": "https://github.com/rogerbinns/apsw",
+    "points": 83,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-10-10T16:19:23Z"
+    "published_date": "2026-10-11T16:58:22Z"
   },
   {
-    "id": "hn-50038458",
-    "title": "Ask HN: Why aren't Americans rising up against tipping?",
-    "url": "https://news.ycombinator.com/item?id=50038458",
-    "points": 46,
-    "comments": 107,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T00:20:23Z"
-  },
-  {
-    "id": "hn-50039630",
-    "title": "AI agents in a stand-up call",
-    "url": "https://atoll92.github.io/agent-standup/",
-    "points": 44,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T03:42:47Z"
-  },
-  {
-    "id": "hn-50038473",
-    "title": "Veda: The First Agentic Hobby Operating System",
-    "url": "https://github.com/vahmoh25/Veda",
-    "points": 44,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T00:22:33Z"
-  },
-  {
-    "id": "hn-50035550",
-    "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-    "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-    "points": 41,
-    "comments": 35,
-    "source": "Hacker News",
-    "published_date": "2026-10-10T18:10:54Z"
-  },
-  {
-    "id": "hn-50032064",
-    "title": "There's little that's \"inevitable\" about AI",
-    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-    "points": 40,
-    "comments": 95,
-    "source": "Hacker News",
-    "published_date": "2026-10-10T12:04:04Z"
-  },
-  {
-    "id": "hn-50039627",
-    "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "points": 37,
-    "comments": 61,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T03:41:53Z"
-  },
-  {
-    "id": "hn-50038640",
-    "title": "Generative AI scandal has come to one of Nikon's competitions",
-    "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+    "id": "hn-50049588",
+    "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "url": "https://github.com/SaarthurR/atticus-mac",
     "points": 33,
-    "comments": 55,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-10-11T00:47:37Z"
+    "published_date": "2026-10-12T00:15:12Z"
   },
   {
-    "id": "hn-50041765",
-    "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-    "points": 33,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T10:47:21Z"
-  },
-  {
-    "id": "hn-50037299",
-    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "id": "hn-50049132",
+    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+    "url": "https://github.com/swimmingbrain/brainotes",
     "points": 32,
-    "comments": 8,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-10-10T21:19:42Z"
+    "published_date": "2026-10-11T23:22:29Z"
   },
   {
-    "id": "hn-50035591",
-    "title": "Trump: Ukraine should get a new president, blames Zelenskyy for US diesel prices",
-    "url": "https://apnews.com/article/russia-ukraine-war-trump-putin-diesel-228ccf74b2848c1ff0ac23f038b37512",
-    "points": 25,
-    "comments": 12,
+    "id": "hn-50044919",
+    "title": "We solved SQLite's single-writer limitation",
+    "url": "https://marcobambini.substack.com/p/we-solved-sqlites-single-writer-limitation",
+    "points": 30,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-10-10T18:15:17Z"
+    "published_date": "2026-10-11T16:25:25Z"
   },
   {
-    "id": "hn-50036023",
-    "title": "Cbirds: A flock of birds in your terminal",
-    "url": "https://github.com/clainstone/cbirds",
+    "id": "hn-50046117",
+    "title": "Anthropic is out with new nonsense about Claude",
+    "url": "https://dair-community.social/@emilymbender/117412868905734653",
+    "points": 24,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-10-11T18:16:54Z"
+  },
+  {
+    "id": "hn-50050367",
+    "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+    "points": 21,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T01:57:00Z"
+  },
+  {
+    "id": "hn-50045340",
+    "title": "Show HN: Mira, AI Walking Tours",
+    "url": "https://www.mira.tours/wander",
+    "points": 16,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-10-11T17:04:21Z"
+  },
+  {
+    "id": "hn-50049388",
+    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "url": "https://github.com/plimsollmark/plimsoll",
     "points": 15,
-    "comments": 9,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-10-10T19:02:35Z"
+    "published_date": "2026-10-11T23:47:59Z"
+  },
+  {
+    "id": "hn-50047557",
+    "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+    "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+    "points": 15,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-11T20:35:03Z"
+  },
+  {
+    "id": "hn-50047864",
+    "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+    "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+    "points": 14,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-11T21:13:47Z"
+  },
+  {
+    "id": "hn-50048128",
+    "title": "But how to get to that European cloud?",
+    "url": "https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/",
+    "points": 14,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-11T21:43:49Z"
+  },
+  {
+    "id": "hn-50052217",
+    "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+    "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+    "points": 13,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T06:43:01Z"
   }
 ]
