@@ -1,41 +1,41 @@
 [
   {
-    "id": "gh-1407873347",
-    "name": "LosaLosSantos/aurelio-finance",
-    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-    "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 2697,
+    "id": "gh-1414685342",
+    "name": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "stars": 1220,
     "language": "Python",
     "topics": [
-      "ai",
-      "dividends",
-      "etf",
-      "finance",
-      "financial-planning",
-      "fintech",
-      "investing",
+      "ai-agent",
+      "airplay",
+      "automation",
+      "computer-use",
+      "esp32",
+      "esp32-s3",
+      "iphone",
       "llm",
-      "net-worth",
-      "personal-finance",
-      "portfolio-tracker",
-      "self-hosted",
-      "stocks",
-      "wealth-management"
+      "usb-hid"
     ],
-    "created_at": "2026-10-06T20:14:19Z"
+    "created_at": "2026-10-11T19:10:25Z"
   },
   {
     "id": "gh-1415214046",
     "name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 323,
+    "stars": 796,
     "language": "Python",
     "topics": [
+      "agent-skills",
       "ai",
       "aisa",
-      "github-actions",
+      "claude-code",
+      "claude-skills",
+      "google-trends",
       "keyword-research",
+      "mcp",
+      "mcp-server",
       "seo",
       "trends"
     ],
@@ -46,7 +46,7 @@
     "name": "NousResearch/hermes-official-plugins",
     "description": "\u2624 The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
     "url": "https://github.com/NousResearch/hermes-official-plugins",
-    "stars": 222,
+    "stars": 262,
     "language": "Python",
     "topics": [
       "agent-plugins",
@@ -64,30 +64,11 @@
     "created_at": "2026-10-10T20:51:25Z"
   },
   {
-    "id": "gh-1407754231",
-    "name": "Tejashmakwana/motionmaxxing",
-    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-    "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 190,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "claude-code",
-      "gsap",
-      "hyperframes",
-      "motion-graphics",
-      "motionmaxxing",
-      "video"
-    ],
-    "created_at": "2026-10-06T18:18:49Z"
-  },
-  {
     "id": "gh-1413190537",
     "name": "Ayzzz123/mcd-coupon-strategist",
     "description": "\u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u70b9\u9910\u6210\u672c\u4f18\u5316 Skill\u3002\u7b97\u51fa\u5f53\u524d\u95e8\u5e97\u6700\u7701\u94b1\u7684\u70b9\u9910\u65b9\u6848\uff0c\u5e76\u4e3b\u52a8\u63d0\u793a\u51d1\u5355\u9677\u9631\u3002",
     "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
-    "stars": 181,
+    "stars": 256,
     "language": "Python",
     "topics": [
       "agent",
@@ -104,31 +85,33 @@
     "created_at": "2026-10-10T12:59:19Z"
   },
   {
-    "id": "gh-1414685342",
-    "name": "onehumanbeing/esp32-iphone-agent",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "stars": 137,
-    "language": "Python",
+    "id": "gh-1415358670",
+    "name": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "stars": 238,
+    "language": "TypeScript",
     "topics": [
-      "ai-agent",
-      "airplay",
-      "automation",
-      "computer-use",
-      "esp32",
-      "esp32-s3",
-      "iphone",
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
       "llm",
-      "usb-hid"
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
     ],
-    "created_at": "2026-10-11T19:10:25Z"
+    "created_at": "2026-10-12T09:19:02Z"
   },
   {
     "id": "gh-1411843792",
     "name": "lawrencewzen/wx-bot",
     "description": "\u628a\u5fae\u4fe1\u63a5\u5165\u4f60\u7684 AI Agent\uff08Grok / Muse / Claude \u7b49\uff09\u00b7 Connect WeChat to your personal AI agent via official iLink",
     "url": "https://github.com/lawrencewzen/wx-bot",
-    "stars": 119,
+    "stars": 131,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -146,7 +129,7 @@
     "name": "wousp112/justin-sun-alan-shao-ai-notes",
     "description": "\u5b59\u5b87\u6668 \u00d7 \u90b5\u827e\u4f26 4 \u5c0f\u65f6\u5bf9\u8c08\uff1a\u5168\u6587 + \u7cbe\u534e + \u4e00\u952e\u4e22\u7ed9 AI \u7684\u89c4\u5212 prompt",
     "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 110,
+    "stars": 128,
     "language": null,
     "topics": [
       "ai",
@@ -177,11 +160,32 @@
     "created_at": "2026-10-11T04:08:29Z"
   },
   {
+    "id": "gh-1409481558",
+    "name": "fidipro/gluon",
+    "description": "Control platform for coding agents",
+    "url": "https://github.com/fidipro/gluon",
+    "stars": 53,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "bun",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "llm",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-10-07T23:23:36Z"
+  },
+  {
     "id": "gh-1408152368",
     "name": "PkLavc/Autotrader",
     "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
     "url": "https://github.com/PkLavc/Autotrader",
-    "stars": 25,
+    "stars": 27,
     "language": "Python",
     "topics": [
       "ai-trading-system",
@@ -251,11 +255,34 @@
     "created_at": "2026-10-11T03:06:18Z"
   },
   {
+    "id": "gh-1410385445",
+    "name": "worldbench/Orbia",
+    "description": "\ud83d\udd25 Orbia: Do Generated Videos Form a Consistent 3D World?",
+    "url": "https://github.com/worldbench/Orbia",
+    "stars": 13,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "3d-world-model",
+      "4d",
+      "aigc",
+      "aigc-3d",
+      "benchmark",
+      "generation",
+      "generative-ai",
+      "generative-model",
+      "video-generation",
+      "world-model",
+      "world-modeling"
+    ],
+    "created_at": "2026-10-08T13:27:11Z"
+  },
+  {
     "id": "gh-1409109940",
     "name": "MegaTroll222/edit-drift",
     "description": "How much does an image model change what you told it to leave alone? Chained-edit benchmark for image models + installable scorer and Claude Code plugin.",
     "url": "https://github.com/MegaTroll222/edit-drift",
-    "stars": 12,
+    "stars": 13,
     "language": "Python",
     "topics": [
       "benchmark",
@@ -270,29 +297,11 @@
     "created_at": "2026-10-07T17:01:02Z"
   },
   {
-    "id": "gh-1410128708",
-    "name": "Spydonny/s6e8-lookup-transformer",
-    "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
-    "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
-    "stars": 11,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "classification",
-      "feature-engineering",
-      "kaggle",
-      "machine-learning",
-      "pytorch",
-      "tabular-deep-learning",
-      "transformer"
-    ],
-    "created_at": "2026-10-08T10:16:09Z"
-  },
-  {
     "id": "gh-1413495976",
     "name": "bardak971/afflatus",
     "description": "A self-hosted studio for pictures, videos and timelines, in front of your own ComfyUI.",
     "url": "https://github.com/bardak971/afflatus",
-    "stars": 11,
+    "stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-art",

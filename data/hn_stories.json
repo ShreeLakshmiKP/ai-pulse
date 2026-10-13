@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50047422",
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "points": 538,
-    "comments": 783,
+    "id": "hn-50058507",
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "points": 608,
+    "comments": 338,
     "source": "Hacker News",
-    "published_date": "2026-10-11T20:20:52Z"
+    "published_date": "2026-10-12T16:11:45Z"
   },
   {
-    "id": "hn-50054751",
-    "title": "QGIS bans AI assisted contributions",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "points": 208,
-    "comments": 183,
+    "id": "hn-50060694",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "points": 578,
+    "comments": 278,
     "source": "Hacker News",
-    "published_date": "2026-10-12T11:22:24Z"
+    "published_date": "2026-10-12T18:29:04Z"
   },
   {
-    "id": "hn-50052814",
-    "title": "Zod 4.6.6 compromised by malware?",
-    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
-    "points": 158,
-    "comments": 45,
+    "id": "hn-50063427",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "points": 475,
+    "comments": 378,
     "source": "Hacker News",
-    "published_date": "2026-10-12T07:47:29Z"
+    "published_date": "2026-10-12T21:40:18Z"
   },
   {
-    "id": "hn-50049872",
-    "title": "Doory \u2013 Open-Source Canva",
-    "url": "https://github.com/shaongitbd/doory",
-    "points": 155,
-    "comments": 58,
+    "id": "hn-50059523",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "points": 344,
+    "comments": 289,
     "source": "Hacker News",
-    "published_date": "2026-10-12T00:48:27Z"
+    "published_date": "2026-10-12T17:14:01Z"
   },
   {
-    "id": "hn-50048522",
-    "title": "Recursive self-improvement through collective intelligence",
-    "url": "https://pub.sakana.ai/mass/",
-    "points": 120,
-    "comments": 71,
+    "id": "hn-50057278",
+    "title": "Why aren't AI companies being charged for hacking?",
+    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+    "points": 324,
+    "comments": 354,
     "source": "Hacker News",
-    "published_date": "2026-10-11T22:22:10Z"
+    "published_date": "2026-10-12T14:52:37Z"
   },
   {
-    "id": "hn-50052251",
-    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-    "url": "https://github.com/snuri00/ps2-web-recomp",
-    "points": 110,
+    "id": "hn-50060269",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "points": 282,
+    "comments": 150,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T18:00:25Z"
+  },
+  {
+    "id": "hn-50063365",
+    "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "points": 263,
+    "comments": 131,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T21:35:35Z"
+  },
+  {
+    "id": "hn-50065692",
+    "title": "AI models can provably hide arbitrary capabilities",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "points": 239,
+    "comments": 115,
+    "source": "Hacker News",
+    "published_date": "2026-10-13T02:07:08Z"
+  },
+  {
+    "id": "hn-50057668",
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "url": "https://taylor.town/kk-ai-2026",
+    "points": 198,
+    "comments": 77,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T15:16:45Z"
+  },
+  {
+    "id": "hn-50063717",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "points": 180,
     "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-10-12T06:46:53Z"
+    "published_date": "2026-10-12T22:05:43Z"
   },
   {
-    "id": "hn-50050370",
-    "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "url": "https://github.com/storytold/wordcraft",
-    "points": 98,
-    "comments": 92,
+    "id": "hn-50059446",
+    "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+    "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+    "points": 178,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-10-12T01:57:39Z"
+    "published_date": "2026-10-12T17:08:16Z"
   },
   {
-    "id": "hn-50045735",
-    "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+    "id": "hn-50064536",
+    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+    "url": "https://doi.org/10.1111/acel.70751",
+    "points": 164,
+    "comments": 114,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T23:34:22Z"
+  },
+  {
+    "id": "hn-50059096",
+    "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "points": 146,
+    "comments": 101,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T16:46:34Z"
+  },
+  {
+    "id": "hn-50064318",
+    "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+    "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+    "points": 143,
+    "comments": 99,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T23:07:25Z"
+  },
+  {
+    "id": "hn-50069971",
+    "title": "An hour of audio transcribed in about 13s on MacBook Air",
+    "url": "https://eg2.haku.sh/",
+    "points": 114,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-10-13T11:27:14Z"
+  },
+  {
+    "id": "hn-50067356",
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+    "points": 95,
+    "comments": 106,
+    "source": "Hacker News",
+    "published_date": "2026-10-13T05:57:32Z"
+  },
+  {
+    "id": "hn-50061603",
+    "title": "AI models may be capable of self-replicating without access to a datacenter",
+    "url": "https://www.anthropic.com/research/self-replicating-ai",
+    "points": 91,
+    "comments": 101,
+    "source": "Hacker News",
+    "published_date": "2026-10-12T19:25:29Z"
+  },
+  {
+    "id": "hn-50062237",
+    "title": "Epic Games tells employees to use AI to get Disney game done",
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
     "points": 83,
-    "comments": 31,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-10-11T17:40:42Z"
+    "published_date": "2026-10-12T20:07:42Z"
   },
   {
-    "id": "hn-50045273",
-    "title": "apsw: Another Python SQLite Wrapper",
-    "url": "https://github.com/rogerbinns/apsw",
-    "points": 83,
-    "comments": 24,
+    "id": "hn-50067570",
+    "title": "Denmark set to allow return of 'physical force' in school",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+    "points": 71,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-10-11T16:58:22Z"
+    "published_date": "2026-10-13T06:27:03Z"
   },
   {
-    "id": "hn-50049588",
-    "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
-    "url": "https://github.com/SaarthurR/atticus-mac",
-    "points": 33,
-    "comments": 4,
+    "id": "hn-50069318",
+    "title": "AWS Lambda Web Functions",
+    "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+    "points": 55,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-10-12T00:15:12Z"
-  },
-  {
-    "id": "hn-50049132",
-    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-    "url": "https://github.com/swimmingbrain/brainotes",
-    "points": 32,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T23:22:29Z"
-  },
-  {
-    "id": "hn-50044919",
-    "title": "We solved SQLite's single-writer limitation",
-    "url": "https://marcobambini.substack.com/p/we-solved-sqlites-single-writer-limitation",
-    "points": 30,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T16:25:25Z"
-  },
-  {
-    "id": "hn-50046117",
-    "title": "Anthropic is out with new nonsense about Claude",
-    "url": "https://dair-community.social/@emilymbender/117412868905734653",
-    "points": 24,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T18:16:54Z"
-  },
-  {
-    "id": "hn-50050367",
-    "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
-    "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-    "points": 21,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-10-12T01:57:00Z"
-  },
-  {
-    "id": "hn-50045340",
-    "title": "Show HN: Mira, AI Walking Tours",
-    "url": "https://www.mira.tours/wander",
-    "points": 16,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T17:04:21Z"
-  },
-  {
-    "id": "hn-50049388",
-    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-    "url": "https://github.com/plimsollmark/plimsoll",
-    "points": 15,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T23:47:59Z"
-  },
-  {
-    "id": "hn-50047557",
-    "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-    "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
-    "points": 15,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T20:35:03Z"
-  },
-  {
-    "id": "hn-50047864",
-    "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
-    "url": "https://thelastwave.substack.com/p/theres-no-going-back",
-    "points": 14,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T21:13:47Z"
-  },
-  {
-    "id": "hn-50048128",
-    "title": "But how to get to that European cloud?",
-    "url": "https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/",
-    "points": 14,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-10-11T21:43:49Z"
-  },
-  {
-    "id": "hn-50052217",
-    "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
-    "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
-    "points": 13,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-12T06:43:01Z"
+    "published_date": "2026-10-13T10:07:03Z"
   }
 ]
