@@ -3181,6 +3181,47 @@
     "image": null
   },
   {
+    "id": "rss-600356bf",
+    "title": "The US military\u2019s race to make fake blood",
+    "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 14 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-e4c77201",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1ea8ff42",
+    "title": "The EU\u2019s next chapter in AI is agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-e4edfbe3",
     "title": "Notion just turned its workspace into a hub for AI agents",
     "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
@@ -4318,48 +4359,6 @@
     "tags": [],
     "category": "AI Tools",
     "published_date": "Wed, 07 Oct 2026 13:21:03 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-16096794",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 07 Oct 2026 12:45:31 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-7353b6a4",
-    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 07 Oct 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2283ab4e",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 07 Oct 2026 12:00:00 GMT",
     "image": null
   }
 ]
