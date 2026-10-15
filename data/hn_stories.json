@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50073879",
-    "title": "Gemini 4 Argon",
-    "url": "https://deepmind.google/models/gemini/",
-    "points": 1326,
-    "comments": 921,
+    "id": "hn-50093568",
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "points": 1396,
+    "comments": 348,
     "source": "Hacker News",
-    "published_date": "2026-10-13T16:03:16Z"
+    "published_date": "2026-10-14T19:26:30Z"
   },
   {
-    "id": "hn-50073221",
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "points": 326,
+    "id": "hn-50091788",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "points": 903,
+    "comments": 535,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T17:45:23Z"
+  },
+  {
+    "id": "hn-50092664",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "points": 367,
+    "comments": 258,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T18:32:52Z"
+  },
+  {
+    "id": "hn-50097369",
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "points": 214,
+    "comments": 46,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T23:59:37Z"
+  },
+  {
+    "id": "hn-50086165",
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "url": "https://github.com/timescale/pg_vectorsearch",
+    "points": 204,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T11:47:53Z"
+  },
+  {
+    "id": "hn-50092470",
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "points": 173,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T18:23:14Z"
+  },
+  {
+    "id": "hn-50088430",
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "points": 172,
     "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-10-13T15:25:50Z"
+    "published_date": "2026-10-14T14:38:55Z"
   },
   {
-    "id": "hn-50083130",
-    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-    "url": "https://github.com/android/ndk/issues/2260",
-    "points": 285,
-    "comments": 127,
+    "id": "hn-50090443",
+    "title": "Why do LLM pelicans look like this?",
+    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+    "points": 162,
+    "comments": 135,
     "source": "Hacker News",
-    "published_date": "2026-10-14T06:18:01Z"
+    "published_date": "2026-10-14T16:33:34Z"
   },
   {
-    "id": "hn-50070593",
-    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-    "points": 246,
-    "comments": 97,
+    "id": "hn-50090799",
+    "title": "Has AI tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "points": 122,
+    "comments": 105,
     "source": "Hacker News",
-    "published_date": "2026-10-13T12:26:36Z"
+    "published_date": "2026-10-14T16:52:42Z"
   },
   {
-    "id": "hn-50074869",
-    "title": "Gemini 4 Argon for Robotics",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "points": 220,
-    "comments": 50,
+    "id": "hn-50090842",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "url": "https://lwn.net/Articles/1100449/",
+    "points": 116,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-10-13T16:55:47Z"
+    "published_date": "2026-10-14T16:55:07Z"
   },
   {
-    "id": "hn-50072120",
-    "title": "How to engineer an AI harness for game development",
-    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "points": 152,
-    "comments": 76,
+    "id": "hn-50088534",
+    "title": "AI is mass decompiling games. That's both awesome and scary",
+    "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+    "points": 104,
+    "comments": 157,
     "source": "Hacker News",
-    "published_date": "2026-10-13T14:14:23Z"
+    "published_date": "2026-10-14T14:47:44Z"
   },
   {
-    "id": "hn-50069942",
-    "title": "Character.ai Files for Bankruptcy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "points": 145,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-10-13T11:24:08Z"
-  },
-  {
-    "id": "hn-50080275",
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "url": "https://pulseos.finance",
-    "points": 106,
-    "comments": 68,
-    "source": "Hacker News",
-    "published_date": "2026-10-13T23:13:23Z"
-  },
-  {
-    "id": "hn-50081151",
-    "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-    "url": "https://blumify.io/people",
-    "points": 102,
-    "comments": 62,
-    "source": "Hacker News",
-    "published_date": "2026-10-14T01:09:13Z"
-  },
-  {
-    "id": "hn-50070010",
-    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "url": "https://github.com/LargeModGames/spotatui",
+    "id": "hn-50086363",
+    "title": "Nvidia's first GPU: GeForce 256",
+    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
     "points": 76,
-    "comments": 14,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-10-13T11:32:00Z"
+    "published_date": "2026-10-14T12:05:44Z"
   },
   {
-    "id": "hn-50077619",
-    "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-    "url": "https://parsimony.lasu.dev/",
+    "id": "hn-50100791",
+    "title": "AI was great until it was not",
+    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
     "points": 69,
-    "comments": 13,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-10-13T19:50:31Z"
+    "published_date": "2026-10-15T08:18:38Z"
   },
   {
-    "id": "hn-50082962",
-    "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-    "points": 64,
-    "comments": 69,
+    "id": "hn-50089395",
+    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+    "points": 63,
+    "comments": 88,
     "source": "Hacker News",
-    "published_date": "2026-10-14T05:53:36Z"
+    "published_date": "2026-10-14T15:39:45Z"
   },
   {
-    "id": "hn-50084622",
-    "title": "Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX",
-    "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
-    "points": 54,
-    "comments": 65,
+    "id": "hn-50090484",
+    "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+    "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+    "points": 35,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-10-14T09:10:37Z"
+    "published_date": "2026-10-14T16:34:53Z"
   },
   {
-    "id": "hn-50073926",
-    "title": "Scientists wonder: Is my AI stealing my ideas?",
-    "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-    "points": 48,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-10-13T16:05:51Z"
-  },
-  {
-    "id": "hn-50073471",
-    "title": "Launch HN: Consus (YC F24) \u2013 LLM gateway for companies handling sensitive data",
-    "url": "https://news.ycombinator.com/item?id=50073471",
+    "id": "hn-50088044",
+    "title": "GitHub Actions has added lock files",
+    "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/",
     "points": 34,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-10-13T15:41:00Z"
-  },
-  {
-    "id": "hn-50075809",
-    "title": "Show HN: Deslop \u2013 Oxlint rules for AI-generated TypeScript",
-    "url": "https://github.com/maharshi365/deslop",
-    "points": 31,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-10-13T17:52:57Z"
-  },
-  {
-    "id": "hn-50085296",
-    "title": "I let an AI run my startup for a week",
-    "url": "https://daily.tinyprojects.dev/221",
-    "points": 22,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-14T10:25:48Z"
-  },
-  {
-    "id": "hn-50081189",
-    "title": "Ask HN: Where has creativity in software gone?",
-    "url": "https://news.ycombinator.com/item?id=50081189",
-    "points": 21,
-    "comments": 17,
-    "source": "Hacker News",
-    "published_date": "2026-10-14T01:14:37Z"
-  },
-  {
-    "id": "hn-50071200",
-    "title": "Show HN: Stream live open data in two commands",
-    "url": "https://docs.hypermass.io/docs/cli/",
-    "points": 15,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-10-13T13:14:09Z"
+    "published_date": "2026-10-14T14:09:41Z"
   },
   {
-    "id": "hn-50078285",
-    "title": "I just got our entire company's Claude Enterprise account suspended",
-    "url": "https://twitter.com/heinenbros/status/2110081812169162923",
-    "points": 14,
-    "comments": 3,
+    "id": "hn-50087127",
+    "title": "SpaceX activated 100mph speed-limit restriction on Starlink terminals in Ukraine",
+    "url": "https://bsky.app/profile/adamjschwarz.bsky.social/post/3mxsy6s4nt22m",
+    "points": 33,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-10-13T20:32:34Z"
+    "published_date": "2026-10-14T13:05:00Z"
+  },
+  {
+    "id": "hn-50101149",
+    "title": "The cost of getting a job today",
+    "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+    "points": 25,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-10-15T09:13:20Z"
+  },
+  {
+    "id": "hn-50096825",
+    "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
+    "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees",
+    "points": 23,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T23:06:24Z"
+  },
+  {
+    "id": "hn-50096300",
+    "title": "Show HN: Ito \u2013 Build Terminal UIs in Lua",
+    "url": "https://uji.sh/ito/",
+    "points": 23,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-10-14T22:23:53Z"
   }
 ]
