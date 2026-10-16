@@ -4,7 +4,7 @@
     "name": "onehumanbeing/esp32-iphone-agent",
     "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
     "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "stars": 2239,
+    "stars": 2728,
     "language": "C",
     "topics": [
       "ai-agent",
@@ -20,33 +20,11 @@
     "created_at": "2026-10-11T19:10:25Z"
   },
   {
-    "id": "gh-1415214046",
-    "name": "zhuyansen/new-term-radar",
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-    "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 999,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "aisa",
-      "claude-code",
-      "claude-skills",
-      "google-trends",
-      "keyword-research",
-      "mcp",
-      "mcp-server",
-      "seo",
-      "trends"
-    ],
-    "created_at": "2026-10-12T07:11:01Z"
-  },
-  {
     "id": "gh-1415358670",
     "name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 904,
+    "stars": 1258,
     "language": "TypeScript",
     "topics": [
       "agent-ui",
@@ -64,11 +42,33 @@
     "created_at": "2026-10-12T09:19:02Z"
   },
   {
+    "id": "gh-1415214046",
+    "name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "stars": 1050,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "aisa",
+      "claude-code",
+      "claude-skills",
+      "google-trends",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "seo",
+      "trends"
+    ],
+    "created_at": "2026-10-12T07:11:01Z"
+  },
+  {
     "id": "gh-1416766144",
     "name": "outcrawlai/scout",
     "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
     "url": "https://github.com/outcrawlai/scout",
-    "stars": 780,
+    "stars": 871,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -82,11 +82,28 @@
     "created_at": "2026-10-13T09:18:55Z"
   },
   {
+    "id": "gh-1416887041",
+    "name": "datalab-to/indra",
+    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "url": "https://github.com/datalab-to/indra",
+    "stars": 384,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "cpu",
+      "document-parsing",
+      "ocr",
+      "onnx",
+      "pdf"
+    ],
+    "created_at": "2026-10-13T11:07:11Z"
+  },
+  {
     "id": "gh-1413190537",
     "name": "Ayzzz123/mcd-coupon-strategist",
     "description": "\u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u70b9\u9910\u6210\u672c\u4f18\u5316 Skill\u3002\u7b97\u51fa\u5f53\u524d\u95e8\u5e97\u6700\u7701\u94b1\u7684\u70b9\u9910\u65b9\u6848\uff0c\u5e76\u4e3b\u52a8\u63d0\u793a\u51d1\u5355\u9677\u9631\u3002",
     "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
-    "stars": 324,
+    "stars": 367,
     "language": "Python",
     "topics": [
       "agent",
@@ -103,28 +120,11 @@
     "created_at": "2026-10-10T12:59:19Z"
   },
   {
-    "id": "gh-1416887041",
-    "name": "datalab-to/indra",
-    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-    "url": "https://github.com/datalab-to/indra",
-    "stars": 301,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "cpu",
-      "document-parsing",
-      "ocr",
-      "onnx",
-      "pdf"
-    ],
-    "created_at": "2026-10-13T11:07:11Z"
-  },
-  {
     "id": "gh-1413653643",
     "name": "NousResearch/hermes-official-plugins",
     "description": "\u2624 The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
     "url": "https://github.com/NousResearch/hermes-official-plugins",
-    "stars": 282,
+    "stars": 298,
     "language": "Python",
     "topics": [
       "agent-plugins",
@@ -142,42 +142,39 @@
     "created_at": "2026-10-10T20:51:25Z"
   },
   {
-    "id": "gh-1411530691",
-    "name": "BlenderGPT3D/blender-ai-addon",
-    "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-    "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
-    "stars": 213,
-    "language": "Python",
+    "id": "gh-1416407675",
+    "name": "vakandi/opencode-rust",
+    "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents \u2014 no Docker required.",
+    "url": "https://github.com/vakandi/opencode-rust",
+    "stars": 71,
+    "language": "Rust",
     "topics": [
-      "3d-graphics",
       "ai",
-      "blender",
-      "blender-addon",
-      "blender-plugin",
-      "chatgpt",
-      "generative-ai",
-      "gpt",
+      "cli",
+      "coding-agent",
       "llm",
-      "python"
+      "lsp",
+      "mcp",
+      "opencode",
+      "rust",
+      "tui"
     ],
-    "created_at": "2026-10-09T08:34:03Z"
+    "created_at": "2026-10-13T03:36:43Z"
   },
   {
-    "id": "gh-1411366774",
-    "name": "wousp112/justin-sun-alan-shao-ai-notes",
-    "description": "\u5b59\u5b87\u6668 \u00d7 \u90b5\u827e\u4f26 4 \u5c0f\u65f6\u5bf9\u8c08\uff1a\u5168\u6587 + \u7cbe\u534e + \u4e00\u952e\u4e22\u7ed9 AI \u7684\u89c4\u5212 prompt",
-    "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 143,
-    "language": null,
+    "id": "gh-1415075956",
+    "name": "songshikang0111/awesome-REA-cases",
+    "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
+    "url": "https://github.com/songshikang0111/awesome-REA-cases",
+    "stars": 68,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "alan-shao",
-      "career-development",
-      "learning",
-      "prompt-engineering"
+      "awesome-list",
+      "rea",
+      "reverse-engineering"
     ],
-    "created_at": "2026-10-09T06:01:01Z"
+    "created_at": "2026-10-12T04:52:44Z"
   },
   {
     "id": "gh-1413864127",
@@ -206,23 +203,26 @@
     "created_at": "2026-10-11T02:48:07Z"
   },
   {
-    "id": "gh-1411621909",
-    "name": "AllSpark-Research/Vela",
-    "description": "Vela: User Behavior as Supervision Sparks LLM Intelligence \u2014 official paper, task templates, and prompts from AllSpark at Xiaohongshu.",
-    "url": "https://github.com/AllSpark-Research/Vela",
-    "stars": 16,
-    "language": null,
+    "id": "gh-1420052920",
+    "name": "aalbata/machine-learning-for-cybersecurity",
+    "description": "A free course on machine learning for cybersecurity and the security of machine learning, with lessons, runnable labs, exercises and quizzes. By Dr. Ali Al Bataineh, Higher Colleges of Technology.",
+    "url": "https://github.com/aalbata/machine-learning-for-cybersecurity",
+    "stars": 17,
+    "language": "Jupyter Notebook",
     "topics": [
-      "large-language-models",
-      "llm",
+      "adversarial-machine-learning",
+      "ai-security",
+      "anomaly-detection",
+      "cybersecurity",
+      "deep-learning",
+      "deepfake-detection",
+      "free-course",
+      "intrusion-detection",
       "machine-learning",
-      "natural-language-processing",
-      "reinforcement-learning",
-      "supervised-fine-tuning",
-      "user-behavior",
-      "user-modeling"
+      "prompt-injection",
+      "python"
     ],
-    "created_at": "2026-10-09T09:47:18Z"
+    "created_at": "2026-10-15T02:01:22Z"
   },
   {
     "id": "gh-1413874229",
@@ -242,26 +242,11 @@
     "created_at": "2026-10-11T03:06:18Z"
   },
   {
-    "id": "gh-1412351248",
-    "name": "CaioScura/expression-lab",
-    "description": "Aplica\u00e7\u00e3o de vis\u00e3o computacional que reconhece gestos com as m\u00e3os e express\u00f5es faciais em tempo real pela webcam, permitindo associar gestos personalizados a imagens e GIFs.",
-    "url": "https://github.com/CaioScura/expression-lab",
-    "stars": 15,
-    "language": "Python",
-    "topics": [
-      "machine-learning",
-      "mediapipe",
-      "opencv",
-      "python"
-    ],
-    "created_at": "2026-10-09T19:22:09Z"
-  },
-  {
     "id": "gh-1413495976",
     "name": "bardak971/afflatus",
     "description": "A self-hosted studio for pictures, videos and timelines, in front of your own ComfyUI.",
     "url": "https://github.com/bardak971/afflatus",
-    "stars": 14,
+    "stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai-art",
@@ -283,34 +268,43 @@
     "created_at": "2026-10-10T17:50:28Z"
   },
   {
-    "id": "gh-1411852562",
-    "name": "gwenn-ha-dev/Siliconed",
-    "description": "Native macOS app for local AI image generation and editing on Apple silicon: Z-Image Turbo and Qwen-Image-2.1 in Swift and Metal, fp32, checked against diffusers. Never takes more memory than its budget: \u00be of the Mac's memory minus 2 GB.",
-    "url": "https://github.com/gwenn-ha-dev/Siliconed",
-    "stars": 8,
-    "language": "Swift",
+    "id": "gh-1416354096",
+    "name": "dennynan/quantlab-oss",
+    "description": "AI \u9a71\u52a8\u7684\u91cf\u5316\u5206\u6790\u5e73\u53f0\uff08\u5f00\u6e90\u7248\uff09\uff1a\u56e0\u5b50\u5206\u6790 / \u9009\u80a1 / \u591a\u56e0\u5b50\u8f6e\u52a8\u56de\u6d4b / \u6a21\u578b\u5b9e\u9a8c\u5ba4 / \u81ea\u52a8\u56e0\u5b50\u6316\u6398 \u00b7 Qlib + Alpha158 + FastAPI + Vue3",
+    "url": "https://github.com/dennynan/quantlab-oss",
+    "stars": 7,
+    "language": "Python",
     "topics": [
-      "apple-silicon",
-      "civitai",
-      "diffusion-models",
-      "generative-ai",
-      "gguf",
-      "image-editing",
-      "image-generation",
-      "local-ai",
-      "lora",
-      "mac-app",
-      "macos",
-      "metal",
-      "offline",
-      "qwen-image",
-      "safetensors",
-      "stable-diffusion-alternative",
-      "swift",
-      "swiftui",
-      "text-to-image",
-      "z-image"
+      "alpha158",
+      "backtesting",
+      "factor-investing",
+      "fastapi",
+      "machine-learning",
+      "qlib",
+      "quant",
+      "quantitative-trading-tool",
+      "quantlab",
+      "vue3"
     ],
-    "created_at": "2026-10-09T12:58:05Z"
+    "created_at": "2026-10-13T02:32:42Z"
+  },
+  {
+    "id": "gh-1412578826",
+    "name": "lerqian883-alt/dsh-plugin-ml-phase-gate",
+    "description": "Evidence-backed ML phase gates, live visualization, and portable project bootstrap for DeepSeek Harness.",
+    "url": "https://github.com/lerqian883-alt/dsh-plugin-ml-phase-gate",
+    "stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "evidence-gate",
+      "machine-learning",
+      "mlops",
+      "phase-gate",
+      "workflow-visualization"
+    ],
+    "created_at": "2026-10-10T00:13:12Z"
   }
 ]
