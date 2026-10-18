@@ -1,30 +1,10 @@
 [
   {
-    "id": "gh-1414685342",
-    "name": "onehumanbeing/esp32-iphone-agent",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "stars": 2932,
-    "language": "C",
-    "topics": [
-      "ai-agent",
-      "airplay",
-      "automation",
-      "computer-use",
-      "esp32",
-      "esp32-s3",
-      "iphone",
-      "llm",
-      "usb-hid"
-    ],
-    "created_at": "2026-10-11T19:10:25Z"
-  },
-  {
     "id": "gh-1415358670",
     "name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1621,
+    "stars": 1956,
     "language": "TypeScript",
     "topics": [
       "agent-ui",
@@ -46,7 +26,7 @@
     "name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1072,
+    "stars": 1094,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -68,7 +48,7 @@
     "name": "outcrawlai/scout",
     "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
     "url": "https://github.com/outcrawlai/scout",
-    "stars": 916,
+    "stars": 945,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -82,11 +62,42 @@
     "created_at": "2026-10-13T09:18:55Z"
   },
   {
+    "id": "gh-1421389432",
+    "name": "LiCinCan/blender-ai-mcp-addon",
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+    "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+    "stars": 705,
+    "language": "Python",
+    "topics": [
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation",
+      "blender-extension",
+      "blender-mcp",
+      "blender-plugin",
+      "blender-python",
+      "blender-scripting",
+      "bpy",
+      "chatgpt",
+      "gpt",
+      "llm",
+      "mcp",
+      "mcp-for-blender",
+      "mcp-server",
+      "model-context-protocol",
+      "opencode",
+      "python"
+    ],
+    "created_at": "2026-10-15T22:30:47Z"
+  },
+  {
     "id": "gh-1416887041",
     "name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 503,
+    "stars": 605,
     "language": "Python",
     "topics": [
       "ai",
@@ -99,42 +110,11 @@
     "created_at": "2026-10-13T11:07:11Z"
   },
   {
-    "id": "gh-1421389432",
-    "name": "anujasid/blender-ai-mcp-addon",
-    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-    "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-    "stars": 357,
-    "language": "Python",
-    "topics": [
-      "3d-modeling",
-      "ai-assistant",
-      "blender",
-      "blender-addon",
-      "blender-ai",
-      "blender-extension",
-      "blender-mcp",
-      "blender-plugin",
-      "blender-python",
-      "blender-scripting",
-      "chatgpt",
-      "gpt",
-      "image-to-3d",
-      "llm",
-      "mcp",
-      "mcp-for-blender",
-      "mcp-server",
-      "model-context-protocol",
-      "python",
-      "text-to-3d"
-    ],
-    "created_at": "2026-10-15T22:30:47Z"
-  },
-  {
     "id": "gh-1416828644",
     "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
     "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
     "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "stars": 325,
+    "stars": 371,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -154,7 +134,7 @@
     "name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 80,
+    "stars": 226,
     "language": "Python",
     "topics": [
       "ai",
@@ -165,11 +145,31 @@
     "created_at": "2026-10-12T04:52:44Z"
   },
   {
+    "id": "gh-1421433459",
+    "name": "christos-antono/NPCTalk",
+    "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+    "url": "https://github.com/christos-antono/NPCTalk",
+    "stars": 125,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "fish-audio",
+      "game-modding",
+      "gta5",
+      "llm",
+      "npc",
+      "text-to-speech",
+      "voice-cloning"
+    ],
+    "created_at": "2026-10-15T23:37:25Z"
+  },
+  {
     "id": "gh-1416407675",
     "name": "vakandi/opencode-rust",
     "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents \u2014 no Docker required.",
     "url": "https://github.com/vakandi/opencode-rust",
-    "stars": 72,
+    "stars": 73,
     "language": "Rust",
     "topics": [
       "ai",
@@ -185,37 +185,42 @@
     "created_at": "2026-10-13T03:36:43Z"
   },
   {
-    "id": "gh-1413864127",
-    "name": "ac1261692159/candela",
-    "description": "\u5f00\u6e90\u53ef\u79c1\u6709\u5316\u7684\u7528\u6237\u884c\u4e3a\u5206\u6790\u3002Self-hosted user behavior analytics on ClickHouse and ClkLog. Events, funnels, retention, dashboards. AGPL-3.0.",
-    "url": "https://github.com/ac1261692159/candela",
-    "stars": 22,
-    "language": "TypeScript",
+    "id": "gh-1422962789",
+    "name": "harshpreet931/harshpreet-hand",
+    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "url": "https://github.com/harshpreet931/harshpreet-hand",
+    "stars": 32,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "analytics",
-      "analytics-tracking",
-      "clickhouse",
-      "clklog",
-      "dashboard",
-      "data-analytics",
+      "claude",
+      "claude-code",
+      "computer-networks",
+      "computer-vision",
+      "font",
+      "fonttools",
       "generative-ai",
-      "llm",
-      "open-source",
-      "product-analytics",
-      "self-hosted",
-      "user-behavior",
-      "vibe-coding"
+      "handwriting",
+      "handwriting-font",
+      "notes",
+      "open-font-license",
+      "opencv",
+      "opentype",
+      "python",
+      "remotion",
+      "ttf",
+      "typography",
+      "webfont",
+      "woff2"
     ],
-    "created_at": "2026-10-11T02:48:07Z"
+    "created_at": "2026-10-17T05:00:41Z"
   },
   {
     "id": "gh-1420052920",
     "name": "aalbata/machine-learning-for-cybersecurity",
     "description": "A free course on machine learning for cybersecurity and the security of machine learning, with lessons, runnable labs, exercises and quizzes. By Dr. Ali Al Bataineh, Higher Colleges of Technology.",
     "url": "https://github.com/aalbata/machine-learning-for-cybersecurity",
-    "stars": 19,
+    "stars": 20,
     "language": "Jupyter Notebook",
     "topics": [
       "adversarial-machine-learning",
@@ -233,21 +238,25 @@
     "created_at": "2026-10-15T02:01:22Z"
   },
   {
-    "id": "gh-1413874229",
-    "name": "dc-tw/ai-video-drama-platform",
-    "description": "Full-stack AI short-drama pipeline with FastAPI, Pydantic structured outputs, ComfyUI and FFmpeg",
-    "url": "https://github.com/dc-tw/ai-video-drama-platform",
-    "stars": 16,
+    "id": "gh-1416354096",
+    "name": "dennynan/quantlab-oss",
+    "description": "AI \u9a71\u52a8\u7684\u91cf\u5316\u5206\u6790\u5e73\u53f0\uff08\u5f00\u6e90\u7248\uff09\uff1a\u56e0\u5b50\u5206\u6790 / \u9009\u80a1 / \u591a\u56e0\u5b50\u8f6e\u52a8\u56de\u6d4b / \u6a21\u578b\u5b9e\u9a8c\u5ba4 / \u81ea\u52a8\u56e0\u5b50\u6316\u6398 \u00b7 Qlib + Alpha158 + FastAPI + Vue3",
+    "url": "https://github.com/dennynan/quantlab-oss",
+    "stars": 12,
     "language": "Python",
     "topics": [
-      "ai-video",
-      "comfyui",
+      "alpha158",
+      "backtesting",
+      "factor-investing",
       "fastapi",
-      "ffmpeg",
-      "generative-ai",
-      "pydantic"
+      "machine-learning",
+      "qlib",
+      "quant",
+      "quantitative-trading-tool",
+      "quantlab",
+      "vue3"
     ],
-    "created_at": "2026-10-11T03:06:18Z"
+    "created_at": "2026-10-13T02:32:42Z"
   },
   {
     "id": "gh-1421831994",
@@ -281,6 +290,36 @@
     "created_at": "2026-10-16T07:53:53Z"
   },
   {
+    "id": "gh-1419838541",
+    "name": "beckettharriman/gimp-openfill",
+    "description": "Generative Fill, object removal and Generative Expand for GIMP 3. A free, local alternative to Photoshop's AI tools, using Stable Diffusion through ComfyUI.",
+    "url": "https://github.com/beckettharriman/gimp-openfill",
+    "stars": 10,
+    "language": "Python",
+    "topics": [
+      "comfyui",
+      "flux",
+      "generative-ai",
+      "generative-fill",
+      "gimp",
+      "gimp-3",
+      "gimp-plugin",
+      "gimp3",
+      "image-editing",
+      "inpainting",
+      "lama",
+      "local-ai",
+      "object-removal",
+      "outpainting",
+      "photo-editing",
+      "photoshop-alternative",
+      "python",
+      "sdxl",
+      "stable-diffusion"
+    ],
+    "created_at": "2026-10-14T20:51:20Z"
+  },
+  {
     "id": "gh-1416754444",
     "name": "rezasouri/podsieve",
     "description": "Speaker diarization and vocal separation with a native Qt desktop UI and Python CLI. Turn podcasts and interviews into speaker-labeled audio datasets.",
@@ -302,26 +341,5 @@
       "vocal-processing"
     ],
     "created_at": "2026-10-13T09:09:02Z"
-  },
-  {
-    "id": "gh-1416354096",
-    "name": "dennynan/quantlab-oss",
-    "description": "AI \u9a71\u52a8\u7684\u91cf\u5316\u5206\u6790\u5e73\u53f0\uff08\u5f00\u6e90\u7248\uff09\uff1a\u56e0\u5b50\u5206\u6790 / \u9009\u80a1 / \u591a\u56e0\u5b50\u8f6e\u52a8\u56de\u6d4b / \u6a21\u578b\u5b9e\u9a8c\u5ba4 / \u81ea\u52a8\u56e0\u5b50\u6316\u6398 \u00b7 Qlib + Alpha158 + FastAPI + Vue3",
-    "url": "https://github.com/dennynan/quantlab-oss",
-    "stars": 7,
-    "language": "Python",
-    "topics": [
-      "alpha158",
-      "backtesting",
-      "factor-investing",
-      "fastapi",
-      "machine-learning",
-      "qlib",
-      "quant",
-      "quantitative-trading-tool",
-      "quantlab",
-      "vue3"
-    ],
-    "created_at": "2026-10-13T02:32:42Z"
   }
 ]
