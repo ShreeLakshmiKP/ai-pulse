@@ -1,137 +1,182 @@
 [
   {
-    "id": "hn-50131189",
-    "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "points": 167,
-    "comments": 32,
+    "id": "hn-50145337",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "points": 424,
+    "comments": 206,
     "source": "Hacker News",
-    "published_date": "2026-10-17T13:51:08Z"
+    "published_date": "2026-10-18T20:48:14Z"
   },
   {
-    "id": "hn-50132278",
-    "title": "Amazon uses AI to monitor union risk in UK warehouses",
-    "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-    "points": 164,
+    "id": "hn-50141076",
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "points": 402,
+    "comments": 64,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T13:48:48Z"
+  },
+  {
+    "id": "hn-50145507",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "points": 193,
+    "comments": 139,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T21:09:12Z"
+  },
+  {
+    "id": "hn-50140769",
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "url": "https://legendofhyrule.com/",
+    "points": 193,
+    "comments": 112,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T13:06:54Z"
+  },
+  {
+    "id": "hn-50144066",
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "points": 167,
+    "comments": 39,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T18:48:04Z"
+  },
+  {
+    "id": "hn-50141429",
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "points": 165,
+    "comments": 165,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T14:30:27Z"
+  },
+  {
+    "id": "hn-50148452",
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+    "points": 160,
     "comments": 58,
     "source": "Hacker News",
-    "published_date": "2026-10-17T16:04:23Z"
+    "published_date": "2026-10-19T04:41:46Z"
   },
   {
-    "id": "hn-50131006",
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "url": "https://celphase.github.io/duck-pond/",
-    "points": 138,
-    "comments": 30,
+    "id": "hn-50141657",
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "points": 146,
+    "comments": 138,
     "source": "Hacker News",
-    "published_date": "2026-10-17T13:28:46Z"
+    "published_date": "2026-10-18T14:58:10Z"
   },
   {
-    "id": "hn-50133231",
-    "title": "Codex Desktop continuously generates Crashpad pending dumps",
-    "url": "https://github.com/openai/codex/issues/25921",
-    "points": 133,
-    "comments": 53,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T17:45:08Z"
-  },
-  {
-    "id": "hn-50133274",
-    "title": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
-    "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
-    "points": 131,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T17:49:10Z"
-  },
-  {
-    "id": "hn-50137950",
-    "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
-    "url": "https://sphinx-six-theta.vercel.app/",
-    "points": 129,
+    "id": "hn-50143536",
+    "title": "PalmOS Lemmings",
+    "url": "https://github.com/ardiri/palmos-lemmings",
+    "points": 134,
     "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-10-18T04:33:49Z"
+    "published_date": "2026-10-18T17:56:59Z"
   },
   {
-    "id": "hn-50137820",
-    "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "url": "https://tkgally.github.io/500-clocks/",
-    "points": 51,
-    "comments": 19,
+    "id": "hn-50141295",
+    "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+    "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+    "points": 117,
+    "comments": 142,
     "source": "Hacker News",
-    "published_date": "2026-10-18T04:04:58Z"
+    "published_date": "2026-10-18T14:16:41Z"
   },
   {
-    "id": "hn-50132911",
-    "title": "Tsc-ts: TypeScript written in TypeScript",
-    "url": "https://github.com/vercel-labs/tsc-ts",
-    "points": 48,
-    "comments": 48,
+    "id": "hn-50145715",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "points": 114,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-10-17T17:10:27Z"
+    "published_date": "2026-10-18T21:36:10Z"
   },
   {
-    "id": "hn-50138462",
-    "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-    "points": 44,
-    "comments": 49,
+    "id": "hn-50143218",
+    "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+    "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+    "points": 93,
+    "comments": 153,
     "source": "Hacker News",
-    "published_date": "2026-10-18T06:36:48Z"
+    "published_date": "2026-10-18T17:27:30Z"
   },
   {
-    "id": "hn-50133713",
-    "title": "AI Can Write the Code. Who Verifies It?",
-    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "id": "hn-50140462",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "points": 88,
+    "comments": 108,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T12:22:58Z"
+  },
+  {
+    "id": "hn-50148855",
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "points": 52,
+    "comments": 26,
+    "source": "Hacker News",
+    "published_date": "2026-10-19T05:55:31Z"
+  },
+  {
+    "id": "hn-50141436",
+    "title": "Show HN: Ranet3 \u2013 High performance policy routed IPsec mesh SD-WAN",
+    "url": "https://ranet3.com/",
+    "points": 30,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T14:31:52Z"
+  },
+  {
+    "id": "hn-50140784",
+    "title": "Hyper Optimizing Kimi K3 in vLLM",
+    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+    "points": 29,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T13:08:50Z"
+  },
+  {
+    "id": "hn-50142772",
+    "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+    "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
     "points": 27,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T18:31:30Z"
-  },
-  {
-    "id": "hn-50134241",
-    "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-    "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
-    "points": 25,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T19:26:43Z"
-  },
-  {
-    "id": "hn-50132550",
-    "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-    "points": 20,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T16:35:35Z"
-  },
-  {
-    "id": "hn-50135290",
-    "title": "Weak Links Start to Show in A.I. Borrowing",
-    "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-    "points": 19,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-10-17T21:25:57Z"
-  },
-  {
-    "id": "hn-50136124",
-    "title": "Abolish AI Manifesto",
-    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-    "points": 17,
     "comments": 12,
     "source": "Hacker News",
-    "published_date": "2026-10-17T23:23:46Z"
+    "published_date": "2026-10-18T16:48:25Z"
   },
   {
-    "id": "hn-50134856",
-    "title": "California Student Data Leaked",
-    "url": "https://www.reuters.com/world/us/hacker-gets-data-millions-california-students-state-education-department-says-2026-10-17/",
-    "points": 11,
-    "comments": 4,
+    "id": "hn-50148396",
+    "title": "Show HN: Strot \u2013 Compile an LLM's intent once, run decisions locally",
+    "url": "https://github.com/strot-ai/Project-STROT",
+    "points": 23,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-10-17T20:32:02Z"
+    "published_date": "2026-10-19T04:32:07Z"
+  },
+  {
+    "id": "hn-50141494",
+    "title": "World Bank says 'small AI' could transform developing countries",
+    "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+    "points": 17,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-10-18T14:37:55Z"
+  },
+  {
+    "id": "hn-50147462",
+    "title": "Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",
+    "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+    "points": 16,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-10-19T01:56:39Z"
   }
 ]
