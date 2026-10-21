@@ -1958,6 +1958,100 @@
     "image": null
   },
   {
+    "id": "rss-2db044ee",
+    "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+    "tags": [
+      "agents",
+      "NVIDIA"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 21 Oct 2026 10:41:36 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1baeecbe",
+    "title": "We can do impossible things",
+    "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d&#160; I won\u2019t lie.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f47c3d90",
+    "title": "Nuclear-powered spaceships",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-41ca0cba",
+    "title": "Exercise in a pill",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks\u2014without the workout.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-09b33513",
+    "title": "Interspecies communication",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d5fc26d8",
+    "title": "Cleaning up PFAS",
+    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-aec1886e",
+    "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
+    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 21 Oct 2026 04:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-6b0b9cf6",
     "title": "Clouted wants to take the guesswork out of making short videos go viral",
     "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
@@ -4251,110 +4345,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 08 Apr 2026 16:01:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-cc07171a",
-    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "tags": [
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Wed, 08 Apr 2026 15:23:44 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-33b06a63",
-    "title": "ALTK\u2011Evolve: On\u2011the\u2011Job Learning for AI Agents",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Wed, 08 Apr 2026 14:27:42 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-536b87e0",
-    "title": "The next phase of enterprise AI",
-    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "agents",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 08 Apr 2026 14:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-10e4e364",
-    "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
-    "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 08 Apr 2026 14:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7017c143",
-    "title": "The Download: water threats in Iran and AI\u2019s impact on what entrepreneurs make",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 08 Apr 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-f0cb2e33",
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 08 Apr 2026 05:40:19 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-10e69bab",
-    "title": "Introducing the Child Safety Blueprint",
-    "summary": "Discover OpenAI\u2019s Child Safety Blueprint\u2014a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/introducing-child-safety-blueprint",
-    "tags": [
-      "safety",
-      "OpenAI"
-    ],
-    "category": "AI Policy",
-    "published_date": "Wed, 08 Apr 2026 05:00:00 GMT",
     "image": null
   }
 ]

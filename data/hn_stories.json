@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50151036",
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "url": "https://news.ycombinator.com/item?id=50151036",
-    "points": 463,
-    "comments": 608,
+    "id": "hn-50166257",
+    "title": "How I got over 300 Tor exit nodes removed",
+    "url": "https://kaba.cx/posts/20261020_Tor/",
+    "points": 369,
+    "comments": 96,
     "source": "Hacker News",
-    "published_date": "2026-10-19T11:24:34Z"
+    "published_date": "2026-10-20T13:39:24Z"
   },
   {
-    "id": "hn-50159341",
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "points": 452,
-    "comments": 130,
+    "id": "hn-50169053",
+    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "url": "https://github.com/google-pytorch/torch_tpu",
+    "points": 344,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-10-19T23:22:18Z"
+    "published_date": "2026-10-20T16:40:24Z"
   },
   {
-    "id": "hn-50155291",
-    "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
-    "url": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
-    "points": 159,
-    "comments": 161,
+    "id": "hn-50165801",
+    "title": "Publish fake stats, get cited in LLMs",
+    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "points": 343,
+    "comments": 198,
     "source": "Hacker News",
-    "published_date": "2026-10-19T17:30:26Z"
+    "published_date": "2026-10-20T13:06:22Z"
   },
   {
-    "id": "hn-50153934",
-    "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-    "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-    "points": 155,
-    "comments": 127,
+    "id": "hn-50173891",
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "url": "https://www.thebeliever.net/the-other-epidemic/",
+    "points": 201,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-10-19T15:52:26Z"
+    "published_date": "2026-10-20T23:04:09Z"
   },
   {
-    "id": "hn-50151928",
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "url": "https://100toolkit.com/blog/deslop-model/",
-    "points": 148,
-    "comments": 109,
+    "id": "hn-50167286",
+    "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+    "url": "https://github.com/KatrielMoses/voidaccess",
+    "points": 185,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-10-19T13:00:47Z"
+    "published_date": "2026-10-20T14:49:33Z"
   },
   {
-    "id": "hn-50159245",
-    "title": "How abliterated models can get you pwned",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-    "points": 138,
-    "comments": 80,
+    "id": "hn-50168190",
+    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+    "points": 177,
+    "comments": 210,
     "source": "Hacker News",
-    "published_date": "2026-10-19T23:08:52Z"
+    "published_date": "2026-10-20T15:48:26Z"
   },
   {
-    "id": "hn-50151390",
-    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-    "points": 130,
-    "comments": 64,
+    "id": "hn-50170021",
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "points": 107,
+    "comments": 69,
     "source": "Hacker News",
-    "published_date": "2026-10-19T12:07:41Z"
+    "published_date": "2026-10-20T17:48:29Z"
   },
   {
-    "id": "hn-50152466",
-    "title": "Maxwell: A new kind of model that sits between code and hardware",
-    "url": "https://heymaxwell.ai/",
-    "points": 80,
-    "comments": 38,
+    "id": "hn-50171771",
+    "title": "On AI writing",
+    "url": "https://www.bolkunov.com/p/on-ai-writing",
+    "points": 89,
+    "comments": 57,
     "source": "Hacker News",
-    "published_date": "2026-10-19T13:47:56Z"
+    "published_date": "2026-10-20T19:55:11Z"
   },
   {
-    "id": "hn-50161408",
-    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "url": "https://deathplanswitch.com/",
-    "points": 70,
-    "comments": 49,
+    "id": "hn-50167617",
+    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "url": "https://jevcards.com",
+    "points": 62,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-10-20T04:37:43Z"
+    "published_date": "2026-10-20T15:11:56Z"
   },
   {
-    "id": "hn-50152541",
-    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "url": "https://github.com/kividbio/kividb",
-    "points": 67,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-10-19T13:53:52Z"
-  },
-  {
-    "id": "hn-50152877",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "points": 59,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-19T14:23:17Z"
-  },
-  {
-    "id": "hn-50154029",
-    "title": "Launch HN: Laminar (YC S24) \u2013 RL-trained model that finds errors in agent traces",
-    "url": "https://news.ycombinator.com/item?id=50154029",
-    "points": 58,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-10-19T16:00:18Z"
-  },
-  {
-    "id": "hn-50151980",
-    "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-    "url": "https://3anddoneapp.com/try",
-    "points": 55,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-10-19T13:07:07Z"
-  },
-  {
-    "id": "hn-50154982",
-    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-    "points": 36,
+    "id": "hn-50167604",
+    "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+    "url": "https://github.com/AbdullahAlhariri/penmentor",
+    "points": 61,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-10-19T17:09:45Z"
+    "published_date": "2026-10-20T15:10:54Z"
   },
   {
-    "id": "hn-50154060",
-    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-    "points": 33,
-    "comments": 75,
+    "id": "hn-50167505",
+    "title": "How Corruption Got This Bad",
+    "url": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/",
+    "points": 59,
+    "comments": 16,
     "source": "Hacker News",
-    "published_date": "2026-10-19T16:03:29Z"
+    "published_date": "2026-10-20T15:03:58Z"
   },
   {
-    "id": "hn-50159765",
-    "title": "People are using AI to make smart TVs, dumb TVs",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "points": 30,
-    "comments": 1,
+    "id": "hn-50175779",
+    "title": "Using Claude to reduce the attack surface of code",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "points": 53,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-10-20T00:19:13Z"
+    "published_date": "2026-10-21T03:36:43Z"
   },
   {
-    "id": "hn-50152302",
-    "title": "Cairn: Open windows into AI-driven cyber operations",
-    "url": "https://norforge.com/blog/inside_cairn",
-    "points": 29,
-    "comments": 9,
+    "id": "hn-50167583",
+    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+    "url": "https://news.ycombinator.com/item?id=50167583",
+    "points": 49,
+    "comments": 20,
     "source": "Hacker News",
-    "published_date": "2026-10-19T13:35:12Z"
+    "published_date": "2026-10-20T15:09:29Z"
   },
   {
-    "id": "hn-50162198",
-    "title": "Vite+ an excellent toolchain for AI agent development",
-    "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+    "id": "hn-50169506",
+    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+    "url": "https://research.poh.org/bot-benchmarking-2026/",
+    "points": 46,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-20T17:10:31Z"
+  },
+  {
+    "id": "hn-50166927",
+    "title": "Require Police to Get a Warrant to Search ALPR Data",
+    "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
+    "points": 25,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-20T14:24:27Z"
+  },
+  {
+    "id": "hn-50167524",
+    "title": "Getting Banned from r/java",
+    "url": "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/",
+    "points": 24,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-10-20T15:05:07Z"
+  },
+  {
+    "id": "hn-50168983",
+    "title": "Gemini 4 Argon is now available for everyone",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "points": 24,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-10-20T16:36:24Z"
+  },
+  {
+    "id": "hn-50167587",
+    "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+    "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
     "points": 23,
-    "comments": 19,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-10-20T06:40:49Z"
+    "published_date": "2026-10-20T15:10:01Z"
   },
   {
-    "id": "hn-50152976",
-    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-    "points": 23,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-10-19T14:31:27Z"
-  },
-  {
-    "id": "hn-50158684",
-    "title": "Show HN: RoadRash ported to Three.js to run in the browser",
-    "url": "https://roadrash.pages.dev",
+    "id": "hn-50174541",
+    "title": "SpaceX revenue soars 161% as AI business grows",
+    "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
     "points": 22,
-    "comments": 6,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-10-19T22:01:54Z"
+    "published_date": "2026-10-21T00:25:45Z"
+  },
+  {
+    "id": "hn-50167495",
+    "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
+    "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
+    "points": 17,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-10-20T15:03:19Z"
   }
 ]
