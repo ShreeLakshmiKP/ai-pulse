@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50166257",
-    "title": "How I got over 300 Tor exit nodes removed",
-    "url": "https://kaba.cx/posts/20261020_Tor/",
-    "points": 369,
-    "comments": 96,
+    "id": "hn-50180873",
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "points": 1039,
+    "comments": 547,
     "source": "Hacker News",
-    "published_date": "2026-10-20T13:39:24Z"
+    "published_date": "2026-10-21T13:45:33Z"
   },
   {
-    "id": "hn-50169053",
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "points": 344,
-    "comments": 73,
+    "id": "hn-50189232",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "points": 490,
+    "comments": 117,
     "source": "Hacker News",
-    "published_date": "2026-10-20T16:40:24Z"
+    "published_date": "2026-10-21T23:51:37Z"
   },
   {
-    "id": "hn-50165801",
-    "title": "Publish fake stats, get cited in LLMs",
-    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "points": 343,
-    "comments": 198,
+    "id": "hn-50180836",
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "points": 441,
+    "comments": 178,
     "source": "Hacker News",
-    "published_date": "2026-10-20T13:06:22Z"
+    "published_date": "2026-10-21T13:43:19Z"
   },
   {
-    "id": "hn-50173891",
-    "title": "The Other Epidemic: Trying to get off benzodiazepines",
-    "url": "https://www.thebeliever.net/the-other-epidemic/",
-    "points": 201,
-    "comments": 152,
+    "id": "hn-50186037",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "points": 397,
+    "comments": 364,
     "source": "Hacker News",
-    "published_date": "2026-10-20T23:04:09Z"
+    "published_date": "2026-10-21T19:14:01Z"
   },
   {
-    "id": "hn-50167286",
-    "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
-    "url": "https://github.com/KatrielMoses/voidaccess",
-    "points": 185,
-    "comments": 13,
+    "id": "hn-50185869",
+    "title": "GitLab critical patch release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "points": 356,
+    "comments": 83,
     "source": "Hacker News",
-    "published_date": "2026-10-20T14:49:33Z"
+    "published_date": "2026-10-21T19:01:12Z"
   },
   {
-    "id": "hn-50168190",
-    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-    "points": 177,
-    "comments": 210,
+    "id": "hn-50186010",
+    "title": "Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "points": 316,
+    "comments": 191,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:48:26Z"
+    "published_date": "2026-10-21T19:11:57Z"
   },
   {
-    "id": "hn-50170021",
-    "title": "Claude designed protein binders against scorpion neurotoxins",
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "points": 107,
-    "comments": 69,
+    "id": "hn-50189150",
+    "title": "Airbnb bans making guests do dishes and take out the trash",
+    "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "points": 184,
+    "comments": 167,
     "source": "Hacker News",
-    "published_date": "2026-10-20T17:48:29Z"
+    "published_date": "2026-10-21T23:38:32Z"
   },
   {
-    "id": "hn-50171771",
-    "title": "On AI writing",
-    "url": "https://www.bolkunov.com/p/on-ai-writing",
-    "points": 89,
-    "comments": 57,
+    "id": "hn-50180752",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "points": 146,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-10-20T19:55:11Z"
+    "published_date": "2026-10-21T13:37:00Z"
   },
   {
-    "id": "hn-50167617",
-    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "url": "https://jevcards.com",
-    "points": 62,
-    "comments": 50,
+    "id": "hn-50186043",
+    "title": "Google staff resign in backlash over its AI contracts with military",
+    "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "points": 124,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:11:56Z"
+    "published_date": "2026-10-21T19:14:21Z"
   },
   {
-    "id": "hn-50167604",
-    "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
-    "url": "https://github.com/AbdullahAlhariri/penmentor",
-    "points": 61,
-    "comments": 7,
+    "id": "hn-50183892",
+    "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+    "url": "https://github.com/omnara-ai/omnara",
+    "points": 82,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:10:54Z"
+    "published_date": "2026-10-21T16:44:53Z"
   },
   {
-    "id": "hn-50167505",
-    "title": "How Corruption Got This Bad",
-    "url": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/",
-    "points": 59,
-    "comments": 16,
+    "id": "hn-50186455",
+    "title": "Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "points": 81,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:03:58Z"
+    "published_date": "2026-10-21T19:40:18Z"
   },
   {
-    "id": "hn-50175779",
-    "title": "Using Claude to reduce the attack surface of code",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "points": 53,
-    "comments": 22,
+    "id": "hn-50182960",
+    "title": "I told people I'm a convicted felon after 20 years of hiding it",
+    "url": "https://buford.bg/",
+    "points": 74,
+    "comments": 49,
     "source": "Hacker News",
-    "published_date": "2026-10-21T03:36:43Z"
+    "published_date": "2026-10-21T15:46:43Z"
   },
   {
-    "id": "hn-50167583",
-    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-    "url": "https://news.ycombinator.com/item?id=50167583",
-    "points": 49,
-    "comments": 20,
+    "id": "hn-50179857",
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "url": "https://layerfs.ai/",
+    "points": 72,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:09:29Z"
+    "published_date": "2026-10-21T12:34:46Z"
   },
   {
-    "id": "hn-50169506",
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "url": "https://research.poh.org/bot-benchmarking-2026/",
-    "points": 46,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-10-20T17:10:31Z"
-  },
-  {
-    "id": "hn-50166927",
-    "title": "Require Police to Get a Warrant to Search ALPR Data",
-    "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
-    "points": 25,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-10-20T14:24:27Z"
-  },
-  {
-    "id": "hn-50167524",
-    "title": "Getting Banned from r/java",
-    "url": "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/",
-    "points": 24,
+    "id": "hn-50183727",
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "url": "https://rustoffrails.org/",
+    "points": 71,
     "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:05:07Z"
+    "published_date": "2026-10-21T16:34:16Z"
   },
   {
-    "id": "hn-50168983",
-    "title": "Gemini 4 Argon is now available for everyone",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "points": 24,
-    "comments": 8,
+    "id": "hn-50183344",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "points": 63,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-10-20T16:36:24Z"
+    "published_date": "2026-10-21T16:09:28Z"
   },
   {
-    "id": "hn-50167587",
-    "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-    "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-    "points": 23,
-    "comments": 8,
+    "id": "hn-50184712",
+    "title": "Texas data center boom could erase decades of progress on air quality",
+    "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+    "points": 52,
+    "comments": 23,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:10:01Z"
+    "published_date": "2026-10-21T17:38:55Z"
   },
   {
-    "id": "hn-50174541",
-    "title": "SpaceX revenue soars 161% as AI business grows",
-    "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-    "points": 22,
-    "comments": 5,
+    "id": "hn-50183253",
+    "title": "AI agent fixed the bug, but what else did it change?",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "points": 51,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-10-21T00:25:45Z"
+    "published_date": "2026-10-21T16:03:32Z"
   },
   {
-    "id": "hn-50167495",
-    "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
-    "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
-    "points": 17,
+    "id": "hn-50190357",
+    "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+    "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "points": 47,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-10-22T02:17:58Z"
+  },
+  {
+    "id": "hn-50192868",
+    "title": "Achieving AI-style reasoning without an LLM",
+    "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "points": 34,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-10-20T15:03:19Z"
+    "published_date": "2026-10-22T08:46:58Z"
+  },
+  {
+    "id": "hn-50190334",
+    "title": "LLM agents play Pokemon showdown",
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "points": 29,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-10-22T02:13:48Z"
   }
 ]
