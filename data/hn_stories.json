@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50233779",
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "points": 578,
-    "comments": 246,
+    "id": "hn-50251661",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "points": 648,
+    "comments": 239,
     "source": "Hacker News",
-    "published_date": "2026-10-25T17:15:38Z"
+    "published_date": "2026-10-26T21:59:15Z"
   },
   {
-    "id": "hn-50236102",
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "points": 344,
-    "comments": 331,
+    "id": "hn-50248124",
+    "title": "GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "points": 596,
+    "comments": 377,
     "source": "Hacker News",
-    "published_date": "2026-10-25T21:11:31Z"
+    "published_date": "2026-10-26T18:01:17Z"
   },
   {
-    "id": "hn-50233304",
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "points": 220,
-    "comments": 320,
+    "id": "hn-50246658",
+    "title": "Concerning behavior from a popular open-weight AI model",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "points": 304,
+    "comments": 118,
     "source": "Hacker News",
-    "published_date": "2026-10-25T16:28:26Z"
+    "published_date": "2026-10-26T16:35:44Z"
   },
   {
-    "id": "hn-50233294",
-    "title": "JetBrains Thinkrail",
-    "url": "https://github.com/JetBrains/thinkrail",
-    "points": 220,
-    "comments": 163,
+    "id": "hn-50248371",
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "points": 248,
+    "comments": 166,
     "source": "Hacker News",
-    "published_date": "2026-10-25T16:27:12Z"
+    "published_date": "2026-10-26T18:14:49Z"
   },
   {
-    "id": "hn-50238739",
-    "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "points": 159,
-    "comments": 51,
+    "id": "hn-50242843",
+    "title": "Brown student maps the hidden global labor powering AI",
+    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+    "points": 179,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-10-26T03:29:05Z"
+    "published_date": "2026-10-26T12:58:27Z"
   },
   {
-    "id": "hn-50237712",
-    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-    "points": 152,
-    "comments": 89,
+    "id": "hn-50255298",
+    "title": "The Mythical Man-Month in the Age of AI",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "points": 178,
+    "comments": 127,
     "source": "Hacker News",
-    "published_date": "2026-10-26T01:03:39Z"
+    "published_date": "2026-10-27T06:25:37Z"
   },
   {
-    "id": "hn-50237379",
-    "title": "Steal My Bitcoin CTF PoC",
-    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "points": 129,
-    "comments": 34,
+    "id": "hn-50242870",
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "points": 166,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-10-26T00:15:17Z"
+    "published_date": "2026-10-26T12:59:48Z"
   },
   {
-    "id": "hn-50234879",
-    "title": "Where the Romans Fought (interactive map)",
-    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-    "points": 112,
-    "comments": 43,
+    "id": "hn-50246238",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "points": 147,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-10-25T18:58:14Z"
+    "published_date": "2026-10-26T16:12:29Z"
   },
   {
-    "id": "hn-50230995",
-    "title": "Imagine an AI future where being banned means you are now economically useless",
-    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-    "points": 97,
-    "comments": 78,
+    "id": "hn-50252159",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "points": 142,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-10-25T12:47:20Z"
+    "published_date": "2026-10-26T22:41:48Z"
   },
   {
-    "id": "hn-50231722",
-    "title": "R/open source bans all solo projects and projects using LLMs",
-    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-    "points": 88,
-    "comments": 111,
+    "id": "hn-50254836",
+    "title": "There are now 5 inference providers for abliterated DeepSeek",
+    "url": "https://allmodels.io/llm/abliterated",
+    "points": 78,
+    "comments": 81,
     "source": "Hacker News",
-    "published_date": "2026-10-25T14:05:03Z"
+    "published_date": "2026-10-27T04:53:52Z"
   },
   {
-    "id": "hn-50231310",
-    "title": "US inequality is getting worse in ways you might not expect",
-    "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
-    "points": 80,
-    "comments": 150,
+    "id": "hn-50251062",
+    "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+    "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+    "points": 68,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-10-25T13:24:37Z"
+    "published_date": "2026-10-26T21:13:59Z"
   },
   {
-    "id": "hn-50235316",
-    "title": "Eunice is almost here",
-    "url": "https://armincat.com/articles/eunice-is-almost-here",
-    "points": 76,
-    "comments": 74,
+    "id": "hn-50247453",
+    "title": "The Git Forge for Agent-Human Collaboration",
+    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+    "points": 55,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-10-25T19:40:27Z"
+    "published_date": "2026-10-26T17:23:11Z"
   },
   {
-    "id": "hn-50239027",
-    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-    "points": 69,
-    "comments": 74,
+    "id": "hn-50247677",
+    "title": "Nvidia discusses $2k-per-GPU annual fee for software",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+    "points": 39,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-10-26T04:11:40Z"
+    "published_date": "2026-10-26T17:34:45Z"
   },
   {
-    "id": "hn-50233347",
-    "title": "A mathematician reads the AI future",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "points": 63,
-    "comments": 87,
+    "id": "hn-50256230",
+    "title": "AI is ruining haunted houses",
+    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+    "points": 37,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-10-25T16:31:21Z"
+    "published_date": "2026-10-27T08:50:33Z"
   },
   {
-    "id": "hn-50231349",
-    "title": "Show HN: Farol \u2013 A risk map of a pull request for the person who approves it",
-    "url": "https://github.com/winnin/farol",
-    "points": 60,
-    "comments": 37,
+    "id": "hn-50248075",
+    "title": "GPT 6.1 Terra",
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+    "points": 37,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-10-25T13:28:06Z"
+    "published_date": "2026-10-26T17:58:24Z"
   },
   {
-    "id": "hn-50236828",
-    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-    "points": 58,
-    "comments": 37,
+    "id": "hn-50249953",
+    "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
+    "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
+    "points": 32,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-10-25T22:49:06Z"
+    "published_date": "2026-10-26T19:52:44Z"
   },
   {
-    "id": "hn-50234699",
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "points": 57,
-    "comments": 25,
+    "id": "hn-50248825",
+    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+    "points": 26,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-10-25T18:42:23Z"
+    "published_date": "2026-10-26T18:40:53Z"
   },
   {
-    "id": "hn-50235010",
-    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-    "points": 47,
+    "id": "hn-50255346",
+    "title": "\u201cAI Skills\u201d are worthless in 2026",
+    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+    "points": 25,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-10-27T06:33:34Z"
+  },
+  {
+    "id": "hn-50249076",
+    "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
+    "points": 24,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-10-26T18:54:00Z"
+  },
+  {
+    "id": "hn-50250910",
+    "title": "AI models cost more when you don't use English",
+    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+    "points": 23,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-10-25T19:10:36Z"
-  },
-  {
-    "id": "hn-50238351",
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-    "points": 31,
-    "comments": 65,
-    "source": "Hacker News",
-    "published_date": "2026-10-26T02:22:38Z"
-  },
-  {
-    "id": "hn-50237680",
-    "title": "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
-    "url": "https://news.ycombinator.com/item?id=50237680",
-    "points": 24,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-10-26T01:00:52Z"
+    "published_date": "2026-10-26T21:03:22Z"
   }
 ]
