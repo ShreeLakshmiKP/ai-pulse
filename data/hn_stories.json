@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50251661",
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "points": 648,
-    "comments": 239,
+    "id": "hn-50260814",
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "points": 528,
+    "comments": 277,
     "source": "Hacker News",
-    "published_date": "2026-10-26T21:59:15Z"
+    "published_date": "2026-10-27T15:28:26Z"
   },
   {
-    "id": "hn-50248124",
-    "title": "GPT-6.1 Terra",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "points": 596,
-    "comments": 377,
+    "id": "hn-50264853",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "points": 382,
+    "comments": 147,
     "source": "Hacker News",
-    "published_date": "2026-10-26T18:01:17Z"
+    "published_date": "2026-10-27T19:55:06Z"
   },
   {
-    "id": "hn-50246658",
-    "title": "Concerning behavior from a popular open-weight AI model",
-    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-    "points": 304,
-    "comments": 118,
+    "id": "hn-50261819",
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "points": 374,
+    "comments": 293,
     "source": "Hacker News",
-    "published_date": "2026-10-26T16:35:44Z"
+    "published_date": "2026-10-27T16:40:15Z"
   },
   {
-    "id": "hn-50248371",
-    "title": "Type Server Protocol",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "points": 248,
-    "comments": 166,
+    "id": "hn-50261589",
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "points": 325,
+    "comments": 253,
     "source": "Hacker News",
-    "published_date": "2026-10-26T18:14:49Z"
+    "published_date": "2026-10-27T16:25:30Z"
   },
   {
-    "id": "hn-50242843",
-    "title": "Brown student maps the hidden global labor powering AI",
-    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-    "points": 179,
-    "comments": 171,
+    "id": "hn-50268380",
+    "title": "Git for the US Code",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "points": 300,
+    "comments": 144,
     "source": "Hacker News",
-    "published_date": "2026-10-26T12:58:27Z"
+    "published_date": "2026-10-28T01:47:50Z"
   },
   {
-    "id": "hn-50255298",
-    "title": "The Mythical Man-Month in the Age of AI",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "points": 178,
-    "comments": 127,
+    "id": "hn-50265609",
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "points": 242,
+    "comments": 237,
     "source": "Hacker News",
-    "published_date": "2026-10-27T06:25:37Z"
+    "published_date": "2026-10-27T20:50:42Z"
   },
   {
-    "id": "hn-50242870",
-    "title": "Fixing Tool-Call Accuracy in vLLM",
-    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "points": 166,
-    "comments": 68,
+    "id": "hn-50261784",
+    "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+    "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+    "points": 232,
+    "comments": 159,
     "source": "Hacker News",
-    "published_date": "2026-10-26T12:59:48Z"
+    "published_date": "2026-10-27T16:38:08Z"
   },
   {
-    "id": "hn-50246238",
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "points": 147,
-    "comments": 33,
+    "id": "hn-50259406",
+    "title": "Is my data used for model training?",
+    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "points": 219,
+    "comments": 105,
     "source": "Hacker News",
-    "published_date": "2026-10-26T16:12:29Z"
+    "published_date": "2026-10-27T13:56:15Z"
   },
   {
-    "id": "hn-50252159",
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "points": 142,
-    "comments": 46,
+    "id": "hn-50261647",
+    "title": "Classification of Finite Simple Groups Formalized in Lean",
+    "url": "https://cfsg.axiommath.ai/",
+    "points": 216,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-10-26T22:41:48Z"
+    "published_date": "2026-10-27T16:29:02Z"
   },
   {
-    "id": "hn-50254836",
-    "title": "There are now 5 inference providers for abliterated DeepSeek",
-    "url": "https://allmodels.io/llm/abliterated",
-    "points": 78,
-    "comments": 81,
+    "id": "hn-50262229",
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "points": 146,
+    "comments": 56,
     "source": "Hacker News",
-    "published_date": "2026-10-27T04:53:52Z"
+    "published_date": "2026-10-27T17:04:50Z"
   },
   {
-    "id": "hn-50251062",
-    "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-    "points": 68,
+    "id": "hn-50267569",
+    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+    "url": "https://github.com/maharmstone/moxnox",
+    "points": 77,
+    "comments": 17,
+    "source": "Hacker News",
+    "published_date": "2026-10-27T23:53:41Z"
+  },
+  {
+    "id": "hn-50261583",
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "points": 62,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-10-27T16:25:12Z"
+  },
+  {
+    "id": "hn-50266701",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "points": 43,
     "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-10-26T21:13:59Z"
+    "published_date": "2026-10-27T22:23:37Z"
   },
   {
-    "id": "hn-50247453",
-    "title": "The Git Forge for Agent-Human Collaboration",
-    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-    "points": 55,
-    "comments": 38,
+    "id": "hn-50263325",
+    "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+    "points": 35,
+    "comments": 10,
     "source": "Hacker News",
-    "published_date": "2026-10-26T17:23:11Z"
+    "published_date": "2026-10-27T18:08:20Z"
   },
   {
-    "id": "hn-50247677",
-    "title": "Nvidia discusses $2k-per-GPU annual fee for software",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-    "points": 39,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-10-26T17:34:45Z"
-  },
-  {
-    "id": "hn-50256230",
-    "title": "AI is ruining haunted houses",
-    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
-    "points": 37,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-10-27T08:50:33Z"
-  },
-  {
-    "id": "hn-50248075",
-    "title": "GPT 6.1 Terra",
-    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
-    "points": 37,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-10-26T17:58:24Z"
-  },
-  {
-    "id": "hn-50249953",
-    "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
-    "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
-    "points": 32,
+    "id": "hn-50259271",
+    "title": "Cancer vaccines are finally here. How do we get them to patients?",
+    "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/",
+    "points": 29,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-10-26T19:52:44Z"
+    "published_date": "2026-10-27T13:47:49Z"
   },
   {
-    "id": "hn-50248825",
-    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-    "points": 26,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-10-26T18:40:53Z"
-  },
-  {
-    "id": "hn-50255346",
-    "title": "\u201cAI Skills\u201d are worthless in 2026",
-    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-    "points": 25,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-10-27T06:33:34Z"
-  },
-  {
-    "id": "hn-50249076",
-    "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
-    "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
-    "points": 24,
+    "id": "hn-50271088",
+    "title": "Billion-query-per-second lookup tables in C++",
+    "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+    "points": 19,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-10-26T18:54:00Z"
+    "published_date": "2026-10-28T09:43:44Z"
   },
   {
-    "id": "hn-50250910",
-    "title": "AI models cost more when you don't use English",
-    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-    "points": 23,
+    "id": "hn-50266764",
+    "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+    "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+    "points": 17,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-10-27T22:29:50Z"
+  },
+  {
+    "id": "hn-50260146",
+    "title": "DietPi v10.8 has been released",
+    "url": "https://news.ycombinator.com/item?id=50260146",
+    "points": 17,
     "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-10-26T21:03:22Z"
+    "published_date": "2026-10-27T14:42:19Z"
+  },
+  {
+    "id": "hn-50267494",
+    "title": "Free daily JSON feed of Shanghai government subsidy notices",
+    "url": "https://github.com/ZhongGheart/china-policy-data",
+    "points": 16,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-27T23:46:21Z"
+  },
+  {
+    "id": "hn-50270229",
+    "title": "Show HN: A Lego-like composable Framework for RSI",
+    "url": "https://rsi-gear.github.io/",
+    "points": 15,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-10-28T07:25:08Z"
   }
 ]

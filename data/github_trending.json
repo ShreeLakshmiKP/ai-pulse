@@ -1,47 +1,10 @@
 [
   {
-    "id": "gh-1428519987",
-    "name": "Alejandros17487/ai-jailbreaks",
-    "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-    "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 504,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-safety",
-      "jailbreak",
-      "jailbreaking",
-      "privacy",
-      "safety",
-      "security"
-    ],
-    "created_at": "2026-10-21T14:44:06Z"
-  },
-  {
-    "id": "gh-1432649361",
-    "name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 401,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "attack-surface-management",
-      "bbot",
-      "cybersecurity",
-      "mcp",
-      "nmap",
-      "nuclei",
-      "vulnerability-scanner"
-    ],
-    "created_at": "2026-10-24T22:34:43Z"
-  },
-  {
     "id": "gh-1429583155",
     "name": "huaxialucaicaizi/ai-startup-skills",
     "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
     "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 366,
+    "stars": 440,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -59,6 +22,50 @@
       "startup"
     ],
     "created_at": "2026-10-22T10:23:29Z"
+  },
+  {
+    "id": "gh-1432649361",
+    "name": "hevnsnt/CVEngine",
+    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "stars": 429,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "attack-surface-management",
+      "bbot",
+      "cybersecurity",
+      "mcp",
+      "nmap",
+      "nuclei",
+      "vulnerability-scanner"
+    ],
+    "created_at": "2026-10-24T22:34:43Z"
+  },
+  {
+    "id": "gh-1436323783",
+    "name": "ChannelCooperStart/capri-ai",
+    "description": "\ud83c\udf03 Capri \u2014 Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+    "url": "https://github.com/ChannelCooperStart/capri-ai",
+    "stars": 308,
+    "language": null,
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "antigravity",
+      "autamation",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "codex",
+      "cyberpunks",
+      "edgerunners",
+      "edgerunners-2",
+      "llm",
+      "llm-agents"
+    ],
+    "created_at": "2026-10-27T22:00:47Z"
   },
   {
     "id": "gh-1434171555",
@@ -89,11 +96,30 @@
     "created_at": "2026-10-26T09:34:33Z"
   },
   {
+    "id": "gh-1435425970",
+    "name": "patch-gg/anymove",
+    "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+    "url": "https://github.com/patch-gg/anymove",
+    "stars": 273,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "blender",
+      "claude-code-plugin",
+      "dinov2",
+      "gamedev",
+      "generative-ai",
+      "motion-capture"
+    ],
+    "created_at": "2026-10-27T08:00:42Z"
+  },
+  {
     "id": "gh-1431056935",
     "name": "Cattmonkey/ChaosIntelligence",
     "description": "\u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
     "url": "https://github.com/Cattmonkey/ChaosIntelligence",
-    "stars": 200,
+    "stars": 203,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -112,64 +138,11 @@
     "created_at": "2026-10-23T13:04:31Z"
   },
   {
-    "id": "gh-1428348059",
-    "name": "h9-tec/ai-roadmap-2026",
-    "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-    "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 171,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "ai-engineering",
-      "evaluation",
-      "learning-path",
-      "llm",
-      "rag",
-      "roadmap"
-    ],
-    "created_at": "2026-10-21T12:23:43Z"
-  },
-  {
-    "id": "gh-1428969386",
-    "name": "heterodoxin/AbliteratedOutTheBox",
-    "description": "llama.cpp fork that abliterates at inference",
-    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 149,
-    "language": "C++",
-    "topics": [
-      "abliteration",
-      "ai",
-      "inference",
-      "llama-cpp",
-      "llm",
-      "llms"
-    ],
-    "created_at": "2026-10-21T21:54:10Z"
-  },
-  {
-    "id": "gh-1432826819",
-    "name": "patch-gg/trompe",
-    "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-    "url": "https://github.com/patch-gg/trompe",
-    "stars": 144,
-    "language": "TypeScript",
-    "topics": [
-      "gamedev",
-      "generative-ai",
-      "procedural",
-      "texturing",
-      "threejs",
-      "webgl"
-    ],
-    "created_at": "2026-10-25T04:27:06Z"
-  },
-  {
     "id": "gh-1433932117",
     "name": "JunWan666/astrbot-for-android",
     "description": "\u5728 Android \u624b\u673a\u4e0a\u672c\u5730\u90e8\u7f72\u548c\u7ba1\u7406 AstrBot \u4e0e NapCat\uff0c\u5185\u7f6e PRoot Ubuntu \u8fd0\u884c\u73af\u5883\uff0c\u652f\u6301\u539f\u751f\u7ba1\u7406\u754c\u9762\u3001WebUI\u3001\u65e5\u5fd7\u3001\u5907\u4efd\u6062\u590d\u548c\u72ec\u7acb\u66f4\u65b0\uff0c\u65e0\u9700 Root\u3002",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 141,
+    "stars": 201,
     "language": "Kotlin",
     "topics": [
       "ai",
@@ -190,11 +163,28 @@
     "created_at": "2026-10-26T05:13:32Z"
   },
   {
+    "id": "gh-1432826819",
+    "name": "patch-gg/trompe",
+    "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+    "url": "https://github.com/patch-gg/trompe",
+    "stars": 177,
+    "language": "TypeScript",
+    "topics": [
+      "gamedev",
+      "generative-ai",
+      "procedural",
+      "texturing",
+      "threejs",
+      "webgl"
+    ],
+    "created_at": "2026-10-25T04:27:06Z"
+  },
+  {
     "id": "gh-1429172085",
     "name": "stockedge/manga-generator",
     "description": "\u539f\u4f5c\u304b\u3089\u811a\u672c\u30fb\u753b\u50cf\u751f\u6210\u30fb\u7d44\u7248\u30fbPDF\u51fa\u529b\u307e\u3067\u9032\u3081\u308b\u3001Codex\u5411\u3051\u6f2b\u753b\u5236\u4f5c\u30c4\u30fc\u30eb",
     "url": "https://github.com/stockedge/manga-generator",
-    "stars": 118,
+    "stars": 122,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -225,7 +215,7 @@
     "name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek \u84dd\u8272\u5927\u80a5\u9c7c\u6d88\u9664\u8ba1\u5212\uff1a\u8bc6\u522b\u5e76\u6e05\u7406 B \u7ad9\uff08Bilibili\uff09\u8bc4\u8bba\u533a\u4e2d\u7531 DeepSeek \u5927\u6a21\u578b\u3001AI Agent \u9a71\u52a8\u7684\u673a\u5668\u4eba\u8d26\u53f7\uff08\u5927\u80a5\u9c7c\uff09\u7684 Chrome / Edge / Firefox \u6d4f\u89c8\u5668\u63d2\u4ef6\u3002\u79bb\u7ebf\u89c4\u5219 + DeepSeek API \u7cbe\u5224\uff0cAI \u8bc4\u8bba\u68c0\u6d4b\u3001\u7a7a\u95f4\u4e3b\u9875\u9274\u5b9a\u3001\u9cb8\u9c7c\u5a18\u4e00\u952e\u6e05\u573a\u3002DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 110,
+    "stars": 116,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -252,25 +242,25 @@
     "created_at": "2026-10-23T03:39:33Z"
   },
   {
-    "id": "gh-1428105252",
-    "name": "TheLastOxygen/mafdet",
-    "description": "You type. It already knows. Local LLMs that read and think while you type.",
-    "url": "https://github.com/TheLastOxygen/mafdet",
-    "stars": 62,
-    "language": "Python",
+    "id": "gh-1432967563",
+    "name": "ccch1mneyyy/dsh-go",
+    "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002Android \u00b7 Unofficial.",
+    "url": "https://github.com/ccch1mneyyy/dsh-go",
+    "stars": 109,
+    "language": null,
     "topics": [
-      "deep-learning",
-      "framework",
-      "large-language-models",
-      "llm-inference",
-      "llm-tools",
-      "local-ai",
-      "local-development",
-      "machine-learning",
-      "research-project",
-      "research-tool"
+      "ai-agent",
+      "android",
+      "android-app",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-tui",
+      "flutter",
+      "llm"
     ],
-    "created_at": "2026-10-21T08:37:56Z"
+    "created_at": "2026-10-25T08:09:52Z"
   },
   {
     "id": "gh-1429736272",
@@ -295,49 +285,81 @@
     "created_at": "2026-10-22T12:45:27Z"
   },
   {
-    "id": "gh-1435425970",
-    "name": "patch-gg/anymove",
-    "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-    "url": "https://github.com/patch-gg/anymove",
-    "stars": 24,
-    "language": "Python",
+    "id": "gh-1431903389",
+    "name": "DavidDingXu/hello-llm",
+    "description": "\u300a\u624b\u5199\u5c0f\u6a21\u578b\uff0c\u770b\u61c2\u5927\u6a21\u578b\u300b\uff1a\u539f\u521b\u8bed\u8a00\u6a21\u578b\u5165\u95e8\u8bfe\u7a0b\uff0c20 \u8bb2\u56fe\u89e3\u4e0e\u4ee3\u7801\u300123 \u652f\u914d\u5957\u89c6\u9891\u3001\u6d4f\u89c8\u5668\u8bad\u7ec3\u5b9e\u9a8c\u548c\u79bb\u7ebf\u7535\u5b50\u4e66\u3002",
+    "url": "https://github.com/DavidDingXu/hello-llm",
+    "stars": 36,
+    "language": "HTML",
     "topics": [
-      "agent-skills",
-      "animation",
-      "blender",
-      "claude-code-plugin",
-      "dinov2",
-      "gamedev",
-      "generative-ai",
-      "motion-capture"
+      "deep-learning",
+      "education",
+      "interactive-tutorial",
+      "llm",
+      "llm-from-scratch",
+      "machine-learning",
+      "pytorch",
+      "transformer",
+      "visualization"
     ],
-    "created_at": "2026-10-27T08:00:42Z"
+    "created_at": "2026-10-24T06:51:23Z"
   },
   {
-    "id": "gh-1429785504",
-    "name": "leofmarciano/groot",
-    "description": "\ud83c\udf33 Groot 1 \u2014 open typed-decision model. Calibrated choice/score/yes-no answers over 64k-token states, System One API compatible, with a pure Bend engine. Beats Jev on zero-shot Folha news (87.8% vs 85.8%) and typed decisions (75.3% vs 73.7%).",
-    "url": "https://github.com/leofmarciano/groot",
-    "stars": 12,
+    "id": "gh-1433544752",
+    "name": "harlixay7/Kinoloom",
+    "description": "A local AI film studio for one Windows PC with an 8 GB NVIDIA card. Write the story, cast the people and render the shots with LTX-2.5, MiniMax H3 (bring your own weights) and Qwen-Image 2.1. It joins short clips into long takes inside the model. Built on ComfyUI.",
+    "url": "https://github.com/harlixay7/Kinoloom",
+    "stars": 15,
     "language": "Python",
     "topics": [
-      "bend",
-      "bend-lang",
-      "calibration",
-      "decision-model",
-      "jev",
-      "llm-routing",
-      "long-context",
-      "machine-learning",
-      "mmbert",
-      "modernbert",
-      "multilingual",
-      "nlp",
-      "pytorch",
-      "system-one",
-      "text-classification",
-      "typed-decisions"
+      "ai-video",
+      "comfyui",
+      "diffusion-models",
+      "fastapi",
+      "filmmaking",
+      "generative-ai",
+      "image-to-video",
+      "local-ai",
+      "low-vram",
+      "ltx-video",
+      "minimax",
+      "python",
+      "qwen-image",
+      "text-to-video",
+      "video-generation",
+      "windows"
     ],
-    "created_at": "2026-10-22T13:27:57Z"
+    "created_at": "2026-10-25T19:14:21Z"
+  },
+  {
+    "id": "gh-1433339138",
+    "name": "siri2moon/moonreel",
+    "description": "Open-source Meta Muse video generator: no Muse video API yet, so MoonReel automates muse.ai for you. One idea in, a scripted, subtitled short video out for TikTok, Reels, Shorts and YouTube.",
+    "url": "https://github.com/siri2moon/moonreel",
+    "stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-video",
+      "ai-video-generator",
+      "faceless-video",
+      "ffmpeg",
+      "generative-ai",
+      "image-to-video",
+      "instagram-reels",
+      "meta-muse",
+      "muse-ai",
+      "muse-api",
+      "muse-video-api",
+      "muse2api",
+      "nextjs",
+      "open-source",
+      "short-video",
+      "text-to-video",
+      "tiktok",
+      "video-automation",
+      "video-generation",
+      "youtube-shorts"
+    ],
+    "created_at": "2026-10-25T15:24:44Z"
   }
 ]

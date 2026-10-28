@@ -515,6 +515,39 @@
     "image": null
   },
   {
+    "id": "rss-87c30b12",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "agents",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c372745e",
+    "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "image": null
+  },
+  {
     "id": "rss-d73c2adf",
     "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
     "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
@@ -4310,34 +4343,6 @@
     "tags": [],
     "category": "AI Models",
     "published_date": "Wed, 09 Sep 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0e4c7024",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 09 Sep 2026 15:36:24 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e50720e5",
-    "title": "The AI policy window is open. We need to act.",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/ai-policy-window",
-    "tags": [
-      "safety"
-    ],
-    "category": "AI Policy",
-    "published_date": "Wed, 09 Sep 2026 13:00:00 GMT",
     "image": null
   }
 ]
