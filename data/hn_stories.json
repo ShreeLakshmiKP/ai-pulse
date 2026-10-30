@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50276792",
-    "title": "Gemini 4 Carbon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "points": 955,
-    "comments": 763,
+    "id": "hn-50290177",
+    "title": "LLM Voice",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "points": 501,
+    "comments": 263,
     "source": "Hacker News",
-    "published_date": "2026-10-28T17:01:23Z"
+    "published_date": "2026-10-29T14:57:55Z"
   },
   {
-    "id": "hn-50282454",
-    "title": "StackOverflow now gets fewer than 1000 questions a month",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-    "points": 532,
-    "comments": 438,
+    "id": "hn-50288019",
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+    "points": 336,
+    "comments": 242,
     "source": "Hacker News",
-    "published_date": "2026-10-28T23:35:02Z"
+    "published_date": "2026-10-29T12:41:56Z"
   },
   {
-    "id": "hn-50273396",
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "points": 468,
-    "comments": 504,
+    "id": "hn-50296486",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "points": 310,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-10-28T13:41:30Z"
+    "published_date": "2026-10-29T21:40:28Z"
   },
   {
-    "id": "hn-50284255",
-    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "points": 428,
-    "comments": 160,
+    "id": "hn-50290668",
+    "title": "I went to Mexico to test-drive the cars Americans can\u2019t buy",
+    "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "points": 307,
+    "comments": 355,
     "source": "Hacker News",
-    "published_date": "2026-10-29T03:33:42Z"
+    "published_date": "2026-10-29T15:30:22Z"
   },
   {
-    "id": "hn-50275626",
-    "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "points": 244,
-    "comments": 154,
+    "id": "hn-50298436",
+    "title": "Herdr has released native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "points": 237,
+    "comments": 158,
     "source": "Hacker News",
-    "published_date": "2026-10-28T15:46:30Z"
+    "published_date": "2026-10-30T00:42:41Z"
   },
   {
-    "id": "hn-50282544",
-    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-    "points": 193,
-    "comments": 89,
+    "id": "hn-50295450",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "points": 232,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-10-28T23:45:46Z"
+    "published_date": "2026-10-29T20:32:28Z"
   },
   {
-    "id": "hn-50280178",
-    "title": "Google AI gets cagey when asked who won the 2020 elections",
-    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-    "points": 156,
-    "comments": 69,
+    "id": "hn-50289692",
+    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "points": 168,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-10-28T20:10:16Z"
+    "published_date": "2026-10-29T14:29:06Z"
   },
   {
-    "id": "hn-50281826",
-    "title": "AI execs may be too out of touch to build for the general public",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "points": 71,
-    "comments": 58,
-    "source": "Hacker News",
-    "published_date": "2026-10-28T22:27:46Z"
-  },
-  {
-    "id": "hn-50273623",
-    "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-    "url": "https://github.com/thomasunise/casecite",
-    "points": 69,
-    "comments": 38,
-    "source": "Hacker News",
-    "published_date": "2026-10-28T13:56:21Z"
-  },
-  {
-    "id": "hn-50273192",
-    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-    "points": 65,
-    "comments": 78,
-    "source": "Hacker News",
-    "published_date": "2026-10-28T13:27:24Z"
-  },
-  {
-    "id": "hn-50272479",
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "points": 63,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-10-28T12:24:25Z"
-  },
-  {
-    "id": "hn-50282766",
-    "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-    "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-    "points": 54,
-    "comments": 101,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T00:16:08Z"
-  },
-  {
-    "id": "hn-50282865",
-    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-    "points": 51,
-    "comments": 70,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T00:30:37Z"
-  },
-  {
-    "id": "hn-50279722",
-    "title": "GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",
-    "url": "https://thenewstack.io/github-7-4b-commits-september/",
-    "points": 41,
-    "comments": 19,
-    "source": "Hacker News",
-    "published_date": "2026-10-28T19:41:13Z"
-  },
-  {
-    "id": "hn-50282650",
-    "title": "Get Ready for Touch on Mac",
-    "url": "https://developer.apple.com/touch-on-mac/",
-    "points": 31,
+    "id": "hn-50290283",
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "points": 166,
     "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-10-28T23:58:20Z"
+    "published_date": "2026-10-29T15:06:17Z"
   },
   {
-    "id": "hn-50275375",
-    "title": "Scanning 7.25M Public Repositories on China's Largest Git Platform for Secrets",
-    "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
-    "points": 29,
-    "comments": 6,
+    "id": "hn-50298964",
+    "title": "Pico CSS is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "points": 156,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-10-28T15:31:59Z"
+    "published_date": "2026-10-30T01:58:44Z"
   },
   {
-    "id": "hn-50273416",
-    "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-    "url": "https://bou.ke/blog/zoetermeer/",
-    "points": 26,
-    "comments": 6,
+    "id": "hn-50294506",
+    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+    "url": "https://github.com/johncassil/dontallow",
+    "points": 144,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-10-28T13:43:32Z"
+    "published_date": "2026-10-29T19:27:44Z"
   },
   {
-    "id": "hn-50282094",
-    "title": "Outrage after airport self-service checkout asks for 18% tip",
-    "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
-    "points": 22,
-    "comments": 4,
+    "id": "hn-50290912",
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "points": 137,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-10-28T22:53:27Z"
+    "published_date": "2026-10-29T15:45:05Z"
   },
   {
-    "id": "hn-50278101",
-    "title": "Claude Code found 14,219 photos of my face on my Android that I never took",
-    "url": "https://twitter.com/coolerwave/status/2115393243458207755",
-    "points": 15,
-    "comments": 1,
+    "id": "hn-50292727",
+    "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+    "url": "https://fig.blue/posts/duet-is-the-future/",
+    "points": 119,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-10-28T18:00:40Z"
+    "published_date": "2026-10-29T17:24:25Z"
   },
   {
-    "id": "hn-50281015",
-    "title": "Alien 3 Is Getting a Second Chance on the Amiga CD32, More Than 30 Years Later",
-    "url": "https://handheldhideout.neocities.org/articles/alien-3-cd32-second-chance-amiga",
-    "points": 14,
-    "comments": 0,
+    "id": "hn-50294507",
+    "title": "The importance of communities around software",
+    "url": "https://lumi.codeberg.page/blog/software-community.html",
+    "points": 107,
+    "comments": 114,
     "source": "Hacker News",
-    "published_date": "2026-10-28T21:17:09Z"
+    "published_date": "2026-10-29T19:27:47Z"
+  },
+  {
+    "id": "hn-50296602",
+    "title": "Proton goes all in on using AI",
+    "url": "https://convo.casa/@b/117525936178835007",
+    "points": 100,
+    "comments": 100,
+    "source": "Hacker News",
+    "published_date": "2026-10-29T21:49:28Z"
+  },
+  {
+    "id": "hn-50301479",
+    "title": "Ask HN: Are you tired too in this AI era?",
+    "url": "https://news.ycombinator.com/item?id=50301479",
+    "points": 100,
+    "comments": 95,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T09:17:43Z"
+  },
+  {
+    "id": "hn-50297697",
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "points": 99,
+    "comments": 31,
+    "source": "Hacker News",
+    "published_date": "2026-10-29T23:25:46Z"
+  },
+  {
+    "id": "hn-50293023",
+    "title": "After 28 years walking across the globe, he's almost home",
+    "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+    "points": 92,
+    "comments": 73,
+    "source": "Hacker News",
+    "published_date": "2026-10-29T17:42:22Z"
+  },
+  {
+    "id": "hn-50302334",
+    "title": "Backdoors in official Claude Code extensions",
+    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "points": 88,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T11:05:53Z"
+  },
+  {
+    "id": "hn-50301983",
+    "title": "Anthropic hacked to deliver remote access trojan",
+    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+    "points": 84,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T10:22:51Z"
+  },
+  {
+    "id": "hn-50291116",
+    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "points": 71,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-10-29T15:56:32Z"
   }
 ]
