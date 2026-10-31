@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50290177",
-    "title": "LLM Voice",
-    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "points": 501,
-    "comments": 263,
+    "id": "hn-50305693",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "points": 603,
+    "comments": 453,
     "source": "Hacker News",
-    "published_date": "2026-10-29T14:57:55Z"
+    "published_date": "2026-10-30T15:52:18Z"
   },
   {
-    "id": "hn-50288019",
-    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-    "points": 336,
-    "comments": 242,
+    "id": "hn-50305637",
+    "title": "Florilegium: Procedural Flowers in LaTeX",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "points": 292,
+    "comments": 47,
     "source": "Hacker News",
-    "published_date": "2026-10-29T12:41:56Z"
+    "published_date": "2026-10-30T15:48:12Z"
   },
   {
-    "id": "hn-50296486",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "points": 310,
-    "comments": 113,
+    "id": "hn-50307183",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "points": 276,
+    "comments": 231,
     "source": "Hacker News",
-    "published_date": "2026-10-29T21:40:28Z"
+    "published_date": "2026-10-30T17:24:45Z"
   },
   {
-    "id": "hn-50290668",
-    "title": "I went to Mexico to test-drive the cars Americans can\u2019t buy",
-    "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-    "points": 307,
-    "comments": 355,
+    "id": "hn-50306442",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "url": "https://github.com/dbreunig/nesformer",
+    "points": 256,
+    "comments": 122,
     "source": "Hacker News",
-    "published_date": "2026-10-29T15:30:22Z"
+    "published_date": "2026-10-30T16:40:22Z"
   },
   {
-    "id": "hn-50298436",
-    "title": "Herdr has released native app",
-    "url": "https://github.com/herdrdev/herdr-app",
-    "points": 237,
-    "comments": 158,
+    "id": "hn-50306008",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "points": 255,
+    "comments": 283,
     "source": "Hacker News",
-    "published_date": "2026-10-30T00:42:41Z"
+    "published_date": "2026-10-30T16:13:02Z"
   },
   {
-    "id": "hn-50295450",
-    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-    "url": "https://github.com/SheepSeb/tinyworldformer",
-    "points": 232,
-    "comments": 15,
+    "id": "hn-50304122",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "points": 205,
+    "comments": 237,
     "source": "Hacker News",
-    "published_date": "2026-10-29T20:32:28Z"
+    "published_date": "2026-10-30T14:08:20Z"
   },
   {
-    "id": "hn-50289692",
-    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-    "points": 168,
-    "comments": 61,
+    "id": "hn-50307723",
+    "title": "GitHub Incident with Actions, Pages, and Webhooks",
+    "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+    "points": 153,
+    "comments": 62,
     "source": "Hacker News",
-    "published_date": "2026-10-29T14:29:06Z"
+    "published_date": "2026-10-30T17:57:35Z"
   },
   {
-    "id": "hn-50290283",
-    "title": "Zombie stats: Where the numbers AI quotes come from",
-    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "points": 166,
-    "comments": 67,
+    "id": "hn-50310796",
+    "title": "France is getting download tax for content providers (\u20ac0.055/GB)",
+    "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+    "points": 104,
+    "comments": 89,
     "source": "Hacker News",
-    "published_date": "2026-10-29T15:06:17Z"
+    "published_date": "2026-10-30T22:10:12Z"
   },
   {
-    "id": "hn-50298964",
-    "title": "Pico CSS is no longer maintained",
-    "url": "https://github.com/picocss/pico/discussions/754",
-    "points": 156,
-    "comments": 72,
+    "id": "hn-50305797",
+    "title": "Sam Altman Thinks You're Wasting DRAM",
+    "url": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+    "points": 89,
+    "comments": 97,
     "source": "Hacker News",
-    "published_date": "2026-10-30T01:58:44Z"
+    "published_date": "2026-10-30T15:58:39Z"
   },
   {
-    "id": "hn-50294506",
-    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-    "url": "https://github.com/johncassil/dontallow",
-    "points": 144,
-    "comments": 106,
+    "id": "hn-50305320",
+    "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+    "url": "https://catcopter.com",
+    "points": 80,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-10-29T19:27:44Z"
+    "published_date": "2026-10-30T15:29:40Z"
   },
   {
-    "id": "hn-50290912",
-    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-    "points": 137,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T15:45:05Z"
-  },
-  {
-    "id": "hn-50292727",
-    "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-    "url": "https://fig.blue/posts/duet-is-the-future/",
-    "points": 119,
-    "comments": 126,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T17:24:25Z"
-  },
-  {
-    "id": "hn-50294507",
-    "title": "The importance of communities around software",
-    "url": "https://lumi.codeberg.page/blog/software-community.html",
-    "points": 107,
-    "comments": 114,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T19:27:47Z"
-  },
-  {
-    "id": "hn-50296602",
-    "title": "Proton goes all in on using AI",
-    "url": "https://convo.casa/@b/117525936178835007",
-    "points": 100,
-    "comments": 100,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T21:49:28Z"
-  },
-  {
-    "id": "hn-50301479",
-    "title": "Ask HN: Are you tired too in this AI era?",
-    "url": "https://news.ycombinator.com/item?id=50301479",
-    "points": 100,
-    "comments": 95,
-    "source": "Hacker News",
-    "published_date": "2026-10-30T09:17:43Z"
-  },
-  {
-    "id": "hn-50297697",
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "url": "https://github.com/mottopanikeiku/doomformer",
-    "points": 99,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T23:25:46Z"
-  },
-  {
-    "id": "hn-50293023",
-    "title": "After 28 years walking across the globe, he's almost home",
-    "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-    "points": 92,
-    "comments": 73,
-    "source": "Hacker News",
-    "published_date": "2026-10-29T17:42:22Z"
-  },
-  {
-    "id": "hn-50302334",
-    "title": "Backdoors in official Claude Code extensions",
-    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-    "points": 88,
-    "comments": 15,
-    "source": "Hacker News",
-    "published_date": "2026-10-30T11:05:53Z"
-  },
-  {
-    "id": "hn-50301983",
-    "title": "Anthropic hacked to deliver remote access trojan",
-    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-    "points": 84,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-10-30T10:22:51Z"
-  },
-  {
-    "id": "hn-50291116",
-    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-    "url": "https://news.ycombinator.com/item?id=50291116",
+    "id": "hn-50313661",
+    "title": "Digital Minimalism",
+    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
     "points": 71,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-10-31T06:16:36Z"
+  },
+  {
+    "id": "hn-50310431",
+    "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+    "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+    "points": 59,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T21:32:35Z"
+  },
+  {
+    "id": "hn-50304280",
+    "title": "Neal Stephenson on AI and What Comes Next [video]",
+    "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+    "points": 53,
     "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-10-29T15:56:32Z"
+    "published_date": "2026-10-30T14:18:34Z"
+  },
+  {
+    "id": "hn-50305724",
+    "title": "Some Thing is Happening A note from the AI companies",
+    "url": "https://alanbellows.com/some-thing-is-happening/",
+    "points": 49,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T15:53:42Z"
+  },
+  {
+    "id": "hn-50305218",
+    "title": "Show HN: Sketch Stadium \u2013 watch your agent play Pictionary",
+    "url": "https://sketch.wakeshift.ai/games/q5ucru",
+    "points": 32,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T15:23:11Z"
+  },
+  {
+    "id": "hn-50309479",
+    "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+    "points": 25,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T20:09:47Z"
+  },
+  {
+    "id": "hn-50309904",
+    "title": "RAM wasted on users PCs.. should be concentrated on datacenters",
+    "url": "https://noai.duckduckgo.com/?q=rom+a+global+allocation+perspective%2C+actually%2C+it%E2%80%99s+quite+terrible+to+have+everybody+have+a+bunch+of+the+world%E2%80%99s+limited+supply+of+DRAM+sitting+in+their+own+computer+and+being+used+5%25+of+the+time.+You+want+maximum+utilization+in+the+cloud+if+you%E2%80%99re+trying+to+deal+with+this+very+supply-constrained+environment&ia=web",
+    "points": 20,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T20:45:04Z"
+  },
+  {
+    "id": "hn-50309573",
+    "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+    "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+    "points": 19,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T20:18:18Z"
+  },
+  {
+    "id": "hn-50305704",
+    "title": "Alberta-made low-tech tractor getting attention worldwide",
+    "url": "https://www.cbc.ca/news/canada/calgary/ursa-ag-bowden-tractors-9.7399940",
+    "points": 19,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T15:52:51Z"
+  },
+  {
+    "id": "hn-50303833",
+    "title": "AI Bubble Burst",
+    "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+    "points": 17,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-10-30T13:47:50Z"
   }
 ]

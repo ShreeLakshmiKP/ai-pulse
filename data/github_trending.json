@@ -4,7 +4,7 @@
     "name": "ccch1mneyyy/dsh-Go",
     "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
     "url": "https://github.com/ccch1mneyyy/dsh-Go",
-    "stars": 1665,
+    "stars": 3163,
     "language": "Dart",
     "topics": [
       "ai-agent",
@@ -22,67 +22,11 @@
     "created_at": "2026-10-25T08:09:52Z"
   },
   {
-    "id": "gh-1432649361",
-    "name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 520,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "attack-surface-management",
-      "bbot",
-      "cybersecurity",
-      "mcp",
-      "nmap",
-      "nuclei",
-      "vulnerability-scanner"
-    ],
-    "created_at": "2026-10-24T22:34:43Z"
-  },
-  {
-    "id": "gh-1435425970",
-    "name": "patch-gg/anymove",
-    "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-    "url": "https://github.com/patch-gg/anymove",
-    "stars": 435,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "animation",
-      "blender",
-      "claude-code-plugin",
-      "dinov2",
-      "gamedev",
-      "generative-ai",
-      "motion-capture"
-    ],
-    "created_at": "2026-10-27T08:00:42Z"
-  },
-  {
-    "id": "gh-1436184001",
-    "name": "jackwener/DeepseekHarness-Android",
-    "description": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
-    "url": "https://github.com/jackwener/DeepseekHarness-Android",
-    "stars": 421,
-    "language": "Kotlin",
-    "topics": [
-      "ai-agent",
-      "android",
-      "deepseek",
-      "deepseek-harness",
-      "llm",
-      "phone-agent",
-      "shizuku"
-    ],
-    "created_at": "2026-10-27T19:26:12Z"
-  },
-  {
     "id": "gh-1438540053",
     "name": "wangzan101/Mika",
     "description": "Mika \u2014 \u4f60\u624b\u673a\u4e0a\u7684\u79c1\u4eba AI \u52a9\u7406\uff0c\u66ff\u4f60\u64cd\u4f5c App\u3001\u4e0a\u7f51\u3001\u628a\u4e8b\u529e\u6210\u3002An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "url": "https://github.com/wangzan101/Mika",
-    "stars": 343,
+    "stars": 2103,
     "language": "Kotlin",
     "topics": [
       "accessibility",
@@ -97,11 +41,48 @@
     "created_at": "2026-10-29T14:34:07Z"
   },
   {
+    "id": "gh-1436184001",
+    "name": "jackwener/DSH-Android",
+    "description": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
+    "url": "https://github.com/jackwener/DSH-Android",
+    "stars": 580,
+    "language": "Kotlin",
+    "topics": [
+      "ai-agent",
+      "android",
+      "deepseek",
+      "deepseek-harness",
+      "llm",
+      "phone-agent",
+      "shizuku"
+    ],
+    "created_at": "2026-10-27T19:26:12Z"
+  },
+  {
+    "id": "gh-1435425970",
+    "name": "patch-gg/anymove",
+    "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+    "url": "https://github.com/patch-gg/anymove",
+    "stars": 444,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "animation",
+      "blender",
+      "claude-code-plugin",
+      "dinov2",
+      "gamedev",
+      "generative-ai",
+      "motion-capture"
+    ],
+    "created_at": "2026-10-27T08:00:42Z"
+  },
+  {
     "id": "gh-1436698875",
     "name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | \u65b0\u8bcd\u7ad9\u7fa4\u6846\u67b6\uff1a\u4e00\u4e2a\u65b0\u8bcd\u4e00\u4e2a\u7ad9\uff0c\u4e00\u4e2a\u4e0b\u5348\u4e0a\u7ebf\u3002\u8d77\u91cf\u7684\u7ee7\u7eed\u8fed\u4ee3\uff0c\u6ca1\u8d77\u6765\u7684\u653e\u7740\u4e0d\u7ba1\u3002\u4e0d\u53d8\u7684\u5171\u4eab\uff0c\u53d8\u7684\u72ec\u7acb\u3002",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 288,
+    "stars": 309,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -118,11 +99,41 @@
     "created_at": "2026-10-28T06:35:51Z"
   },
   {
+    "id": "gh-1440272373",
+    "name": "boardshogunfluctuate/Capri-AI",
+    "description": "\u26a1 Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+    "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+    "stars": 286,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "antigravity",
+      "claude-code",
+      "claude-code-mod",
+      "codex",
+      "codex-app",
+      "cyberpunks",
+      "desktop-app",
+      "desktop-application",
+      "edgerunners",
+      "edgerunners-2",
+      "jarvis",
+      "jarvis-ai",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "created_at": "2026-10-30T22:03:48Z"
+  },
+  {
     "id": "gh-1433932117",
     "name": "JunWan666/astrbot-for-android",
     "description": "\u5728 Android \u624b\u673a\u4e0a\u672c\u5730\u90e8\u7f72\u548c\u7ba1\u7406 AstrBot \u4e0e NapCat\uff0c\u5185\u7f6e PRoot Ubuntu \u8fd0\u884c\u73af\u5883\uff0c\u652f\u6301\u539f\u751f\u7ba1\u7406\u754c\u9762\u3001WebUI\u3001\u65e5\u5fd7\u3001\u5907\u4efd\u6062\u590d\u548c\u72ec\u7acb\u66f4\u65b0\uff0c\u65e0\u9700 Root\u3002",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 270,
+    "stars": 281,
     "language": "Kotlin",
     "topics": [
       "ai",
@@ -147,7 +158,7 @@
     "name": "jmanico/grim-prompter",
     "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
     "url": "https://github.com/jmanico/grim-prompter",
-    "stars": 205,
+    "stars": 281,
     "language": null,
     "topics": [
       "ai-agents",
@@ -165,11 +176,32 @@
     "created_at": "2026-10-28T12:09:26Z"
   },
   {
+    "id": "gh-1437618716",
+    "name": "Balanov/baiagent-director",
+    "description": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
+    "url": "https://github.com/Balanov/baiagent-director",
+    "stars": 207,
+    "language": "JavaScript",
+    "topics": [
+      "agpl",
+      "ai",
+      "baiagent",
+      "business-automation",
+      "electron",
+      "evidence-based",
+      "llama-cpp",
+      "local-ai",
+      "qwen",
+      "windows"
+    ],
+    "created_at": "2026-10-28T20:52:16Z"
+  },
+  {
     "id": "gh-1432826819",
     "name": "patch-gg/trompe",
     "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
     "url": "https://github.com/patch-gg/trompe",
-    "stars": 180,
+    "stars": 181,
     "language": "TypeScript",
     "topics": [
       "gamedev",
@@ -182,71 +214,75 @@
     "created_at": "2026-10-25T04:27:06Z"
   },
   {
-    "id": "gh-1431932080",
-    "name": "lwh0630/TokenBar",
-    "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-    "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 155,
-    "language": "Dart",
+    "id": "gh-1440260019",
+    "name": "EntranceStarfish/VoiceStudioV2",
+    "description": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.",
+    "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
+    "stars": 129,
+    "language": null,
     "topics": [
       "ai",
-      "android",
-      "claude",
-      "codex",
-      "cursor",
-      "dart",
-      "flutter",
-      "ios",
-      "linux",
-      "llm",
-      "macos",
-      "quota",
-      "system-tray",
-      "tray",
-      "usage-monitor",
-      "windows"
+      "cuda",
+      "dubbing",
+      "elevenlabs",
+      "local-first",
+      "omnivoice",
+      "omnivoice-studio",
+      "speech-to-text",
+      "text-to-speech",
+      "voice",
+      "voice-ai",
+      "voice-assistant",
+      "voice-cloning",
+      "workflow"
     ],
-    "created_at": "2026-10-24T07:30:31Z"
+    "created_at": "2026-10-30T21:45:01Z"
   },
   {
-    "id": "gh-1436672945",
-    "name": "hhtower/price-comparison",
-    "description": "\u81ea\u90e8\u7f72\u7684 AI \u5546\u54c1\u6bd4\u4ef7\u5e73\u53f0\uff0c\u652f\u6301\u5546\u94fa\u91c7\u96c6\u3001\u62a5\u4ef7\u6bd4\u8f83\u3001\u5546\u54c1\u5f52\u7c7b\u4e0e\u4ef7\u683c\u5386\u53f2\u3002Self-hosted AI product price comparison platform.",
-    "url": "https://github.com/hhtower/price-comparison",
-    "stars": 65,
-    "language": "TypeScript",
+    "id": "gh-1438428788",
+    "name": "kumarshreshtha/protuna",
+    "description": "Optimization framework for AI-guided protein engineering",
+    "url": "https://github.com/kumarshreshtha/protuna",
+    "stars": 40,
+    "language": "Python",
     "topics": [
-      "ai",
-      "chatgpt",
-      "claude",
-      "gemini",
-      "grok",
-      "price-comparison",
-      "price-tracker",
-      "self-hosted",
-      "web-scraping"
-    ],
-    "created_at": "2026-10-28T06:06:20Z"
-  },
-  {
-    "id": "gh-1431903389",
-    "name": "DavidDingXu/hello-llm",
-    "description": "\u624b\u5199\u5c0f\u6a21\u578b\uff0c\u770b\u61c2\u5927\u6a21\u578b\u300220 \u8bb2\u56fe\u89e3\u4e0e\u4ee3\u7801\uff0c\u6d4f\u89c8\u5668\u76f4\u63a5\u8bad\u7ec3\uff0c\u65e0\u9700 GPU\u3002\uff5cBuild a tiny LLM from scratch with 20 illustrated lessons and browser training. No GPU required.",
-    "url": "https://github.com/DavidDingXu/hello-llm",
-    "stars": 39,
-    "language": "HTML",
-    "topics": [
-      "deep-learning",
-      "education",
-      "interactive-tutorial",
-      "llm",
-      "llm-from-scratch",
+      "active-learning",
+      "bayesian-optimization",
+      "bioengineering",
+      "black-box-optimization",
+      "distributed",
+      "experimental-design",
+      "lead-optimization",
       "machine-learning",
-      "pytorch",
-      "transformer",
-      "visualization"
+      "protein-engineering"
     ],
-    "created_at": "2026-10-24T06:51:23Z"
+    "created_at": "2026-10-29T13:02:34Z"
+  },
+  {
+    "id": "gh-1437404645",
+    "name": "papisoV/Selenequant",
+    "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
+    "url": "https://github.com/papisoV/Selenequant",
+    "stars": 35,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "algorithmic-trading",
+      "backtesting",
+      "crypto",
+      "llm",
+      "local-first",
+      "machine-learning",
+      "nextjs",
+      "overfitting",
+      "python",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading-platform",
+      "typescript"
+    ],
+    "created_at": "2026-10-28T17:20:43Z"
   },
   {
     "id": "gh-1435528433",
@@ -272,37 +308,11 @@
     "created_at": "2026-10-27T09:41:55Z"
   },
   {
-    "id": "gh-1437404645",
-    "name": "papisoV/Selenequant",
-    "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-    "url": "https://github.com/papisoV/Selenequant",
-    "stars": 27,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "backtesting",
-      "crypto",
-      "llm",
-      "local-first",
-      "machine-learning",
-      "nextjs",
-      "overfitting",
-      "python",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading",
-      "trading-platform",
-      "typescript"
-    ],
-    "created_at": "2026-10-28T17:20:43Z"
-  },
-  {
     "id": "gh-1433544752",
     "name": "harlixay7/Kinoloom",
     "description": "A local AI film studio for one Windows PC with an 8 GB NVIDIA card. Write the story, cast the people and render the shots with LTX-2.5, MiniMax H3 (bring your own weights) and Qwen-Image 2.1. It joins short clips into long takes inside the model. Built on ComfyUI.",
     "url": "https://github.com/harlixay7/Kinoloom",
-    "stars": 19,
+    "stars": 20,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -316,6 +326,7 @@
       "low-vram",
       "ltx-video",
       "minimax",
+      "open-source-higgsfield",
       "python",
       "qwen-image",
       "text-to-video",
