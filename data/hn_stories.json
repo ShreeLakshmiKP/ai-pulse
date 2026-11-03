@@ -1,155 +1,182 @@
 [
   {
-    "id": "hn-50326821",
-    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-    "url": "https://hackerbooks.org",
-    "points": 1630,
-    "comments": 269,
+    "id": "hn-50340088",
+    "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+    "url": "https://news.ycombinator.com/item?id=50340088",
+    "points": 744,
+    "comments": 350,
     "source": "Hacker News",
-    "published_date": "2026-11-01T15:58:28Z"
+    "published_date": "2026-11-02T17:16:17Z"
   },
   {
-    "id": "hn-50330456",
-    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "points": 233,
-    "comments": 232,
+    "id": "hn-50341462",
+    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+    "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+    "points": 556,
+    "comments": 170,
     "source": "Hacker News",
-    "published_date": "2026-11-01T22:10:45Z"
+    "published_date": "2026-11-02T18:39:38Z"
   },
   {
-    "id": "hn-50327266",
-    "title": "Frontier Airlines Likely Breached",
-    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-    "points": 208,
-    "comments": 83,
+    "id": "hn-50339494",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "points": 334,
+    "comments": 257,
     "source": "Hacker News",
-    "published_date": "2026-11-01T16:46:33Z"
+    "published_date": "2026-11-02T16:40:29Z"
   },
   {
-    "id": "hn-50328488",
-    "title": "It wasn't AI that flipped Proton's charge",
-    "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-    "points": 161,
-    "comments": 96,
-    "source": "Hacker News",
-    "published_date": "2026-11-01T18:53:55Z"
-  },
-  {
-    "id": "hn-50334038",
-    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-    "points": 101,
-    "comments": 55,
-    "source": "Hacker News",
-    "published_date": "2026-11-02T07:27:28Z"
-  },
-  {
-    "id": "hn-50332086",
-    "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-    "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-    "points": 94,
-    "comments": 86,
-    "source": "Hacker News",
-    "published_date": "2026-11-02T01:47:07Z"
-  },
-  {
-    "id": "hn-50327416",
-    "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-    "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
-    "points": 75,
-    "comments": 38,
-    "source": "Hacker News",
-    "published_date": "2026-11-01T17:01:34Z"
-  },
-  {
-    "id": "hn-50330253",
-    "title": "So I guess everyone uses LLMs to think now",
-    "url": "https://eva.ac/blog/llms/",
-    "points": 73,
-    "comments": 118,
-    "source": "Hacker News",
-    "published_date": "2026-11-01T21:49:04Z"
-  },
-  {
-    "id": "hn-50334372",
-    "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
-    "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
-    "points": 58,
+    "id": "hn-50339221",
+    "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+    "points": 292,
     "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-11-02T08:32:30Z"
+    "published_date": "2026-11-02T16:25:26Z"
   },
   {
-    "id": "hn-50328293",
-    "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-    "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-    "points": 53,
+    "id": "hn-50345924",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "points": 243,
+    "comments": 166,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T23:47:56Z"
+  },
+  {
+    "id": "hn-50338728",
+    "title": "Ask HN: Who is hiring? (November 2026)",
+    "url": "https://news.ycombinator.com/item?id=50338728",
+    "points": 227,
+    "comments": 188,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T16:01:37Z"
+  },
+  {
+    "id": "hn-50342284",
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "points": 190,
+    "comments": 168,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T19:27:37Z"
+  },
+  {
+    "id": "hn-50337454",
+    "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+    "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+    "points": 179,
+    "comments": 249,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T14:40:05Z"
+  },
+  {
+    "id": "hn-50341736",
+    "title": "Egoless Mathematics in the AI Era",
+    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "points": 173,
+    "comments": 132,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T18:54:44Z"
+  },
+  {
+    "id": "hn-50339913",
+    "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+    "url": "https://momentic.ai/",
+    "points": 149,
+    "comments": 99,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T17:05:25Z"
+  },
+  {
+    "id": "hn-50350004",
+    "title": "Revolut moves to self-hosted GLM",
+    "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+    "points": 141,
+    "comments": 98,
+    "source": "Hacker News",
+    "published_date": "2026-11-03T09:53:59Z"
+  },
+  {
+    "id": "hn-50339224",
+    "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+    "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+    "points": 101,
+    "comments": 33,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T16:25:33Z"
+  },
+  {
+    "id": "hn-50344861",
+    "title": "LLMs are not superhuman at reading and writing neural network weights",
+    "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "points": 82,
     "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-11-01T18:33:02Z"
+    "published_date": "2026-11-02T22:26:53Z"
   },
   {
-    "id": "hn-50331998",
-    "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-    "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+    "id": "hn-50342424",
+    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+    "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+    "points": 73,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T19:36:37Z"
+  },
+  {
+    "id": "hn-50337503",
+    "title": "GPT-Rosalind-6 System Card Addendum",
+    "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+    "points": 70,
+    "comments": 55,
+    "source": "Hacker News",
+    "published_date": "2026-11-02T14:44:02Z"
+  },
+  {
+    "id": "hn-50347552",
+    "title": "Show HN: I built a little browser game to practice Vim commands",
+    "url": "https://hjkl.duy.run",
+    "points": 47,
+    "comments": 35,
+    "source": "Hacker News",
+    "published_date": "2026-11-03T03:10:04Z"
+  },
+  {
+    "id": "hn-50337431",
+    "title": "Ask HN: What hardware are you using to run local LLMs?",
+    "url": "https://news.ycombinator.com/item?id=50337431",
     "points": 46,
-    "comments": 25,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-11-02T01:35:02Z"
+    "published_date": "2026-11-02T14:38:18Z"
   },
   {
-    "id": "hn-50331001",
-    "title": "In LLM era, can software startup survive?",
-    "url": "https://news.ycombinator.com/item?id=50331001",
-    "points": 34,
-    "comments": 41,
-    "source": "Hacker News",
-    "published_date": "2026-11-01T23:28:46Z"
-  },
-  {
-    "id": "hn-50336138",
-    "title": "Last night an AI agent performed brain surgery on a mouse",
-    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "id": "hn-50341065",
+    "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
     "points": 27,
-    "comments": 25,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-11-02T12:50:59Z"
+    "published_date": "2026-11-02T18:14:38Z"
   },
   {
-    "id": "hn-50330353",
-    "title": "Proton's AI manifesto for software engineering",
-    "url": "https://proton.me/blog/ai-manifesto",
-    "points": 21,
-    "comments": 9,
+    "id": "hn-50339940",
+    "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+    "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
+    "points": 25,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-11-01T21:58:17Z"
+    "published_date": "2026-11-02T17:06:43Z"
   },
   {
-    "id": "hn-50327218",
-    "title": "Russia has imposed limits on gasoline sales following attacks on oil refineries",
-    "url": "https://ua.news/en/war-vs-rf/u-rf-vveli-limiti-na-prodazh-benzinu-pislia-udariv-po-npz",
-    "points": 19,
-    "comments": 3,
+    "id": "hn-50341585",
+    "title": "South Korea targets ' highest performance' sovereign AI model",
+    "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+    "points": 23,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-01T16:40:37Z"
-  },
-  {
-    "id": "hn-50334263",
-    "title": "Proton's AI manifesto for software engineering",
-    "url": "https://proton.me/blog/ai-manifesto",
-    "points": 18,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-11-02T08:10:45Z"
-  },
-  {
-    "id": "hn-50328567",
-    "title": "Heretic 2.0 Released: Training-free language model modification",
-    "url": "https://news.ycombinator.com/item?id=50328567",
-    "points": 18,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-11-01T19:01:42Z"
+    "published_date": "2026-11-02T18:46:20Z"
   }
 ]

@@ -4,7 +4,7 @@
     "name": "wangzan101/Mika",
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "url": "https://github.com/wangzan101/Mika",
-    "stars": 4975,
+    "stars": 5886,
     "language": "Kotlin",
     "topics": [
       "accessibility",
@@ -19,60 +19,11 @@
     "created_at": "2026-10-29T14:34:07Z"
   },
   {
-    "id": "gh-1435475558",
-    "name": "modelflare-ai/AnyModelBot",
-    "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-    "url": "https://github.com/modelflare-ai/AnyModelBot",
-    "stars": 1283,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "ai-assistant",
-      "chatbot",
-      "claude",
-      "computer-use",
-      "deepseek",
-      "desktop-app",
-      "dsh",
-      "electron",
-      "feishu",
-      "gemini",
-      "gpt",
-      "grok",
-      "llm",
-      "local-first",
-      "modelflare",
-      "multi-model",
-      "openai-compatible",
-      "personal-ai-agent",
-      "wechat"
-    ],
-    "created_at": "2026-10-27T08:51:18Z"
-  },
-  {
-    "id": "gh-1436184001",
-    "name": "jackwener/DSH-Android",
-    "description": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
-    "url": "https://github.com/jackwener/DSH-Android",
-    "stars": 746,
-    "language": "Kotlin",
-    "topics": [
-      "ai-agent",
-      "android",
-      "deepseek",
-      "deepseek-harness",
-      "llm",
-      "phone-agent",
-      "shizuku"
-    ],
-    "created_at": "2026-10-27T19:26:12Z"
-  },
-  {
     "id": "gh-1438607462",
     "name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 654,
+    "stars": 695,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -85,7 +36,7 @@
     "name": "N1nEmAn/sapper-v2",
     "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
     "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 584,
+    "stars": 654,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -103,7 +54,7 @@
     "name": "Balanov/uncut",
     "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
     "url": "https://github.com/Balanov/uncut",
-    "stars": 535,
+    "stars": 582,
     "language": "Go",
     "topics": [
       "agent-harness",
@@ -117,30 +68,59 @@
     "created_at": "2026-11-01T17:19:30Z"
   },
   {
-    "id": "gh-1435425970",
-    "name": "patch-gg/anymove",
-    "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-    "url": "https://github.com/patch-gg/anymove",
-    "stars": 478,
-    "language": "Python",
+    "id": "gh-1437467754",
+    "name": "wanghao-SunSky/cs329z-chinese",
+    "description": "\u65af\u5766\u798f Stanford CS329Z Engineering AI Agents \u4e2d\u6587\u6559\u7a0b\uff1a\u9762\u5411 Python \u5f00\u53d1\u8005\u7684 AI \u667a\u80fd\u4f53\u8bfe\u7a0b\uff0c19 \u8bb2\u4e0e 4 \u9879\u5b9e\u8df5\uff0c\u6db5\u76d6 LLM\u3001RAG\u3001\u5de5\u5177\u8c03\u7528\u3001\u8bb0\u5fc6\u3001\u591a\u667a\u80fd\u4f53\u3001\u8bc4\u6d4b\u4e0e\u5b89\u5168\u3002\u5b8c\u6574 Markdown\u3001\u5728\u7ebf\u4e0e\u79bb\u7ebf HTML\u3002Chinese course notes.",
+    "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+    "stars": 476,
+    "language": "HTML",
     "topics": [
-      "agent-skills",
-      "animation",
-      "blender",
-      "claude-code-plugin",
-      "dinov2",
-      "gamedev",
-      "generative-ai",
-      "motion-capture"
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "chinese",
+      "chinese-tutorial",
+      "course-notes",
+      "cs329z",
+      "engineering-ai-agents",
+      "llm",
+      "llm-evaluation",
+      "multi-agent",
+      "python",
+      "rag",
+      "stanford",
+      "tutorial"
     ],
-    "created_at": "2026-10-27T08:00:42Z"
+    "created_at": "2026-10-28T18:18:24Z"
+  },
+  {
+    "id": "gh-1437033043",
+    "name": "jmanico/grim-prompter",
+    "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+    "url": "https://github.com/jmanico/grim-prompter",
+    "stars": 351,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "appsec",
+      "claude-code",
+      "codex",
+      "linddun",
+      "llm",
+      "pasta",
+      "prompt-engineering",
+      "security",
+      "stride",
+      "threat-modeling"
+    ],
+    "created_at": "2026-10-28T12:09:26Z"
   },
   {
     "id": "gh-1436698875",
     "name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | \u65b0\u8bcd\u7ad9\u7fa4\u6846\u67b6\uff1a\u4e00\u4e2a\u65b0\u8bcd\u4e00\u4e2a\u7ad9\uff0c\u4e00\u4e2a\u4e0b\u5348\u4e0a\u7ebf\u3002\u8d77\u91cf\u7684\u7ee7\u7eed\u8fed\u4ee3\uff0c\u6ca1\u8d77\u6765\u7684\u653e\u7740\u4e0d\u7ba1\u3002\u4e0d\u53d8\u7684\u5171\u4eab\uff0c\u53d8\u7684\u72ec\u7acb\u3002",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 342,
+    "stars": 349,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -178,30 +158,11 @@
     "created_at": "2026-10-28T20:52:16Z"
   },
   {
-    "id": "gh-1440937647",
-    "name": "tavern-labs-ai/persona-ai-sdk",
-    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 196,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "bedrock",
-      "characters",
-      "llm",
-      "memory",
-      "persona",
-      "personality",
-      "sdk"
-    ],
-    "created_at": "2026-10-31T14:29:10Z"
-  },
-  {
     "id": "gh-1436739802",
     "name": "enmerasoftware/ai-design-check",
     "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
     "url": "https://github.com/enmerasoftware/ai-design-check",
-    "stars": 182,
+    "stars": 207,
     "language": "JavaScript",
     "topics": [
       "agent-skill",
@@ -220,11 +181,30 @@
     "created_at": "2026-10-28T07:20:59Z"
   },
   {
+    "id": "gh-1440937647",
+    "name": "tavern-labs-ai/persona-ai-sdk",
+    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+    "stars": 197,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "bedrock",
+      "characters",
+      "llm",
+      "memory",
+      "persona",
+      "personality",
+      "sdk"
+    ],
+    "created_at": "2026-10-31T14:29:10Z"
+  },
+  {
     "id": "gh-1442223451",
     "name": "UncensoredLabs/uncensored-ai-api",
     "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
     "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-    "stars": 74,
+    "stars": 92,
     "language": "JavaScript",
     "topics": [
       "abliterated-models",
@@ -255,7 +235,7 @@
     "name": "kerlenton/bootgpt",
     "description": "A language model that lives in a boot sector",
     "url": "https://github.com/kerlenton/bootgpt",
-    "stars": 65,
+    "stars": 77,
     "language": "Python",
     "topics": [
       "assembly",
@@ -269,6 +249,30 @@
       "x86"
     ],
     "created_at": "2026-10-30T21:28:17Z"
+  },
+  {
+    "id": "gh-1441555426",
+    "name": "Jumbomuffin777/Frontier-UI",
+    "description": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+    "url": "https://github.com/Jumbomuffin777/Frontier-UI",
+    "stars": 56,
+    "language": "Python",
+    "topics": [
+      "ai-tools",
+      "artcraft",
+      "artificial-intelligence",
+      "generative-ai",
+      "llm",
+      "local-ai",
+      "local-llm",
+      "open-webui",
+      "open-webui-extensions",
+      "open-webui-plugins",
+      "open-webui-tool",
+      "open-webui-tools",
+      "self-hosted"
+    ],
+    "created_at": "2026-11-01T06:41:23Z"
   },
   {
     "id": "gh-1438428788",
@@ -291,27 +295,29 @@
     "created_at": "2026-10-29T13:02:34Z"
   },
   {
-    "id": "gh-1441555426",
-    "name": "Jumbomuffin777/Frontier-UI",
-    "description": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-    "url": "https://github.com/Jumbomuffin777/Frontier-UI",
-    "stars": 46,
+    "id": "gh-1437404645",
+    "name": "papisoV/Selenequant",
+    "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
+    "url": "https://github.com/papisoV/Selenequant",
+    "stars": 47,
     "language": "Python",
     "topics": [
-      "ai-tools",
-      "artcraft",
-      "artificial-intelligence",
-      "generative-ai",
+      "ai-agents",
+      "algorithmic-trading",
+      "backtesting",
+      "crypto",
       "llm",
-      "local-ai",
-      "local-llm",
-      "open-webui",
-      "open-webui-extensions",
-      "open-webui-plugins",
-      "open-webui-tool",
-      "open-webui-tools",
-      "self-hosted"
+      "local-first",
+      "machine-learning",
+      "nextjs",
+      "overfitting",
+      "python",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading-platform",
+      "typescript"
     ],
-    "created_at": "2026-11-01T06:41:23Z"
+    "created_at": "2026-10-28T17:20:43Z"
   }
 ]
