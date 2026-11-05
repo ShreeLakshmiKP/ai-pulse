@@ -1,182 +1,164 @@
 [
   {
-    "id": "hn-50354960",
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "points": 1371,
-    "comments": 456,
+    "id": "hn-50366117",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "url": "https://news.ycombinator.com/item?id=50366117",
+    "points": 407,
+    "comments": 462,
     "source": "Hacker News",
-    "published_date": "2026-11-03T17:22:37Z"
+    "published_date": "2026-11-04T14:37:22Z"
   },
   {
-    "id": "hn-50353192",
-    "title": "Google will turn off search for schools that reject AI",
-    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-    "points": 633,
-    "comments": 437,
+    "id": "hn-50375354",
+    "title": "Lemmings CSS Animation",
+    "url": "https://markblah.github.io/lemmings/",
+    "points": 266,
+    "comments": 53,
     "source": "Hacker News",
-    "published_date": "2026-11-03T15:25:47Z"
+    "published_date": "2026-11-05T04:54:10Z"
   },
   {
-    "id": "hn-50352757",
-    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-    "url": "https://news.ycombinator.com/item?id=50352757",
-    "points": 497,
-    "comments": 149,
+    "id": "hn-50369895",
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "url": "https://fireflyk64.github.io/wcmulti/",
+    "points": 219,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-11-03T14:53:41Z"
+    "published_date": "2026-11-04T18:51:27Z"
   },
   {
-    "id": "hn-50358422",
-    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-    "points": 373,
-    "comments": 155,
-    "source": "Hacker News",
-    "published_date": "2026-11-03T21:26:44Z"
-  },
-  {
-    "id": "hn-50358582",
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "url": "https://arxiv.org/abs/2605.29713",
-    "points": 361,
-    "comments": 56,
-    "source": "Hacker News",
-    "published_date": "2026-11-03T21:40:53Z"
-  },
-  {
-    "id": "hn-50361268",
-    "title": "Jelly Sheet",
-    "url": "https://mrdoob.github.io/codevember-2026/01/",
-    "points": 310,
-    "comments": 79,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T03:40:50Z"
-  },
-  {
-    "id": "hn-50364336",
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "points": 204,
-    "comments": 104,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T11:52:17Z"
-  },
-  {
-    "id": "hn-50355767",
-    "title": "How I use AI (Oct 2026)",
-    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-    "points": 201,
-    "comments": 240,
-    "source": "Hacker News",
-    "published_date": "2026-11-03T18:11:11Z"
-  },
-  {
-    "id": "hn-50352257",
-    "title": "Just a little AI resistance, as a treat",
-    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-    "points": 175,
-    "comments": 108,
-    "source": "Hacker News",
-    "published_date": "2026-11-03T14:14:12Z"
-  },
-  {
-    "id": "hn-50363461",
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "url": "https://news.ycombinator.com/item?id=50363461",
+    "id": "hn-50370654",
+    "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
     "points": 167,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T10:10:27Z"
-  },
-  {
-    "id": "hn-50354336",
-    "title": "Gitbook Breached",
-    "url": "https://news.ycombinator.com/item?id=50354336",
-    "points": 161,
-    "comments": 37,
-    "source": "Hacker News",
-    "published_date": "2026-11-03T16:45:49Z"
-  },
-  {
-    "id": "hn-50363554",
-    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "points": 132,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T10:23:34Z"
-  },
-  {
-    "id": "hn-50363378",
-    "title": "Incident with Pull Requests, Git Operations and Issues",
-    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "points": 128,
     "comments": 60,
     "source": "Hacker News",
-    "published_date": "2026-11-04T10:00:06Z"
+    "published_date": "2026-11-04T19:55:14Z"
   },
   {
-    "id": "hn-50353300",
-    "title": "AI is destroying my CS degree",
-    "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
-    "points": 124,
-    "comments": 116,
+    "id": "hn-50371508",
+    "title": "Everything is an AI scam now",
+    "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+    "points": 143,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-11-03T15:35:06Z"
+    "published_date": "2026-11-04T21:05:19Z"
   },
   {
-    "id": "hn-50360573",
-    "title": "Giant canyon on Mars is still tectonically active",
-    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-    "points": 108,
-    "comments": 22,
+    "id": "hn-50366971",
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "points": 94,
+    "comments": 143,
     "source": "Hacker News",
-    "published_date": "2026-11-04T01:40:42Z"
+    "published_date": "2026-11-04T15:28:31Z"
   },
   {
-    "id": "hn-50353475",
-    "title": "Quili AI",
-    "url": "https://www.quili.ai/",
-    "points": 98,
-    "comments": 64,
+    "id": "hn-50368804",
+    "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "points": 93,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-11-03T15:49:02Z"
+    "published_date": "2026-11-04T17:31:53Z"
   },
   {
-    "id": "hn-50358314",
-    "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
-    "url": "https://github.com/finic-ai/kairos",
-    "points": 98,
-    "comments": 26,
+    "id": "hn-50377821",
+    "title": "Awesome repositories are no longer awesome",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "points": 90,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-11-03T21:16:48Z"
+    "published_date": "2026-11-05T11:16:51Z"
   },
   {
-    "id": "hn-50353457",
-    "title": "Tell HN: Please Vote",
-    "url": "https://news.ycombinator.com/item?id=50353457",
-    "points": 86,
-    "comments": 35,
+    "id": "hn-50367085",
+    "title": "AI data centers comprehensively defeated at US midterm elections",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "points": 56,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-03T15:48:00Z"
+    "published_date": "2026-11-04T15:35:51Z"
   },
   {
-    "id": "hn-50358352",
-    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "url": "https://uncracked.city",
-    "points": 85,
-    "comments": 42,
+    "id": "hn-50373505",
+    "title": "American Voters Overwhelmingly Reject AI Data Centers",
+    "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "points": 53,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-03T21:20:03Z"
+    "published_date": "2026-11-05T00:43:13Z"
   },
   {
-    "id": "hn-50355959",
-    "title": "Getting hit with \"Prove you are a human\" at every other website",
-    "url": "https://news.ycombinator.com/item?id=50355959",
-    "points": 82,
-    "comments": 44,
+    "id": "hn-50373149",
+    "title": "You'll need nerves of steel to work with AI agents",
+    "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+    "points": 51,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-11-03T18:22:22Z"
+    "published_date": "2026-11-05T00:01:30Z"
+  },
+  {
+    "id": "hn-50366860",
+    "title": "Adding Window Functions to a Spreadsheet",
+    "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+    "points": 45,
+    "comments": 29,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T15:21:12Z"
+  },
+  {
+    "id": "hn-50365760",
+    "title": "Jaron Lanier on parallels between AI and social media",
+    "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+    "points": 43,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T14:10:14Z"
+  },
+  {
+    "id": "hn-50371090",
+    "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
+    "url": "https://github.com/gauge-sh/gauge-cli",
+    "points": 35,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T20:31:30Z"
+  },
+  {
+    "id": "hn-50376313",
+    "title": "GPT-6 Astra covertly underperforms on safety research",
+    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "points": 30,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-11-05T07:44:30Z"
+  },
+  {
+    "id": "hn-50367630",
+    "title": "Show HN: GPUWorks \u2013 A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+    "url": "https://github.com/flitai-io/gpuworks",
+    "points": 25,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T16:09:54Z"
+  },
+  {
+    "id": "hn-50372693",
+    "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+    "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+    "points": 18,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T23:05:24Z"
+  },
+  {
+    "id": "hn-50371526",
+    "title": "Bruno: The Git-native API client",
+    "url": "https://www.usebruno.com",
+    "points": 18,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-11-04T21:06:25Z"
   }
 ]

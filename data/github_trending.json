@@ -1,42 +1,10 @@
 [
   {
-    "id": "gh-1438540053",
-    "name": "wangzan101/Mika",
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "url": "https://github.com/wangzan101/Mika",
-    "stars": 6427,
-    "language": "Kotlin",
-    "topics": [
-      "accessibility",
-      "ai-agent",
-      "android",
-      "automation",
-      "jetpack-compose",
-      "kotlin",
-      "llm",
-      "mobile-agent"
-    ],
-    "created_at": "2026-10-29T14:34:07Z"
-  },
-  {
-    "id": "gh-1438607462",
-    "name": "sleepy-zone/ai-ref-library-cn",
-    "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
-    "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 714,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "gpt"
-    ],
-    "created_at": "2026-10-29T15:28:16Z"
-  },
-  {
     "id": "gh-1439885901",
     "name": "N1nEmAn/sapper-v2",
     "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
     "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 694,
+    "stars": 1205,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -54,7 +22,7 @@
     "name": "Balanov/uncut",
     "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
     "url": "https://github.com/Balanov/uncut",
-    "stars": 600,
+    "stars": 604,
     "language": "Go",
     "topics": [
       "agent-harness",
@@ -68,11 +36,31 @@
     "created_at": "2026-11-01T17:19:30Z"
   },
   {
+    "id": "gh-1441851226",
+    "name": "SAOS-3624/dsh-see-now",
+    "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
+    "url": "https://github.com/SAOS-3624/dsh-see-now",
+    "stars": 372,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agent",
+      "dsh",
+      "dsh-plugin",
+      "ffmpeg",
+      "llm",
+      "realtime",
+      "screen-capture",
+      "token-efficient",
+      "vision"
+    ],
+    "created_at": "2026-11-01T13:32:34Z"
+  },
+  {
     "id": "gh-1439615056",
     "name": "aa1143/NamiAgent",
     "description": "\u96f6\u57fa\u7840\u5165\u95e8 AI Agent \u7684\u57fa\u7840\u6559\u7a0b\u3002\u4e0d\u53ea\u662f\u6559\u7a0b\uff0c\u4e5f\u662f\u4e00\u4e2a\u80fd\u5728\u672c\u5730\u8dd1\u8d77\u6765\u7684 Agent\uff1a\u8bfb\u5199\u6587\u4ef6\u3001\u6267\u884c\u547d\u4ee4\u3001MCP\u3001\u957f\u671f\u8bb0\u5fc6\uff0c\u81ea\u5e26\u7f51\u9875\u7aef\u770b\u6e05\u6bcf\u4e00\u6b65\u3002\u4ece 100 \u884c\u6700\u5c0f\u5faa\u73af\u5f00\u59cb\uff0c\u4e00\u8bfe\u52a0\u4e00\u4e2a\u80fd\u529b\uff0c\u6700\u540e\u62c6\u89e3 Claude Code\u3001Codex \u7b49\u4e3b\u6d41 Agent",
     "url": "https://github.com/aa1143/NamiAgent",
-    "stars": 320,
+    "stars": 367,
     "language": "Python",
     "topics": [
       "agent",
@@ -89,31 +77,50 @@
     "created_at": "2026-10-30T11:03:30Z"
   },
   {
-    "id": "gh-1441851226",
-    "name": "SAOS-3624/dsh-see-now",
-    "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
-    "url": "https://github.com/SAOS-3624/dsh-see-now",
-    "stars": 315,
-    "language": "JavaScript",
+    "id": "gh-1440630308",
+    "name": "Interactive-Active-AI/NextTransformer",
+    "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
+    "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+    "stars": 309,
+    "language": "Python",
     "topics": [
-      "ai-agent",
-      "dsh",
-      "dsh-plugin",
-      "ffmpeg",
+      "auto-research",
+      "benchmark",
+      "deep-learning",
+      "language-models",
+      "linear-attention",
       "llm",
-      "realtime",
-      "screen-capture",
-      "token-efficient",
-      "vision"
+      "looped-transformer",
+      "nexttransformer",
+      "pytorch",
+      "sparse-attention",
+      "transformer"
     ],
-    "created_at": "2026-11-01T13:32:34Z"
+    "created_at": "2026-10-31T07:46:13Z"
+  },
+  {
+    "id": "gh-1439495600",
+    "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+    "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+    "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+    "stars": 199,
+    "language": "Markdown",
+    "topics": [
+      "ai",
+      "fde",
+      "fde-interview",
+      "forward-deployed-engineer",
+      "forward-deployed-engineering",
+      "roadmap"
+    ],
+    "created_at": "2026-10-30T09:01:03Z"
   },
   {
     "id": "gh-1440937647",
     "name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 197,
+    "stars": 198,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -132,7 +139,7 @@
     "name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 188,
+    "stars": 191,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -149,28 +156,11 @@
     "created_at": "2026-10-30T12:53:31Z"
   },
   {
-    "id": "gh-1439495600",
-    "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-    "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 133,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "fde",
-      "fde-interview",
-      "forward-deployed-engineer",
-      "forward-deployed-engineering",
-      "roadmap"
-    ],
-    "created_at": "2026-10-30T09:01:03Z"
-  },
-  {
     "id": "gh-1441146511",
     "name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 100,
+    "stars": 113,
     "language": "JavaScript",
     "topics": [
       "8bit",
@@ -195,11 +185,34 @@
     "created_at": "2026-10-31T18:31:02Z"
   },
   {
+    "id": "gh-1445845007",
+    "name": "silverdugongenhance/PromptReel",
+    "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
+    "url": "https://github.com/silverdugongenhance/PromptReel",
+    "stars": 107,
+    "language": null,
+    "topics": [
+      "ai-tools",
+      "ai-video",
+      "ai-video-clip",
+      "ai-video-generator-crack",
+      "free",
+      "generative-ai",
+      "local-ai",
+      "offline",
+      "prompt-to-video",
+      "text-to-video-generation",
+      "video-generation",
+      "wan2-2"
+    ],
+    "created_at": "2026-11-04T15:29:54Z"
+  },
+  {
     "id": "gh-1440248149",
     "name": "kerlenton/bootgpt",
     "description": "A language model that lives in a boot sector",
     "url": "https://github.com/kerlenton/bootgpt",
-    "stars": 90,
+    "stars": 93,
     "language": "Python",
     "topics": [
       "assembly",
@@ -215,11 +228,52 @@
     "created_at": "2026-10-30T21:28:17Z"
   },
   {
+    "id": "gh-1439337984",
+    "name": "do-whilefor/ClawGod_Y",
+    "description": "Claude Code \u201cGod Mode,\u201d designed to let the model \u201cbreach the armor\u201d (i.e., bypass restrictions).",
+    "url": "https://github.com/do-whilefor/ClawGod_Y",
+    "stars": 90,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "bugbounty",
+      "cladue-code",
+      "clawgod",
+      "pojia"
+    ],
+    "created_at": "2026-10-30T06:00:48Z"
+  },
+  {
+    "id": "gh-1442163738",
+    "name": "MarkIvor/predictorlab",
+    "description": "Self-hosted tabular ML that doesn't lie. Leakage Guard, conformal intervals, profit-optimized thresholds, counterfactuals & instant REST/MCP API.",
+    "url": "https://github.com/MarkIvor/predictorlab",
+    "stars": 67,
+    "language": "Python",
+    "topics": [
+      "automl",
+      "catboost",
+      "conformal-prediction",
+      "counterfactual-explanations",
+      "data-leakage",
+      "duckdb",
+      "explainable-ai",
+      "fastapi",
+      "lightgbm",
+      "machine-learning",
+      "mcp-server",
+      "mlops",
+      "self-hosted",
+      "tabular-data"
+    ],
+    "created_at": "2026-11-01T19:30:27Z"
+  },
+  {
     "id": "gh-1441555426",
     "name": "Jumbomuffin777/Frontier-UI",
     "description": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
     "url": "https://github.com/Jumbomuffin777/Frontier-UI",
-    "stars": 59,
+    "stars": 61,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -239,66 +293,24 @@
     "created_at": "2026-11-01T06:41:23Z"
   },
   {
-    "id": "gh-1438428788",
-    "name": "kumarshreshtha/protuna",
-    "description": "Optimization framework for AI-guided protein engineering",
-    "url": "https://github.com/kumarshreshtha/protuna",
-    "stars": 55,
+    "id": "gh-1446965145",
+    "name": "prabeakarve/microgpt",
+    "description": "A from-scratch, dependency-free GPT implementation in pure NumPy: byte-level tokenizer, multi-head self-attention, Adam trainer, and top-k sampler.",
+    "url": "https://github.com/prabeakarve/microgpt",
+    "stars": 51,
     "language": "Python",
     "topics": [
-      "active-learning",
-      "bayesian-optimization",
-      "bioengineering",
-      "black-box-optimization",
-      "distributed",
-      "experimental-design",
-      "lead-optimization",
+      "attention",
+      "deep-learning",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llm",
       "machine-learning",
-      "protein-engineering"
+      "numpy",
+      "python",
+      "transformer"
     ],
-    "created_at": "2026-10-29T13:02:34Z"
-  },
-  {
-    "id": "gh-1440500419",
-    "name": "AKMaasif/Meta-Ai-Global-Hackathon-Ran-Sentinel-",
-    "description": "RAN Sentinel: AI co-engineer for mobile networks",
-    "url": "https://github.com/AKMaasif/Meta-Ai-Global-Hackathon-Ran-Sentinel-",
-    "stars": 20,
-    "language": "Python",
-    "topics": [
-      "aiagent",
-      "aiassistant",
-      "aiautomation",
-      "machine-learning",
-      "machine-learning-models",
-      "machinelearning-python",
-      "network-automation",
-      "network-monitoring",
-      "networking",
-      "telecommunications"
-    ],
-    "created_at": "2026-10-31T04:27:02Z"
-  },
-  {
-    "id": "gh-1443018818",
-    "name": "Future-Proof-DS/interactive-ai-ml-tools",
-    "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
-    "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
-    "stars": 16,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "data-drift",
-      "data-science",
-      "interactive-learning",
-      "llm-evaluation",
-      "machine-learning",
-      "ml-system-design",
-      "mlops",
-      "model-monitoring",
-      "text-to-sql"
-    ],
-    "created_at": "2026-11-02T13:44:28Z"
+    "created_at": "2026-11-05T12:21:34Z"
   }
 ]
