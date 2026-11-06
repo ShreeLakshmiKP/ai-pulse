@@ -1,164 +1,182 @@
 [
   {
-    "id": "hn-50366117",
-    "title": "Ask HN: What's your current AI agentic setup?",
-    "url": "https://news.ycombinator.com/item?id=50366117",
+    "id": "hn-50385272",
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "points": 1287,
+    "comments": 407,
+    "source": "Hacker News",
+    "published_date": "2026-11-05T22:17:15Z"
+  },
+  {
+    "id": "hn-50385870",
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "points": 407,
-    "comments": 462,
+    "comments": 185,
     "source": "Hacker News",
-    "published_date": "2026-11-04T14:37:22Z"
+    "published_date": "2026-11-05T23:09:57Z"
   },
   {
-    "id": "hn-50375354",
-    "title": "Lemmings CSS Animation",
-    "url": "https://markblah.github.io/lemmings/",
-    "points": 266,
-    "comments": 53,
+    "id": "hn-50381383",
+    "title": "Window Sweaters",
+    "url": "https://github.com/saragordic/window-sweaters",
+    "points": 384,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-11-05T04:54:10Z"
+    "published_date": "2026-11-05T16:50:14Z"
   },
   {
-    "id": "hn-50369895",
-    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "url": "https://fireflyk64.github.io/wcmulti/",
-    "points": 219,
-    "comments": 31,
+    "id": "hn-50389333",
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "points": 349,
+    "comments": 146,
     "source": "Hacker News",
-    "published_date": "2026-11-04T18:51:27Z"
+    "published_date": "2026-11-06T07:40:35Z"
   },
   {
-    "id": "hn-50370654",
-    "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
-    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-    "points": 167,
-    "comments": 60,
+    "id": "hn-50390124",
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "points": 270,
+    "comments": 169,
     "source": "Hacker News",
-    "published_date": "2026-11-04T19:55:14Z"
+    "published_date": "2026-11-06T09:27:12Z"
   },
   {
-    "id": "hn-50371508",
-    "title": "Everything is an AI scam now",
-    "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-    "points": 143,
+    "id": "hn-50381033",
+    "title": "My psychophysics as a bilateral cochlear implant user",
+    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "points": 182,
+    "comments": 84,
+    "source": "Hacker News",
+    "published_date": "2026-11-05T16:21:12Z"
+  },
+  {
+    "id": "hn-50382179",
+    "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+    "points": 161,
+    "comments": 190,
+    "source": "Hacker News",
+    "published_date": "2026-11-05T18:00:01Z"
+  },
+  {
+    "id": "hn-50388513",
+    "title": "I struggle to believe that AI R&D is ingenious",
+    "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+    "points": 146,
+    "comments": 138,
+    "source": "Hacker News",
+    "published_date": "2026-11-06T05:19:04Z"
+  },
+  {
+    "id": "hn-50381687",
+    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "url": "https://github.com/rivet-dev/rivet",
+    "points": 105,
     "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-11-04T21:05:19Z"
+    "published_date": "2026-11-05T17:17:42Z"
   },
   {
-    "id": "hn-50366971",
-    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "points": 94,
-    "comments": 143,
+    "id": "hn-50387738",
+    "title": "Nvidia Kubernetes Engine (NVKE)",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "points": 99,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-11-04T15:28:31Z"
+    "published_date": "2026-11-06T03:16:26Z"
   },
   {
-    "id": "hn-50368804",
-    "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
-    "url": "https://news.ycombinator.com/item?id=50368804",
-    "points": 93,
+    "id": "hn-50380704",
+    "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+    "url": "https://github.com/AGGIB/Stroq",
+    "points": 88,
     "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-11-04T17:31:53Z"
+    "published_date": "2026-11-05T15:54:41Z"
   },
   {
-    "id": "hn-50377821",
-    "title": "Awesome repositories are no longer awesome",
-    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-    "points": 90,
-    "comments": 48,
+    "id": "hn-50387546",
+    "title": "Closed AI models dominate the price-performance frontier",
+    "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "points": 76,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-11-05T11:16:51Z"
+    "published_date": "2026-11-06T02:49:56Z"
   },
   {
-    "id": "hn-50367085",
-    "title": "AI data centers comprehensively defeated at US midterm elections",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "id": "hn-50390525",
+    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+    "url": "https://jhr.pensoft.net/articles.php?id=9096",
+    "points": 66,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-11-06T10:21:15Z"
+  },
+  {
+    "id": "hn-50389448",
+    "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+    "url": "https://obelisk.club/research/app-store-2026",
     "points": 56,
-    "comments": 2,
+    "comments": 50,
     "source": "Hacker News",
-    "published_date": "2026-11-04T15:35:51Z"
+    "published_date": "2026-11-06T07:59:19Z"
   },
   {
-    "id": "hn-50373505",
-    "title": "American Voters Overwhelmingly Reject AI Data Centers",
-    "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-    "points": 53,
-    "comments": 2,
+    "id": "hn-50381590",
+    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+    "points": 56,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-05T00:43:13Z"
+    "published_date": "2026-11-05T17:07:57Z"
   },
   {
-    "id": "hn-50373149",
-    "title": "You'll need nerves of steel to work with AI agents",
-    "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-    "points": 51,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-11-05T00:01:30Z"
-  },
-  {
-    "id": "hn-50366860",
-    "title": "Adding Window Functions to a Spreadsheet",
-    "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+    "id": "hn-50386909",
+    "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+    "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
     "points": 45,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T15:21:12Z"
-  },
-  {
-    "id": "hn-50365760",
-    "title": "Jaron Lanier on parallels between AI and social media",
-    "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
-    "points": 43,
     "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-11-04T14:10:14Z"
+    "published_date": "2026-11-06T01:11:40Z"
   },
   {
-    "id": "hn-50371090",
-    "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
-    "url": "https://github.com/gauge-sh/gauge-cli",
-    "points": 35,
-    "comments": 4,
+    "id": "hn-50383902",
+    "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+    "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+    "points": 38,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-11-04T20:31:30Z"
+    "published_date": "2026-11-05T20:16:19Z"
   },
   {
-    "id": "hn-50376313",
-    "title": "GPT-6 Astra covertly underperforms on safety research",
-    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "id": "hn-50388263",
+    "title": "How accurately did science fiction stories predict AI?",
+    "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+    "points": 33,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-11-06T04:36:22Z"
+  },
+  {
+    "id": "hn-50389401",
+    "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+    "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+    "points": 33,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-11-06T07:52:53Z"
+  },
+  {
+    "id": "hn-50384382",
+    "title": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+    "url": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
     "points": 30,
-    "comments": 8,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-05T07:44:30Z"
-  },
-  {
-    "id": "hn-50367630",
-    "title": "Show HN: GPUWorks \u2013 A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
-    "url": "https://github.com/flitai-io/gpuworks",
-    "points": 25,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T16:09:54Z"
-  },
-  {
-    "id": "hn-50372693",
-    "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-    "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-    "points": 18,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T23:05:24Z"
-  },
-  {
-    "id": "hn-50371526",
-    "title": "Bruno: The Git-native API client",
-    "url": "https://www.usebruno.com",
-    "points": 18,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-11-04T21:06:25Z"
+    "published_date": "2026-11-05T20:58:36Z"
   }
 ]
