@@ -4,7 +4,7 @@
     "name": "Sandflow-ai/sand3d",
     "description": "3D modeling in Python, built for LLMs.",
     "url": "https://github.com/Sandflow-ai/sand3d",
-    "stars": 929,
+    "stars": 1219,
     "language": "HTML",
     "topics": [
       "3d",
@@ -18,70 +18,11 @@
     "created_at": "2026-11-03T08:23:03Z"
   },
   {
-    "id": "gh-1441851226",
-    "name": "SAOS-3624/dsh-see-now",
-    "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
-    "url": "https://github.com/SAOS-3624/dsh-see-now",
-    "stars": 444,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agent",
-      "dsh",
-      "dsh-plugin",
-      "ffmpeg",
-      "llm",
-      "realtime",
-      "screen-capture",
-      "token-efficient",
-      "vision"
-    ],
-    "created_at": "2026-11-01T13:32:34Z"
-  },
-  {
-    "id": "gh-1441468008",
-    "name": "mrhlaingbwardev/agentic-hacking-skills",
-    "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-    "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
-    "stars": 344,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "automation",
-      "hacking",
-      "mcp",
-      "opencode",
-      "pentesting",
-      "security",
-      "skills",
-      "web-security"
-    ],
-    "created_at": "2026-11-01T04:00:04Z"
-  },
-  {
-    "id": "gh-1442056769",
-    "name": "Balanov/uncut",
-    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-    "url": "https://github.com/Balanov/uncut",
-    "stars": 253,
-    "language": "Go",
-    "topics": [
-      "agent-harness",
-      "cli",
-      "coding-agent",
-      "go",
-      "headless",
-      "llm",
-      "local-models"
-    ],
-    "created_at": "2026-11-01T17:19:30Z"
-  },
-  {
     "id": "gh-1447463948",
     "name": "yucezerey/turkish-anti-ai-skill",
     "description": "T\u00fcrk\u00e7e metinlerdeki yapay zeka izlerini (AI slop, translationese, \u00e7eviri kokan c\u00fcmle mimarisi ve TDK hatalar\u0131n\u0131) temizleyen Agent Skill ve Humanizer paketi.",
     "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
-    "stars": 248,
+    "stars": 265,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -106,7 +47,7 @@
     "name": "silverdugongenhance/PromptReel",
     "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
     "url": "https://github.com/silverdugongenhance/PromptReel",
-    "stars": 152,
+    "stars": 210,
     "language": null,
     "topics": [
       "ai-tools",
@@ -129,7 +70,7 @@
     "name": "didilili/mianstack",
     "description": "\ud83d\ude80 \u9762\u6808 MianStack\uff5c\u7a0b\u5e8f\u5458\u9762\u8bd5\u9898\u5e93\u5929\u82b1\u677f\uff01Java\u3001Python\u3001\u6570\u636e\u5e93\u3001\u7b97\u6cd5\u3001\u5927\u6a21\u578b\u3001AI Agent\u3001RAG \u4e00\u6808\u5907\u9f50\u3002\u771f\u5b9e\u9762\u7ecf\u5173\u8054\u9ad8\u9891\u8003\u70b9\uff0c\u6309\u516c\u53f8\u3001\u5c97\u4f4d\u5b9a\u5411\u5907\u8003\uff1b\u56fe\u6587\u9898\u89e3\u3001\u7cbe\u534e\u4e13\u9898\u3001\u9879\u76ee\u6e90\u7801\u62c6\u89e3\uff0c\u5168\u7cfb\u6807\u914d\u3002\u9762\u8bd5\u5b98\u51fa\u9898\uff0c\u9762\u6808\u51fa\u62db\uff01\u514d\u8d39\u5f00\u6e90\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
     "url": "https://github.com/didilili/mianstack",
-    "stars": 126,
+    "stars": 135,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -152,46 +93,11 @@
     "created_at": "2026-11-02T02:48:03Z"
   },
   {
-    "id": "gh-1441752010",
-    "name": "zaxiu88888/issue-rag",
-    "description": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-    "url": "https://github.com/zaxiu88888/issue-rag",
-    "stars": 110,
-    "language": "Python",
-    "topics": [
-      "evaluation",
-      "github-issues",
-      "llm",
-      "llm-as-judge",
-      "python",
-      "rag",
-      "retrieval-augmented-generation"
-    ],
-    "created_at": "2026-11-01T11:32:25Z"
-  },
-  {
-    "id": "gh-1441767849",
-    "name": "DKKD13/dsh-finance",
-    "description": "DKKD13 \u4e2a\u4eba\u5f00\u53d1\u7684\u7b2c\u4e09\u65b9 DSH \u91d1\u878d\u7814\u7a76\u63d2\u4ef6\uff1a\u7814\u7a76 Skills\u3001\u8bc1\u636e\u8d44\u6599\u5e93\u3001\u4e2a\u80a1\u56fe\u8868\u4e0e\u6a21\u62df\u57fa\u91d1\u3002\u4e0e DeepSeek \u5b98\u65b9\u65e0\u96b6\u5c5e\u5173\u7cfb\u3002",
-    "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 101,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "deepseek",
-      "dsh",
-      "finance",
-      "local-first",
-      "research"
-    ],
-    "created_at": "2026-11-01T11:53:05Z"
-  },
-  {
     "id": "gh-1445663842",
     "name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 91,
+    "stars": 111,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -218,73 +124,91 @@
     "created_at": "2026-11-04T12:58:50Z"
   },
   {
-    "id": "gh-1448597365",
-    "name": "Gigachad-byte/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Gigachad-byte/ai-manus",
-    "stars": 81,
+    "id": "gh-1443518977",
+    "name": "vixhal-baraiya/qwenFS",
+    "description": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
+    "url": "https://github.com/vixhal-baraiya/qwenFS",
+    "stars": 94,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
+      "artificial-intelligence",
+      "filesystem",
       "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
+      "qwen3-5"
     ],
-    "created_at": "2026-11-06T18:15:33Z"
+    "created_at": "2026-11-02T21:43:41Z"
   },
   {
-    "id": "gh-1448598390",
-    "name": "thecoderrrer/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/thecoderrrer/ai-manus",
+    "id": "gh-1442986388",
+    "name": "0x45dd/pwner",
+    "description": "Autonomous agentic network penetration-testing tool (authorized use only)",
+    "url": "https://github.com/0x45dd/pwner",
     "stars": 81,
     "language": "Python",
     "topics": [
+      "agent",
+      "ai-agent",
+      "cli",
+      "infosec",
+      "llm",
+      "nmap",
+      "offensive-security",
+      "pentest",
+      "python",
+      "security"
+    ],
+    "created_at": "2026-11-02T13:15:15Z"
+  },
+  {
+    "id": "gh-1446940302",
+    "name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "stars": 66,
+    "language": "HTML",
+    "topics": [
+      "agentic-ai",
       "ai",
       "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
+      "ai-tools",
+      "api",
+      "assistant",
+      "cheat-engine-desktop",
+      "cheat-engine-forza-horizon-6",
+      "cheat-engine-tool",
+      "cheat-engine-windows",
+      "cheat2026",
+      "copilot",
+      "interview",
+      "parakeet"
     ],
-    "created_at": "2026-11-06T18:16:31Z"
+    "created_at": "2026-11-05T11:56:46Z"
+  },
+  {
+    "id": "gh-1442514709",
+    "name": "bytedance/axion1_0",
+    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+    "url": "https://github.com/bytedance/axion1_0",
+    "stars": 62,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agents",
+      "llm",
+      "multi-agent"
+    ],
+    "created_at": "2026-11-02T04:42:38Z"
   },
   {
     "id": "gh-1448598779",
     "name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/quyetcao/ai-manus",
-    "stars": 81,
+    "stars": 56,
     "language": "Python",
     "topics": [
       "ai",
@@ -311,11 +235,42 @@
     "created_at": "2026-11-06T18:16:53Z"
   },
   {
+    "id": "gh-1448598390",
+    "name": "thecoderrrer/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/thecoderrrer/ai-manus",
+    "stars": 55,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "gemeni",
+      "generative-ai",
+      "llm",
+      "multimodal",
+      "openai",
+      "react",
+      "solidjs",
+      "streaming",
+      "svelte",
+      "tanstack",
+      "tool-calling",
+      "typescript",
+      "typescript-sdk",
+      "vue"
+    ],
+    "created_at": "2026-11-06T18:16:31Z"
+  },
+  {
     "id": "gh-1449097463",
     "name": "proteus1121/ai_manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/proteus1121/ai_manus",
-    "stars": 81,
+    "stars": 55,
     "language": null,
     "topics": [
       "ai",
@@ -346,7 +301,7 @@
     "name": "abhinay-h/manus-ai",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
     "url": "https://github.com/abhinay-h/manus-ai",
-    "stars": 81,
+    "stars": 55,
     "language": "Python",
     "topics": [
       "ai",
@@ -371,5 +326,43 @@
       "vue"
     ],
     "created_at": "2026-11-07T06:35:00Z"
+  },
+  {
+    "id": "gh-1446965145",
+    "name": "prabeakarve/microgpt",
+    "description": "A from-scratch, dependency-free GPT implementation in pure NumPy: byte-level tokenizer, multi-head self-attention, Adam trainer, and top-k sampler.",
+    "url": "https://github.com/prabeakarve/microgpt",
+    "stars": 51,
+    "language": "Python",
+    "topics": [
+      "attention",
+      "deep-learning",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "numpy",
+      "python",
+      "transformer"
+    ],
+    "created_at": "2026-11-05T12:21:34Z"
+  },
+  {
+    "id": "gh-1447087645",
+    "name": "mwell70/node2vec",
+    "description": "Python implementation of node2vec: scalable feature learning for networks with biased random walks and skip-gram.",
+    "url": "https://github.com/mwell70/node2vec",
+    "stars": 50,
+    "language": "Python",
+    "topics": [
+      "gensim",
+      "graph-embeddings",
+      "machine-learning",
+      "networkx",
+      "node2vec",
+      "python"
+    ],
+    "created_at": "2026-11-05T14:14:49Z"
   }
 ]
