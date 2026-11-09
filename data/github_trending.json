@@ -4,7 +4,7 @@
     "name": "Sandflow-ai/sand3d",
     "description": "3D modeling in Python, built for LLMs.",
     "url": "https://github.com/Sandflow-ai/sand3d",
-    "stars": 1219,
+    "stars": 1572,
     "language": "HTML",
     "topics": [
       "3d",
@@ -22,7 +22,7 @@
     "name": "yucezerey/turkish-anti-ai-skill",
     "description": "T\u00fcrk\u00e7e metinlerdeki yapay zeka izlerini (AI slop, translationese, \u00e7eviri kokan c\u00fcmle mimarisi ve TDK hatalar\u0131n\u0131) temizleyen Agent Skill ve Humanizer paketi.",
     "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
-    "stars": 265,
+    "stars": 278,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -47,7 +47,7 @@
     "name": "silverdugongenhance/PromptReel",
     "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
     "url": "https://github.com/silverdugongenhance/PromptReel",
-    "stars": 210,
+    "stars": 206,
     "language": null,
     "topics": [
       "ai-tools",
@@ -66,38 +66,11 @@
     "created_at": "2026-11-04T15:29:54Z"
   },
   {
-    "id": "gh-1442436968",
-    "name": "didilili/mianstack",
-    "description": "\ud83d\ude80 \u9762\u6808 MianStack\uff5c\u7a0b\u5e8f\u5458\u9762\u8bd5\u9898\u5e93\u5929\u82b1\u677f\uff01Java\u3001Python\u3001\u6570\u636e\u5e93\u3001\u7b97\u6cd5\u3001\u5927\u6a21\u578b\u3001AI Agent\u3001RAG \u4e00\u6808\u5907\u9f50\u3002\u771f\u5b9e\u9762\u7ecf\u5173\u8054\u9ad8\u9891\u8003\u70b9\uff0c\u6309\u516c\u53f8\u3001\u5c97\u4f4d\u5b9a\u5411\u5907\u8003\uff1b\u56fe\u6587\u9898\u89e3\u3001\u7cbe\u534e\u4e13\u9898\u3001\u9879\u76ee\u6e90\u7801\u62c6\u89e3\uff0c\u5168\u7cfb\u6807\u914d\u3002\u9762\u8bd5\u5b98\u51fa\u9898\uff0c\u9762\u6808\u51fa\u62db\uff01\u514d\u8d39\u5f00\u6e90\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
-    "url": "https://github.com/didilili/mianstack",
-    "stars": 135,
-    "language": "JavaScript",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agent",
-      "ai-engineering",
-      "ai-interview",
-      "artificial-intelligence",
-      "chinese",
-      "coding-interview",
-      "generative-ai",
-      "interview",
-      "interview-preparation",
-      "interview-questions",
-      "large-language-models",
-      "machine-learning-interview",
-      "rag",
-      "technical-interview"
-    ],
-    "created_at": "2026-11-02T02:48:03Z"
-  },
-  {
     "id": "gh-1445663842",
     "name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 111,
+    "stars": 153,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -124,47 +97,107 @@
     "created_at": "2026-11-04T12:58:50Z"
   },
   {
-    "id": "gh-1443518977",
-    "name": "vixhal-baraiya/qwenFS",
-    "description": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
-    "url": "https://github.com/vixhal-baraiya/qwenFS",
-    "stars": 94,
-    "language": "Python",
+    "id": "gh-1448509349",
+    "name": "fanhuayishiy/ai-crew-pass",
+    "description": "\u975e\u4eba\u7c7b\u5458\u5de5\uff5c\u4e5d\u4f4d AI \u540c\u4e8b\u7684 3D \u5de5\u724c\u9886\u53d6\u5904\uff0c\u4e2d\u82f1\u6587\u3001\u900f\u660e PNG \u4e0b\u8f7d\u3002\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u98ce\u82b1AI\u5b9e\u9a8c\u5ba4\u3002",
+    "url": "https://github.com/fanhuayishiy/ai-crew-pass",
+    "stars": 135,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "filesystem",
-      "llm",
-      "qwen3-5"
+      "ai",
+      "astro",
+      "github-pages",
+      "lanyard",
+      "react",
+      "threejs"
     ],
-    "created_at": "2026-11-02T21:43:41Z"
+    "created_at": "2026-11-06T16:47:02Z"
   },
   {
-    "id": "gh-1442986388",
-    "name": "0x45dd/pwner",
-    "description": "Autonomous agentic network penetration-testing tool (authorized use only)",
-    "url": "https://github.com/0x45dd/pwner",
-    "stars": 81,
-    "language": "Python",
+    "id": "gh-1450293844",
+    "name": "RapidSailorFreeze/studsmith",
+    "description": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. \u514d\u8d39\u7684 Roblox Studio AI \u667a\u80fd\u4f53\u3002",
+    "url": "https://github.com/RapidSailorFreeze/studsmith",
+    "stars": 95,
+    "language": null,
     "topics": [
-      "agent",
       "ai-agent",
-      "cli",
-      "infosec",
+      "ai-assistant",
+      "game-development",
+      "gamedev",
       "llm",
-      "nmap",
-      "offensive-security",
-      "pentest",
-      "python",
-      "security"
+      "luau",
+      "ollama",
+      "roblox",
+      "roblox-development",
+      "roblox-development-tools",
+      "roblox-studio-ai",
+      "roblox-studio-mcp",
+      "robloxdev"
     ],
-    "created_at": "2026-11-02T13:15:15Z"
+    "created_at": "2026-11-08T13:11:10Z"
+  },
+  {
+    "id": "gh-1449723446",
+    "name": "ensignalp/kota",
+    "description": "AI kullan\u0131m limitleri GNOME \u00fcst panelinde \u2014 Claude, Codex, Gemini, Copilot, API bakiyeleri \u00b7 AI usage limits in the GNOME top bar",
+    "url": "https://github.com/ensignalp/kota",
+    "stars": 75,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-usage",
+      "claude",
+      "codex",
+      "gnome",
+      "gnome-shell-extension",
+      "rust",
+      "usage-limits"
+    ],
+    "created_at": "2026-11-07T20:42:04Z"
+  },
+  {
+    "id": "gh-1445195915",
+    "name": "HimanshuMohanty-Git24/gitaviswa",
+    "description": "GitaVi\u015bva (\u0917\u0940\u0924\u093e\u0935\u093f\u0936\u094d\u0935): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
+    "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
+    "stars": 74,
+    "language": "Cypher",
+    "topics": [
+      "bhagavad-gita",
+      "byok",
+      "graphrag",
+      "knowledge-graph",
+      "llm",
+      "nextjs",
+      "offline-first",
+      "rag",
+      "sanskrit",
+      "threejs"
+    ],
+    "created_at": "2026-11-04T05:20:11Z"
+  },
+  {
+    "id": "gh-1449197810",
+    "name": "NamtaoProductions/0rwx.com",
+    "description": null,
+    "url": "https://github.com/NamtaoProductions/0rwx.com",
+    "stars": 60,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "brainmade",
+      "framework",
+      "thinking"
+    ],
+    "created_at": "2026-11-07T09:12:11Z"
   },
   {
     "id": "gh-1446940302",
     "name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
     "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
     "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "stars": 66,
+    "stars": 59,
     "language": "HTML",
     "topics": [
       "agentic-ai",
@@ -185,30 +218,11 @@
     "created_at": "2026-11-05T11:56:46Z"
   },
   {
-    "id": "gh-1442514709",
-    "name": "bytedance/axion1_0",
-    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-    "url": "https://github.com/bytedance/axion1_0",
-    "stars": 62,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "agentic-ai",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "ai-agents",
-      "llm",
-      "multi-agent"
-    ],
-    "created_at": "2026-11-02T04:42:38Z"
-  },
-  {
     "id": "gh-1448598779",
     "name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/quyetcao/ai-manus",
-    "stars": 56,
+    "stars": 55,
     "language": "Python",
     "topics": [
       "ai",
@@ -235,10 +249,10 @@
     "created_at": "2026-11-06T18:16:53Z"
   },
   {
-    "id": "gh-1448598390",
-    "name": "thecoderrrer/ai-manus",
+    "id": "gh-1448598468",
+    "name": "Abdul-Rehman7826/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/thecoderrrer/ai-manus",
+    "url": "https://github.com/Abdul-Rehman7826/ai-manus",
     "stars": 55,
     "language": "Python",
     "topics": [
@@ -263,45 +277,14 @@
       "typescript-sdk",
       "vue"
     ],
-    "created_at": "2026-11-06T18:16:31Z"
+    "created_at": "2026-11-06T18:16:37Z"
   },
   {
-    "id": "gh-1449097463",
-    "name": "proteus1121/ai_manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/proteus1121/ai_manus",
-    "stars": 55,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
-    ],
-    "created_at": "2026-11-07T06:34:45Z"
-  },
-  {
-    "id": "gh-1449097591",
-    "name": "abhinay-h/manus-ai",
+    "id": "gh-1449097645",
+    "name": "tireddwarf99/manus-ai",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
-    "url": "https://github.com/abhinay-h/manus-ai",
-    "stars": 55,
+    "url": "https://github.com/tireddwarf99/manus-ai",
+    "stars": 54,
     "language": "Python",
     "topics": [
       "ai",
@@ -325,7 +308,38 @@
       "typescript-sdk",
       "vue"
     ],
-    "created_at": "2026-11-07T06:35:00Z"
+    "created_at": "2026-11-07T06:35:05Z"
+  },
+  {
+    "id": "gh-1448598982",
+    "name": "jfpereirasantos4-arch/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/jfpereirasantos4-arch/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "gemeni",
+      "generative-ai",
+      "llm",
+      "multimodal",
+      "openai",
+      "react",
+      "solidjs",
+      "streaming",
+      "svelte",
+      "tanstack",
+      "tool-calling",
+      "typescript",
+      "typescript-sdk",
+      "vue"
+    ],
+    "created_at": "2026-11-06T18:17:04Z"
   },
   {
     "id": "gh-1446965145",
@@ -347,22 +361,5 @@
       "transformer"
     ],
     "created_at": "2026-11-05T12:21:34Z"
-  },
-  {
-    "id": "gh-1447087645",
-    "name": "mwell70/node2vec",
-    "description": "Python implementation of node2vec: scalable feature learning for networks with biased random walks and skip-gram.",
-    "url": "https://github.com/mwell70/node2vec",
-    "stars": 50,
-    "language": "Python",
-    "topics": [
-      "gensim",
-      "graph-embeddings",
-      "machine-learning",
-      "networkx",
-      "node2vec",
-      "python"
-    ],
-    "created_at": "2026-11-05T14:14:49Z"
   }
 ]

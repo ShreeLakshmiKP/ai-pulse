@@ -1,173 +1,182 @@
 [
   {
-    "id": "hn-50406563",
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "points": 467,
-    "comments": 279,
+    "id": "hn-50415628",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "points": 828,
+    "comments": 446,
     "source": "Hacker News",
-    "published_date": "2026-11-07T18:02:17Z"
+    "published_date": "2026-11-08T18:16:07Z"
   },
   {
-    "id": "hn-50407882",
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "points": 438,
-    "comments": 297,
+    "id": "hn-50418176",
+    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "points": 614,
+    "comments": 186,
     "source": "Hacker News",
-    "published_date": "2026-11-07T20:45:32Z"
+    "published_date": "2026-11-08T22:35:35Z"
   },
   {
-    "id": "hn-50410107",
-    "title": "Goodbye Claude, Hello Pi",
-    "url": "https://caleb.software/posts/claude-to-pi.html",
-    "points": 367,
-    "comments": 228,
+    "id": "hn-50418975",
+    "title": "I'm not convinced the AI bubble exists",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "points": 421,
+    "comments": 716,
     "source": "Hacker News",
-    "published_date": "2026-11-08T03:11:48Z"
+    "published_date": "2026-11-08T23:44:36Z"
   },
   {
-    "id": "hn-50406222",
-    "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "points": 332,
-    "comments": 86,
+    "id": "hn-50416363",
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "points": 281,
+    "comments": 197,
     "source": "Hacker News",
-    "published_date": "2026-11-07T17:19:00Z"
+    "published_date": "2026-11-08T19:37:42Z"
   },
   {
-    "id": "hn-50406292",
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "points": 251,
-    "comments": 60,
+    "id": "hn-50424581",
+    "title": "Fold Epic Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "points": 249,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-11-07T17:27:30Z"
+    "published_date": "2026-11-09T12:19:22Z"
   },
   {
-    "id": "hn-50408931",
-    "title": "GitHub New pull request overview page in public preview",
-    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-    "points": 150,
-    "comments": 101,
+    "id": "hn-50420857",
+    "title": "A Critique of GPUI",
+    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "points": 122,
+    "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-11-07T23:09:40Z"
+    "published_date": "2026-11-09T03:51:10Z"
   },
   {
-    "id": "hn-50411818",
-    "title": "GitHub Down Again?",
-    "url": "https://github.com/torvalds/linux",
-    "points": 104,
-    "comments": 101,
+    "id": "hn-50422628",
+    "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+    "url": "https://news.ycombinator.com/item?id=50422628",
+    "points": 102,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-11-08T09:56:07Z"
+    "published_date": "2026-11-09T08:17:49Z"
   },
   {
-    "id": "hn-50409855",
-    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-    "url": "https://github.com/crmne/zapfast",
-    "points": 88,
-    "comments": 62,
+    "id": "hn-50421426",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+    "points": 98,
+    "comments": 99,
     "source": "Hacker News",
-    "published_date": "2026-11-08T02:02:27Z"
+    "published_date": "2026-11-09T05:30:11Z"
   },
   {
-    "id": "hn-50406589",
-    "title": "The End of AI Frontiers",
-    "url": "https://hunch.net/?p=13764006",
-    "points": 81,
-    "comments": 4,
+    "id": "hn-50415817",
+    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "points": 96,
+    "comments": 123,
     "source": "Hacker News",
-    "published_date": "2026-11-07T18:04:07Z"
+    "published_date": "2026-11-08T18:43:07Z"
   },
   {
-    "id": "hn-50409856",
-    "title": "Consumer brain wave headsets threaten privacy",
-    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "points": 69,
-    "comments": 33,
+    "id": "hn-50421155",
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "url": "https://github.com/OmniJev/Flide",
+    "points": 83,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-11-08T02:02:38Z"
+    "published_date": "2026-11-09T04:43:12Z"
   },
   {
-    "id": "hn-50405263",
-    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-    "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-    "points": 69,
-    "comments": 14,
+    "id": "hn-50423569",
+    "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+    "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+    "points": 68,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-11-07T15:16:01Z"
+    "published_date": "2026-11-09T10:11:47Z"
   },
   {
-    "id": "hn-50410249",
-    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-    "url": "https://github.com/dmunozv04/isponsorblocktv",
-    "points": 61,
-    "comments": 12,
+    "id": "hn-50424199",
+    "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
+    "url": "https://github.com/samir-sarwar/samir-vllm",
+    "points": 59,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-11-08T03:47:19Z"
+    "published_date": "2026-11-09T11:36:55Z"
   },
   {
-    "id": "hn-50408350",
-    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-    "url": "https://eyesrhythm.com/",
-    "points": 31,
-    "comments": 15,
+    "id": "hn-50413885",
+    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+    "points": 56,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-11-07T21:47:47Z"
+    "published_date": "2026-11-08T15:00:42Z"
   },
   {
-    "id": "hn-50406541",
-    "title": "US intelligence: Jensen Huang had affair with Chinese spy; linked to smuggling",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
-    "points": 24,
-    "comments": 4,
+    "id": "hn-50420532",
+    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+    "points": 54,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-11-07T18:00:02Z"
+    "published_date": "2026-11-09T03:06:55Z"
   },
   {
-    "id": "hn-50406064",
-    "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
-    "url": "https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says",
-    "points": 21,
-    "comments": 11,
+    "id": "hn-50422001",
+    "title": "Being a meat proxy for AI should be grounds for getting people fired",
+    "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+    "points": 43,
+    "comments": 36,
     "source": "Hacker News",
-    "published_date": "2026-11-07T17:01:11Z"
+    "published_date": "2026-11-09T06:55:38Z"
   },
   {
-    "id": "hn-50404622",
-    "title": "I don't care if web content is AI-generated",
-    "url": "https://kevinboone.me/ai.html",
-    "points": 15,
-    "comments": 12,
+    "id": "hn-50423371",
+    "title": "Ask HN: Do you still enjoy coding in C++?",
+    "url": "https://news.ycombinator.com/item?id=50423371",
+    "points": 39,
+    "comments": 48,
     "source": "Hacker News",
-    "published_date": "2026-11-07T14:02:56Z"
+    "published_date": "2026-11-09T09:50:03Z"
   },
   {
-    "id": "hn-50410253",
-    "title": "Show HN: Maple \u2013 Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-    "url": "https://github.com/AmSach/maple",
-    "points": 12,
-    "comments": 5,
+    "id": "hn-50422181",
+    "title": "370 Books in 20 months: South African author defends her use of AI",
+    "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+    "points": 37,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-11-08T03:48:04Z"
+    "published_date": "2026-11-09T07:21:33Z"
   },
   {
-    "id": "hn-50405043",
-    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-    "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-    "points": 11,
+    "id": "hn-50414021",
+    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+    "points": 37,
+    "comments": 61,
+    "source": "Hacker News",
+    "published_date": "2026-11-08T15:19:51Z"
+  },
+  {
+    "id": "hn-50419019",
+    "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
+    "url": "https://news.ycombinator.com/item?id=50419019",
+    "points": 19,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-11-08T23:49:19Z"
+  },
+  {
+    "id": "hn-50421644",
+    "title": "Github.com 504 Gateway Timeout due to surge in anonymous users",
+    "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
+    "points": 16,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-07T14:51:40Z"
-  },
-  {
-    "id": "hn-50409986",
-    "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-    "points": 11,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-11-08T02:37:10Z"
+    "published_date": "2026-11-09T06:05:19Z"
   }
 ]
