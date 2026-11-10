@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50415628",
-    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-    "points": 828,
-    "comments": 446,
+    "id": "hn-50429906",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "points": 980,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-11-08T18:16:07Z"
+    "published_date": "2026-11-09T18:56:29Z"
   },
   {
-    "id": "hn-50418176",
-    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-    "url": "https://ketchup3d.github.io/app/",
-    "points": 614,
-    "comments": 186,
+    "id": "hn-50429068",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "points": 706,
+    "comments": 873,
     "source": "Hacker News",
-    "published_date": "2026-11-08T22:35:35Z"
+    "published_date": "2026-11-09T18:01:10Z"
   },
   {
-    "id": "hn-50418975",
-    "title": "I'm not convinced the AI bubble exists",
-    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-    "points": 421,
-    "comments": 716,
+    "id": "hn-50429426",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "points": 668,
+    "comments": 141,
     "source": "Hacker News",
-    "published_date": "2026-11-08T23:44:36Z"
+    "published_date": "2026-11-09T18:24:38Z"
   },
   {
-    "id": "hn-50416363",
-    "title": "How I Fight AI Brain Fry",
-    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-    "points": 281,
-    "comments": 197,
+    "id": "hn-50429734",
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "url": "https://e-means.github.io/",
+    "points": 434,
+    "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-11-08T19:37:42Z"
+    "published_date": "2026-11-09T18:45:43Z"
   },
   {
-    "id": "hn-50424581",
-    "title": "Fold Epic Paper Airplanes",
-    "url": "https://www.foldableflight.com",
-    "points": 249,
-    "comments": 51,
+    "id": "hn-50428907",
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "url": "https://www.watched.earth",
+    "points": 406,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-11-09T12:19:22Z"
+    "published_date": "2026-11-09T17:51:31Z"
   },
   {
-    "id": "hn-50420857",
-    "title": "A Critique of GPUI",
-    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-    "points": 122,
+    "id": "hn-50431144",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "points": 356,
+    "comments": 256,
+    "source": "Hacker News",
+    "published_date": "2026-11-09T20:04:55Z"
+  },
+  {
+    "id": "hn-50435660",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "points": 177,
+    "comments": 158,
+    "source": "Hacker News",
+    "published_date": "2026-11-10T03:20:06Z"
+  },
+  {
+    "id": "hn-50430621",
+    "title": "CUI \u2013 Native UI components for C",
+    "url": "https://yappologistic.github.io/CUI/",
+    "points": 173,
+    "comments": 98,
+    "source": "Hacker News",
+    "published_date": "2026-11-09T19:35:16Z"
+  },
+  {
+    "id": "hn-50427085",
+    "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+    "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "points": 170,
     "comments": 87,
     "source": "Hacker News",
-    "published_date": "2026-11-09T03:51:10Z"
+    "published_date": "2026-11-09T15:39:01Z"
   },
   {
-    "id": "hn-50422628",
-    "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-    "url": "https://news.ycombinator.com/item?id=50422628",
-    "points": 102,
-    "comments": 26,
+    "id": "hn-50433079",
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "points": 134,
+    "comments": 170,
     "source": "Hacker News",
-    "published_date": "2026-11-09T08:17:49Z"
+    "published_date": "2026-11-09T22:19:12Z"
   },
   {
-    "id": "hn-50421426",
-    "title": "Apple capped engineers at a $200 daily AI budget",
-    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-    "points": 98,
-    "comments": 99,
+    "id": "hn-50433541",
+    "title": "Exact \u2013 a new cross platform UI framework",
+    "url": "https://github.com/expo/exact",
+    "points": 127,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-11-09T05:30:11Z"
+    "published_date": "2026-11-09T22:59:13Z"
   },
   {
-    "id": "hn-50415817",
-    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-    "points": 96,
-    "comments": 123,
+    "id": "hn-50438318",
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "points": 116,
+    "comments": 149,
     "source": "Hacker News",
-    "published_date": "2026-11-08T18:43:07Z"
+    "published_date": "2026-11-10T10:25:58Z"
   },
   {
-    "id": "hn-50421155",
-    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-    "url": "https://github.com/OmniJev/Flide",
-    "points": 83,
-    "comments": 18,
+    "id": "hn-50426207",
+    "title": "Zebkit \u2013 Chromium as an embeddable library",
+    "url": "https://github.com/ikey4u/zebkit",
+    "points": 116,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-11-09T04:43:12Z"
+    "published_date": "2026-11-09T14:34:00Z"
   },
   {
-    "id": "hn-50423569",
-    "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
-    "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-    "points": 68,
-    "comments": 8,
+    "id": "hn-50427934",
+    "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
+    "url": "https://news.ycombinator.com/item?id=50427934",
+    "points": 115,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-11-09T10:11:47Z"
+    "published_date": "2026-11-09T16:36:38Z"
   },
   {
-    "id": "hn-50424199",
-    "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
-    "url": "https://github.com/samir-sarwar/samir-vllm",
-    "points": 59,
-    "comments": 9,
+    "id": "hn-50429636",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "url": "https://meowdisplay.app/",
+    "points": 111,
+    "comments": 42,
     "source": "Hacker News",
-    "published_date": "2026-11-09T11:36:55Z"
+    "published_date": "2026-11-09T18:39:22Z"
   },
   {
-    "id": "hn-50413885",
-    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-    "points": 56,
-    "comments": 43,
+    "id": "hn-50429144",
+    "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "points": 97,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-11-08T15:00:42Z"
+    "published_date": "2026-11-09T18:05:44Z"
   },
   {
-    "id": "hn-50420532",
-    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
-    "points": 54,
+    "id": "hn-50437106",
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "points": 89,
     "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-11-09T03:06:55Z"
+    "published_date": "2026-11-10T07:19:38Z"
   },
   {
-    "id": "hn-50422001",
-    "title": "Being a meat proxy for AI should be grounds for getting people fired",
-    "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
-    "points": 43,
-    "comments": 36,
+    "id": "hn-50438429",
+    "title": "Meet the Sad Wives of AI",
+    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+    "points": 63,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-11-09T06:55:38Z"
+    "published_date": "2026-11-10T10:40:51Z"
   },
   {
-    "id": "hn-50423371",
-    "title": "Ask HN: Do you still enjoy coding in C++?",
-    "url": "https://news.ycombinator.com/item?id=50423371",
-    "points": 39,
-    "comments": 48,
+    "id": "hn-50429947",
+    "title": "Claude Fable 5.2",
+    "url": "https://twitter.com/claudeai/status/2119867114450268322",
+    "points": 33,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-11-09T09:50:03Z"
+    "published_date": "2026-11-09T18:58:35Z"
   },
   {
-    "id": "hn-50422181",
-    "title": "370 Books in 20 months: South African author defends her use of AI",
-    "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-    "points": 37,
-    "comments": 77,
+    "id": "hn-50429952",
+    "title": "Testing Claude on real-world electronics design",
+    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "points": 31,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-11-09T07:21:33Z"
-  },
-  {
-    "id": "hn-50414021",
-    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-    "points": 37,
-    "comments": 61,
-    "source": "Hacker News",
-    "published_date": "2026-11-08T15:19:51Z"
-  },
-  {
-    "id": "hn-50419019",
-    "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
-    "url": "https://news.ycombinator.com/item?id=50419019",
-    "points": 19,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-11-08T23:49:19Z"
-  },
-  {
-    "id": "hn-50421644",
-    "title": "Github.com 504 Gateway Timeout due to surge in anonymous users",
-    "url": "https://www.githubstatus.com/incidents/c9px7cw2ghrs",
-    "points": 16,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-11-09T06:05:19Z"
+    "published_date": "2026-11-09T18:58:48Z"
   }
 ]

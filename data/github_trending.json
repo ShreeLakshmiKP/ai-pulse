@@ -1,28 +1,10 @@
 [
   {
-    "id": "gh-1444005452",
-    "name": "Sandflow-ai/sand3d",
-    "description": "3D modeling in Python, built for LLMs.",
-    "url": "https://github.com/Sandflow-ai/sand3d",
-    "stars": 1572,
-    "language": "HTML",
-    "topics": [
-      "3d",
-      "blender",
-      "cad",
-      "llm",
-      "procedural-modeling",
-      "python",
-      "usd"
-    ],
-    "created_at": "2026-11-03T08:23:03Z"
-  },
-  {
     "id": "gh-1447463948",
     "name": "yucezerey/turkish-anti-ai-skill",
     "description": "T\u00fcrk\u00e7e metinlerdeki yapay zeka izlerini (AI slop, translationese, \u00e7eviri kokan c\u00fcmle mimarisi ve TDK hatalar\u0131n\u0131) temizleyen Agent Skill ve Humanizer paketi.",
     "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
-    "stars": 278,
+    "stars": 296,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -43,11 +25,36 @@
     "created_at": "2026-11-05T20:08:28Z"
   },
   {
+    "id": "gh-1451662178",
+    "name": "Dodaios/ste80-humanizer",
+    "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "stars": 245,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "asd-ste100",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "humanize-ai-text",
+      "humanizer",
+      "karpathy",
+      "llm",
+      "plain-language",
+      "simplified-technical-english",
+      "writing"
+    ],
+    "created_at": "2026-11-09T17:18:59Z"
+  },
+  {
     "id": "gh-1445845007",
     "name": "silverdugongenhance/PromptReel",
     "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
     "url": "https://github.com/silverdugongenhance/PromptReel",
-    "stars": 206,
+    "stars": 207,
     "language": null,
     "topics": [
       "ai-tools",
@@ -70,7 +77,7 @@
     "name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 153,
+    "stars": 188,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -101,7 +108,7 @@
     "name": "fanhuayishiy/ai-crew-pass",
     "description": "\u975e\u4eba\u7c7b\u5458\u5de5\uff5c\u4e5d\u4f4d AI \u540c\u4e8b\u7684 3D \u5de5\u724c\u9886\u53d6\u5904\uff0c\u4e2d\u82f1\u6587\u3001\u900f\u660e PNG \u4e0b\u8f7d\u3002\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u98ce\u82b1AI\u5b9e\u9a8c\u5ba4\u3002",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 135,
+    "stars": 173,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -138,30 +145,11 @@
     "created_at": "2026-11-08T13:11:10Z"
   },
   {
-    "id": "gh-1449723446",
-    "name": "ensignalp/kota",
-    "description": "AI kullan\u0131m limitleri GNOME \u00fcst panelinde \u2014 Claude, Codex, Gemini, Copilot, API bakiyeleri \u00b7 AI usage limits in the GNOME top bar",
-    "url": "https://github.com/ensignalp/kota",
-    "stars": 75,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-usage",
-      "claude",
-      "codex",
-      "gnome",
-      "gnome-shell-extension",
-      "rust",
-      "usage-limits"
-    ],
-    "created_at": "2026-11-07T20:42:04Z"
-  },
-  {
     "id": "gh-1445195915",
     "name": "HimanshuMohanty-Git24/gitaviswa",
     "description": "GitaVi\u015bva (\u0917\u0940\u0924\u093e\u0935\u093f\u0936\u094d\u0935): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
     "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
-    "stars": 74,
+    "stars": 88,
     "language": "Cypher",
     "topics": [
       "bhagavad-gita",
@@ -182,7 +170,7 @@
     "name": "NamtaoProductions/0rwx.com",
     "description": null,
     "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 60,
+    "stars": 86,
     "language": "HTML",
     "topics": [
       "ai",
@@ -193,36 +181,106 @@
     "created_at": "2026-11-07T09:12:11Z"
   },
   {
-    "id": "gh-1446940302",
-    "name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "stars": 59,
-    "language": "HTML",
+    "id": "gh-1449723446",
+    "name": "ensignalp/kota",
+    "description": "AI kullan\u0131m limitleri GNOME \u00fcst panelinde \u2014 Claude, Codex, Gemini, Copilot, API bakiyeleri \u00b7 AI usage limits in the GNOME top bar",
+    "url": "https://github.com/ensignalp/kota",
+    "stars": 83,
+    "language": "Rust",
     "topics": [
-      "agentic-ai",
       "ai",
-      "ai-agents",
-      "ai-tools",
-      "api",
-      "assistant",
-      "cheat-engine-desktop",
-      "cheat-engine-forza-horizon-6",
-      "cheat-engine-tool",
-      "cheat-engine-windows",
-      "cheat2026",
-      "copilot",
-      "interview",
-      "parakeet"
+      "ai-usage",
+      "claude",
+      "codex",
+      "gnome",
+      "gnome-shell-extension",
+      "rust",
+      "usage-limits"
     ],
-    "created_at": "2026-11-05T11:56:46Z"
+    "created_at": "2026-11-07T20:42:04Z"
+  },
+  {
+    "id": "gh-1446185425",
+    "name": "munitkala/selfsemester",
+    "description": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+    "url": "https://github.com/munitkala/selfsemester",
+    "stars": 76,
+    "language": "Rust",
+    "topics": [
+      "ai-education",
+      "ai-tutor",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "curriculum",
+      "desktop-app",
+      "edtech",
+      "education",
+      "generative-ai",
+      "llm",
+      "lms",
+      "online-learning",
+      "rust",
+      "self-learning",
+      "self-study",
+      "study-tool",
+      "svelte",
+      "tauri",
+      "windows"
+    ],
+    "created_at": "2026-11-04T20:50:56Z"
+  },
+  {
+    "id": "gh-1451236431",
+    "name": "professorsolderin/project-lighthouse",
+    "description": "Project Lighthouse \u2014 shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+    "url": "https://github.com/professorsolderin/project-lighthouse",
+    "stars": 71,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "history-of-science",
+      "manuscripts",
+      "mathematics"
+    ],
+    "created_at": "2026-11-09T10:41:21Z"
+  },
+  {
+    "id": "gh-1451837702",
+    "name": "liujiaqi2024/Free-ClaudeOpus-5.5",
+    "description": null,
+    "url": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5",
+    "stars": 71,
+    "language": null,
+    "topics": [
+      "ai-assistants",
+      "ai-model",
+      "anthropic",
+      "anthropic-api",
+      "anthropic-claude",
+      "chatbot",
+      "claude-5-opus",
+      "claude-api",
+      "claude-cli",
+      "claude-code",
+      "claude-desktop",
+      "claude-opus",
+      "claude-opus-5-5",
+      "claude-ultra",
+      "coding-assistant",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-11-09T20:19:19Z"
   },
   {
     "id": "gh-1448598779",
     "name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/quyetcao/ai-manus",
-    "stars": 55,
+    "stars": 54,
     "language": "Python",
     "topics": [
       "ai",
@@ -253,7 +311,7 @@
     "name": "Abdul-Rehman7826/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/Abdul-Rehman7826/ai-manus",
-    "stars": 55,
+    "stars": 53,
     "language": "Python",
     "topics": [
       "ai",
@@ -278,68 +336,6 @@
       "vue"
     ],
     "created_at": "2026-11-06T18:16:37Z"
-  },
-  {
-    "id": "gh-1449097645",
-    "name": "tireddwarf99/manus-ai",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
-    "url": "https://github.com/tireddwarf99/manus-ai",
-    "stars": 54,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
-    ],
-    "created_at": "2026-11-07T06:35:05Z"
-  },
-  {
-    "id": "gh-1448598982",
-    "name": "jfpereirasantos4-arch/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/jfpereirasantos4-arch/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
-    ],
-    "created_at": "2026-11-06T18:17:04Z"
   },
   {
     "id": "gh-1446965145",
