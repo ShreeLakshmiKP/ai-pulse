@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50429906",
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "points": 980,
-    "comments": 6,
+    "id": "hn-50443812",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "points": 392,
+    "comments": 127,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:56:29Z"
+    "published_date": "2026-11-10T18:01:15Z"
   },
   {
-    "id": "hn-50429068",
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "points": 706,
-    "comments": 873,
+    "id": "hn-50446520",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "points": 329,
+    "comments": 315,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:01:10Z"
+    "published_date": "2026-11-10T21:25:03Z"
   },
   {
-    "id": "hn-50429426",
-    "title": "Google Gemini routes personal Drive files and emails to human annotators",
-    "url": "https://github.com/thisisme6598/gemini_files/",
-    "points": 668,
-    "comments": 141,
+    "id": "hn-50442303",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "points": 287,
+    "comments": 159,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:24:38Z"
+    "published_date": "2026-11-10T16:07:15Z"
   },
   {
-    "id": "hn-50429734",
-    "title": "E-means: Outperforming k-means in one-tenth the epochs",
-    "url": "https://e-means.github.io/",
-    "points": 434,
+    "id": "hn-50446246",
+    "title": "Six Math Essentials",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "points": 277,
     "comments": 54,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:45:43Z"
+    "published_date": "2026-11-10T20:58:44Z"
   },
   {
-    "id": "hn-50428907",
-    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "url": "https://www.watched.earth",
-    "points": 406,
-    "comments": 74,
+    "id": "hn-50449748",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "points": 271,
+    "comments": 97,
     "source": "Hacker News",
-    "published_date": "2026-11-09T17:51:31Z"
+    "published_date": "2026-11-11T04:28:57Z"
   },
   {
-    "id": "hn-50431144",
-    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-    "points": 356,
-    "comments": 256,
+    "id": "hn-50443716",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "points": 248,
+    "comments": 182,
     "source": "Hacker News",
-    "published_date": "2026-11-09T20:04:55Z"
+    "published_date": "2026-11-10T17:55:07Z"
   },
   {
-    "id": "hn-50435660",
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "points": 177,
-    "comments": 158,
+    "id": "hn-50443587",
+    "title": "Life on Claude Nine",
+    "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+    "points": 113,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-11-10T03:20:06Z"
+    "published_date": "2026-11-10T17:44:44Z"
   },
   {
-    "id": "hn-50430621",
-    "title": "CUI \u2013 Native UI components for C",
-    "url": "https://yappologistic.github.io/CUI/",
-    "points": 173,
-    "comments": 98,
+    "id": "hn-50450007",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "points": 91,
+    "comments": 46,
     "source": "Hacker News",
-    "published_date": "2026-11-09T19:35:16Z"
+    "published_date": "2026-11-11T05:25:54Z"
   },
   {
-    "id": "hn-50427085",
-    "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-    "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-    "points": 170,
-    "comments": 87,
+    "id": "hn-50448340",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "url": "https://tis-100.wincon.dev/",
+    "points": 81,
+    "comments": 18,
     "source": "Hacker News",
-    "published_date": "2026-11-09T15:39:01Z"
+    "published_date": "2026-11-11T00:37:05Z"
   },
   {
-    "id": "hn-50433079",
-    "title": "A year after the 100% AI mandate nobody understands our code",
-    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-    "points": 134,
-    "comments": 170,
+    "id": "hn-50444850",
+    "title": "Saltline: First-person shooter built by Fable 5.2",
+    "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+    "points": 67,
+    "comments": 75,
     "source": "Hacker News",
-    "published_date": "2026-11-09T22:19:12Z"
+    "published_date": "2026-11-10T19:14:38Z"
   },
   {
-    "id": "hn-50433541",
-    "title": "Exact \u2013 a new cross platform UI framework",
-    "url": "https://github.com/expo/exact",
-    "points": 127,
-    "comments": 98,
+    "id": "hn-50448174",
+    "title": "AI is becoming an information gateway. Audiences still don\u2019t want it making news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "points": 55,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-11-09T22:59:13Z"
+    "published_date": "2026-11-11T00:15:33Z"
   },
   {
-    "id": "hn-50438318",
-    "title": "AI usage generates a fragile codebase",
-    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-    "points": 116,
-    "comments": 149,
+    "id": "hn-50449891",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "points": 54,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-11-10T10:25:58Z"
+    "published_date": "2026-11-11T04:56:47Z"
   },
   {
-    "id": "hn-50426207",
-    "title": "Zebkit \u2013 Chromium as an embeddable library",
-    "url": "https://github.com/ikey4u/zebkit",
-    "points": 116,
-    "comments": 45,
+    "id": "hn-50451102",
+    "title": "OSS projects banning AI-generated contributions",
+    "url": "https://osssaysno.com",
+    "points": 53,
+    "comments": 89,
     "source": "Hacker News",
-    "published_date": "2026-11-09T14:34:00Z"
+    "published_date": "2026-11-11T08:51:45Z"
   },
   {
-    "id": "hn-50427934",
-    "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
-    "url": "https://news.ycombinator.com/item?id=50427934",
-    "points": 115,
-    "comments": 42,
+    "id": "hn-50452455",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "points": 49,
+    "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-11-09T16:36:38Z"
+    "published_date": "2026-11-11T12:05:22Z"
   },
   {
-    "id": "hn-50429636",
-    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-    "url": "https://meowdisplay.app/",
-    "points": 111,
-    "comments": 42,
+    "id": "hn-50443838",
+    "title": "Work at the Frontier: AI's effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "points": 40,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:39:22Z"
+    "published_date": "2026-11-10T18:02:54Z"
   },
   {
-    "id": "hn-50429144",
-    "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
-    "url": "https://github.com/Dodaios/ste80-humanizer",
-    "points": 97,
-    "comments": 34,
+    "id": "hn-50441350",
+    "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
+    "url": "https://aircad.com",
+    "points": 38,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:05:44Z"
+    "published_date": "2026-11-10T15:01:19Z"
   },
   {
-    "id": "hn-50437106",
-    "title": "Fireworks AI security breach impacts Notion and their customers",
-    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-    "points": 89,
-    "comments": 28,
+    "id": "hn-50440359",
+    "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+    "url": "https://neuracryption.com/research",
+    "points": 34,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-11-10T07:19:38Z"
+    "published_date": "2026-11-10T13:51:51Z"
   },
   {
-    "id": "hn-50438429",
-    "title": "Meet the Sad Wives of AI",
-    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "points": 63,
-    "comments": 52,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T10:40:51Z"
-  },
-  {
-    "id": "hn-50429947",
-    "title": "Claude Fable 5.2",
-    "url": "https://twitter.com/claudeai/status/2119867114450268322",
-    "points": 33,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-09T18:58:35Z"
-  },
-  {
-    "id": "hn-50429952",
-    "title": "Testing Claude on real-world electronics design",
-    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "id": "hn-50444380",
+    "title": "How do you keep up quality when you vibe-code?",
+    "url": "https://news.ycombinator.com/item?id=50444380",
     "points": 31,
-    "comments": 5,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-11-09T18:58:48Z"
+    "published_date": "2026-11-10T18:41:15Z"
+  },
+  {
+    "id": "hn-50440657",
+    "title": "Wake me up when AI can...",
+    "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+    "points": 28,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-10T14:11:54Z"
+  },
+  {
+    "id": "hn-50447363",
+    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+    "url": "https://arxiv.org/abs/2611.10866",
+    "points": 25,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-11-10T22:44:49Z"
   }
 ]
