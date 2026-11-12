@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50443812",
-    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "points": 392,
-    "comments": 127,
+    "id": "hn-50456631",
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "points": 901,
+    "comments": 250,
     "source": "Hacker News",
-    "published_date": "2026-11-10T18:01:15Z"
+    "published_date": "2026-11-11T18:21:38Z"
   },
   {
-    "id": "hn-50446520",
-    "title": "Apple has new Mac app coming to make running local AI models easy",
-    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "points": 329,
-    "comments": 315,
+    "id": "hn-50458900",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "points": 598,
+    "comments": 620,
     "source": "Hacker News",
-    "published_date": "2026-11-10T21:25:03Z"
+    "published_date": "2026-11-11T21:24:35Z"
   },
   {
-    "id": "hn-50442303",
-    "title": "Gemini 4 Carbon is now available",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-    "points": 287,
-    "comments": 159,
+    "id": "hn-50455394",
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "points": 526,
+    "comments": 255,
     "source": "Hacker News",
-    "published_date": "2026-11-10T16:07:15Z"
+    "published_date": "2026-11-11T16:38:44Z"
   },
   {
-    "id": "hn-50446246",
-    "title": "Six Math Essentials",
-    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "points": 277,
-    "comments": 54,
+    "id": "hn-50456791",
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "points": 488,
+    "comments": 148,
     "source": "Hacker News",
-    "published_date": "2026-11-10T20:58:44Z"
+    "published_date": "2026-11-11T18:32:42Z"
   },
   {
-    "id": "hn-50449748",
-    "title": "Protecting SSH Keys with macOS Secure Enclave",
-    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "points": 271,
-    "comments": 97,
+    "id": "hn-50467087",
+    "title": "NVIDIA Announces CEO Transition",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "points": 297,
+    "comments": 186,
     "source": "Hacker News",
-    "published_date": "2026-11-11T04:28:57Z"
+    "published_date": "2026-11-12T13:52:29Z"
   },
   {
-    "id": "hn-50443716",
-    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "points": 248,
-    "comments": 182,
+    "id": "hn-50459485",
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "points": 295,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-11-10T17:55:07Z"
+    "published_date": "2026-11-11T22:16:41Z"
   },
   {
-    "id": "hn-50443587",
-    "title": "Life on Claude Nine",
-    "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-    "points": 113,
-    "comments": 75,
+    "id": "hn-50454625",
+    "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "points": 268,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-11-10T17:44:44Z"
+    "published_date": "2026-11-11T15:33:06Z"
   },
   {
-    "id": "hn-50450007",
-    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-    "url": "https://github.com/gmkurtzer/ginux",
-    "points": 91,
-    "comments": 46,
+    "id": "hn-50455633",
+    "title": "Faster Retrieval for Better, More Efficient RAG",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "points": 221,
+    "comments": 38,
     "source": "Hacker News",
-    "published_date": "2026-11-11T05:25:54Z"
+    "published_date": "2026-11-11T16:57:45Z"
   },
   {
-    "id": "hn-50448340",
-    "title": "LLMs Play Zachtronics' TIS-100",
-    "url": "https://tis-100.wincon.dev/",
+    "id": "hn-50465352",
+    "title": "Why Writing Correct Software Is Hard",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "points": 168,
+    "comments": 66,
+    "source": "Hacker News",
+    "published_date": "2026-11-12T10:28:26Z"
+  },
+  {
+    "id": "hn-50457164",
+    "title": "Retirement Savings Are Fueling the AI Bubble",
+    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "points": 160,
+    "comments": 175,
+    "source": "Hacker News",
+    "published_date": "2026-11-11T19:06:43Z"
+  },
+  {
+    "id": "hn-50453763",
+    "title": "Pharo in the Browser with WebAssembly",
+    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "points": 130,
+    "comments": 37,
+    "source": "Hacker News",
+    "published_date": "2026-11-11T14:21:27Z"
+  },
+  {
+    "id": "hn-50455332",
+    "title": "AI, activity, and outcomes in software engineering",
+    "url": "https://cabird.com/talks/shipping-faster/",
+    "points": 122,
+    "comments": 109,
+    "source": "Hacker News",
+    "published_date": "2026-11-11T16:33:28Z"
+  },
+  {
+    "id": "hn-50458710",
+    "title": "Play GTA5 on Browser",
+    "url": "https://playgta5.com/",
+    "points": 87,
+    "comments": 63,
+    "source": "Hacker News",
+    "published_date": "2026-11-11T21:10:35Z"
+  },
+  {
+    "id": "hn-50458532",
+    "title": "GitHub Incident with Webhooks, Actions, etc.",
+    "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
     "points": 81,
-    "comments": 18,
+    "comments": 61,
     "source": "Hacker News",
-    "published_date": "2026-11-11T00:37:05Z"
+    "published_date": "2026-11-11T20:54:37Z"
   },
   {
-    "id": "hn-50444850",
-    "title": "Saltline: First-person shooter built by Fable 5.2",
-    "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-    "points": 67,
-    "comments": 75,
+    "id": "hn-50454951",
+    "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+    "url": "https://github.com/klad-app/klad",
+    "points": 80,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-11-10T19:14:38Z"
+    "published_date": "2026-11-11T16:00:50Z"
   },
   {
-    "id": "hn-50448174",
-    "title": "AI is becoming an information gateway. Audiences still don\u2019t want it making news",
-    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-    "points": 55,
-    "comments": 64,
+    "id": "hn-50455811",
+    "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "points": 56,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-11-11T00:15:33Z"
+    "published_date": "2026-11-11T17:11:56Z"
   },
   {
-    "id": "hn-50449891",
-    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "url": "https://github.com/adrbn/bo2-mac",
-    "points": 54,
-    "comments": 17,
+    "id": "hn-50455358",
+    "title": "Reddit Migration's Impact on Lemmy (2023)",
+    "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+    "points": 43,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-11-11T04:56:47Z"
+    "published_date": "2026-11-11T16:35:38Z"
   },
   {
-    "id": "hn-50451102",
-    "title": "OSS projects banning AI-generated contributions",
-    "url": "https://osssaysno.com",
-    "points": 53,
-    "comments": 89,
+    "id": "hn-50456926",
+    "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+    "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+    "points": 32,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-11-11T08:51:45Z"
+    "published_date": "2026-11-11T18:44:23Z"
   },
   {
-    "id": "hn-50452455",
-    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "url": "https://pietromiotti.com/latest/maya-site/?maya",
-    "points": 49,
+    "id": "hn-50464055",
+    "title": "Why Every AI Model Will Ship as a Torrent",
+    "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+    "points": 30,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-11-11T12:05:22Z"
+    "published_date": "2026-11-12T07:20:22Z"
   },
   {
-    "id": "hn-50443838",
-    "title": "Work at the Frontier: AI's effect on freelance work",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "points": 40,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T18:02:54Z"
-  },
-  {
-    "id": "hn-50441350",
-    "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
-    "url": "https://aircad.com",
-    "points": 38,
+    "id": "hn-50455721",
+    "title": "Tech Allies Rally Behind Jensen Huang, Calling Him Vital in AI Race (Gift Link)",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+    "points": 17,
     "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-11-10T15:01:19Z"
-  },
-  {
-    "id": "hn-50440359",
-    "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-    "url": "https://neuracryption.com/research",
-    "points": 34,
-    "comments": 31,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T13:51:51Z"
-  },
-  {
-    "id": "hn-50444380",
-    "title": "How do you keep up quality when you vibe-code?",
-    "url": "https://news.ycombinator.com/item?id=50444380",
-    "points": 31,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T18:41:15Z"
-  },
-  {
-    "id": "hn-50440657",
-    "title": "Wake me up when AI can...",
-    "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
-    "points": 28,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T14:11:54Z"
-  },
-  {
-    "id": "hn-50447363",
-    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-    "url": "https://arxiv.org/abs/2611.10866",
-    "points": 25,
-    "comments": 0,
-    "source": "Hacker News",
-    "published_date": "2026-11-10T22:44:49Z"
+    "published_date": "2026-11-11T17:05:37Z"
   }
 ]

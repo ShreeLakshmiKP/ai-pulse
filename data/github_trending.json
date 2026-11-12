@@ -1,10 +1,41 @@
 [
   {
+    "id": "gh-1450794567",
+    "name": "agentes-chat/agentes-chat",
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "stars": 868,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "chat",
+      "claude",
+      "claude-code",
+      "codex",
+      "collaboration",
+      "computer-use",
+      "docker-compose",
+      "gemini",
+      "grok",
+      "human-in-the-loop",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "self-hosted",
+      "slack-alternative",
+      "team-chat"
+    ],
+    "created_at": "2026-11-09T00:50:28Z"
+  },
+  {
     "id": "gh-1451662178",
     "name": "Dodaios/ste80-humanizer",
     "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
     "url": "https://github.com/Dodaios/ste80-humanizer",
-    "stars": 360,
+    "stars": 439,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -25,36 +56,11 @@
     "created_at": "2026-11-09T17:18:59Z"
   },
   {
-    "id": "gh-1447463948",
-    "name": "yucezerey/turkish-anti-ai-skill",
-    "description": "T\u00fcrk\u00e7e metinlerdeki yapay zeka izlerini (AI slop, translationese, \u00e7eviri kokan c\u00fcmle mimarisi ve TDK hatalar\u0131n\u0131) temizleyen Agent Skill ve Humanizer paketi.",
-    "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
-    "stars": 303,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-skills",
-      "ai-writing",
-      "claude-code",
-      "codex",
-      "cursor-rules",
-      "de-slop",
-      "gemini-cli",
-      "humanizer",
-      "llm",
-      "prompt-engineering",
-      "tdk",
-      "turkish",
-      "turkish-nlp"
-    ],
-    "created_at": "2026-11-05T20:08:28Z"
-  },
-  {
     "id": "gh-1448509349",
     "name": "fanhuayishiy/ai-crew-pass",
     "description": "\u975e\u4eba\u7c7b\u5458\u5de5\uff5c\u4e5d\u4f4d AI \u540c\u4e8b\u7684 3D \u5de5\u724c\u9886\u53d6\u5904\uff0c\u4e2d\u82f1\u6587\u3001\u900f\u660e PNG \u4e0b\u8f7d\u3002\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u98ce\u82b1AI\u5b9e\u9a8c\u5ba4\u3002",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 181,
+    "stars": 185,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -67,26 +73,36 @@
     "created_at": "2026-11-06T16:47:02Z"
   },
   {
-    "id": "gh-1447257149",
-    "name": "joeseesun/xnews",
-    "description": "X News \u2014 overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
-    "url": "https://github.com/joeseesun/xnews",
-    "stars": 115,
-    "language": "HTML",
+    "id": "gh-1452417816",
+    "name": "huawei-csl/MACaQ",
+    "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "stars": 173,
+    "language": "C++",
     "topics": [
-      "ai",
-      "cloudflare-workers",
-      "news",
-      "rss"
+      "ascend",
+      "audio",
+      "audio-generation",
+      "diffusers",
+      "gguf",
+      "gguf-quantization",
+      "image-generation",
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "local-inference",
+      "quantization",
+      "video-generation",
+      "vllm"
     ],
-    "created_at": "2026-11-05T16:42:40Z"
+    "created_at": "2026-11-10T08:52:22Z"
   },
   {
     "id": "gh-1450895435",
     "name": "bookleme/bookleme",
     "description": "\u8bfb\u4e86\u4e48\uff08BookLeme\uff09\u00b7 \u628a\u4e00\u672c\u4e66\u7f16\u8bd1\u6210 Agent Skill \u2014\u2014 \u53cc\u5f15\u64ce + \u53ef\u63d2\u62d4\u4f53\u88c1\u63d2\u4ef6 + \u9010\u5b57\u5fe0\u5b9e\u5ea6\u56de\u9a8c",
     "url": "https://github.com/bookleme/bookleme",
-    "stars": 108,
+    "stars": 148,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -97,6 +113,21 @@
       "prompt-engineering"
     ],
     "created_at": "2026-11-09T03:29:27Z"
+  },
+  {
+    "id": "gh-1449197810",
+    "name": "NamtaoProductions/0rwx.com",
+    "description": null,
+    "url": "https://github.com/NamtaoProductions/0rwx.com",
+    "stars": 103,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "brainmade",
+      "framework",
+      "thinking"
+    ],
+    "created_at": "2026-11-07T09:12:11Z"
   },
   {
     "id": "gh-1450293844",
@@ -123,26 +154,11 @@
     "created_at": "2026-11-08T13:11:10Z"
   },
   {
-    "id": "gh-1449197810",
-    "name": "NamtaoProductions/0rwx.com",
-    "description": null,
-    "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 94,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "brainmade",
-      "framework",
-      "thinking"
-    ],
-    "created_at": "2026-11-07T09:12:11Z"
-  },
-  {
     "id": "gh-1449723446",
     "name": "ensignalp/kota",
     "description": "AI kullan\u0131m limitleri GNOME \u00fcst panelinde \u2014 Claude, Codex, Gemini, Copilot, API bakiyeleri \u00b7 AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 84,
+    "stars": 87,
     "language": "Rust",
     "topics": [
       "ai",
@@ -172,32 +188,44 @@
     "created_at": "2026-11-09T10:41:21Z"
   },
   {
-    "id": "gh-1446940655",
-    "name": "Zenithopal/LooseEnds-resp",
-    "description": "Tying up what The Sims 4 leaves dangling",
-    "url": "https://github.com/Zenithopal/LooseEnds-resp",
-    "stars": 57,
-    "language": "HTML",
+    "id": "gh-1453293167",
+    "name": "Xin-YuXiao/Awesome-AI-for-Astronomy",
+    "description": "A curated list of papers for AI in Astronomy & Astrophysics.",
+    "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
+    "stars": 74,
+    "language": "Python",
     "topics": [
-      "activation-bypass",
-      "bypass-mod",
-      "chatbot",
-      "dlc-activator",
-      "dlc-enabler",
-      "dlc-manager",
-      "dlc-patch",
-      "entitlement-bypass",
-      "expansion-pack",
-      "koboldcpp",
-      "llm",
-      "sims",
-      "sims-4",
-      "sims4",
-      "sims4-mod",
-      "the-sims-4",
-      "ts4"
+      "ai-for-science",
+      "astronomy",
+      "awesome",
+      "awesome-list",
+      "benchmark",
+      "cosmology",
+      "deep-learning",
+      "large-language-models",
+      "machine-learning",
+      "planetary-science"
     ],
-    "created_at": "2026-11-05T11:57:06Z"
+    "created_at": "2026-11-10T23:13:12Z"
+  },
+  {
+    "id": "gh-1453561114",
+    "name": "8hjkkwikl8/ai-portfolio",
+    "description": "\u4e09\u4e2a\u53ef\u8fd0\u884c\u7684 AI \u5de5\u7a0b\u9879\u76ee\uff1a\u53ef\u8ffd\u6eaf RAG\u3001\u63d0\u793a\u8bcd\u8bc4\u6d4b\u4e0e\u53d7\u5b88\u62a4\u7684 NL2SQL \u5206\u6790",
+    "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+    "stars": 70,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "fastapi",
+      "llm",
+      "nl2sql",
+      "portfolio",
+      "prompt-engineering",
+      "rag",
+      "sqlite"
+    ],
+    "created_at": "2026-11-11T05:28:14Z"
   },
   {
     "id": "gh-1448598779",
@@ -235,7 +263,7 @@
     "name": "Abdul-Rehman7826/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/Abdul-Rehman7826/ai-manus",
-    "stars": 53,
+    "stars": 54,
     "language": "Python",
     "topics": [
       "ai",
@@ -293,10 +321,10 @@
     "created_at": "2026-11-06T18:16:34Z"
   },
   {
-    "id": "gh-1448598982",
-    "name": "jfpereirasantos4-arch/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/jfpereirasantos4-arch/ai-manus",
+    "id": "gh-1449097327",
+    "name": "thecoderrrer/manus-ai",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "url": "https://github.com/thecoderrrer/manus-ai",
     "stars": 52,
     "language": "Python",
     "topics": [
@@ -321,37 +349,6 @@
       "typescript-sdk",
       "vue"
     ],
-    "created_at": "2026-11-06T18:17:04Z"
-  },
-  {
-    "id": "gh-1449143107",
-    "name": "EpicGiantite13205/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/EpicGiantite13205/ai--manus",
-    "stars": 52,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
-    ],
-    "created_at": "2026-11-07T07:47:41Z"
+    "created_at": "2026-11-07T06:34:29Z"
   }
 ]
