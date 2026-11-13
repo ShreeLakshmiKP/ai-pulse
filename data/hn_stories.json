@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50456631",
-    "title": "AWS emulator",
-    "url": "https://github.com/aws/aws-emulator",
-    "points": 901,
-    "comments": 250,
-    "source": "Hacker News",
-    "published_date": "2026-11-11T18:21:38Z"
-  },
-  {
-    "id": "hn-50458900",
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "points": 598,
-    "comments": 620,
-    "source": "Hacker News",
-    "published_date": "2026-11-11T21:24:35Z"
-  },
-  {
-    "id": "hn-50455394",
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "points": 526,
-    "comments": 255,
-    "source": "Hacker News",
-    "published_date": "2026-11-11T16:38:44Z"
-  },
-  {
-    "id": "hn-50456791",
-    "title": "Gemini Decisions API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "points": 488,
-    "comments": 148,
-    "source": "Hacker News",
-    "published_date": "2026-11-11T18:32:42Z"
-  },
-  {
     "id": "hn-50467087",
-    "title": "NVIDIA Announces CEO Transition",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "points": 297,
-    "comments": 186,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "points": 3707,
+    "comments": 3234,
     "source": "Hacker News",
     "published_date": "2026-11-12T13:52:29Z"
   },
   {
-    "id": "hn-50459485",
-    "title": "Lock Your GitHub Actions",
-    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "points": 295,
-    "comments": 59,
+    "id": "hn-50471431",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "points": 545,
+    "comments": 339,
     "source": "Hacker News",
-    "published_date": "2026-11-11T22:16:41Z"
+    "published_date": "2026-11-12T18:01:48Z"
   },
   {
-    "id": "hn-50454625",
-    "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
-    "url": "https://github.com/FrigadeHQ/yogurt",
-    "points": 268,
-    "comments": 100,
+    "id": "hn-50472260",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "points": 444,
+    "comments": 132,
     "source": "Hacker News",
-    "published_date": "2026-11-11T15:33:06Z"
+    "published_date": "2026-11-12T18:52:01Z"
   },
   {
-    "id": "hn-50455633",
-    "title": "Faster Retrieval for Better, More Efficient RAG",
-    "url": "https://machinelearning.apple.com/research/faster-retrieval",
-    "points": 221,
-    "comments": 38,
+    "id": "hn-50468888",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "points": 406,
+    "comments": 148,
     "source": "Hacker News",
-    "published_date": "2026-11-11T16:57:45Z"
+    "published_date": "2026-11-12T15:23:10Z"
   },
   {
-    "id": "hn-50465352",
-    "title": "Why Writing Correct Software Is Hard",
-    "url": "https://pron.github.io/posts/correctness-and-complexity",
-    "points": 168,
-    "comments": 66,
+    "id": "hn-50474883",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "points": 317,
+    "comments": 119,
     "source": "Hacker News",
-    "published_date": "2026-11-12T10:28:26Z"
+    "published_date": "2026-11-12T21:56:11Z"
   },
   {
-    "id": "hn-50457164",
-    "title": "Retirement Savings Are Fueling the AI Bubble",
-    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-    "points": 160,
-    "comments": 175,
+    "id": "hn-50469994",
+    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "points": 313,
+    "comments": 246,
     "source": "Hacker News",
-    "published_date": "2026-11-11T19:06:43Z"
+    "published_date": "2026-11-12T16:29:13Z"
   },
   {
-    "id": "hn-50453763",
-    "title": "Pharo in the Browser with WebAssembly",
-    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-    "points": 130,
-    "comments": 37,
+    "id": "hn-50481187",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "points": 306,
+    "comments": 259,
     "source": "Hacker News",
-    "published_date": "2026-11-11T14:21:27Z"
+    "published_date": "2026-11-13T10:18:13Z"
   },
   {
-    "id": "hn-50455332",
-    "title": "AI, activity, and outcomes in software engineering",
-    "url": "https://cabird.com/talks/shipping-faster/",
-    "points": 122,
-    "comments": 109,
+    "id": "hn-50475713",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "points": 287,
+    "comments": 85,
     "source": "Hacker News",
-    "published_date": "2026-11-11T16:33:28Z"
+    "published_date": "2026-11-12T23:06:17Z"
   },
   {
-    "id": "hn-50458710",
-    "title": "Play GTA5 on Browser",
-    "url": "https://playgta5.com/",
-    "points": 87,
-    "comments": 63,
+    "id": "hn-50474311",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "points": 184,
+    "comments": 207,
     "source": "Hacker News",
-    "published_date": "2026-11-11T21:10:35Z"
+    "published_date": "2026-11-12T21:09:49Z"
   },
   {
-    "id": "hn-50458532",
-    "title": "GitHub Incident with Webhooks, Actions, etc.",
-    "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-    "points": 81,
-    "comments": 61,
+    "id": "hn-50481220",
+    "title": "Claude Is Down",
+    "url": "https://status.claude.com/history",
+    "points": 154,
+    "comments": 126,
     "source": "Hacker News",
-    "published_date": "2026-11-11T20:54:37Z"
+    "published_date": "2026-11-13T10:20:09Z"
   },
   {
-    "id": "hn-50454951",
-    "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "url": "https://github.com/klad-app/klad",
-    "points": 80,
-    "comments": 32,
+    "id": "hn-50471650",
+    "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "points": 120,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-11-11T16:00:50Z"
+    "published_date": "2026-11-12T18:15:48Z"
   },
   {
-    "id": "hn-50455811",
-    "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "points": 56,
-    "comments": 45,
+    "id": "hn-50475735",
+    "title": "Why You Should Expect an AI Crash",
+    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "points": 97,
+    "comments": 81,
     "source": "Hacker News",
-    "published_date": "2026-11-11T17:11:56Z"
+    "published_date": "2026-11-12T23:08:31Z"
   },
   {
-    "id": "hn-50455358",
-    "title": "Reddit Migration's Impact on Lemmy (2023)",
-    "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
-    "points": 43,
-    "comments": 37,
+    "id": "hn-50476586",
+    "title": "Chicago schools to Google \u2013 we'd rather lose Search than be forced to accept AI",
+    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+    "points": 82,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-11-11T16:35:38Z"
+    "published_date": "2026-11-13T00:38:41Z"
   },
   {
-    "id": "hn-50456926",
-    "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-    "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-    "points": 32,
-    "comments": 9,
+    "id": "hn-50470445",
+    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+    "points": 76,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-11-11T18:44:23Z"
+    "published_date": "2026-11-12T16:59:26Z"
   },
   {
-    "id": "hn-50464055",
-    "title": "Why Every AI Model Will Ship as a Torrent",
-    "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
-    "points": 30,
+    "id": "hn-50471281",
+    "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+    "url": "https://news.ycombinator.com/item?id=50471281",
+    "points": 51,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-12T17:51:23Z"
+  },
+  {
+    "id": "hn-50470343",
+    "title": "Show HN: Apron Chat Protocol",
+    "url": "https://apron.chat/",
+    "points": 47,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-11-12T16:52:31Z"
+  },
+  {
+    "id": "hn-50472505",
+    "title": "Distributed Ray Tracer",
+    "url": "https://ray.hatchet.run",
+    "points": 45,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-11-12T07:20:22Z"
+    "published_date": "2026-11-12T19:06:23Z"
   },
   {
-    "id": "hn-50455721",
-    "title": "Tech Allies Rally Behind Jensen Huang, Calling Him Vital in AI Race (Gift Link)",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-    "points": 17,
-    "comments": 17,
+    "id": "hn-50467886",
+    "title": "30 years of Internet transfers with curl",
+    "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+    "points": 39,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-11-11T17:05:37Z"
+    "published_date": "2026-11-12T14:31:32Z"
+  },
+  {
+    "id": "hn-50467880",
+    "title": "Show HN: AI Red Lines \u2013 write down what would make you act on AI",
+    "url": "https://yourairedlines.com",
+    "points": 37,
+    "comments": 30,
+    "source": "Hacker News",
+    "published_date": "2026-11-12T14:31:21Z"
+  },
+  {
+    "id": "hn-50480909",
+    "title": "Tell HN: Claude Code Is Down",
+    "url": "https://news.ycombinator.com/item?id=50480909",
+    "points": 35,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-11-13T09:51:59Z"
   }
 ]
