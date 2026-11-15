@@ -1,182 +1,137 @@
 [
   {
-    "id": "hn-50493251",
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "points": 703,
-    "comments": 409,
+    "id": "hn-50501631",
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "points": 428,
+    "comments": 218,
     "source": "Hacker News",
-    "published_date": "2026-11-14T02:52:59Z"
+    "published_date": "2026-11-14T22:26:30Z"
   },
   {
-    "id": "hn-50486748",
-    "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "points": 397,
+    "id": "hn-50502988",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "points": 256,
+    "comments": 96,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T01:18:36Z"
+  },
+  {
+    "id": "hn-50497589",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "points": 246,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-11-14T15:04:15Z"
+  },
+  {
+    "id": "hn-50499083",
+    "title": "US IRS free online tax filing open source repo (2025)",
+    "url": "https://github.com/IRS-Public/direct-file",
+    "points": 167,
     "comments": 101,
     "source": "Hacker News",
-    "published_date": "2026-11-13T17:30:10Z"
+    "published_date": "2026-11-14T17:48:20Z"
   },
   {
-    "id": "hn-50484658",
-    "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-    "points": 334,
-    "comments": 449,
+    "id": "hn-50497132",
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "points": 159,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-11-13T15:08:44Z"
+    "published_date": "2026-11-14T14:05:54Z"
   },
   {
-    "id": "hn-50493062",
-    "title": "Ggml v1.0.0",
-    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-    "points": 302,
-    "comments": 47,
+    "id": "hn-50496921",
+    "title": "The Claude Delusion",
+    "url": "https://www.netmeister.org/blog/claude-delusion.html",
+    "points": 148,
+    "comments": 195,
     "source": "Hacker News",
-    "published_date": "2026-11-14T02:28:29Z"
+    "published_date": "2026-11-14T13:36:17Z"
   },
   {
-    "id": "hn-50490593",
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "url": "https://orcasairband.com/",
-    "points": 274,
-    "comments": 65,
+    "id": "hn-50497155",
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "points": 140,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-11-13T22:04:24Z"
+    "published_date": "2026-11-14T14:09:25Z"
   },
   {
-    "id": "hn-50489652",
-    "title": "All US airports are currently ground stopped",
-    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-    "points": 203,
-    "comments": 40,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T21:06:52Z"
-  },
-  {
-    "id": "hn-50488769",
-    "title": "No AI Slop: A Manifesto",
-    "url": "https://www.slopmanifesto.com/",
-    "points": 202,
-    "comments": 121,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T19:51:56Z"
-  },
-  {
-    "id": "hn-50484960",
-    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "url": "https://text.npr.org/nx-s1-6029408",
-    "points": 188,
-    "comments": 177,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T15:29:10Z"
-  },
-  {
-    "id": "hn-50491097",
-    "title": "Claude Meetings",
-    "url": "https://claude.com/resources/articles/claude-meetings",
+    "id": "hn-50497147",
+    "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+    "url": "https://github.com/paul-nameless/agweb",
     "points": 103,
-    "comments": 78,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-11-13T22:39:15Z"
+    "published_date": "2026-11-14T14:08:12Z"
   },
   {
-    "id": "hn-50492141",
-    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-    "url": "https://claude.com/resources/articles/projects-redesigned",
-    "points": 90,
-    "comments": 85,
+    "id": "hn-50497137",
+    "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "url": "https://github.com/FURSOY/fursoy-cpu",
+    "points": 81,
+    "comments": 26,
     "source": "Hacker News",
-    "published_date": "2026-11-14T00:28:11Z"
+    "published_date": "2026-11-14T14:06:34Z"
   },
   {
-    "id": "hn-50487854",
-    "title": "The avalanche that hit math is coming for AI development",
-    "url": "https://www.dwarkesh.com/p/rsi",
-    "points": 63,
-    "comments": 105,
+    "id": "hn-50503588",
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "points": 66,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-11-13T18:39:42Z"
+    "published_date": "2026-11-15T03:05:54Z"
   },
   {
-    "id": "hn-50487469",
-    "title": "Are we just going to ignore that books are destroyed for AI?",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
-    "points": 56,
-    "comments": 62,
+    "id": "hn-50498051",
+    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+    "points": 59,
+    "comments": 39,
     "source": "Hacker News",
-    "published_date": "2026-11-13T18:14:38Z"
+    "published_date": "2026-11-14T15:58:57Z"
   },
   {
-    "id": "hn-50494696",
-    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-    "url": "https://news.ycombinator.com/item?id=50494696",
+    "id": "hn-50499895",
+    "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "points": 49,
+    "comments": 52,
+    "source": "Hacker News",
+    "published_date": "2026-11-14T19:17:45Z"
+  },
+  {
+    "id": "hn-50499114",
+    "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
     "points": 48,
-    "comments": 40,
+    "comments": 67,
     "source": "Hacker News",
-    "published_date": "2026-11-14T06:56:42Z"
+    "published_date": "2026-11-14T17:51:13Z"
   },
   {
-    "id": "hn-50491617",
-    "title": "Tell HN: Google Search to start locking down search behind a login wall",
-    "url": "https://news.ycombinator.com/item?id=50491617",
-    "points": 34,
-    "comments": 18,
+    "id": "hn-50503241",
+    "title": "What a task costs on Opus 5.5",
+    "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+    "points": 15,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-11-13T23:26:24Z"
+    "published_date": "2026-11-15T01:57:36Z"
   },
   {
-    "id": "hn-50484426",
-    "title": "Ask HN: Can anyone name anything new that AI has done?",
-    "url": "https://news.ycombinator.com/item?id=50484426",
-    "points": 30,
-    "comments": 49,
+    "id": "hn-50501920",
+    "title": "Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+    "url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+    "points": 13,
+    "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-11-13T14:53:56Z"
-  },
-  {
-    "id": "hn-50491295",
-    "title": "Lying to Zed to get its remote server running on FreeBSD",
-    "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
-    "points": 28,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T22:54:47Z"
-  },
-  {
-    "id": "hn-50485318",
-    "title": "MS Office alternative Euro-Office gets Windows, macOS, and Linux desktop app",
-    "url": "https://www.neowin.net/news/microsoft-office-alternative-euro-office-gets-windows-macos-and-linux-desktop-app/",
-    "points": 26,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T15:52:52Z"
-  },
-  {
-    "id": "hn-50492877",
-    "title": "Llama.cpp hits v1.0 with a native app for macOS",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "points": 23,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-11-14T02:05:37Z"
-  },
-  {
-    "id": "hn-50486480",
-    "title": "Gnomon. Git for Postgres data, built for agents",
-    "url": "https://github.com/bitsinfra/gnomon",
-    "points": 22,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T17:09:52Z"
-  },
-  {
-    "id": "hn-50483765",
-    "title": "Llama.cpp v1 Is Out",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "points": 20,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-11-13T14:12:34Z"
+    "published_date": "2026-11-14T22:59:26Z"
   }
 ]
