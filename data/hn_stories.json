@@ -1,137 +1,182 @@
 [
   {
-    "id": "hn-50501631",
-    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-    "points": 428,
-    "comments": 218,
+    "id": "hn-50507303",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "points": 1195,
+    "comments": 637,
     "source": "Hacker News",
-    "published_date": "2026-11-14T22:26:30Z"
+    "published_date": "2026-11-15T14:46:58Z"
   },
   {
-    "id": "hn-50502988",
-    "title": "Court denies motion to dismiss DRAM price fixing case",
-    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "points": 256,
-    "comments": 96,
+    "id": "hn-50513215",
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "points": 677,
+    "comments": 318,
     "source": "Hacker News",
-    "published_date": "2026-11-15T01:18:36Z"
+    "published_date": "2026-11-16T02:14:44Z"
   },
   {
-    "id": "hn-50497589",
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "points": 246,
-    "comments": 23,
+    "id": "hn-50514470",
+    "title": "How to make almost anything",
+    "url": "https://pub.cba.mit.edu/863.26/site/",
+    "points": 489,
+    "comments": 90,
     "source": "Hacker News",
-    "published_date": "2026-11-14T15:04:15Z"
+    "published_date": "2026-11-16T05:50:37Z"
   },
   {
-    "id": "hn-50499083",
-    "title": "US IRS free online tax filing open source repo (2025)",
-    "url": "https://github.com/IRS-Public/direct-file",
-    "points": 167,
-    "comments": 101,
-    "source": "Hacker News",
-    "published_date": "2026-11-14T17:48:20Z"
-  },
-  {
-    "id": "hn-50497132",
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
-    "points": 159,
-    "comments": 39,
-    "source": "Hacker News",
-    "published_date": "2026-11-14T14:05:54Z"
-  },
-  {
-    "id": "hn-50496921",
-    "title": "The Claude Delusion",
-    "url": "https://www.netmeister.org/blog/claude-delusion.html",
-    "points": 148,
-    "comments": 195,
-    "source": "Hacker News",
-    "published_date": "2026-11-14T13:36:17Z"
-  },
-  {
-    "id": "hn-50497155",
-    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-    "points": 140,
+    "id": "hn-50509837",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "points": 401,
     "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-11-14T14:09:25Z"
+    "published_date": "2026-11-15T19:26:22Z"
   },
   {
-    "id": "hn-50497147",
-    "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
-    "url": "https://github.com/paul-nameless/agweb",
+    "id": "hn-50512441",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "points": 186,
+    "comments": 53,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T00:21:54Z"
+  },
+  {
+    "id": "hn-50510042",
+    "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+    "url": "https://news.ycombinator.com/item?id=50510042",
+    "points": 173,
+    "comments": 82,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T19:49:28Z"
+  },
+  {
+    "id": "hn-50513451",
+    "title": "Tell HN: HN is being scraped for emails to scam",
+    "url": "https://news.ycombinator.com/item?id=50513451",
+    "points": 111,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T02:53:30Z"
+  },
+  {
+    "id": "hn-50509416",
+    "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
+    "url": "https://github.com/eclipse-mosquitto/mosquitto",
     "points": 103,
-    "comments": 30,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-11-14T14:08:12Z"
+    "published_date": "2026-11-15T18:36:40Z"
   },
   {
-    "id": "hn-50497137",
-    "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-    "url": "https://github.com/FURSOY/fursoy-cpu",
-    "points": 81,
-    "comments": 26,
+    "id": "hn-50512950",
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "url": "https://www.hntrends.com/2026/november.html",
+    "points": 89,
+    "comments": 76,
     "source": "Hacker News",
-    "published_date": "2026-11-14T14:06:34Z"
+    "published_date": "2026-11-16T01:31:30Z"
   },
   {
-    "id": "hn-50503588",
-    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "id": "hn-50509953",
+    "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+    "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
     "points": 66,
-    "comments": 39,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-11-15T03:05:54Z"
+    "published_date": "2026-11-15T19:39:46Z"
   },
   {
-    "id": "hn-50498051",
-    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-    "points": 59,
-    "comments": 39,
+    "id": "hn-50515182",
+    "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
+    "url": "https://github.com/ages2001/WINUDF",
+    "points": 40,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-11-14T15:58:57Z"
+    "published_date": "2026-11-16T08:00:13Z"
   },
   {
-    "id": "hn-50499895",
-    "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
-    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "points": 49,
-    "comments": 52,
+    "id": "hn-50516301",
+    "title": "I posted in \"Who wants to be hired?\" and a recruiter sent me a RAT and a stealer",
+    "url": "https://getjump.me/posts/03-huntrole-fake-take-home/",
+    "points": 35,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-11-14T19:17:45Z"
+    "published_date": "2026-11-16T11:14:27Z"
   },
   {
-    "id": "hn-50499114",
-    "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-    "points": 48,
-    "comments": 67,
-    "source": "Hacker News",
-    "published_date": "2026-11-14T17:51:13Z"
-  },
-  {
-    "id": "hn-50503241",
-    "title": "What a task costs on Opus 5.5",
-    "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
-    "points": 15,
+    "id": "hn-50513876",
+    "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+    "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+    "points": 29,
     "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-11-15T01:57:36Z"
+    "published_date": "2026-11-16T04:03:51Z"
   },
   {
-    "id": "hn-50501920",
-    "title": "Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
-    "url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
-    "points": 13,
+    "id": "hn-50513713",
+    "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+    "points": 17,
+    "comments": 14,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T03:34:55Z"
+  },
+  {
+    "id": "hn-50511238",
+    "title": "Show HN: Rbit \u2013 Self Hosted Git Forge in Rust",
+    "url": "https://rbit.sh/",
+    "points": 17,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T21:54:20Z"
+  },
+  {
+    "id": "hn-50512933",
+    "title": "Agentic AI Designs an Analog Synthesizer",
+    "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+    "points": 14,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T01:28:10Z"
+  },
+  {
+    "id": "hn-50512047",
+    "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+    "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+    "points": 14,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T23:33:53Z"
+  },
+  {
+    "id": "hn-50511505",
+    "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
+    "url": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
+    "points": 14,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T22:26:33Z"
+  },
+  {
+    "id": "hn-50511722",
+    "title": "Samsung, SK Hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
+    "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
+    "points": 12,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-11-14T22:59:26Z"
+    "published_date": "2026-11-15T22:49:17Z"
+  },
+  {
+    "id": "hn-50511648",
+    "title": "Magic: The Gathering is getting a Netflix series",
+    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "points": 12,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-15T22:42:09Z"
   }
 ]
