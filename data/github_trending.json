@@ -1,41 +1,27 @@
 [
   {
-    "id": "gh-1455416555",
-    "name": "hitkeeen/blender-ai-mcp-addon",
-    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-    "stars": 1941,
-    "language": null,
+    "id": "gh-1460417668",
+    "name": "sybil-solutions/inference-optimisation-skill",
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "stars": 658,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "blender",
-      "blender-addon",
-      "blender-ai",
-      "blender-automation",
-      "blender-mcp",
-      "blender-plugin",
-      "blender-scripting",
-      "bpy",
-      "chatgpt",
-      "claude",
-      "gemini",
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
       "llm",
-      "mcp",
-      "mcp-for-blender",
-      "mcp-server",
-      "model-context-protocol",
-      "ollama",
-      "opencode"
+      "speculative-decoding"
     ],
-    "created_at": "2026-11-12T14:32:15Z"
+    "created_at": "2026-11-16T18:40:04Z"
   },
   {
     "id": "gh-1459020341",
     "name": "YellowLaborerMarket/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-    "stars": 474,
+    "stars": 475,
     "language": "Makefile",
     "topics": [
       "ai",
@@ -57,6 +43,34 @@
       "typescript"
     ],
     "created_at": "2026-11-15T16:48:18Z"
+  },
+  {
+    "id": "gh-1459018153",
+    "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+    "stars": 473,
+    "language": "Makefile",
+    "topics": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "gemeni",
+      "gemeni-checker",
+      "generative-ai",
+      "lim-seo",
+      "llm",
+      "mcp-server",
+      "nextjs",
+      "open-code",
+      "seo-checker",
+      "seo-tool",
+      "typescript"
+    ],
+    "created_at": "2026-11-15T16:46:04Z"
   },
   {
     "id": "gh-1459019360",
@@ -87,12 +101,12 @@
     "created_at": "2026-11-15T16:47:17Z"
   },
   {
-    "id": "gh-1459018153",
-    "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+    "id": "gh-1459018150",
+    "name": "Violetnyudress/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
     "stars": 473,
-    "language": "Makefile",
+    "language": "Go",
     "topics": [
       "ai",
       "ai-search",
@@ -143,12 +157,12 @@
     "created_at": "2026-11-15T16:47:11Z"
   },
   {
-    "id": "gh-1459018150",
-    "name": "Violetnyudress/Gemini-Config-Checker-",
+    "id": "gh-1459019359",
+    "name": "WinnerSpecialist/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
     "stars": 473,
-    "language": "Go",
+    "language": "Makefile",
     "topics": [
       "ai",
       "ai-search",
@@ -168,7 +182,7 @@
       "seo-tool",
       "typescript"
     ],
-    "created_at": "2026-11-15T16:46:04Z"
+    "created_at": "2026-11-15T16:47:17Z"
   },
   {
     "id": "gh-1459020291",
@@ -199,34 +213,6 @@
     "created_at": "2026-11-15T16:48:15Z"
   },
   {
-    "id": "gh-1459019359",
-    "name": "WinnerSpecialist/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:47:17Z"
-  },
-  {
     "id": "gh-1459019357",
     "name": "WindGatorRise37/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
@@ -255,32 +241,39 @@
     "created_at": "2026-11-15T16:47:17Z"
   },
   {
-    "id": "gh-1453293167",
-    "name": "Xin-YuXiao/Awesome-AI-for-Astronomy",
-    "description": "A curated list of papers for AI in Astronomy & Astrophysics.",
-    "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
-    "stars": 272,
-    "language": "Python",
+    "id": "gh-1459018157",
+    "name": "TrooperFilter/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+    "stars": 473,
+    "language": "Makefile",
     "topics": [
-      "ai-for-science",
-      "astronomy",
-      "awesome",
-      "awesome-list",
-      "benchmark",
-      "cosmology",
-      "deep-learning",
-      "large-language-models",
-      "machine-learning",
-      "planetary-science"
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "gemeni",
+      "gemeni-checker",
+      "generative-ai",
+      "lim-seo",
+      "llm",
+      "mcp-server",
+      "nextjs",
+      "open-code",
+      "seo-checker",
+      "seo-tool",
+      "typescript"
     ],
-    "created_at": "2026-11-10T23:13:12Z"
+    "created_at": "2026-11-15T16:46:04Z"
   },
   {
     "id": "gh-1457897892",
     "name": "Danuzco/bayesian-modelling-notes",
     "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
     "url": "https://github.com/Danuzco/bayesian-modelling-notes",
-    "stars": 49,
+    "stars": 53,
     "language": "Jupyter Notebook",
     "topics": [
       "bayesian-inference",
@@ -324,30 +317,6 @@
     "created_at": "2026-11-14T16:42:18Z"
   },
   {
-    "id": "gh-1453043890",
-    "name": "pjmbatman/ml4sci",
-    "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters \u00b7 English \u00b7 \ud55c\uad6d\uc5b4",
-    "url": "https://github.com/pjmbatman/ml4sci",
-    "stars": 18,
-    "language": null,
-    "topics": [
-      "ai-for-science",
-      "data-science",
-      "deep-learning",
-      "education",
-      "interactive-learning",
-      "machine-learning",
-      "online-course",
-      "physics-informed-machine-learning",
-      "pyodide",
-      "python",
-      "research",
-      "scientific-machine-learning",
-      "textbook"
-    ],
-    "created_at": "2026-11-10T18:31:24Z"
-  },
-  {
     "id": "gh-1455265196",
     "name": "Hamzaviour/ZehenSync",
     "description": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses \u2014 a licensed psychologist makes every call.",
@@ -364,5 +333,54 @@
       "screening"
     ],
     "created_at": "2026-11-12T12:22:46Z"
+  },
+  {
+    "id": "gh-1461222442",
+    "name": "di37/animated-machine-learning-algorithm",
+    "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
+    "url": "https://github.com/di37/animated-machine-learning-algorithm",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "animation",
+      "california-housing",
+      "classification",
+      "data-visualization",
+      "decision-trees",
+      "education",
+      "explainable-ai",
+      "gradient-boosting",
+      "interpretability",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "manim",
+      "matplotlib",
+      "neural-networks",
+      "python",
+      "random-forest",
+      "regression",
+      "scikit-learn",
+      "titanic",
+      "xai"
+    ],
+    "created_at": "2026-11-17T10:01:32Z"
+  },
+  {
+    "id": "gh-1453806592",
+    "name": "DavidTorro/gdg-uam-ml-contest-2026",
+    "description": "1D CNN for 8-class multichannel time-series classification, optimized for CPU inference with ONNX Runtime and Numba.",
+    "url": "https://github.com/DavidTorro/gdg-uam-ml-contest-2026",
+    "stars": 7,
+    "language": "Python",
+    "topics": [
+      "cpu-inference",
+      "deep-learning",
+      "machine-learning",
+      "numba",
+      "onnxruntime",
+      "python",
+      "time-series-classification"
+    ],
+    "created_at": "2026-11-11T10:01:48Z"
   }
 ]

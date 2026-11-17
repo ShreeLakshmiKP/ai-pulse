@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50507303",
-    "title": "All AI-generated code should be Open Source",
-    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "points": 1195,
-    "comments": 637,
+    "id": "hn-50524767",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "points": 504,
+    "comments": 202,
     "source": "Hacker News",
-    "published_date": "2026-11-15T14:46:58Z"
+    "published_date": "2026-11-16T23:00:34Z"
   },
   {
-    "id": "hn-50513215",
-    "title": "Qwen4-Max",
-    "url": "https://qwen.ai/blog?id=qwen4-max",
-    "points": 677,
-    "comments": 318,
+    "id": "hn-50524165",
+    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "points": 245,
+    "comments": 125,
     "source": "Hacker News",
-    "published_date": "2026-11-16T02:14:44Z"
+    "published_date": "2026-11-16T22:14:38Z"
   },
   {
-    "id": "hn-50514470",
-    "title": "How to make almost anything",
-    "url": "https://pub.cba.mit.edu/863.26/site/",
-    "points": 489,
-    "comments": 90,
+    "id": "hn-50529612",
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "points": 106,
+    "comments": 112,
     "source": "Hacker News",
-    "published_date": "2026-11-16T05:50:37Z"
+    "published_date": "2026-11-17T10:20:40Z"
   },
   {
-    "id": "hn-50509837",
-    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-    "url": "https://bruceroettgers.eu/blog/protomaps/",
-    "points": 401,
-    "comments": 68,
+    "id": "hn-50530114",
+    "title": "My Empire of Dirt",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+    "points": 95,
+    "comments": 106,
     "source": "Hacker News",
-    "published_date": "2026-11-15T19:26:22Z"
+    "published_date": "2026-11-17T11:39:20Z"
   },
   {
-    "id": "hn-50512441",
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "points": 186,
-    "comments": 53,
+    "id": "hn-50520076",
+    "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+    "url": "https://news.ycombinator.com/item?id=50520076",
+    "points": 75,
+    "comments": 98,
     "source": "Hacker News",
-    "published_date": "2026-11-16T00:21:54Z"
+    "published_date": "2026-11-16T17:20:28Z"
   },
   {
-    "id": "hn-50510042",
-    "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-    "url": "https://news.ycombinator.com/item?id=50510042",
-    "points": 173,
-    "comments": 82,
+    "id": "hn-50526537",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "points": 74,
+    "comments": 112,
     "source": "Hacker News",
-    "published_date": "2026-11-15T19:49:28Z"
+    "published_date": "2026-11-17T02:13:41Z"
   },
   {
-    "id": "hn-50513451",
-    "title": "Tell HN: HN is being scraped for emails to scam",
-    "url": "https://news.ycombinator.com/item?id=50513451",
-    "points": 111,
-    "comments": 40,
+    "id": "hn-50525052",
+    "title": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
+    "url": "https://github.com/0nelight/sutra-os",
+    "points": 63,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-11-16T02:53:30Z"
+    "published_date": "2026-11-16T23:25:41Z"
   },
   {
-    "id": "hn-50509416",
-    "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-    "url": "https://github.com/eclipse-mosquitto/mosquitto",
-    "points": 103,
-    "comments": 40,
+    "id": "hn-50522776",
+    "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "points": 51,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-11-15T18:36:40Z"
+    "published_date": "2026-11-16T20:29:48Z"
   },
   {
-    "id": "hn-50512950",
-    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-    "url": "https://www.hntrends.com/2026/november.html",
-    "points": 89,
-    "comments": 76,
+    "id": "hn-50526264",
+    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "points": 50,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-11-16T01:31:30Z"
+    "published_date": "2026-11-17T01:35:16Z"
   },
   {
-    "id": "hn-50509953",
-    "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-    "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-    "points": 66,
-    "comments": 65,
+    "id": "hn-50523022",
+    "title": "Caltech professor no longer grades homework's because everyone uses AI",
+    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+    "points": 48,
+    "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-11-15T19:39:46Z"
+    "published_date": "2026-11-16T20:47:53Z"
   },
   {
-    "id": "hn-50515182",
-    "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
-    "url": "https://github.com/ages2001/WINUDF",
-    "points": 40,
+    "id": "hn-50524260",
+    "title": "United Airlines has a widespread system outage",
+    "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+    "points": 48,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T22:22:18Z"
+  },
+  {
+    "id": "hn-50520796",
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "points": 47,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T18:12:21Z"
+  },
+  {
+    "id": "hn-50520741",
+    "title": "Show HN: Fakemetrics.com \u2013 \"build in public\" like a superstar",
+    "url": "https://fakemetrics.com/",
+    "points": 47,
+    "comments": 21,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T18:08:04Z"
+  },
+  {
+    "id": "hn-50531751",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "points": 45,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-11-17T14:19:59Z"
+  },
+  {
+    "id": "hn-50519043",
+    "title": "Generative AI Usage in the Games Industry",
+    "url": "https://www.gameworkers.co.uk/ai-manifesto/",
+    "points": 43,
+    "comments": 96,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T15:59:48Z"
+  },
+  {
+    "id": "hn-50523377",
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "url": "https://github.com/aryamandarda/tamserve",
+    "points": 33,
+    "comments": 2,
+    "source": "Hacker News",
+    "published_date": "2026-11-16T21:14:39Z"
+  },
+  {
+    "id": "hn-50521575",
+    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+    "points": 30,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-11-16T08:00:13Z"
+    "published_date": "2026-11-16T19:09:05Z"
   },
   {
-    "id": "hn-50516301",
-    "title": "I posted in \"Who wants to be hired?\" and a recruiter sent me a RAT and a stealer",
-    "url": "https://getjump.me/posts/03-huntrole-fake-take-home/",
-    "points": 35,
-    "comments": 24,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T11:14:27Z"
-  },
-  {
-    "id": "hn-50513876",
-    "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-    "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-    "points": 29,
-    "comments": 9,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T04:03:51Z"
-  },
-  {
-    "id": "hn-50513713",
-    "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
-    "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-    "points": 17,
+    "id": "hn-50526584",
+    "title": "Tokendoctor \u2013 See what your Claude Code use overpays",
+    "url": "https://github.com/localixai/tokendoctor",
+    "points": 28,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-11-16T03:34:55Z"
+    "published_date": "2026-11-17T02:19:50Z"
   },
   {
-    "id": "hn-50511238",
-    "title": "Show HN: Rbit \u2013 Self Hosted Git Forge in Rust",
-    "url": "https://rbit.sh/",
-    "points": 17,
-    "comments": 5,
+    "id": "hn-50523346",
+    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+    "points": 27,
+    "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-11-15T21:54:20Z"
+    "published_date": "2026-11-16T21:12:02Z"
   },
   {
-    "id": "hn-50512933",
-    "title": "Agentic AI Designs an Analog Synthesizer",
-    "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
-    "points": 14,
-    "comments": 3,
+    "id": "hn-50523037",
+    "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+    "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+    "points": 25,
+    "comments": 9,
     "source": "Hacker News",
-    "published_date": "2026-11-16T01:28:10Z"
-  },
-  {
-    "id": "hn-50512047",
-    "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-    "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-    "points": 14,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-11-15T23:33:53Z"
-  },
-  {
-    "id": "hn-50511505",
-    "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-    "url": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
-    "points": 14,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-11-15T22:26:33Z"
-  },
-  {
-    "id": "hn-50511722",
-    "title": "Samsung, SK Hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
-    "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
-    "points": 12,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-11-15T22:49:17Z"
-  },
-  {
-    "id": "hn-50511648",
-    "title": "Magic: The Gathering is getting a Netflix series",
-    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-    "points": 12,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-11-15T22:42:09Z"
+    "published_date": "2026-11-16T20:48:53Z"
   }
 ]
