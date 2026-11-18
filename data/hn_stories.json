@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50524767",
-    "title": "Optimizely compromised, served malware on Zoom, GitLab",
-    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "points": 504,
-    "comments": 202,
+    "id": "hn-50535230",
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "points": 1318,
+    "comments": 820,
     "source": "Hacker News",
-    "published_date": "2026-11-16T23:00:34Z"
+    "published_date": "2026-11-17T17:46:43Z"
   },
   {
-    "id": "hn-50524165",
-    "title": "United Airlines experiencing a widespread system outage, airline says",
-    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-    "points": 245,
-    "comments": 125,
+    "id": "hn-50542705",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "points": 588,
+    "comments": 564,
     "source": "Hacker News",
-    "published_date": "2026-11-16T22:14:38Z"
+    "published_date": "2026-11-18T06:47:26Z"
   },
   {
-    "id": "hn-50529612",
-    "title": "How the Claude Code team thinks about verification",
-    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-    "points": 106,
-    "comments": 112,
+    "id": "hn-50540178",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "points": 576,
+    "comments": 432,
     "source": "Hacker News",
-    "published_date": "2026-11-17T10:20:40Z"
+    "published_date": "2026-11-18T00:17:58Z"
   },
   {
-    "id": "hn-50530114",
-    "title": "My Empire of Dirt",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
-    "points": 95,
-    "comments": 106,
+    "id": "hn-50535885",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "points": 390,
+    "comments": 156,
     "source": "Hacker News",
-    "published_date": "2026-11-17T11:39:20Z"
+    "published_date": "2026-11-17T18:25:13Z"
   },
   {
-    "id": "hn-50520076",
-    "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-    "url": "https://news.ycombinator.com/item?id=50520076",
-    "points": 75,
-    "comments": 98,
+    "id": "hn-50539610",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "points": 389,
+    "comments": 80,
     "source": "Hacker News",
-    "published_date": "2026-11-16T17:20:28Z"
+    "published_date": "2026-11-17T23:18:49Z"
   },
   {
-    "id": "hn-50526537",
-    "title": "Mem Is Shutting Down",
-    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-    "points": 74,
-    "comments": 112,
+    "id": "hn-50537156",
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "points": 351,
+    "comments": 181,
     "source": "Hacker News",
-    "published_date": "2026-11-17T02:13:41Z"
+    "published_date": "2026-11-17T19:50:40Z"
   },
   {
-    "id": "hn-50525052",
-    "title": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
-    "url": "https://github.com/0nelight/sutra-os",
-    "points": 63,
-    "comments": 31,
+    "id": "hn-50538303",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "points": 253,
+    "comments": 344,
     "source": "Hacker News",
-    "published_date": "2026-11-16T23:25:41Z"
+    "published_date": "2026-11-17T21:16:12Z"
   },
   {
-    "id": "hn-50522776",
-    "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
-    "url": "https://news.ycombinator.com/item?id=50522776",
-    "points": 51,
-    "comments": 25,
+    "id": "hn-50541790",
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "points": 196,
+    "comments": 97,
     "source": "Hacker News",
-    "published_date": "2026-11-16T20:29:48Z"
+    "published_date": "2026-11-18T04:14:04Z"
   },
   {
-    "id": "hn-50526264",
-    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-    "points": 50,
-    "comments": 19,
+    "id": "hn-50535740",
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "points": 168,
+    "comments": 72,
     "source": "Hacker News",
-    "published_date": "2026-11-17T01:35:16Z"
+    "published_date": "2026-11-17T18:16:18Z"
   },
   {
-    "id": "hn-50523022",
-    "title": "Caltech professor no longer grades homework's because everyone uses AI",
-    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-    "points": 48,
+    "id": "hn-50541619",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "points": 111,
+    "comments": 49,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T03:47:43Z"
+  },
+  {
+    "id": "hn-50540836",
+    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+    "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+    "points": 88,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T01:45:11Z"
+  },
+  {
+    "id": "hn-50536468",
+    "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+    "url": "https://news.ycombinator.com/item?id=50536468",
+    "points": 84,
+    "comments": 40,
+    "source": "Hacker News",
+    "published_date": "2026-11-17T19:01:43Z"
+  },
+  {
+    "id": "hn-50533270",
+    "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+    "url": "https://github.com/RunanywhereAI/trnrt",
+    "points": 52,
+    "comments": 7,
+    "source": "Hacker News",
+    "published_date": "2026-11-17T16:01:04Z"
+  },
+  {
+    "id": "hn-50545232",
+    "title": "GTA 6 Review: It Is a Masterpiece",
+    "url": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
+    "points": 42,
     "comments": 59,
     "source": "Hacker News",
-    "published_date": "2026-11-16T20:47:53Z"
+    "published_date": "2026-11-18T11:59:57Z"
   },
   {
-    "id": "hn-50524260",
-    "title": "United Airlines has a widespread system outage",
-    "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
-    "points": 48,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T22:22:18Z"
-  },
-  {
-    "id": "hn-50520796",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "points": 47,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T18:12:21Z"
-  },
-  {
-    "id": "hn-50520741",
-    "title": "Show HN: Fakemetrics.com \u2013 \"build in public\" like a superstar",
-    "url": "https://fakemetrics.com/",
-    "points": 47,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T18:08:04Z"
-  },
-  {
-    "id": "hn-50531751",
-    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-    "points": 45,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-11-17T14:19:59Z"
-  },
-  {
-    "id": "hn-50519043",
-    "title": "Generative AI Usage in the Games Industry",
-    "url": "https://www.gameworkers.co.uk/ai-manifesto/",
-    "points": 43,
-    "comments": 96,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T15:59:48Z"
-  },
-  {
-    "id": "hn-50523377",
-    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-    "url": "https://github.com/aryamandarda/tamserve",
-    "points": 33,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T21:14:39Z"
-  },
-  {
-    "id": "hn-50521575",
-    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-    "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-    "points": 30,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-11-16T19:09:05Z"
-  },
-  {
-    "id": "hn-50526584",
-    "title": "Tokendoctor \u2013 See what your Claude Code use overpays",
-    "url": "https://github.com/localixai/tokendoctor",
-    "points": 28,
+    "id": "hn-50536438",
+    "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
+    "url": "https://twitter.com/arcprize/status/2122751233442156678",
+    "points": 38,
     "comments": 14,
     "source": "Hacker News",
-    "published_date": "2026-11-17T02:19:50Z"
+    "published_date": "2026-11-17T18:59:43Z"
   },
   {
-    "id": "hn-50523346",
-    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
-    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
-    "points": 27,
-    "comments": 14,
+    "id": "hn-50546312",
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+    "points": 36,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-11-16T21:12:02Z"
+    "published_date": "2026-11-18T13:51:03Z"
   },
   {
-    "id": "hn-50523037",
-    "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
-    "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+    "id": "hn-50536410",
+    "title": "I hate GPT-6.2 Astra",
+    "url": "https://twitter.com/theo/status/2122760447103484410",
     "points": 25,
-    "comments": 9,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-11-16T20:48:53Z"
+    "published_date": "2026-11-17T18:57:57Z"
+  },
+  {
+    "id": "hn-50538449",
+    "title": "Ask HN: Aren't the current cyber attacks suspicious?",
+    "url": "https://news.ycombinator.com/item?id=50538449",
+    "points": 17,
+    "comments": 16,
+    "source": "Hacker News",
+    "published_date": "2026-11-17T21:28:57Z"
+  },
+  {
+    "id": "hn-50540770",
+    "title": "Calgary high school says too many students are getting food delivered",
+    "url": "https://www.cbc.ca/news/canada/calgary/st-francis-high-school-calgary-food-delivery-app-9.7425320",
+    "points": 15,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T01:36:58Z"
+  },
+  {
+    "id": "hn-50541325",
+    "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
+    "url": "https://greyswansignals.com",
+    "points": 11,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T03:03:16Z"
   }
 ]

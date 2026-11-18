@@ -2821,6 +2821,144 @@
     "image": null
   },
   {
+    "id": "rss-f0514b9d",
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "tags": [
+      "startups"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 18 Nov 2026 13:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5b7aff40",
+    "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014keep financing neoclouds",
+    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-10e24888",
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "tags": [
+      "agents",
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 12:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-11fb9fc0",
+    "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+    "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "tags": [
+      "robotics",
+      "startups"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 18 Nov 2026 11:30:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-cea875c8",
+    "title": "This smell startup says its AI nose is as good as a human\u2019s",
+    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "tags": [
+      "startups"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 10:20:30 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0b08a5d2",
+    "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future deals in doubt",
+    "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "tags": [
+      "startups",
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 01:44:21 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-1bbe22da",
+    "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 00:16:50 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-a2f695ac",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-f21a02eb",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-402e28f8",
     "title": "Meta is having trouble with rogue AI agents",
     "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
@@ -4213,134 +4351,6 @@
     "tags": [],
     "category": "AI Startups",
     "published_date": "Wed, 11 Nov 2026 23:50:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-bf9a8df5",
-    "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "tags": [
-      "NVIDIA"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 11 Nov 2026 23:28:45 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-514b502d",
-    "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "tags": [
-      "agents",
-      "NVIDIA"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 11 Nov 2026 23:17:05 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-3586fd5c",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "tags": [
-      "Gemini",
-      "multimodal"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 11 Nov 2026 18:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-4e20a5f0",
-    "title": "What to know about this year\u2019s UN climate talks",
-    "summary": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 11 Nov 2026 17:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-d3a6593e",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 11 Nov 2026 16:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b0558878",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 11 Nov 2026 15:00:15 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-63c379e6",
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 11 Nov 2026 13:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-651a0fcc",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Google AI Blog",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "tags": [],
-    "category": "AI Models",
-    "published_date": "Wed, 11 Nov 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-55a31f64",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 11 Nov 2026 08:00:00 GMT",
     "image": null
   }
 ]
