@@ -4,7 +4,7 @@
     "name": "sybil-solutions/inference-optimisation-skill",
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
     "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "stars": 1033,
+    "stars": 1202,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -21,7 +21,7 @@
     "name": "YellowLaborerMarket/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-    "stars": 475,
+    "stars": 474,
     "language": "Makefile",
     "topics": [
       "ai",
@@ -43,62 +43,6 @@
       "typescript"
     ],
     "created_at": "2026-11-15T16:48:18Z"
-  },
-  {
-    "id": "gh-1459018153",
-    "name": "TypeTyrantScheme/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:46:04Z"
-  },
-  {
-    "id": "gh-1459019360",
-    "name": "WingDataVacuum/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:47:17Z"
   },
   {
     "id": "gh-1459019243",
@@ -129,11 +73,67 @@
     "created_at": "2026-11-15T16:47:11Z"
   },
   {
+    "id": "gh-1459019360",
+    "name": "WingDataVacuum/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "topics": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "gemeni",
+      "gemeni-checker",
+      "generative-ai",
+      "lim-seo",
+      "llm",
+      "mcp-server",
+      "nextjs",
+      "open-code",
+      "seo-checker",
+      "seo-tool",
+      "typescript"
+    ],
+    "created_at": "2026-11-15T16:47:17Z"
+  },
+  {
+    "id": "gh-1459018153",
+    "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "topics": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "gemeni",
+      "gemeni-checker",
+      "generative-ai",
+      "lim-seo",
+      "llm",
+      "mcp-server",
+      "nextjs",
+      "open-code",
+      "seo-checker",
+      "seo-tool",
+      "typescript"
+    ],
+    "created_at": "2026-11-15T16:46:04Z"
+  },
+  {
     "id": "gh-1459018150",
     "name": "Violetnyudress/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Go",
     "topics": [
       "ai",
@@ -161,7 +161,7 @@
     "name": "VortexHostFeel/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
     "topics": [
       "ai",
@@ -185,39 +185,11 @@
     "created_at": "2026-11-15T16:46:07Z"
   },
   {
-    "id": "gh-1459020334",
-    "name": "WyrmClimberManacle/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:48:18Z"
-  },
-  {
     "id": "gh-1459019357",
     "name": "WindGatorRise37/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
     "topics": [
       "ai",
@@ -245,7 +217,7 @@
     "name": "WireProvostPucker/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
     "topics": [
       "ai",
@@ -321,7 +293,7 @@
     "name": "di37/animated-machine-learning-algorithm",
     "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
     "url": "https://github.com/di37/animated-machine-learning-algorithm",
-    "stars": 19,
+    "stars": 20,
     "language": "Python",
     "topics": [
       "animation",
@@ -348,24 +320,6 @@
     "created_at": "2026-11-17T10:01:32Z"
   },
   {
-    "id": "gh-1455265196",
-    "name": "Hamzaviour/ZehenSync",
-    "description": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses \u2014 a licensed psychologist makes every call.",
-    "url": "https://github.com/Hamzaviour/ZehenSync",
-    "stars": 15,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "final-year-project",
-      "healthcare",
-      "machine-learning",
-      "mental-health",
-      "multimodal",
-      "screening"
-    ],
-    "created_at": "2026-11-12T12:22:46Z"
-  },
-  {
     "id": "gh-1459309653",
     "name": "Junaid-Bashir/solarcast-belgium",
     "description": "Python toolkit for benchmarking energy forecasting models, starting with Belgian day-ahead solar PV.",
@@ -384,5 +338,22 @@
       "time-series-foundation-models"
     ],
     "created_at": "2026-11-15T22:42:38Z"
+  },
+  {
+    "id": "gh-1457905777",
+    "name": "kaluarachchiteshan/agromaster-ml",
+    "description": "Seven-day-ahead price-decline risk classification",
+    "url": "https://github.com/kaluarachchiteshan/agromaster-ml",
+    "stars": 5,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agriculture",
+      "classification",
+      "machine-learning",
+      "scikit-learn",
+      "time-series",
+      "xgboost"
+    ],
+    "created_at": "2026-11-14T15:47:36Z"
   }
 ]

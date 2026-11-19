@@ -2821,6 +2821,144 @@
     "image": null
   },
   {
+    "id": "rss-5d67ac67",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 23:45:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-576b29b1",
+    "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+    "summary": "\u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 23:25:17 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-5ac4e453",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 23:17:28 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-88e5a492",
+    "title": "Introducing Gemini 4 Neon",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-2d3bb8f1",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 18 Nov 2026 19:54:56 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-5095af2e",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 18 Nov 2026 18:53:43 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-5d2eb708",
+    "title": "Genie 4 is now available",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d44535ff",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "tags": [
+      "Gemini"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-f99b49e5",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "tags": [],
+    "category": "AI Startups",
+    "published_date": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-1294e01b",
+    "title": "The AI Hype Index: AI is everywhere",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone\u2019s rooms.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "tags": [
+      "robotics"
+    ],
+    "category": "Robotics",
+    "published_date": "Wed, 18 Nov 2026 14:42:44 +0000",
+    "image": null
+  },
+  {
     "id": "rss-f0514b9d",
     "title": "The Download: AI learns to smell and hydropower struggles",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
@@ -2898,6 +3036,82 @@
     "image": null
   },
   {
+    "id": "rss-4739d251",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "tags": [
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-32f46a40",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "tags": [
+      "agents",
+      "OpenAI"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-c4029f8d",
+    "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "tags": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-271c8d9c",
+    "title": "Inside the Codex sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "tags": [],
+    "category": "AI Models",
+    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-62857bef",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "tags": [
+      "alignment",
+      "OpenAI"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 18 Nov 2026 06:00:00 GMT",
+    "image": null
+  },
+  {
     "id": "rss-0b08a5d2",
     "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future deals in doubt",
     "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
@@ -2954,6 +3168,22 @@
     "source": "Hugging Face Blog",
     "url": "https://huggingface.co/blog/rumble-2-flash",
     "tags": [],
+    "category": "AI Tools",
+    "published_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-2a8e5c49",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "tags": [
+      "transformers",
+      "inference"
+    ],
     "category": "AI Tools",
     "published_date": "Wed, 18 Nov 2026 00:00:00 GMT",
     "image": null
@@ -4120,237 +4350,6 @@
     ],
     "category": "AI Startups",
     "published_date": "Wed, 13 May 2026 00:26:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7e8d14b0",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Tools",
-    "published_date": "Wed, 13 May 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-79ba0d5b",
-    "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 12 Aug 2026 22:26:37 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0e1a9761",
-    "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
-    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 12 Aug 2026 20:10:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-0b5cc6d9",
-    "title": "Scientists just created female clones of male mice",
-    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; \u201cNo one has done this before,\u201d says Monika Ward, a reproductive biologist...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 12 Aug 2026 18:59:48 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-fedb51cc",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 12 Aug 2026 18:19:12 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b77f0ff8",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "summary": "At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "tags": [
-      "regulation",
-      "safety"
-    ],
-    "category": "AI Policy",
-    "published_date": "Wed, 12 Aug 2026 17:51:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2fd40c91",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "tags": [
-      "funding",
-      "OpenAI"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 12 Aug 2026 17:41:29 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-afc23a12",
-    "title": "Scaling AI agents with trustworthy data",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Wed, 12 Aug 2026 16:51:57 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1110b810",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 12 Aug 2026 16:14:36 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-618d4dfa",
-    "title": "Putting sign language AI into users\u2019 hands",
-    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 12 Aug 2026 14:01:59 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-9fea4b35",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "summary": "",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "tags": [],
-    "category": "AI Tools",
-    "published_date": "Wed, 12 Aug 2026 14:00:51 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-aa04d9fe",
-    "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 12 Aug 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-2c99e5ba",
-    "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
-    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 12 Aug 2026 09:08:40 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-143a56c3",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "tags": [
-      "GPT",
-      "ChatGPT",
-      "agents",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 12 Aug 2026 06:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-dc35058b",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/ringcentral",
-    "tags": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-4d80da40",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "tags": [],
-    "category": "AI Startups",
-    "published_date": "Wed, 11 Nov 2026 23:50:00 +0000",
     "image": null
   }
 ]

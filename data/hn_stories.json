@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50535230",
-    "title": "GPT\u20116.2 Astra and Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "points": 1318,
-    "comments": 820,
+    "id": "hn-50552424",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "points": 920,
+    "comments": 718,
     "source": "Hacker News",
-    "published_date": "2026-11-17T17:46:43Z"
+    "published_date": "2026-11-18T21:34:07Z"
   },
   {
-    "id": "hn-50542705",
-    "title": "AI is killing All About Berlin",
-    "url": "https://nicolasbouliane.com/blog/death-by-ai",
-    "points": 588,
-    "comments": 564,
+    "id": "hn-50547777",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "points": 475,
+    "comments": 227,
     "source": "Hacker News",
-    "published_date": "2026-11-18T06:47:26Z"
+    "published_date": "2026-11-18T15:49:34Z"
   },
   {
-    "id": "hn-50540178",
-    "title": "Google's AI answers reducing search traffic by 40%",
-    "url": "https://revscope.co/blog/search-seo-geo-2026/",
-    "points": 576,
-    "comments": 432,
+    "id": "hn-50553225",
+    "title": "LLM assisted reverse engineering",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "points": 275,
+    "comments": 70,
     "source": "Hacker News",
-    "published_date": "2026-11-18T00:17:58Z"
+    "published_date": "2026-11-18T22:29:13Z"
   },
   {
-    "id": "hn-50535885",
-    "title": "MAI Code 2 and Code 2 Flash",
-    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "points": 390,
-    "comments": 156,
+    "id": "hn-50554374",
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "points": 240,
+    "comments": 76,
     "source": "Hacker News",
-    "published_date": "2026-11-17T18:25:13Z"
+    "published_date": "2026-11-19T00:29:45Z"
   },
   {
-    "id": "hn-50539610",
-    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-    "url": "https://github.com/microsoft/onnxruntime",
-    "points": 389,
-    "comments": 80,
+    "id": "hn-50548485",
+    "title": "\"Anthropic Is Not a Safe AI Company\" \u2013 Coalition Challenges Anthropic Safety",
+    "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "points": 135,
+    "comments": 77,
     "source": "Hacker News",
-    "published_date": "2026-11-17T23:18:49Z"
+    "published_date": "2026-11-18T16:41:22Z"
   },
   {
-    "id": "hn-50537156",
-    "title": "jQuery 4.1.0",
-    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "points": 351,
-    "comments": 181,
+    "id": "hn-50548660",
+    "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "url": "https://news.ycombinator.com/item?id=50548660",
+    "points": 114,
+    "comments": 37,
     "source": "Hacker News",
-    "published_date": "2026-11-17T19:50:40Z"
+    "published_date": "2026-11-18T16:53:42Z"
   },
   {
-    "id": "hn-50538303",
-    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "points": 253,
-    "comments": 344,
+    "id": "hn-50547048",
+    "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+    "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+    "points": 110,
+    "comments": 22,
     "source": "Hacker News",
-    "published_date": "2026-11-17T21:16:12Z"
+    "published_date": "2026-11-18T14:56:04Z"
   },
   {
-    "id": "hn-50541790",
-    "title": "Why is Gemini 4 Carbon taking so long?",
-    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-    "points": 196,
-    "comments": 97,
+    "id": "hn-50554641",
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+    "points": 104,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-11-18T04:14:04Z"
+    "published_date": "2026-11-19T00:57:20Z"
   },
   {
-    "id": "hn-50535740",
-    "title": "Not Everything Needs an LLM",
-    "url": "https://newsletter.posthog.com/p/decision-models",
-    "points": 168,
-    "comments": 72,
+    "id": "hn-50555093",
+    "title": "AI will not make you rich (2025)",
+    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+    "points": 104,
+    "comments": 65,
     "source": "Hacker News",
-    "published_date": "2026-11-17T18:16:18Z"
+    "published_date": "2026-11-19T01:51:28Z"
   },
   {
-    "id": "hn-50541619",
-    "title": "Claude was trained on protein sequences at scale",
-    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-    "points": 111,
-    "comments": 49,
-    "source": "Hacker News",
-    "published_date": "2026-11-18T03:47:43Z"
-  },
-  {
-    "id": "hn-50540836",
-    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-    "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-    "points": 88,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-11-18T01:45:11Z"
-  },
-  {
-    "id": "hn-50536468",
-    "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
-    "url": "https://news.ycombinator.com/item?id=50536468",
+    "id": "hn-50559140",
+    "title": "The AI Superintelligence Debate Has Serious Flaws",
+    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
     "points": 84,
+    "comments": 122,
+    "source": "Hacker News",
+    "published_date": "2026-11-19T12:17:10Z"
+  },
+  {
+    "id": "hn-50554269",
+    "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+    "url": "https://claudia.gallery/fable/",
+    "points": 60,
+    "comments": 60,
+    "source": "Hacker News",
+    "published_date": "2026-11-19T00:18:18Z"
+  },
+  {
+    "id": "hn-50549188",
+    "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
+    "url": "https://news.ycombinator.com/item?id=50549188",
+    "points": 57,
+    "comments": 53,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T17:26:28Z"
+  },
+  {
+    "id": "hn-50551601",
+    "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "points": 55,
+    "comments": 70,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T20:20:17Z"
+  },
+  {
+    "id": "hn-50553192",
+    "title": "GTA6-like as a 942Kb UEFI bootable image",
+    "url": "https://github.com/eklavya-raj/gta6-uefi",
+    "points": 49,
+    "comments": 48,
+    "source": "Hacker News",
+    "published_date": "2026-11-18T22:26:48Z"
+  },
+  {
+    "id": "hn-50554908",
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "url": "https://arxiv.org/abs/2607.29378",
+    "points": 46,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-11-19T01:27:02Z"
+  },
+  {
+    "id": "hn-50553236",
+    "title": "US charges Irishman with destroying a $60M Air Force C-130",
+    "url": "https://taskandpurpose.com/news/c-130-damage-ireland-daithi-ocorrain/",
+    "points": 36,
     "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-11-17T19:01:43Z"
+    "published_date": "2026-11-18T22:30:26Z"
   },
   {
-    "id": "hn-50533270",
-    "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
-    "url": "https://github.com/RunanywhereAI/trnrt",
-    "points": 52,
+    "id": "hn-50550461",
+    "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+    "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+    "points": 32,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-17T16:01:04Z"
+    "published_date": "2026-11-18T18:53:17Z"
   },
   {
-    "id": "hn-50545232",
-    "title": "GTA 6 Review: It Is a Masterpiece",
-    "url": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
-    "points": 42,
-    "comments": 59,
+    "id": "hn-50552140",
+    "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "url": "https://springcraft-ai.github.io/springrep/",
+    "points": 32,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-18T11:59:57Z"
+    "published_date": "2026-11-18T21:08:47Z"
   },
   {
-    "id": "hn-50536438",
-    "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
-    "url": "https://twitter.com/arcprize/status/2122751233442156678",
-    "points": 38,
-    "comments": 14,
+    "id": "hn-50558191",
+    "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+    "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+    "points": 28,
+    "comments": 11,
     "source": "Hacker News",
-    "published_date": "2026-11-17T18:59:43Z"
+    "published_date": "2026-11-19T10:10:20Z"
   },
   {
-    "id": "hn-50546312",
-    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-    "points": 36,
-    "comments": 24,
+    "id": "hn-50557420",
+    "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+    "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
+    "points": 28,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-11-18T13:51:03Z"
-  },
-  {
-    "id": "hn-50536410",
-    "title": "I hate GPT-6.2 Astra",
-    "url": "https://twitter.com/theo/status/2122760447103484410",
-    "points": 25,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-11-17T18:57:57Z"
-  },
-  {
-    "id": "hn-50538449",
-    "title": "Ask HN: Aren't the current cyber attacks suspicious?",
-    "url": "https://news.ycombinator.com/item?id=50538449",
-    "points": 17,
-    "comments": 16,
-    "source": "Hacker News",
-    "published_date": "2026-11-17T21:28:57Z"
-  },
-  {
-    "id": "hn-50540770",
-    "title": "Calgary high school says too many students are getting food delivered",
-    "url": "https://www.cbc.ca/news/canada/calgary/st-francis-high-school-calgary-food-delivery-app-9.7425320",
-    "points": 15,
-    "comments": 4,
-    "source": "Hacker News",
-    "published_date": "2026-11-18T01:36:58Z"
-  },
-  {
-    "id": "hn-50541325",
-    "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
-    "url": "https://greyswansignals.com",
-    "points": 11,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-11-18T03:03:16Z"
+    "published_date": "2026-11-19T08:23:41Z"
   }
 ]
