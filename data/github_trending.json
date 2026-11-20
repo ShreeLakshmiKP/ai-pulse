@@ -4,7 +4,7 @@
     "name": "sybil-solutions/inference-optimisation-skill",
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
     "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "stars": 1202,
+    "stars": 1300,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -15,6 +15,37 @@
       "speculative-decoding"
     ],
     "created_at": "2026-11-16T18:40:04Z"
+  },
+  {
+    "id": "gh-1464271688",
+    "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "stars": 1015,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation",
+      "blender-mcp",
+      "blender-plugin",
+      "blender-scripting",
+      "bpy",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-for-blender",
+      "mcp-server",
+      "model-context-protocol",
+      "ollama",
+      "opencode"
+    ],
+    "created_at": "2026-11-19T14:43:10Z"
   },
   {
     "id": "gh-1459020341",
@@ -157,10 +188,10 @@
     "created_at": "2026-11-15T16:46:04Z"
   },
   {
-    "id": "gh-1459018207",
-    "name": "VortexHostFeel/Gemini-Config-Checker-",
+    "id": "gh-1459019359",
+    "name": "WinnerSpecialist/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
     "stars": 472,
     "language": "Makefile",
     "topics": [
@@ -182,7 +213,7 @@
       "seo-tool",
       "typescript"
     ],
-    "created_at": "2026-11-15T16:46:07Z"
+    "created_at": "2026-11-15T16:47:17Z"
   },
   {
     "id": "gh-1459019357",
@@ -241,6 +272,56 @@
     "created_at": "2026-11-15T16:48:15Z"
   },
   {
+    "id": "gh-1462907032",
+    "name": "hasan6969macho-bit/vectorbt-avoria-analysis",
+    "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
+    "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
+    "stars": 120,
+    "language": "TypeScript",
+    "topics": [
+      "backtesting",
+      "crypto",
+      "cryptocurrency",
+      "data-science",
+      "data-visualization",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "market-data",
+      "portfolio-optimization",
+      "quantitative-analysis",
+      "quantitative-finance",
+      "technical-analysis"
+    ],
+    "created_at": "2026-11-18T14:26:25Z"
+  },
+  {
+    "id": "gh-1462895937",
+    "name": "pgmergulhao75-dot/openbb-calvona-market-research",
+    "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
+    "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
+    "stars": 93,
+    "language": "TypeScript",
+    "topics": [
+      "backtesting",
+      "crypto",
+      "cryptocurrency",
+      "exchange",
+      "finance",
+      "fintech",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "market-data",
+      "options",
+      "quantitative-finance",
+      "stocks",
+      "technical-analysis"
+    ],
+    "created_at": "2026-11-18T14:17:33Z"
+  },
+  {
     "id": "gh-1457897892",
     "name": "Danuzco/bayesian-modelling-notes",
     "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
@@ -266,6 +347,31 @@
     "created_at": "2026-11-14T15:38:46Z"
   },
   {
+    "id": "gh-1464043197",
+    "name": "hexsyro/kaggle-dress-rehearsal",
+    "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
+    "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
+    "stars": 46,
+    "language": "HTML",
+    "topics": [
+      "churn-prediction",
+      "cross-validation",
+      "gridsearchcv",
+      "hyperparameter-optimization",
+      "hyperparameter-tuning",
+      "kaggle",
+      "machine-learning",
+      "optuna",
+      "overfitting",
+      "randomizedsearchcv",
+      "roc-auc",
+      "scikit-learn",
+      "stratified-k-fold",
+      "xgboost"
+    ],
+    "created_at": "2026-11-19T11:18:28Z"
+  },
+  {
     "id": "gh-1457955880",
     "name": "hexsyro/churn-boosting-showdown",
     "description": "Head-to-head comparison of XGBoost, LightGBM and CatBoost for customer churn prediction.",
@@ -287,73 +393,5 @@
       "xgboost"
     ],
     "created_at": "2026-11-14T16:42:18Z"
-  },
-  {
-    "id": "gh-1461222442",
-    "name": "di37/animated-machine-learning-algorithm",
-    "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
-    "url": "https://github.com/di37/animated-machine-learning-algorithm",
-    "stars": 20,
-    "language": "Python",
-    "topics": [
-      "animation",
-      "california-housing",
-      "classification",
-      "data-visualization",
-      "decision-trees",
-      "education",
-      "explainable-ai",
-      "gradient-boosting",
-      "interpretability",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "manim",
-      "matplotlib",
-      "neural-networks",
-      "python",
-      "random-forest",
-      "regression",
-      "scikit-learn",
-      "titanic",
-      "xai"
-    ],
-    "created_at": "2026-11-17T10:01:32Z"
-  },
-  {
-    "id": "gh-1459309653",
-    "name": "Junaid-Bashir/solarcast-belgium",
-    "description": "Python toolkit for benchmarking energy forecasting models, starting with Belgian day-ahead solar PV.",
-    "url": "https://github.com/Junaid-Bashir/solarcast-belgium",
-    "stars": 5,
-    "language": "Python",
-    "topics": [
-      "belgium",
-      "elia",
-      "energy-forecasting",
-      "lightgbm",
-      "machine-learning",
-      "photovoltaics",
-      "solar",
-      "time-series",
-      "time-series-foundation-models"
-    ],
-    "created_at": "2026-11-15T22:42:38Z"
-  },
-  {
-    "id": "gh-1457905777",
-    "name": "kaluarachchiteshan/agromaster-ml",
-    "description": "Seven-day-ahead price-decline risk classification",
-    "url": "https://github.com/kaluarachchiteshan/agromaster-ml",
-    "stars": 5,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agriculture",
-      "classification",
-      "machine-learning",
-      "scikit-learn",
-      "time-series",
-      "xgboost"
-    ],
-    "created_at": "2026-11-14T15:47:36Z"
   }
 ]
