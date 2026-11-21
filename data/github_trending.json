@@ -1,27 +1,10 @@
 [
   {
-    "id": "gh-1460417668",
-    "name": "sybil-solutions/inference-optimisation-skill",
-    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "stars": 1300,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "benchmarking",
-      "claude-code",
-      "inference",
-      "llm",
-      "speculative-decoding"
-    ],
-    "created_at": "2026-11-16T18:40:04Z"
-  },
-  {
     "id": "gh-1464271688",
     "name": "bookwjitchieni1986/blender-ai-mcp-addon",
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-    "stars": 1015,
+    "stars": 1939,
     "language": null,
     "topics": [
       "ai-agents",
@@ -46,6 +29,23 @@
       "opencode"
     ],
     "created_at": "2026-11-19T14:43:10Z"
+  },
+  {
+    "id": "gh-1460417668",
+    "name": "sybil-solutions/inference-optimisation-skill",
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "stars": 1421,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
+      "llm",
+      "speculative-decoding"
+    ],
+    "created_at": "2026-11-16T18:40:04Z"
   },
   {
     "id": "gh-1459020341",
@@ -104,6 +104,34 @@
     "created_at": "2026-11-15T16:47:11Z"
   },
   {
+    "id": "gh-1459019359",
+    "name": "WinnerSpecialist/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "topics": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "gemeni",
+      "gemeni-checker",
+      "generative-ai",
+      "lim-seo",
+      "llm",
+      "mcp-server",
+      "nextjs",
+      "open-code",
+      "seo-checker",
+      "seo-tool",
+      "typescript"
+    ],
+    "created_at": "2026-11-15T16:47:17Z"
+  },
+  {
     "id": "gh-1459019360",
     "name": "WingDataVacuum/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
@@ -158,62 +186,6 @@
       "typescript"
     ],
     "created_at": "2026-11-15T16:46:04Z"
-  },
-  {
-    "id": "gh-1459018150",
-    "name": "Violetnyudress/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-    "stars": 472,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:46:04Z"
-  },
-  {
-    "id": "gh-1459019359",
-    "name": "WinnerSpecialist/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-    "stars": 472,
-    "language": "Makefile",
-    "topics": [
-      "ai",
-      "ai-search",
-      "aichecker",
-      "chatgpt",
-      "cli",
-      "config-checker",
-      "gemeni",
-      "gemeni-checker",
-      "generative-ai",
-      "lim-seo",
-      "llm",
-      "mcp-server",
-      "nextjs",
-      "open-code",
-      "seo-checker",
-      "seo-tool",
-      "typescript"
-    ],
-    "created_at": "2026-11-15T16:47:17Z"
   },
   {
     "id": "gh-1459019357",
@@ -272,36 +244,11 @@
     "created_at": "2026-11-15T16:48:15Z"
   },
   {
-    "id": "gh-1462907032",
-    "name": "hasan6969macho-bit/vectorbt-avoria-analysis",
-    "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
-    "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
-    "stars": 120,
-    "language": "TypeScript",
-    "topics": [
-      "backtesting",
-      "crypto",
-      "cryptocurrency",
-      "data-science",
-      "data-visualization",
-      "finance",
-      "fintech",
-      "investment",
-      "machine-learning",
-      "market-data",
-      "portfolio-optimization",
-      "quantitative-analysis",
-      "quantitative-finance",
-      "technical-analysis"
-    ],
-    "created_at": "2026-11-18T14:26:25Z"
-  },
-  {
     "id": "gh-1462895937",
     "name": "pgmergulhao75-dot/openbb-calvona-market-research",
     "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
     "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
-    "stars": 93,
+    "stars": 152,
     "language": "TypeScript",
     "topics": [
       "backtesting",
@@ -322,36 +269,36 @@
     "created_at": "2026-11-18T14:17:33Z"
   },
   {
-    "id": "gh-1457897892",
-    "name": "Danuzco/bayesian-modelling-notes",
-    "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
-    "url": "https://github.com/Danuzco/bayesian-modelling-notes",
-    "stars": 54,
-    "language": "Jupyter Notebook",
+    "id": "gh-1462907032",
+    "name": "hasan6969macho-bit/vectorbt-avoria-analysis",
+    "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
+    "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
+    "stars": 152,
+    "language": "TypeScript",
     "topics": [
-      "bayesian-inference",
-      "bayesian-statistics",
-      "gaussian-processes",
-      "hamiltonian-monte-carlo",
-      "hierarchical-models",
-      "jax",
-      "jupyter-notebook",
-      "kalman-filter",
-      "lecture-notes",
+      "backtesting",
+      "crypto",
+      "cryptocurrency",
+      "data-science",
+      "data-visualization",
+      "finance",
+      "fintech",
+      "investment",
       "machine-learning",
-      "mcmc",
-      "probabilistic-modeling",
-      "pymc",
-      "variational-inference"
+      "market-data",
+      "portfolio-optimization",
+      "quantitative-analysis",
+      "quantitative-finance",
+      "technical-analysis"
     ],
-    "created_at": "2026-11-14T15:38:46Z"
+    "created_at": "2026-11-18T14:26:25Z"
   },
   {
     "id": "gh-1464043197",
     "name": "hexsyro/kaggle-dress-rehearsal",
     "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
     "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
-    "stars": 46,
+    "stars": 47,
     "language": "HTML",
     "topics": [
       "churn-prediction",
@@ -372,26 +319,56 @@
     "created_at": "2026-11-19T11:18:28Z"
   },
   {
-    "id": "gh-1457955880",
-    "name": "hexsyro/churn-boosting-showdown",
-    "description": "Head-to-head comparison of XGBoost, LightGBM and CatBoost for customer churn prediction.",
-    "url": "https://github.com/hexsyro/churn-boosting-showdown",
-    "stars": 30,
-    "language": "Jupyter Notebook",
+    "id": "gh-1461222442",
+    "name": "di37/animated-machine-learning-algorithm",
+    "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
+    "url": "https://github.com/di37/animated-machine-learning-algorithm",
+    "stars": 28,
+    "language": "Python",
     "topics": [
-      "binary-classification",
-      "catboost",
-      "churn-prediction",
-      "customer-churn",
-      "early-stopping",
+      "animation",
+      "california-housing",
+      "classification",
+      "data-visualization",
+      "decision-trees",
+      "education",
+      "explainable-ai",
       "gradient-boosting",
-      "hyperparameter-tuning",
-      "lightgbm",
+      "interpretability",
       "machine-learning",
-      "model-comparison",
+      "machine-learning-algorithms",
+      "manim",
+      "matplotlib",
+      "neural-networks",
+      "python",
+      "random-forest",
+      "regression",
       "scikit-learn",
-      "xgboost"
+      "titanic",
+      "xai"
     ],
-    "created_at": "2026-11-14T16:42:18Z"
+    "created_at": "2026-11-17T10:01:32Z"
+  },
+  {
+    "id": "gh-1463093853",
+    "name": "Genesis-Molecular-AI/genesis-potency-dataset",
+    "description": "GenesisPotency is a large public dataset of potency measurements for use in training and evaluating potency prediction models.",
+    "url": "https://github.com/Genesis-Molecular-AI/genesis-potency-dataset",
+    "stars": 10,
+    "language": null,
+    "topics": [
+      "binding-affinity",
+      "bindingdb",
+      "bioactivity",
+      "chembl",
+      "cheminformatics",
+      "dataset",
+      "drug-discovery",
+      "huggingface-datasets",
+      "machine-learning",
+      "protein-ligand",
+      "pubchem"
+    ],
+    "created_at": "2026-11-18T17:04:01Z"
   }
 ]

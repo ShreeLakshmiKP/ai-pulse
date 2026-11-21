@@ -1,182 +1,164 @@
 [
   {
-    "id": "hn-50562262",
-    "title": "Fuck Your AI Safeguards",
-    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-    "points": 573,
-    "comments": 231,
+    "id": "hn-50581260",
+    "title": "Inkling 2 Mini",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "points": 1122,
+    "comments": 212,
     "source": "Hacker News",
-    "published_date": "2026-11-19T16:30:18Z"
+    "published_date": "2026-11-20T20:12:19Z"
   },
   {
-    "id": "hn-50563148",
-    "title": "Claude solves two open problems in the physics of black holes",
-    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "points": 518,
-    "comments": 246,
+    "id": "hn-50583761",
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "url": "https://news.ycombinator.com/item?id=50583761",
+    "points": 300,
+    "comments": 302,
     "source": "Hacker News",
-    "published_date": "2026-11-19T17:30:44Z"
+    "published_date": "2026-11-20T23:18:32Z"
   },
   {
-    "id": "hn-50568130",
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "url": "https://git-aarvin.github.io/mei/",
-    "points": 356,
-    "comments": 226,
+    "id": "hn-50576232",
+    "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+    "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+    "points": 300,
+    "comments": 94,
     "source": "Hacker News",
-    "published_date": "2026-11-19T23:35:35Z"
+    "published_date": "2026-11-20T15:34:31Z"
   },
   {
-    "id": "hn-50572503",
-    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "url": "https://architectlabs.com/blog/frostbite",
-    "points": 332,
-    "comments": 222,
+    "id": "hn-50577901",
+    "title": "Google workers tell their employer not to punish schools that don't want AI",
+    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "points": 277,
+    "comments": 215,
     "source": "Hacker News",
-    "published_date": "2026-11-20T10:01:41Z"
+    "published_date": "2026-11-20T16:59:27Z"
   },
   {
-    "id": "hn-50569226",
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "url": "https://github.com/openssl/openssl/pull/33652",
-    "points": 318,
-    "comments": 259,
+    "id": "hn-50586292",
+    "title": "ClawDOS \u2013 An AI coding agent for DOS",
+    "url": "http://ricapar.net/ClawDOS/",
+    "points": 112,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-11-20T02:01:09Z"
+    "published_date": "2026-11-21T05:38:01Z"
   },
   {
-    "id": "hn-50561508",
-    "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-    "url": "https://thedataexchange.media/pete-warden-moonshine/",
-    "points": 264,
-    "comments": 235,
+    "id": "hn-50581403",
+    "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
+    "url": "https://github.com/diggerhq/opencomputer",
+    "points": 107,
+    "comments": 34,
     "source": "Hacker News",
-    "published_date": "2026-11-19T15:38:12Z"
+    "published_date": "2026-11-20T20:19:56Z"
   },
   {
-    "id": "hn-50562500",
-    "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-    "points": 141,
-    "comments": 73,
+    "id": "hn-50577872",
+    "title": "AI is giving everyone the same advice",
+    "url": "https://a90.com/experiments/same-advice/",
+    "points": 96,
+    "comments": 40,
     "source": "Hacker News",
-    "published_date": "2026-11-19T16:45:50Z"
+    "published_date": "2026-11-20T16:58:05Z"
   },
   {
-    "id": "hn-50562636",
-    "title": "Chrome AI features wasting much bandwidth",
-    "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-    "points": 131,
-    "comments": 50,
+    "id": "hn-50582280",
+    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+    "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+    "points": 60,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-11-19T16:54:25Z"
+    "published_date": "2026-11-20T21:18:46Z"
   },
   {
-    "id": "hn-50562320",
-    "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-    "url": "https://github.com/onlook-dev/onlook/",
-    "points": 121,
-    "comments": 83,
+    "id": "hn-50578233",
+    "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+    "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+    "points": 59,
+    "comments": 0,
     "source": "Hacker News",
-    "published_date": "2026-11-19T16:34:04Z"
+    "published_date": "2026-11-20T17:14:03Z"
   },
   {
-    "id": "hn-50564366",
-    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "points": 110,
-    "comments": 224,
+    "id": "hn-50583911",
+    "title": "Help github just deleted me",
+    "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
+    "points": 57,
+    "comments": 52,
     "source": "Hacker News",
-    "published_date": "2026-11-19T18:47:16Z"
+    "published_date": "2026-11-20T23:35:42Z"
   },
   {
-    "id": "hn-50567735",
-    "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-    "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-    "points": 67,
-    "comments": 19,
+    "id": "hn-50583117",
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+    "points": 46,
+    "comments": 15,
     "source": "Hacker News",
-    "published_date": "2026-11-19T22:56:59Z"
+    "published_date": "2026-11-20T22:18:20Z"
   },
   {
-    "id": "hn-50563328",
-    "title": "AI came for the coders. Understanding why tells us who's next",
-    "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-    "points": 58,
-    "comments": 66,
+    "id": "hn-50582629",
+    "title": "A few hours ago Google DeepMind created a math horizon repo",
+    "url": "https://github.com/google-deepmind/math-horizon",
+    "points": 44,
+    "comments": 32,
     "source": "Hacker News",
-    "published_date": "2026-11-19T17:43:38Z"
+    "published_date": "2026-11-20T21:42:21Z"
   },
   {
-    "id": "hn-50561199",
-    "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-    "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-    "points": 56,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-11-19T15:16:02Z"
-  },
-  {
-    "id": "hn-50564282",
-    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-    "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-    "points": 49,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-11-19T18:42:13Z"
-  },
-  {
-    "id": "hn-50573886",
-    "title": "If you stop writing code, you also get worse at reviewing it",
-    "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-    "points": 45,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-11-20T12:41:38Z"
-  },
-  {
-    "id": "hn-50561436",
-    "title": "Show HN: Watch weight-space programming in action with WebGPU",
-    "url": "https://tabbyml.github.io/weight-space-playground/",
+    "id": "hn-50583445",
+    "title": "AI may have solved the most important problem in mathematics",
+    "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
     "points": 38,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-19T15:32:47Z"
-  },
-  {
-    "id": "hn-50574383",
-    "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "points": 34,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-11-20T13:29:59Z"
-  },
-  {
-    "id": "hn-50567485",
-    "title": "An FBI agent called a Claude user about his chats",
-    "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
-    "points": 30,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-11-19T22:36:51Z"
-  },
-  {
-    "id": "hn-50561571",
-    "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
-    "url": "https://news.ycombinator.com/item?id=50561571",
-    "points": 26,
     "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-19T15:42:26Z"
+    "published_date": "2026-11-20T22:46:59Z"
   },
   {
-    "id": "hn-50562508",
-    "title": "Show HN: AgentMall \u2013 Let your AI agent buy groceries",
-    "url": "https://getagentmall.com",
-    "points": 19,
-    "comments": 9,
+    "id": "hn-50574772",
+    "title": "Llms.txt and MCP didn't move the needle",
+    "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+    "points": 31,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-11-19T16:46:14Z"
+    "published_date": "2026-11-20T14:00:23Z"
+  },
+  {
+    "id": "hn-50582794",
+    "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "points": 24,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-20T21:53:39Z"
+  },
+  {
+    "id": "hn-50579237",
+    "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
+    "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+    "points": 24,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-20T18:11:11Z"
+  },
+  {
+    "id": "hn-50581907",
+    "title": "GTA VI Shatters Box Office Records with $3.79B in Day One Retail Sales",
+    "url": "https://www.businesswire.com/news/home/20261120446139/en/Grand-Theft-Auto-VI-Shatters-Entertainment-Box-Office-Records-with-%243.79-Billion-in-Day-One-Retail-Sales",
+    "points": 15,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-20T20:53:45Z"
+  },
+  {
+    "id": "hn-50586193",
+    "title": "Don't Play Anthropic's Game",
+    "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
+    "points": 11,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-11-21T05:19:51Z"
   }
 ]
