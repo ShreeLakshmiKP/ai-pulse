@@ -1,164 +1,182 @@
 [
   {
-    "id": "hn-50581260",
-    "title": "Inkling 2 Mini",
-    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "points": 1122,
-    "comments": 212,
+    "id": "hn-50589618",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "points": 1095,
+    "comments": 913,
     "source": "Hacker News",
-    "published_date": "2026-11-20T20:12:19Z"
+    "published_date": "2026-11-21T14:36:45Z"
   },
   {
-    "id": "hn-50583761",
-    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-    "url": "https://news.ycombinator.com/item?id=50583761",
-    "points": 300,
-    "comments": 302,
+    "id": "hn-50591853",
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "points": 495,
+    "comments": 124,
     "source": "Hacker News",
-    "published_date": "2026-11-20T23:18:32Z"
+    "published_date": "2026-11-21T18:02:19Z"
   },
   {
-    "id": "hn-50576232",
-    "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-    "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-    "points": 300,
-    "comments": 94,
+    "id": "hn-50597612",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "points": 269,
+    "comments": 366,
     "source": "Hacker News",
-    "published_date": "2026-11-20T15:34:31Z"
+    "published_date": "2026-11-22T08:57:34Z"
   },
   {
-    "id": "hn-50577901",
-    "title": "Google workers tell their employer not to punish schools that don't want AI",
-    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-    "points": 277,
-    "comments": 215,
+    "id": "hn-50595554",
+    "title": "Data Processing Incidents on Inference Providers",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "points": 197,
+    "comments": 70,
     "source": "Hacker News",
-    "published_date": "2026-11-20T16:59:27Z"
+    "published_date": "2026-11-22T02:14:14Z"
   },
   {
-    "id": "hn-50586292",
-    "title": "ClawDOS \u2013 An AI coding agent for DOS",
-    "url": "http://ricapar.net/ClawDOS/",
-    "points": 112,
-    "comments": 31,
+    "id": "hn-50595168",
+    "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "points": 179,
+    "comments": 135,
     "source": "Hacker News",
-    "published_date": "2026-11-21T05:38:01Z"
+    "published_date": "2026-11-22T00:57:26Z"
   },
   {
-    "id": "hn-50581403",
-    "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
-    "url": "https://github.com/diggerhq/opencomputer",
-    "points": 107,
-    "comments": 34,
+    "id": "hn-50590279",
+    "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "points": 163,
+    "comments": 113,
     "source": "Hacker News",
-    "published_date": "2026-11-20T20:19:56Z"
+    "published_date": "2026-11-21T15:39:09Z"
   },
   {
-    "id": "hn-50577872",
-    "title": "AI is giving everyone the same advice",
-    "url": "https://a90.com/experiments/same-advice/",
-    "points": 96,
-    "comments": 40,
+    "id": "hn-50591260",
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "points": 160,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-11-20T16:58:05Z"
+    "published_date": "2026-11-21T17:08:04Z"
   },
   {
-    "id": "hn-50582280",
-    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-    "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
-    "points": 60,
-    "comments": 5,
+    "id": "hn-50592097",
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell",
+    "points": 132,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-11-20T21:18:46Z"
+    "published_date": "2026-11-21T18:29:29Z"
   },
   {
-    "id": "hn-50578233",
-    "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
-    "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-    "points": 59,
-    "comments": 0,
+    "id": "hn-50594132",
+    "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "points": 130,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-11-20T17:14:03Z"
+    "published_date": "2026-11-21T22:09:58Z"
   },
   {
-    "id": "hn-50583911",
-    "title": "Help github just deleted me",
-    "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
-    "points": 57,
-    "comments": 52,
+    "id": "hn-50593481",
+    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io",
+    "points": 110,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-11-20T23:35:42Z"
+    "published_date": "2026-11-21T20:47:41Z"
   },
   {
-    "id": "hn-50583117",
-    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-    "points": 46,
-    "comments": 15,
+    "id": "hn-50595537",
+    "title": "The Mythology of Conscious AI",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "points": 93,
+    "comments": 209,
     "source": "Hacker News",
-    "published_date": "2026-11-20T22:18:20Z"
+    "published_date": "2026-11-22T02:10:02Z"
   },
   {
-    "id": "hn-50582629",
-    "title": "A few hours ago Google DeepMind created a math horizon repo",
-    "url": "https://github.com/google-deepmind/math-horizon",
-    "points": 44,
-    "comments": 32,
-    "source": "Hacker News",
-    "published_date": "2026-11-20T21:42:21Z"
-  },
-  {
-    "id": "hn-50583445",
-    "title": "AI may have solved the most important problem in mathematics",
-    "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-    "points": 38,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-11-20T22:46:59Z"
-  },
-  {
-    "id": "hn-50574772",
-    "title": "Llms.txt and MCP didn't move the needle",
-    "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-    "points": 31,
+    "id": "hn-50596511",
+    "title": "AI Supply Chain Security: What Canary Tokens Found",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "points": 88,
     "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-11-20T14:00:23Z"
+    "published_date": "2026-11-22T05:11:43Z"
   },
   {
-    "id": "hn-50582794",
-    "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "points": 24,
-    "comments": 4,
+    "id": "hn-50597743",
+    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+    "url": "https://arxiv.org/abs/2606.14068",
+    "points": 75,
+    "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-11-20T21:53:39Z"
+    "published_date": "2026-11-22T09:18:36Z"
   },
   {
-    "id": "hn-50579237",
-    "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
-    "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-    "points": 24,
-    "comments": 4,
+    "id": "hn-50596155",
+    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "points": 73,
+    "comments": 51,
     "source": "Hacker News",
-    "published_date": "2026-11-20T18:11:11Z"
+    "published_date": "2026-11-22T04:10:09Z"
   },
   {
-    "id": "hn-50581907",
-    "title": "GTA VI Shatters Box Office Records with $3.79B in Day One Retail Sales",
-    "url": "https://www.businesswire.com/news/home/20261120446139/en/Grand-Theft-Auto-VI-Shatters-Entertainment-Box-Office-Records-with-%243.79-Billion-in-Day-One-Retail-Sales",
+    "id": "hn-50596664",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "url": "https://github.com/tamnd/riemann-handbook",
+    "points": 71,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T05:46:30Z"
+  },
+  {
+    "id": "hn-50595812",
+    "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+    "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+    "points": 39,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T03:06:35Z"
+  },
+  {
+    "id": "hn-50595816",
+    "title": "Together.ai: Prompt Leakage for Requests",
+    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+    "points": 35,
+    "comments": 8,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T03:07:27Z"
+  },
+  {
+    "id": "hn-50589235",
+    "title": "Show HN: agent-mcts \u2013 Monte Carlo tree search on top of Claude Code",
+    "url": "https://github.com/natsu0529/agent-mcts",
     "points": 15,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-11-21T13:53:08Z"
+  },
+  {
+    "id": "hn-50595940",
+    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+    "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+    "points": 14,
+    "comments": 4,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T03:28:48Z"
+  },
+  {
+    "id": "hn-50594006",
+    "title": "Test the Riemann Hypothesis with your spare CPU",
+    "url": "https://riemann-at-home.github.io/riemann-at-home/",
+    "points": 14,
     "comments": 1,
     "source": "Hacker News",
-    "published_date": "2026-11-20T20:53:45Z"
-  },
-  {
-    "id": "hn-50586193",
-    "title": "Don't Play Anthropic's Game",
-    "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
-    "points": 11,
-    "comments": 3,
-    "source": "Hacker News",
-    "published_date": "2026-11-21T05:19:51Z"
+    "published_date": "2026-11-21T21:51:42Z"
   }
 ]
