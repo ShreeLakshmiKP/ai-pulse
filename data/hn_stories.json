@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50589618",
-    "title": "Lean verification of the Riemann Hypothesis",
-    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "points": 1095,
-    "comments": 913,
+    "id": "hn-50609685",
+    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "points": 699,
+    "comments": 255,
     "source": "Hacker News",
-    "published_date": "2026-11-21T14:36:45Z"
+    "published_date": "2026-11-23T10:06:43Z"
   },
   {
-    "id": "hn-50591853",
-    "title": "Inkling-2-Mini in 5.4 GB Memory",
-    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "points": 495,
-    "comments": 124,
+    "id": "hn-50603845",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "points": 668,
+    "comments": 270,
     "source": "Hacker News",
-    "published_date": "2026-11-21T18:02:19Z"
+    "published_date": "2026-11-22T21:01:16Z"
   },
   {
-    "id": "hn-50597612",
-    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "points": 269,
-    "comments": 366,
+    "id": "hn-50602843",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "points": 601,
+    "comments": 335,
     "source": "Hacker News",
-    "published_date": "2026-11-22T08:57:34Z"
+    "published_date": "2026-11-22T19:10:34Z"
   },
   {
-    "id": "hn-50595554",
-    "title": "Data Processing Incidents on Inference Providers",
-    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "points": 197,
-    "comments": 70,
+    "id": "hn-50607261",
+    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "points": 510,
+    "comments": 210,
     "source": "Hacker News",
-    "published_date": "2026-11-22T02:14:14Z"
+    "published_date": "2026-11-23T03:49:24Z"
   },
   {
-    "id": "hn-50595168",
-    "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
-    "url": "https://github.com/ItsNotRexed/Leonida",
-    "points": 179,
-    "comments": 135,
+    "id": "hn-50605045",
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "points": 254,
+    "comments": 191,
     "source": "Hacker News",
-    "published_date": "2026-11-22T00:57:26Z"
+    "published_date": "2026-11-22T23:12:10Z"
   },
   {
-    "id": "hn-50590279",
-    "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-    "url": "https://onurgumus.github.io/zero-csharp/index.html",
-    "points": 163,
-    "comments": 113,
+    "id": "hn-50606499",
+    "title": "Treemap of the Riemann Hypothesis Lean Proof",
+    "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+    "points": 161,
+    "comments": 68,
     "source": "Hacker News",
-    "published_date": "2026-11-21T15:39:09Z"
+    "published_date": "2026-11-23T01:50:23Z"
   },
   {
-    "id": "hn-50591260",
-    "title": "PostgreSQL Extensions in Go",
-    "url": "https://jespino.github.io/gopgext/",
-    "points": 160,
-    "comments": 29,
-    "source": "Hacker News",
-    "published_date": "2026-11-21T17:08:04Z"
-  },
-  {
-    "id": "hn-50592097",
-    "title": "Upload2Shell (CVE-2026-125396)",
-    "url": "https://pwn.ai/upload2shell",
-    "points": 132,
+    "id": "hn-50610318",
+    "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+    "url": "https://github.com/os6/nospeaker",
+    "points": 137,
     "comments": 63,
     "source": "Hacker News",
-    "published_date": "2026-11-21T18:29:29Z"
+    "published_date": "2026-11-23T11:31:54Z"
   },
   {
-    "id": "hn-50594132",
-    "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "points": 130,
-    "comments": 19,
+    "id": "hn-50602847",
+    "title": "Canada recommits to federal funding for news",
+    "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+    "points": 123,
+    "comments": 131,
     "source": "Hacker News",
-    "published_date": "2026-11-21T22:09:58Z"
+    "published_date": "2026-11-22T19:10:38Z"
   },
   {
-    "id": "hn-50593481",
-    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-    "url": "https://www.pandex.io",
-    "points": 110,
-    "comments": 29,
+    "id": "hn-50609079",
+    "title": "GTA 6 building personal behavioral profile for every player",
+    "url": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
+    "points": 105,
+    "comments": 76,
     "source": "Hacker News",
-    "published_date": "2026-11-21T20:47:41Z"
+    "published_date": "2026-11-23T08:51:50Z"
   },
   {
-    "id": "hn-50595537",
-    "title": "The Mythology of Conscious AI",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "points": 93,
-    "comments": 209,
+    "id": "hn-50609252",
+    "title": "Enjoy this guy getting bricked over the detail of towers in GTA6",
+    "url": "https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v",
+    "points": 81,
+    "comments": 30,
     "source": "Hacker News",
-    "published_date": "2026-11-22T02:10:02Z"
+    "published_date": "2026-11-23T09:15:09Z"
   },
   {
-    "id": "hn-50596511",
-    "title": "AI Supply Chain Security: What Canary Tokens Found",
-    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-    "points": 88,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T05:11:43Z"
-  },
-  {
-    "id": "hn-50597743",
-    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-    "url": "https://arxiv.org/abs/2606.14068",
+    "id": "hn-50602153",
+    "title": "Harvard CS 2881R AI Safety",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
     "points": 75,
-    "comments": 63,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T09:18:36Z"
-  },
-  {
-    "id": "hn-50596155",
-    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-    "url": "https://github.com/EL4CTEO/fast-anything",
-    "points": 73,
-    "comments": 51,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T04:10:09Z"
-  },
-  {
-    "id": "hn-50596664",
-    "title": "Show HN: The Riemann Proof Handbook",
-    "url": "https://github.com/tamnd/riemann-handbook",
-    "points": 71,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T05:46:30Z"
-  },
-  {
-    "id": "hn-50595812",
-    "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-    "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-    "points": 39,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T03:06:35Z"
-  },
-  {
-    "id": "hn-50595816",
-    "title": "Together.ai: Prompt Leakage for Requests",
-    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-    "points": 35,
     "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-11-22T03:07:27Z"
+    "published_date": "2026-11-22T18:01:54Z"
   },
   {
-    "id": "hn-50589235",
-    "title": "Show HN: agent-mcts \u2013 Monte Carlo tree search on top of Claude Code",
-    "url": "https://github.com/natsu0529/agent-mcts",
-    "points": 15,
-    "comments": 0,
+    "id": "hn-50605445",
+    "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
+    "points": 67,
+    "comments": 17,
     "source": "Hacker News",
-    "published_date": "2026-11-21T13:53:08Z"
+    "published_date": "2026-11-22T23:53:00Z"
   },
   {
-    "id": "hn-50595940",
-    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
-    "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-    "points": 14,
-    "comments": 4,
+    "id": "hn-50610830",
+    "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+    "points": 64,
+    "comments": 73,
     "source": "Hacker News",
-    "published_date": "2026-11-22T03:28:48Z"
+    "published_date": "2026-11-23T12:41:14Z"
   },
   {
-    "id": "hn-50594006",
-    "title": "Test the Riemann Hypothesis with your spare CPU",
-    "url": "https://riemann-at-home.github.io/riemann-at-home/",
-    "points": 14,
-    "comments": 1,
+    "id": "hn-50603730",
+    "title": "AWS got hit by an outage too. You didn't hear about it",
+    "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+    "points": 62,
+    "comments": 5,
     "source": "Hacker News",
-    "published_date": "2026-11-21T21:51:42Z"
+    "published_date": "2026-11-22T20:50:18Z"
+  },
+  {
+    "id": "hn-50604959",
+    "title": "Do Not Accept",
+    "url": "https://donotaccept.ai/",
+    "points": 53,
+    "comments": 57,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T23:02:20Z"
+  },
+  {
+    "id": "hn-50608662",
+    "title": "GLM 5.4",
+    "url": "https://twitter.com/Zai_org/status/2124719658074825004",
+    "points": 51,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-23T07:48:45Z"
+  },
+  {
+    "id": "hn-50612686",
+    "title": "GTA 6 Xbox executable released early by cyberleek",
+    "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+    "points": 33,
+    "comments": 3,
+    "source": "Hacker News",
+    "published_date": "2026-11-23T14:49:44Z"
+  },
+  {
+    "id": "hn-50607775",
+    "title": "GLM-5.4 is now available to all GLM Coding Plan users",
+    "url": "https://twitter.com/ZixuanLi_/status/2124719275864670681",
+    "points": 32,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-11-23T05:21:54Z"
+  },
+  {
+    "id": "hn-50603219",
+    "title": "What Happened in Fall 2026: AI and P vs. NP",
+    "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+    "points": 29,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-11-22T19:50:36Z"
+  },
+  {
+    "id": "hn-50614037",
+    "title": "Buckle Up the AI Bubble Is Popping",
+    "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+    "points": 19,
+    "comments": 42,
+    "source": "Hacker News",
+    "published_date": "2026-11-23T16:01:20Z"
   }
 ]
