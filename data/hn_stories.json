@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50609685",
-    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "url": "https://z.ai/blog/glm-5.4",
-    "points": 699,
-    "comments": 255,
+    "id": "hn-50616933",
+    "title": "Apple removed my open-source app from EU App Stores after 9 years",
+    "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+    "points": 607,
+    "comments": 152,
     "source": "Hacker News",
-    "published_date": "2026-11-23T10:06:43Z"
+    "published_date": "2026-11-23T18:48:10Z"
   },
   {
-    "id": "hn-50603845",
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "points": 668,
-    "comments": 270,
+    "id": "hn-50627340",
+    "title": "LLM agents work for their parent companies, not for you",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "points": 558,
+    "comments": 232,
     "source": "Hacker News",
-    "published_date": "2026-11-22T21:01:16Z"
+    "published_date": "2026-11-24T12:40:15Z"
   },
   {
-    "id": "hn-50602843",
-    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "points": 601,
-    "comments": 335,
+    "id": "hn-50619103",
+    "title": "GPUI is getting its own repository",
+    "url": "https://github.com/zed-industries/gpui",
+    "points": 352,
+    "comments": 127,
     "source": "Hacker News",
-    "published_date": "2026-11-22T19:10:34Z"
+    "published_date": "2026-11-23T20:52:54Z"
   },
   {
-    "id": "hn-50607261",
-    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-    "url": "https://github.com/AFK-surf/xnulinux",
-    "points": 510,
-    "comments": 210,
+    "id": "hn-50620102",
+    "title": "VP \u2260 VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "points": 344,
+    "comments": 316,
     "source": "Hacker News",
-    "published_date": "2026-11-23T03:49:24Z"
+    "published_date": "2026-11-23T22:09:10Z"
   },
   {
-    "id": "hn-50605045",
-    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-    "points": 254,
-    "comments": 191,
+    "id": "hn-50622638",
+    "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+    "url": "https://github.com/ItsNotRexed/Leonida/issues",
+    "points": 227,
+    "comments": 352,
     "source": "Hacker News",
-    "published_date": "2026-11-22T23:12:10Z"
+    "published_date": "2026-11-24T02:08:09Z"
   },
   {
-    "id": "hn-50606499",
-    "title": "Treemap of the Riemann Hypothesis Lean Proof",
-    "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-    "points": 161,
-    "comments": 68,
+    "id": "hn-50624487",
+    "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+    "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+    "points": 216,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-11-23T01:50:23Z"
+    "published_date": "2026-11-24T06:28:04Z"
   },
   {
-    "id": "hn-50610318",
-    "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
-    "url": "https://github.com/os6/nospeaker",
-    "points": 137,
-    "comments": 63,
+    "id": "hn-50622854",
+    "title": "Declare is a UI language for you and your AI",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "points": 89,
+    "comments": 64,
     "source": "Hacker News",
-    "published_date": "2026-11-23T11:31:54Z"
+    "published_date": "2026-11-24T02:36:56Z"
   },
   {
-    "id": "hn-50602847",
-    "title": "Canada recommits to federal funding for news",
-    "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-    "points": 123,
-    "comments": 131,
+    "id": "hn-50618513",
+    "title": "Claude Ship",
+    "url": "https://claude.com/resources/articles/introducing-claude-ship",
+    "points": 77,
+    "comments": 28,
     "source": "Hacker News",
-    "published_date": "2026-11-22T19:10:38Z"
+    "published_date": "2026-11-23T20:14:18Z"
   },
   {
-    "id": "hn-50609079",
-    "title": "GTA 6 building personal behavioral profile for every player",
-    "url": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
-    "points": 105,
-    "comments": 76,
+    "id": "hn-50620328",
+    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "url": "https://arxiv.org/abs/2602.20031",
+    "points": 69,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-11-23T08:51:50Z"
+    "published_date": "2026-11-23T22:29:48Z"
   },
   {
-    "id": "hn-50609252",
-    "title": "Enjoy this guy getting bricked over the detail of towers in GTA6",
-    "url": "https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v",
-    "points": 81,
-    "comments": 30,
+    "id": "hn-50625888",
+    "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+    "points": 68,
+    "comments": 31,
     "source": "Hacker News",
-    "published_date": "2026-11-23T09:15:09Z"
+    "published_date": "2026-11-24T09:39:50Z"
   },
   {
-    "id": "hn-50602153",
-    "title": "Harvard CS 2881R AI Safety",
-    "url": "https://boazbk.github.io/mltheoryseminar/",
-    "points": 75,
-    "comments": 8,
+    "id": "hn-50627783",
+    "title": "GTA 6 Running on Windows",
+    "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+    "points": 65,
+    "comments": 74,
     "source": "Hacker News",
-    "published_date": "2026-11-22T18:01:54Z"
+    "published_date": "2026-11-24T13:19:31Z"
   },
   {
-    "id": "hn-50605445",
-    "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
-    "url": "https://0rwx.com/",
-    "points": 67,
-    "comments": 17,
+    "id": "hn-50615520",
+    "title": "How should an LLM see a computer?",
+    "url": "https://www.greptile.com/blog/trex-computer-use",
+    "points": 57,
+    "comments": 25,
     "source": "Hacker News",
-    "published_date": "2026-11-22T23:53:00Z"
+    "published_date": "2026-11-23T17:19:25Z"
   },
   {
-    "id": "hn-50610830",
-    "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-    "points": 64,
-    "comments": 73,
+    "id": "hn-50630309",
+    "title": "Tidal Bans AI-Generated Music",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "points": 56,
+    "comments": 29,
     "source": "Hacker News",
-    "published_date": "2026-11-23T12:41:14Z"
+    "published_date": "2026-11-24T16:12:38Z"
   },
   {
-    "id": "hn-50603730",
-    "title": "AWS got hit by an outage too. You didn't hear about it",
-    "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-    "points": 62,
-    "comments": 5,
+    "id": "hn-50618834",
+    "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
+    "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
+    "points": 29,
+    "comments": 4,
     "source": "Hacker News",
-    "published_date": "2026-11-22T20:50:18Z"
+    "published_date": "2026-11-23T20:33:07Z"
   },
   {
-    "id": "hn-50604959",
-    "title": "Do Not Accept",
-    "url": "https://donotaccept.ai/",
-    "points": 53,
-    "comments": 57,
+    "id": "hn-50619973",
+    "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "points": 25,
+    "comments": 19,
     "source": "Hacker News",
-    "published_date": "2026-11-22T23:02:20Z"
+    "published_date": "2026-11-23T21:56:44Z"
   },
   {
-    "id": "hn-50608662",
-    "title": "GLM 5.4",
-    "url": "https://twitter.com/Zai_org/status/2124719658074825004",
-    "points": 51,
-    "comments": 11,
+    "id": "hn-50616177",
+    "title": "Chicago FAA Ground stop due to staffing",
+    "url": "https://www.nbcchicago.com/news/local/ground-stop-issued-at-ohare-airport-due-to-staffing-at-start-of-busy-holiday-week/4020413/",
+    "points": 23,
+    "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-23T07:48:45Z"
+    "published_date": "2026-11-23T17:59:37Z"
   },
   {
-    "id": "hn-50612686",
-    "title": "GTA 6 Xbox executable released early by cyberleek",
-    "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
-    "points": 33,
+    "id": "hn-50622809",
+    "title": "Coworker rejects PR (one month in) because it does not meet his standards",
+    "url": "https://news.ycombinator.com/item?id=50622809",
+    "points": 18,
+    "comments": 32,
+    "source": "Hacker News",
+    "published_date": "2026-11-24T02:31:21Z"
+  },
+  {
+    "id": "hn-50624550",
+    "title": "The Frantic White House Push to Get Jensen Huang Back",
+    "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
+    "points": 15,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-24T06:39:56Z"
+  },
+  {
+    "id": "hn-50620528",
+    "title": "US to blacklist Asian AI firm Megaspeed",
+    "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+    "points": 14,
     "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-11-23T14:49:44Z"
+    "published_date": "2026-11-23T22:48:25Z"
   },
   {
-    "id": "hn-50607775",
-    "title": "GLM-5.4 is now available to all GLM Coding Plan users",
-    "url": "https://twitter.com/ZixuanLi_/status/2124719275864670681",
-    "points": 32,
-    "comments": 12,
+    "id": "hn-50623038",
+    "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
+    "url": "https://firevoice.fabwaseem.com",
+    "points": 14,
+    "comments": 3,
     "source": "Hacker News",
-    "published_date": "2026-11-23T05:21:54Z"
-  },
-  {
-    "id": "hn-50603219",
-    "title": "What Happened in Fall 2026: AI and P vs. NP",
-    "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
-    "points": 29,
-    "comments": 5,
-    "source": "Hacker News",
-    "published_date": "2026-11-22T19:50:36Z"
-  },
-  {
-    "id": "hn-50614037",
-    "title": "Buckle Up the AI Bubble Is Popping",
-    "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
-    "points": 19,
-    "comments": 42,
-    "source": "Hacker News",
-    "published_date": "2026-11-23T16:01:20Z"
+    "published_date": "2026-11-24T02:58:20Z"
   }
 ]
