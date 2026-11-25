@@ -1077,6 +1077,107 @@
     "image": null
   },
   {
+    "id": "rss-45abf29e",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Nov 2026 15:41:43 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-0cb60670",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Nov 2026 14:10:18 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4efa556b",
+    "title": "The Download: AI swamping open records, and firefighting for permafrost",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors&#8217; interest in public records.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Nov 2026 13:10:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-4621f767",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Nov 2026 13:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-7b1bdc5d",
+    "title": "An Indic Voice Agent with CUGA",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-20ed3c7d",
+    "title": "AI is straining America\u2019s open records systems",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town\u2019s zoning supervisor and presiding elections officer.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Nov 2026 10:00:00 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-d7c3fae0",
+    "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the...",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Policy",
+    "published_date": "Wed, 25 Nov 2026 00:12:02 +0000",
+    "image": null
+  },
+  {
     "id": "rss-99987d70",
     "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
     "summary": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
@@ -4249,107 +4350,6 @@
     ],
     "category": "AI Tools",
     "published_date": "Wed, 13 May 2026 21:45:09 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-29058bb3",
-    "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Wed, 13 May 2026 19:49:42 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-b5a23609",
-    "title": "Anthropic\u2019s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 13 May 2026 19:28:06 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-110d107a",
-    "title": "AI chatbots are giving out people\u2019s real phone numbers",
-    "summary": "People report that their personal contact info was surfaced by Google AI\u2014and there\u2019s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawy...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "tags": [],
-    "category": "AI Policy",
-    "published_date": "Wed, 13 May 2026 18:09:03 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-7643edf2",
-    "title": "The Download: making drugs in orbit and NASA\u2019s nuclear-powered spacecraft",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 13 May 2026 12:10:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-49a108cb",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "tags": [
-      "agents",
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 13 May 2026 11:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-ff9141df",
-    "title": "A plan to make drugs in orbit is going commercial",
-    "summary": "Varda Space Industries, a startup that\u2019s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
-    "tags": [
-      "startups"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 13 May 2026 10:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-64b64965",
-    "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
-    "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Startups",
-    "published_date": "Wed, 13 May 2026 00:26:48 +0000",
     "image": null
   }
 ]
