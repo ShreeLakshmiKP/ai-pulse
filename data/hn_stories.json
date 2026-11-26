@@ -1,182 +1,173 @@
 [
   {
-    "id": "hn-50637220",
-    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "points": 861,
-    "comments": 473,
+    "id": "hn-50647673",
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "points": 516,
+    "comments": 435,
     "source": "Hacker News",
-    "published_date": "2026-11-25T01:19:26Z"
+    "published_date": "2026-11-25T21:18:02Z"
   },
   {
-    "id": "hn-50630809",
-    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "url": "https://news.ycombinator.com/item?id=50630809",
-    "points": 408,
-    "comments": 314,
+    "id": "hn-50648050",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean",
+    "points": 506,
+    "comments": 318,
     "source": "Hacker News",
-    "published_date": "2026-11-24T16:45:44Z"
+    "published_date": "2026-11-25T21:48:10Z"
   },
   {
-    "id": "hn-50637890",
-    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-    "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "points": 355,
-    "comments": 126,
+    "id": "hn-50651117",
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "points": 400,
+    "comments": 222,
     "source": "Hacker News",
-    "published_date": "2026-11-25T03:04:37Z"
+    "published_date": "2026-11-26T03:36:58Z"
   },
   {
-    "id": "hn-50637056",
-    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "points": 350,
-    "comments": 63,
+    "id": "hn-50653667",
+    "title": "Intel One Mono font",
+    "url": "https://github.com/intel/intel-one-mono",
+    "points": 285,
+    "comments": 171,
     "source": "Hacker News",
-    "published_date": "2026-11-25T00:54:49Z"
+    "published_date": "2026-11-26T10:11:01Z"
   },
   {
-    "id": "hn-50634658",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "points": 325,
-    "comments": 92,
+    "id": "hn-50650892",
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "url": "https://progrium.github.io/minipg/",
+    "points": 218,
+    "comments": 33,
     "source": "Hacker News",
-    "published_date": "2026-11-24T21:02:22Z"
+    "published_date": "2026-11-26T03:00:48Z"
   },
   {
-    "id": "hn-50638320",
-    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-    "points": 202,
-    "comments": 157,
+    "id": "hn-50648365",
+    "title": "Bare Metal Qwen",
+    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "points": 207,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-11-25T04:03:33Z"
+    "published_date": "2026-11-25T22:15:34Z"
   },
   {
-    "id": "hn-50638220",
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "points": 192,
-    "comments": 78,
+    "id": "hn-50644980",
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "points": 171,
+    "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-11-25T03:47:42Z"
+    "published_date": "2026-11-25T17:34:34Z"
   },
   {
-    "id": "hn-50638070",
-    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-    "points": 120,
-    "comments": 18,
+    "id": "hn-50652184",
+    "title": "Moat: Your OpenRouter Replacement",
+    "url": "https://commandcode.ai/moat",
+    "points": 150,
+    "comments": 97,
     "source": "Hacker News",
-    "published_date": "2026-11-25T03:28:06Z"
+    "published_date": "2026-11-26T06:32:48Z"
   },
   {
-    "id": "hn-50634426",
-    "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
-    "url": "https://news.ycombinator.com/item?id=50634426",
-    "points": 98,
-    "comments": 91,
+    "id": "hn-50653477",
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "points": 91,
+    "comments": 103,
     "source": "Hacker News",
-    "published_date": "2026-11-24T20:44:15Z"
+    "published_date": "2026-11-26T09:44:23Z"
   },
   {
-    "id": "hn-50637871",
-    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "url": "https://www.proofatlas.ai/open-problems/",
-    "points": 89,
-    "comments": 48,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T03:01:36Z"
-  },
-  {
-    "id": "hn-50634734",
-    "title": "Working with AI",
-    "url": "https://www.anthropic.com/research/working-with-ai",
-    "points": 79,
-    "comments": 72,
-    "source": "Hacker News",
-    "published_date": "2026-11-24T21:07:38Z"
-  },
-  {
-    "id": "hn-50636286",
-    "title": "Get in, friends, the Atmosphere is happening",
-    "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
-    "points": 60,
-    "comments": 65,
-    "source": "Hacker News",
-    "published_date": "2026-11-24T23:23:35Z"
-  },
-  {
-    "id": "hn-50643720",
-    "title": "Investigating degraded experiences across GitHub products",
-    "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-    "points": 47,
-    "comments": 18,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T15:59:23Z"
-  },
-  {
-    "id": "hn-50632998",
-    "title": "Compiling web applications into verified operations for AI agents",
-    "url": "https://protocolis.co/paper/",
-    "points": 34,
+    "id": "hn-50644909",
+    "title": "New York bans AI toys, including those using internet to talk to children",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+    "points": 54,
     "comments": 13,
     "source": "Hacker News",
-    "published_date": "2026-11-24T19:12:02Z"
+    "published_date": "2026-11-25T17:27:05Z"
   },
   {
-    "id": "hn-50643199",
-    "title": "In C++, = default and {} are not the same constructor",
-    "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-    "points": 33,
-    "comments": 49,
+    "id": "hn-50651552",
+    "title": "Claude tries to sabotage research work at every stage",
+    "url": "https://twitter.com/skirano/status/2125371115979641188",
+    "points": 26,
+    "comments": 6,
     "source": "Hacker News",
-    "published_date": "2026-11-25T15:20:15Z"
+    "published_date": "2026-11-26T04:49:21Z"
   },
   {
-    "id": "hn-50635246",
-    "title": "New York Ban AI Toys for 5 Years",
-    "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-    "points": 32,
-    "comments": 3,
+    "id": "hn-50652253",
+    "title": "Proposed unificafion of quantum gravity and General relativity",
+    "url": "https://www.reddit.com/r/singularity/comments/1y5u48p/openai_and_gpt6_astra_just_tackled_physics_holy/",
+    "points": 24,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-24T21:49:50Z"
+    "published_date": "2026-11-26T06:45:00Z"
   },
   {
-    "id": "hn-50633601",
-    "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
-    "url": "https://news.ycombinator.com/item?id=50633601",
-    "points": 29,
-    "comments": 19,
+    "id": "hn-50646073",
+    "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
+    "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
+    "points": 18,
+    "comments": 7,
     "source": "Hacker News",
-    "published_date": "2026-11-24T19:51:01Z"
+    "published_date": "2026-11-25T19:08:28Z"
   },
   {
-    "id": "hn-50637995",
-    "title": "Show HN: Carry \u2013 Save every AI conversations as Markdown, in a folder you Own",
-    "url": "https://carry.md/",
-    "points": 25,
-    "comments": 15,
+    "id": "hn-50651911",
+    "title": "How can people make money as AI replaces intellectual jobs?",
+    "url": "https://news.ycombinator.com/item?id=50651911",
+    "points": 16,
+    "comments": 8,
     "source": "Hacker News",
-    "published_date": "2026-11-25T03:19:02Z"
+    "published_date": "2026-11-26T05:46:33Z"
   },
   {
-    "id": "hn-50634369",
-    "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
-    "url": "https://claude.com/resources/articles/install-as-app",
-    "points": 23,
+    "id": "hn-50652308",
+    "title": "Your glasses got worse on purpose",
+    "url": "https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose",
+    "points": 16,
     "comments": 2,
     "source": "Hacker News",
-    "published_date": "2026-11-24T20:39:15Z"
+    "published_date": "2026-11-26T06:53:41Z"
   },
   {
-    "id": "hn-50631691",
-    "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-    "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
-    "points": 22,
-    "comments": 31,
+    "id": "hn-50643767",
+    "title": "Ask HN: Where are all the amazing AI-generated software?",
+    "url": "https://news.ycombinator.com/item?id=50643767",
+    "points": 14,
+    "comments": 43,
     "source": "Hacker News",
-    "published_date": "2026-11-24T17:46:41Z"
+    "published_date": "2026-11-25T16:02:31Z"
+  },
+  {
+    "id": "hn-50645915",
+    "title": "Ask HN: Is RSA in Jeopardy?",
+    "url": "https://news.ycombinator.com/item?id=50645915",
+    "points": 13,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-11-25T18:52:28Z"
+  },
+  {
+    "id": "hn-50648668",
+    "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+    "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
+    "points": 11,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-25T22:41:09Z"
+  },
+  {
+    "id": "hn-50647893",
+    "title": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
+    "url": "https://news.ycombinator.com/item?id=50647893",
+    "points": 11,
+    "comments": 12,
+    "source": "Hacker News",
+    "published_date": "2026-11-25T21:33:52Z"
   }
 ]

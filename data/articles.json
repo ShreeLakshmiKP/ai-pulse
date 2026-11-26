@@ -1077,6 +1077,96 @@
     "image": null
   },
   {
+    "id": "rss-bf17d49e",
+    "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Nov 2026 22:44:32 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-68617ed9",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "tags": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "category": "AI Models",
+    "published_date": "Wed, 25 Nov 2026 20:03:27 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-dc74c989",
+    "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+    "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "category": "AI Startups",
+    "published_date": "Wed, 25 Nov 2026 19:54:57 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-bac2d3e3",
+    "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "tags": [
+      "Anthropic"
+    ],
+    "category": "Research",
+    "published_date": "Wed, 25 Nov 2026 19:44:24 +0000",
+    "image": null
+  },
+  {
+    "id": "rss-085bba6f",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "tags": [
+      "agents"
+    ],
+    "category": "AI Tools",
+    "published_date": "Wed, 25 Nov 2026 18:52:55 GMT",
+    "image": null
+  },
+  {
+    "id": "rss-a33de435",
+    "title": "How data centers are driving a US natural-gas boom",
+    "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved right.",
+    "bullets": [],
+    "why_it_matters": "",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "tags": [],
+    "category": "Research",
+    "published_date": "Wed, 25 Nov 2026 17:00:00 +0000",
+    "image": null
+  },
+  {
     "id": "rss-45abf29e",
     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
     "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt.",
@@ -4263,93 +4353,6 @@
     ],
     "category": "AI Models",
     "published_date": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-600356bf",
-    "title": "The US military\u2019s race to make fake blood",
-    "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl...",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 14 Oct 2026 09:00:00 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-ad206bf6",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/third-moment-research",
-    "tags": [
-      "GPT",
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-f0e5b7f5",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "tags": [
-      "OpenAI"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e4c77201",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "DeepMind Blog",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "tags": [],
-    "category": "Research",
-    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "image": null
-  },
-  {
-    "id": "rss-1ea8ff42",
-    "title": "The EU\u2019s next chapter in AI is agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Models",
-    "published_date": "Wed, 14 Oct 2026 00:00:00 GMT",
-    "image": null
-  },
-  {
-    "id": "rss-e4edfbe3",
-    "title": "Notion just turned its workspace into a hub for AI agents",
-    "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-    "bullets": [],
-    "why_it_matters": "",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-    "tags": [
-      "agents"
-    ],
-    "category": "AI Tools",
-    "published_date": "Wed, 13 May 2026 21:45:09 +0000",
     "image": null
   }
 ]
