@@ -1,173 +1,182 @@
 [
   {
-    "id": "hn-50647673",
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "points": 516,
-    "comments": 435,
+    "id": "hn-50660180",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "points": 920,
+    "comments": 445,
     "source": "Hacker News",
-    "published_date": "2026-11-25T21:18:02Z"
+    "published_date": "2026-11-26T21:47:45Z"
   },
   {
-    "id": "hn-50648050",
-    "title": "Much shorter version of GRH Lean verification from Anthropic",
-    "url": "https://github.com/lsernau/grh-lean",
+    "id": "hn-50663595",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
     "points": 506,
-    "comments": 318,
+    "comments": 221,
     "source": "Hacker News",
-    "published_date": "2026-11-25T21:48:10Z"
+    "published_date": "2026-11-27T06:44:34Z"
   },
   {
-    "id": "hn-50651117",
-    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-    "points": 400,
-    "comments": 222,
+    "id": "hn-50661646",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "points": 476,
+    "comments": 414,
     "source": "Hacker News",
-    "published_date": "2026-11-26T03:36:58Z"
+    "published_date": "2026-11-27T01:13:49Z"
   },
   {
-    "id": "hn-50653667",
-    "title": "Intel One Mono font",
-    "url": "https://github.com/intel/intel-one-mono",
-    "points": 285,
-    "comments": 171,
+    "id": "hn-50659841",
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "points": 460,
+    "comments": 116,
     "source": "Hacker News",
-    "published_date": "2026-11-26T10:11:01Z"
+    "published_date": "2026-11-26T21:08:05Z"
   },
   {
-    "id": "hn-50650892",
-    "title": "Minipg: PostgreSQL as a Single Executable",
-    "url": "https://progrium.github.io/minipg/",
-    "points": 218,
-    "comments": 33,
+    "id": "hn-50657265",
+    "title": "AMD-specific fork of llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "points": 411,
+    "comments": 100,
     "source": "Hacker News",
-    "published_date": "2026-11-26T03:00:48Z"
+    "published_date": "2026-11-26T17:11:29Z"
   },
   {
-    "id": "hn-50648365",
-    "title": "Bare Metal Qwen",
-    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-    "points": 207,
+    "id": "hn-50657307",
+    "title": "Tracking Diseases Cured by AI",
+    "url": "https://diseasescuredbyai.com/",
+    "points": 314,
+    "comments": 190,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T17:16:41Z"
+  },
+  {
+    "id": "hn-50664325",
+    "title": "Claude sabotaging ML research tasks?",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "points": 195,
+    "comments": 111,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T08:28:08Z"
+  },
+  {
+    "id": "hn-50666375",
+    "title": "US Air Force's cloud computing platform hacked",
+    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "points": 126,
+    "comments": 67,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T12:54:11Z"
+  },
+  {
+    "id": "hn-50658498",
+    "title": "An introduction to uncertainty in machine learning",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "points": 121,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T19:04:50Z"
+  },
+  {
+    "id": "hn-50662933",
+    "title": "\"What's Claude's Fursona?\" and Other Questions",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "points": 103,
+    "comments": 80,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T04:56:18Z"
+  },
+  {
+    "id": "hn-50666279",
+    "title": "New York and California age gating rules go into effect in the new year",
+    "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "points": 81,
+    "comments": 82,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T12:43:40Z"
+  },
+  {
+    "id": "hn-50656763",
+    "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+    "url": "https://news.ycombinator.com/item?id=50656763",
+    "points": 78,
+    "comments": 38,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T16:16:41Z"
+  },
+  {
+    "id": "hn-50665488",
+    "title": "AI on brink of making online security useless, mathematicians fear",
+    "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+    "points": 66,
+    "comments": 74,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T11:09:04Z"
+  },
+  {
+    "id": "hn-50658093",
+    "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+    "points": 57,
+    "comments": 22,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T18:28:30Z"
+  },
+  {
+    "id": "hn-50661218",
+    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "points": 56,
+    "comments": 28,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T00:03:18Z"
+  },
+  {
+    "id": "hn-50657070",
+    "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
+    "url": "https://github.com/rxliuli/sim-drop",
+    "points": 51,
+    "comments": 10,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T16:51:38Z"
+  },
+  {
+    "id": "hn-50658910",
+    "title": "Top-cited AI scientists at four US companies compared",
+    "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+    "points": 43,
+    "comments": 23,
+    "source": "Hacker News",
+    "published_date": "2026-11-26T19:44:31Z"
+  },
+  {
+    "id": "hn-50657452",
+    "title": "'AI' might be the end of our careers",
+    "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+    "points": 36,
     "comments": 45,
     "source": "Hacker News",
-    "published_date": "2026-11-25T22:15:34Z"
+    "published_date": "2026-11-26T17:29:28Z"
   },
   {
-    "id": "hn-50644980",
-    "title": "The polynomial Hirsch conjecture is false [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-    "points": 171,
-    "comments": 45,
+    "id": "hn-50662153",
+    "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+    "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+    "points": 34,
+    "comments": 21,
     "source": "Hacker News",
-    "published_date": "2026-11-25T17:34:34Z"
+    "published_date": "2026-11-27T02:44:12Z"
   },
   {
-    "id": "hn-50652184",
-    "title": "Moat: Your OpenRouter Replacement",
-    "url": "https://commandcode.ai/moat",
-    "points": 150,
-    "comments": 97,
+    "id": "hn-50667726",
+    "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "points": 34,
+    "comments": 24,
     "source": "Hacker News",
-    "published_date": "2026-11-26T06:32:48Z"
-  },
-  {
-    "id": "hn-50653477",
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "points": 91,
-    "comments": 103,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T09:44:23Z"
-  },
-  {
-    "id": "hn-50644909",
-    "title": "New York bans AI toys, including those using internet to talk to children",
-    "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-    "points": 54,
-    "comments": 13,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T17:27:05Z"
-  },
-  {
-    "id": "hn-50651552",
-    "title": "Claude tries to sabotage research work at every stage",
-    "url": "https://twitter.com/skirano/status/2125371115979641188",
-    "points": 26,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T04:49:21Z"
-  },
-  {
-    "id": "hn-50652253",
-    "title": "Proposed unificafion of quantum gravity and General relativity",
-    "url": "https://www.reddit.com/r/singularity/comments/1y5u48p/openai_and_gpt6_astra_just_tackled_physics_holy/",
-    "points": 24,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T06:45:00Z"
-  },
-  {
-    "id": "hn-50646073",
-    "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
-    "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
-    "points": 18,
-    "comments": 7,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T19:08:28Z"
-  },
-  {
-    "id": "hn-50651911",
-    "title": "How can people make money as AI replaces intellectual jobs?",
-    "url": "https://news.ycombinator.com/item?id=50651911",
-    "points": 16,
-    "comments": 8,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T05:46:33Z"
-  },
-  {
-    "id": "hn-50652308",
-    "title": "Your glasses got worse on purpose",
-    "url": "https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose",
-    "points": 16,
-    "comments": 2,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T06:53:41Z"
-  },
-  {
-    "id": "hn-50643767",
-    "title": "Ask HN: Where are all the amazing AI-generated software?",
-    "url": "https://news.ycombinator.com/item?id=50643767",
-    "points": 14,
-    "comments": 43,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T16:02:31Z"
-  },
-  {
-    "id": "hn-50645915",
-    "title": "Ask HN: Is RSA in Jeopardy?",
-    "url": "https://news.ycombinator.com/item?id=50645915",
-    "points": 13,
-    "comments": 6,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T18:52:28Z"
-  },
-  {
-    "id": "hn-50648668",
-    "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
-    "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
-    "points": 11,
-    "comments": 1,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T22:41:09Z"
-  },
-  {
-    "id": "hn-50647893",
-    "title": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
-    "url": "https://news.ycombinator.com/item?id=50647893",
-    "points": 11,
-    "comments": 12,
-    "source": "Hacker News",
-    "published_date": "2026-11-25T21:33:52Z"
+    "published_date": "2026-11-27T15:01:50Z"
   }
 ]
