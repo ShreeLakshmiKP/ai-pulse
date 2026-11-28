@@ -1,182 +1,182 @@
 [
   {
-    "id": "hn-50660180",
-    "title": "AI made self-hosting fun again",
-    "url": "https://janlukas.blog/posts/ai-self-hosting",
-    "points": 920,
-    "comments": 445,
+    "id": "hn-50676672",
+    "title": "Farewell",
+    "url": "https://github.com/p-e-w/heretic/issues/601",
+    "points": 456,
+    "comments": 183,
     "source": "Hacker News",
-    "published_date": "2026-11-26T21:47:45Z"
-  },
-  {
-    "id": "hn-50663595",
-    "title": "The group chat where your AI talks behind your back",
-    "url": "https://construct22.com/",
-    "points": 506,
-    "comments": 221,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T06:44:34Z"
-  },
-  {
-    "id": "hn-50661646",
-    "title": "Hard Drive pricing has gotten bad",
-    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-    "points": 476,
-    "comments": 414,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T01:13:49Z"
-  },
-  {
-    "id": "hn-50659841",
-    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "points": 460,
-    "comments": 116,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T21:08:05Z"
-  },
-  {
-    "id": "hn-50657265",
-    "title": "AMD-specific fork of llama.cpp",
-    "url": "https://devnull.land/amd-specific-llama-cpp",
-    "points": 411,
-    "comments": 100,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T17:11:29Z"
-  },
-  {
-    "id": "hn-50657307",
-    "title": "Tracking Diseases Cured by AI",
-    "url": "https://diseasescuredbyai.com/",
-    "points": 314,
-    "comments": 190,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T17:16:41Z"
-  },
-  {
-    "id": "hn-50664325",
-    "title": "Claude sabotaging ML research tasks?",
-    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-    "points": 195,
-    "comments": 111,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T08:28:08Z"
-  },
-  {
-    "id": "hn-50666375",
-    "title": "US Air Force's cloud computing platform hacked",
-    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-    "points": 126,
-    "comments": 67,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T12:54:11Z"
-  },
-  {
-    "id": "hn-50658498",
-    "title": "An introduction to uncertainty in machine learning",
-    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "points": 121,
-    "comments": 11,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T19:04:50Z"
-  },
-  {
-    "id": "hn-50662933",
-    "title": "\"What's Claude's Fursona?\" and Other Questions",
-    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-    "points": 103,
-    "comments": 80,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T04:56:18Z"
-  },
-  {
-    "id": "hn-50666279",
-    "title": "New York and California age gating rules go into effect in the new year",
-    "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-    "points": 81,
-    "comments": 82,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T12:43:40Z"
-  },
-  {
-    "id": "hn-50656763",
-    "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-    "url": "https://news.ycombinator.com/item?id=50656763",
-    "points": 78,
-    "comments": 38,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T16:16:41Z"
-  },
-  {
-    "id": "hn-50665488",
-    "title": "AI on brink of making online security useless, mathematicians fear",
-    "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-    "points": 66,
-    "comments": 74,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T11:09:04Z"
-  },
-  {
-    "id": "hn-50658093",
-    "title": "Notion's official MCP inject hidden upsell instructions into agent context",
-    "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
-    "points": 57,
-    "comments": 22,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T18:28:30Z"
-  },
-  {
-    "id": "hn-50661218",
-    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-    "points": 56,
-    "comments": 28,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T00:03:18Z"
-  },
-  {
-    "id": "hn-50657070",
-    "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
-    "url": "https://github.com/rxliuli/sim-drop",
-    "points": 51,
-    "comments": 10,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T16:51:38Z"
-  },
-  {
-    "id": "hn-50658910",
-    "title": "Top-cited AI scientists at four US companies compared",
-    "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-    "points": 43,
-    "comments": 23,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T19:44:31Z"
-  },
-  {
-    "id": "hn-50657452",
-    "title": "'AI' might be the end of our careers",
-    "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-    "points": 36,
-    "comments": 45,
-    "source": "Hacker News",
-    "published_date": "2026-11-26T17:29:28Z"
-  },
-  {
-    "id": "hn-50662153",
-    "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
-    "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-    "points": 34,
-    "comments": 21,
-    "source": "Hacker News",
-    "published_date": "2026-11-27T02:44:12Z"
+    "published_date": "2026-11-28T11:42:26Z"
   },
   {
     "id": "hn-50667726",
     "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
     "url": "https://bouncemarket.minhanhday.com/",
-    "points": 34,
-    "comments": 24,
+    "points": 395,
+    "comments": 133,
     "source": "Hacker News",
     "published_date": "2026-11-27T15:01:50Z"
+  },
+  {
+    "id": "hn-50669765",
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "url": "https://github.com/convex/convex-backend-skill/issues/64",
+    "points": 338,
+    "comments": 115,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T18:02:45Z"
+  },
+  {
+    "id": "hn-50669561",
+    "title": "I'm Scared of AI",
+    "url": "https://thesoapbox.email/archive/3",
+    "points": 216,
+    "comments": 248,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T17:45:31Z"
+  },
+  {
+    "id": "hn-50676390",
+    "title": "Claude Code sabotage: preliminary benchmarking",
+    "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+    "points": 203,
+    "comments": 68,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T10:37:40Z"
+  },
+  {
+    "id": "hn-50673521",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "points": 197,
+    "comments": 151,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T01:32:56Z"
+  },
+  {
+    "id": "hn-50667744",
+    "title": "GPT 6.2 Astra solves a historical mystery",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "points": 167,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T15:03:17Z"
+  },
+  {
+    "id": "hn-50669673",
+    "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+    "url": "https://dragdropmath.com/",
+    "points": 159,
+    "comments": 44,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T17:56:28Z"
+  },
+  {
+    "id": "hn-50671275",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "url": "https://github.com/skeeto/prospero",
+    "points": 83,
+    "comments": 36,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T20:23:14Z"
+  },
+  {
+    "id": "hn-50670443",
+    "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+    "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+    "points": 58,
+    "comments": 15,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T18:59:55Z"
+  },
+  {
+    "id": "hn-50676752",
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+    "points": 55,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T11:57:04Z"
+  },
+  {
+    "id": "hn-50677091",
+    "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+    "url": "https://scriptor-pro.github.io/luciole-mono/",
+    "points": 49,
+    "comments": 24,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T12:50:15Z"
+  },
+  {
+    "id": "hn-50671559",
+    "title": "Banks look to dump AI debt",
+    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+    "points": 38,
+    "comments": 6,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T20:56:17Z"
+  },
+  {
+    "id": "hn-50674489",
+    "title": "Claude silently added rules to ignore users skintone preferences in our app",
+    "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+    "points": 37,
+    "comments": 18,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T03:55:15Z"
+  },
+  {
+    "id": "hn-50669684",
+    "title": "Synthetic fuel from sunlight, water and air",
+    "url": "https://blog.terraformindustries.com/2026/11/24/terraform-industries-activates-muroc-desert-test-site/",
+    "points": 29,
+    "comments": 13,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T17:57:29Z"
+  },
+  {
+    "id": "hn-50671320",
+    "title": "Spitting in the Face of Glaude",
+    "url": "https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude",
+    "points": 28,
+    "comments": 1,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T20:27:21Z"
+  },
+  {
+    "id": "hn-50673018",
+    "title": "Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab",
+    "url": "https://tesseracted.com/experiments-llm-os/",
+    "points": 27,
+    "comments": 9,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T00:16:59Z"
+  },
+  {
+    "id": "hn-50675069",
+    "title": "Google adding official Google AI plan support to Pi coding agent",
+    "url": "https://github.com/earendil-works/pi/pull/12614",
+    "points": 26,
+    "comments": 5,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T05:42:49Z"
+  },
+  {
+    "id": "hn-50667664",
+    "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+    "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+    "points": 23,
+    "comments": 11,
+    "source": "Hacker News",
+    "published_date": "2026-11-27T14:55:57Z"
+  },
+  {
+    "id": "hn-50675303",
+    "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+    "points": 23,
+    "comments": 0,
+    "source": "Hacker News",
+    "published_date": "2026-11-28T06:43:19Z"
   }
 ]
